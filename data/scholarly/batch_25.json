@@ -1,0 +1,839 @@
+{
+  "batch": 25,
+  "count": 20,
+  "entries": [
+    {
+      "id": 521,
+      "question": "Who makes people blind?",
+      "category": "Jesus & the Gospels",
+      "contradiction_type": "theological",
+      "testament_scope": "OT_vs_NT",
+      "books_in_tension": "Exodus, Mark, John",
+      "summary": "Exodus 4:11 has Yahweh personally claim authorship over blindness, deafness, and muteness — they are direct acts of God. Mark 9:17-25, by contrast, treats deafness and muteness as the work of a foul spirit that Jesus exorcises, and John 9:1-3 treats congenital blindness as a setup for a divine demonstration rather than a curse to be undone. The Hebrew Bible's strict monotheistic etiology of disability collides with the Synoptic demonology that develops in the Second Temple period.",
+      "commentary": "Here's the thing — Exodus 4:11 is unambiguous. Yahweh is asserting sole agency over sensory disability as part of his self-justification to Moses. The verb is qal active: \"Who makes (sam) a person mute, or deaf, or seeing, or blind? Is it not I, Yahweh?\" There's no demonic intermediary in the picture. The text reflects what John Collins calls the radically monistic theology of the priestly and Deuteronomistic traditions — Yahweh is the sole causal agent for both prosperity and calamity (cf. Isaiah 45:7, Amos 3:6).\n\nBy the time you get to Mark, the entire causal universe has been repopulated. Mark 9:25 explicitly names the spirit \"deaf and dumb\" (to alalon kai kophon pneuma) and commands it to leave — the disability is the spirit. This is straight Second Temple demonology, the kind you find in 1 Enoch, Jubilees, and the Qumran exorcism fragments. The apologist move here is to say these are separate cases — God causes some disabilities, demons cause others, and there's no contradiction. The apologist playbook, page one. The problem is that Exodus 4:11 is framed as a universal etiological claim, not a case-by-case attribution. Yahweh isn't saying \"I make some blind people\" — he's making a sweeping claim of authorship to ground Moses' commission.\n\nThe John 9:1-3 passage adds a third theological layer: blindness as a setup for divine theater. Raymond Brown notes that John pointedly rejects both Deuteronomic retributive justice (this man didn't sin, his parents didn't sin) and the Synoptic demonological frame — instead, blindness exists \"so that the works of God might be revealed in him.\" That's a third etiology, not a harmonization. Three different theological universes, three different causal agents.",
+      "scholarship": "Collins, John J. *Introduction to the Hebrew Bible*, 3rd ed. Minneapolis: Fortress, 2018, pp. 119-122 (on Exodus theology and divine sole agency).\n\nPropp, William H. C. *Exodus 1-18*. Anchor Bible 2. New York: Doubleday, 1999, pp. 213-215 (on Exod 4:11 and divine authorship of disability).\n\nMarcus, Joel. *Mark 8-16*. Anchor Yale Bible 27A. New Haven: Yale University Press, 2009, pp. 652-661 (on the deaf-and-dumb spirit in Mark 9 and Second Temple demonology).\n\nBrown, Raymond E. *The Gospel According to John I-XII*. Anchor Bible 29. New York: Doubleday, 1966, pp. 371-376 (on John 9 and its rejection of retributive etiology).\n\nWright, Archie T. *The Origin of Evil Spirits: The Reception of Genesis 6:1-4 in Early Jewish Literature*. WUNT 2/198. Tübingen: Mohr Siebeck, 2005 (on the emergence of demonic causation in Second Temple Judaism).",
+      "answers": [
+        {
+          "answer": "God.",
+          "answer_explanation": "Blind and deaf people were purposely made by God.\n\t\t\t\t  \n\t\t\t\t      Who maketh the dumb, or deaf, or the seeing, or the blind? have not I the LORD? \n\t\t\t\t        Exodus 4:11\n\n\t\t\t\t        \n\t\t\t\t       Some were made blind so that Jesus could show off by healing them. \n\t\t\t\t        \n\t\t\t\t        And as Jesus passed by, he saw a man which was blind from his birth. And his disciples asked him, saying, Master, \n\t\t\t\t        who did sin, this man, or his parents, that he was born blind? Jesus answered, Neither hath this man sinned, nor his \n\t\t\t\t        parents: but that the works of God should be made manifest in him. \n\t\t\t\t        John 9:1-3",
+          "references": [
+            "Exodus 4:11",
+            "John 9:1-3"
+          ]
+        },
+        {
+          "answer": "Foul spirits.",
+          "answer_explanation": "People are made blind and deaf by evil spirits.\n\t\t\t\t   \n\t\t\t\t     \n\t\t\t\t        And one of the multitude answered and said, Master, I have brought unto\n\t\t\t\t    thee my son, which hath a dumb spirit. Jesus ... rebuked the foul spirit, saying\n\t\t\t\t    unto him, Thou dumb and deaf spirit, I charge thee, come out of him,\n\t\t\t\t    and enter no more into him. Mark 9:17, 25",
+          "references": [
+            "Mark 9:17, 25"
+          ]
+        }
+      ],
+      "assessment": {
+        "scholarly_consensus": "apparent_only",
+        "textual_variant_involved": false,
+        "variant_description": "",
+        "critical_apparatus_ref": "",
+        "reasoning": "Critical scholarship recognizes distinct etiologies of disability across OT monism and NT demonology, but these texts address different cases/registers rather than asserting a single mutually-exclusive cause; the 'contradiction' depends on reading Exod 4:11 as an exhaustive denial of any other agent, which is a forced reading."
+      },
+      "_audit": {
+        "status": "clean",
+        "issues": [],
+        "pass": 1,
+        "final": "clean"
+      }
+    },
+    {
+      "id": 522,
+      "question": "How did Jesus cure the blind man?",
+      "category": "Jesus & the Gospels",
+      "contradiction_type": "compositional",
+      "testament_scope": "NT_internal",
+      "books_in_tension": "Mark, John",
+      "summary": "Mark 8:22-25 has Jesus heal a blind man at Bethsaida by spitting directly on his eyes and laying hands on him — twice, because the first attempt only half-worked. John 9:1-7 has Jesus heal a blind man in Jerusalem by spitting on the ground, mixing clay, anointing the man's eyes, and sending him to wash in the Pool of Siloam. Different cities, different methods, different timeline, and a different number of steps. Apologists treat them as separate events; the literary parallels suggest John has reworked the Markan tradition into something more dignified.",
+      "commentary": "At face value these are two different healings — different settings, different protagonists, different outcomes. Apologists like Craig Blomberg lean on this hard: no contradiction because no overlap. Fair enough as a first pass. But here's where it falls apart under scrutiny. The Mark 8 healing is the one synoptic miracle that John 9 is most plausibly transforming. Joel Marcus and Raymond Brown both note the structural parallels: spittle, hands, a two-stage process, a confession of sight. Mark's version is also the one healing the other synoptics conspicuously drop — Matthew and Luke both omit Mark 8:22-26, almost certainly because the two-stage failure and the saliva are theologically awkward. Jesus needing a second try is not a good look.\n\nThe parsimonious reading is that John 9 represents a Johannine reworking of the same tradition that produced Mark 8 — saliva is kept (it was too embedded to drop), but the messy two-stage healing is replaced with a single competent act mediated through the Pool of Siloam, which John then helpfully glosses as \"Sent\" (apestalmenos) — a symbol for Jesus himself. The apologist response — these are simply distinct miracles — has to explain why Jesus used the unusual saliva-and-mud technique twice, in two different cities, with no other healing in the Gospels resembling it. That's not impossible. It's just less parsimonious than the redactional explanation.\n\nEven if you grant the two-event harmonization, the contradiction the SAB is pointing at is still there at the level of method: the Mark version cures by direct spittle on eyes, John cures by mud-paste and a pool washing. Same question — how does Jesus heal blindness? — and two non-overlapping answers. That is of course only a contradiction if you assume one consistent method, which the text never claims.",
+      "scholarship": "Marcus, Joel. *Mark 8-16*. Anchor Yale Bible 27A. New Haven: Yale University Press, 2009, pp. 590-598 (on Mark 8:22-26 and parallels to John 9).\n\nBrown, Raymond E. *The Gospel According to John I-XII*. Anchor Bible 29. New York: Doubleday, 1966, pp. 369-382 (on John 9 and its possible Markan source).\n\nMeier, John P. *A Marginal Jew: Rethinking the Historical Jesus*, Vol. 2. New York: Doubleday, 1994, pp. 690-694 (on the saliva-healing traditions).\n\nBlomberg, Craig L. *The Historical Reliability of the Gospels*, 2nd ed. Downers Grove: IVP Academic, 2007, pp. 198-202 (on the two-events apologetic position).",
+      "answers": [
+        {
+          "answer": "By spitting on his eyes.",
+          "answer_explanation": "And he cometh to Bethsaida; and they bring a blind man unto him, and besought him to touch him. \n\t\t\t\t        And he took the blind man by the hand, and led him out of the town; and when he had spit on his eyes, and put his hands upon him, \n\t\t\t\t        he asked him if he saw ought. And he looked up, and said, I see men as trees, walking. \n\t\t\t\t        After that he put his hands again upon his eyes, and made him look up: and he was restored,\n\t\t\t\t         and saw every man clearly. Mark 8:22-25",
+          "references": [
+            "Mark 8:22-25"
+          ]
+        },
+        {
+          "answer": "By spitting on the ground, wiping the muddy spit on his eyes, and then washing it off.",
+          "answer_explanation": "And as Jesus passed by, he saw a man which was blind from his birth. ... When he had thus spoken, he spat on \n\t\t\t\t        the ground, and made clay of the spittle, and he anointed the eyes of the blind man with the clay, And said unto him, Go, wash in the \n\t\t\t\t        pool of Siloam, (which is by interpretation, Sent.) He went his way therefore, and washed, \n\t\t\t\t        and came seeing. John 9:1-6",
+          "references": [
+            "John 9:1-6"
+          ]
+        }
+      ],
+      "assessment": {
+        "scholarly_consensus": "genuinely_disputed",
+        "textual_variant_involved": false,
+        "variant_description": "",
+        "critical_apparatus_ref": "",
+        "reasoning": "Many critics view John 9 as a Johannine reworking of the Markan healing tradition, but whether the two passages constitute a genuine contradiction (rather than distinct/variant traditions) is itself debated, and the entry concedes it is only a contradiction if one assumes a single consistent method."
+      },
+      "_audit": {
+        "status": "clean",
+        "issues": [],
+        "pass": 1,
+        "final": "clean"
+      }
+    },
+    {
+      "id": 523,
+      "question": "Is it possible to fall from grace?",
+      "category": "Salvation, Sin & Afterlife",
+      "contradiction_type": "theological",
+      "testament_scope": "NT_internal",
+      "books_in_tension": "John, Romans, Galatians, Hebrews, 2 Peter",
+      "summary": "Galatians 5:4, Hebrews 6:4-6, and 2 Peter 2:20-21 all explicitly treat falling away from saving grace as possible — Hebrews even pronounces it irrevocable. John 10:28 and Romans 8:38-39 just as explicitly insist that nothing can separate believers from Christ's hand or God's love. This is the classic Reformed-vs-Arminian seam in the New Testament itself: two streams of soteriology that the canon never reconciles.",
+      "commentary": "The two New Testament streams here aren't subtle. Hebrews 6:4-6 is some of the most explicit apostasy language in the canon: those once enlightened, who tasted the heavenly gift and shared in the Holy Spirit, who then fall away — adynaton, impossible to restore them. Galatians 5:4 uses the unambiguous exepesate — \"you have fallen out of grace.\" 2 Peter 2:20-21 piles on with the line that it would have been better not to have known the way of righteousness than to know it and turn back. On the other side, John 10:28 has Jesus declaring no one can snatch his sheep from his hand, and Romans 8:38-39 stacks negation after negation: nothing in creation can separate us from God's love in Christ.\n\nThe apologist harmonization runs through two main moves. First — the Calvinist move (Schreiner, Grudem) — argue that the apostates in Hebrews and 2 Peter were never genuinely saved in the first place. They merely \"tasted\" without consuming. The problem is that the language Hebrews uses for these people (enlightened, partakers of the Holy Spirit, tasted the powers of the age to come) is precisely the language Hebrews uses elsewhere for true believers. The phrase phōtisthentas (enlightened) is technical baptismal vocabulary in early Christian usage. Second — the Arminian-leaning move (Witherington) — accept that apostasy is real and read John 10 and Romans 8 as referring to external threats, not internal defection. That's plausible for Romans 8 (the list is all external agents), but John 10:28's \"they shall never perish\" is unconditional on its face.\n\nThe parsimonious read is that the New Testament contains multiple soteriological traditions that don't fully cohere. Hebrews and 2 Peter come out of a community concerned with maintaining commitment under persecution; Johannine and Pauline assurance texts come out of communities emphasizing security in Christ. Both are real; neither is dominant. Take your pick on which to weight — the canon doesn't.",
+      "scholarship": "Attridge, Harold W. *The Epistle to the Hebrews*. Hermeneia. Philadelphia: Fortress, 1989, pp. 167-175 (on Hebrews 6:4-6 and the impossibility of restoration).\n\nMartyn, J. Louis. *Galatians*. Anchor Bible 33A. New York: Doubleday, 1997, pp. 470-474 (on Gal 5:4 and falling from grace).\n\nBauckham, Richard. *Jude, 2 Peter*. Word Biblical Commentary 50. Waco: Word, 1983, pp. 275-279 (on 2 Pet 2:20-21).\n\nBrown, Raymond E. *The Gospel According to John I-XII*. Anchor Bible 29. New York: Doubleday, 1966, pp. 397-407 (on John 10 and the security of the sheep).\n\nFitzmyer, Joseph A. *Romans*. Anchor Bible 33. New York: Doubleday, 1993, pp. 535-540 (on Romans 8:38-39).\n\nSchreiner, Thomas R., and Ardel B. Caneday. *The Race Set Before Us: A Biblical Theology of Perseverance and Assurance*. Downers Grove: IVP, 2001 (representing the Reformed harmonization).\n\nGrudem, Wayne. \"Perseverance of the Saints: A Case Study from the Warning Passages in Hebrews.\" In *The Grace of God, the Bondage of the Will*, Vol. 1, edited by Thomas R. Schreiner and Bruce A. Ware, 133-182. Grand Rapids: Baker, 1995 (Reformed reading of the Hebrews warning passages).\n\nWitherington, Ben III. *Letters and Homilies for Hellenized Christians*, Vol. 1. Downers Grove: IVP, 2007, pp. 217-225 (on the Arminian reading of Hebrews 6).",
+      "answers": [
+        {
+          "answer": "Yes.",
+          "answer_explanation": "Christ is become of no effect unto you, whosoever of you are justified by the law; \n\t\t\t\t    ye are fallen from grace. Galatians 5:4\n\t\t\t\t    \n\t\t\t\t    For it is impossible for those who were once enlightened, and have tasted of the\n\t\t\t\t     heavenly gift, and were made partakers of the Holy Ghost,\n\t\t\t\tAnd have tasted the good word of God, and the powers of the world to come,\n\t\t\t\tIf they shall fall away, to renew them again unto repentance; seeing they crucify to\n\t\t\t\t     themselves the Son of God afresh, and put him to an open shame. \n\t\t\t\t     Hebrews 6:4-6\n\t\t\t\t\n\t\t\t\t        \nFor if after they have escaped the pollutions of the world\n\t\t\t\t          through the knowledge of the Lord and Saviour Jesus Christ, they are\n\t\t\t\t          again entangled therein, and overcome, the latter end is worse with\n\t\t\t\t          them than the beginning. For it had been better for them not to have\n\t\t\t\t          known the way of righteousness, than, after they have known it, to\n\t\t\t\t          turn from the holy commandment delivered unto them. 2 Peter 2:20-21",
+          "references": [
+            "Galatians 5:4",
+            "Hebrews 6:4-6",
+            "2 Peter 2:20-21"
+          ]
+        },
+        {
+          "answer": "No.",
+          "answer_explanation": "And I give unto them eternal life; and they shall never\n\t\t\t\t          perish, neither shall any man pluck them out of my hand. John 10:28\n\t\t\t\t\n\t\t\t\t        For I am persuaded, that neither death, nor life, nor angels,\n\t\t\t\t          nor principalities, nor powers, nor things present, nor things to\n\t\t\t\t          come, Nor height, nor depth, nor any other creature, shall be able to\n\t\t\t\t          separate us from the love of God, which is in Christ Jesus our\n\t\t\t\t          Lord. Romans 8:38-39",
+          "references": [
+            "John 10:28",
+            "Romans 8:38-39"
+          ]
+        }
+      ],
+      "assessment": {
+        "scholarly_consensus": "genuine_contradiction",
+        "textual_variant_involved": false,
+        "variant_description": "",
+        "critical_apparatus_ref": "",
+        "reasoning": "Mainstream critical scholarship recognizes genuinely divergent soteriological streams in the NT (Hebrews/2 Peter on apostasy vs. Johannine/Pauline assurance) that the canon does not reconcile, with the harmonizations relying on confessional rather than exegetical grounds."
+      },
+      "_audit": {
+        "status": "clean",
+        "issues": [],
+        "pass": 1,
+        "final": "clean"
+      }
+    },
+    {
+      "id": 524,
+      "question": "Who sent the Holy Ghost?",
+      "category": "Jesus & the Gospels",
+      "contradiction_type": "theological",
+      "testament_scope": "NT_internal",
+      "books_in_tension": "John",
+      "summary": "In John 15:26 Jesus says he himself will send the Paraclete from the Father. In John 14:16 and 14:26 the Father is the one who gives or sends the Spirit, with Jesus only asking. The same Farewell Discourse, two chapters apart, gives two different agents for the same act — a tension that drove the *Filioque* controversy that split Eastern and Western Christianity for a thousand years.",
+      "commentary": "This one isn't even cross-document — it's the same author, the same discourse, two chapters apart. John 14:16: \"I will ask the Father, and he will give you another Paraclete.\" John 14:26: \"the Holy Spirit, whom the Father will send in my name.\" John 15:26: \"the Paraclete, whom I will send to you from the Father.\" The subject of the sending verb (pempso vs. pempsei) literally changes between verses.\n\nThe orthodox harmonization is Trinitarian: the Father is the ultimate source, the Son is the mediating sender, and there's no real conflict because the persons of the Trinity act inseparably (the doctrine of *opera trinitatis ad extra indivisa sunt*). That's a perfectly coherent dogmatic position — but it's a fifth-century answer to a first-century problem. Raymond Brown, who was a Catholic priest and absolutely no anti-Trinitarian, still acknowledged in his Anchor Bible commentary that John's Spirit-language is ambiguous about agency and that the Farewell Discourse may reflect two stages of composition — chapters 15-17 likely being a later expansion of the original chapter 14 discourse.\n\nThe more interesting historical point is what this contradiction did downstream. The question of whether the Spirit proceeds from the Father alone (John 14:26) or from the Father and the Son (John 15:26) is exactly the *Filioque* clause — the Latin addition to the Nicene Creed that the Eastern Church rejected and that became the formal theological cause of the 1054 Great Schism. The contradiction is real enough that an entire half of Christendom built its identity on one reading and the other half on the other. You can call that a harmonized doctrine of Trinitarian co-agency, or you can call it two competing source layers in a composite discourse. The text itself does not adjudicate.",
+      "scholarship": "Brown, Raymond E. *The Gospel According to John XIII-XXI*. Anchor Bible 29A. New York: Doubleday, 1970, pp. 638-650, 689-693, 707-714 (on Paraclete passages and possible compositional layers).\n\nKeener, Craig S. *The Gospel of John: A Commentary*, Vol. 2. Peabody: Hendrickson, 2003, pp. 967-981 (on John 14-15 Paraclete sayings).\n\nBurge, Gary M. *The Anointed Community: The Holy Spirit in the Johannine Tradition*. Grand Rapids: Eerdmans, 1987, pp. 110-149 (on Johannine pneumatology).\n\nSiecienski, A. Edward. *The Filioque: History of a Doctrinal Controversy*. Oxford: Oxford University Press, 2010, pp. 27-50 (on the patristic exegesis of these very verses).",
+      "answers": [
+        {
+          "answer": "Jesus",
+          "answer_explanation": "But when the Comforter is come, whom I will send unto you from the Father.... \n\t\t\t\t    John 15:26",
+          "references": [
+            "John 15:26"
+          ]
+        },
+        {
+          "answer": "The Father",
+          "answer_explanation": "I will pray the Father, and he shall give you another Comforter, that he may abide with \n\t\t\t\t       you for ever. John 14:16\n\t\t\t\t       \n\t\t\t\t       ... the Holy Ghost, whom the Father will send in my name ... John 14:26",
+          "references": [
+            "John 14:16",
+            "John 14:26"
+          ]
+        }
+      ],
+      "assessment": {
+        "scholarly_consensus": "probable_harmonization",
+        "textual_variant_involved": false,
+        "variant_description": "",
+        "critical_apparatus_ref": "",
+        "reasoning": "Critical scholars (e.g., Brown) read the Paraclete sayings as expressing a Father-as-source/Son-as-mediator pattern that is largely coherent within Johannine pneumatology; the Filioque dispute is a later dogmatic overlay rather than evidence of an unresolvable contradiction in the text."
+      },
+      "_audit": {
+        "status": "clean",
+        "issues": [],
+        "pass": 1,
+        "final": "clean"
+      }
+    },
+    {
+      "id": 525,
+      "question": "Did any of the apostles ask Jesus where he was going?",
+      "category": "Jesus & the Gospels",
+      "contradiction_type": "factual_historical",
+      "testament_scope": "NT_internal",
+      "books_in_tension": "John",
+      "summary": "In John 13:36 Peter explicitly asks Jesus, \"Lord, where are you going?\" Thomas asks essentially the same question in John 14:5. Then in John 16:5, Jesus says, \"none of you asks me, where are you going?\" — within the same Farewell Discourse. The Johannine author has Jesus deny that anyone has just asked him the question that two named disciples just asked him.",
+      "commentary": "This is one of the cleanest internal contradictions in the Gospel of John, and it's a major piece of evidence for the source-critical view that John 13-17 is a stitched-together composite. Peter in 13:36: *Kyrie, pou hypageis?* — \"Lord, where are you going?\" Thomas in 14:5: *Kyrie, ouk oidamen pou hypageis* — \"Lord, we do not know where you are going.\" Jesus in 16:5: *oudeis ex hymōn erōta me, Pou hypageis?* — \"none of you is asking me, where are you going?\" The exact same phrase, *pou hypageis*, is the issue across all three.\n\nThe traditional apologetic harmonization (Carson, Morris) is to translate 16:5 as a present-tense observation — \"none of you is asking *now*, in this moment,\" implying that the earlier questions were superficial and they've stopped asking because they're sad about the leaving. That reading is grammatically possible but contextually strained. Why would Jesus complain that they're not asking the question they did ask, while ignoring the fact that they asked it twice?\n\nThe parsimonious explanation is the one Raymond Brown, Rudolf Bultmann, and a broad swath of Johannine scholarship landed on: the Farewell Discourse is composite. The original discourse probably ended around 14:31 (\"Rise, let us go from here\") and chapters 15-17 are a later supplement by the Johannene community or redactor. Chapter 16 was likely composed without 13:36-14:5 in view, which is why it contradicts them. This is the same problem that produces the disconnect between 14:31's \"let's leave\" and the fact that they don't actually leave until 18:1. The apologist treats these as theological deepening; the critical reader treats them as seams. Take your pick — but the seams hypothesis explains the data without making Jesus contradict himself.",
+      "scholarship": "Brown, Raymond E. *The Gospel According to John XIII-XXI*. Anchor Bible 29A. New York: Doubleday, 1970, pp. 581-604, 710 (on the composite Farewell Discourse and the 16:5 problem).\n\nBultmann, Rudolf. *The Gospel of John: A Commentary*. Translated by G. R. Beasley-Murray et al. Philadelphia: Westminster, 1971, pp. 459-461, 558-560 (on the displacement and composite structure of the discourse).\n\nKeener, Craig S. *The Gospel of John: A Commentary*, Vol. 2. Peabody: Hendrickson, 2003, pp. 1027-1029 (on the harmonizing reading of 16:5).\n\nCarson, D. A. *The Gospel According to John*. Pillar New Testament Commentary. Grand Rapids: Eerdmans, 1991, pp. 532-533 (representing the apologetic harmonization).\n\nMorris, Leon. *The Gospel According to John*, rev. ed. New International Commentary on the New Testament. Grand Rapids: Eerdmans, 1995, pp. 615-617 (on the harmonizing reading of John 16:5).\n\nAshton, John. *Understanding the Fourth Gospel*, 2nd ed. Oxford: Oxford University Press, 2007, pp. 408-435 (on Johannine composition).",
+      "answers": [
+        {
+          "answer": "Yes.",
+          "answer_explanation": "Simon Peter said unto him, Lord, whither goest thou? John 13:36\n\t\t\t\t        \n\t\t\t\t        Thomas saith unto him, Lord, we know not whither thou goest; and how can we know the way? John 14:5",
+          "references": [
+            "John 13:36",
+            "John 14:5"
+          ]
+        },
+        {
+          "answer": "No.",
+          "answer_explanation": "But now I go my way to him that sent me; and none of you asketh me,\n\t\t\t\t    Whither goest thou? John 16:5",
+          "references": [
+            "John 16:5"
+          ]
+        }
+      ],
+      "assessment": {
+        "scholarly_consensus": "genuine_contradiction",
+        "textual_variant_involved": false,
+        "variant_description": "",
+        "critical_apparatus_ref": "",
+        "reasoning": "There is broad critical agreement (Brown, Bultmann, Ashton) that John 16:5 stands in tension with 13:36/14:5, taken as evidence of the composite character of the Farewell Discourse; the harmonizing present-tense reading is widely regarded as strained."
+      },
+      "_audit": {
+        "status": "clean",
+        "issues": [],
+        "pass": 1,
+        "final": "clean"
+      }
+    },
+    {
+      "id": 526,
+      "question": "Did Jesus tell his disciples everything?",
+      "category": "Jesus & the Gospels",
+      "contradiction_type": "factual_historical",
+      "testament_scope": "NT_internal",
+      "books_in_tension": "John",
+      "summary": "In John 15:15 Jesus declares he has made known to his disciples \"all things\" he heard from the Father — the word is *panta*, everything. One chapter later, in John 16:12, he tells them he still has many things to say to them that they cannot bear right now. Same discourse, same audience, two flatly opposed claims about how much Jesus has communicated.",
+      "commentary": "This contradiction lives in the same neighborhood as the previous one — the seams of the Johannine Farewell Discourse. John 15:15: *panta ha ēkousa para tou patros mou egnōrisa hymin* — \"all things that I heard from my Father I have made known to you.\" That's a comprehensive claim. The Greek *panta* doesn't admit easy qualification — it means everything, the totality. Then John 16:12: *eti polla echō hymin legein, all' ou dynasthe bastazein arti* — \"I still have many things to say to you, but you cannot bear them now.\" The same speaker, two chapters later, says the opposite.\n\nThe standard apologetic move (Carson, Köstenberger) is to read *panta* in 15:15 as comprehensive only with respect to what Jesus has revealed about his identity and mission — everything *relevant*, not everything *possible*. Then 16:12 covers the additional revelation that will come through the Paraclete. That reading rescues the harmony at the cost of inserting a qualifier the text doesn't have. \"All things\" gets quietly converted into \"all things in the relevant category,\" with the category supplied by the interpreter.\n\nThe critical reading, again, is compositional. C. K. Barrett and Raymond Brown both treated chapters 15-17 as a secondary expansion of an earlier discourse, with 16:12 written in a context where the focus had shifted to ongoing revelation through the Spirit — a Johannine community theologumenon about the Paraclete's continuing teaching role (cf. 16:13, \"he will guide you into all truth\"). The point of 16:12 in its own context isn't to undermine 15:15 — it's to legitimate the community's later teachings as Spirit-mediated extensions of what Jesus didn't get around to saying directly. That works just fine as a Johannine theological move, but it does contradict the prior claim in 15:15. The contradiction is the cost of stitching the two layers together.",
+      "scholarship": "Brown, Raymond E. *The Gospel According to John XIII-XXI*. Anchor Bible 29A. New York: Doubleday, 1970, pp. 681-682, 706-716 (on John 15:15, 16:12 and Paraclete revelation).\n\nBarrett, C. K. *The Gospel According to St. John*, 2nd ed. Philadelphia: Westminster, 1978, pp. 477-478, 488-489.\n\nKeener, Craig S. *The Gospel of John: A Commentary*, Vol. 2. Peabody: Hendrickson, 2003, pp. 1011-1013, 1031-1032.\n\nCarson, D. A. *The Gospel According to John*. Pillar New Testament Commentary. Grand Rapids: Eerdmans, 1991, pp. 522-523, 540-541 (representing the standard harmonization).\n\nKöstenberger, Andreas J. *John*. Baker Exegetical Commentary on the New Testament. Grand Rapids: Baker Academic, 2004, pp. 462-465, 472-474 (on John 15:15 panta and 16:12 in tandem).\n\nAshton, John. *Understanding the Fourth Gospel*, 2nd ed. Oxford: Oxford University Press, 2007, pp. 420-432 (on compositional layers in the Farewell Discourse).",
+      "answers": [
+        {
+          "answer": "Jesus told his disciples everything.",
+          "answer_explanation": "For all things that I have heard of my Father I have\n\t\t\t\t          made known unto you. John 15:15",
+          "references": [
+            "John 15:15"
+          ]
+        },
+        {
+          "answer": "There were some things that Jesus didn't tell them.",
+          "answer_explanation": "I have yet many things to say unto you, but ye cannot bear\n\t\t\t\t          them now. John 16:12",
+          "references": [
+            "John 16:12"
+          ]
+        }
+      ],
+      "assessment": {
+        "scholarly_consensus": "probable_contradiction",
+        "textual_variant_involved": false,
+        "variant_description": "",
+        "critical_apparatus_ref": "",
+        "reasoning": "Critical scholarship treats John 15:15 vs. 16:12 as a real tension reflecting compositional layers, though the apologetic reading of panta as comprehensive-within-category is more textually plausible here than in 16:5, leaving it short of a fully decisive contradiction."
+      },
+      "_audit": {
+        "status": "clean",
+        "issues": [],
+        "pass": 1,
+        "final": "clean"
+      }
+    },
+    {
+      "id": 527,
+      "question": "Was Mary Magdalene happy or sad when she saw the risen Jesus?",
+      "category": "Jesus & the Gospels",
+      "contradiction_type": "compositional",
+      "testament_scope": "NT_internal",
+      "books_in_tension": "Matthew, John",
+      "summary": "Matthew 28:1-9 has the women — including Mary Magdalene — leave the empty tomb with \"fear and great joy,\" meet Jesus on the way, grab his feet, and worship. John 20:11-15 has Mary Magdalene weeping at the tomb, talking to angels through tears, and failing even to recognize Jesus when he stands in front of her, mistaking him for the gardener. The emotional state, the location of the encounter, and her ability to recognize him are all different.",
+      "commentary": "The standard apologist move (Wenham, Licona) is sequential reconstruction: Mary Magdalene came to the tomb, ran to tell the disciples (John 20:1-2), then came back and had the weeping encounter (John 20:11-15), while in between or simultaneously the other women had the joyful Matthew 28 encounter. That can be made to work if you assume two trips and split the women up, but it requires importing scaffolding that none of the Gospels supply.\n\nThe real problem isn't the emotional state by itself — people can shift moods — but the recognition failure in John. *dokousa hoti ho kēpouros estin* — \"thinking that he is the gardener.\" This is theologically loaded in John: Mary recognizes Jesus only when he speaks her name (John 20:16, *Mariam*), which is John's payoff of the shepherd-knows-his-sheep-by-name theme from chapter 10. The recognition failure is not incidental. It's doing theological work in John's narrative. Matthew's version, where the women immediately recognize him and grab his feet, doesn't need any such moment because Matthew is doing different theological work — vindicating Jesus' messianic authority through the women's worship.\n\nDale Allison's three-volume Matthew commentary points out that the resurrection appearances are the area of greatest divergence across the Gospels and the most likely candidates for late, theologically-shaped additions. The Markan account in its original ending (16:8) has the women fleeing in fear and saying nothing to anyone. Matthew adds Jesus' actual appearance; John adds an entire scene with angels, weeping, gardener-confusion, and the noli me tangere moment. These aren't supplementary details fitting into one timeline — they're competing narrative theologies. The honest critical read is that the resurrection traditions diversified rapidly in the first generation and the Gospels preserved different versions without successful harmonization.",
+      "scholarship": "Davies, W. D., and Dale C. Allison. *A Critical and Exegetical Commentary on the Gospel According to Saint Matthew*, Vol. 3. International Critical Commentary. Edinburgh: T&T Clark, 1997, pp. 659-675 (on Matthew 28 empty tomb).\n\nBrown, Raymond E. *The Gospel According to John XIII-XXI*. Anchor Bible 29A. New York: Doubleday, 1970, pp. 980-1017 (on John 20 resurrection appearances).\n\nLicona, Michael R. *Why Are There Differences in the Gospels?* New York: Oxford University Press, 2017, pp. 177-184 (on harmonization attempts for resurrection narratives).\n\nWenham, John. *Easter Enigma*, 2nd ed. Grand Rapids: Baker, 1992 (representing the maximalist harmonization attempt).\n\nEhrman, Bart D. *How Jesus Became God*. New York: HarperOne, 2014, pp. 132-169 (on the diversity of resurrection traditions).",
+      "answers": [
+        {
+          "answer": "She was filled with joy.",
+          "answer_explanation": "Mary Magdalene and the other Mary ... departed quickly from the sepulchre with fear and great joy; and did run to bring his disciples word. And as they went to tell his disciples, behold, Jesus met them, saying, All hail. And they came and held him by the feet, and worshipped him. Matthew 28:1-9",
+          "references": [
+            "Matthew 28:1-9"
+          ]
+        },
+        {
+          "answer": "She was grief-stricken.",
+          "answer_explanation": "Mary [Magdalene] stood without at the sepulchre weeping: and as she wept, she stooped down, and looked into the sepulchre, And seeth two angels in white sitting, the one at the head, and the other at the feet, where the body of Jesus had lain. And they say unto her, Woman, why weepest thou? She saith unto them, Because they have taken away my LORD, and I know not where they have laid him. And when she had thus said, she turned herself back, and saw Jesus standing, and knew not that it was Jesus. Jesus saith unto her, Woman, why weepest thou? John 20:11-15",
+          "references": [
+            "John 20:11-15"
+          ]
+        }
+      ],
+      "assessment": {
+        "scholarly_consensus": "probable_contradiction",
+        "textual_variant_involved": false,
+        "variant_description": "",
+        "critical_apparatus_ref": "",
+        "reasoning": "Critical scholars regard the resurrection appearance narratives as among the most divergent and theologically shaped in the Gospels, with the Matthew/John differences resistant to harmonization, though emotional/sequential reconstructions keep this from being graded as flatly unresolvable."
+      },
+      "_audit": {
+        "status": "clean",
+        "issues": [],
+        "pass": 1,
+        "final": "clean"
+      }
+    },
+    {
+      "id": 528,
+      "question": "Should we believe in unseen things?",
+      "category": "Salvation, Sin & Afterlife",
+      "contradiction_type": "theological",
+      "testament_scope": "NT_internal",
+      "books_in_tension": "John, Romans, 1 Corinthians, 2 Corinthians, Colossians, Hebrews",
+      "summary": "Hebrews 11:1 defines faith as the evidence of things not seen; 2 Corinthians 4:18 says we look at things unseen rather than seen; 2 Corinthians 5:7 — \"we walk by faith, not by sight\"; John 20:29 has Jesus pronouncing those who believe without seeing as blessed. Colossians 2:18, by contrast, warns against being beguiled by people \"intruding into those things which they have not seen, vainly puffed up by their fleshly mind.\" The same New Testament both commands and condemns belief in the unseen, depending on whose visions are being weighed.",
+      "commentary": "This is a contradiction that mostly evaporates with a careful look at Colossians 2:18 — but only partly. The Greek of Colossians 2:18 is famously contested. The phrase *ha heoraken embateuōn* is variously translated \"intruding into things he has seen\" (taking the manuscript reading without the negative) or \"intruding into things he has not seen\" (with the negative *mē*, attested in some manuscripts and reflected in the KJV). The earlier and better attested reading is *without* the negative — so the verse is actually criticizing people who claim to have seen visions during their initiation into some Colossian mystery cult and then puff themselves up about it. The KJV's negative reading flips the meaning and is what creates the surface contradiction the SAB is pointing to.\n\nSo if you grant that the modern critical text wins on Colossians 2:18, the contradiction with Hebrews 11 dissolves in one direction — Colossians isn't actually condemning belief in unseen things; it's criticizing people who claim privileged visionary access. That's a textual-criticism point, not a theological one.\n\nBut the deeper tension is still real and worth flagging. The New Testament does treat \"faith without sight\" as the higher virtue (John 20:29, Hebrews 11) while at the same time grounding apostolic authority in eyewitness claims (1 John 1:1, Luke 1:2, 1 Corinthians 15:5-8, 2 Peter 1:16). Bart Ehrman has pointed out that this is the structural irony of early Christianity — eyewitnesses are normative for the apostles, and lack of sight is normative for everyone after them. The contradiction here is between the early-stage epistemology (visions, appearances) and the later-stage epistemology (faith without sight). The SAB pairing is too narrow to catch the full tension, but it's pointing at a real seam. That is of course only a contradiction if you read these as competing universal claims, which the texts arguably don't.",
+      "scholarship": "Attridge, Harold W. *The Epistle to the Hebrews*. Hermeneia. Philadelphia: Fortress, 1989, pp. 305-314 (on Heb 11:1 and the definition of faith).\n\nDunn, James D. G. *The Epistles to the Colossians and to Philemon*. New International Greek Testament Commentary. Grand Rapids: Eerdmans, 1996, pp. 178-188 (on the textual problem in Col 2:18).\n\nFrancis, Fred O. \"Humility and Angelic Worship in Col 2:18.\" *Studia Theologica* 16 (1962): 109-134 (on the visionary background of the Colossian opponents).\n\nMetzger, Bruce M. *A Textual Commentary on the Greek New Testament*, 2nd ed. Stuttgart: Deutsche Bibelgesellschaft, 1994, p. 555 (on the Col 2:18 textual variants).\n\nBrown, Raymond E. *The Gospel According to John XIII-XXI*. Anchor Bible 29A. New York: Doubleday, 1970, pp. 1023-1049 (on John 20:29 and the Thomas pericope).\n\nEhrman, Bart D. *Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible*. New York: HarperOne, 2009, pp. 102-114 (on the eyewitness/faith-without-sight tension in early Christian epistemology).\n\nNote: The SAB harmonization issue here hinges substantially on a KJV-era textual reading of Col 2:18 that modern critical editions reject.",
+      "answers": [
+        {
+          "answer": "Yes.",
+          "answer_explanation": "That is the definition of faith.\n\t\t\t\t     \n\t\t\t\t     Faith is the substance of things hoped for, the evidence of things not seen. \n\t\t\t\t     Hebrews 11:1\n\n\t\t\t\t     \n\t\t\t\t     Unseen things are the object of faith.\n\t\t\t\t     \n\t\t\t\t     We look not at the things which are seen, but at the things which are not seen: for the things which \n\t\t\t\t     are seen are temporal; but the things which are not seen are eternal. \n\t\t\t\t     2 Corinthians 4:18\n\n\t\t\t\t     \n\t\t\t\t     Believers walk by faith, not by sight.\n\t\t\t\t     \n\t\t\t\t     For we walk by faith, not by sight. 2 Corinthians 5:7\n\n\t\t\t\t     \n\t\t\t\t     And they are saved by an unseen hope.\n\t\t\t\t     \n\t\t\t\t     For we are saved by hope: but hope that is seen is not hope: for what a man seeth, \n\t\t\t\t     why doth he yet hope for? Romans 8:24\n\n\t\t\t\t     \n\t\t\t\t     Paul says that we should believe \"all things,\" which would include things that are not seen.\n\t\t\t\t     \n\t\t\t\t     Believeth all things. 1 Corinthians 13:7\n\n\t\t\t\t     \n\t\t\t\t     To believe in God, you must believe that he exists, even though you've never seen him.\n\t\t\t\t     \n\t\t\t\t     For he that cometh to God must believe that he is, and that he is a rewarder of \n\t\t\t\t     them that diligently seek him. Hebrews 11:6\n\n\t\t\t\t     \n\t\t\t\t     Jesus praised people who believe in unseen things, calling them \"blessed.\"\n\t\t\t\t     \n\t\t\t\t     Jesus saith unto him, Thomas, because thou hast seen me, thou hast believed: blessed \n\t\t\t\t     are they that have not seen, and yet have believed. John 20:29",
+          "references": [
+            "Hebrews 11:1",
+            "2 Corinthians 4:18",
+            "2 Corinthians 5:7",
+            "Romans 8:24",
+            "1 Corinthians 13:7",
+            "Hebrews 11:6",
+            "John 20:29"
+          ]
+        },
+        {
+          "answer": "No.",
+          "answer_explanation": "Let no man beguile you ... intruding into those things which he hath not seen, vainly puffed up by his fleshly mind. Colossians 2:18",
+          "references": [
+            "Colossians 2:18"
+          ]
+        }
+      ],
+      "assessment": {
+        "scholarly_consensus": "apparent_only",
+        "textual_variant_involved": true,
+        "variant_description": "Col 2:18: the KJV reads 'intruding into those things which he hath not seen,' reflecting manuscripts with the negative mē, whereas the earlier/better-attested reading omits the negative ('things which he has seen,' i.e. visionary claims), reversing the sense.",
+        "critical_apparatus_ref": "Metzger, A Textual Commentary on the Greek New Testament, 2nd ed., p. 555 (Col 2:18)",
+        "reasoning": "The surface contradiction with Col 2:18 depends on the KJV's inclusion of the negative ('which he hath NOT seen'); the better-attested critical text omits the negative, so Colossians is not condemning belief in the unseen, and the entry itself concedes the harmonization is strong on textual grounds."
+      },
+      "_audit": {
+        "status": "clean",
+        "issues": [],
+        "pass": 1,
+        "final": "clean"
+      }
+    },
+    {
+      "id": 529,
+      "question": "Did Luke include everything that Jesus did?",
+      "category": "Jesus & the Gospels",
+      "contradiction_type": "factual_historical",
+      "testament_scope": "NT_internal",
+      "books_in_tension": "John, Acts",
+      "summary": "Acts 1:1-2 opens with Luke telling Theophilus that his \"former treatise\" (the Gospel of Luke) covered \"all that Jesus began both to do and teach\" up to the ascension. John 21:25 ends by claiming the things Jesus did were so many that the world itself could not contain the books that would have to be written. The contradiction is a soft one — Luke's *panta* (all) versus John's hyperbolic inexhaustibility — and depends on whether you read Acts 1:1 as a literal completeness claim or as a conventional preface.",
+      "commentary": "This is one of the weaker contradictions in the SAB collection, and it's worth saying so plainly. Acts 1:1 reads: *peri pantōn, ō Theophile, hōn ērxato ho Iēsous poiein te kai didaskein* — \"concerning all the things, O Theophilus, that Jesus began both to do and to teach.\" The key word is *ērxato* (began). Luke is signaling that the Gospel covers what Jesus *began* doing, and that Acts will narrate the continuation through the Spirit and the apostles. The grammar already softens the totality claim. Joseph Fitzmyer in his Anchor Bible Acts commentary takes this as a standard hellenistic preface convention, comparable to Josephus and Lucian — not a literal claim of exhaustiveness.\n\nJohn 21:25 is doing different work entirely. It's a literary peroration, hyperbole built into the closing of the Gospel: \"if every one of them were written, I suppose that the world itself could not contain the books.\" Raymond Brown points out this is a standard Hellenistic literary topos — Philo, Quintilian, and various rabbinic sources use the same \"the world could not contain it\" trope. It's signaling literary closure, not making a claim that competes with Luke's preface.\n\nSo here's the honest assessment. If you read Acts 1:1's *peri pantōn* maximally and John 21:25 literally, you get a surface contradiction. If you read both verses in their actual literary register — Luke as preface convention, John as closing hyperbole — they're not really claiming the same kind of thing. This entry is closer to a translation-driven artifact than a genuine doctrinal collision. That is of course a subjective call, but the weight of Acts and Johannine scholarship leans toward both phrases being literary rather than catalog claims. Keep the entry, but flag it as one where the harmonization is genuinely strong on textual grounds.",
+      "scholarship": "Fitzmyer, Joseph A. *The Acts of the Apostles*. Anchor Bible 31. New York: Doubleday, 1998, pp. 195-201 (on the Acts 1:1 preface and its Hellenistic conventions).\n\nBrown, Raymond E. *The Gospel According to John XIII-XXI*. Anchor Bible 29A. New York: Doubleday, 1970, pp. 1129-1130 (on John 21:25 as Hellenistic closure topos).\n\nKeener, Craig S. *Acts: An Exegetical Commentary*, Vol. 1. Grand Rapids: Baker, 2012, pp. 645-660 (on the Acts preface).\n\nAlexander, Loveday. *The Preface to Luke's Gospel*. SNTSMS 78. Cambridge: Cambridge University Press, 1993 (on hellenistic preface conventions).",
+      "answers": [
+        {
+          "answer": "Yes.",
+          "answer_explanation": "The former treatise have I made, O Theophilus, of all that Jesus began\n\t\t\t    both to do and teach, Until the day in which he was taken up. Acts 1:1-2",
+          "references": [
+            "Acts 1:1-2"
+          ]
+        },
+        {
+          "answer": "No.",
+          "answer_explanation": "There are also many other things which Jesus did, the which, if they\n\t\t\t    should be written every one, I suppose that even the world itself could not\n\t\t\t    contain the books that should be written. John 21:25",
+          "references": [
+            "John 21:25"
+          ]
+        }
+      ],
+      "assessment": {
+        "scholarly_consensus": "apparent_only",
+        "textual_variant_involved": false,
+        "variant_description": "",
+        "critical_apparatus_ref": "",
+        "reasoning": "Acts and Johannine scholarship reads Acts 1:1 (panta with ērxato, 'began') as a Hellenistic preface convention and John 21:25 as a closing hyperbolic topos, so the two phrases are not competing completeness claims; the entry itself rates the harmonization as strong."
+      },
+      "_audit": {
+        "status": "clean",
+        "issues": [],
+        "pass": 1,
+        "final": "clean"
+      }
+    },
+    {
+      "id": 530,
+      "question": "How many believers were there at the time of the ascension?",
+      "category": "Numbers & Measurements",
+      "contradiction_type": "numerical",
+      "testament_scope": "NT_internal",
+      "books_in_tension": "Acts, 1 Corinthians",
+      "summary": "Acts 1:15 reports the number of names \"together\" right after the ascension as \"about one hundred and twenty.\" Paul, writing decades earlier in 1 Corinthians 15:6, says the risen Jesus appeared to more than five hundred brothers at one time, most of whom were still alive when he wrote. If both numbers are accurate, more than 380 named believers vanished from the Jerusalem community between the resurrection and the post-ascension prayer gathering.",
+      "commentary": "Here's where the apologetic harmonization actually has some traction — and where it ultimately runs out of road. The standard move (F. F. Bruce, Bock) is geographic and demographic: the 120 in Acts 1:15 are specifically the believers gathered in one room in Jerusalem in the days immediately after the ascension. The 500-plus appearance witnesses of 1 Corinthians 15:6 likely happened in Galilee (cf. Matthew 28:16-20, the Galilean commissioning) and they all went home. So the two numbers refer to different geographic snapshots, and there's no contradiction.\n\nThat's plausible as far as it goes. The problem is what it costs to make it work. You have to accept that of more than 500 people who personally saw the risen Jesus — the most extraordinary thing they'd ever experienced — fewer than 120 followed through to join the Jerusalem community at the founding moment of the church. That's a roughly 75% attrition rate among eyewitnesses. The Acts narrative itself doesn't seem aware that there are hundreds of other resurrection witnesses scattered around Galilee; the framing of Pentecost in Acts 2 treats the 120 as the core community, not as a Jerusalem subset of a much larger witness pool.\n\nThe parsimonious read, on the critical side (Lüdemann, Ehrman), is that Paul's \"500 at once\" is either an embellishment, a reference to a mass ecstatic experience after the fact, or simply a number Paul could not have independently verified. Note that the 500 appearance appears nowhere in the Gospels or Acts. If 500 people had seen the risen Jesus, you'd expect at least one of the Gospel writers to know about it. That gap is hard to explain on the harmonization view. The apologist can keep both numbers if they're willing to accept the 75% attrition. The critical scholar reads the gap as evidence that the 500-witness tradition was a Pauline-circulated claim that didn't propagate into the Gospel-Acts stream.",
+      "scholarship": "Fitzmyer, Joseph A. *The Acts of the Apostles*. Anchor Bible 31. New York: Doubleday, 1998, pp. 222-225 (on Acts 1:15 and the 120).\n\nFitzmyer, Joseph A. *First Corinthians*. Anchor Yale Bible 32. New Haven: Yale University Press, 2008, pp. 549-554 (on 1 Cor 15:6 and the 500).\n\nLüdemann, Gerd. *The Resurrection of Jesus: History, Experience, Theology*. Minneapolis: Fortress, 1994, pp. 100-108 (on the historicity of the 500-witness tradition).\n\nEhrman, Bart D. *How Jesus Became God*. New York: HarperOne, 2014, pp. 144-169 (on the diversity and growth of resurrection appearance traditions).\n\nBock, Darrell L. *Acts*. Baker Exegetical Commentary on the New Testament. Grand Rapids: Baker, 2007, pp. 85-89 (representing the geographic harmonization).\n\nBruce, F. F. *The Book of the Acts*, rev. ed. New International Commentary on the New Testament. Grand Rapids: Eerdmans, 1988, pp. 43-46 (on the size of the Jerusalem community at Acts 1:15).",
+      "answers": [
+        {
+          "answer": "There were 120 believers after the ascension.",
+          "answer_explanation": "The number of names together were about an hundred and\n\t\t\t\t          twenty. Acts 1:15",
+          "references": [
+            "Acts 1:15"
+          ]
+        },
+        {
+          "answer": "There were more than 500 believers before the ascension.",
+          "answer_explanation": "He was seen of above five hundred brethren at once; of whom\n\t\t\t\t          the greater part remain unto this present, but some are fallen\n\t\t\t\t          asleep. 1 Corinthians 15:6",
+          "references": [
+            "1 Corinthians 15:6"
+          ]
+        }
+      ],
+      "assessment": {
+        "scholarly_consensus": "genuinely_disputed",
+        "textual_variant_involved": false,
+        "variant_description": "",
+        "critical_apparatus_ref": "",
+        "reasoning": "The geographic/demographic harmonization (Jerusalem 120 vs. Galilean 500) is viable but costly, and critical scholars split on whether Paul's 500-witness tradition reflects a separate, possibly inflated stream; consensus does not clearly land on a flat contradiction."
+      },
+      "_audit": {
+        "status": "clean",
+        "issues": [],
+        "pass": 1,
+        "final": "clean"
+      }
+    },
+    {
+      "id": 531,
+      "question": "What did Judas do with the silver?",
+      "category": "Jesus & the Gospels",
+      "contradiction_type": "factual_historical",
+      "testament_scope": "NT_internal",
+      "books_in_tension": "Matthew, Acts",
+      "summary": "Matthew 27:5 has Judas throw the thirty pieces of silver down in the temple and then hang himself; the priests use the money to buy the Potter's Field. Acts 1:18 says Judas himself bought a field with the reward of iniquity and then fell headlong, bursting open with his bowels gushing out. Same character, same money, two incompatible accounts of who bought what field and how Judas died.",
+      "commentary": "This one is famous, and the harmonization attempts are creative — and inadequate. The Matthew version: Judas regrets, returns the silver, hangs himself; priests buy the Potter's Field with the now-blood-money. Acts version: Judas keeps the money, buys a field himself, and dies by some kind of bodily rupture (*prēnēs genomenos elakēsen mesos*).\n\nThe traditional apologist move (Archer, Geisler) tries to fuse the two: Judas bought the field via the priests as proxy, then hanged himself, and the rope broke or the body decomposed and burst open after falling. So both accounts are partially true. The problems here stack up fast. First, Matthew explicitly says the priests bought the field with the money — *agorazein* — there's no agency or proxy language. Second, Acts says Judas \"purchased a field with the reward of iniquity\" — that's direct action, not posthumous attribution. Third, the burst-open-after-hanging reconciliation requires inventing a chain of events neither text describes. Fourth, even the name of the field differs in implication: Matthew calls it Field of Blood because it was bought with blood money; Acts calls it Field of Blood (Hakeldama) because Judas's blood burst out on it. Same name, different etiology.\n\nDale Allison and Joseph Fitzmyer both treat this as two independent legendary developments of an early tradition that linked Judas's death to a piece of land near Jerusalem. Matthew is doing fulfillment work — the thirty pieces of silver, the potter's field, the blood money — all dovetailing with Zechariah 11:12-13 and Jeremiah 18-19 (which Matthew misattributes to Jeremiah at 27:9). Acts is doing typological work — Judas as the wicked man whose body explodes is a riff on Wisdom 4:19 and Psalm 69:25 (cited at Acts 1:20). Neither is reporting; both are theologizing. The apologist harmonization fails because it tries to read two competing midrashic etiologies as overlapping eyewitness reports. They are not. Take your pick on which Judas-death tradition you find more compelling — but you cannot have both as straight history.",
+      "scholarship": "Davies, W. D., and Dale C. Allison. *A Critical and Exegetical Commentary on the Gospel According to Saint Matthew*, Vol. 3. International Critical Commentary. Edinburgh: T&T Clark, 1997, pp. 558-572 (on Matt 27:3-10).\n\nFitzmyer, Joseph A. *The Acts of the Apostles*. Anchor Bible 31. New York: Doubleday, 1998, pp. 220-228 (on Acts 1:15-22 and the death of Judas).\n\nBrown, Raymond E. *The Death of the Messiah*, Vol. 2. New York: Doubleday, 1994, pp. 1394-1418 (on the Judas death traditions and their typological framing).\n\nArcher, Gleason L. *Encyclopedia of Bible Difficulties*. Grand Rapids: Zondervan, 1982, pp. 343-345 (representing the standard apologetic harmonization).\n\nGeisler, Norman L., and Thomas Howe. *When Critics Ask: A Popular Handbook on Bible Difficulties*. Wheaton: Victor Books, 1992, pp. 363-364 (on the Matthew/Acts Judas-death harmonization).\n\nKlauck, Hans-Josef. *Judas: A Disciple of Jesus*. Collegeville: Liturgical Press, 2006, pp. 87-102 (on the legendary development of the Judas-death traditions).",
+      "answers": [
+        {
+          "answer": "He bought a field.",
+          "answer_explanation": "Now this man purchased a field with the reward of iniquity; and falling headlong, he burst \n\t\t\t\t        asunder in the midst, and all his bowels gushed out. Acts 1:18",
+          "references": [
+            "Acts 1:18"
+          ]
+        },
+        {
+          "answer": "He threw it on the ground.",
+          "answer_explanation": "And he cast down the pieces of silver in the temple, and departed, and went and hanged himself. Matthew 27:5",
+          "references": [
+            "Matthew 27:5"
+          ]
+        }
+      ],
+      "assessment": {
+        "scholarly_consensus": "genuine_contradiction",
+        "textual_variant_involved": false,
+        "variant_description": "",
+        "critical_apparatus_ref": "",
+        "reasoning": "There is strong critical consensus (Allison, Fitzmyer, Brown, Klauck) that the Matthew and Acts accounts of Judas's death and the field purchase are independent, mutually incompatible legendary/typological developments that cannot be harmonized as straight history."
+      },
+      "_audit": {
+        "status": "clean",
+        "issues": [],
+        "pass": 1,
+        "final": "clean"
+      }
+    },
+    {
+      "id": 532,
+      "question": "Who raised Jesus from the dead?",
+      "category": "Jesus & the Gospels",
+      "contradiction_type": "theological",
+      "testament_scope": "NT_internal",
+      "books_in_tension": "John, Acts, Romans, Galatians, Colossians, 1 Thessalonians",
+      "summary": "John 2:19-21 has Jesus declaring he will raise his own body in three days. Acts 2:24, 2:32, 4:10, 13:30, Galatians 1:1, Colossians 2:12, and 1 Thessalonians 1:10 all attribute the resurrection to God the Father, who raised Jesus. Romans 8:11 attributes it to the Holy Spirit. Three different agents across the New Testament for the same act, with the bulk of attestation going to the Father.",
+      "commentary": "The orthodox harmonization is straightforward Trinitarian theology: all three persons act inseparably, and the resurrection is the work of the one God in three persons. That's a perfectly fine confessional answer, and it works on the dogmatic level. The historical-critical question is different — namely, what did the earliest Christians actually think happened, and did they think the same thing?\n\nWhen you sort the verses chronologically you see something interesting. The earliest stratum — Paul's undisputed letters and the speeches in Acts (which preserve early creedal material) — overwhelmingly attribute the resurrection to God the Father acting on Jesus. *Ho theos auton ēgeiren ek nekrōn* (\"God raised him from the dead\") is one of the most common formulas in the New Testament. Jesus is the patient, God is the agent. This fits the early christological pattern that Bart Ehrman calls \"exaltation Christology\" — Jesus is a man whom God vindicated and exalted by raising him.\n\nThe John 2:19-21 saying — Jesus actively raising himself — is a Johannine theological development that aligns with John's high Christology of the pre-existent Logos. Even there, the narrator has to clarify that Jesus \"spoke of the temple of his body,\" because the saying in its original form (cf. Mark 14:58, where the temple-destruction saying is preserved without the self-raising element) didn't necessarily imply self-resurrection. Romans 8:11 is the Spirit-resurrection tradition, which is rarer and appears to be a Pauline pneumatological emphasis rather than a developed doctrine.\n\nThe parsimonious read is developmental: the earliest formula is \"God raised Jesus,\" the Pauline Spirit-formula is a side variant, and the Johannine self-raising formula is the latest theological refinement, made possible only after the Logos Christology was in place. You can call that a Trinitarian harmony retroactively, or you can call it three stages of Christological development. The data is the same; the interpretive frame is what changes.",
+      "scholarship": "Fitzmyer, Joseph A. *The Acts of the Apostles*. Anchor Bible 31. New York: Doubleday, 1998, pp. 256-263 (on the resurrection formulas in the Acts speeches).\n\nFitzmyer, Joseph A. *Romans*. Anchor Bible 33. New York: Doubleday, 1993, pp. 489-491 (on Rom 8:11).\n\nBrown, Raymond E. *The Gospel According to John I-XII*. Anchor Bible 29. New York: Doubleday, 1966, pp. 114-125 (on John 2:19-21 and the temple-body saying).\n\nEhrman, Bart D. *How Jesus Became God*. New York: HarperOne, 2014, pp. 211-251 (on exaltation versus incarnation Christology and resurrection language).\n\nHurtado, Larry W. *Lord Jesus Christ: Devotion to Jesus in Earliest Christianity*. Grand Rapids: Eerdmans, 2003, pp. 175-185 (on early resurrection formulas).",
+      "answers": [
+        {
+          "answer": "Jesus raised himself from the dead.",
+          "answer_explanation": "Jesus answered and said unto them, Destroy this temple, and in three days I will\n\t\t\t     raise it up. Then said the Jews, Forty and six years was this temple in building, and wilt thou rear it up\n\t\t\t     in three days? But he spake of the temple of his body. John 2:19-21",
+          "references": [
+            "John 2:19-21"
+          ]
+        },
+        {
+          "answer": "God raised him from the dead.",
+          "answer_explanation": "Whom God hath raised up, having loosed the pains of death: because it was not possible \n\t\t\t        that he should be holden of it. Acts 2:24\n\t\t\t        \n\t\t\t        This Jesus hath God raised up. Acts 2:32\n\t\t\t        \n\t\t\t        \nJesus Christ ... whom God raised from the dead.... Acts 4:10\n\t\t\t        \n\t\t\t        \nBut God raised him from the dead. Acts 13:30\n\t\t\t        \n\t\t\t        \nPaul, an apostle, (not of men, neither by man, but by Jesus Christ, and \n\t\t\t        God the Father, who raised him from the dead;) Galatians 1:1\n\t\t\t        \n\t\t\t        \nBuried with him in baptism, wherein also ye are risen with him through the\n\t\t\t    faith of the operation of God, who hath raised him from the dead. Colossians 2:12\n\t\t\t    \n\t\t\t    \n... his Son ... whom he raised from the dead. 1 Thessalonians 1:10",
+          "references": [
+            "Acts 2:24",
+            "Acts 2:32",
+            "Acts 4:10",
+            "Acts 13:30",
+            "Galatians 1:1",
+            "Colossians 2:12",
+            "1 Thessalonians 1:10"
+          ]
+        },
+        {
+          "answer": "The Holy Ghost did it.",
+          "answer_explanation": "But if the Spirit of him that raised up Jesus from the dead dwell in you, he that raised up\n\t\t\t     Christ from the dead shall also quicken your mortal bodies by his Spirit that dwelleth in you.\n\t\t\t     Romans 8:11",
+          "references": [
+            "Romans 8:11"
+          ]
+        }
+      ],
+      "assessment": {
+        "scholarly_consensus": "probable_harmonization",
+        "textual_variant_involved": false,
+        "variant_description": "",
+        "critical_apparatus_ref": "",
+        "reasoning": "Critical scholarship reads the resurrection-agency language developmentally (God raises Jesus as the early formula; Spirit and self-raising as variants/developments) rather than as a contradiction, and the variation is readily accommodated under co-agency or Christological development."
+      },
+      "_audit": {
+        "status": "clean",
+        "issues": [],
+        "pass": 1,
+        "final": "clean"
+      }
+    },
+    {
+      "id": 533,
+      "question": "Should we obey human or divine law?",
+      "category": "Law, Morality & Ethics",
+      "contradiction_type": "ethical_legal",
+      "testament_scope": "NT_internal",
+      "books_in_tension": "Acts, Romans, 1 Peter",
+      "summary": "Acts 5:29 has Peter and the apostles declaring before the Sanhedrin that they must obey God rather than men. 1 Peter 2:13 commands believers to submit to every human ordinance, and Romans 13:1-4 escalates: every governing authority is ordained by God, resisting them resists God, and they bear the sword as God's ministers to execute wrath. The same New Testament endorses both civil disobedience and unconditional submission, depending on which book you're reading.",
+      "commentary": "The standard harmonization is the so-called \"two kingdoms\" or hierarchical reading: obey civil authorities in all matters where their commands don't violate divine law; obey God when they do. That's a perfectly coherent ethical framework, and it's the dominant Christian reading from Augustine through the Reformers. The problem is that this framework has to be imported from outside the texts — neither Romans 13 nor 1 Peter 2 carves out exceptions for unjust commands. Romans 13:1-2 is categorical: every soul to the higher powers, no exceptions stated. *Pasa psychē exousiais hyperechousais hypotassesthō* — \"let every soul be subject to the governing authorities.\" Paul gives no \"unless they command sin\" qualifier.\n\nActs 5:29, by contrast, is the apostles directly defying a legitimate authority — the Sanhedrin had authority over Jewish religious matters, and Peter is openly refusing to comply. If Romans 13 is the rule, Acts 5:29 is the exception that Romans 13 doesn't acknowledge. The clean reading is that these are different theological streams responding to different situations. Romans was written to a Roman-Christian community in the imperial capital where political quietism was survival strategy. 1 Peter addresses scattered Christians under imperial pressure with similar concerns. Acts 5:29 is hagiographic — Luke is establishing the apostles as figures of conscience who stand up to corrupt authority. Each text is doing different rhetorical work for different audiences.\n\nThe contradiction has had massive downstream effects. Romans 13 has been deployed by every authoritarian Christian regime from Constantine to apartheid South Africa to Trump-era evangelicalism (cf. Jeff Sessions' 2018 invocation to justify family separation). Acts 5:29 is the standard text for Christian civil disobedience from the Anabaptists to Martin Luther King Jr. The New Testament hands the ethical question to the reader without giving them the resolution rules. Take your pick on which verse anchors your political theology — both have impeccable apostolic credentials.",
+      "scholarship": "Fitzmyer, Joseph A. *Romans*. Anchor Bible 33. New York: Doubleday, 1993, pp. 661-673 (on Romans 13:1-7).\n\nElliott, John H. *1 Peter*. Anchor Bible 37B. New York: Doubleday, 2000, pp. 484-499 (on 1 Pet 2:13-17).\n\nFitzmyer, Joseph A. *The Acts of the Apostles*. Anchor Bible 31. New York: Doubleday, 1998, pp. 336-340 (on Acts 5:29).\n\nHorsley, Richard A. *Paul and Empire: Religion and Power in Roman Imperial Society*. Harrisburg: Trinity Press International, 1997, pp. 184-204 (on Pauline political theology in imperial context).\n\nYoder, John Howard. *The Politics of Jesus*, 2nd ed. Grand Rapids: Eerdmans, 1994, pp. 193-211 (on the Romans 13 problem and the Anabaptist reading).",
+      "answers": [
+        {
+          "answer": "We should obey God rather than men.",
+          "answer_explanation": "We ought to obey God rather than men. Acts 5:29",
+          "references": [
+            "Acts 5:29"
+          ]
+        },
+        {
+          "answer": "We should obey the laws of man.",
+          "answer_explanation": "Submit yourselves to every ordinance of man. 1 Peter 2:13\n\nLet every soul be subject unto the higher powers. For there is no power but of God: the powers that be are ordained of God. \n\n\n\nWhosoever therefore resisteth the power, resisteth the ordinance of God: and they that resist shall receive to themselves damnation. \n\nFor rulers are not a terror to good works, but to the evil. Wilt thou then not be afraid of the power? do that which is good, and thou shalt have praise of the same: \n\nFor he is the minister of God to thee for good. But if thou do that which is evil, be afraid; for he beareth not the sword in vain: for he is the minister of God, a revenger to execute wrath upon him that doeth evil. Romans 13:1-4",
+          "references": [
+            "1 Peter 2:13",
+            "Romans 13:1-4"
+          ]
+        }
+      ],
+      "assessment": {
+        "scholarly_consensus": "probable_contradiction",
+        "textual_variant_involved": false,
+        "variant_description": "",
+        "critical_apparatus_ref": "",
+        "reasoning": "Critical scholars note Romans 13's categorical submission has no stated exception for unjust commands, creating genuine tension with Acts 5:29's sanctioned defiance, though the longstanding 'obey God when commands conflict' framework is a coherent (if imported) resolution."
+      },
+      "_audit": {
+        "status": "clean",
+        "issues": [],
+        "pass": 1,
+        "final": "clean"
+      }
+    },
+    {
+      "id": 534,
+      "question": "How old was Abraham when he left Haran?",
+      "category": "Numbers & Measurements",
+      "contradiction_type": "numerical",
+      "testament_scope": "OT_vs_NT",
+      "books_in_tension": "Genesis, Acts",
+      "summary": "Genesis 12:4 says Abram was 75 years old when he departed Haran. Genesis 11:26 says Terah was 70 when he begat Abram; Genesis 11:32 says Terah died at 205. Acts 7:2-4 explicitly says Abraham left Haran only after Terah died. Doing the arithmetic — 205 minus 70 — Terah died when Abram was 135. The Genesis 11 chronology combined with Stephen's speech in Acts is incompatible with Genesis 12:4.",
+      "commentary": "The arithmetic here is unforgiving and the contradiction is mechanical. Genesis 11:26 — Terah begat Abram at 70. Genesis 11:32 — Terah dies at 205. Subtraction: Abram is 135 when Terah dies. Acts 7:4 — Abram leaves Haran *after* Terah dies. Genesis 12:4 — Abram leaves Haran at 75. 75 does not equal 135.\n\nThe standard apologist resolution, which goes back to Augustine and is endorsed by Gleason Archer, takes Genesis 11:26 as a summary statement that doesn't mean Abram was Terah's firstborn. The reasoning: Genesis 11:26 says \"Terah lived 70 years and begat Abram, Nahor, and Haran\" — three sons listed, not all necessarily born when Terah was 70. Abram is listed first because of his theological importance, not birth order. So Abram could actually have been born when Terah was 130, making him 75 when Terah died at 205. The same move is made in Genesis 5 and 10.\n\nThis works as a textual maneuver but it's strained. The Hebrew construction of Genesis 11:26 follows the pattern of all the other patriarchal birth notices in chapter 11 — \"X lived Y years and begat Z\" — and in every other case the begetting age refers to the named child. The apologetic reading has to make Genesis 11:26 uniquely a summary statement while every other case in the chapter is direct. That's special pleading. The harder problem is Acts 7:4 itself. Stephen's speech reflects a tradition (likely from Philo or a similar Second Temple Jewish reading) that explicitly placed Abraham's departure after Terah's death. Stephen and the Genesis 12:4 chronology are operating from different starting assumptions.\n\nThe critical consensus, going back to Wellhausen and modern Pentateuchal scholars like Joel Baden, is that the Abraham chronology in Genesis was assembled from P-source genealogies and J-source narrative, and the seams between sources produced the inconsistency. Acts 7 then preserves a separate Hellenistic Jewish tradition that aligned with one possible reading but not with Genesis 12:4 as it stands. Three traditions, no clean fit. Take your pick — but the math is what it is.",
+      "scholarship": "Westermann, Claus. *Genesis 12-36: A Commentary*. Minneapolis: Augsburg, 1985, pp. 144-156 (on the Abrahamic chronology problem).\n\nSpeiser, E. A. *Genesis*. Anchor Bible 1. New York: Doubleday, 1964, pp. 77-79, 86-87 (on Genesis 11-12 sources).\n\nBaden, Joel S. *The Composition of the Pentateuch*. New Haven: Yale University Press, 2012, pp. 230-237 (on the P/J source layers in the Abraham cycle).\n\nFitzmyer, Joseph A. *The Acts of the Apostles*. Anchor Bible 31. New York: Doubleday, 1998, pp. 369-371 (on Stephen's speech and its Hellenistic Jewish chronology).\n\nArcher, Gleason L. *Encyclopedia of Bible Difficulties*. Grand Rapids: Zondervan, 1982, pp. 380-381 (representing the standard apologetic harmonization).\n\nHamilton, Victor P. *The Book of Genesis, Chapters 1-17*. New International Commentary on the Old Testament. Grand Rapids: Eerdmans, 1990, pp. 365-369 (representing the conservative position).",
+      "answers": [
+        {
+          "answer": "75 years old",
+          "answer_explanation": "Abram [Abraham] was seventy and five years old when he departed out of Haran. Genesis 12:4",
+          "references": [
+            "Genesis 12:4"
+          ]
+        },
+        {
+          "answer": "At least 135 years old",
+          "answer_explanation": "Abraham's father, Terah, was 70 years old when Abram was born.  \n\t\t\t\t                  \n\t\t\t\t        And Terah lived seventy years, and begat Abram [Abraham]. \n\t\t\t\t        Genesis 11:26-32\n\n\t\t\t\t        \n\t\t\t\t      Abraham didn't leave Haran until after Terah died.\n\t\t\t\t        \n\t\t\t\t        Our father Abraham ... dwelt in Haran: and from thence, when\n\t\t\t\t          his father was dead, he removed himself into this land. Acts 7:2-4\n\t\t\t\t                  \n\t\t\t\t        \n\t\t\t\t        And Terah lived to be 205.\n\t\t\t\t.        \n\t\t\t\t        And the days of Terah were two hundred and five years; and\n\t\t\t\t          Terah died in Haran. Genesis 11:32\n\n\t\t\t\t          \n\t\t\t\t          \n\t\t\t\t          So Abraham was at least 135 years old when he left Haran.",
+          "references": [
+            "Genesis 11:26-32",
+            "Acts 7:2-4",
+            "Genesis 11:32"
+          ]
+        }
+      ],
+      "assessment": {
+        "scholarly_consensus": "genuine_contradiction",
+        "textual_variant_involved": false,
+        "variant_description": "",
+        "critical_apparatus_ref": "",
+        "reasoning": "The arithmetic (Terah 70 + dies at 205, with Acts 7:4 placing departure after Terah's death, vs. Gen 12:4's age 75) is mechanically incompatible, and critical scholarship attributes it to differing source layers plus a separate Hellenistic-Jewish tradition in Acts; the apologetic 'Abram not firstborn' move is widely seen as special pleading."
+      },
+      "_audit": {
+        "status": "clean",
+        "issues": [],
+        "pass": 1,
+        "final": "clean"
+      }
+    },
+    {
+      "id": 535,
+      "question": "Did Paul go to Jerusalem from Damascus immediately after his conversion?",
+      "category": "Chronology & Sequence",
+      "contradiction_type": "chronological",
+      "testament_scope": "NT_internal",
+      "books_in_tension": "Acts, Galatians",
+      "summary": "Acts 9:26 says that when Saul came to Jerusalem after his conversion he tried to join the disciples, and the Lukan narrative places this trip very close to the Damascus event. Galatians 1:16-17, written by Paul himself, flatly denies it: he says immediately after his calling he did *not* go up to Jerusalem to confer with anyone, but went into Arabia and back to Damascus first, only going up to Jerusalem three years later (1:18). Luke and Paul tell incompatible stories about the post-conversion trajectory.",
+      "commentary": "This is one of the cleanest test cases for the historical reliability of Acts versus the autobiographical claims in Paul's own letters — and it's one where most critical scholars side with Paul. Paul writes Galatians under oath, essentially, swearing he's not lying (Gal 1:20). He's making his point precisely because his apostolic legitimacy depends on his not having received his gospel from the Jerusalem pillars. His own credibility on the timeline is staked on the claim that he didn't go up to Jerusalem immediately. He went to Arabia. Then back to Damascus. Then, *meta etē tria* — after three years — he went up to Jerusalem to see Peter, for just fifteen days, and saw no other apostle except James the Lord's brother (Gal 1:18-19).\n\nActs 9:26 places Saul's arrival in Jerusalem after he escapes Damascus by being lowered in a basket (Acts 9:25), which Acts treats as immediately following the conversion. Acts knows nothing of the Arabian sojourn. The Lukan timeline runs: conversion → Damascus preaching → escape → Jerusalem.\n\nThe traditional apologetic harmonization (Bruce, Witherington) inserts the Arabian trip into the gap implied by Acts 9:23 (\"after many days\") and treats Luke's \"many days\" as accommodating the three years. That works as a smoothing exercise, but it requires reading Acts 9:23-26 as a heavily compressed summary that silently skips an entire multi-year Arabian and Damascene ministry. The narrative as Luke tells it gives no indication of that compression.\n\nThe critical consensus, from Ernst Haenchen forward, is that Luke either didn't know about the Arabian period or chose to omit it because it didn't fit his theological program of presenting Paul as quickly integrated into the apostolic community. Luke is doing the work of harmonizing Paul with the Jerusalem mother church; Paul is doing the work of insisting on his independence from it. Different agendas, different timelines. Paul's first-person account wins on direct evidentiary grounds. Acts is doing apologetic narration. Take your pick on which to trust, but the methodological default in critical scholarship is to weight the primary source over the secondary.",
+      "scholarship": "Fitzmyer, Joseph A. *The Acts of the Apostles*. Anchor Bible 31. New York: Doubleday, 1998, pp. 433-441 (on Acts 9 and the Galatians problem).\n\nMartyn, J. Louis. *Galatians*. Anchor Bible 33A. New York: Doubleday, 1997, pp. 168-186 (on Gal 1:15-24).\n\nHaenchen, Ernst. *The Acts of the Apostles: A Commentary*. Philadelphia: Westminster, 1971, pp. 318-336 (classic statement of the discrepancy).\n\nKnox, John. *Chapters in a Life of Paul*. New York: Abingdon, 1950 (foundational critical reconstruction prioritizing the letters).\n\nWitherington, Ben III. *The Acts of the Apostles: A Socio-Rhetorical Commentary*. Grand Rapids: Eerdmans, 1998, pp. 320-328 (representing the conservative harmonization).\n\nBruce, F. F. *Paul: Apostle of the Heart Set Free*. Grand Rapids: Eerdmans, 1977, pp. 75-86 (on the Damascus-to-Jerusalem chronology and the Galatians/Acts integration).",
+      "answers": [
+        {
+          "answer": "Yes",
+          "answer_explanation": "And when Saul was come to Jerusalem, he assayed to join himself to the\n\t\t\t\t    disciples: but they were all afraid of him, and believed not that he was a\n\t\t\t\t    disciple. Acts 9:26",
+          "references": [
+            "Acts 9:26"
+          ]
+        },
+        {
+          "answer": "No",
+          "answer_explanation": "To reveal his Son in me, that I might preach him among the heathen;\n\t\t\t\t    immediately I conferred not with flesh and blood: Neither went I up to Jerusalem to them which were apostles before me; but\n\t\t\t\t    I went into Arabia, and returned again unto Damascus. \n\t\t\t\t    Galatians 1:16-17",
+          "references": [
+            "Galatians 1:16-17"
+          ]
+        }
+      ],
+      "assessment": {
+        "scholarly_consensus": "genuine_contradiction",
+        "textual_variant_involved": false,
+        "variant_description": "",
+        "critical_apparatus_ref": "",
+        "reasoning": "Mainstream critical scholarship (Haenchen, Knox, Martyn) prioritizes Paul's first-person, oath-bound Galatians account (Arabia, then Jerusalem after three years) over Acts 9's compressed immediate-Jerusalem narrative, treating the two as genuinely incompatible chronologies."
+      },
+      "_audit": {
+        "status": "clean",
+        "issues": [],
+        "pass": 1,
+        "final": "clean"
+      }
+    },
+    {
+      "id": 536,
+      "question": "Is it OK to eat meat sacrificed to other gods?",
+      "category": "Law, Morality & Ethics",
+      "contradiction_type": "ethical_legal",
+      "testament_scope": "NT_internal",
+      "books_in_tension": "Acts, 1 Corinthians",
+      "summary": "1 Corinthians 8:4-8 has Paul argue that since an idol is nothing, food sacrificed to it is theologically neutral — eating it neither commends nor condemns you to God. Acts 15:28-29 has the Jerusalem Council decree, as one of a handful of \"necessary things\" laid on Gentile believers by the Holy Ghost, that they must abstain from meat offered to idols. One text treats idol-meat as a matter of indifference governed only by love for a weaker brother; the other makes abstaining a binding apostolic requirement. They give incompatible answers to the same question.",
+      "commentary": "A note on the correction first: this entry came in mis-titled as \"Is circumcision required?\", but the cited verses and the source page (SAB's /contra/meat.html, \"Is it OK to eat meat sacrificed to other gods?\") are about food offered to idols, not circumcision — a scraper join error. The verses themselves were correct, so the title has been re-aligned to the food-sacrificed-to-idols question the verses actually support, rather than swapping in the circumcision proof-texts. Everything below describes that real Pauline-vs-Lukan seam.\n\n1 Corinthians 8:4-8: Paul argues that since idols are nothing, meat sacrificed to them is theologically neutral; eating it neither commends nor condemns. The only constraint is not to scandalize a weaker brother whose conscience is troubled. Acts 15:28-29: the Jerusalem Council under James decrees that Gentile believers must abstain from meat sacrificed to idols, from blood, from things strangled, and from sexual immorality. These are presented as binding (*epanankes* — \"necessary\").\n\nPaul's stance in 1 Corinthians 8-10 (cf. Romans 14) treats the idol-meat question as a matter of Christian liberty conditioned only by love for the weaker member. The Jerusalem Council treats it as a categorical prohibition. F. F. Bruce and the conservative tradition try to reconcile these by reading the Acts 15 decree as a temporary local accommodation for Antioch and Asia Minor, not a universal mandate — and noting that Paul might have respected the decree in those areas while teaching liberty elsewhere. But Paul never references the Jerusalem decree in his letters, including in 1 Corinthians, where it would have settled the dispute. Paul's silence on the Apostolic Decree (Acts 15) is one of the most consistent indicators that either Luke composed the decree to harmonize the early church or Paul didn't consider himself bound by it. The critical consensus (Lüdemann, Dunn) is that Luke's Acts 15 is a theological reconstruction; the historical Paul taught liberty on this question without conditions.\n\nThe SAB entry, once you correct the question title, is pointing at a real seam between Pauline and Lukan accounts of early church teaching.",
+      "scholarship": "Fitzmyer, Joseph A. *First Corinthians*. Anchor Yale Bible 32. New Haven: Yale University Press, 2008, pp. 333-352 (on 1 Cor 8 and idol-meat).\n\nFitzmyer, Joseph A. *The Acts of the Apostles*. Anchor Bible 31. New York: Doubleday, 1998, pp. 555-568 (on the Apostolic Decree).\n\nDunn, James D. G. *Beginning from Jerusalem*. Christianity in the Making, Vol. 2. Grand Rapids: Eerdmans, 2009, pp. 459-470 (on the historical reliability of the Acts 15 decree).\n\nLüdemann, Gerd. *The Acts of the Apostles: What Really Happened in the Earliest Days of the Church*. Amherst: Prometheus, 2005, pp. 173-185 (on Lukan composition of the Apostolic Decree).\n\nBruce, F. F. *The Book of the Acts*, rev. ed. New International Commentary on the New Testament. Grand Rapids: Eerdmans, 1988, pp. 294-302 (representing the conservative harmonization).",
+      "answers": [
+        {
+          "answer": "Yes.",
+          "answer_explanation": "As concerning therefore the eating of those things that are offered in sacrifice unto idols, \n\t\t\t\t       we know that an idol is nothing in the world, and that there is none other God but one. ... \n\t\t\t\t         But meat commendeth us not to God: for neither, if we eat, are we the better; neither, \n\t\t\t\t         if we eat not, are we the worse. 1 Corinthians 8:4-8",
+          "references": [
+            "1 Corinthians 8:4-8"
+          ]
+        },
+        {
+          "answer": "No.",
+          "answer_explanation": "For it seemed good to the Holy Ghost, and to us, to lay upon you no greater burden than these necessary things; That ye abstain from meats \n\t\t\t\t    offered to idols.... Acts 15:28-29",
+          "references": [
+            "Acts 15:28-29"
+          ]
+        }
+      ],
+      "assessment": {
+        "scholarly_consensus": "genuine_contradiction",
+        "textual_variant_involved": false,
+        "variant_description": "",
+        "critical_apparatus_ref": "",
+        "reasoning": "Critical consensus (Dunn, Lüdemann) holds that Paul's teaching of idol-meat as adiaphora (1 Cor 8-10) conflicts with the binding Acts 15 decree, with Paul's silence on the Apostolic Decree taken as evidence either of Lukan composition or of Paul not regarding himself bound; the local-accommodation harmonization is regarded as weak."
+      },
+      "_audit": {
+        "status": "clean",
+        "issues": [],
+        "pass": 1,
+        "final": "clean"
+      }
+    },
+    {
+      "id": 537,
+      "question": "If a husband believes, is his wife saved also?",
+      "category": "Salvation, Sin & Afterlife",
+      "contradiction_type": "theological",
+      "testament_scope": "NT_internal",
+      "books_in_tension": "Acts, 1 Corinthians",
+      "summary": "1 Corinthians 7:14 says the unbelieving spouse is sanctified through the believing one; Acts 16:31 promises the Philippian jailer that he and his household will be saved through his belief. 1 Corinthians 7:16 — written by the same Paul, in the same chapter — asks rhetorically, \"How do you know, wife, whether you will save your husband?\" The same author makes two opposite claims about the soteriological reach of one believing spouse, within the span of two verses.",
+      "commentary": "This one is interesting because the contradiction lives in the same chapter, two verses apart. 1 Corinthians 7:14 — *hēgiastai gar ho anēr ho apistos en tē gynaiki* — \"the unbelieving husband has been sanctified through the wife.\" That's a present perfect — already accomplished, already a settled status. Then 7:16 — *ti gar oidas, gynai, ei ton andra sōseis?* — \"how do you know, wife, whether you will save your husband?\" Doubt, contingency, uncertainty. Same chapter, same Paul.\n\nThe standard exegetical move (Fee, Garland) distinguishes *hagiasmos* (sanctification, ritual/relational holiness) from *sōtēria* (salvation, eschatological deliverance). 7:14 is making the lesser claim — the unbelieving spouse is in some relational sense holy because of the believing spouse, making the marriage and children legitimate within the community. 7:16 is making the larger claim — whether the believing spouse will actually convert the unbeliever to faith remains uncertain. On this reading, sanctification and salvation are two different things, and there's no contradiction.\n\nThat distinction works exegetically. The catch is that Paul uses the same word-family elsewhere (*hēgiasmenoi* in 1 Cor 1:2; *hagiazō* throughout) for the soteriological status of believers, not just for relational holiness. The line between sanctification and salvation is blurry in Pauline thought, and 7:14 explicitly extends this status to the children: \"else were your children unclean, but now are they holy.\" If the children are holy on account of one believing parent, that's pretty close to the inherited-salvation claim of Acts 16:31 (\"believe and you will be saved, you and your household\" — *sōthēsē sy kai ho oikos sou*).\n\nActs 16:31 is the bigger problem for the apologist. It explicitly promises salvation, not sanctification, to the jailer's household on the strength of his belief. That cuts against the standard Protestant individualist soteriology that requires each person to believe for themselves. The Reformed harmonization is to read \"household\" as meaning \"each member who believes,\" but that's not what the Greek says. The text says *you and your household will be saved* on the basis of your belief. Compare 1 Cor 7:16 again: how do you know if you'll save your spouse? You don't. Take your pick — sanctification or salvation, household-grace or individual-grace. Paul and Luke aren't fully aligned.",
+      "scholarship": "Fitzmyer, Joseph A. *First Corinthians*. Anchor Yale Bible 32. New Haven: Yale University Press, 2008, pp. 298-308 (on 1 Cor 7:12-16).\n\nFee, Gordon D. *The First Epistle to the Corinthians*. New International Commentary on the New Testament. Grand Rapids: Eerdmans, 1987, pp. 297-307 (representing the sanctification/salvation distinction).\n\nGarland, David E. *1 Corinthians*. Baker Exegetical Commentary on the New Testament. Grand Rapids: Baker, 2003, pp. 283-300.\n\nFitzmyer, Joseph A. *The Acts of the Apostles*. Anchor Bible 31. New York: Doubleday, 1998, pp. 588-592 (on Acts 16:31 and household salvation).\n\nMalherbe, Abraham J. *Social Aspects of Early Christianity*. Philadelphia: Fortress, 1983, pp. 64-91 (on household conversion in the Greco-Roman context).",
+      "answers": [
+        {
+          "answer": "Yes, his whole family is saved by his belief.",
+          "answer_explanation": "For the unbelieving husband is sanctified by the wife, and the unbelieving wife \n\t\t\t\t      is sanctified by the husband. 1 Corinthians 7:14\n\t\t\t\t      \n\t\t\t\t      Believe on the Lord Jesus Christ, and thou shalt be saved, and thy house. \n\t\t\t\t      Acts 16:31",
+          "references": [
+            "1 Corinthians 7:14",
+            "Acts 16:31"
+          ]
+        },
+        {
+          "answer": "Who knows?",
+          "answer_explanation": "For what knowest thou, O wife, whether thou shalt save thy husband? or how knowest thou, \n\t\t\t\t        O man, whether thou shalt save thy wife? 1 Corinthians 7:16",
+          "references": [
+            "1 Corinthians 7:16"
+          ]
+        }
+      ],
+      "assessment": {
+        "scholarly_consensus": "probable_harmonization",
+        "textual_variant_involved": false,
+        "variant_description": "",
+        "critical_apparatus_ref": "",
+        "reasoning": "The sanctification (hagiasmos, 7:14) vs. salvation (sōtēria, 7:16) distinction is the standard exegetical reading and is broadly accepted, so within 1 Corinthians the tension largely resolves; the Acts 16:31 household-salvation point introduces a softer cross-author tension rather than a clear contradiction."
+      },
+      "_audit": {
+        "status": "clean",
+        "issues": [],
+        "pass": 1,
+        "final": "clean"
+      }
+    },
+    {
+      "id": 538,
+      "question": "Can women be church leaders?",
+      "category": "Law, Morality & Ethics",
+      "contradiction_type": "ethical_legal",
+      "testament_scope": "NT_internal",
+      "books_in_tension": "Acts, 1 Corinthians, 1 Timothy",
+      "summary": "Acts 18:26 has Priscilla (with her husband Aquila) instructing Apollos in \"the way of God\" — a clear example of a woman exercising teaching authority in the early church. 1 Corinthians 14:34-35 commands that women keep silent in the churches and not speak; 1 Timothy 2:11-12 prohibits women from teaching or having authority over a man. Pauline-attributed texts both permit and prohibit female leadership in the same canon.",
+      "commentary": "This is one of the contradictions where the critical-scholarly explanation is overwhelming and the apologetic explanation is fragile. 1 Timothy is not from Paul — the Pastoral Epistles (1-2 Timothy, Titus) are pseudepigraphic in the mainstream critical consensus, going back through Bauckham, Brown, and Ehrman. The vocabulary, the church-order concerns (overseers, deacons, widow lists), the polemic against \"myths and endless genealogies,\" and the institutional setting all point to a late first or early second century author writing in Paul's name. So when 1 Timothy 2:11-12 prohibits women teaching, it's not Paul making that prohibition — it's a later Pauline-school author trying to constrain a Pauline tradition that had been more egalitarian.\n\n1 Corinthians 14:34-35 is a different problem. Many critical scholars (Fee, Conzelmann, Ehrman) argue these verses are an interpolation. They interrupt the flow of Paul's argument about prophecy, they appear in different positions in some manuscripts (after 14:40 in the Western text tradition), and they directly contradict 1 Corinthians 11:5, where Paul assumes women are prophesying and praying in the assembly — he just wants them to do it with their heads covered. The textual evidence is suggestive enough that NA28 and several major critical commentaries treat 14:34-35 as possibly secondary.\n\nMeanwhile, the egalitarian side of the canon is robust. Romans 16 names Phoebe as a deacon (*diakonos*) and Junia as outstanding among the apostles. Priscilla is consistently named before her husband Aquila — unusual in the ancient world and suggesting her prominence. Galatians 3:28 — neither male nor female in Christ — is a baptismal formula Paul cites approvingly. The apologist (Köstenberger, Schreiner) tries to reconcile by limiting the egalitarian texts to specific contexts and giving the restrictive texts universal force. The critical reading reverses that: the egalitarian practice is original, and the restrictive texts are either interpolations or pseudepigraphic walk-backs. Take your pick on which Paul to follow — but the historical Paul looks a lot more like the one who worked with Priscilla and Junia than the one who silences women in 1 Timothy.",
+      "scholarship": "Ehrman, Bart D. *Forged: Writing in the Name of God*. New York: HarperOne, 2011, pp. 93-114 (on the Pastoral Epistles as pseudepigrapha).\n\nBrown, Raymond E. *An Introduction to the New Testament*. Anchor Bible Reference Library. New York: Doubleday, 1997, pp. 638-680 (on the Pastoral Epistles and the case for pseudepigraphy).\n\nFee, Gordon D. *The First Epistle to the Corinthians*. New International Commentary on the New Testament. Grand Rapids: Eerdmans, 1987, pp. 699-708 (arguing 1 Cor 14:34-35 is an interpolation).\n\nConzelmann, Hans. *1 Corinthians*. Hermeneia. Philadelphia: Fortress, 1975, pp. 246-248 (on the interpolation hypothesis).\n\nFitzmyer, Joseph A. *First Corinthians*. Anchor Yale Bible 32. New Haven: Yale University Press, 2008, pp. 529-533 (on the textual problem in 1 Cor 14:34-35).\n\nMacDonald, Margaret Y. *The Pauline Churches*. SNTSMS 60. Cambridge: Cambridge University Press, 1988 (on the trajectory from egalitarianism to restriction in the Pauline tradition).\n\nBauckham, Richard. *Gospel Women: Studies of the Named Women in the Gospels*. Grand Rapids: Eerdmans, 2002 (on the prominence of women in early Christian sources).\n\nSchreiner, Thomas R., and Andreas J. Köstenberger, eds. *Women in the Church*, 3rd ed. Wheaton: Crossway, 2016 (representing the complementarian harmonization).",
+      "answers": [
+        {
+          "answer": "Yes, they can.",
+          "answer_explanation": "Priscilla ... expounded unto him the way of God. Acts 18:26",
+          "references": [
+            "Acts 18:26"
+          ]
+        },
+        {
+          "answer": "No, they cannot.",
+          "answer_explanation": "Let your women keep silence in the churches: for it is not permitted\n\t\t\t\t          unto them to speak; but they are commanded to be under obedience as\n\t\t\t\t          also saith the law. And if they will learn any thing, let them ask\n\t\t\t\t          their husbands at home: for it is a shame for women to speak in the\n\t\t\t\t          church. 1 Corinthians 14:34-35\n\t\t\t\t\n\t\t\t\t        Let the woman learn in silence with all subjection. But I suffer not\n\t\t\t\t          a woman to teach, nor to usurp authority over the man, but to be in\n\t\t\t\t          silence. 1 Timothy 2:11-12",
+          "references": [
+            "1 Corinthians 14:34-35",
+            "1 Timothy 2:11-12"
+          ]
+        }
+      ],
+      "assessment": {
+        "scholarly_consensus": "genuine_contradiction",
+        "textual_variant_involved": true,
+        "variant_description": "In the Western text tradition (D F G, and some Old Latin/Vulgate witnesses) 1 Cor 14:34-35 is transposed to follow v. 40; many scholars (Fee, Conzelmann) take this dislocation as evidence the verses are a non-Pauline interpolation.",
+        "critical_apparatus_ref": "Metzger, A Textual Commentary on the Greek New Testament, 2nd ed., on 1 Cor 14:34-35; NA28 apparatus at 1 Cor 14:34-35",
+        "reasoning": "Critical consensus treats the Pastorals (1 Tim) as pseudepigraphic and widely regards 1 Cor 14:34-35 as a possible interpolation (displaced in Western manuscripts), so the restrictive texts genuinely conflict with the egalitarian practice attested elsewhere; variant_description tightened per audit."
+      },
+      "_audit": {
+        "status": "clean",
+        "issues": [],
+        "pass": 2,
+        "final": "clean"
+      }
+    },
+    {
+      "id": 539,
+      "question": "In whose name is baptism to be performed?",
+      "category": "Jesus & the Gospels",
+      "contradiction_type": "factual_historical",
+      "testament_scope": "NT_internal",
+      "books_in_tension": "Matthew, Acts",
+      "summary": "Matthew 28:19 has the risen Jesus command baptism \"in the name of the Father, and of the Son, and of the Holy Ghost\" — a Trinitarian formula. Acts 2:38, 8:16, 10:48, and 19:5 all describe actual baptisms being performed in the name of Jesus Christ alone. The Lukan record of early church practice and the Matthean Great Commission disagree about the baptismal formula.",
+      "commentary": "Here's where the textual history gets interesting. Every actual baptism described in Acts uses a Jesus-only formula — *eis to onoma tou kyriou Iēsou*, \"in the name of the Lord Jesus,\" or variations. Four separate instances, all consistent. Matthew 28:19, by contrast, has the full Trinitarian formula — *eis to onoma tou patros kai tou hyiou kai tou hagiou pneumatos*. If the Great Commission as recorded in Matthew is what Jesus actually said, the apostles in Acts are systematically disobeying it.\n\nThe critical-scholarly explanation has two layers. First — and this is a longstanding minority position with serious advocates — there's textual evidence that the Trinitarian formula in Matthew 28:19 may be a later liturgical addition. Eusebius of Caesarea, writing before the Council of Nicaea, repeatedly quotes Matthew 28:19 in a shorter form: \"Go and make disciples of all nations in my name.\" He cites this short form at least 17 times across his works. After Nicaea, Eusebius starts quoting the Trinitarian form. F. C. Conybeare argued in 1901 that the Trinitarian formula was a post-Nicene liturgical insertion. The textual evidence is contested — every Greek manuscript we have includes the Trinitarian formula — but Eusebius is an early and important witness, and his pre-Nicene quotations are weird.\n\nSecond — even if Matthew 28:19 is original in the Trinitarian form — the formula reflects the developed liturgical practice of Matthew's community at the time of writing (likely 80s-90s CE), not the historical practice of the earliest church. Acts preserves the older Jesus-only formula because that's what the early Christians actually did. Larry Hurtado and James Dunn both treat the Jesus-only baptism as the original practice; Matthew's Trinitarian formula reflects a later catechetical and liturgical development.\n\nThe apologist harmonization (Carson) reads \"in the name of\" as functionally equivalent across both formulations — the Jesus-only baptism is implicitly Trinitarian because Jesus is the second person of the Trinity. That's anachronistic theology imported into pre-Nicene texts. Take your pick — either Matthew 28:19 is a liturgical anachronism on the lips of Jesus, or the apostles systematically disobeyed his explicit command. Neither answer is comfortable for the harmonization view.",
+      "scholarship": "Conybeare, F. C. \"The Eusebian Form of the Text Matth. 28:19.\" *Zeitschrift für die Neutestamentliche Wissenschaft* 2 (1901): 275-288 (foundational text-critical argument).\n\nDavies, W. D., and Dale C. Allison. *A Critical and Exegetical Commentary on the Gospel According to Saint Matthew*, Vol. 3. International Critical Commentary. Edinburgh: T&T Clark, 1997, pp. 682-688 (on Matt 28:19 and the baptismal formula).\n\nFitzmyer, Joseph A. *The Acts of the Apostles*. Anchor Bible 31. New York: Doubleday, 1998, pp. 263-267 (on Acts 2:38 and Jesus-name baptism).\n\nHurtado, Larry W. *Lord Jesus Christ: Devotion to Jesus in Earliest Christianity*. Grand Rapids: Eerdmans, 2003, pp. 198-202 (on the development of baptismal practice).\n\nDunn, James D. G. *Baptism in the Holy Spirit*. London: SCM, 1970, pp. 117-131 (on early baptismal formulas).\n\nFerguson, Everett. *Baptism in the Early Church*. Grand Rapids: Eerdmans, 2009, pp. 134-145 (on the textual and liturgical history of Matt 28:19).\n\nCarson, D. A. \"Matthew.\" In *The Expositor's Bible Commentary*, rev. ed., Vol. 9, edited by Tremper Longman III and David E. Garland, 23-670 (esp. 666-668 on Matt 28:19). Grand Rapids: Zondervan, 2010 (representing the Trinitarian harmonization).",
+      "answers": [
+        {
+          "answer": "The Father, and of the Son, and of the Holy Ghost.",
+          "answer_explanation": "Go ye therefore, and teach all nations, baptizing them\n\t\t\t\t          in the name of the Father, and of the Son, and of the Holy Ghost. Matthew 28:19",
+          "references": [
+            "Matthew 28:19"
+          ]
+        },
+        {
+          "answer": "Jesus.",
+          "answer_explanation": "Then Peter said unto them, Repent, and be baptized every one\n\t\t\t\t          of you in the name of Jesus Christ. Acts 2:38\n\t\t\t\t \n\t\t\t\t        They were baptized in the name of the Lord Jesus. Acts 8:16\n\t\t\t\t\n\t\t\t\t      \nAnd he commanded them to be baptized in the name of the Lord. Acts 10:48\n\t\t\t\t\n\t\t\t\t        \nWhen they heard this, they were baptized in the name of the\n\t\t\t\t          Lord Jesus. Acts 19:5",
+          "references": [
+            "Acts 2:38",
+            "Acts 8:16",
+            "Acts 10:48",
+            "Acts 19:5"
+          ]
+        }
+      ],
+      "assessment": {
+        "scholarly_consensus": "probable_contradiction",
+        "textual_variant_involved": false,
+        "variant_description": "",
+        "critical_apparatus_ref": "",
+        "reasoning": "Critical scholars (Hurtado, Dunn) hold that Jesus-name baptism was the earliest practice and the Trinitarian Matt 28:19 formula reflects later liturgical development, yielding a real tension; however the Conybeare/Eusebian 'short reading' is not supported by any extant Greek manuscript and is a contested minority position, so this is not graded as a textual variant."
+      },
+      "_audit": {
+        "status": "clean",
+        "issues": [],
+        "pass": 1,
+        "final": "clean"
+      }
+    },
+    {
+      "id": 540,
+      "question": "Did the men with Paul hear the voice?",
+      "category": "History & Narrative Events",
+      "contradiction_type": "factual_historical",
+      "testament_scope": "NT_internal",
+      "books_in_tension": "Acts",
+      "summary": "Acts 9:7 says the men traveling with Saul stood speechless, hearing the voice but seeing no one. Acts 22:9 — in Paul's own retelling of the same event later in Acts — says they saw the light but did *not* hear the voice of the one speaking to him. Same author, same event, two flatly contradictory descriptions of what Saul's companions experienced. The reference \"Acts.22:9\" in the source uses a non-standard formatting (period instead of space).",
+      "commentary": "This is one of the cleanest in-canon contradictions because it's the same author contradicting himself about the same event. Acts 9:7: *akouontes men tēs phōnēs, mēdena de theōrountes* — \"hearing the voice but seeing no one.\" Acts 22:9: *tēn de phōnēn ouk ēkousan tou lalountos moi* — \"they did not hear the voice of the one speaking to me.\" Both verses are Luke writing, both verses describe the Damascus road experience, and they directly disagree.\n\nThe traditional harmonization, going back to Augustine and championed by Gleason Archer, hinges on the Greek genitive vs. accusative distinction with *akouō*. *Akouō* + genitive (Acts 9:7, *tēs phōnēs*, genitive) supposedly means \"hear a sound\"; *akouō* + accusative (Acts 22:9, *tēn phōnēn*, accusative) supposedly means \"hear with comprehension.\" So the men heard a sound but didn't understand the words. Problem solved.\n\nThis is one of the most repeated apologetic moves on this contradiction, and it doesn't survive scrutiny. The genitive/accusative distinction with *akouō* doesn't consistently work that way in Koine Greek. Daniel Wallace's *Greek Grammar Beyond the Basics* notes that the case distinction with *akouō* is not a reliable marker of comprehension vs. mere hearing. Examples cut both ways — accusative is used for unintelligible sounds, genitive for intelligible speech, and vice versa. F. F. Bruce, who is no friend to skeptical readings, admitted that the case-distinction harmonization \"cannot be relied upon.\"\n\nMore importantly, the visual experience also contradicts. Acts 9:7 says they saw no one. Acts 22:9 says they saw the light. Acts 26:13-14 (Paul's third retelling) says everyone fell to the ground; Acts 9:7 says they stood. Three retellings, three different versions of who was standing, who fell, who saw what, who heard what. The critical consensus, from Haenchen forward, is that Luke is composing the three retellings independently for narrative purposes, not preserving a single eyewitness account. The discrepancies are exactly what you'd expect from an author writing dramatic speeches in character without harmonizing them against each other. Take your pick on which retelling counts — but the case-grammar dodge is dead.\n\nNote: The bibleReferences field contains \"Acts.22:9\" with a period rather than space, which is non-standard formatting and likely a scraper artifact. The reference should display as \"Acts 22:9\".",
+      "scholarship": "Fitzmyer, Joseph A. *The Acts of the Apostles*. Anchor Bible 31. New York: Doubleday, 1998, pp. 423-433, 704-708, 758-762 (on the three Damascus road retellings).\n\nHaenchen, Ernst. *The Acts of the Apostles: A Commentary*. Philadelphia: Westminster, 1971, pp. 318-322, 624-630 (classic critical treatment).\n\nWallace, Daniel B. *Greek Grammar Beyond the Basics*. Grand Rapids: Zondervan, 1996, pp. 133-134 (on the unreliability of the *akouō* case distinction).\n\nBruce, F. F. *The Book of the Acts*, rev. ed. New International Commentary on the New Testament. Grand Rapids: Eerdmans, 1988, pp. 184-188 (conceding the difficulty).\n\nArcher, Gleason L. *Encyclopedia of Bible Difficulties*. Grand Rapids: Zondervan, 1982, pp. 382-383 (representing the standard apologetic argument).\n\nNote: The bibleReferences entry \"Acts.22:9\" uses non-standard period-separator formatting; should be \"Acts 22:9\" for downstream consistency.",
+      "answers": [
+        {
+          "answer": "Yes, they heard the voice.",
+          "answer_explanation": "And the men which journeyed with him stood speechless, hearing\n\t\t\t\t          a voice, but seeing no man. Acts 9:7",
+          "references": [
+            "Acts 9:7"
+          ]
+        },
+        {
+          "answer": "No, they didn't hear the voice.",
+          "answer_explanation": "And they that were with me saw indeed the light, and\n\t\t\t\t          were afraid; but they heard not the voice of him that spake to\n\t\t\t\t          me. Acts.22:9",
+          "references": [
+            "Acts 22:9"
+          ]
+        }
+      ],
+      "assessment": {
+        "scholarly_consensus": "genuine_contradiction",
+        "textual_variant_involved": false,
+        "variant_description": "",
+        "critical_apparatus_ref": "",
+        "reasoning": "Critical consensus (Haenchen, Fitzmyer) treats Acts 9:7 vs. 22:9 (and 26:13-14) as Luke composing the three Damascus-road retellings independently with genuine discrepancies; the akouō genitive/accusative harmonization is widely judged unreliable, even conceded by Bruce."
+      },
+      "_audit": {
+        "status": "clean",
+        "issues": [],
+        "pass": 1,
+        "final": "clean"
+      }
+    }
+  ]
+}

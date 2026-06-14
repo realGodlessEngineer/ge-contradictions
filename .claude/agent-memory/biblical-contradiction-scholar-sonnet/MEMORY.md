@@ -1,0 +1,1 @@
+- [Enrichment classification schema and patterns](project_enrichment_classification.md) — answers[] are raw biblical positions (default concedes_difficulty); contradiction_type precedence rules; difficulty/notoriety patterns

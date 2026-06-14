@@ -1,0 +1,167 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>INFALLIBLE - Display</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700;900&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/display/styles.css">
+</head>
+<body>
+    <!-- Audio Enable Overlay -->
+    <div class="audio-overlay" id="audioOverlay">
+        <button class="audio-enable-btn" id="audioEnableBtn">
+            🔊 Click to Enable Audio
+        </button>
+    </div>
+
+    <div class="display-container">
+        <!-- Idle Screen -->
+        <section class="screen idle-screen active" id="idleScreen">
+            <div class="logo-container">
+                <h1 class="game-title">INFALLIBLE</h1>
+                <p class="game-tagline">You Can't Be Wrong!</p>
+            </div>
+            <div class="waiting-text">
+                <span class="pulse">Waiting for game to start...</span>
+            </div>
+        </section>
+        
+        <!-- Jesus Mode Intro -->
+        <section class="screen jesus-intro-screen" id="jesusIntroScreen">
+            <div class="jesus-intro">
+                <div class="cross-icon">✝️</div>
+                <h2>SPECIAL ROUND</h2>
+                <h1>ALL QUESTIONS ABOUT JESUS</h1>
+                <p class="jesus-subtitle">Because even the Son of God contradicts himself</p>
+            </div>
+        </section>
+        
+        <!-- Question Screen -->
+        <section class="screen question-screen" id="questionScreen">
+            <!-- Compact Header -->
+            <header class="game-header-compact">
+                <h1 class="title-centered">INFALLIBLE</h1>
+            </header>
+            
+            <!-- Jesus Mode Banner -->
+            <div class="jesus-mode-banner" id="jesusBanner" style="display: none;">
+                ✝️ JESUS MODE ✝️
+            </div>
+            
+            <!-- Question Card -->
+            <div class="question-card">
+                <div class="question-label">THE QUESTION</div>
+                <div class="question-text" id="questionText">
+                    Loading question...
+                </div>
+            </div>
+            
+            <!-- Answers Grid (shown during question phase) -->
+            <div class="answers-grid" id="answersGrid">
+                <!-- Answers populated dynamically -->
+            </div>
+        </section>
+        
+        <!-- Correct Answer Reveal Screen -->
+        <section class="screen reveal-screen correct-screen" id="correctScreen">
+            <header class="game-header-compact">
+                <h1 class="title-centered">INFALLIBLE</h1>
+            </header>
+            
+            <!-- Correct Banner -->
+            <div class="result-banner correct-banner">
+                <span class="result-icon">✓</span>
+                <span class="result-text">CORRECT!</span>
+            </div>
+            
+            <!-- Question Reminder -->
+            <div class="question-reminder" id="correctQuestionReminder">
+                <!-- Question text -->
+            </div>
+            
+            <!-- Selected Answer (highlighted) -->
+            <div class="selected-answer-section">
+                <div class="section-label">YOUR ANSWER</div>
+                <div class="selected-answer-card" id="selectedAnswerCard">
+                    <!-- Populated dynamically -->
+                </div>
+            </div>
+            
+            <!-- Other Correct Answers -->
+            <div class="other-answers-section" id="otherAnswersSection">
+                <div class="section-label">ALSO CORRECT</div>
+                <div class="other-answers-list" id="otherAnswersList">
+                    <!-- Populated dynamically -->
+                </div>
+            </div>
+        </section>
+        
+        <!-- Wrong Choice Screen -->
+        <section class="screen reveal-screen wrong-screen" id="wrongScreen">
+            <header class="game-header-compact">
+                <h1 class="title-centered">INFALLIBLE</h1>
+            </header>
+            
+            <!-- Wrong Banner -->
+            <div class="result-banner wrong-banner">
+                <span class="result-icon">✗</span>
+                <span class="result-text">HOW COULD YOU GET THIS WRONG?</span>
+            </div>
+            
+            <!-- Question Reminder -->
+            <div class="question-reminder" id="wrongQuestionReminder">
+                <!-- Question text -->
+            </div>
+            
+            <!-- All Correct Answers -->
+            <div class="all-answers-section">
+                <div class="section-label">THE CORRECT ANSWERS WERE</div>
+                <div class="all-answers-list" id="allAnswersList">
+                    <!-- Populated dynamically -->
+                </div>
+            </div>
+        </section>
+        
+        <!-- Win Screen -->
+        <section class="screen result-screen win-screen" id="winScreen">
+            <div class="result-container">
+                <div class="confetti-container" id="confetti"></div>
+                <div class="trophy">🏆</div>
+                <h1 class="result-title">CONGRATULATIONS!</h1>
+                <div class="prize-card">
+                    <div class="prize-label">YOUR PRIZE</div>
+                    <p class="prize-text">
+                        "You no longer have to believe in God because he violates the law of non-contradiction!"
+                    </p>
+                </div>
+                <div class="final-stats">
+                    <span class="stat">Score: <strong id="winScore">10</strong>/<span id="winTotal">10</span></span>
+                </div>
+            </div>
+        </section>
+
+        <!-- Lose Screen -->
+        <section class="screen result-screen lose-screen" id="loseScreen">
+            <div class="result-container">
+                <div class="fail-icon">🤦</div>
+                <h1 class="result-title fail-title">UNBELIEVABLE!</h1>
+                <div class="prize-card fail-card">
+                    <div class="prize-label">YOUR PRIZE</div>
+                    <p class="prize-text">
+                        "How did you lose this? Every answer was a correct answer but you managed to be as useless as your God."
+                    </p>
+                </div>
+                <div class="final-stats">
+                    <span class="stat">Score: <strong id="loseScore">0</strong>/<span id="loseTotal">10</span></span>
+                    <span class="stat wrong">Wrong Choices: <strong id="loseWrong">0</strong></span>
+                </div>
+            </div>
+        </section>
+    </div>
+    
+    <script src="/display/app.js"></script>
+</body>
+</html>

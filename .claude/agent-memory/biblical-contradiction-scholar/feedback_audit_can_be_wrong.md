@@ -1,0 +1,12 @@
+---
+name: audit-corrections-can-be-wrong
+description: When fixing auditor-flagged commentary, verify the auditor's correction against real scholarship before applying — the correction itself can be factually wrong.
+metadata:
+  type: feedback
+---
+
+In the commentary_fix pipeline (data/commentary_fix/batch_NN.json), an `_audit.issues[].correction` is an instruction, not ground truth. Verify it against the actual biblical text and real scholarship before applying. If the correction would introduce an error, do NOT apply it — fix only the genuinely verifiable defect and flag the bad correction in change_summary + the final report.
+
+**Why:** The task constraints say "verify against actual scholarship; introduce no new errors" and "NO FABRICATION." These override the audit instruction. In batch_01, entry 276 (Baasha's death / 2 Chr 16:1), the audit claimed as "high severity" that "Thiele explicitly REJECTED the divided-kingdom-dating harmonization" and "treated the numbers as a corrupt/late gloss." Multiple sources (Thiele, *Mysterious Numbers*, p. 59; Apologetics Press "When Did Baasha Reign?"; Wikipedia) show the opposite: Thiele ENDORSED the divided-kingdom counting (36th year = years since the schism = Asa's 16th year). The copyist-error view (35/36 from original 15/16, yod/lamed confusion) is the one held by Keil-Delitzsch and Geisler-Howe; the divided-kingdom view is Jamieson-Fausset-Brown + Thiele. Flipping the attribution per the audit would have created a new error.
+
+**How to apply:** For each flagged issue, (1) check whether the auditor's `correction` is itself accurate; (2) apply it only if verified; (3) where the auditor withdraws an issue ("No correction needed / Disregard"), make NO content change — just refresh change_summary (e.g., entry 277 Jehu had three self-withdrawn issues); (4) where the auditor is wrong, fix the real underlying imprecision instead and document the divergence in change_summary so the next audit pass sees the reasoning. Recurring genuine defect type: fabricated/over-precise source attributions (e.g., entry 273 falsely cited Josephus Ant. 8.249-250 for a Tamar-Uriel-Maachah link that Josephus does not record; the granddaughter bridge is a modern Keil-Delitzsch/Archer inference from 2 Sam 14:27 + 2 Chr 13:2). Also recurring: over-precise versional slates (entry 286 — LXX of 2 Chr 22:2 reads "twenty," not a Lucianic/Peshitta/Arabic/Hebrew-MS slate all reading "twenty-two"; 2 Kgs 8:26 reads twenty-two in both MT and LXX).

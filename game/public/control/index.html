@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>INFALLIBLE - Game Control</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cinzel:wght@400;600;700&family=Crimson+Pro:ital,wght@0,400;0,600;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/control/styles.css">
+</head>
+<body>
+    <div class="control-panel">
+        <header class="header" id="connectionStatus">
+            <span class="status-dot"></span>
+            <h1>INFALLIBLE</h1>
+            <span class="phase-value" id="phaseValue">IDLE</span>
+        </header>
+        
+        <!-- Start Screen -->
+        <section class="panel start-panel" id="startPanel">
+            <h2>Start New Game</h2>
+            <div class="stats-display" id="statsDisplay">
+                <p>Loading database...</p>
+            </div>
+            <div class="start-options">
+                <button class="btn btn-primary btn-large" id="btnStartRandom">
+                    🎲 Start Random Game
+                </button>
+                <button class="btn btn-secondary btn-large" id="btnStartJesus">
+                    ✝️ Start Jesus Mode
+                </button>
+            </div>
+        </section>
+        
+        <!-- Game Control -->
+        <section class="panel game-panel" id="gamePanel" style="display: none;">
+            <!-- Progress -->
+            <div class="progress-bar">
+                <div class="progress-fill" id="progressFill"></div>
+                <span class="progress-text" id="progressText">0 / 10</span>
+            </div>
+            
+            <!-- Jesus Mode Banner -->
+            <div class="jesus-banner" id="jesusBanner" style="display: none;">
+                ✝️ JESUS MODE ACTIVATED ✝️
+            </div>
+            
+            <!-- Score Display -->
+            <div class="score-display">
+                <div class="score-item">
+                    <span class="score-label">Correct</span>
+                    <span class="score-value" id="scoreValue">0</span>
+                </div>
+                <div class="score-item wrong">
+                    <span class="score-label">Chose Wrong</span>
+                    <span class="score-value" id="wrongValue">0</span>
+                </div>
+            </div>
+            
+            <!-- Current Question -->
+            <div class="question-section">
+                <h3>Current Question</h3>
+                <div class="question-text" id="questionText">
+                    No question loaded
+                </div>
+                <a class="question-link" id="questionLink" href="#" target="_blank">View Source</a>
+            </div>
+            
+            <!-- Answers -->
+            <div class="answers-section">
+                <h3>Answers</h3>
+                <div class="answers-list" id="answersList">
+                    <!-- Answers populated dynamically -->
+                </div>
+            </div>
+            
+            <!-- Control Buttons -->
+            <div class="control-buttons">
+                <button class="btn btn-danger" id="btnChooseWrong" disabled>
+                    ❌ Choose To Be Wrong
+                </button>
+                <button class="btn btn-primary" id="btnNextQuestion" disabled>
+                    Next Question →
+                </button>
+                <button class="btn btn-secondary" id="btnEndGame">
+                    End Game
+                </button>
+            </div>
+        </section>
+        
+        <!-- Game Over Panel -->
+        <section class="panel gameover-panel" id="gameoverPanel" style="display: none;">
+            <h2 id="gameoverTitle">Game Complete!</h2>
+            <div class="final-score">
+                <p>Correct Answers: <span id="finalScore">0</span> / 10</p>
+                <p>Wrong Choices: <span id="finalWrong">0</span></p>
+            </div>
+            <div class="result-message" id="resultMessage"></div>
+            <button class="btn btn-primary btn-large" id="btnPlayAgain">
+                🔄 Play Again
+            </button>
+        </section>
+    </div>
+    
+    <script src="/control/app.js"></script>
+</body>
+</html>

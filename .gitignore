@@ -1,0 +1,25 @@
+# --- Dependencies ---
+node_modules/
+
+# --- Secrets / local machine config ---
+.env
+**/.env
+.claude/settings.local.json
+
+# --- Database binaries ---
+# The DB is versioned as a diff-friendly SQL snapshot (db/schema.sql + db/data.sql)
+# and rebuilt with `node .scripts/buildDbFromSql.js`. The binaries are not tracked.
+# This also excludes the two large foreign artifacts (bible_reference.db ~397 MB,
+# study-bundle.db ~176 MB) that exceed GitHub's file-size limit and are unrelated to
+# this project's pipeline.
+*.db
+
+# --- Database backups ---
+.archive/
+*.bak
+*.bak-*
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+*.log

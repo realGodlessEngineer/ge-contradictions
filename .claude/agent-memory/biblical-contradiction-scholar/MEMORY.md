@@ -1,0 +1,6 @@
+- [Pipeline structure](project_pipeline.md) — batch_NN.json enrichment workflow, schema, and how `recommend_delete` interacts with other fields
+- [Voice requirements](feedback_style_guide.md) — use docs/Godless_Engineer_Style_Guide_v4.md; no bullet lists; formal citations only in scholarship field
+- [Data quality issues](reference_data_quality.md) — malformed refs, mismatched Q/A joins, how to detect and flag them
+- [Preserve schema fields](feedback_preserve_schema.md) — full Write of batch_NN.json must include all 9 keys; prefer Edit for surgical changes
+- [Audit corrections can be wrong](feedback_audit_can_be_wrong.md) — verify each `_audit` correction against real scholarship before applying; don't introduce a new error to satisfy a bad audit (e.g. Thiele/2 Chr 16:1)
+- [Jeremiah commentary scope-fit](reference_jeremiah_commentary_scope.md) — Holladay Hermeneia Vol 1 (1986, chs 1-25) vs Vol 2 (1989, chs 26-52); Lundbom AB 21B (2004) = chs 21-36; match volume to chapter

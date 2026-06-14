@@ -1,0 +1,1459 @@
+{
+  "generatedAt": "2026-06-12T13:51:08.900Z",
+  "db": "contradictions.db",
+  "scanned": 605,
+  "flagged": 92,
+  "flagCounts": {
+    "scope_mismatch": 0,
+    "summary_disjoint": 0,
+    "impossible_chapter": 2,
+    "bit_mismatch": 0,
+    "commentary_disjoint": 17,
+    "ref_book_absent": 76,
+    "summary_no_books": 5,
+    "no_structured_refs": 0
+  },
+  "severity": {
+    "scope_mismatch": "HIGH",
+    "summary_disjoint": "HIGH",
+    "impossible_chapter": "HIGH",
+    "bit_mismatch": "MEDIUM",
+    "commentary_disjoint": "MEDIUM",
+    "ref_book_absent": "LOW",
+    "summary_no_books": "LOW",
+    "no_structured_refs": "LOW"
+  },
+  "entries": [
+    {
+      "id": 326,
+      "severity": 0,
+      "flags": [
+        {
+          "type": "impossible_chapter",
+          "issues": [
+            {
+              "ref": "Nehemiah 655",
+              "book": "Nehemiah",
+              "chapter": 655,
+              "max": 13
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 410,
+      "severity": 0,
+      "flags": [
+        {
+          "type": "impossible_chapter",
+          "issues": [
+            {
+              "ref": "Matthew 64:5",
+              "book": "Matthew",
+              "chapter": 64,
+              "max": 28
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "severity": 1,
+      "flags": [
+        {
+          "type": "commentary_disjoint",
+          "commentaryBooks": [
+            "Job",
+            "Genesis",
+            "Exodus",
+            "Hosea",
+            "Psalms"
+          ],
+          "refBooks": [
+            "John",
+            "1 John",
+            "Luke",
+            "Romans"
+          ]
+        },
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "1 John"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 74,
+      "severity": 1,
+      "flags": [
+        {
+          "type": "commentary_disjoint",
+          "commentaryBooks": [
+            "Judges",
+            "Ezekiel"
+          ],
+          "refBooks": [
+            "Genesis",
+            "Leviticus",
+            "Deuteronomy",
+            "2 Kings",
+            "2 Chronicles"
+          ]
+        },
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "2 Chronicles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 323,
+      "severity": 1,
+      "flags": [
+        {
+          "type": "commentary_disjoint",
+          "commentaryBooks": [
+            "Genesis"
+          ],
+          "refBooks": [
+            "Ezra",
+            "Nehemiah"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 381,
+      "severity": 1,
+      "flags": [
+        {
+          "type": "commentary_disjoint",
+          "commentaryBooks": [
+            "Psalms"
+          ],
+          "refBooks": [
+            "Jonah"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 388,
+      "severity": 1,
+      "flags": [
+        {
+          "type": "commentary_disjoint",
+          "commentaryBooks": [
+            "1 Chronicles"
+          ],
+          "refBooks": [
+            "Matthew"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 442,
+      "severity": 1,
+      "flags": [
+        {
+          "type": "commentary_disjoint",
+          "commentaryBooks": [
+            "Ecclesiasticus"
+          ],
+          "refBooks": [
+            "Matthew",
+            "Mark",
+            "Luke"
+          ]
+        },
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Matthew",
+            "Mark",
+            "Luke"
+          ]
+        },
+        {
+          "type": "summary_no_books"
+        }
+      ]
+    },
+    {
+      "id": 449,
+      "severity": 1,
+      "flags": [
+        {
+          "type": "commentary_disjoint",
+          "commentaryBooks": [
+            "Zechariah"
+          ],
+          "refBooks": [
+            "Matthew",
+            "Luke",
+            "Mark",
+            "John"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 461,
+      "severity": 1,
+      "flags": [
+        {
+          "type": "commentary_disjoint",
+          "commentaryBooks": [
+            "Exodus"
+          ],
+          "refBooks": [
+            "Matthew",
+            "Luke",
+            "Mark"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 463,
+      "severity": 1,
+      "flags": [
+        {
+          "type": "commentary_disjoint",
+          "commentaryBooks": [
+            "2 Samuel",
+            "2 Maccabees"
+          ],
+          "refBooks": [
+            "Matthew",
+            "Acts"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 465,
+      "severity": 1,
+      "flags": [
+        {
+          "type": "commentary_disjoint",
+          "commentaryBooks": [
+            "Isaiah"
+          ],
+          "refBooks": [
+            "Matthew",
+            "Mark",
+            "John"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 466,
+      "severity": 1,
+      "flags": [
+        {
+          "type": "commentary_disjoint",
+          "commentaryBooks": [
+            "Acts"
+          ],
+          "refBooks": [
+            "Luke",
+            "Matthew",
+            "Mark",
+            "John"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 469,
+      "severity": 1,
+      "flags": [
+        {
+          "type": "commentary_disjoint",
+          "commentaryBooks": [
+            "Psalms",
+            "Exodus"
+          ],
+          "refBooks": [
+            "Matthew",
+            "Mark",
+            "Luke",
+            "John"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 473,
+      "severity": 1,
+      "flags": [
+        {
+          "type": "commentary_disjoint",
+          "commentaryBooks": [
+            "Psalms"
+          ],
+          "refBooks": [
+            "Matthew",
+            "Luke",
+            "John"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 478,
+      "severity": 1,
+      "flags": [
+        {
+          "type": "commentary_disjoint",
+          "commentaryBooks": [
+            "Acts"
+          ],
+          "refBooks": [
+            "Matthew",
+            "Mark",
+            "Luke",
+            "John"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 489,
+      "severity": 1,
+      "flags": [
+        {
+          "type": "commentary_disjoint",
+          "commentaryBooks": [
+            "Revelation"
+          ],
+          "refBooks": [
+            "Mark",
+            "Luke"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 555,
+      "severity": 1,
+      "flags": [
+        {
+          "type": "commentary_disjoint",
+          "commentaryBooks": [
+            "Romans"
+          ],
+          "refBooks": [
+            "Galatians"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 567,
+      "severity": 1,
+      "flags": [
+        {
+          "type": "commentary_disjoint",
+          "commentaryBooks": [
+            "Jeremiah"
+          ],
+          "refBooks": [
+            "Matthew",
+            "Zechariah"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "1 Kings",
+            "Isaiah",
+            "Mark",
+            "John",
+            "1 Corinthians"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Proverbs",
+            "James"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Deuteronomy",
+            "2 Chronicles",
+            "Acts",
+            "Galatians",
+            "Ephesians",
+            "Colossians",
+            "1 Peter"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Genesis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "1 Timothy",
+            "Titus",
+            "Judges",
+            "1 Samuel",
+            "1 Kings",
+            "1 Chronicles",
+            "2 Chronicles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "1 Chronicles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Psalms",
+            "Ezekiel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "2 Peter",
+            "Wisdom",
+            "Genesis",
+            "Ecclesiasticus",
+            "Matthew",
+            "Luke",
+            "Mark",
+            "Acts",
+            "Psalms",
+            "Job",
+            "Proverbs",
+            "Isaiah",
+            "Lamentations",
+            "Ezekiel",
+            "Hosea",
+            "Amos",
+            "Habakkuk",
+            "Galatians",
+            "Hebrews",
+            "Tobit",
+            "Titus",
+            "James",
+            "1 Peter"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "2 Peter",
+            "Genesis",
+            "2 Samuel",
+            "Psalms",
+            "1 Peter",
+            "Proverbs",
+            "Ecclesiastes",
+            "Malachi",
+            "James",
+            "Revelation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Matthew",
+            "Ecclesiastes",
+            "Leviticus",
+            "Genesis"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "2 Kings",
+            "2 Chronicles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "1 Chronicles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "1 Chronicles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Acts",
+            "Numbers",
+            "Deuteronomy",
+            "Baruch",
+            "Ezekiel",
+            "Judges",
+            "1 Kings",
+            "2 Chronicles",
+            "Job",
+            "Psalms",
+            "Isaiah",
+            "Amos",
+            "Habakkuk",
+            "Matthew",
+            "1 John",
+            "1 Timothy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "1 Chronicles",
+            "1 Corinthians"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 63,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "1 Chronicles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 64,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Leviticus",
+            "1 Corinthians",
+            "Colossians"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 81,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Matthew",
+            "Leviticus",
+            "Deuteronomy",
+            "Psalms",
+            "Mark",
+            "Luke",
+            "Romans",
+            "Ephesians",
+            "1 Thessalonians"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 85,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "1 Chronicles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 87,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "1 Chronicles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 98,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Leviticus",
+            "Deuteronomy",
+            "Proverbs",
+            "Ephesians",
+            "Colossians"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 101,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Jeremiah"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 108,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "2 Corinthians",
+            "2 Thessalonians"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 110,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "2 Chronicles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 116,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Proverbs",
+            "John"
+          ]
+        },
+        {
+          "type": "summary_no_books"
+        }
+      ]
+    },
+    {
+      "id": 117,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "1 Corinthians",
+            "1 Thessalonians"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 121,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Exodus"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 126,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Song of Solomon",
+            "Matthew",
+            "John",
+            "Ephesians",
+            "Galatians",
+            "Romans",
+            "Amos",
+            "Hosea"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 134,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "1 Chronicles",
+            "Psalms",
+            "Jeremiah",
+            "Lamentations",
+            "Joel",
+            "Micah",
+            "Judith",
+            "2 Corinthians",
+            "James",
+            "1 John"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 142,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Leviticus",
+            "Deuteronomy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 145,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Mark",
+            "Romans",
+            "Galatians",
+            "James"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 149,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Job",
+            "Wisdom",
+            "Proverbs"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 152,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Leviticus",
+            "Joshua",
+            "1 Samuel",
+            "Psalms",
+            "Isaiah",
+            "Jeremiah",
+            "Hosea",
+            "2 Corinthians",
+            "Ephesians",
+            "1 Peter",
+            "Revelation",
+            "1 Chronicles",
+            "Malachi",
+            "Colossians",
+            "2 Kings",
+            "Ecclesiasticus",
+            "Job",
+            "Luke"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 156,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Judges",
+            "1 Samuel"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 163,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "1 Samuel",
+            "2 Samuel",
+            "Psalms",
+            "2 Chronicles",
+            "Jeremiah"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 174,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Mark",
+            "Luke"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 176,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "1 Chronicles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 178,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Matthew",
+            "Luke"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 187,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Jeremiah",
+            "2 Thessalonians",
+            "2 Timothy",
+            "Jude"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 190,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "2 Kings",
+            "1 Chronicles",
+            "Ezra",
+            "Job",
+            "Micah",
+            "Zechariah",
+            "Acts"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 201,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Joshua",
+            "1 Maccabees",
+            "Ezekiel",
+            "Matthew",
+            "Luke",
+            "John",
+            "Acts",
+            "1 Corinthians",
+            "1 John",
+            "Revelation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 215,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "1 Samuel",
+            "Hosea",
+            "Nahum"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 250,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "1 Chronicles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 266,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "2 Chronicles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 268,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "2 Chronicles",
+            "3 John"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 271,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "2 Kings",
+            "Job"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 285,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "2 Chronicles"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 352,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Mark",
+            "John",
+            "Acts",
+            "Psalms",
+            "Proverbs",
+            "Ecclesiastes",
+            "Jeremiah",
+            "Ezekiel",
+            "Luke",
+            "2 Corinthians",
+            "Philippians",
+            "1 Peter"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 361,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Matthew"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 367,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Wisdom",
+            "Matthew",
+            "Luke",
+            "John",
+            "Hebrews",
+            "Jude",
+            "Deuteronomy",
+            "Proverbs",
+            "Obadiah",
+            "2 Corinthians",
+            "Galatians",
+            "Philippians",
+            "James",
+            "1 Timothy",
+            "Joshua",
+            "1 Maccabees"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 371,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Matthew",
+            "Luke",
+            "Mark",
+            "Jeremiah"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 384,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Judith",
+            "Malachi"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 390,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "2 Timothy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 401,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "1 Timothy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 406,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Revelation"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 424,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "John"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 425,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Acts",
+            "Galatians"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 427,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Titus"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 431,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Luke"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 441,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Luke"
+          ]
+        },
+        {
+          "type": "summary_no_books"
+        }
+      ]
+    },
+    {
+      "id": 443,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Luke"
+          ]
+        },
+        {
+          "type": "summary_no_books"
+        }
+      ]
+    },
+    {
+      "id": 455,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Matthew",
+            "Luke"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 462,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Matthew",
+            "Mark",
+            "Luke",
+            "John"
+          ]
+        },
+        {
+          "type": "summary_no_books"
+        }
+      ]
+    },
+    {
+      "id": 472,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Matthew"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 476,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Matthew",
+            "Mark",
+            "Luke"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 512,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Mark"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 518,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "2 Corinthians"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 528,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Romans",
+            "1 Corinthians"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 556,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "2 Timothy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 571,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Mark"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 585,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Ephesians"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 586,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "Mark",
+            "Luke"
+          ]
+        }
+      ]
+    },
+    {
+      "id": 600,
+      "severity": 2,
+      "flags": [
+        {
+          "type": "ref_book_absent",
+          "books": [
+            "2 Timothy"
+          ]
+        }
+      ]
+    }
+  ]
+}
