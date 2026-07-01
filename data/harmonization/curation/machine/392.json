@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 392,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Jamieson, Fausset, and Brown read Matthew's house as a later dwelling, not the birth stable, once Bethlehem's crowds had dispersed.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptics' Annotated Bible juxtaposes Luke's manger with Matthew's house as two flatly different settings, offering no bridging explanation.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, s.v. \"Was Jesus born in a house or a manger?\"",
+        "year": "1999-2026",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Was Jesus born in a house or a manger?\" (skepticsannotatedbible.com/contra/manger.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Matthew 2:11",
+      "excerpt_text": "And when they were come into the house—not the stable; for as soon as Bethlehem was emptied of its strangers, they would have no difficulty in finding a dwelling-house.",
+      "full_note_ref": "JFB/40/2/11",
+      "on_tension_rationale": "Explicitly denies Matthew's 'house' is the stable of the manger scene, explaining the different setting as the magi arriving after Bethlehem's census crowds had departed and lodging opened up.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871)",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats Matthew 2:11 directly, arguing the magi found the family already relocated to a 'dwelling-house,' distinct from the stable/manger of Luke 2:7."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Jesus-birth.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Do the narratives of Jesus' birth contradict each other?",
+        "note": "Notes Matthew 2:11's 'house' as the family's later Bethlehem lodging, after Luke's manger scene, assuming Joseph and Mary remained in Bethlehem after the birth."
+      }
+    }
+  }
+}

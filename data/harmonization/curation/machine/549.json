@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 549,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "JFB reads Paul's disclaimer as marking a missing direct command from Jesus, not an admission of uninspired writing.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharpest objection is pressed by Douglas Del Tondo, who reads Paul's 'not the Lord' disclaimers as an admission that some of his writing is uninspired opinion.",
+      "skeptic": {
+        "name": "Douglas Del Tondo",
+        "work": "Jesus' Words Only (or Was Paul the Apostle Jesus Condemns in Revelation 2:2)",
+        "year": "2006",
+        "attribution": "Douglas J. Del Tondo, Jesus' Words Only (or Was Paul the Apostle Jesus Condemns in Revelation 2:2) (Infinity Publishing, 2006)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Corinthians 7:25",
+      "excerpt_text": "I have no express revelation from the Lord commanding it, but I give my judgment (opinion); namely, under the ordinary inspiration which accompanied the apostles in all their canonical writings (compare Co1 7:40; Co1 14:37; Th1 4:15). The Lord inspires me in this case to give you only a recommendation, which you are free to adopt or reject—not a positive command.",
+      "full_note_ref": "JFB/46/7/25",
+      "on_tension_rationale": "Directly answers whether Paul's 'no commandment of the Lord' disclaimer means uninspired opinion: JFB says no, it is still 'ordinary inspiration' of a canonical writing, just not a direct dominical command relayed from Jesus' own teaching.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats 1 Corinthians 7:12 directly (p. 159), reading Paul's 'not the Lord' as speaking 'not now from special revelation, but under the general supervision of the Holy Spirit.'"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/apostle-Paul-writings.html",
+        "domain": "gotquestions.org",
+        "title": "Are the writings of the Apostle Paul inspired (see 1 Corinthians 7:12)?",
+        "note": "live apologetic treatment of this exact tension with 2 Timothy 3:16"
+      }
+    }
+  }
+}

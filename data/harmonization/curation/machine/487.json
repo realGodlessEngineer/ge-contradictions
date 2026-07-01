@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 487,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the demons' terrified confession as bare notional assent, not the heartfelt, obedient faith John's texts require for being born of God.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses this as a genuine contradiction: the demons meet 1 John's own confession test word for word, yet are plainly not 'of God.'",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Are those who believe that Jesus is the Christ 'of God'?\" (skepticsannotatedbible.com/contra/of_god.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Are those who believe that Jesus is the Christ 'of God'?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 John 4:2",
+      "excerpt_text": "not that everyone that assents unto this, or preaches it, is born of God; a man may believe, and confess all this, as the devils themselves do, and yet be destitute of the grace of God; but the spirit, or doctrine, which contains these things in it, is certainly of God, or comes from him …",
+      "full_note_ref": "GILL/62/4/2",
+      "on_tension_rationale": "Gill glosses 1 John 4:2's confession-test by explicitly excluding demons: assenting to and confessing the truth about Christ, as the devils do, does not make one born of God — the harmonization the contradiction needs.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Mark 1:23",
+      "excerpt_text": "Those who have only a notion of Christ - that he is the holy One of God, and have no faith in him, or love to him, go no further than the devil doth.",
+      "full_note_ref": "MHC/41/1/23",
+      "on_tension_rationale": "Commenting on the unclean spirit's confession in Mark 1:24, Henry contrasts a bare notional confession of Christ (what the devil manages) with the faith and love genuine believers have, denying the demon's words meet John's bar. Anchor block; sentence drawn from deep inside.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "James 2:19",
+      "excerpt_text": "Another reason taken of an absurdity: If such a faith were the true faith whereby we are justified, the devils should be justified: for they have that, but yet notwithstanding they tremble, and are not justified therefore, neither is that faith a true faith.",
+      "full_note_ref": "GNV/59/2/19",
+      "on_tension_rationale": "The Geneva annotators argue by reductio on James 2:19: if the devils' bare assent were the justifying faith in view, the devils would be justified; since they are not, their assent is a different, lesser thing.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on 1 John 4:2",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact tension, distinguishing bare intellectual assent to the truths about Christ — the sort the devils themselves manage — from the confession that actually marks a man as born of God. (Used as the anchor because Haley's coverage of this specific passage could not be confirmed.)"
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/James_2.19.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: James 2:19—If the demons believe in God, then why are they not saved?",
+        "note": "Live apologetic treatment of James 2:19's demons-believe clause, drawing the same intellectual-assent-vs-saving-faith line the reconcile excerpts argue."
+      }
+    }
+  }
+}

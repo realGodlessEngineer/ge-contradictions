@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 361,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill reads Proverbs' wicked-as-ransom as temporal substitution in judgment, expressly distinguishing it from Christ's atoning ransom for his people.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptics Annotated Bible presses the four ransom texts as genuinely incompatible answers to a single question, not complementary senses.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "1999 (site); 2013 (print ed.)",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Who (or what) is the ransom for the righteous?\" (skepticsannotatedbible.com, est. 1999; print ed. SAB Books, 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Proverbs 21:18",
+      "excerpt_text": "Not to make satisfaction for them, as Christ is a ransom for his people; but as a ransom is in the room of another, so the wicked cometh in the stead of the righteous, and into the trouble he is delivered from …",
+      "full_note_ref": "GILL/20/21/18",
+      "on_tension_rationale": "Gill's exposition on Prov 21:18 explicitly denies that the wicked's substitutionary suffering is the same kind of 'ransom' as Christ's satisfaction for his people, directly addressing the OT-wisdom-vs-Synoptic/Pastoral 'ransom' tension the question raises.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63)",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats Proverbs 21:18 directly and distinguishes its wicked-as-ransom from Christ's atoning ransom -- the same passage anchoring this row's reconcile pole; Haley's Alleged Discrepancies could not be confirmed to treat this specific ransom cluster."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/give-His-life-as-a-ransom-for-many.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does it mean that Jesus came to give His life as a ransom for many (Mark 10:45)?",
+        "note": "live apologetic treatment of the Synoptic ransom logion, one of the two verses this row's versePair would draw on"
+      }
+    }
+  }
+}

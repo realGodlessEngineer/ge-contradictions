@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 454,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "JFB reads 10:23's 'coming of the Son of man' as the AD 70 judgment on Jerusalem, not the Parousia, explicitly paralleling it with Matthew 24:14.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Albert Schweitzer read Matthew 10:23 as proof Jesus expected the Son of Man within the Twelve's own mission, a timetable 24:14 cannot honor.",
+      "skeptic": {
+        "name": "Albert Schweitzer",
+        "work": "The Quest of the Historical Jesus",
+        "year": "1906",
+        "attribution": "Albert Schweitzer (1875-1965), The Quest of the Historical Jesus (Von Reimarus zu Wrede, 1906; Eng. trans. 1910)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Matthew 10:23",
+      "excerpt_text": "\"The coming of the Son of man\" has a fixed doctrinal sense, here referring immediately to the crisis of Israel's history as the visible kingdom of God, when Christ was to come and judge it … but only as being such a lively anticipation of His second coming for vengeance and deliverance. So understood, it is parallel with Mat 24:14 (on which see).",
+      "full_note_ref": "JFB/40/10/23",
+      "on_tension_rationale": "JFB explicitly identifies the 'coming of the Son of man' in 10:23 as the AD 70 judgment-coming (only an anticipation of the true Parousia), and states outright that this reading is 'parallel with Mat 24:14' -- directly engaging why the two verses need not share one identical timetable.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871)",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats Matthew 10:23 directly, reading its 'coming of the Son of man' as the AD 70 judgment on Jerusalem and explicitly cross-referencing the verse as parallel with Matthew 24:14. (Haley's Alleged Discrepancies could not be confirmed to cover this specific passage, so this row-surfaced harmonizing commentator is used per the spec's fallback.)"
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Matthew_10.23.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Matthew 10:23—Did Jesus promise to return to earth during the lifetime of the disciples?",
+        "note": "live apologetic treatment surveying the interpretive options for 'till the Son of man be come'"
+      }
+    }
+  }
+}

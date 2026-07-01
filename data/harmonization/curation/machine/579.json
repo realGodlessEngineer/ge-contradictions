@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 579,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Clarke argues the disciples' two swords were never meant as weapons, keeping the saying consistent with Jesus's rejection of the sword at Peter's arrest.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharpest objection comes from S. G. F. Brandon, who reads the sword-buying command as a genuine trace of Jesus's sympathy with armed Zealot resistance that the Gospels' pacifist material was written to obscure.",
+      "skeptic": {
+        "name": "S. G. F. Brandon",
+        "work": "Jesus and the Zealots: A Study of the Political Factor in Primitive Christianity",
+        "year": "1967",
+        "attribution": "S. G. F. Brandon (1907-1971), Jesus and the Zealots: A Study of the Political Factor in Primitive Christianity (1967)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Luke 22:36",
+      "excerpt_text": "Bishop Pearce supposes that the word μαχαιραν, sword, has been inserted here from what is said in Luk 22:38, as it is evident our Lord never intended to make any resistance, or to suffer a sword to be used on the occasion; see Mat 26:52. … However the matter may be understood, we may rest satisfied that these swords were neither to be considered as offensive weapons, nor instruments to propagate the truth. The genius and spirit of the Christian religion is equally against both.",
+      "full_note_ref": "CLARKE/42/22/36",
+      "on_tension_rationale": "Clarke directly cross-references Matthew 26:52 to argue the sword-buying command was never meant to sanction actual violence, which is precisely the harmonization this contradiction's tension calls for.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832)",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Haley's specific-passage coverage of this cluster could not be confirmed, so the row's own harmonizing commentator is used instead: Clarke's note on Luke 22:36 treats this exact tension directly, cross-referencing Matthew 26:52 to argue the sword saying was never a license for violence."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/sell-cloak-buy-sword.html",
+        "domain": "gotquestions.org",
+        "title": "Why did Jesus tell His disciples to sell a cloak and buy a sword (Luke 22:36)?",
+        "note": "live apologetic treatment reconciling Luke 22:36 with Matthew 26:52's rebuke of Peter"
+      }
+    }
+  }
+}

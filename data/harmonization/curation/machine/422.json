@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 422,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill reconciles the reports two ways: Matthew's phrase can mean 'near' dead, and by the time Jairus reached Jesus he had rightly concluded she had died.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Ehrman presses the objection directly: Matthew's aorist 'she has now died' cannot be softened to match Mark's still-living 'at the point of death.'",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "\"Are These Really Contradictions? My Response to Matt Firth,\" The Bart Ehrman Blog",
+        "year": "2019",
+        "attribution": "Bart D. Ehrman, \"Are These Really Contradictions? My Response to Matt Firth,\" The Bart Ehrman Blog (April 22, 2019)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 9:17",
+      "excerpt_text": "Her case seems to be differently represented; Mark says, she was \"at the point of death\", or \"in the last extremity\"; and Luke, that she \"lay dying\": but Matthew here says, that she was \"even now dead\", which may be easily reconciled: for not to observe, that signifies \"near\", and the phrase may be rendered, \"she is near dead\", or just expiring, the case was this; when Jairus left his house, his daughter was in the agony of death, just ready to give up the ghost; so, that he concluded, by the time he was with Jesus, she had made her exit; as it appears she had, by a messenger, who brought the account of her death, before they could get to the house.",
+      "full_note_ref": "GILL/40/9/17",
+      "on_tension_rationale": "Gill explicitly names all three synoptic phrasings ('at the point of death', 'lay dying', 'even now dead') and offers the standard two-part harmonization: a linguistic reading of Matthew's Greek as 'near' dead, plus a narrative-timing account in which Jairus's own belief that she had died (later confirmed by a messenger) updates between his departure and his address to Jesus.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible, note on Matthew 9:17 (1746-63)",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact three-way tension directly under Matthew 9:17, harmonizing 'even now dead' with Mark's 'at the point of death' and Luke's 'lay dying' -- the same passage anchoring this row's reconcile pole; Haley's Alleged Discrepancies could not be confirmed to treat this specific passage."
+      },
+      "link": null
+    }
+  }
+}

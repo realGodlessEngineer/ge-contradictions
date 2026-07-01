@@ -1,0 +1,69 @@
+{
+  "contradiction_id": 301,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators resolve the gap by staggering Nebuzaradan's timeline — arriving or starting on the seventh, executing or finishing the burning on the tenth.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "filled",
+      "connective": "Keil & Delitzsch call the date a likely numeral corruption impossible to adjudicate, and Tyndale's notes simply call the three-day gap unexplained.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Jeremiah 52:11",
+      "excerpt_text": "In Kg2 25:8; it is said to be on the \"seventh\" day of the fifth month that he came thither; here, on the \"tenth\" day; which difficulty may be solved, without supposing different copies, or any error: he might set out from Riblah on the seventh day, and come to Jerusalem on the tenth; or he might come thither on the seventh, and not set fire to the city till the tenth; or, if he set fire to it on the seventh, it might be burning to the tenth, before it was wholly consumed.",
+      "full_note_ref": "GILL/24/52/11",
+      "on_tension_rationale": "Gill states the seventh/tenth tension directly and offers three concrete non-error harmonizations (travel delay, execution delay, multi-day burning).",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Jeremiah 52:12",
+      "excerpt_text": "tenth day--But in Kg2 25:8, it is said \"the seventh day.\" Nebuzara-dan started from Riblah on the \"seventh\" day and arrived in Jerusalem on the \"tenth\" day. Seeming discrepancies, when cleared up, confirm the genuineness of Scripture; for they show there was no collusion between the writers; as in all God's works there is latent harmony under outward varieties.",
+      "full_note_ref": "JFB/24/52/12",
+      "on_tension_rationale": "JFB states the seventh/tenth tension directly, offers the travel/execution-delay harmonization, and frames the resolved discrepancy as confirming scriptural genuineness.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "discrepancy",
+      "source_code": "KD",
+      "verse_ref": "2 Kings 25:8",
+      "excerpt_text": "Instead of the seventh day we have the tenth in Jer 52:12. This difference might be reconciled, as proposed by earlier commentators, on the assumption that the burning of the city lasted several days, commencing on the seventh and ending on the tenth. But since there are similar differences met with afterwards (Kg2 25:17, Kg2 25:19) in the statement of numbers, which can only be accounted for from the substitution of similar numeral letters, we must assume that there is a change of this kind here. Which of the two dates is the correct one it is impossible to determine.",
+      "full_note_ref": "KD/12/25/8",
+      "on_tension_rationale": "K&D directly reject the multi-day-burning harmonization and attribute the 7/10 split to numeral-letter corruption, stating outright that which date is correct 'is impossible to determine' — a rare verbatim concession of the discrepancy itself.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "discrepancy",
+      "source_code": "TYN",
+      "verse_ref": "Jeremiah 52:12",
+      "excerpt_text": "On August 17 of that year: This date is three days later than the one recorded in 2 Kgs 25:8; the reason for the discrepancy is not known.",
+      "full_note_ref": "TYN/24/52/12",
+      "on_tension_rationale": "Tyndale's notes name the exact 3-day gap between the two accounts and explicitly state the cause is unknown, rather than proposing any harmonization — a plain concession of the unresolved discrepancy.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), p. 393",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley catalogs this exact date split among his chronological discrepancies, citing Bähr's explanation that the Hebrew numeral letters were mistakenly confounded — the same scribal-corruption account K&D reach independently."
+      },
+      "link": null
+    }
+  }
+}
