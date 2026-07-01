@@ -86,7 +86,10 @@ const initSqlJs = require('sql.js');
 const { validateProjection } = require('./validateHarmonization');
 
 const REPO_ROOT = path.join(__dirname, '..');
-const DB_PATH = path.join(REPO_ROOT, 'contradictions.db');
+// DB_PATH env override (matches dumpDbToSql.js / publishDb.js / validateHarmonization.js)
+// so the bake can target a scratch copy of contradictions.db for dry-testing the real
+// write path without touching the live DB. Defaults to the repo-root DB.
+const DB_PATH = process.env.DB_PATH ? path.resolve(process.env.DB_PATH) : path.join(REPO_ROOT, 'contradictions.db');
 const HARMONIZATION_DIR = path.join(REPO_ROOT, 'data', 'harmonization');
 const CURATION_DIR = path.join(HARMONIZATION_DIR, 'curation');
 const MACHINE_DIR = path.join(CURATION_DIR, 'machine');

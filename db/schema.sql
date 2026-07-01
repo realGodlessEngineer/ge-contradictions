@@ -3,6 +3,11 @@
 
 PRAGMA foreign_keys = OFF;
 
+DROP TABLE IF EXISTS harmonization_verse_pair;
+DROP TABLE IF EXISTS harmonization_row;
+DROP TABLE IF EXISTS harmonization_quote;
+DROP TABLE IF EXISTS contradiction_scholarship;
+DROP TABLE IF EXISTS scholarship_sources;
 DROP TABLE IF EXISTS bible_references;
 DROP TABLE IF EXISTS answers;
 DROP TABLE IF EXISTS contradictions;
@@ -51,8 +56,65 @@ CREATE TABLE bible_references (
             FOREIGN KEY (answer_id) REFERENCES answers(id)
         );
 
+CREATE TABLE scholarship_sources (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            author TEXT, title TEXT, publication TEXT, year INTEGER,
+            bib_core TEXT NOT NULL, dedup_key TEXT NOT NULL UNIQUE, raw_example TEXT
+        );
+
+CREATE TABLE contradiction_scholarship (
+            id INTEGER PRIMARY KEY AUTOINCREMENT,
+            contradiction_id INTEGER NOT NULL,
+            source_id INTEGER NOT NULL,
+            citation_order INTEGER,
+            pages TEXT, note TEXT, bible_refs TEXT, raw_citation TEXT NOT NULL,
+            FOREIGN KEY (contradiction_id) REFERENCES contradictions(id),
+            FOREIGN KEY (source_id) REFERENCES scholarship_sources(id)
+        );
+
+CREATE TABLE harmonization_quote (
+            id INTEGER PRIMARY KEY,
+            contradiction_id INTEGER NOT NULL,
+            pole TEXT NOT NULL,
+            ord INTEGER NOT NULL,
+            text TEXT NOT NULL,
+            attr TEXT NOT NULL,
+            voice TEXT,
+            href TEXT,
+            source_kind TEXT NOT NULL,
+            source_code TEXT,
+            FOREIGN KEY (contradiction_id) REFERENCES contradictions(id)
+        );
+
+CREATE TABLE harmonization_row (
+            contradiction_id INTEGER PRIMARY KEY,
+            covered INTEGER NOT NULL DEFAULT 1,
+            reconcile_note TEXT,
+            discrepancy_note TEXT,
+            reconcile_half_line TEXT,
+            discrepancy_half_line TEXT,
+            reconcile_empty_note TEXT,
+            reconcile_empty_note_attr TEXT,
+            discrepancy_empty_note TEXT,
+            discrepancy_empty_note_attr TEXT,
+            FOREIGN KEY (contradiction_id) REFERENCES contradictions(id)
+        );
+
+CREATE TABLE harmonization_verse_pair (
+            id INTEGER PRIMARY KEY,
+            contradiction_id INTEGER NOT NULL,
+            ord INTEGER NOT NULL,
+            ref TEXT NOT NULL,
+            snippet TEXT NOT NULL,
+            FOREIGN KEY (contradiction_id) REFERENCES contradictions(id)
+        );
+
 CREATE INDEX idx_answers_contradiction ON answers(contradiction_id);
 CREATE INDEX idx_references_answer ON bible_references(answer_id);
 CREATE INDEX idx_contradictions_category ON contradictions(category_id);
 CREATE INDEX idx_contradictions_type ON contradictions(contradiction_type_id);
 CREATE INDEX idx_contradictions_consensus ON contradictions(scholarly_consensus_id);
+CREATE INDEX idx_cs_contradiction ON contradiction_scholarship(contradiction_id);
+CREATE INDEX idx_cs_source ON contradiction_scholarship(source_id);
+CREATE INDEX idx_hq_cid_pole_ord ON harmonization_quote(contradiction_id, pole, ord);
+CREATE INDEX idx_hvp_cid_ord ON harmonization_verse_pair(contradiction_id, ord);
