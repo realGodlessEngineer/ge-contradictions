@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 129,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read every weariness-and-refreshment text as anthropopathic — figurative human language for God's displeasure or his mere cessation from creating, not literal fatigue.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the objection that one text makes weariness categorically impossible for God while five others have him explicitly weary, and asks why the figurative reading is licensed only where it rescues consistency.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Does God ever tire?\" (skepticsannotatedbible.com/contra/weary.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Does God ever tire?\" (skepticsannotatedbible.com/contra/weary.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Exodus 31:17",
+      "excerpt_text": "which is to be understood figuratively after the manner of men, who ceasing from toil and labour find rest and refreshment; but not really and properly, for as not labour, and weariness, and fatigue, so neither rest nor refreshment can be properly said of God; but this denotes his cessation from the works of creation, though not of providence …",
+      "full_note_ref": "GILL/2/31/17",
+      "on_tension_rationale": "Directly answers Exodus 31:17's 'rested, and was refreshed' by denying weariness/fatigue/refreshment of God literally and recasting the rest as cessation-from-creating — the central harmonization of this row.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Exodus 31:17",
+      "excerpt_text": "God, in condescension to human weakness, applies to himself here what belongs to man.",
+      "full_note_ref": "CLARKE/2/31/17",
+      "on_tension_rationale": "Glosses the same 'rested, and was refreshed' clause as a condescension-to-human-weakness anthropomorphism, a distinct voice making the figurative-language move.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Malachi 2:17",
+      "excerpt_text": "this is said after the manner of men, they saying those things which were displeasing and provoking to him, and which he could not bear to hear; or otherwise weariness properly cannot be attributed to God …",
+      "full_note_ref": "GILL/39/2/17",
+      "on_tension_rationale": "Applies the same anthropopathic reading to the active weariness texts ('Ye have wearied the Lord'), explicitly denying that weariness can properly be attributed to God — covering the other side of the tension from the Exodus refreshment text.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Exodus 31:17",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, reading God's rest and refreshment as figurative 'after the manner of men' and denying that weariness, fatigue, or refreshment can properly be said of God — the harmonizing tradition keyed to the exact verse, used in place of an unconfirmed Haley entry on this specific pair."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/what-did-God-do-on-the-seventh-day.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What did God do on the seventh day of creation?",
+        "note": "Live apologetic treatment that juxtaposes God's resting with Isaiah 40:28 and argues the rest 'does not mean that He was tired or needed to refresh Himself,' but a cessation of completed work — on-topic for the tire/refreshment tension."
+      }
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "contradiction_id": 28,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators resolve the count by inclusive reckoning: counting Adam as the first link, Enoch is genuinely the seventh in Seth's line.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection comes from Steve Wells's Skeptics Annotated Bible, which lists the count as a contradiction yet concedes in its own note that Jude is quoting the Book of Enoch, not the Genesis genealogy.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptics Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptics Annotated Bible (2013), \"Was Enoch the sixth or the seventh from Adam?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 5:3",
+      "excerpt_text": "In Enoch, the seventh from Adam through Seth, godliness attained its highest point …",
+      "full_note_ref": "KD/1/5/3",
+      "on_tension_rationale": "Directly answers the sixth-vs-seventh question: Keil & Delitzsch affirm Enoch is 'the seventh from Adam through Seth,' the inclusive count (Adam=1) that matches Jude 14 against the Genesis list.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Genesis 5",
+        "author": "Keil & Delitzsch",
+        "year": "1861-75",
+        "note": "Keil & Delitzsch treat this passage directly, identifying Enoch as 'the seventh from Adam through Seth' and linking the title to Jude 1:14-15."
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 189,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders invoke the agency principle: what a man does through authorized representatives counts as done by himself, so Matthew can say the centurion \"came\" while Luke fills in the messengers.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "D. F. Strauss pressed such Synoptic divergences against the harmonists, arguing that the discrepancies between the parallel narratives undercut their historical credibility rather than dissolving under reconciliation.",
+      "skeptic": {
+        "name": "D. F. Strauss",
+        "work": "The Life of Jesus Critically Examined",
+        "year": "1846",
+        "attribution": "D. F. Strauss (d. 1874), The Life of Jesus Critically Examined (Eng. tr. George Eliot, 1846)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Luke 7:3",
+      "excerpt_text": "In the parallel place in Matthew, he is represented as coming to Christ himself; but it is a usual form of speech in all nations, to attribute the act to a person which is done not by himself, but by his authority.",
+      "full_note_ref": "CLARKE/42/7/3",
+      "on_tension_rationale": "Directly names the Matthew/Luke difference (came himself vs. sent) and resolves it via the agency-of-speech principle — the single strongest, cleanest harmonization on the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Luke 7:1",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this exact discrepancy on the passage, harmonizing it with the maxim 'quod facimus per alium, id ipsum facere judicamur' (we are said to do that which we do by another) and adding that the centurion himself probably came at last."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Matthew_8.5-13_(cf._Luke_7.2-10).php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in Matthew 8:5-13 (cf. Luke 7:2-10)?",
+        "note": "live apologetic treatment of this exact came-himself vs. sent-intermediaries tension via first-century agency convention"
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 86,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The strongest defence does not harmonize the wording but rejects it: the Eliphaz-line \"duke Korah\" of 36:16 is a scribal interpolation, absent from the Samaritan Pentateuch.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses the row, noting Korah is named Esau's son in 36:5/14/18 yet a grandson via Eliphaz in 36:15-16, and that the \"two Korahs\" reply fails because no Korah is listed among Eliphaz's sons.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"Who was Korah's father?\" (skepticsannotatedbible.com/contra/korah.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (online; \"Who was Korah's father?\")"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Genesis 36:16",
+      "excerpt_text": "It is also certain, from Gen 36:5, Gen 36:14, that Korah was the son of Esau (not of Eliphaz) by Aholibamah; and as such he is properly mentioned in Gen 36:18: These are the sons of Aholibamah, Esau's wife: duke Jeush, duke Jaalam, Duke Korah. It is clear, therefore, that some transcriber has improperly inserted duke Korah in Gen 36:16; from which interpolation both the Samaritan text and the Samaritan version are free.",
+      "full_note_ref": "CLARKE/1/36/16",
+      "on_tension_rationale": "Directly resolves the son-vs-grandson tension by attributing Korah's appearance in the Eliphaz line (36:16) to a copyist's interpolation that the Samaritan text lacks; the verbatim Kennicott quotation Clarke endorses. French-spaced ' :' before 'These' normalized to ':'; full sentences end on real source periods (no truncation marker).",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on Genesis 36:16",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact verse, endorsing Kennicott's judgment that 'duke Korah' in 36:16 is a transcriber's interpolation absent from the Samaritan Pentateuch — the leading harmonization of the passage. (Haley's specific coverage of this pair is unconfirmed; anchored to a row-surfaced commentator keyed to the passage per spec.)"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Korah-in-the-Bible.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who was Korah in the Bible?",
+        "note": "Live apologetic treatment citing Genesis 36:5,14,18 and 36:16; distinguishes a Korah who is Esau's son from a Korah who is Eliphaz's son/Esau's grandson (the 'two Korahs' reading)."
+      }
+    }
+  }
+}

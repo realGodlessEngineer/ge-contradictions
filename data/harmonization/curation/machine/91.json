@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 91,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read Ezra's \"son of Levi\" as a genealogical shorthand — Hebrew ben spans descendants, so Mahli is Levi's grandson through Merari.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells of the Skeptic's Annotated Bible, who reads Ezra 8:18's \"son of Levi\" against the lists that make Mahli a son of Merari and calls it a contradiction.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"Was Mahli the son of Levi?\" (skepticsannotatedbible.com/contra/mahli.html)",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, \"Was Mahli the son of Levi?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Ezra 8:18",
+      "excerpt_text": "He was one of the descendants of Mahli, the son, i.e., grandson, of Levi the son of Israel, i.e., Jacob: comp. Exo 6:16, Exo 6:19; Ch1 6:4.",
+      "full_note_ref": "KD/15/8/15",
+      "on_tension_rationale": "K&D directly glosses Ezra 8:18's 'son of Levi' as 'grandson,' tracing Mahli through Merari (Exo 6:16, 6:19) — the exact harmonization the tension turns on.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Ezra 8:17",
+      "excerpt_text": "…an Israelite, of the tribe of Levi, in the line of Mahli a son of Merari, the third son of Levi …",
+      "full_note_ref": "GILL/15/8/17",
+      "on_tension_rationale": "Gill places Mahli explicitly 'in the line of Mahli a son of Merari, the third son of Levi,' resolving the apparent direct father-son claim into descent through Merari.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Exodus 6:18",
+      "excerpt_text": "The Hebrew word for “sons” can also mean “descendants,” which accommodates the possibility of unnamed generations.",
+      "full_note_ref": "TYN/2/6/18",
+      "on_tension_rationale": "Tyndale states the linguistic basis for the whole harmonization — Hebrew 'son(s)' can denote 'descendants,' so 'son of Levi' need not mean a direct child.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Ezra 8:18 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this passage directly, glossing Ezra 8:18's 'son of Levi' as 'grandson' (Mahli, son of Merari, son of Levi) with cross-references to Exo 6:16, 6:19 and 1 Chr 6:4. Used in place of Haley, whose specific coverage of this exact pair could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page (gotquestions.org / carm.org / defendinginerrancy.com) treating this specific Mahli/Levi genealogy point could be verified; link omitted rather than guessed."
+      }
+    }
+  }
+}

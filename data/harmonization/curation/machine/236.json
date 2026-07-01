@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 236,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the \"utterly destroyed all\" of 15:7-8 as a campaign total — all Saul reached — not a literal extinction, so later Amalekites are the ones who escaped.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Thomas Paine presses the same chapters as evidence the narrative is incoherent and cruel: Saul is commanded to blot out every Amalekite, yet it is an Amalekite who later finishes Saul and carries his crown to David.",
+      "skeptic": {
+        "name": "Thomas Paine",
+        "work": "The Age of Reason",
+        "year": "1795",
+        "attribution": "Thomas Paine (d. 1809), The Age of Reason, Part II (1795)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Samuel 15:8",
+      "excerpt_text": "and utterly destroyed all the people with the edge of the sword; that is, all that came in his way, or fell into his hands; all between Havilah and Shur; all excepting those that made their escape, for we after read of Amalekites, and that in large bodies, Sa1 27:8.",
+      "full_note_ref": "GILL/9/15/8",
+      "on_tension_rationale": "Directly glosses the 'utterly destroyed all' clause of 15:7-8 as 'all that came in his way... all excepting those that made their escape,' and explicitly anticipates the later surviving Amalekites of 27:8 — the core harmonization of the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on 1 Samuel 15:8 and 27:9",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact tension twice, glossing Saul's 'utterly destroyed all' as 'all that came in his way... all excepting those that made their escape,' and noting at 27:9 that David's slaughter likewise covers only 'such that came within his reach; for it is certain there were people of these several names after this.'"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Amalekites.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who were the Amalekites?",
+        "note": "Live apologetic treatment explaining how Saul's incomplete obedience left Amalekites alive to reappear against David."
+      }
+    }
+  }
+}

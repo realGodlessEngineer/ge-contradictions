@@ -1,0 +1,803 @@
+{
+  "contradiction_id": 365,
+  "question": "Is it good to be happy?",
+  "summary": "Proverbs 17:22 and Ecclesiastes 8:15 commend merriment as medicinal and as the best thing humans can do under the sun. Ecclesiastes 7:3-4 and Luke 6:25 reverse the valuation — sorrow is better than laughter, the wise heart is in the house of mourning, and woe to those who laugh now. Even Qohelet contradicts himself on this question, and Luke's Jesus piles on from the other direction.",
+  "consensus": "probable_contradiction",
+  "consensus_id": 2,
+  "category": "Law, Morality & Ethics",
+  "contradiction_type": "ethical_legal",
+  "testament_scope": "OT_vs_NT",
+  "books_in_tension": "Proverbs, Ecclesiastes, Luke",
+  "refs_raw": [
+    "Proverbs 17:22",
+    "Ecclesiastes 8:15",
+    "Ecclesiastes 7:3-4",
+    "Luke 6:25"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Proverbs 17:22",
+      "book": "Proverbs",
+      "bolls": 20,
+      "ranges": [
+        [
+          17,
+          22,
+          22
+        ]
+      ]
+    },
+    {
+      "raw": "Ecclesiastes 8:15",
+      "book": "Ecclesiastes",
+      "bolls": 21,
+      "ranges": [
+        [
+          8,
+          15,
+          15
+        ]
+      ]
+    },
+    {
+      "raw": "Ecclesiastes 7:3-4",
+      "book": "Ecclesiastes",
+      "bolls": 21,
+      "ranges": [
+        [
+          7,
+          3,
+          4
+        ]
+      ]
+    },
+    {
+      "raw": "Luke 6:25",
+      "book": "Luke",
+      "bolls": 42,
+      "ranges": [
+        [
+          6,
+          25,
+          25
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 74,
+  "notes_raw_count": 81,
+  "notes_dropped": 7,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Proverbs 17:20",
+      "note_ref": "GILL/20/17/20",
+      "cites": [
+        "Proverbs 17:22"
+      ],
+      "text": "He that hath a froward heart findeth no good,.... Who is of a perverse spirit, meditates and devises evil things; is not ingenuous and sincere, but false and deceitful to God and men: such an one gets no good from either; he obtains not the favour of God, nor a good name, credit, and reputation among men;\nand he that hath a perverse tongue falleth into mischief; or \"that turns himself\", or \"is turned in his tongue\" (w); whose tongue is changeable, as the Septuagint and Arabic versions; who sometimes says one thing, and sometimes another, and is not consistent with himself; as well as is contrary to all men: sooner or later he falls into mischief, into a pit, which he himself has dug for others; see Jam 3:6.\n(w) \"qui verterit se\", Pagninus; \"et verteus se in lingua sua\", Montanus; \"qui vertitur in lingua sua\". Mercerus, Gejerus."
+    },
+    {
+      "src": "GILL",
+      "ref": "Proverbs 17:21",
+      "note_ref": "GILL/20/17/21",
+      "cites": [
+        "Proverbs 17:22"
+      ],
+      "text": "He that begetteth a fool doth it to his sorrow,.... As it proves in the issue; though it was joy to him when a man child was born, and took delight in him while in infancy and childhood, and promised himself much happiness in him when at years of discretion; but, instead of that, he departs from his education principles, despises all parental counsels and advice, and goes into all the extravagance of sin and folly; which is an heartbreaking to his godly and religious parents; for this is to be understood; not of an idiot, but of a wicked son, taking bad courses;\nand the father of a fool hath no joy; in his son, but sorrow, and has scarce any joy or pleasure in anything else in all his enjoyments; the trouble he is filled with on his account embitters all he has, that he can take no satisfaction, or have any comfort of life; the concern for his son is uppermost in his thoughts, and hinders him from taking that pleasure which otherwise he might enjoy."
+    },
+    {
+      "src": "GILL",
+      "ref": "Proverbs 17:22",
+      "note_ref": "GILL/20/17/22",
+      "cites": [
+        "Proverbs 17:22"
+      ],
+      "text": "A merry heart doth good like a medicine,.... Does the body good, makes it healthful and vigorous. Cheerfulness of spirit has a great influence upon the body, and much contributes to the health and welfare of it; see Ecc 9:7; and especially a heart full of spiritual joy, peace of conscience, flowing from the blood of Christ, joy in the Holy Ghost, a rejoicing in Christ Jesus and his righteousness, and in hope of the glory of God, much affect even the outward man. Or, \"a merry heart makes a good medicine\" (x); it is a good medicine of itself; raises the spirits, invigorates the body, and fits it for service and business: or, \"does a medicine good\" (y); makes that operate kindly, and to a good purpose: or, as Jarchi, makes the countenance shine well, makes a serene countenance; which Schultens approves, and, from the use of the word in the Arabic language, confirms;\nbut a broken spirit drieth the bones; a spirit broken with sorrow, whether on spiritual or temporal accounts; as it weakens the nerves, it dries up the marrow in the bones, and emaciates the body, and reduces it to a skeleton: the joy or grief of the mind, those passions of the soul, have a very great influence upon the body, either for its good or hurt.\n(x) \"cor hilare bonam facit sanationem\", Michaelis. (y) So R. Joseph Kimchi; \"bonificat sive meliorem reddit medicinam\", some in Valablus; \"bene medicinam facit\", Junius & Tremellius, Piscator."
+    },
+    {
+      "src": "GILL",
+      "ref": "Proverbs 17:23",
+      "note_ref": "GILL/20/17/23",
+      "cites": [
+        "Proverbs 17:22"
+      ],
+      "text": "A wicked man taketh a gift out of the bosom,.... Of another, of a rich man, who takes it out from thence, and offers it to him as a bribe. This he takes in the most secret manner, that it might not be seen by others; though the Arabic version renders it, \"he that receives a gift in his own bosom commits iniquity\"; it is true of both the giver and the receiver; the one gives out of his bosom, and the other takes if from thence, and puts it into his own, and both are wicked. And the words are by some rendered, though it seems contrary to the accents, \"a gift out of the bosom of the wicked he will take\" (z); the unjust judge, who is bribed with it:\nto pervert the ways of judgment; to turn the course of justice, and hinder it from taking place; favouring a bad cause, and pronouncing a wrong sentence, which is wresting judgment.\n(z) \"munus de sinu impii accipiet\", Baynus."
+    },
+    {
+      "src": "GILL",
+      "ref": "Ecclesiastes 7:2",
+      "note_ref": "GILL/21/7/2",
+      "cites": [
+        "Ecclesiastes 7:3-4"
+      ],
+      "text": "It is better to go to the house of mourning,.... For deceased relations or friends, who either lie unburied, or have been lately inferred; for the Jews kept their mourning for their dead several days afterwards, when their friends visited them in order to comfort them, as the Jews did Martha and Mary, Joh 11:31. So the Targum here,\n\"it is better to go to a mourning man to comfort him;''\nfor at such times and places the conversation was serious and interesting, and turned upon the subjects of mortality and a future state, and preparation for it; from whence useful and instructive lessons are learned; and so it was much better to be there\nthan to go to the house of feasting: the Targum is,\n\"than to the house of a feast of wine of scorners;''\nwhere there is nothing but noise and clamour, luxury and intemperance, carnal mirth and gaiety, vain and frothy conversation, idle talk and impure songs, and a jest made of true religion and godliness, death and another world;\nfor that is the end of all men; not the house of feasting, but the house of mourning; or mourning itself, as Jarchi; every man must expect to lose his relation and friend, and so come to the house of mourning; and must die himself, and be the occasion of mourning: death itself seems rather intended, which is the end of all men, the way of all flesh; for it is appointed for men to die; and so the Targum,\n\"seeing upon them all is decreed the decree of death;''\nand the living will lay it to his heart; by going to the house of mourning, he will be put in mind of death, and will think of it seriously, and consider his latter end, how near it is; and that this must be his case shortly, as is the deceased's he comes to mourn for. So the Targum interprets it of words concerning death, or discourses of mortality he there hears, which he takes notice of and lays to his heart, and lays up in it. Jarchi's note is,\n\"their thought is of the way of death.''"
+    },
+    {
+      "src": "GILL",
+      "ref": "Ecclesiastes 7:3",
+      "note_ref": "GILL/21/7/3",
+      "cites": [
+        "Ecclesiastes 7:3-4"
+      ],
+      "text": "Sorrow is better than laughter,.... Sorrow, expressed in the house of mourning, is better, more useful and commendable, than that foolish laughter, and those airs of levity, expressed in the house of feasting; or sorrow on account of affliction and troubles, even adversity itself, is oftentimes much more profitable, and conduces more to the good of men, than prosperity; or sorrow for sin, a godly sorrow, a sorrow after a godly sort, which works repentance unto salvation, that needeth not to be repented of, is to be preferred to all carnal mirth and jollity. It may be rendered, \"anger is better than laughter\" (h); which the Jews understand of the anger of God in correcting men for sin; which is much better than when he takes no notice of them, but suffers them to go on in sin, as if he was pleased with them; the Midrash gives instances of it in the generation of the flood and the Sodomites: and the Targum inclines to this sense,\n\"better is the anger, with which the Lord of that world is angry against the righteous in this world, than the laughter with which he derides the ungodly.''\nThough it may be better, with others, to understand it of anger in them expressed against sin, in faithful though sharp rebukes for it; which, in the issue, is more beneficial than the flattery of such who encourage in it; see Pro 27:5;\nfor by the sadness of the countenance the heart is made better: when the sadness is not hypocritical, as in the Scribes and Pharisees, but serious and real, arising from proper reflections on things in the mind; whereby the heart is drawn off from vain, carnal, and sensual things; and is engaged in the contemplation of spiritual and heavenly ones, which is of great advantage to it: or by the severity of the countenance of a faithful friend, in correcting for faults, the heart is made better, which receives those corrections in love, and confesses its fault, and amends.\n(h) \"melior est ira risu\", Pagninus, Mercerus; \"melior est indigatio risu\", Tigurine version, Junius & Tremellius."
+    },
+    {
+      "src": "GILL",
+      "ref": "Ecclesiastes 7:4",
+      "note_ref": "GILL/21/7/4",
+      "cites": [
+        "Ecclesiastes 7:3-4"
+      ],
+      "text": "The heart of the wise is in the house of mourning,.... When his body is not; when it does not suit him to go thither in person, his mind is there, and his thoughts are employed on the useful subjects of the frailty and mortality of human nature, of death, a future judgment, and a world to come; which shows him to be a wise man, and concerned for the best things, even for his eternal happiness in another state;\nbut the heart of fools is in the house of mirth; where jovial company is, merry songs are sung, and the cup or glass passes briskly round, and all is gay and brilliant: here the fool desires to be oftener than he is, and when he cannot; which shows the folly of his mind, what a vain taste he has, and how thoughtless he is of a future state, and of his eternal welfare."
+    },
+    {
+      "src": "GILL",
+      "ref": "Ecclesiastes 7:5",
+      "note_ref": "GILL/21/7/5",
+      "cites": [
+        "Ecclesiastes 7:3-4"
+      ],
+      "text": "It is better to hear the rebuke of the wise,.... To listen to it diligently, receive it cordially, and act according to it; though it may be disagreeable to the flesh, and give present pain, yet the effect and issue will be good, and show that man to be wise that hears it, as well as he that gives it; see Psa 141:1;\nthan for a man to hear the song of fools; the vain and impure songs that foolish men sing in the house of mirth; or the flatteries of foolish men, which tickle and please the mind, as music and songs do: or, \"than a man that hears the song of fools\" (i), and is pleased with it.\n(i) \"quam vir audiens canticum stultorum\", Montanus, Mercerus; \"prae viro audiente canticum stultorum\", Rambachius."
+    },
+    {
+      "src": "GILL",
+      "ref": "Ecclesiastes 8:13",
+      "note_ref": "GILL/21/8/13",
+      "cites": [
+        "Ecclesiastes 8:15"
+      ],
+      "text": "But it shall not be well with the wicked,.... It shall be ill with him; more is designed than is expressed, Isa 3:11; in life they have no solid peace and comfort; at death they will be turned into at judgment they will hear the awful sentence, \"Go, ye cursed\", and will be in torment to all eternity, Mat 25:41;\nneither shall he prolong his days, which are as a shadow: wicked men sometimes do not live out half their days, which, according to the course of nature, and common term of life, they might be thought to live; or if they prolong their days in wickedness, as sometimes they do, Ecc 7:15; yet their days at longest are but a shadow which declines, and is quickly gone; or, however, they do not attain to eternal life, which is sometimes meant by prolonging days, and is length of days for ever and ever, Isa 53:10; this they never enjoy; but when the righteous go into life lasting, they go into everlasting punishment. The reason of this is,\nbecause he feareth not before God; the fear of God is not before his eyes, nor in his heart; he goes on in sin without fear of him, boldly and openly commits it, and instead of taking shame for it, or repenting of it, glories in it; stretches out his hand against God, and bids defiance to him, and desires not the knowledge of him, and refuses to obey him The Targum of the whole is,\n\"and it shall not be well with the wicked, and he shall have no space in the world to come; and in this world his days shall be cut off, and they shall flee and pass away as a shadow, because he fears not God.''"
+    },
+    {
+      "src": "GILL",
+      "ref": "Ecclesiastes 8:14",
+      "note_ref": "GILL/21/8/14",
+      "cites": [
+        "Ecclesiastes 8:15"
+      ],
+      "text": "There is a vanity which is done upon the earth,.... Transacted in this lower world under the sun, through the permission and direction of divine Providence; not that it is a vanity on the part of God, who has wise ends to answer by it, for the good of his people, the trial of their graces, &c. or to bring sinners to repentance, or harden them in sin; but this shows the vanity and uncertainty of all worldly things, and that there is no happiness to be had in them;\nthat there be just men, unto whom it happeneth according to the work of the wicked: to whom evil comes, as the Targum and Jarchi; who are treated as if they were wicked men, and dealt with in providence as sinners would be, if they had the just desert of their wicked works; being attended with poverty, sickness, and disgrace, and other calamities of life, as Job, Asaph, Lazarus, and others, and yet truly righteous and good men;\nagain, there be wicked men to whom it happeneth according to the work of the righteous; to whom good things come, as the Targum and Jarchi; who have an affluence of good things, all the outward blessings of life, as health, wealth, honour, long life, &c. as if they had lived the best of lives, and were the most righteous persons upon earth; see Job 21:7;\nI said, that this also is vanity; this is said, as some think, according to the judgment of corrupt nature; or as it is apprehended by such who do not rightly consider the judgments of God and the wisdom of Providence in the ordering of things to answer good purposes; or rather the sense is, this is one of the miseries and infelicities of this life, and which demonstrates the emptiness of all things here below, and that the chief good and supreme happiness is not to be had here; but there is and must be a future state, when all things will be set right, and everyone will have and enjoy his proper portion."
+    },
+    {
+      "src": "GILL",
+      "ref": "Ecclesiastes 8:15",
+      "note_ref": "GILL/21/8/15",
+      "cites": [
+        "Ecclesiastes 8:15"
+      ],
+      "text": "Then I commended mirth,.... Innocent mirth, a cheerfulness of spirit in whatsoever state condition men are; serenity and tranquillity of mind, thankfulness for what they have, and a free and comfortable use of it; this the wise man praised and recommended to good men, as being much better than to fret at the prosperity of the wicked, and the seemingly unequal distribution of things in this world, and because they had not so much of them: as others; who yet had reason to be thankful for what they had, and to lift up their heads and be cheerful, and rejoice in hope of the glory of God in another world. The Targum interprets it of the joy of the law;\nbecause a man hath no better thing under the sun than to eat, and to drink, and to be merry; of earthly things there is nothing better than for a man freely and cheerfully, with moderation and thankfulness, to enjoy what God has given him; this is what had been observed before, Ecc 2:24; and is not the language of an epicure, or a carnal man, who observing that no difference is made between the righteous and the wicked, that it is as well or better with the wicked than the righteous, determines to give up himself to sensual lusts and pleasures; but it is the good and wholesome advice of the wise man, for men to be easy under every providence, satisfied with their present condition and circumstances, and be cheerful and pleasant, and not distress themselves about things they cannot alter;\nfor that shall abide with him of his labour the days of his life,\nwhich God giveth him under the sun; man's present life is under the sun, and is continued as long as it pleases God; though it is but short, rather to be counted by days than years, and is a laborious one; and all that he gets by his labour, enjoyed by him, is to eat and drink cheerfully; and this he may expect to have and continue with him as long as he lives, even food and raiment, and with this he should be content."
+    },
+    {
+      "src": "GILL",
+      "ref": "Ecclesiastes 8:16",
+      "note_ref": "GILL/21/8/16",
+      "cites": [
+        "Ecclesiastes 8:15"
+      ],
+      "text": "When I applied mine heart to know wisdom,.... The nature and causes of things; the wisdom of God in his providence, and the grounds and reasons of his various dispensations towards the children of men: the Targum interprets it, the wisdom of the law;\nand to see the business that is done upon the earth; either the business of Providence, in dealing so unequally with the righteous and the wicked, before observed; and which is a business very afflictive and distressing for curious persons to look into, not being able to account for it: or the labour and toil of men to get wealth and riches, and to find happiness in them;\n(for also there is that neither day nor night seeth sleep with his eyes); or has any sleep in his eyes, through his eager pursuit after worldly things, or, however, has but little; he rises early and sits up late at his business, so close and diligent is he at it, so industrious to obtain riches, imagining a happiness in them there is not: or else this describes persons curious and inquisitive into the affairs of Providence, and the reasons of them; who give themselves no rest, day nor night, being so intent upon their studies of this kind; and perhaps the wise man may design himself."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 6:23",
+      "note_ref": "GILL/42/6/23",
+      "cites": [
+        "Luke 6:25"
+      ],
+      "text": "But woe unto you that are rich,.... Not in worldly riches and substance, for some of these have been, and are happy persons in a spiritual sense; and at most, it can only mean such, who trust in their riches, and place their, happiness in them; but it chiefly regards such, as are rich in their own opinion, and stand in need of nothing; who place their confidence in their own righteousness, and do not apply to Christ, in whom alone are durable riches and righteousness:\nfor ye have received your consolation; which they take from their own works, and a very unstable and short lived one it is; for while they are crying Peace, Peace, to themselves, from their own services, sudden destruction comes upon them, and all their comforts vanish away: for there is no true solid comfort but in Christ, and in his righteousness; that administers consolation now, and lays a foundation for everlasting comfort hereafter."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 6:24",
+      "note_ref": "GILL/42/6/24",
+      "cites": [
+        "Luke 6:25"
+      ],
+      "text": "Woe unto you that are full,.... Not so much with the plenty and affluence of the things of this life, as of themselves, and their own righteousness, and so with conceit, vanity, and pride, and have no appetite for spiritual things, nor do they hunger and thirst after Christ, and the grace that is in him:\nfor ye shall hunger; not that they shall truly and spiritually desire an interest in Christ, and his righteousness, or heaven and eternal life hereafter; but they shall be in starving and famishing circumstances; and whilst the saints are feeding upon the joys and glories of the other world, compared to a banquet, they shall be without, and have no share in these things; Isa 65:13.\nWoe unto you that laugh now; at sin, rejoice in iniquity, make a mock at it, instead of mourning for it; or that glory in themselves, and in their righteousness, and rejoice in their boastings:\nfor ye shall mourn and weep; shall be cast into outer darkness, where are weeping, waiting, and gnashing of teeth; and for all the fire they have kindled, and sparks they have encompassed themselves with, and danced in and about, this they shall have at the hand of God, they shall lie down in sorrow, and ever continue in it."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 6:25",
+      "note_ref": "GILL/42/6/25",
+      "cites": [
+        "Luke 6:25"
+      ],
+      "text": "Woe unto you when all men shall speak well of you!.... The word \"all\", is left out in the Vulgate Latin, Syriac, Arabic; Persic: and Ethiopic versions, and is wanting in many copies, though it is in the Alexandrian copy; and the meaning is, it looks ill in persons, when the men of the world, wicked men, all of them, or the greater part of them, applaud and commend them; for this can never be, if they are truly religious persons, and are faithful to their principles, and upright in their practices; and do not connive at, or comply with the errors and evil ways of wicked men; for it is no bad sign, to have the good word of good men, and therefore these must be excepted, and the passage must be limited to bad men;\nfor so did their fathers to the false prophets; they spoke well of them, and heaped favours, riches, and honours upon them, that they might prophesy unto them things; Kg1 22:6, smooth things and deceit."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 6:26",
+      "note_ref": "GILL/42/6/26",
+      "cites": [
+        "Luke 6:25"
+      ],
+      "text": "But I say unto you which hear,.... The Ethiopic version adds \"me\", and the generality of interpreters understand the passage of the hearers of Christ, as distinct from the disciples, or together with them, and of the better sort of them; and of such as had ears to hear, and who heard with a desire of understanding, and of putting into practice what they heard; but I rather think it regards the hearers of the Scribes and Pharisees, then present, who had heard and received the traditions of the elders, to which the following rules of Christ are opposed; and to each of which, with others in Matthew, these words are prefixed;\nye have heard that it was said by them of old time--but I say unto you,.... Mat 5:21 with which compare this phrase, and the sense will appear to be this; to you that hear day by day, the traditions of the elders urged upon you, and the false glosses the Scribes and Pharisees put upon the word of God; in opposition to them, I say to you what follows:\nlove your enemies; whereas you have heard them say, hate your enemies, keep enmity in your hearts to them, and revenge yourselves on them:\ndo good to them that hate you; whereas you have heard it said, that you should only do good to your friends, and should keep anger in your bosoms to such who hate you, and do you an injury; See Gill on Mat 5:43, Mat 5:44"
+    },
+    {
+      "src": "JFB",
+      "ref": "Proverbs 17:20",
+      "note_ref": "JFB/20/17/20",
+      "cites": [
+        "Proverbs 17:22"
+      ],
+      "text": "The second clause advances on the first. The ill-natured fail of good, and the cavilling and fault-finding incur evil."
+    },
+    {
+      "src": "JFB",
+      "ref": "Proverbs 17:21",
+      "note_ref": "JFB/20/17/21",
+      "cites": [
+        "Proverbs 17:22"
+      ],
+      "text": "(Compare Pro 23:24). Different words are rendered by \"fool,\" both denoting stupidity and impiety."
+    },
+    {
+      "src": "JFB",
+      "ref": "Proverbs 17:22",
+      "note_ref": "JFB/20/17/22",
+      "cites": [
+        "Proverbs 17:22"
+      ],
+      "text": "(Compare Pro 14:30; Pro 15:13). The effect of the mind on the body is well known.\nmedicine--or, \"body,\" which better corresponds with \"bone.\"\ndrieth--as if the marrow were exhausted."
+    },
+    {
+      "src": "JFB",
+      "ref": "Proverbs 17:23",
+      "note_ref": "JFB/20/17/23",
+      "cites": [
+        "Proverbs 17:22"
+      ],
+      "text": "a gift . . . bosom--Money and other valuables were borne in a fold of the garment, called the bosom.\nto pervert--that is, by bribery."
+    },
+    {
+      "src": "JFB",
+      "ref": "Ecclesiastes 7:2",
+      "note_ref": "JFB/21/7/2",
+      "cites": [
+        "Ecclesiastes 7:3-4"
+      ],
+      "text": "Proving that it is not a sensual enjoyment of earthly goods which is meant in Ecc 3:13; Ecc 5:18. A thankful use of these is right, but frequent feasting Solomon had found dangerous to piety in his own case. So Job's fear (Ecc 1:4-5). The house of feasting often shuts out thoughts of God and eternity. The sight of the dead in the \"house of mourning\" causes \"the living\" to think of their own \"end.\""
+    },
+    {
+      "src": "JFB",
+      "ref": "Ecclesiastes 7:3",
+      "note_ref": "JFB/21/7/3",
+      "cites": [
+        "Ecclesiastes 7:3-4"
+      ],
+      "text": "Sorrow--such as arises from serious thoughts of eternity.\nlaughter--reckless mirth (Ecc 2:2).\nby the sadness . . . better-- (Psa 126:5-6; Co2 4:17; Heb 12:10-11). MAURER translates: \"In sadness of countenance there is (may be) a good (cheerful) heart.\" So Hebrew, for \"good,\" equivalent to \"cheerful\" (Ecc 11:9); but the parallel clause supports English Version."
+    },
+    {
+      "src": "JFB",
+      "ref": "Ecclesiastes 7:5",
+      "note_ref": "JFB/21/7/5",
+      "cites": [
+        "Ecclesiastes 7:3-4"
+      ],
+      "text": "(Psa 141:4-5). Godly reproof offends the flesh, but benefits the spirit. Fools' songs in the house of mirth please the flesh, but injure the soul."
+    },
+    {
+      "src": "JFB",
+      "ref": "Ecclesiastes 7:6",
+      "note_ref": "JFB/21/7/6",
+      "cites": [
+        "Ecclesiastes 7:3-4"
+      ],
+      "text": "crackling--answers to the loud merriment of fools. It is the very fire consuming them which produces the seeming merry noise (Joe 2:5). Their light soon goes out in the black darkness. There is a paronomasia in the Hebrew, Sirim (\"thorns\"), Sir (\"pot\"). The wicked are often compared to \"thorns\" (Sa2 23:6; Nah 1:10). Dried cow-dung was the common fuel in Palestine; its slowness in burning makes the quickness of a fire of thorns the more graphic, as an image of the sudden end of fools (Psa 118:12)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Ecclesiastes 8:13",
+      "note_ref": "JFB/21/8/13",
+      "cites": [
+        "Ecclesiastes 8:15"
+      ],
+      "text": "neither shall he prolong--not a contradiction to Ecc 8:12. The \"prolonging\" of his days there is only seeming, not real. Taking into account his eternal existence, his present days, however seemingly long, are really short. God's delay (Ecc 8:11) exists only in man's short-sighted view. It gives scope to the sinner to repent, or else to fill up his full measure of guilt; and so, in either case, tends to the final vindication of God's ways. It gives exercise to the faith, patience, and perseverance of saints.\nshadow-- (Ecc 6:12; Job 8:9)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Ecclesiastes 8:14",
+      "note_ref": "JFB/21/8/14",
+      "cites": [
+        "Ecclesiastes 8:15"
+      ],
+      "text": "An objection is here started (entertained by Solomon in his apostasy), as in Ecc 3:16; Ecc 7:15, to the truth of retributive justice, from the fact of the just and the wicked not now receiving always according to their respective deserts; a cavil, which would seem the more weighty to men living under the Mosaic covenant of temporal sanctions. The objector adds, as Solomon had said, that the worldling's pursuits are \"vanity\" (Ecc 8:10), \"I say (not 'said') this also is vanity. Then I commend mirth,\" &c. [HOLDEN]. Ecc 8:14-15 may, however, be explained as teaching a cheerful, thankful use of God's gifts \"under the sun,\" that is, not making them the chief good, as sensualists do, which Ecc 2:2; Ecc 7:2, forbid; but in \"the fear of God,\" as Ecc 3:12; Ecc 5:18; Ecc 7:18; Ecc 9:7, opposed to the abstinence of the self-righteous ascetic (Ecc 7:16), and of the miser (Ecc 5:17)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Ecclesiastes 8:15",
+      "note_ref": "JFB/21/8/15",
+      "cites": [
+        "Ecclesiastes 8:15"
+      ],
+      "text": "no better thing, &c.--namely, for the \"just\" man, whose chief good is religion, not for the worldly.\nabide--Hebrew, \"adhere\"; not for ever, but it is the only sure good to be enjoyed from earthly labors (equivalent to \"of his labor the days of his life\"). Still, the language resembles the skeptical precept (Co1 15:32), introduced only to be refuted; and \"abide\" is too strong language, perhaps, for a religious man to apply to \"eating\" and \"mirth.\""
+    },
+    {
+      "src": "JFB",
+      "ref": "Ecclesiastes 8:16",
+      "note_ref": "JFB/21/8/16",
+      "cites": [
+        "Ecclesiastes 8:15"
+      ],
+      "text": "Reply to Ecc 8:14-15. When I applied myself to observe man's toils after happiness (some of them so incessant as not to allow sufficient time for \"sleep\"), then (Ecc 8:17, the apodosis) I saw that man cannot find out (the reason of) God's inscrutable dealings with the \"just\" and with the \"wicked\" here (Ecc 8:14; Ecc 3:11; Job 5:9; Rom 11:33); his duty is to acquiesce in them as good, because they are God's, though he sees not all the reasons for them (Psa 73:16). It is enough to know \"the righteous are in God's hand\" (Ecc 9:1). \"Over wise\" (Ecc 7:16); that is, Speculations above what is written are vain.\nNext: Ecclesiastes Chapter 9"
+    },
+    {
+      "src": "JFB",
+      "ref": "Luke 6:23",
+      "note_ref": "JFB/42/6/23",
+      "cites": [
+        "Luke 6:25"
+      ],
+      "text": "leap for joy--a livelier word than \"be exceeding glad\" of \"exult\" (Mat 5:12)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Luke 6:24",
+      "note_ref": "JFB/42/6/24",
+      "cites": [
+        "Luke 6:25"
+      ],
+      "text": "rich . . . full . . . laugh--who have all their good things and joyous feelings here and now, in perishable objects.\nreceived your consolation--(see on Luk 16:25).\nshall hunger--their inward craving strong as ever, but the materials of satisfaction forever gone."
+    },
+    {
+      "src": "JFB",
+      "ref": "Luke 6:26",
+      "note_ref": "JFB/42/6/26",
+      "cites": [
+        "Luke 6:25"
+      ],
+      "text": "all . . . speak well of you--alluding to the court paid to the false prophets of old (Mic 2:11). For the principle of this woe, and its proper limits, see Joh 15:19."
+    },
+    {
+      "src": "JFB",
+      "ref": "Luke 6:27",
+      "note_ref": "JFB/42/6/27",
+      "cites": [
+        "Luke 6:25"
+      ],
+      "text": "(See on Mat 5:44-48; Mat 7:12; and Mat 14:12-14.)"
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 6:23",
+      "note_ref": "CLARKE/42/6/23",
+      "cites": [
+        "Luke 6:25"
+      ],
+      "text": "Did - unto the prophets - See Kg1 18:4; Kg1 19:20; Ch2 24:21; Ch2 36:16; Neh 9:26."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 6:24",
+      "note_ref": "CLARKE/42/6/24",
+      "cites": [
+        "Luke 6:25"
+      ],
+      "text": "But wo unto you that are rich! - The Pharisees, who were laden with the spoils of the people which they received in gifts, etc. These three verses are not found in the sermon, as recorded by Matthew. They seem to be spoken chiefly to the scribes and Pharisees, who, in order to be pleasing to all, spoke to every one what he liked best; and by finesse, flattery, and lies, found out the method of gaining and keeping the good opinion of the multitude."
+    },
+    {
+      "src": "KD",
+      "ref": "Proverbs 17:22",
+      "note_ref": "KD/20/17/22",
+      "cites": [
+        "Proverbs 17:22"
+      ],
+      "text": "22 A joyful heart bringeth good recovery;\nAnd a broken spirit drieth the bones.\nThe heart is the centre of the individual life, and the condition and the tone of the heart communicates itself to this life, even to its outermost circumference; the spirit is the power of self-consciousness which, according as it is lifted up or broken, also lifts up or breaks down the condition of the body (Psychol. p. 199), vid., the similar contrasted phrases לב שׂמח and רוּח נכאה, Pro 15:13. The ἄπ. λεγ. גּהה (here and there in Codd. incorrectly written גּיהה) has nothing to do with the Arab. jihat, which does not mean sight, but direction, and is formed from wjah (whence wajah, sight), like עדה, congregation, from ועד (יעד). The Syr., Targ. (perhaps also Symmachus: ἀγαθύνει ἡλικίαν; Jerome: aetatem floridam facit; Luther: makes the life lstig [cheerful]) translate it by body; but for this גּוה (גּויּה) is used, and that is a word of an entirely different root from גּהה. To what verb this refers is shown by Hos 5:13 : ולא־יגהה מכּם מזור, and healed not for you her ulcerous wound. מזור is the compress, i.e., the bandage closing up the ulcer, then also the ulcer-wound itself; and גּהה is the contrary of עלה, e.g., Jer 8:22; it means the removing of the bandage and the healing of the wound. This is confirmed by the Syr. gho, which in like manner is construed with min, and means to be delivered from something (vid., Bernstein's Lex. Syr. to Kirsch's Chrestomathie). The Aethiop. quadriliteral gâhgěh, to hinder, to cause to cease, corresponds to the causative Syr. agahish. Accordingly גּהה means to be in the condition of abatement, mitigation, healing; and גּהה (as synonym of כּהה, Neh 3:19, with which Parchon combines it), levamen, levatio, in the sense of bodily healing (lxx εὐεκτεῖν ποιεῖ; Venet., after Kimchi, ἀγαθυνεῖ θεραπείαν); and היטיב גּהה (cf. Pro 15:2) denotes, to bring good improvement, to advance powerfully the recovery. Schultens compares the Arab. jahy, nitescere, disserenari, as Menahem has done ננהּ, but this word is one of the few words which are explained exclusively from the Syriac (and Aethiop.). גּרם (here and at Pro 25:15) is the word interchanging with עצם, Pro 15:30; Pro 16:24."
+    },
+    {
+      "src": "KD",
+      "ref": "Proverbs 17:23",
+      "note_ref": "KD/20/17/23",
+      "cites": [
+        "Proverbs 17:22"
+      ],
+      "text": "23 Bribery from the bosom the godless receiveth,\nTo pervert the ways of justice.\nRegarding שׂחד, vid., Pro 17:8. The idea of this word, as well as the clause containing the purpose, demand for the רשׁע a high judicial or administrative post. The bosom, חק (חיק), is, as Pro 16:23, that of the clothing. From the bosom, מחק, where it was kept concealed, the gift is brought forth, and is given into the bosom, בּחק, Pro 21:14, of him whose favour is to be obtained - an event taking place under four eyes, which purposely withdraws itself from the observation of any third person. Since this is done to give to the course of justice a direction contrary to rectitude, the giver of the bribe has not right on his side; and, under the circumstances, the favourable decision which he purchases may be at once the unrighteous sentence of a צדיק, accusing him, or accused by him, Pro 18:5."
+    },
+    {
+      "src": "KD",
+      "ref": "Proverbs 17:24",
+      "note_ref": "KD/20/17/24",
+      "cites": [
+        "Proverbs 17:22"
+      ],
+      "text": "24 The understanding has his attention toward wisdom;\nBut the eyes of a fool are on the end of the earth.\nMany interpreters explain, as Euchel:\n\"The understanding finds wisdom everywhere;\nThe eyes of the fool seek it at the end of the world.\"\nEwald refers to Deu 30:11-14 as an unfolding of the same thought. But although it may be said of the fool (vid., on the contrary, Pro 15:14) that he seeks wisdom, only not at the right place, as at Pro 14:6, of the mocker that he seeks wisdom but in vain, yet here the order of the words, as well as the expression, lead us to another thought: before the eyes of the understanding את־פּניע, as Gen 33:18; Sa1 2:11, and frequently in the phrase 'את־פני ה, e.g., Sa1 1:22) wisdom lies as his aim, his object, the end after which he strives; on the contrary, the eyes of the fool, without keeping that one necessary thing in view, wander in alia omnia, and roam about what is far off, without having any fixed object. The fool is everywhere with his thoughts, except where he ought to be. Leaving out of view that which lies nearest, he loses himself in aliena. The understanding has an ever present theme of wisdom, which arrests his attention, and on which he concentrates himself; but the fool flutters about fantastically from one thing to another, and that which is to him precisely of least importance interests him the most."
+    },
+    {
+      "src": "KD",
+      "ref": "Ecclesiastes 7:1",
+      "note_ref": "KD/21/7/1",
+      "cites": [
+        "Ecclesiastes 7:3-4"
+      ],
+      "text": "\"Better is a name than precious ointment; and better is the day of death than the day when one is born.\" Like ראה and ירא, so שׁם and שׁמן stand to each other in the relation of a paronomasia (vid., Song under Sol 1:3). Luther translates: \"Ein gut Gercht ist besser denn gute Salbe\" \"a good odour (= reputation) is better than good ointment. If we substitute the expression denn Wolgeruch than sweet scent, that would be the best possible rendering of the paronomasia. In the arrangement טוב ... טוב שׁם, tov would be adj. to shem (a good reputation goes beyond sweet scent); but tov standing first in the sentence is pred., and shem thus in itself alone, as in the cogn. prov., Pro 22:1, signifies a good, well-sounding, honourable, if not venerable name; cf. anshē hashshem, Gen 6:4; veli-shem, nameless, Job 30:8. The author gives the dark reverse to this bright side of the distich: the day of death better than the day in which one (a man), or he (the man), is born; cf. for this reference of the pronoun, Ecc 4:12; Ecc 5:17. It is the same lamentation as at Ecc 4:2., which sounds less strange from the mouth of a Greek than from that of an Israelite; a Thracian tribe, the Trausi, actually celebrated their birthdays as days of sadness, and the day of death as a day of rejoicing (vid., Bhr's Germ. translat. of Herodotus, Ecc 4:4). - Among the people of the Old Covenant this was not possible; also a saying such as Ecc 7:1 is not in the spirit of the O.T. revelation of religion; yet it is significant that it was possible\n(Note: \"The reflections of the Preacher,\" says Hitzig (Sd. deut. ev. protest. Woch. Blatt, 1864, No. 2) \"present the picture of a time in which men, participating in the recollection of a mighty religious past, and become sceptical by reason of the sadness of the present time, grasping here and there in uncertainty, were in danger of abandoning that stedfastness of faith which was the first mark of the religion of the prophets.\")\nwithin it, without apostasy from it; within the N.T. revelation of religion, except in such references as Mat 26:24, it is absolutely impossible without apostasy from it, or without rejection of its fundamental meaning."
+    },
+    {
+      "src": "KD",
+      "ref": "Ecclesiastes 7:2",
+      "note_ref": "KD/21/7/2",
+      "cites": [
+        "Ecclesiastes 7:3-4"
+      ],
+      "text": "Still more in the spirit of the N.T. (cf. e.g., Luk 6:25) are these words of this singular book which stands on the border of both Testaments: \"It is better to go into a house of mourning than to go into a house of carousal (drinking): for that is the end of every man; and the living layeth it to heart.\" A house is meant in which there is sorrow on account of a death; the lamentation continued for seven days (Sirach 22:10), and extended sometimes, as in the case of the death of Aaron and Moses, to thirty days; the later practice distinguished the lamentations (אנינוּת) for the dead till the time of burial, and the mournings for the dead (אבלוּת), which were divided into seven and twenty-three days of greater and lesser mourning; on the return from carrying away the corpse, there was a Trostmahl (a comforting repast), to which, according as it appears to an ancient custom, those who were to be partakers of it contributed (Jer 16:7; Hos 9:4; Job 4:17, funde vinum tuum et panem tuum super sepulchra justorum).\n(Note: Cf. Hamb. Real Encyc. fr Bibel u. Talmud (1870), article \"Trauer.\")\nThis feast of sorrow the above proverb leaves out of view, although also in reference to it the contrast between the \"house of carousal\" and \"house of mourning\" remains, that in the latter the drinking must be in moderation, and not to drunkenness.\n(Note: Maimuni's Hilchoth Ebel, iv. 7, xiii. 8.)\nThe going into the house of mourning is certainly thought of as a visit for the purpose of showing sympathy and of imparting consolation during the first seven days of mourning (Joh 11:31).\n(Note: Ibid. xiii. 2.)\nThus to go into the house of sorrow, and to show one's sympathy with the mourners there, is better than to go into a house of drinking, where all is festivity and merriment; viz., because the former (that he is mourned over as dead) is the end of every man, and the survivor takes it to heart, viz., this, that he too must die. הוּא follows attractionally the gender of סוף (cf. Job 31:11, Kerı̂). What is said at Ecc 3:13 regarding כּל־ה is appropriate to the passage before us. החי is rightly vocalised; regarding the form החי, vid., Baer in the critical remarks of our ed. of Isaiah under Isa 3:22. The phrase נתן אל־לב here and at Ecc 9:1 is synon. with שׂים אל־לב, שׂים על־לב (e.g., Isa 57:1) and שׂים בּלב. How this saying agrees with Koheleth's ultimatum: There is nothing better than to eat and drink, etc. (Ecc 2:24, etc.), the Talmudists have been utterly perplexed to discover; Manasse ben-Israel in his Conciliador (1632) loses himself in much useless discussion.\n(Note: Vid., the English translation by Lindo (London 1842), vol. ii. pp. 306-309.)\nThe solution of the difficulty is easy. The ultimatum does not relate to an unconditional enjoyment of life, but to an enjoyment conditioned by the fear of God. When man looks death in the face, the two things occur to him, that he should make use of his brief life, but make use of it in view of the end, thus in a manner for which he is responsible before God."
+    },
+    {
+      "src": "KD",
+      "ref": "Ecclesiastes 7:3",
+      "note_ref": "KD/21/7/3",
+      "cites": [
+        "Ecclesiastes 7:3-4"
+      ],
+      "text": "The joy of life must thus be not riot and tumult, but a joy tempered with seriousness: \"Better is sorrow than laughter: for with a sad countenance it is well with the heart. The heart of the wise is in the house of mourning, and the heart of fools in the house of mirth.\" Grief and sorrow, כּעס, whether for ourselves or occasioned by others, is better, viz., morally better, than extravagant merriment; the heart is with רע פּ (inf. as רע, Jer 7:6; cf. פן ר, Gen 40:7; Neh 2:2), a sorrowful countenance, better than with laughter, which only masks the feeling of disquiet peculiar to man, Pro 14:13. Elsewhere לב ייטב = \"the heart is (may be) of good cheer,\" e.g., Rut 3:7; Jdg 19:6; here also joyful experience is meant, but well becoming man as a religious moral being. With a sad countenance it may be far better as regards the heart than with a merry countenance in boisterous company. Luther, in the main correct, after Jerome, who on his part follows Symmachus: \"The heart is made better by sorrow.\" The well-being is here meant as the reflex of a moral: bene se habere.\nSorrow penetrates the heart, draws the thought upwards, purifies, transforms. Therefore is the heart of the wise in the house of sorrow; and, on the other hand, the heart of fools is in the house of joy, i.e., the impulse of their heart goes thither, there they feel themselves at home; a house of joy is one where there are continual feasts, or where there is at the time a revelling in joy. That Ecc 7:4 is divided not by Athnach, but by Zakef, has its reason in this, that of the words following אבל, none consists of three syllables; cf. on the contrary, Ecc 7:7, חכם. From this point forward the internal relation of the contents is broken up, according to which this series of sayings as a concluding section hangs together with that containing the observations going before in Ecc 6:1-12."
+    },
+    {
+      "src": "KD",
+      "ref": "Ecclesiastes 7:5",
+      "note_ref": "KD/21/7/5",
+      "cites": [
+        "Ecclesiastes 7:3-4"
+      ],
+      "text": "A fourth proverb of that which is better (מן טוב) presents, like the third, the fools and the wise over against each other: \"Better to hear the reproof of a wise man, than that one should hear the song of fools. For like the crackling of Nesseln (nettles) under the Kessel (kettle), so the laughter of the fool: also this is vain.\" As at Pro 13:1; Pro 17:10, גּערה is the earnest and severe words of the wise, which impressively reprove, emphatically warn, and salutarily alarm. שׁיר in itself means only song, to the exclusion, however, of the plaintive song; the song of fools is, if not immoral, yet morally and spiritually hollow, senseless, and unbridled madness. Instead of משּׁמע, the words מא שׁ are used, for the twofold act of hearing is divided between different subjects. A fire of thorn-twigs flickers up quickly and crackles merrily, but also exhausts itself quickly (Psa 118:12), without sufficiently boiling the flesh in the pot; whilst a log of wood, without making any noise, accomplishes this quietly and surely.\nWe agree with Knobel and Vaihinger in copying the paronomasia [Nessel-Kessel]. When, on the other hand, Zckler remarks that a fire of nettles could scarcely crackle, we advise our friend to try it for once in the end of summer with a bundle of stalks of tall dry nettles. They yield a clear blaze, a quickly expiring fire, to which here, as he well remarks, the empty laughter of foolish men is compared, who are devoid of all earnestness, and of all deep moral principles of life. This laughter is vain, like that crackling.\nThere is a hiatus between Ecc 7:6 and Ecc 7:7. For how Ecc 7:7 can be related to Ecc 7:6 as furnishing evidence, no interpreter has as yet been able to say. Hitzig regards Ecc 7:6 as assigning a reason for Ecc 7:5, but 6b as a reply (as Ecc 7:7 containing its motive shows) to the assertion of Ecc 7:5, - a piece of ingenious thinking which no one imitates. Elster translates: \"Yet injustice befools a wise man,\" being prudently silent about this \"yet.\" Zckler finds, as Knobel and Ewald do, the mediating thought in this, that the vanity of fools infects and also easily befools the wise. But the subject spoken of is not the folly of fools in general, but of their singing and laughter, to which Ecc 7:7 has not the most remote reference. Otherwise Hengst.: \"In Ecc 7:7, the reason is given why the happiness of fools is so brief; first, the mens sana is lost, and then destruction follows.\" But in that case the words ought to have been כסיל יהולל; the remark, that חכם here denotes one who ought to be and might be such, is a pure volte. Ginsburg thinks that the two verses are co-ordinated by כי; that Ecc 7:6 gives the reason for Ecc 7:5, and Ecc 7:7 that for Ecc 7:5, since here, by way of example, one accessible to bribery is introduced, who would act prudently in letting himself therefore be directed by a wise man. But if he had wished to be thus understood, the author would have used another word instead of חכם, 7a, and not designated both him who reproves and him who merits reproof by the one word - the former directly, the latter at least indirectly. We do not further continue the account of the many vain attempts that have been made to bring Ecc 7:7 into connection with Ecc 7:6 and Ecc 7:5. Our opinion is, that Ecc 7:7 is the second half of a tetrastich, the first half of which is lost, which began, as is to be supposed, with tov. The first half was almost the same as Psa 37:16, or better still, as Pro 16:8, and the whole proverb stood thus:\nטוב מעט בּחדקה\nמרב תּבוּאות בּלא משׁפּט׃\n[and then follows Ecc 7:7 as it lies before us in the text, formed into a distich, the first line of which terminates with חכם]. We go still further, and suppose that after the first half of the tetrastich was lost, that expression, \"also this is vain,\" added to Ecc 7:6 by the punctuation, was inserted for the purpose of forming a connection for כי עשק: Also this is vain, that, etc. (כי, like asher, Ecc 8:14)."
+    },
+    {
+      "src": "KD",
+      "ref": "Ecclesiastes 8:14",
+      "note_ref": "KD/21/8/14",
+      "cites": [
+        "Ecclesiastes 8:15"
+      ],
+      "text": "\"Who is like the wise? and who understandeth the interpretation of things? The wisdom of a man maketh his face bright, and the rudeness of his face is changed.\" Unlike this saying: \"Who is like the wise?\" are the formulas חכם מי, Hos 14:9, Jer 11:11, Psa 107:43, which are compared by Hitzig and others. \"Who is like the wise?\" means: Who is equal to him? and this question, after the scheme מי־כמכה, Exo 15:11, presents him as one who has not his like among men. Instead of כּה the word כּחכם might be used, after לחכם, Ecc 2:16, etc. The syncope is, as at Eze 40:25, omitted, which frequently occurs, particularly in the more modern books, Eze 47:22; Ch2 10:7; Ch2 25:10; Ch2 29:27; Neh 9:19; Neh 12:38. The regular giving of Dagesh to כ after מי, with Jethib, not Mahpach, is as at Ecc 8:7 after כּי; Jethib is a disjunctive. The second question is not כּיודע, but יודע וּמי, and thus does not mean: who is like the man of understanding, but: who understands, viz., as the wise man does; thus it characterizes the incomparably excellent as such. Many interpreters (Oetinger, Ewald, Hitz., Heiligst., Burg., Elst., Zckl.) persuade themselves that דּבר פּשׁר is meant of the understanding of the proverb, 8b. The absence of the art., says Hitzig, does not mislead us: of a proverb, viz., the following; but in this manner determinate ideas may be made from all indeterminate ones. Rightly, Gesenius: explicationem ullius rei; better, as at Ecc 7:8 : cujusvis rei. Ginsburg compares נבון דּבר, Sa1 16:18, which, however, does not mean him who has the knowledge of things, but who is well acquainted with words. It is true that here also the chief idea פּשׁר first leads to the meaning verbum (according to which the lxx, Jer., the Targ., and Syr. translate; the Venet.: ἑρμηνείαν λόγου); but since the unfolding or explaining (pēshěr) refers to the actual contents of the thing spoken, verbi and rei coincide. The wise man knows how to explain difficult things, to unfold mysterious things; in short, he understands how to go to the foundation of things."
+    },
+    {
+      "src": "KD",
+      "ref": "Ecclesiastes 8:15",
+      "note_ref": "KD/21/8/15",
+      "cites": [
+        "Ecclesiastes 8:15"
+      ],
+      "text": "\"Who is like the wise? and who understandeth the interpretation of things? The wisdom of a man maketh his face bright, and the rudeness of his face is changed.\" Unlike this saying: \"Who is like the wise?\" are the formulas חכם מי, Hos 14:9, Jer 11:11, Psa 107:43, which are compared by Hitzig and others. \"Who is like the wise?\" means: Who is equal to him? and this question, after the scheme מי־כמכה, Exo 15:11, presents him as one who has not his like among men. Instead of כּה the word כּחכם might be used, after לחכם, Ecc 2:16, etc. The syncope is, as at Eze 40:25, omitted, which frequently occurs, particularly in the more modern books, Eze 47:22; Ch2 10:7; Ch2 25:10; Ch2 29:27; Neh 9:19; Neh 12:38. The regular giving of Dagesh to כ after מי, with Jethib, not Mahpach, is as at Ecc 8:7 after כּי; Jethib is a disjunctive. The second question is not כּיודע, but יודע וּמי, and thus does not mean: who is like the man of understanding, but: who understands, viz., as the wise man does; thus it characterizes the incomparably excellent as such. Many interpreters (Oetinger, Ewald, Hitz., Heiligst., Burg., Elst., Zckl.) persuade themselves that דּבר פּשׁר is meant of the understanding of the proverb, 8b. The absence of the art., says Hitzig, does not mislead us: of a proverb, viz., the following; but in this manner determinate ideas may be made from all indeterminate ones. Rightly, Gesenius: explicationem ullius rei; better, as at Ecc 7:8 : cujusvis rei. Ginsburg compares נבון דּבר, Sa1 16:18, which, however, does not mean him who has the knowledge of things, but who is well acquainted with words. It is true that here also the chief idea פּשׁר first leads to the meaning verbum (according to which the lxx, Jer., the Targ., and Syr. translate; the Venet.: ἑρμηνείαν λόγου); but since the unfolding or explaining (pēshěr) refers to the actual contents of the thing spoken, verbi and rei coincide. The wise man knows how to explain difficult things, to unfold mysterious things; in short, he understands how to go to the foundation of things."
+    },
+    {
+      "src": "KD",
+      "ref": "Ecclesiastes 8:16",
+      "note_ref": "KD/21/8/16",
+      "cites": [
+        "Ecclesiastes 8:15"
+      ],
+      "text": "\"Who is like the wise? and who understandeth the interpretation of things? The wisdom of a man maketh his face bright, and the rudeness of his face is changed.\" Unlike this saying: \"Who is like the wise?\" are the formulas חכם מי, Hos 14:9, Jer 11:11, Psa 107:43, which are compared by Hitzig and others. \"Who is like the wise?\" means: Who is equal to him? and this question, after the scheme מי־כמכה, Exo 15:11, presents him as one who has not his like among men. Instead of כּה the word כּחכם might be used, after לחכם, Ecc 2:16, etc. The syncope is, as at Eze 40:25, omitted, which frequently occurs, particularly in the more modern books, Eze 47:22; Ch2 10:7; Ch2 25:10; Ch2 29:27; Neh 9:19; Neh 12:38. The regular giving of Dagesh to כ after מי, with Jethib, not Mahpach, is as at Ecc 8:7 after כּי; Jethib is a disjunctive. The second question is not כּיודע, but יודע וּמי, and thus does not mean: who is like the man of understanding, but: who understands, viz., as the wise man does; thus it characterizes the incomparably excellent as such. Many interpreters (Oetinger, Ewald, Hitz., Heiligst., Burg., Elst., Zckl.) persuade themselves that דּבר פּשׁר is meant of the understanding of the proverb, 8b. The absence of the art., says Hitzig, does not mislead us: of a proverb, viz., the following; but in this manner determinate ideas may be made from all indeterminate ones. Rightly, Gesenius: explicationem ullius rei; better, as at Ecc 7:8 : cujusvis rei. Ginsburg compares נבון דּבר, Sa1 16:18, which, however, does not mean him who has the knowledge of things, but who is well acquainted with words. It is true that here also the chief idea פּשׁר first leads to the meaning verbum (according to which the lxx, Jer., the Targ., and Syr. translate; the Venet.: ἑρμηνείαν λόγου); but since the unfolding or explaining (pēshěr) refers to the actual contents of the thing spoken, verbi and rei coincide. The wise man knows how to explain difficult things, to unfold mysterious things; in short, he understands how to go to the foundation of things."
+    },
+    {
+      "src": "MHC",
+      "ref": "Proverbs 17:20",
+      "note_ref": "MHC/20/17/20",
+      "cites": [
+        "Proverbs 17:22"
+      ],
+      "text": "Note, 1. Framing ill designs will be of no advantage to us; there is nothing got by them: He that has a froward heart, that sows discord and is full of resentment, cannot promise himself to get by it sufficient to counterbalance the loss of his repose and reputation, nor can he take any rational satisfaction in it; he finds no good. 2. Giving ill language will be a great disadvantage to us: He that has a perverse tongue, spiteful and abusive, scurrilous or backbiting, falls into one mischief or other, loses his friends, provokes his enemies, and pulls trouble upon his own head. Many a one has paid dearly for an unbridled tongue."
+    },
+    {
+      "src": "MHC",
+      "ref": "Proverbs 17:21",
+      "note_ref": "MHC/20/17/21",
+      "cites": [
+        "Proverbs 17:22"
+      ],
+      "text": "This expresses that very emphatically which many wise and good men feel very sensibly, what a grievous vexatious thing it is to have a foolish wicked child. See here, 1. How uncertain all our creature-comforts are, so that we are often not only disappointed in them, but that proves the greatest cross in which we promised ourselves most satisfaction. There was joy when a man-child was born into the world, and yet, if he prove vicious, his own father will wish he had never been born. The name of Absalom signifies his father's peace, but he was his greatest trouble. It should moderate the desire of having children, and the delights of their parents in them, that they may prove a grief to them; yet it should silence the murmurings of the afflicted father in that case that if his son be a fool he is a fool of his own begetting, and therefore he must make the best of him, and take it up as his cross, the rather because Adam begets a son in his own likeness. 2. How unwise we are in suffering one affliction (and that of an untoward child as likely as any other) to drown the sense of a thousand mercies: The father of a fool lays that so much to heart that he has no joy of any thing else. For this he may thank himself; there are joys sufficient to counterbalance even that sorrow."
+    },
+    {
+      "src": "MHC",
+      "ref": "Proverbs 17:22",
+      "note_ref": "MHC/20/17/22",
+      "cites": [
+        "Proverbs 17:22"
+      ],
+      "text": "Note, 1. It is healthful to be cheerful. The Lord is for the body, and has provided for it, not only meat, but medicine, and has here told us that the best medicine is a merry heart, not a heart addicted to vain, carnal, sensual mirth; Solomon himself said of that mirth, It is not medicine, but madness; it is not food, but poison; what doth it? But he means a heart rejoicing in God, and serving him with gladness, and then taking the comfort of outward enjoyments and particularly that of pleasant conversation. It is a great mercy that God gives us leave to be cheerful and cause to be cheerful, especially if by his grace he gives us hearts to be cheerful. This does good to a medicine (so some read it); it will make physic more efficient. Or it does good as a medicine to the body, making it easy and fit for business. But, if mirth be a medicine (understand it of diversion and recreation), it must be used sparingly, only when there is occasion, not turned into food, and it must be used medicinally, sub regimine - as a prescribed regimen, and by rule. 2. The sorrows of the mind often contribute very much to the sickliness of the body: A broken spirit, sunk by the burden of afflictions, and especially a conscience wounded with the sense of guilt and fear of wrath, dries the bones, wastes the radical moisture, exhausts the very marrow, and makes the body a mere skeleton. We should therefore watch and pray against all melancholy dispositions, for they lead us into trouble as well as into temptation."
+    },
+    {
+      "src": "MHC",
+      "ref": "Proverbs 17:23",
+      "note_ref": "MHC/20/17/23",
+      "cites": [
+        "Proverbs 17:22"
+      ],
+      "text": "See here, 1. What an evil thing bribery is: He is a wicked man that will take a gift to engage him to give a false testimony, verdict, or judgment; when he does it he is ashamed of it, for he takes it, with all the secresy imaginable, out of the bosom where he knows it is laid ready for him; it is industriously concealed, and so slyly that, if he could, he would hide it from his own conscience. A gift is taken out of the bosom of a wicked man (so some read it); for he is a bad man that gives bribes, as well as he that takes them. 2. What a powerful thing it is. It is of such force that it perverts the ways of judgment. The course of justice is not only obstructed, but turned into injustice; and the greatest wrongs are done under colour of doing right."
+    },
+    {
+      "src": "MHC",
+      "ref": "Ecclesiastes 7:1",
+      "note_ref": "MHC/21/7/1",
+      "cites": [
+        "Ecclesiastes 7:3-4"
+      ],
+      "text": "In these verses Solomon lays down some great truths which seem paradoxes to the unthinking part, that is, the far greatest part, of mankind.\nI. That the honour of virtue is really more valuable and desirable than all the wealth and pleasure in this world (Ecc 7:1): A good name is before good ointment (so it may be read); it is preferable to it, and will be rather chosen by all that are wise. Good ointment is here put for all the profits of the earth (among the products of which oil was reckoned one of the most valuable), for all the delights of sense (for ointment and perfume which rejoice the heart, and it is called the oil of gladness), nay, and for the highest titles of honour with which men are dignified, for kings are anointed. A good name is better than all riches (Pro 21:1), that is, a name for wisdom and goodness with those that are wise and good - the memory of the just; this is a good that will bring a more grateful pleasure to the mind, will give a man a larger opportunity of usefulness, and will go further, and last longer, than the most precious box of ointment; for Christ paid Mary for her ointment with a good name, a name in the gospels (Mat 26:13), and we are sure he always pays with advantage.\nII. That, all things considered, our going out of the world is a great kindness to us than our coming into the world was: The day of death is preferable to the birthday; though, as to others, there was joy when a child was born into the world, and where there is death there is lamentation, yet, as to ourselves, if we have lived so as to merit a good name, the day of our death, which will put a period to our cares, and toils, and sorrows, and remove us to rest, and joy, and eternal satisfaction, is better than the day of our birth, which ushered us into a world of so much sin and trouble, vanity and vexation. We were born to uncertainty, but a good man does not die at uncertainty. The day of our birth clogged our souls with the burden of the flesh, but the day of our death will set them at liberty from that burden.\nIII. That it will do us more good to go to a funeral than to go to a festival (Ecc 7:2): It is better to go to the house of mourning, and there weep with those that weep, than to go to the house of feasting, to a wedding, or a wake, there to rejoice with those that do rejoice. It will do us more good, and make better impressions upon us. We may lawfully go to both, as there is occasion. Our Saviour both feasted at the wedding of his friend in Cana and wept at the grave of his friend in Bethany; and we may possibly glorify God, and do good, and get good, in the house of feasting; but, considering how apt we are to be vain and frothy, proud and secure, and indulgent of the flesh, it is better for us to go to the house of mourning, not to see the pomp of the funeral, but to share in the sorrow of it, and to learn good lessons, both from the dead, who is going thence to his long home, and from the mourners, who go about the streets.\n1. The uses to be gathered from the house of mourning are, (1.) By way of information: That is the end of all men. It is the end of man as to this world, a final period to his state here; he shall return no more to his house. It is the end of all men; all have sinned and therefore death passes upon all. We must thus be left by our friends, as the mourners are, and thus leave, as the dead do. What is the lot of others will be ours; the cup is going round, and it will come to our turn to pledge it shortly. (2.) By way of admonition: The living will lay it to his heart. Will they? It were well if they would. Those that are spiritually alive will lay it to heart, and, as for all the survivors, one would think they should; it is their own fault if they do not, for nothing is more easy and natural than by the death of others to be put in mind of our own. Some perhaps will lay that to heart, and consider their latter end, who would not lay a good sermon to heart.\n2. For the further proof of this (Ecc 7:4) he makes it the character, (1.) Of a wise man that his heart is in the house of mourning; he is much conversant with mournful subjects, and this is both an evidence and a furtherance of his wisdom. The house of mourning is the wise man's school, where he has learned many a good lesson, and there, where he is serious, he is in his element. When he is in the house of mourning his heart is there to improve the spectacles of mortality that are presented to him; nay, when he is in the house of feasting, his heart is in the house of mourning, by way of sympathy with those that are in sorrow. (2.) It is the character of a fool that his heart is in the house of mirth; his heart is all upon it to be merry and jovial; his whole delight is in sport and gaiety, in merry stories, merry songs, and merry company, merry days and merry nights. If he be at any time in the house of mourning, he is under a restraint; his heart at the same time is in the house of mirth; this is his folly, and helps to make him more and more foolish.\nIV. That gravity and seriousness better become us, and are better for us, than mirth and jollity, Ecc 7:3. The common proverb says, \"An ounce of mirth is worth a pound of sorrow;\" but the preacher teaches us a contrary lesson: Sorrow is better than laughter, more agreeable to our present state, where we are daily sinning and suffering ourselves, more or less, and daily seeing the sins and sufferings of others. While we are in a vale of tears, we should conform to the temper of the climate. It is also more for our advantage; for, by the sadness that appears in the countenance, the heart is often made better. Note, 1. That is best for us which is best for our souls, by which the heart is made better, though it be unpleasing to sense. 2. Sadness is often a happy means of seriousness, and that affliction which is impairing to the health, estate, and family, may be improving to the mind, and make such impressions upon that as may alter its temper very much for the better, may make it humble and meek, loose from the world, penitent for sin, and careful of duty. Vexatio dat intellectum - Vexation sharpens the intellect. Periissem nisi periissem - I should have perished if I had not been made wretched. It will follow, on the contrary, that by the mirth and frolicsomeness of the countenance the heart is made worse, more vain, carnal, sensual, and secure, more in love with the world and more estranged from God and spiritual things (Job 21:12, Job 21:14), till it become utterly unconcerned in the afflictions of Joseph, as those Amo 6:5, Amo 6:6, and the king and Haman, Est 3:15.\nV. That it is much better for us to have our corruptions mortified by the rebuke of the wise than to have them gratified by the song of fools, Ecc 7:5. Many that would be very well pleased to hear the information of the wise, and much more to have their commendations and consolations, yet do not care for hearing their rebukes, that is, care not for being told of their faults, though ever so wisely; but therein they are no friends to themselves, for reproofs of instruction are the way of life (Pro 6:23), and, though they be not so pleasant as the song of fools, they are more wholesome. To hear, not only with patience, but with pleasure, the rebuke of the wise, is a sign and means of wisdom; but to be fond of the song of fools is a sign that the mind is vain and is the way to make it more so. And what an absurd thing is it for a man to dote so much upon such a transient pleasure as the laughter of a fool is, which may fitly be compared to the burning of thorns under a pot, which makes a great noise and a great blaze, for a little while, but is gone presently, scatters its ashes, and contributes scarcely any thing to the production of a boiling heat, for that requires a constant fire! The laughter of a fool is noisy and flashy, and is not an instance of true joy. This is also vanity; it deceives men to their destruction, for the end of that mirth is heaviness. Our blessed Saviour has read us our doom: Blessed are you that weep now, for you shall laugh; woe to you that laugh now, for you shall mourn and weep, Luk 6:21, Luk 6:25."
+    },
+    {
+      "src": "MHC",
+      "ref": "Ecclesiastes 8:14",
+      "note_ref": "MHC/21/8/14",
+      "cites": [
+        "Ecclesiastes 8:15"
+      ],
+      "text": "Wise and good men have, of old, been perplexed with this difficulty, how the prosperity of the wicked and the troubles of the righteous can be reconciled with the holiness and goodness of the God that governs the world. Concerning this Solomon here gives us his advice.\nI. He would not have us to be surprised at it, as though some strange thing happened, for he himself saw it in his days, Ecc 8:14. 1. He saw just men to whom it happened according to the work of the wicked, who, notwithstanding their righteousness, suffered very hard things, and continued long to do so, as if they were to be punished for some great wickedness. 2. He saw wicked men to whom it happened according to the work of the righteous, who prospered as remarkably as if they had been rewarded for some good deed, and that from themselves, from God, from men. We see the just troubled and perplexed in their own minds, the wicked easy, fearless, and secure, - the just crossed and afflicted by the divine Providence, the wicked prosperous, successful, and smiled upon, - the just, censured, reproached, and run down, by the higher powers, the wicked applauded and preferred.\nII. He would have us to take occasion hence, not to charge God with iniquity, but to charge the world with vanity. No fault is to be found with God; but, as to the world, This is vanity upon the earth, and again, This is also vanity, that is, it is a certain evidence that the things of this world are not the best things nor were ever designed to make a portion and happiness for us, for, if they had, God would not have allotted so much of this world's wealth to his worst enemies and so much of its troubles to his best friends; there must therefore be another life after this the joys and griefs of which must be real and substantial, and able to make men truly happy or truly miserable, for this world does neither.\nIII. He would have us not to fret and perplex ourselves about it, or make ourselves uneasy, but cheerfully to enjoy what God has given us in the world, to be content with it and make the best of it, though it be much better with others, and such as we think very unworthy (Ecc 8:15): Then I commended joy, a holy security and serenity of mind, arising from a confidence in God, and his power, providence, and promise, because a man has no better thing under the sun (though a good man has much better things above the sun) than to eat and drink, that is, soberly and thankfully to make use of the things of this life according as his rank is, and to be cheerful, whatever happens, for that shall abide with him of his labour. That is all the fruit he has for himself of the pains that he takes in the business of the world; let him therefore take it, and much good may it do him; and let him not deny himself that, out of a peevish discontent because the world does not go as he would have it. That shall abide with him during the days of his life which God gives him under the sun. Our present life is a life under the sun, but we look for the life of the world to come, which will commence and continue when the sun shall be turned into darkness and shine no more. This present life must be reckoned by days; this life is given us, and the days of it are allotted to us, by the counsel of God, and therefore while it does last we must accommodate ourselves to the will of God and study to answer the ends of life.\nIV. He would not have us undertake to give a reason for that which God does, for his way is in the sea and his path in the great waters, past finding out, and therefore we must be contentedly and piously ignorant of the meaning of God's proceedings in the government of the world, Ecc 8:16, Ecc 8:17. Here he shows, 1. That both he himself and many others had very closely studied the point, and searched far into the reasons of the prosperity of the wicked and the afflictions of the righteous. He, for his part, had applied his heart to know this wisdom, and to see the business that is done, by the divine Providence, upon the earth, to find out if there were any certain scheme, any constant rule or method, by which the affairs of this lower world were administered, any course of government as sure and steady as the course of nature, so that by what is done now we might as certainly foretel what will be done next as by the moon's changing now we can foretel when it will be at the full; this he would fain have found out. Others had likewise set themselves to make this enquiry with so close an application that they could not find time for sleep, either day or night, nor find in their hearts to sleep, so full of anxiety were they about these things. Some think Solomon speaks of himself, that he was so eager in prosecuting this great enquiry that he could not sleep for thinking of it. 2. That it was all labour in vain, Ecc 8:17. When we look upon all the works of God and his providence, and compare one part with another, we cannot find that there is any such certain method by which the work that is done under the sun is directed; we cannot discover any key by which to decipher the character, nor by consulting precedents can we know the practice of this court, nor what the judgment will be. [1.] Though a man be ever so industrious, thou he labour to seek it out. [2.] Though he be ever so ingenious, though he be a wise man in other things, and can fathom the counsels of kings themselves and trace them by their footsteps. Nay, [3.] Though he be very confident of success, though he think to know it, yet he shall not; he cannot find it out. God's ways are above ours, nor is he tied to his own former ways, but his judgments are a great deep."
+    },
+    {
+      "src": "MHC",
+      "ref": "Luke 6:20",
+      "note_ref": "MHC/42/6/20",
+      "cites": [
+        "Luke 6:25"
+      ],
+      "text": "Here begins a practical discourse of Christ, which is continued to the end of the chapter, most of which is found in the sermon upon the mount, Mt. 5 and 7. Some think that this was preached at some other time and place, and there are other instances of Christ's preaching the same things, or to the same purport, at different times; but it is probable that this is only the evangelist's abridgment of that sermon, and perhaps that in Matthew too is but an abridgment; the beginning and the conclusion are much the same; and the story of the cure of the centurion's servant follows presently upon it, both there and here, but it is not material. In these verses, we have,\nI. Blessings pronounced upon suffering saints, as happy people, though the world pities them (Luk 6:20): He lifted up his eyes upon his disciples, not only the twelve, but the whole company of them (Luk 6:17), and directed his discourse to them; for, when he had healed the sick in the plain, he went up again to the mountain, to preach. There he sat, as one having authority; thither they come to him (Mat 5:1), and to them he directed his discourse, to them he applied it, and taught them to apply it to themselves. When he had laid it down for a truth, Blessed are the poor in spirit, he added, Blessed are ye poor. All believers, that take the precepts of the gospel to themselves, and live by them may take the promises of the gospel to themselves and live upon them. And the application, as it is here, seems especially designed to encourage the disciples, with reference to the hardships and difficulties they were likely to meet with, in following Christ.\n1. \"You are poor, you have left all to follow me, are content to live upon alms with me, are never to expect any worldly preferment in my service. You must work hard, and fare hard, as poor people do; but you are blessed in your poverty, it shall be no prejudice at all to your happiness; nay, you are blessed for it, all your losses shall be abundantly made up to you, for yours is the kingdom of God, all the comforts and graces of his kingdom here and all the glories and joys of his kingdom hereafter; yours it shall be, nay, yours it is.\" Christ's poor are rich in faith, Jam 2:5.\n2. \"You hunger now (Luk 6:21), you are not fed to the full as others are, you often rise hungry, your commons are so short; or you are so intent upon your work that you have not time to eat bread, you are glad of a few ears of corn for a meal's meat; thus you hunger now in this world, but in the other world you shall be filled, shall hunger no more, nor thirst any more.\"\n3. \"You weep now, are often in tears, tears of repentance, tears of sympathy; you are of them that mourn in Zion. But blessed are you; your present sorrows are no prejudices to your future joy, but preparatories for it: You shall laugh. You have triumphs in reserve; you are but sowing in tears, and shall shortly reap in joy,\" Psa 126:5, Psa 126:6. They that now sorrow after a godly sort are treasuring up comforts for themselves, or, rather, God is treasuring up comforts for them; and the day is coming when their mouth shall be filled with laughing and their lips with rejoicing, Job 8:21.\n4. \"You now undergo the world's ill will. You must expect all the base treatment that a spiteful world can give you for Christ's sake, because you serve him and his interests; you must expect that wicked men will hate you, because your doctrine and life convict and condemn them; and those that have church-power in their hands will separate you, will force you to separate yourselves, and then excommunicate you for so doing, and lay you under the most ignominious censures. They will pronounce anathemas against you, as scandalous and incorrigible offenders. They will do this with all possible gravity and solemnity, and pomp and pageantry of appeals to Heaven, to make the world believe, and almost you yourselves too, that it is ratified in heaven. Thus will they endeavour to make you odious to others and a terror to yourselves.\" This is supposed to be the proper notion of aphorisōsin humas - they shall cast you out of their synagogues. \"And they that have not this power will not fail to show their malice, to the utmost of their power; for they will reproach you, will charge you with the blackest crimes, which you are perfectly innocent of, will fasten upon you the blackest characters, which you do not deserve; they will cast out your name as evil, your name as Christians, as apostles; they will do all they can to render these names odious.\" This is the application of the eighth beatitude, Mat 5:10-12.\n\"Such usage as this seems hard; but blessed are you when you are so used. It is so far from depriving you of your happiness that it will greatly add to it. It is an honour to you, as it is to a brave hero to be employed in the wars, in the service of his prince; and therefore rejoice you in that day, and leap for joy, Luk 6:23. Do not only bear it, but triumph in it. For,\" (1.) \"You are hereby highly dignified in the kingdom of grace, for you are treated as the prophets were before you, and therefore not only need not be ashamed of it, but may justly rejoice in it, for it will be an evidence for you that you walk in the same spirit, and in the same steps, are engaged in the same cause, and employed in the same service, with them.\" (2.) \"You will for this be abundantly recompensed in the kingdom of glory; not only your services for Christ, but your sufferings will come into the account: Your reward is great in heaven. Venture upon your sufferings, in a full belief that the glory of heaven will abundantly countervail all these hardships; so that, though you may be losers for Christ, you shall not be losers by him in the end.\"\nII. Woes denounced against prospering sinners as miserable people, though the world envies them. These we had not in Matthew. It should seem, the best exposition of these woes, compared with the foregoing blessings, is the parable of the rich man and Lazarus. Lazarus had the blessedness of those that are poor, and hunger, and weep, now, for in Abraham's bosom all the promises made to them who did so were made good to him; but the rich man had the woes that follow here, as he had the character of those on whom these woes are entailed.\n1. Here is a woe to them that are rich, that is, that trust in riches, that have abundance of this world's wealth, and, instead of serving God with it, serve their lusts with it; woe to them, for they have received their consolation, that which they placed their happiness in, and were willing to take up with for a portion, Luk 6:24. They in their life-time received their good things, which, in their account, were the best things, and all the good things they are ever likely to receive from God. \"You that are rich are in temptation to set your hearts upon a smiling world, and to say, Soul, take thine ease in the embraces of it, This is my rest for ever, here will I dwell; and then woe unto you.\" (1.) It is the folly of carnal worldlings that they make the things of this world their consolation, which were intended only for their convenience. They please themselves with them, pride themselves in them, and make them their heaven upon earth; and to them the consolations of God are small, and of no account. (2.) It is their misery that they are put off with them as their consolation. Let them know it, to their terror, when they are parted from these things, there is an end of all their comfort, a final end of it, and nothing remains to them but everlasting misery and torment.\n2. Here is a woe to them that are full (Luk 6:25), that are fed to the full, and have more than heart could wish (Psa 73:7), that have their bellies filled with the hid treasures of this world (Psa 17:14), that, when they have abundance of these, are full, and think they have enough, they need no more, they desire no more, Rev 3:17. Now ye are full, now ye are rich, Co1 4:8. They are full of themselves, without God and Christ. Woe to such, for they shall hunger, they shall shortly be stripped and emptied of all the things they are so proud of; and, when they shall have left behind them in the world all those things which are their fulness, they shall carry away with them such appetites and desires as the world they remove to will afford them no gratifications of; for all the delights of sense, which they are now so full of, will in hell be denied, and in heaven superseded.\n3. Here is a woe to them that laugh now, that have always a disposition to be merry, and always something to make merry with; that know no other joy than that which is carnal and sensual, and know no other use of this world's good than purely to indulge that carnal sensual joy that banishes sorrow, even godly sorrow, from their minds, and are always entertaining themselves with the laughter of the fool. Woe unto such, for it is but now, for a little time, that they laugh; they shall mourn and weep shortly, shall mourn and weep eternally, in a world where there is nothing but weeping and wailing, endless, easeless, and remediless sorrow.\n4. Here is a woe to them whom all men speak well of, that is, who make it their great and only care to gain the praise and applause of men, who value themselves upon that more than upon the favour of God and his acceptance (Luk 6:26): \"Woe unto you; that is, it would be a bad sign that you were not faithful to your trust, and to the souls of men, if you preached so as that nobody would be disgusted; for your business is to tell people of their faults, and, if you do that as you ought, you will get that ill will which never speaks well. The false prophets indeed, that flattered your father in their wicked ways, that prophesied smooth things to them, were caressed and spoken well of; and, if you be in like manner cried up, you will be justly suspected to deal deceitfully as they did.\" We should desire to have the approbation of those that are wise and good, and not be indifferent to what people say of us; but, as we should despise the reproaches, so we should also despise the praises, of the fools in Israel.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Luke 6:27",
+      "note_ref": "MHC/42/6/27",
+      "cites": [
+        "Luke 6:25"
+      ],
+      "text": "These verses agree with Mat 5:38, to the end of that chapter: I say unto you that hear (Luk 6:27), to all you that hear, and not to disciples only, for these are lessons of universal concern. He that has an ear, let him hear. Those that diligently hearken to Christ shall find he has something to say to them well worth their hearing. Now the lessons Christ here teacheth us are,\nI. That we must render to all their due, and be honest and just in all our dealings (Luk 6:31): As ye would that men should do to you, do ye also to them likewise; for this is loving your neighbour as yourselves. What we should expect, in reason, to be done to us, either in justice or charity, by others, if they were in our condition and we in theirs, that, as the matter stands, we must do to them. We must put our souls into their souls' stead, and then pity and succour them, as we should desire and justly expect to be ourselves pitied and succoured.\nII. That we must be free in giving to them that need (Luk 6:30): \"Give to every man that asketh of thee, to every one that is a proper object of charity, that wants necessaries, which thou hast wherewithal to supply out of thy superfluities. Give to those that are not able to help themselves, to those that have not relations in a capacity to help them.\" Christ would have his disciples ready to distribute, and willing to communicate, to their power in ordinary cases, and beyond their power in extraordinary.\nIII. That we must be generous in forgiving those that have been any way injurious to us.\n1. We must not be extreme in demanding our right, when it is denied us: \"Him that taketh away thy cloak, either forcibly or fraudulently, forbid him not by any violent means to take thy coat also, Luk 6:29. Let him have that too, rather than fight for it. And (Luk 6:30) of him that taketh thy goods\" (so Dr. Hammond thinks it should be read), \"that borrows them, or that takes them up from thee upon trust, of such do not exact them; if Providence have made such insolvent, do not take the advantage of the law against them, but rather lose it than take them by the throat, Mat 18:28. If a man run away in thy debt, and take away thy goods with him, do not perplex thyself, nor be incensed against him.\"\n2. We must not be rigorous in revenging a wrong when it is done us: \"Unto him that smiteth thee on the one cheek, instead of bringing an action against him, or sending for a writ for him, or bringing him before a justice, offer also the other;\" that is, \"pass it by, though thereby thou shouldest be in danger of bringing upon thyself another like in dignity, which is commonly pretended in excuse of taking the advantage of the law in such a case. If any one smite thee on the cheek, rather than give another blow to him, be ready to receive another from him;\" that is, \"leave it to God to plead thy cause, and do thou sit down silent under the affront.\" When we do thus, God will smite our enemies, as far as they are his, upon the cheek bone, so as to break the teeth of the ungodly (Psa 3:7); for he hath said, Vengeance is mine, and he will make it appear that it is so when we leave it to him to take vengeance.\n3. Nay, we must do good to them that do evil to us. This is that which our Saviour, in these verses, chiefly designs to teach us, as a law peculiar to his religion, and a branch of the perfection of it.\n(1.) We must be kind to those from whom we have received injuries. We must not only love our enemies, and bear a good will to them, but we must do good to them, be as ready to do any good office to them as to any other person, if their case call for it, and it be in the power of our hands to do it. We must study to make it appear, by positive acts, if there be an opportunity for them, that we bear them no malice, nor see revenge. Do they curse us, speak ill of us, and wish ill to us? Do they despitefully use us, in word or deed? Do they endeavour to make us contemptible or odious? Let us bless them, and pray for them, speak well of them, the best we can, wish well to them, especially to their souls, and be intercessors with God for them. This is repeated, Luk 6:35 : love your enemies, and do them good. To recommend this difficult duty to us, it is represented as a generous thing, and an attainment few arrive at. To love those that love us has nothing uncommon in it, nothing peculiar to Christ's disciples, for sinners will love those that love them. There is nothing self-denying in that; it is but following nature, even in its corrupt state, and puts no force at all upon it (Luk 6:32): it is no thanks to us to love those that say and do just as we would have them. \"And (Luk 6:33) if you do good to them that do good to you, and return their kindnesses, it is from a common principle of custom, honour, and gratitude; and therefore what thanks have you? What credit are you to the name of Christ, or what reputation do you bring to it? for sinners also, that know nothing of Christ and his doctrine, do even the same. But it becomes you to do something more excellent and eminent, herein to out-do your neighbours, to do that which sinners will not do, and which no principle of theirs can pretend to reach to: you must render good for evil;\" not that any thanks are due to us, but then we are to our God for a name and a praise and he will have the thanks.\n(2.) We must be kind to those from whom we expect no manner of advantage (Luk 6:35): Lend, hoping for nothing again. It is meant of the rich lending to the poor a little money for their necessity, to buy daily bread for themselves and their families, or to keep them out of prison. In such a case, we must lend, with a resolution not to demand interest for what we lend, as we may most justly from those that borrow money to make purchases withal, or to trade with. But that is not all; we must lend though we have reason to suspect that what we lend we lose, lend to those who are so poor that it is not probable they will be able to pay us again. This precept will be best illustrated by that law of Moses (Deu 15:7-10), which obliges them to lend to a poor brother as much as he needed, though the year of release was at hand. Here are two motives to this generous charity.\n[1.] It will redound to our profit; for our reward shall be great, Luk 6:35. What is given, or laid out, or lent and lost on earth, from a true principle of charity, will be made up to us in the other world, unspeakably to our advantage. \"You shall not only be repaid, but rewarded, greatly rewarded; it will be said to you, Come, ye blessed, inherit the kingdom.\"\n[2.] It will redound to our honour; for herein we shall resemble God in his goodness, which is the greatest glory: \"Ye shall be the children of the Highest, shall be owned by him as his children, being like him.\" It is the glory of God that he is kind to the unthankful and to the evil, bestows the gifts of common providence even upon the worst of men, who are every day provoking him, and rebelling against him, and using those very gifts to his dishonour. Hence he infers (Luk 6:36), Be merciful, as your Father is merciful; this explains Mat 5:48, \"Be perfect, as our Father is perfect. Imitate your Father in those things that are his brightest perfections.\" Those that are merciful as God is merciful, even to the evil and the unthankful, are perfect as God is perfect; so he is pleased graciously to accept it, though infinitely falling short. Charity is called the bond of perfectness, Col 3:14. This should strongly engage us to be merciful to our brethren, even such as have been injurious to us, not only that God is so to others, but that he is so to us, though we have been, and are, evil and unthankful; it is of his mercies that we are not consumed."
+    },
+    {
+      "src": "TYN",
+      "ref": "Proverbs 17:19",
+      "note_ref": "TYN/20/17/19",
+      "cites": [
+        "Proverbs 17:22"
+      ],
+      "text": "17:19 high walls: Foolish confidence in the ability to win a fight emboldens people to engage in disastrous arguments.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "Proverbs 17:24",
+      "note_ref": "TYN/20/17/24",
+      "cites": [
+        "Proverbs 17:22"
+      ],
+      "text": "17:24 Wisdom is not a natural quality but must be pursued. Sensible people persistently cultivate wisdom, but a fool’s eyes cannot stay focused."
+    },
+    {
+      "src": "TYN",
+      "ref": "Ecclesiastes 7:1",
+      "note_ref": "TYN/21/7/1",
+      "cites": [
+        "Ecclesiastes 7:3-4"
+      ],
+      "text": "7:1-4 These proverbs are similar to the sayings in the book of Proverbs.\n7:1 The effort to pursue luxuries such as costly perfume is better spent seeking a good reputation for wisdom and righteousness (Prov 22:1; 28:6). • the day you die is better than the day you are born: There is a sense of relief when the troubles of life are over. The difficulties of life can make one look forward to the peace of death (Eccl 1:18; 2:22; 4:2-3; 12:1)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Ecclesiastes 7:2",
+      "note_ref": "TYN/21/7/2",
+      "cites": [
+        "Ecclesiastes 7:3-4"
+      ],
+      "text": "7:2-6 Frivolous merry-making is foolish when wisdom demands sobriety about death (see also 2:12-13)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Ecclesiastes 7:3",
+      "note_ref": "TYN/21/7/3",
+      "cites": [
+        "Ecclesiastes 7:3-4"
+      ],
+      "text": "7:3-4 refining influence: Thinking soberly about death leads us to see the severity of God’s curse on sin and convinces us of the need to enjoy life wisely (9:10)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Ecclesiastes 7:5",
+      "note_ref": "TYN/21/7/5",
+      "cites": [
+        "Ecclesiastes 7:3-4"
+      ],
+      "text": "7:5-6 Being praised by a fool and enjoying a fool’s laughter are short-lived and worthless. Being criticized by a wise person can lead to real gain (Prov 17:10)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Ecclesiastes 8:15",
+      "note_ref": "TYN/21/8/15",
+      "cites": [
+        "Ecclesiastes 8:15"
+      ],
+      "text": "8:15 The Teacher’s conclusion is familiar (2:24-25; 3:12-13, 22; 5:18-20; 6:9). In spite of tragedies and hard labor, we can enjoy life and be happy. • In Hebrew, the word translated having fun means finding enjoyment in our daily activities, not pursuing pleasure or entertainment for its own sake."
+    },
+    {
+      "src": "TYN",
+      "ref": "Ecclesiastes 8:16",
+      "note_ref": "TYN/21/8/16",
+      "cites": [
+        "Ecclesiastes 8:15"
+      ],
+      "text": "8:16–9:12 Another generalization from lifelong observation is that death appears to be meaningless. Why do some die and others live longer? God’s sovereign decision in this matter is unpredictable (7:13-14).\n8:16-17 A person could spend night and day looking for the answers to every question, but the reasons for everything will not be apparent. God’s justice, for example, is sometimes mysterious."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 6:23",
+      "note_ref": "TYN/42/6/23",
+      "cites": [
+        "Luke 6:25"
+      ],
+      "text": "6:23 treated the ancient prophets that same way: See “The Suffering Prophet” Theme Note."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 6:24",
+      "note_ref": "TYN/42/6/24",
+      "cites": [
+        "Luke 6:25"
+      ],
+      "text": "6:24-26 Promises of blessing for the poor and oppressed are balanced in Luke with predictions of sorrow for the rich and powerful. Those who trust in themselves will be humbled, while those who depend on God will be blessed. The Old Testament prophets often pronounced woes against nations and rulers who oppressed God’s people and rejected his sovereignty (e.g., Isa 3:11; 5:8; Jer 50:27; Zech 11:17)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 6:27",
+      "note_ref": "TYN/42/6/27",
+      "cites": [
+        "Luke 6:25"
+      ],
+      "text": "6:27 love your enemies! People were commonly taught in the ancient world to love their family and friends and hate their enemies. Jesus announced a radical new ethic of loving even one’s enemies and overcoming evil through self-sacrificial love for others, not through violence and hatred (cp. Rom 12:14-21)."
+    },
+    {
+      "src": "GNV",
+      "ref": "Proverbs 17:19",
+      "note_ref": "GNV/20/17/19",
+      "cites": [
+        "Proverbs 17:22"
+      ],
+      "text": "Lifteth up himself above his degree.",
+      "anchor": true
+    },
+    {
+      "src": "GNV",
+      "ref": "Proverbs 17:23",
+      "note_ref": "GNV/20/17/23",
+      "cites": [
+        "Proverbs 17:22"
+      ],
+      "text": "That is, secretly and out of the bosom of the rich."
+    },
+    {
+      "src": "GNV",
+      "ref": "Proverbs 17:24",
+      "note_ref": "GNV/20/17/24",
+      "cites": [
+        "Proverbs 17:22"
+      ],
+      "text": "That is, wander to and fro, and seek not after wisdom."
+    },
+    {
+      "src": "GNV",
+      "ref": "Ecclesiastes 7:2",
+      "note_ref": "GNV/21/7/2",
+      "cites": [
+        "Ecclesiastes 7:3-4"
+      ],
+      "text": "There is no state wherein man can live to have perfect quietness in this life."
+    },
+    {
+      "src": "GNV",
+      "ref": "Ecclesiastes 7:3",
+      "note_ref": "GNV/21/7/3",
+      "cites": [
+        "Ecclesiastes 7:3-4"
+      ],
+      "text": "He speaketh thus after the judgment of the flesh, which thinketh death to be the end of all evils, or else, because that this corporal death is the entering into life everlasting."
+    },
+    {
+      "src": "GNV",
+      "ref": "Ecclesiastes 7:4",
+      "note_ref": "GNV/21/7/4",
+      "cites": [
+        "Ecclesiastes 7:3-4"
+      ],
+      "text": "Where we may see the hand of God, and learn to examine our lives."
+    },
+    {
+      "src": "GNV",
+      "ref": "Ecclesiastes 8:14",
+      "note_ref": "GNV/21/8/14",
+      "cites": [
+        "Ecclesiastes 8:15"
+      ],
+      "text": "Which are punished as though they were wicked, as Eccl. 7:17."
+    },
+    {
+      "src": "GNV",
+      "ref": "Ecclesiastes 8:15",
+      "note_ref": "GNV/21/8/15",
+      "cites": [
+        "Ecclesiastes 8:15"
+      ],
+      "text": "Read Eccl. 3:22."
+    },
+    {
+      "src": "GNV",
+      "ref": "Luke 6:23",
+      "note_ref": "GNV/42/6/23",
+      "cites": [
+        "Luke 6:25"
+      ],
+      "text": "Leaps (as cattle do, which are provender pricked) for exceeding joy."
+    },
+    {
+      "src": "GNV",
+      "ref": "Luke 6:24",
+      "note_ref": "GNV/42/6/24",
+      "cites": [
+        "Luke 6:25"
+      ],
+      "text": "That is, you reap now of your riches, all the commodities and blessings you are ever likely to have, and therefore, you have not to look for any other reward, Matt. 6:2."
+    },
+    {
+      "src": "GNV",
+      "ref": "Luke 6:27",
+      "note_ref": "GNV/42/6/27",
+      "cites": [
+        "Luke 6:25"
+      ],
+      "text": "Christian charity, which differeth much from the worldly, doth not only not revenge injuries, but comprehended even our most grievous enemies, and that for our Father’s sake, which is in heaven: so far is it, from seeking its own profit in doing well."
+    }
+  ]
+}

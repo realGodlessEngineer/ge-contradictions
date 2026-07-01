@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 208,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators harmonize by distinguishing two senses of \"testing\": the forbidden kind is distrustful demand for a sign already sufficiently given, while Gideon's fleece was a faith-confirming request, not infidelity.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells, who compiles the prohibition (Deut 6:16; Matt 4:7) against Gideon's twice-rewarded fleece and Malachi's invitation to \"prove me,\" arguing the texts cannot agree on whether testing God is forbidden or sanctioned.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); skepticsannotatedbible.com"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Luke 4:12",
+      "excerpt_text": "Christ quoted Deu 6:16, where it is said, Thou shalt not tempt the Lord thy God, by desiring a sign for the proof of divine revelation, when he has already given that which is sufficient …",
+      "full_note_ref": "MHC/42/4/1",
+      "on_tension_rationale": "Defines the forbidden 'tempting' as demanding a sign when God has already given sufficient assurance — the harmonizing distinction that exempts Gideon's confirmatory fleece and Malachi's invitation.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Judges 6:36-40",
+      "excerpt_text": "This request proceeded not of infidelity, but that he might be confirmed in his vocation.",
+      "full_note_ref": "GNV/7/6/36",
+      "on_tension_rationale": "Directly denies that Gideon's fleece was the forbidden testing — it was a confirmation of calling, not distrust — answering the charge that Gideon violated Deut 6:16.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Deuteronomy 6:16",
+      "excerpt_text": "By doubting of his power, refusing lawful means, and abusing his graces.",
+      "full_note_ref": "GNV/5/6/16",
+      "on_tension_rationale": "Limits the prohibition to distrustful abuse (doubting power, refusing lawful means), so a believing request for confirmation falls outside what Deut 6:16 forbids.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Deuteronomy 6:16, Matthew 4:7, and Luke 4:12",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this exact tension directly, defining the forbidden tempting as 'desiring a sign for the proof of divine revelation, when he has already given that which is sufficient,' and as either despairing of God's power or presuming upon it out of the way of duty."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/test-God.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does it mean to test God?",
+        "note": "Live apologetic treatment distinguishing faith-based testing (Malachi 3:10) from doubt-based testing (Deuteronomy 6:16; Matthew 4:7)."
+      }
+    }
+  }
+}

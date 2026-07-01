@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 195,
+  "question": "When was King Jabin killed?",
+  "summary": "Joshua 11:10-11 has Joshua kill Jabin king of Hazor and burn the city during the Conquest, but Judges 4:2-24 has the Israelites being oppressed by — and finally defeating — Jabin king of Hazor in the time of Deborah and Barak, generations after Joshua's death.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders hold that \"Jabin\" was a dynastic title and that Canaanites rebuilt the burned Hazor, so Judges 4 names a later king of the same name, not the one Joshua slew.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "J. Alberto Soggin argues the originally independent Deborah-Sisera tradition was secondarily fused with Joshua 11, so the \"second Jabin of Hazor\" is an editorial conflation of one event, not a real later king.",
+    "skeptic": {
+      "name": "J. Alberto Soggin",
+      "work": "Judges: A Commentary (Old Testament Library)",
+      "year": "1981",
+      "attribution": "J. Alberto Soggin (d. 2010), Judges: A Commentary, Old Testament Library (1981)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Joshua 11:1",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, arguing Jabin was a common (dynastic) name of the kings of Hazor and that Canaanites rebuilt the burned city, so the Judges 4 Jabin is a later king of the same name."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No dedicated on-topic page on an allowlisted apologetics domain could be confirmed; omitted rather than guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "195#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Joshua 11:1",
+      "full_note_ref": "CLARKE/6/11/1",
+      "excerpt_text": "It is probable that Jabin was the common name of all the kings of Hazor. That king, by whom the Israelites were kept in a state of slavery for twenty years, and who was defeated by Deborah and Barak, was called by this name … it is likely that the Canaanites rebuilt it, and restored the ancient government, as we find a powerful king there about one hundred and thirty years after the death of Joshua, Jdg 4:1.",
+      "on_tension_rationale": "Directly answers the tension: dynastic-name theory plus a rebuilt Hazor yields a later, different Jabin in Judges 4. Ellipsis joins two non-adjacent on-tension sentences in the same note, preserving sense.",
+      "source_note_text": "Jabin king of Hazor - It is probable that Jabin was the common name of all the kings of Hazor. That king, by whom the Israelites were kept in a state of slavery for twenty years, and who was defeated by Deborah and Barak, was called by this name; see Jdg 4:2, Jdg 4:3, Jdg 4:23. The name signifies wise or intelligent. The city of Hazor was situated above the Lake Semechon, in Upper Galilee, according to Josephus, Antiq. lib. v., c. 6. It was given to the tribe of Naphtali, Jos 19:36, who it appears did not possess it long; for though it was burnt by Joshua, Jos 11:11, it is likely that the Canaanites rebuilt it, and restored the ancient government, as we find a powerful king there about one hundred and thirty years after the death of Joshua, Jdg 4:1. It is the same that was taken by Tiglath-pileser, together with Kadesh, to which it is contiguous; see Kg2 15:29. It is supposed to have given name to the Valley or Plain of Hazor or Nasor, situated between it and Kadesh, where Jonathan and Mattathias defeated the armies of Demetrius, and slew three thousand of their men, 1 Maccabees 11:63-74. It was in ancient times the metropolitan city of all that district, and a number of petty kings or chieftains were subject to its king, see Jos 11:10; and it is likely that it was those tributary kings who were summoned to attend the king of Hazor on this occasion; for Joshua having conquered the southern part of the promised land, the northern parts seeing themselves exposed made now a common interest, and, joining with Jabin, endeavored to put a stop to the progress of the Israelites. See Calmet\nJobab king of Madon - This royal city is nowhere else mentioned in Scripture except in Jos 12:19. The Vatican copy of the Septuagint reads Μαρων, Maron, which, if legitimate, Calmet thinks may mean Maronia or Merath in Phoenicia, to the north of Mount Libanus. The Hebrew text reads מרון Meron, Jos 12:20, after Shimron, which is probably the same with מדון Madon, Jos 11:19, the word having casually dropped out of the preceding place into the latter, and the ר resh and ד daleth being interchanged, which might have easily happened from the great similarity of the letters. Hence Calmet conjectures that it may be the same place with מרוז Meroz, Jdg 5:23, the ז zain and final ן nun being interchanged, which they might easily, as they are so very similar.\nKing of Shimron - This city is supposed to be the same with Symira, in Coelosyria, joined to Maron or Marath, by Pliny and Pomponius Mela. It cannot be Samaria, as that had its name long after by Omri king of Israel. See Kg1 16:24.\nKing of Achshaph - Calmet supposes this to have been the city of Ecdippe, mentioned by Pliny, Ptolemy, Josephus, and Eusebius. The latter places it within ten miles of Ptolemais, on the road to Tyre. It fell to the tribe of Asher. See Jos 19:26."
+    }
+  ]
+}

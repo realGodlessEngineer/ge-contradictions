@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 96,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The commentators read the shifting lists as deliberate reconfigurations: Levi is set apart, Joseph splits into two, and Dan and Ephraim drop out for idolatry, so the count of twelve is kept by design rather than broken by error.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, tabulating all six lists, presses that they \"all disagree somewhat about the names, number, and order of tribes\" — fourteen tribes appear across them with only eight on every list, so they cannot all be exact records of one fixed body of twelve.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (contra/tribes.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"What were the twelve tribes of Israel (Jacob)?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Revelation 7:5",
+      "excerpt_text": "First, we are to observe that the tribe of Levi is here mentioned, though that tribe had no inheritance in Israel; but they now belonged to the spiritual priesthood. Secondly, That the tribe of Dan, which had an inheritance, is here omitted; as also the tribe of Ephraim. Thirdly, That the tribe of Joseph is here added in the place of Ephraim. Ephraim and Dan, being the principal promoters of idolatry, are left out in this enumeration.",
+      "full_note_ref": "CLARKE/66/7/5",
+      "on_tension_rationale": "Directly itemizes the Revelation-list deviations the contradiction turns on (Levi included though landless, Dan and Ephraim omitted, Joseph substituted for Ephraim) and supplies the harmonizing rationale (idolatry).",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Revelation 7:4",
+      "excerpt_text": "The list begins appropriately with Judah (the royal tribe of Jesus) but substitutes Manasseh (one of the two tribes of Joseph) for Dan. The tribe of Dan fell into idolatry (Judg 18:14-31; 1 Kgs 12:25-30), and early Christians regarded it as the epitome of evil.",
+      "full_note_ref": "TYN/66/7/4",
+      "on_tension_rationale": "A distinct voice explaining the Manasseh-for-Dan substitution in the Revelation list and grounding the omission of Dan in its idolatry — the core mechanism the contradiction questions.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Revelation 7:7",
+      "excerpt_text": "He skipped Dan, and reckoneth Levi. … The name of Dan is not mentioned because the Danites long before forsaking the worship of God, were fallen away from the fellowship of God's people unto the part of the Gentiles, which evil many ages before Jacob foresaw …",
+      "full_note_ref": "GNV/66/7/7",
+      "on_tension_rationale": "A terse third voice naming both the omission of Dan and the inclusion of Levi in the same list, with the idolatry rationale for Dan's absence; directly on the list-variation tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Revelation 7:5",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, itemizing why Levi is added, Dan and Ephraim omitted, and Joseph substituted, as the harmonizing reading of the differing tribal lists. Used because Haley's specific coverage of this passage cannot be confirmed and Clarke is a harmonizing commentator surfaced on the row."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/tribe-Dan-missing-144000.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why is the tribe of Dan missing from the 144,000 in Revelation chapter 7?",
+        "note": "Live apologetic treatment of the omission of Dan and the substitution of Manasseh/Joseph in the Revelation list."
+      }
+    }
+  }
+}

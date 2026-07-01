@@ -1,0 +1,60 @@
+{
+  "contradiction_id": 496,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the shorter lists as selective, not contradictory: each evangelist names the women that suited his account, none claiming a complete tally.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman presses that the Gospels cannot agree on who went to the tomb — one woman, two, three, or more — and that no two lists of names match.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus, Interrupted",
+        "year": "2009",
+        "attribution": "Bart D. Ehrman, Jesus, Interrupted (HarperOne, 2009)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 496,
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "John 20:1",
+      "excerpt_text": "John only mentions Mary of Magdala, because he appears to wish to give a more detailed history of her conduct than of any of the rest; but the other evangelists speak of three persons who went together to the tomb, viz. Mary of Magdala, Mary the mother of James, and Salome: Mat 28:1; Mar 16:1.",
+      "full_note_ref": "CLARKE/43/20/1",
+      "license_code": "PD",
+      "on_tension_rationale": "Directly answers the count tension: John names only Mary Magdalene because his interest is in her, while the other evangelists report multiple women — selective focus, not conflicting numbers.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats the differing resurrection-morning witness lists directly, arguing each evangelist records a partial, selective roster rather than an exhaustive count of the women."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/resurrection-accounts.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Can the various resurrection accounts from the four Gospels be harmonized?",
+        "note": "Live apologetic treatment arguing no Gospel claims a complete list (Luke names 'other women'), so the differing numbers are selective, not contradictory."
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 265,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The leading harmonization reads the two figures as ordinary content versus brim-full capacity — 2,000 baths in normal use, 3,000 when filled to the top.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "C. Dennis McKinsey catalogues this as a plain numerical error, noting the same account gives 2,000 baths in Kings and 3,000 in Chronicles with no reconciling qualifier in the text.",
+      "skeptic": {
+        "name": "C. Dennis McKinsey",
+        "work": "The Encyclopedia of Biblical Errancy",
+        "year": "1995",
+        "attribution": "C. Dennis McKinsey (d. 2009), The Encyclopedia of Biblical Errancy (Prometheus Books, 1995)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "2 Chronicles 4:1",
+      "excerpt_text": "If it were filled to the brim, it would hold 3000 baths (as here, Ch2 4:5), but ordinarily there were only 2000 baths in it, Kg1 7:26.",
+      "full_note_ref": "MHC/14/4/1",
+      "on_tension_rationale": "Directly harmonizes the two capacities: 3000 = brim-full, 2000 = ordinary content. The single cleanest both-true statement of the leading reconciliation; parity-capped at one to match the discrepancy pole's named-skeptic unit on this discrepancy_first row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats this passage directly, arguing the Sea ordinarily held 2,000 baths but received and held 3,000 when filled to capacity, resting the distinction on the added verb in 2 Chronicles 4:5."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No dedicated page on an allowlisted apologetics domain (gotquestions.org / carm.org / defendinginerrancy.com) was confirmed for this specific contradiction; link omitted rather than fabricated."
+      }
+    }
+  }
+}

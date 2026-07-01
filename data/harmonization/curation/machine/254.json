@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 254,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers either sum the seven (three past famine years plus the current one plus three more) or judge it a copyist's slip for three.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the difference at face value: the same prophet, in the same divine message, offers David seven years in Samuel and three in Chronicles.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"How many years of famine?\" (skepticsannotatedbible.com/contra/famine.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, \"How many years of famine?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "2 Samuel 24:13",
+      "excerpt_text": "for the reconciling of which let it be observed, that there had been three years of famine already on account of the sin of Saul, Sa2 21:1; and in the current year, through the rains not falling in the proper time, the land was barren and unfruitful … and then three years more now proposed made seven years …",
+      "full_note_ref": "GILL/10/24/13",
+      "on_tension_rationale": "Gill's explicit reconciliation of the seven-vs-three difference: three famine years already elapsed (Saul/Gibeonites), the current barren year, plus three more proposed = seven. The fullest statement of the arithmetic harmonization on the row.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "2 Samuel 24:13",
+      "excerpt_text": "Shall seven years of famine come unto thee—that is, in addition to the three that had been already, with the current year included (see on Ch1 21:11).",
+      "full_note_ref": "JFB/10/24/13",
+      "on_tension_rationale": "JFB attaches the harmonization directly to the 'seven years' wording: the seven counts the three already past plus the current year, cross-referencing Chronicles. The most concise on-tension statement of the arithmetic reading; distinct voice from Gill.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "2 Samuel 24:13",
+      "excerpt_text": "In Ch1 21:12, the number is three, not seven; and here the Septuagint has three, the same as in Chronicles: this is no doubt the true reading, the letter ז zain, Seven, being mistaken for ג gimel, Three. A mistake of this kind might be easily made from the similarity of the letters.",
+      "full_note_ref": "CLARKE/10/24/13",
+      "on_tension_rationale": "Clarke runs the alternative harmonization: 'seven' is a scribal corruption of 'three' (zayin mistaken for gimel), with the LXX preserving the original 'three.' A distinct strategy from the arithmetic reading; full verbatim sentences ending on real source periods.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on 2 Samuel 24:13",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, reconciling the seven against the three by reckoning three famine years already elapsed plus the current year plus three more, and also noting Kennicott's copyist-error proposal."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/2_Samuel_24.13.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: 2 Samuel 24:13 — Why are the years of the famine different from 1 Chronicles 21?",
+        "note": "Live apologetic treatment citing both verses; offers the two-encounters and textual-error harmonizations."
+      }
+    }
+  }
+}

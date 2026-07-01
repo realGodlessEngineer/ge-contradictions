@@ -1,0 +1,22 @@
+{
+  "contradiction_id": 459,
+  "excerpts": [
+    {
+      "excerpt_uid": "459#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "pass",
+      "action": null,
+      "reason": "Both ellipsis-joined fragments are verbatim in Matthew Henry's note (section I: 'Having seized him, they led him away to Annas first...in the house of Caiaphas'; section II: 'Annas did not long detain them...rendezvous of the sanhedrim upon this occasion'); the only droppage is the trailing 'Joh 18:13' reference tag, allowed. The join preserves Henry's sense: Annas is a brief preliminary stop before Jesus is sent on bound to Caiaphas's house where the sanhedrin trial sat, squarely harmonizing John's extra hearing with the Synoptic sequence. Correctly labeled reconcile."
+    }
+  ],
+  "guardrails": {
+    "parity": "ok",
+    "connectives": "ok",
+    "named_skeptic": "ok",
+    "discrepancy_integrity": "ok",
+    "deeper_learning": "ok",
+    "reason": "Verified the SAB page (skepticsannotatedbible.com/contra/caiaphas.html, 'Was Jesus taken to Caiaphas or Annas first?'): Wells sets John (Annas first, 18:13) against Matthew/Mark/Luke (Caiaphas / the high priest), exactly as the discrepancy connective states -- accurate, on-tension, no overclaim. named_skeptic ok (Wells real, engaged this passage, fairly represented). Reconcile connective (Annas as a brief preliminary on the way to Caiaphas) is accurate to Henry and does not overclaim. Parity ok (reconcile 1 excerpt + filled connective >= discrepancy named-skeptic = 1; reconcile_first lean). discrepancy_integrity ok (named_skeptic, not empty). deeper_learning ok: Adam Clarke (1832) is a real PD work, verified on biblehub to argue on John 18:13/18:24 that Annas (chief of the Sanhedrin) received Jesus first and that 18:24 belongs right after 18:13, making Annas a preliminary to the Caiaphas trial -- exactly the note's claim; the GotQuestions link (gotquestions.org/Annas-and-Caiaphas.html) is a real, on-topic, allowlisted page explaining the Annas-first-then-Caiaphas sequence."
+  }
+}

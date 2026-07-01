@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 300,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the oracle and its fulfilment as a sequence: Zedekiah did see the king of Babylon face to face at Riblah, and only then were his eyes put out, so he came to Babylon yet never saw it.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells in the Skeptics' Annotated Bible, who sets Jeremiah 34:3's promise that Zedekiah's eyes will behold the king of Babylon flatly against 2 Kings 25:7's report that his eyes were put out before he was carried there.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptics' Annotated Bible, \"Did Zedekiah's eyes behold the king of Babylon?\" (skepticsannotatedbible.com/contra/zeds_eyes.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptics' Annotated Bible (\"Did Zedekiah's eyes behold the king of Babylon?\")"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Jeremiah 34:3",
+      "excerpt_text": "and thine eyes shall behold the eyes of the king of Babylon; and that was all; for they were quickly put out by him …",
+      "full_note_ref": "GILL/24/34/3",
+      "on_tension_rationale": "Directly answers the exact pair: Zedekiah DID see the king's eyes (Jer 34:3 fulfilled) and was blinded immediately after (2 Kgs 25:7) — the sequence harmonization in the fewest words. Truncated before the next clause; ends with elision marker, not a fabricated period.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "2 Kings 25:5",
+      "excerpt_text": "thus fulfilling the prophetic declarations, that his eyes should see the eyes of the king of Babylon, Jer 32:4; Jer 34:3; but Babylon he should not see, though he was to die there; Eze 12:13.",
+      "full_note_ref": "CLARKE/12/25/5",
+      "on_tension_rationale": "Names Jer 34:3 explicitly and draws the distinction the tension turns on — he saw the king of Babylon's eyes but did not see Babylon — treating both as fulfilled. One complete sentence ending on a real source period.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "2 Kings 25:1",
+      "excerpt_text": "By this two prophecies that seemed to contradict one another were both fulfilled. … He was brought thither, but, his eyes being put out, he did not see it.",
+      "full_note_ref": "MHC/12/25/1",
+      "on_tension_rationale": "Explicitly frames the seeing/blinding puzzle as 'two prophecies that seemed to contradict one another' and resolves it — distinct voice naming the apparent contradiction. Two non-adjacent verbatim sentences joined by a sense-preserving ellipsis; both end on real source periods.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Jeremiah 34:3",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact pair at Jeremiah 34:3, granting that the oracle was fulfilled (Zedekiah did behold the king's eyes) and that his eyes were then quickly put out — the harmonizing tradition keyed to this passage. (Haley's specific coverage of this pair could not be confirmed, so a row-surfaced harmonizing commentator is used per spec.)"
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Jeremiah_34.3.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Jeremiah 34:3 — Did Zedekiah see the King of Babylon or not?",
+        "note": "Live apologetic treatment citing Jeremiah 34:3 and 2 Kings 25:7; resolves via the chronological sequence (saw the king face to face at Riblah, then was blinded and taken to Babylon)."
+      }
+    }
+  }
+}

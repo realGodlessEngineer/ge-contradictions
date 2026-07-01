@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 81,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers deny a genuine clash by recasting Rachel's act not as covetous theft but as a justified seizure of idols to wean Laban from idolatry.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The upstream objection is pressed by Steve Wells, who notes the law absolutizes the ban on stealing yet Genesis 31:19 reports Rachel's theft with no word of condemnation.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (\"Is it always wrong to steal?\", skepticsannotatedbible.com/contra/steal.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; print ed. 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Genesis 31:18",
+      "excerpt_text": "it is more to her credit and character to say with Jarchi, that she did this to take off her father from the idolatrous worship of them, and to convince him that they were no gods …",
+      "full_note_ref": "GILL/1/31/18",
+      "on_tension_rationale": "Directly answers the moral charge: Gill reframes Rachel's taking of the teraphim as an anti-idolatry act 'to her credit,' not a covetous violation of the prohibition — harmonizes the narrative with the commandment. NOT shipped.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Genesis 31:19",
+      "excerpt_text": "Theodoret, in his 89th question, calls them idols; and says that Rachel, who was a type of the true Church, stole them from her father that he might be delivered from idolatry.",
+      "full_note_ref": "CLARKE/1/31/19",
+      "on_tension_rationale": "Distinct voice making the same harmonizing move from a different patristic source (Theodoret): the theft is read as a deliverance from idolatry, so the act is justified rather than a sin against 'thou shalt not steal.' NOT shipped.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Genesis 31:18-19",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Row-surfaced harmonizing commentator keyed to this passage: Gill canvasses the motives for Rachel's theft and argues the most creditable reading is that she took the teraphim to wean Laban from idolatry, reconciling the narrative with the prohibition. Used in place of Haley, whose specific coverage of this pair could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No page on an allowlisted domain (gotquestions.org / carm.org / defendinginerrancy.com) squarely engages the steal-prohibition-vs-Rachel tension; gotquestions teraphim.html and family-idols.html mention the theft only in passing and make no moral judgment on it. Link omitted rather than cite an off-topic page."
+      }
+    }
+  }
+}

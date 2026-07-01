@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 166,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the Chronicler's \"sons of Manasseh\" as loose for \"descendants\" — so Zelophehad is still Hepher's son, just listed farther down a compressed line.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells (Skeptic's Annotated Bible), who sets the two genealogies side by side: Numbers and Joshua make Zelophehad the son of Hepher, while 1 Chronicles drops Hepher and lists him among the sons of Manasseh.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"Who was Zelophahad's father?\" (skepticsannotatedbible.com/contra/zelophehad.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, \"Who was Zelophahad's father?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Chronicles 7:14",
+      "excerpt_text": "The sons of Manasseh—or descendants; for Ashriel was a grandson, and Zelophehad was a generation farther removed in descent (Num 26:33). The text, as it stands, is so confused and complicated that it is exceedingly difficult to trace the genealogical thread, and a great variety of conjectures have been made with a view to clear away the obscurity.",
+      "full_note_ref": "JFB/13/7/14",
+      "on_tension_rationale": "Directly engages the 1 Chr 7:14-15 listing that the skeptic uses: reads 'sons of Manasseh' as 'descendants', explicitly places Zelophehad 'a generation farther removed in descent' citing Num 26:33, so the Hepher line is preserved and the Chronicles wording is compression, not a rival paternity. The single note that names Zelophehad and resolves this exact tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "1 Chronicles 7:6",
+      "excerpt_text": "hence we see that in many cases grandsons are called sons, and both are often confounded in the genealogical tables.",
+      "full_note_ref": "CLARKE/13/7/6",
+      "on_tension_rationale": "States the underlying harmonizing principle the row turns on — that in the genealogical tables 'sons' routinely means descendants/grandsons — which is exactly the move that lets 'sons of Manasseh' in 1 Chr 7:14 cover the multi-generation Hepher line of Num 27:1/Josh 17:3. Anchor block; on-tension sentence is deep in a note that surveys the Benjamin tables, but the principle is cited under 1 Chr 7:14-15. (Excludes the same note's 'endless... useless' aside, which declines to reconcile rather than harmonizing.)",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 1 Chronicles 7:14",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Treats this passage directly: reads the Chronicler's 'sons of Manasseh' as 'descendants' and places Zelophehad 'a generation farther removed in descent' (Num 26:33), preserving the Hepher line of Numbers and Joshua. Used as the textual anchor because Haley's coverage of this specific genealogy pair could not be confirmed; this is a harmonizing commentator surfaced on the row and keyed to the passage."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) squarely engages the Zelophehad-genealogy tension. gotquestions.org/Zelophehad.html 404s; no carm/defendinginerrancy article on this pair was found. The on-topic scholarly pages (TheTorah.com) are off-allowlist and serve the critical side. Link omitted rather than guessed."
+      }
+    }
+  }
+}

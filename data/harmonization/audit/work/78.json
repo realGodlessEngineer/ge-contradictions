@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 78,
+  "question": "Who named Beersheba?",
+  "summary": "Genesis 21:31 has Abraham naming Beersheba after his well-treaty with Abimelech. Genesis 26:33 has Isaac naming the same place, after his own well-treaty with a Philistine king also named Abimelech, with the narrator noting \"therefore the name of the city is Beersheba unto this day\" — as if the name originated there.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders read Genesis 26 not as a fresh naming but as Isaac restoring a name Abraham had given a century earlier, after the Philistines filled in the well.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The sharpest objection is pressed by Steven DiMattei, who argues the two accounts are rival source etiologies — E credits the name to Abraham's oath, J to Isaac's — not one naming and a later renewal.",
+    "skeptic": {
+      "name": "Steven DiMattei",
+      "work": "Contradictions in the Bible, #44 (\"Is Beersheba named on account of Abraham's oath... OR Isaac's treaty...?\")",
+      "year": "2013",
+      "attribution": "Steven DiMattei, Contradictions in the Bible, #44 (contradictionsinthebible.com, 2013)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Genesis 26:26",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this exact pair, arguing the Genesis 26 derivation 'does not shut the other (Gen 21:31) out' and that the name Beersheba was renewed, not first coined, by Isaac's well Shebah. Haley's coverage of this specific pair is unconfirmed, so the pd_work is anchored to a row-surfaced harmonizing commentator keyed to the passage, per spec."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Genesis_26.33.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Genesis 26:33 — Was it Abraham or Isaac who named Beersheba?",
+        "note": "Live, on-topic harmonization: Isaac, Abraham's son, renewed the name his father had earlier given the same place — not a contradiction. Verified to engage this exact tension."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "78#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Genesis 26:33",
+      "full_note_ref": "CLARKE/1/26/33",
+      "excerpt_text": "This name was given to it a hundred years before this time; but as the well from which it had this name originally was closed up by the Philistines, probably the name of the place was abolished with the well; when therefore Isaac reopened the well, he restored the ancient name of the place.",
+      "on_tension_rationale": "Directly answers the doublet: the name did not originate with Isaac; Abraham named it a century earlier, the name lapsed when the Philistines stopped the well, and Isaac merely restored it — the strongest single renewal harmonization on the row. Verbatim, ends on a real source period.",
+      "source_note_text": "He called it Shebah - This was probably the same well which was called Beersheba in the time of Abraham, which the Philistines had filled up, and which the servants of Isaac had reopened. The same name is therefore given to it which it had before, with the addition of the emphatic letter ה he, by which its signification became extended, so that now it signified not merely an oath or full, but satisfaction and abundance.\nThe name of the city is Beer-sheba - This name was given to it a hundred years before this time; but as the well from which it had this name originally was closed up by the Philistines, probably the name of the place was abolished with the well; when therefore Isaac reopened the well, he restored the ancient name of the place."
+    }
+  ]
+}

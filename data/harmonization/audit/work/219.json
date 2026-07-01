@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 219,
+  "question": "Who were Saul's sons?",
+  "summary": "1 Samuel 14:49 names Saul's sons as Jonathan, Ishvi, and Malchishua — three sons. 1 Chronicles 8:33 and 9:39 name them as Jonathan, Malchishua, Abinadab, and Eshbaal — four sons, with different middle names. The two lists disagree on both the count and the names of Saul's male offspring.",
+  "consensus": "apparent_only",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Commentators read the lists as compatible: Ishui and Abinadab are one man under two names, and the fourth son (Esh-baal/Ish-bosheth) is simply left out of the battle-roll in Samuel.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells presses the plain numeric and onomastic clash — three sons named in Samuel against four, differently named, in Chronicles — as a genealogical contradiction the harmonizers must explain away.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), \"Who were Saul's sons?\""
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on 1 Samuel 14:49",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly: identifies Jisvi with Abinadab, names the fourth son Esh-baal (= Ish-bosheth) given in Chronicles, and explains the differing count as an omission or copyist loss. Used as the PD harmonizing anchor because Haley's specific coverage of this passage could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page on an allowlisted domain (gotquestions.org / carm.org / defendinginerrancy.com) could be verified for this specific contradiction; link omitted rather than fabricated."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "219#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "1 Samuel 14:49",
+      "full_note_ref": "GILL/9/14/49",
+      "excerpt_text": "and Ishui; the same with Abinadab, Ch1 8:33 for he had two names … and besides these three there was another, whose name was Ishbosheth, sometimes called Eshbaal, Sa2 2:8 who succeeded him in the kingdom … it is generally supposed the reason why these only are named is, because they went out to war with him, and died with him, but this did not",
+      "on_tension_rationale": "Directly resolves both halves of the tension: identifies Ishui = Abinadab (two names for one son) and explains the count difference (a fourth son, Eshbaal/Ishbosheth, omitted in Samuel because only the war-slain sons are listed). Verbatim sentences joined by sense-preserving ellipsis.",
+      "source_note_text": "And the sons of Saul were Jonathan,.... Who seems to be his firstborn, of whom, his valour and success, we read in this and the preceding chapter:\nand Ishui; the same with Abinadab, Ch1 8:33 for he had two names:\nand Melchishua; and besides these three there was another, whose name was Ishbosheth, sometimes called Eshbaal, Sa2 2:8 who succeeded him in the kingdom; for which reason Abarbinel thinks he is not mentioned here, because he was a king; though it is generally supposed the reason why these only are named is, because they went out to war with him, and died with him, but this did not; he had other children by a concubine, or secondary wife, whose name was Rizpah, not mentioned here, Sa2 21:8,\nand the names of his two daughters were these, the name of the firstborn Merab; who was afterwards married to Adriel the Meholathite, Sa1 18:19 and the name of the younger Michal; who became the wife of David, Sa1 18:27."
+    }
+  ]
+}

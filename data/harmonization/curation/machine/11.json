@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 11,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the four mandates as successive dispensations of one consistent economy — herbs in Eden, flesh to Noah, restriction for Israel, then that distinction abolished under the gospel.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells lays the passages side by side and presses the contradiction directly: the four texts set out four mutually incompatible diets — Eden's plants only, every moving thing after the flood, Israel's restricted clean list, then anything at all — and cannot all be the rule.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"What kind of animals may we eat?\"",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"What kind of animals may we eat?\" (skepticsannotatedbible.com/contra/eat.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 15:11",
+      "excerpt_text": "The first food of man was herbs; after the flood he had an allowance of the flesh of beasts, without distinction; under the Levitical dispensation, a difference of meats was enjoined to be observed; the laws respecting that distinction are now abolished, and not binding on us under the Gospel dispensation.",
+      "full_note_ref": "GILL/40/15/11",
+      "on_tension_rationale": "Gill names all four mandates in one sentence (Eden herbs, post-flood flesh without distinction, Levitical restriction, gospel abolition) and frames them as a single progressive economy rather than competing rules — the strongest single harmonization on the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Leviticus 11",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this passage cluster directly, harmonizing the four mandates: the liberty granted Noah's sons is limited to Israel under the ceremonial law, then the gospel teaches that 'every creature of God is good, and we are to call nothing common or unclean.'"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Bible-foods.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does the Bible say about what foods we should eat?",
+        "note": "live apologetic treatment harmonizing the Levitical restrictions with Jesus declaring all foods clean (Mark 7:19) via a dispensational framework"
+      }
+    }
+  }
+}

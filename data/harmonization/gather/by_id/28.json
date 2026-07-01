@@ -1,0 +1,507 @@
+{
+  "contradiction_id": 28,
+  "question": "Was Enoch the sixth or the seventh from Adam?",
+  "summary": "Count Adam as position one and the Genesis 5 genealogy puts Enoch at position seven. Count Adam as position zero and he's the sixth. Jude 14 says 'Enoch, the seventh from Adam' and the SAB parenthetical note is correct: Jude is quoting 1 Enoch 60:8, not Genesis. The contradiction is really about where your counting starts.",
+  "consensus": "apparent_only",
+  "consensus_id": 5,
+  "category": "Genealogy & Identity",
+  "contradiction_type": "numerical",
+  "testament_scope": "OT_vs_NT",
+  "books_in_tension": "Genesis, 1 Chronicles, Luke, Jude",
+  "refs_raw": [
+    "Genesis 5:3-18",
+    "1 Chronicles 1:1-2",
+    "Luke 3:37-38",
+    "Jude 14"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Genesis 5:3-18",
+      "book": "Genesis",
+      "bolls": 1,
+      "ranges": [
+        [
+          5,
+          3,
+          18
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 1:1-2",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          1,
+          1,
+          2
+        ]
+      ]
+    },
+    {
+      "raw": "Luke 3:37-38",
+      "book": "Luke",
+      "bolls": 42,
+      "ranges": [
+        [
+          3,
+          37,
+          38
+        ]
+      ]
+    },
+    {
+      "raw": "Jude 14",
+      "book": "Jude",
+      "bolls": 65,
+      "ranges": [
+        [
+          14,
+          1,
+          200
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 41,
+  "notes_raw_count": 65,
+  "notes_dropped": 24,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Genesis 5:3",
+      "note_ref": "GILL/1/5/3",
+      "cites": [
+        "Genesis 5:3-18"
+      ],
+      "text": "And Adam lived an hundred and thirty years,.... The Septuagint version, through mistaken, gives the number two hundred and thirty years:\nand begat a son; not that he had no other children during this time than Cain and Abel; this is only observed to show how old he was when Seth was born, the son here meant; who was begotten\nin his own likeness, after his image; not in the likeness, and after the image of God, in which Adam was created; for having sinned, he lost that image, at least it was greatly defaced, and he came short of that glory of God, and could not convey it to his posterity; who are, and ever have been conceived in sin, and shapen in iniquity; are polluted and unclean, foolish and disobedient; averse to all that is good, and prone to all that is evil: the sinfulness of nature is conveyed by natural generation, but not holiness and grace; that is not of blood, nor of the will of man, nor of the flesh, but of God, and produced of his own will, by his mighty power impressing the image of his Son in regeneration on his people; which by beholding his glory they are more and more changed into by the Spirit of God. The Jewish writers understand this in a good sense, of Seth being like to Adam in goodness, when Cain was not: so the Targum of Jonathan,\"and he begat Seth, who was like to his image and similitude; for before Eve had brought forth Cain, who was not like unto him---but afterwards she brought forth him who was like unto him, and called his name Seth.''So they say (z) Cain was not of the seed, nor of the image of Adam, nor his works like Abel his brother; but Seth was of the seed and image of Adam, and his works were like the works of his brother Abel; according to that, \"he begat (a son) in his own likeness\". And they assert (a), that Adam delivered all his wisdom to Seth his son, who was born after his image and likeness; and particularly Maimonides (b) observes, that all the sons of Adam before Seth were rather beasts than men, and had not the true human form, not the form and image of men; but Seth, after Adam had taught and instructed him, was in human perfection, as it is said of him, \"and he begat in his likeness\": but the text speaks not of the education of Seth, and of what he was through that, but of his birth, and what he was in consequence of it; and we are told by good authority, that \"that which is born of the flesh is flesh\", carnal and corrupt, and such are all the sons of Adam by natural generation; see Job 14:4.\n(z) Pirke Eliezer, c. 22. (a) Shalshalet Hakabala, apud Hottinger. Smegma, p. 212. (b) More Nevochim, par. 1. c. 7."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 5:4",
+      "note_ref": "GILL/1/5/4",
+      "cites": [
+        "Genesis 5:3-18"
+      ],
+      "text": "And the days of Adam, after he had begotten Seth, were eight hundred years,.... The Septuagint version is seven hundred; for having added one hundred years more the should be, to the years of his life before the birth of Seth, here they are taken away to make the number of his years complete:\nand he begat sons and daughters; not only after the birth of Seth, but before, though we have no account of any, unless of Cain's wife; but what their number was is not certain, either before or after; some say he had thirty children, besides Cain, Abel, and Seth; and others a hundred (c). Josephus says the number of children, according to the old tradition, was thirty three sons and twenty three daughters. (d)(These families had at least five children, for one son is named as well as other sons and daughters. Therefore there must be at least three sons and two daughters in each family. For a family to have at least three sons and two daughters, according to the laws of chance, a family must on the average have nine children for this to be a near certainty. Hence the families listed in this chapter must have been large by today's standards. Given their long life, this is not at all unusual. However even today, the Old Order Mennonites of Waterloo County in Ontario and Lancaster County in Pennsylvannia, have many families this large. Ed.)\n(c) Shalshalet Hakabala, fol. 74. 2. (d) Joseph. Antiqu. l. 1. c. 1. footnote on point 3."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 5:5",
+      "note_ref": "GILL/1/5/5",
+      "cites": [
+        "Genesis 5:3-18"
+      ],
+      "text": "And all the days that Adam lived were nine hundred and thirty years,.... Not lunar years, as Varro (d), but solar years, which consisted of three hundred and sixty five days and odd hours, and such were in use among the Egyptians in the times of Moses; and of these must be the age of Adam, and of his posterity in this chapter, and of other patriarchs in this book; or otherwise, some must be said to beget children at an age unfit for it, particularly Enoch, who must beget a son in the sixth year of his age; and the lives of some of them must be very short, even shorter than ours, as Abraham and others; and the time between the creation and the deluge could not be two hundred years: but this long life of the antediluvians, according to the Scripture account, is confirmed by the testimony of many Heathen writers, who affirm that the ancients lived a thousand years, as many of them did, pretty near, though not quite, they using a round number to express their longevity by; for the proof of this Josephus (e) appeals to the testimonies of Manetho the Egyptian, and Berosus the Chaldean, and Mochus and Hestiaeus; besides Jerom the Egyptian, and the Phoenician writers; also Hesiod, Hecataeus, Hellanicus, Acusilaus, Ephorus and Nicolaus. And though the length of time they lived may in some measure be accounted for by natural things as means, such as their healthful constitution, simple diet, the goodness of the fruits of the earth, the temperate air and climate they lived in, their sobriety, temperance, labour and exercise; yet no doubt it was so ordered in Providence for the multiplication of mankind, for the cultivation of arts and sciences, and for the spread of true religion in the world, and the easier handing down to posterity such things as were useful, both for the good of the souls and bodies of men. Maimonides (f) is of opinion, that only those individual persons mentioned in Scripture lived so long, not men in common; and which was owing to their diet and temperance, and exact manner of living, or to a miracle; but there is no reason to believe that they were the only temperate persons, or that any miracle should be wrought particularly on their account for prolonging their lives, and not others. But though they lived so long, it is said of them all, as here of the first man:\nand he died, according to the sentence of the law in Gen 2:17 and though he died not immediately upon his transgression of the law, yet he was from thence forward under the sentence of death, and liable to it; yea, death seized upon him, and was working in him, till it brought him to the dust of it; his life, though so long protracted, was a dying life, and at last he submitted to the stroke of death, as all his posterity ever since have, one or two excepted, and all must; for \"it is appointed unto men once to die\". Heb 9:27. The Arabic (g) writers relate, that Adam when he was near death called to him Seth, Enos, Kainan, and Mahalaleel, and ordered them by his will, when he was dead, to embalm his body with myrrh, frankincense, and cassia, and lay it in the hidden cave, the cave of Machpelah, where the Jews (h) say he was buried, and where Abraham, Sarah, &c. were buried; and that if they should remove from the neighbourhood of paradise, and from the mountain where they dwelt, they should take his body with them, and bury it in the middle or the earth. They are very particular as to the time of his death. They say (i) it was on a Friday, the fourteenth of Nisan, which answers to part of March and part of April, A. M. nine hundred and thirty, in the ninth hour of that day. The Jews are divided about the funeral of him; some say Seth buried him; others, Enoch; and others, God himself (k): the primitive Christian fathers will have it that he was buried at Golgotha, on Mount Calvary, where Christ suffered.\n(d) Apud Lactant. Institut. l. 2. c. 13. (e) Antiqu. l. 1. c. 3. sect. 9. (f) More Nevochim, par. 2. p. 47. (g) Patricides, p. 5. Elmacinus, p. 6. apud Hottinger. Smegma Oriental. l. 1. c. 8. p. 216, 217. (h) Pirke Eliezer, c. 20. Juchasin, fol. 5. 1. (i) Patricides & Elamacinus, apud Hottinger. ib. (k) Juchasin, ut supra. (fol. 5. 1.)"
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 5:6",
+      "note_ref": "GILL/1/5/6",
+      "cites": [
+        "Genesis 5:3-18"
+      ],
+      "text": "And Seth lived an hundred and five years, and begat Enos. Not that this was his firstborn, no doubt but he had other children before this time; but this is only mentioned, because it carried the lineage and descent directly from Adam to Noah, the father of the new world, and from whom the Messiah was to spring; whose genealogy to give is a principal view of this book, or account of generations from Adam to Noah.\nAnd Seth lived an hundred and five years, and begat Enos. Not that this was his firstborn, no doubt but he had other children before this time; but this is only mentioned, because it carried the lineage and descent directly from Adam to Noah, the father of the new world, and from whom the Messiah was to spring; whose genealogy to give is a principal view of this book, or account of generations from Adam to Noah.\nGenesis 5:7\ngen 5:7\ngen 5:7\ngen 5:7And Seth lived, after he begat Enos, eight hundred and seven years,.... The Septuagint version makes the same mistake in the numbers of Seth as of Adam, giving him two hundred and five years before the birth of Enos, and but seven hundred and seven years after:\nand begat sons and daughters; very probably both before and after Enos was born; but how many is not said."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 1:1",
+      "note_ref": "GILL/13/1/1",
+      "cites": [
+        "1 Chronicles 1:1-2"
+      ],
+      "text": "Adam, Seth,.... These first four verses exactly agree with the account of the antediluvian patriarchs in Gen 5:1, the first letter in Adam is larger than usual, as a memorial, as Buxtorf (m) observes, of the first and only man, from whence mankind had their beginning, and whose history the author had undertaken to write.\n, the first letter in Adam is larger than usual, as a memorial, as Buxtorf (m) observes, of the first and only man, from whence mankind had their beginning, and whose history the author had undertaken to write.\n1 Chronicles 1:5\nch1 1:5\nch1 1:5\nch1 1:5The sons of Japheth, Gomer,.... Here begins the genealogy of the sons of Noah after the flood; of the sons of Japheth the elder, in this and the two following verses; next of the sons of Ham, the younger brother, Ch1 1:8, then of Shem, whose posterity are mentioned last, because from him, in the line of Heber, sprang Abraham, the ancestor of the Jewish nation, of whom the Messiah was to come, for whose sake this genealogy is given, Ch1 1:17. The whole is the same with the account in"
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 3:35",
+      "note_ref": "GILL/42/3/35",
+      "cites": [
+        "Luke 3:37-38"
+      ],
+      "text": "Which was the son of Cainan,.... This Cainan is not mentioned by Moses in Gen 11:12 nor has he ever appeared in any Hebrew copy of the Old Testament, nor in the Samaritan version, nor in the Targum; nor is he mentioned by Josephus, nor in Ch1 1:24 where the genealogy is repeated; nor is it in Beza's most ancient Greek copy of Luke: it indeed stands in the present copies of the Septuagint, but was not originally there; and therefore could not be taken by Luke from thence, but seems to be owing to some early negligent transcriber of Luke's Gospel, and since put into the Septuagint to give it authority: I say \"early\", because it is in many Greek copies, and in the Vulgate Latin, and all the Oriental versions, even in the Syriac, the oldest of them; but ought not to stand neither in the text, nor in any version: for certain it is, there never was such a Cainan, the son of Arphaxad, for Salah was his son; and with him the next words should be connected,\nwhich was the son of Arphaxad; Gen 11:12\nwhich was the son of Sem, or Shem, Gen 11:10\nwhich was the son of Noe, or Noah, Gen 5:32\nwhich was the son of Lamech,"
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 3:36",
+      "note_ref": "GILL/42/3/36",
+      "cites": [
+        "Luke 3:37-38"
+      ],
+      "text": "Which was the son\nof Mathusala,.... The same with Methuselah; and so he is called by the Septuagint in Gen 5:25\nwhich was the son of Enoch, Gen 5:21\nwhich was the son of Jared Gen 5:18,\nwhich was the son of Maleleel; the same with Mahalaleel; who is also so called by the seventy interpreters, in Gen 5:15 as here; which was the son of Cainan, Gen 5:12."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 3:37",
+      "note_ref": "GILL/42/3/37",
+      "cites": [
+        "Luke 3:37-38"
+      ],
+      "text": "Which was the son of Enos,.... Gen 5:9\nwhich was the son of Seth, Gen 5:6\nwhich was the son of Adam Gen 5:3\nwhich was the son of God: not begotten, as all the rest were, by their immediate parents, but created by God, in a supernatural manner, out of the dust of the earth, and quickened with the breath of God: so Adam is, by the Jews (h) called, , \"the son of God\": though this may be understood of Jesus; the son of Joseph, of Heli, &c. and so on to this clause, \"the son of God\"; being so as a divine person, to whom the human nature was united, and on that account so called; see Luk 1:35 Thus, as Matthew gives us the regal line of Christ, showing him to be heir to the throne of his father David, Luke gives the natural line of Christ; and as Matthew traces his genealogy down from Abraham, in a descending line, to Joseph, the husband of Mary, the mother of Jesus, Luke traces it upwards, in an ascending line, from Mary by Joseph, even up to Adam; to whom the Messiah was first promised, and who was a type of the second Adam, from whom he descended, though not by ordinary generation; nay, even to God himself: Christ, according to his divine nature, was the only begotten of the Father; and as to his human nature, had a body prepared by him, and in the fulness of time was God manifest in the flesh.\n(h) Sepher Cosri, orat. 2. Sig. 14. fol. 68. 1.\nNext: Luke Chapter 4"
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 5:5",
+      "note_ref": "JFB/1/5/5",
+      "cites": [
+        "Genesis 5:3-18"
+      ],
+      "text": "all the days . . . Adam lived--The most striking feature in this catalogue is the longevity of Adam and his immediate descendants. Ten are enumerated (Gen. 5:5-32) in direct succession whose lives far exceed the ordinary limits with which we are familiar--the shortest being three hundred sixty-five, [Gen 5:23] and the longest nine hundred sixty-nine years [Gen 5:27]. It is useless to inquire whether and what secondary causes may have contributed to this protracted longevity--vigorous constitutions, the nature of their diet, the temperature and salubrity of the climate; or, finally--as this list comprises only the true worshippers of God--whether their great age might be owing to the better government of their passions and the quiet, even tenor of their lives. Since we cannot obtain satisfactory evidence on these points, it is wise to resolve the fact into the sovereign will of God. We can, however, trace some of the important uses to which, in the early economy of Providence, it was subservient. It was the chief means of reserving a knowledge of God, of the great truths of religion, as well as the influence of genuine piety. So that, as their knowledge was obtained by tradition, they would be in a condition to preserve it in the greatest purity."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 1:4",
+      "note_ref": "JFB/13/1/4",
+      "cites": [
+        "1 Chronicles 1:1-2"
+      ],
+      "text": "Noah, Shem, Ham, and Japheth--The three sons of this patriarch are enumerated, partly because they were the founders of the new world, and partly because the fulfilment of Noah's prophecy (Gen 9:25-27) could not otherwise appear to have been verified."
+    },
+    {
+      "src": "JFB",
+      "ref": "Luke 3:24",
+      "note_ref": "JFB/42/3/24",
+      "cites": [
+        "Luke 3:37-38"
+      ],
+      "text": "son of Matthat, &c.--(See on Mat 1:13-15). In Luk 3:27, Salathiel is called the son, while in Mat 1:12, he is called the father of Zerubbabel. But they are probably different persons.",
+      "anchor": true
+    },
+    {
+      "src": "JFB",
+      "ref": "Luke 3:38",
+      "note_ref": "JFB/42/3/38",
+      "cites": [
+        "Luke 3:37-38"
+      ],
+      "text": "son of God--Compare Act 17:28.\nNext: Luke Chapter 4"
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 5:1",
+      "note_ref": "CLARKE/1/5/1",
+      "cites": [
+        "Genesis 5:3-18"
+      ],
+      "text": "The book of the generations - ספר sepher, in Hebrew, which we generally translate book, signifies a register, an account, any kind of writing, even a letter, such as the bill of divorce. Here It means the account or register of the generations of Adam or his descendants to the five hundredth year of the life of Noah.\nIn the likeness of God made he him - This account is again introduced to keep man in remembrance of the heights of glory whence he bad fallen; and to prove to him that the miseries and death consequent on his present state were produced by his transgression, and did not flow from his original state. For, as he was created in the image of God, he was created free from natural and moral evil. As the deaths of the patriarchs are now to be mentioned, it was necessary to introduce them by this observation, in order to justify the ways of God to man."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 5:3",
+      "note_ref": "CLARKE/1/5/3",
+      "cites": [
+        "Genesis 5:3-18"
+      ],
+      "text": "And Adam lived a hundred and thirty years, etc. - The Scripture chronology especially in the ages of some of the antediluvian and postdiluvian patriarchs, has exceedingly puzzled chronologists, critics, and divines. The printed Hebrew text, the Samaritan, the Septuagint, and Josephus, are all different, and have their respective vouchers and defenders. The following tables of the genealogies of the patriarchs before and after the flood, according to the Hebrew, Samaritan, and Septuagint, will at once exhibit the discordances. For much satisfactory information on this subject I must refer to A New Analysis of Chronology, by the Rev. William Hales, D.D., 3 vols. 4th., London, 1809.\nAnd begat a son in his own likeness, after his image - Words nearly the same with those Gen 1:26 : Let us make man in our image, after our likeness. What this image and likeness of God were, we have already seen, and we may rest assured that the same image and likeness are not meant here. The body of Adam was created provisionally immortal, i.e. while he continued obedient he could not die; but his obedience was voluntary, and his state a probationary one. The soul of Adam was created in the moral image of God, in knowledge, righteousness, and true holiness. He had now sinned, and consequently had lost his moral resemblance to his Maker; he had also become mortal through his breach of the law. His image and likeness were therefore widely different at this time from what they were before; and his begetting children in this image and likeness plainly implies that they were imperfect like himself, mortal like himself, sinful and corrupt like himself. For it is impossible that he, being impure, fallen from the Divine image, could beget a pure and holy offspring, unless we could suppose it possible that a bitter fountain could send forth sweet waters, or that a cause could produce effects totally dissimilar from itself. What is said here of Seth might have been said of all the other children of Adam, as they were all begotten after his fall; but the sacred writer has thought proper to mark it only in this instance."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 1:1",
+      "note_ref": "CLARKE/13/1/1",
+      "cites": [
+        "1 Chronicles 1:1-2"
+      ],
+      "text": "Adam, Sheth, Enosh - That is, Adam was the father of Sheth or Seth. Seth was the father of Enosh, Enosh the father of Kenan, and so on. No notice is taken of Cain and Abel, or of any of the other sons of Adam. One line of patriarchs, from Adam to Noah, is what the historian intended to give; and to have mentioned the posterity of Cain or Abel would have been useless, as Noah was not the immediate descendant of either. Besides, all their posterity had perished in the deluge, none remaining of the Adamic family but Noah and his children; and from these all the nations of the earth sprang.\nHow learned must those men be who can take for a text \"The first verse of the first chapter of the first book of Chronicles.\" and find a mystery in each name; which, in the aggregate, amounts to a full view of the original perfection, subsequent fall, consequent misery, and final restoration, of Man! O ye profound illustrators of the names of men and cities! why do ye not give us the key of your wisdom, write comments, and enlighten the world?"
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 3:36",
+      "note_ref": "CLARKE/42/3/36",
+      "cites": [
+        "Luke 3:37-38"
+      ],
+      "text": "Of Cainan - This Cainan, the son of Arphaxad, and father of Sala, is not found in any other Scripture genealogy. See Gen 10:24; Gen 11:12; Ch1 1:18, Ch1 1:24, where Arphaxad is made the father of Sala, and no mention at all made of Cainan. Some suppose that Cainan was a surname of Sala, and that the names should be read together thus, The son of Heber, the son of Salacainan, the son of Arphaxad, etc. If this does not untie the knot, it certainly cuts it; and the reader may pass on without any great scruple or embarrassment. There are many sensible observations on this genealogy in the notes at the end of Bishop Newcome's Harmony."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 5:1",
+      "note_ref": "KD/1/5/1",
+      "cites": [
+        "Genesis 5:3-18"
+      ],
+      "text": "The heading in Gen 5:1 runs thus: \"This is the book (sepher) of the generations (tholedoth) of Adam.\" On tholedoth, see Gen 2:4. Sepher is a writing complete in itself, whether it consist of one sheet or several, as for instance the \"bill of divorcement\" in Deu 24:1, Deu 24:3. The addition of the clause, \"in the day that God created man,\" etc., is analogous to Gen 2:4; the creation being mentioned again as the starting point, because all the development and history of humanity was rooted there."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 5:3",
+      "note_ref": "KD/1/5/3",
+      "cites": [
+        "Genesis 5:3-18"
+      ],
+      "text": "As Adam was created in the image of God, so did he beget \"in his own likeness, after his image;\" that is to say, he transmitted the image of God in which he was created, not in the purity in which it came direct from God, but in the form given to it by his own self-determination, modified and corrupted by sin. The begetting of the son by whom the line was perpetuated (no doubt in every case the first-born), is followed by an account of the number of years that Adam and the other fathers lived after that, by the statement that each one begat (other) sons and daughters, by the number of years that he lived altogether, and lastly, by the assertion ויּמת \"and he died.\" This apparently superfluous announcement is \"intended to indicate by its constant recurrence that death reigned from Adam downwards as an unchangeable law (vid., Rom 5:14). But against this background of universal death, the power of life was still more conspicuous. For the man did not die till he had propagated life, so that in the midst of the death of individuals the life of the race was preserved, and the hope of the seed sustained, by which the author of death should be overcome.\" In the case of one of the fathers indeed, viz., Enoch (Gen 5:21.), life had not only a different issue, but also a different form. Instead of the expression \"and he lived,\" which introduces in every other instance the length of life after the birth of the first-born, we find in the case of Enoch this statement, \"he walked with God (Elohim);\" and instead of the expression \"and he died,\" the announcement, \"and he was not, for God (Elohim) took him.\" The phrase \"walked with God,\" which is only applied to Enoch and Noah (Gen 6:9), denotes the most confidential intercourse, the closest communion with the personal God, a walking as it were by the side of God, who still continued His visible intercourse with men (vid., Gen 3:8). It must be distinguished from \"walking before God\" (Gen 17:1; Gen 24:40, etc.), and \"walking after God\" (Deu 13:4), both which phrases are used to indicate a pious, moral, blameless life under the law according to the directions of the divine commands. The only other passage in which this expression \"walk with God\" occurs is Mal 2:6, where it denotes not the piety of the godly Israelites generally, but the conduct of the priests, who stood in a closer relation to Jehovah under the Old Testament than the rest of the faithful, being permitted to enter the Holy Place, and hold direct intercourse with Him there, which the rest of the people could not do. The article in האלהים gives prominence to the personality of Elohim, and shows that the expression cannot refer to intercourse with the spiritual world.\nIn Enoch, the seventh from Adam through Seth, godliness attained its highest point; whilst ungodliness culminated in Lamech, the seventh from Adam through Cain, who made his sword his god. Enoch, therefore, like Elijah, was taken away by God, and carried into the heavenly paradise, so that he did not see (experience) death (Heb 11:5); i.e., he was taken up from this temporal life and transfigured into life eternal, being exempted by God from the law of death and of return to the dust, as those of the faithful will be, who shall be alive at the coming of Christ to judgment, and who in like manner shall not taste of death and corruption, but be changed in a moment. There is no foundation for the opinion, that Enoch did not participate at his translation in the glorification which awaits the righteous at the resurrection. For, according to Co1 15:20, Co1 15:23, it is not in glorification, but in the resurrection, that Christ is the first-fruits. Now the latter presupposes death. Whoever, therefore, through the grace of God is exempted from death, cannot rise from the dead, but reaches ἀφθαρσία, or the glorified state of perfection, through being \"changed\" or \"clothed upon\" (Co2 5:4). This does not at all affect the truth of the statement in Rom 5:12, Rom 5:14. For the same God who has appointed death as the wages of sin, and given us, through Christ, the victory over death, possesses the power to glorify into eternal life an Enoch and an Elijah, and all who shall be alive at the coming of the Lord without chaining their glorification to death and resurrection. Enoch and Elijah were translated into eternal life with God without passing through disease, death, and corruption, for the consolation of believers, and to awaken the hope of a life after death. Enoch's translation stands about half way between Adam and the flood, in the 987th year after the creation of Adam. Seth, Enos, Cainan, Mahalaleel, and Jared were still alive. His son Methuselah and his grandson Lamech were also living, the latter being 113 years old. Noah was not yet born, and Adam was dead. His translation, in consequence of his walking with God, was \"an example of repentance to all generations,\" as the son of Sirach says (Ecclus. 44:16); and the apocryphal legend in the book of Enoch Gen 1:9 represents him as prophesying of the coming of the Lord, to execute judgment upon the ungodly (Jde 1:14-15). In comparison with the longevity of the other fathers, Enoch was taken away young, before he had reached half the ordinary age, as a sign that whilst long life, viewed as a time for repentance and grace, is indeed a blessing from God, when the ills which have entered the world through sin are considered, it is also a burden and trouble which God shortens for His chosen. That the patriarchs of the old world felt the ills of this earthly life in all their severity, was attested by Lamech (Gen 5:28, Gen 5:29), when he gave his son, who was born 69 years after Enoch's translation, the name of Noah, saying, \"This same shall comfort us concerning our work and the toil of our hands, because of the ground which the Lord hath cursed.\" Noah, נוח from נוּח to rest and הניח to bring rest, is explained by נחם to comfort, in the sense of helpful and remedial consolation. Lamech not only felt the burden of his work upon the ground which God had cursed, but looked forward with a prophetic presentiment to the time when the existing misery and corruption would terminate, and a change for the better, a redemption from the curse, would come. This presentiment assumed the form of hope when his son was born; he therefore gave expression to it in his name. But his hope was not realized, at least not in the way that he desired. A change did indeed take place in the lifetime of Noah. By the judgment of the flood the corrupt race was exterminated, and in Noah, who was preserved because of his blameless walk with God, the restoration of the human race was secured; but the effects of the curse, though mitigated, were not removed; whilst a covenant sign guaranteed the preservation of the human race, and therewith, by implication, his hope of the eventual removal of the curse (Gen 9:8-17).\nThe genealogical table breaks off with Noah; all that is mentioned with reference to him being the birth of his three sons, when he was 500 years old (Gen 5:32; see Gen 11:10), without any allusion to the remaining years of his life-an indication of a later hand. \"The mention of three sons leads to the expectation, that whereas hitherto the line has been perpetuated through one member alone, in the future each of the three sons will form a new beginning (vid., Gen 9:18-19; Gen 10:1).\" - M. Baumgarten."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 1:1",
+      "note_ref": "KD/13/1/1",
+      "cites": [
+        "1 Chronicles 1:1-2"
+      ],
+      "text": "Adam, Seth,.... These first four verses exactly agree with the account of the antediluvian patriarchs in Gen 5:1, the first letter in Adam is larger than usual, as a memorial, as Buxtorf (m) observes, of the first and only man, from whence mankind had their beginning, and whose history the author had undertaken to write.\n, the first letter in Adam is larger than usual, as a memorial, as Buxtorf (m) observes, of the first and only man, from whence mankind had their beginning, and whose history the author had undertaken to write.\n1 Chronicles 1:5\nch1 1:5\nch1 1:5\nch1 1:5The sons of Japheth, Gomer,.... Here begins the genealogy of the sons of Noah after the flood; of the sons of Japheth the elder, in this and the two following verses; next of the sons of Ham, the younger brother, Ch1 1:8, then of Shem, whose posterity are mentioned last, because from him, in the line of Heber, sprang Abraham, the ancestor of the Jewish nation, of whom the Messiah was to come, for whose sake this genealogy is given, Ch1 1:17. The whole is the same with the account in"
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 5:1",
+      "note_ref": "MHC/1/5/1",
+      "cites": [
+        "Genesis 5:3-18"
+      ],
+      "text": "The first words of the chapter are the title or argument of the whole chapter: it is the book of the generations of Adam; it is the list or catalogue of the posterity of Adam, not of all, but only of the holy seed who were the substance thereof (Isa 6:13), and of whom, as concerning the flesh, Christ came (Rom 9:5), the names, ages, and deaths, of those that were the successors of the first Adam in the custody of the promise, and the ancestors of the second Adam. The genealogy begins with Adam himself. Here is,\nI. His creation, Gen 5:1, Gen 5:2, where we have a brief rehearsal of what was before at large related concerning the creation of man. This is what we have need frequently to hear of and carefully to acquaint ourselves with. Observe here, 1. That God created man. Man is not his own maker, therefore he must not be his own master; but the Author of his being must be the director of his motions and the centre of them. 2. That there was a day in which God created man. He was not from eternity, but of yesterday; he was not the first-born, but the junior of the creation. 3. That God made him in his own likeness, righteous and holy, and therefore, undoubtedly, happy. Man's nature resembled the divine nature more than that of any of the creatures of this lower world. 4. That God created them male and female (Gen 5:2), for their mutual comfort as well as for the preservation and increase of their kind. Adam and Eve were both made immediately by the hand of God, both made in God's likeness; and therefore between the sexes there is not that great distance and inequality which some imagine. 5. That God blessed them. It is usual for parents to bless their children; so God, the common Father, blessed his. But earthly parents can only beg a blessing; it is God's prerogative to command it. It refers chiefly to the blessing of increase, not excluding other blessings. 6. That he called their name Adam. Adam signifies earth, red earth. Now, (1.) God gave him this name. Adam had himself named the rest of the creatures, but he must not choose his own name, lest he should assume some glorious pompous title. But God gave him a name which would be a continual memorandum to him of the meanness of his original, and oblige him to look unto the rock whence he was hewn and the hole of the pit whence he was digged, Isa 51:1. Those have little reason to be proud who are so near akin to dust. (2.) He gave this name both to the man and to the woman. Being at first one by nature, and afterwards one by marriage, it was fit they should both have the same name, in token of their union. The woman is of the earth earthy as well as the man.\nII. The birth of his son Seth, Gen 5:3. He was born in the hundred and thirtieth year of Adam's life; and probably the murder of Abel was not long before. Many other sons and daughters were born to Adam, besides Cain and Abel, before this; but no notice is taken of them, because an honourable mention must be made of his name only in whose loins Christ and the church were. But that which is most observable here concerning Seth is that Adam begat him in his own likeness, after his image. Adam was made in the image of God; but, when he was fallen and corrupt, he begat a son in his own image, sinful and defiled, frail, mortal, and miserable, like himself; not only a man like himself, consisting of body and soul, but a sinner like himself, guilty and obnoxious, degenerate and corrupt. Even the man after God's own heart owns himself conceived and born in sin, Psa 51:5. This was Adam's own likeness, the reverse of that divine likeness in which Adam was made; but, having lost it himself, he could not convey it to his seed. Note, Grace does not run in the blood, but corruption does. A sinner begets a sinner, but a saint does not beget a saint.\nIII. His age and death. He lived, in all, nine hundred and thirty years, and then he died, according to the sentence passed upon him, To dust thou shalt return. Though he did not die in the day he ate forbidden fruit, yet in that very day he became mortal. Then he began to die; his whole life afterwards was but a reprieve, a forfeited condemned life; nay, it was a wasting dying life: he was not only like a criminal sentenced, but as one already crucified, that dies slowly and by degrees."
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 5:6",
+      "note_ref": "MHC/1/5/6",
+      "cites": [
+        "Genesis 5:3-18"
+      ],
+      "text": "We have here all that the Holy Ghost thought fit to leave upon record concerning five of the patriarchs before the flood, Seth, Enos, Cainan, Mahalaleel, and Jared. There is nothing observable concerning any of these particularly, though we have reason to think they were men of eminence, both for prudence and piety, in their day: but in general,\nI. Observe how largely and expressly their generations are recorded. This matter, one would think, might have been delivered in fewer words; but it is certain that there is not one idle word in God's books, whatever there is in men's. It is thus plainly set down, 1. To make it easy and intelligible to the meanest capacity. When we are informed how old they were when they begat such a son, and how many years they lived afterwards, a very little skill in arithmetic will enable a man to tell how long they lived in all; yet the Holy Ghost sets down the sum total, for the sake of those that have not even so much skill as this. 2. To show the pleasure God takes in the names of his people. We found Cain's generation numbered in haste (Gen 4:18), but this account of the holy seed is enlarged upon, and given in words at length, and not in figures; we are told how long those lived that lived in God's fear, and when those died that died in his favour; but as for others it is no matter. The memory of the just is blessed, but the name of the wicked shall rot.\nII. Their life is reckoned by days (Gen 5:8): All the days of Seth, and so of the rest, which intimates the shortness of the life of man when it is at the longest, and the quick revolution of our times on earth. If they reckoned by days, surely we must reckon by hours, or rather make that our frequent prayer (Psa 90:12), Teach us to number our days.\nIII. Concerning each of them, except Enoch, it is said, and he died. It is implied in the numbering of the years of their life that their life, when those years were numbered and finished, came to an end; and yet it is still repeated, and he died, to show that death passed upon all men without exception, and that it is good for us particularly to observe and improve the deaths of others for our own edification. Such a one was a strong healthful man, but he died; such a one was a great and rich man, but he died; such a one was a wise politic man, but he died; such a one was a very good man, perhaps a very useful man, but he died, etc.\nIV. That which is especially observable is that they all lived very long; not one of them died till he had seen the revolution of almost eight hundred years, and some of them lived much longer, a great while for an immortal soul to be imprisoned in a house of clay. The present life surely was not to them such a burden as commonly it is now, else they would have been weary of it; nor was the future life so clearly revealed then as it is now under the gospel, else they would have been impatient to remove to it: long life to the pious patriarchs was a blessing and made them blessings. 1. Some natural causes may be assigned for their long life in those first ages of the world. It is very probable that the earth was more fruitful, that the productions of it were more strengthening, that the air was more healthful, and that the influences of the heavenly bodies were more benign, before the flood, than afterwards. Though man was driven out of paradise, yet the earth itself was then paradisiacal - a garden in comparison with its present wilderness-state: and some think that their great knowledge of the creatures, and of their usefulness both for food and medicine, together with their sobriety and temperance, contributed much to it; yet we do not find that those who were intemperate, as many were (Luk 17:27), were as short-lived as intemperate men generally are now. 2. It must chiefly be resolved into the power and providence of God. He prolonged their lives, both for the more speedy replenishing of the earth and for the more effectual preservation of the knowledge of God and religion, then, when there was no written word, but tradition was the channel of its conveyance. All the patriarchs here, except Noah, were born before Adam died; so that from him they might receive a full and satisfactory account of the creation, paradise, the fall, the promise, and those divine precepts which concerned religious worship and a religious life: and, if any mistake arose, they might have recourse to him while he lived, as to an oracle, for the rectifying of it, and after his death to Methuselah, and others, that had conversed with him: so great was the care of Almighty God to preserve in his church the knowledge of his will and the purity of his worship."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 1:1",
+      "note_ref": "MHC/13/1/1",
+      "cites": [
+        "1 Chronicles 1:1-2"
+      ],
+      "text": "This paragraph has Adam for its first word and Abraham for its last. Between the creation of the former and the birth of the latter were 2000 years, almost the one-half of which time Adam himself lived. Adam was the common father of our flesh, Abraham the common father of the faithful. By the breach which the former made of the covenant of innocency, we were all made miserable; by the covenant of grace made with the latter, we all are, or may be, made happy. We all are, by nature, the seed of Adam, branches of that wild olive. Let us see to it that, by faith, we become the seed of Abraham (Rom 4:11, Rom 4:12), that we be grafted into the good olive and partake of its root and fatness.\nI. The first four verses of this paragraph, and the last four, which are linked together by Shem (Ch1 1:4, Ch1 1:24), contain the sacred line of Christ from Adam to Abraham, and are inserted in his pedigree, Luk 3:34-38, the order ascending as here it descends. This genealogy proves the falsehood of that reproach, As for this man, we know not whence he is. Bishop Patrick well observes here that, a genealogy being to be drawn of the families of the Jews, this appears as the peculiar glory of the Jewish nation, that they alone were able to derive their pedigree from the first man that God created, which no other nation pretended to, but abused themselves and their posterity with fabulous accounts of their originals, the Arcadians fancying that they were before the moon, the people of Thessaly that they sprang from stones, the Athenians that they grew out of the earth, much like the vain imaginations which some of the philosophers had of the origin of the universe. The account which the holy scripture gives both of the creation of the world and of the rise of nations carries with it as clear evidences of its own truth as those idle traditions do of their own vanity and falsehood.\nII. All the verses between repeat the account of the replenishing of the earth by the sons of Noah after the flood. 1. The historian begins with those who were strangers to the church, the sons of Japhet, who were planted in the isles of the Gentiles, those western parts of the world, the countries of Europe. Of these he gives a short account (Ch1 1:5-7), because with these the Jews had hitherto had little or no dealings. 2. He proceeds to those who had many of them been enemies to the church, the sons of Ham, who moved southward towards Africa and those parts of Asia which lay that way. Nimrod the son of Cush began to be an oppressor, probably to the people of God in his time. But Mizraim, from whom came the Egyptians, and Canaan, from whom came the Canaanites, are both of them names of great note in the Jewish story; for with their descendants the Israel of God had severe struggles to get out of the land of Egypt and into the land of Canaan; and therefore the branches of Mizraim are particularly recorded (Ch1 1:11, Ch1 1:12), and of Canaan, Ch1 1:13-16. See at what a rate God valued Israel when he gave Egypt for their ransom (Isa 43:3), and cast out all these nations before them, Psa 80:8. 3. He then gives an account of those that were the ancestors and allies of the church, the posterity of Shem, Ch1 1:17-23. These peopled Asia, and spread themselves eastward. The Assyrians, Syrians, Chaldeans, Persians, and Arabians, descended from these. At first the originals of the respective nations were known; but at this day, we have reason to think, the nations are so mingled with one another, by the enlargement of commerce and dominion, the transplanting of colonies, the carrying away of captives, and many other circumstances, that no one nation, no, nor the greatest part of any, is descended entire from any one of these fountains. Only this we are sure of, that God has created of one blood all nations of men; they have all descended from one Adam, one Noah. Have we not all one father? Has not one God created us? Mal 2:10. Our register hastens to the line of Abraham, breaking off abruptly from all the other families of the sons of Noah but that of Arphaxad, from whom Christ was to come. The great promise of the Messiah (says bishop Patrick) was translated from Adam to Seth, from him to Shem, from him to Eber, and so to the Hebrew nation, who were entrusted, above all nations, with that sacred treasure, till the promise was performed and the Messiah had come, and then that nation was made not a people."
+    },
+    {
+      "src": "MHC",
+      "ref": "Luke 3:21",
+      "note_ref": "MHC/42/3/21",
+      "cites": [
+        "Luke 3:37-38"
+      ],
+      "text": "The evangelist mentioned John's imprisonment before Christ's being baptized, though it was nearly a year after it, because he would finish the story of John's ministry, and then introduce that of Christ. Now here we have,\nI. A short account of Christ's baptism, which had been more fully related by St. Matthew. Jesus came, to be baptized of John, and he was so, Luk 3:21, Luk 3:22.\n1. It is here said that, when all the people were baptized, then Jesus was baptized: all that were then present. Christ would be baptized last, among the common people, and in the rear of them; thus he humbled himself, and made himself of no reputation, as one of the least, nay, as less than the least. He saw what multitudes were hereby prepared to receive him, and then he appeared.\n2. Notice is here taken of Christ's praying when he was baptized, which was not in Matthew: being baptized, and praying. He did not confess sin, as others did, for he had none to confess; but he prayed, as others did, for he would thus keep up communion with his Father. Note, The inward and spiritual grace of which sacraments are the outward and visible signs must be fetched in by prayer; and therefore prayer must always accompany them. We have reason to think that Christ now prayed for this manifestation of God's favour to him which immediately followed; he prayed for the discovery of his Father's favour to him, and the descent of the Spirit. What was promised to Christ, he must obtain by prayer: Ask of me and I will give thee, etc. Thus he would put an honour upon prayer, would tie us to it, and encourage us in it.\n3. When he prayed, the heaven was opened. He that by his power parted the waters, to make a way through them to Canaan, now by his power parted the air, another fluid element, to open a correspondence with the heavenly Canaan. Thus was there opened to Christ, and by him to us, a new and living way into the holiest; sin had shut up heaven, but Christ's prayer opened it again. Prayer is an ordinance that opens heaven: Knock, and it shall be opened unto you.\n4. The Holy Ghost descended in a bodily shape like a dove upon him; our Lord Jesus was now to receive greater measures of the Spirit than before, to qualify him for his prophetical office, Isa 61:1. When he begins to preach, the Spirit of the Lord is upon him. Now this is here expressed by a sensible evidence for his encouragement in his work, and for the satisfaction of John the Baptist; for he was told before that by this sign it should be notified to him which was the Christ. Dr. Lightfoot suggests that the Holy Ghost descended in a bodily shape, that he might be revealed to be a personal substance, and not merely an operation of the Godhead: and thus (saith he) was made a full, clear, and sensible demonstration of the Trinity, at the beginning of the gospel; and very fitly is this done at Christ's baptism, who was to make the ordinance of baptism a badge of the profession of that faith in the doctrine of the Trinity, Father, Son, and Holy Ghost.\n5. There came a voice from heaven, from God the Father, from the excellent glory (so it is expressed, Pe2 1:17), Thou art my beloved Son. Here, and in Mark, it is expressed as spoken to Christ; in Matthew as spoken of him: This is my beloved Son. It comes all to one; it was intended to be a notification to John, and as such was properly expressed by, This is my beloved Son; and likewise an answer to his prayer, and so it is most fitly expressed by. Thou art. It was foretold concerning the Messiah, I will be his Father, and he shall be my Son, Sa2 7:14. I will make him my First-born, Psa 89:27. It was also foretold that he should be God's elect, in whom his soul delighted (Isa 42:1); and, accordingly, it is here declared, Thou art my beloved Son, in whom I am well pleased.\nII. A long account of Christ's pedigree, which had been more briefly related by St. Matthew. Here is,\n1. His age: He now began to be about thirty years of age. So old Joseph was when he stood before Pharaoh (Gen 41:46), David when he began to reign (Sa2 5:4), and at this age the priests were to enter upon the full execution of their office, Num 4:3. Dr. Lightfoot thinks that it is plain, by the manner of expression here, that he was just twenty-nine years old complete, and entering upon his thirtieth year, in the month Tisri; that, after this, he lived three years and a half, and died when he was thirty-two years and a half old. Three years and a half, the time of Christ's ministry, is a period of time very remarkable in scripture. Three years and six months the heavens were shut up in Elijah's time, Luk 4:25; Jam 5:17. This was the half week in which the Messiah was to confirm the covenant, Dan 9:27. This period is expressed in the prophetical writings by a time, times, and half a time (Dan 12:7; Rev 12:14); and by forty-two months, and a thousand two hundred and threescore days, Rev 11:2, Rev 11:3. It is the time fixed for the witnesses' prophesying in sackcloth, in conformity to Christ's preaching in his humiliation just so long.\n2. His pedigree, Luk 3:23, etc. Matthew had given us somewhat of this. He goes no higher than Abraham, but Luke brings it as high as Adam. Matthew designed to show that Christ was the son of Abraham, in whom all the families of the earth are blessed, and that he was heir to the throne of David; and therefore he begins with Abraham, and brings the genealogy down to Jacob, who was the father of Joseph, and heir-male of the house of David: but Luke, designing to show that Christ was the seed of the woman, that should break the serpent's head, traces his pedigree upward as high as Adam, and begins it with Ei, or Heli, who was the father, not of Joseph, but of the virgin Mary. And some suggest that the supply which our translators all along insert here is not right, and that it should not be read which, that is, which Joseph was the son of Heli, but which Jesus; he was the son of Joseph, of Eli, of Matthat, etc., and he, that is, Jesus, was the son of Seth, of Adam, of God, Luk 3:38. The difference between the two evangelists in the genealogy of Christ has been a stumbling-block to infidels that cavil at the word, but such a one as has been removed by the labours of learned men, both in the early ages of the church and in latter times, to which we refer ourselves. Matthew draws the pedigree from Solomon, whose natural line ending in Jechonias, the legal right was transferred to Salathiel, who was of the house of Nathan, another son of David, which line Luke here pursues, and so leaves out all the kings of Judah. It is well for us that our salvation doth not depend upon our being able to solve all these difficulties, nor is the divine authority of the gospels at all weakened by them; for the evangelists are not supposed to write these genealogies either of their own knowledge or by divine inspiration, but to have copied them out of the authentic records of the genealogies among the Jews, the heralds' books, which therefore they were obliged to follow; and in them they found the pedigree of Jacob, the father of Joseph, to be as it is set down in Matthew; and the pedigree of Heli, the father of Mary, to be as it is set down here in Luke. And this is the meaning of hōs enomizeto (Luk 3:23), not, as it was supposed, referring only to Joseph, but uti sancitum est lege - as it is entered into the books, as we find it upon record; by which is appeared that Jesus was both by father and mother's side the Son of David, witness this extract out of their own records, which any one might at that time have liberty to compare with the original, and further the evangelists needed not to go; nay, had they varied from that, they had not gained their point. Its not being contradicted at that time is satisfaction enough to us now that it is a true copy, as it is further worthy of observation, that, when those records of the Jewish genealogies had continued thirty or forty years after these extracts out of them, long enough to justify the evangelists therein, they were all lost and destroyed with the Jewish state and nation; for now there was no more occasion for them.\nOne difficulty occurs between Abraham and Noah, which gives us some perplexity, Luk 3:35, Luk 3:36. Sala is said to be the son of Cainan, and he the son of Arphaxad, whereas Sala was the son of Arphaxad (Gen 10:24; Gen 11:12), and there is no such man as Cainan found there. But, as to that, it is sufficient to say that the Seventy Interpreters, who, before our Saviour's time, translated the Old Testament into Greek, for reasons best known to themselves inserted that Cainan; and St. Luke, writing among the Hellenist Jews, was obliged to make use of that translation, and therefore to take it as he found it.\nThe genealogy concludes with this, who was the son of Adam, the son of God. (1.) Some refer it to Adam; he was in a peculiar manner the son of God, being, more immediately than any of his offspring, the offspring of God by creation. (2.) Others refer it to Christ, and so make the last words of this genealogy to denote his divine and human nature. He was both the Son of Adam and the Son of God that he might be a proper Mediator between God and the sons of Adam, and might bring the sons of Adam to be, through him, the sons of God.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 5:2",
+      "note_ref": "TYN/1/5/2",
+      "cites": [
+        "Genesis 5:3-18"
+      ],
+      "text": "5:2 male and female . . . “human” (Hebrew ’adam): See 1:27 and study note. • blessed them: See 1:28 and study note."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 5:3",
+      "note_ref": "TYN/1/5/3",
+      "cites": [
+        "Genesis 5:3-18"
+      ],
+      "text": "5:3 just like him—in his very image: The image and likeness of God (see note on 1:26) is preserved in human beings despite sin. Adam’s sinful nature was also carried forward (Rom 5:12-14)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 5:5",
+      "note_ref": "TYN/1/5/5",
+      "cites": [
+        "Genesis 5:3-18"
+      ],
+      "text": "5:5 he died: Death indeed came to Adam (see 2:17; 3:18-19) and his descendants (see Rom 5:12-14). Cain’s violence is omitted (see Gen 4:8, 15, 23-24) and key figures in Seth’s line live in hope (5:29)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 5:6",
+      "note_ref": "TYN/1/5/6",
+      "cites": [
+        "Genesis 5:3-18"
+      ],
+      "text": "5:6 the father of: Or the ancestor of; Hebrew genealogies do not necessarily list every single generation."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 1:1",
+      "note_ref": "TYN/13/1/1",
+      "cites": [
+        "1 Chronicles 1:1-2"
+      ],
+      "text": "1:1–2:2 The Chronicler begins by showing Israel’s place among the nations, tracing their line of descent from Adam to Jacob, using material from Genesis.\n1:1-4 An overview of the generations between Adam and the sons of Noah (cp. Gen 5:3-32)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 3:32",
+      "note_ref": "TYN/42/3/32",
+      "cites": [
+        "Luke 3:37-38"
+      ],
+      "text": "3:32 Boaz was the husband of Ruth the Moabite (see Ruth 2–4).",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 3:38",
+      "note_ref": "TYN/42/3/38",
+      "cites": [
+        "Luke 3:37-38"
+      ],
+      "text": "3:38 Seth was the third son of Adam and Eve, born after Cain murdered Abel and God banished him (Gen 4:25-26). • Adam was the son of God: Adam had no earthly father since God created him. In the temptation that follows, Satan repeatedly says to Jesus, “If you are the Son of God. . . .” Adam, the first son of God, failed when tested, but Jesus, the Son of God in the fullest sense, successfully resisted temptation."
+    },
+    {
+      "src": "TYN",
+      "ref": "Jude 14:1",
+      "note_ref": "TYN/65/14/1",
+      "cites": [
+        "Jude 14"
+      ],
+      "text": "13:1–16:31 Samson, who receives more attention in the book of Judges than any other judge, is even more of an enigma than Jephthah. Samson reflects a high level of inspiration as a leader. He also personifies the inexorable march toward chaos that highlights the need for a more centralized society under a godly ruler.\n14:1–15:20 Samson’s choice to marry a Philistine woman was the Lord’s means (14:4) of beginning to confront the Philistine challenge (see 13:5). One thing led to another, punctuated by three occasions when the Spirit came powerfully upon him (14:6, 19; 15:14). Throughout these events, Samson was a powerful but flawed hero.\n14:1 Timnah was probably about four miles down the valley of Sorek from Mahaneh-dan, at the intersection of the Israelite and Philistine territories."
+    },
+    {
+      "src": "TYN",
+      "ref": "Jude 14:2",
+      "note_ref": "TYN/65/14/2",
+      "cites": [
+        "Jude 14"
+      ],
+      "text": "14:2 Samson’s choice of a bride was informed only by his pleasure in her appearance. Intermarriage was a significant mark of covenant infidelity (Josh 23:12-13), but God is able to work through human sinfulness."
+    },
+    {
+      "src": "TYN",
+      "ref": "Jude 14:3",
+      "note_ref": "TYN/65/14/3",
+      "cites": [
+        "Jude 14"
+      ],
+      "text": "14:3 The epithet pagan (literally uncircumcised) was regularly applied to Philistines, who, unlike many nations in the Middle East, did not practice any form of circumcision."
+    },
+    {
+      "src": "TYN",
+      "ref": "Jude 14:5",
+      "note_ref": "TYN/65/14/5",
+      "cites": [
+        "Jude 14"
+      ],
+      "text": "14:5-6 Samson was first explicitly empowered by the Spirit (cp. 13:25) when he was attacked by a lion."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 5:2",
+      "note_ref": "GNV/1/5/2",
+      "cites": [
+        "Genesis 5:3-18"
+      ],
+      "text": "By giving them both one name, he noteth the inseparable conjunction of man and wife."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 5:3",
+      "note_ref": "GNV/1/5/3",
+      "cites": [
+        "Genesis 5:3-18"
+      ],
+      "text": "As well concerning his creation, as his corruption."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 5:6",
+      "note_ref": "GNV/1/5/6",
+      "cites": [
+        "Genesis 5:3-18"
+      ],
+      "text": "He proveth Adam’s generation by them which came of Seth, to show which is the true Church, and also what care God had over the same from the beginning, in that he continued ever his graces toward it by a continual succession."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 5:8",
+      "note_ref": "GNV/1/5/8",
+      "cites": [
+        "Genesis 5:3-18"
+      ],
+      "text": "The chief cause of long life in the first age, was the multiplication of mankind, that according to God’s commandment at the beginning the world might be increased with people, which might universally praise him."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 1:1",
+      "note_ref": "GNV/13/1/1",
+      "cites": [
+        "1 Chronicles 1:1-2"
+      ],
+      "text": "Meaning, that Seth was Adam’s son, and Enosh Seth’s son.\nHebrew, words of days.\nOr, things omitted, to wit, in the books of the kings."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 1:4",
+      "note_ref": "GNV/13/1/4",
+      "cites": [
+        "1 Chronicles 1:1-2"
+      ],
+      "text": "It had been sufficient to have named Shem of whom came Abraham and David, but because the world was restored by these three, mention is also made of Ham and Japheth."
+    },
+    {
+      "src": "GNV",
+      "ref": "Luke 3:23",
+      "note_ref": "GNV/42/3/23",
+      "cites": [
+        "Luke 3:37-38"
+      ],
+      "text": "The stock of Christ, according to the flesh, is brought by order even to Adam, and so to God, that it might appear, that he only it was, whom God promised to Abraham and David, and appointed from everlasting to his Church, which is gathered together of all sorts of men.",
+      "anchor": true
+    }
+  ]
+}

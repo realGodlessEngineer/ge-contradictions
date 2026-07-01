@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 200,
+  "question": "Did Balak fight with Israel?",
+  "summary": "Joshua 24:9 says Balak son of Zippor, king of Moab, \"arose and warred against Israel,\" but Judges 11:25 has Jephthah ask rhetorically — with implied answer \"no\" — whether Balak ever strove or fought against Israel.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders argue Joshua 24:9's \"warred\" denotes Balak's hostile design carried out through Balaam's curses, not the battlefield combat Jephthah denies.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells of the Skeptic's Annotated Bible presses the plain reading: Joshua 24:9 says Balak \"warred against Israel,\" while Jephthah's rhetorical question in Judges 11:25 expects the answer that he never did.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); contradiction \"Did Balak fight against Israel?\" citing Joshua 24:9 vs. Judges 11:25"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on Joshua 24:9",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, harmonizing Joshua 24:9's 'warred against Israel' as Balak's attempt to destroy Israel through Balaam's curses rather than the open combat Judges 11:25 denies."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page reconciling Joshua 24:9 with Judges 11:25 confirmed on an allowlisted domain; link omitted."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "200#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Joshua 24:9",
+      "full_note_ref": "CLARKE/6/24/9",
+      "excerpt_text": "This circumstance is not related in Numbers 22:1-41, nor does it appear in that history that the Moabites attacked the Israelites; and probably the warring here mentioned means no more than his attempts to destroy them by the curses of Balaam, and the wiles of the Midianitish women.",
+      "on_tension_rationale": "Directly addresses the Joshua/Judges tension: concedes no Moabite military attack is recorded and reads Joshua 24:9's 'warring' as Balak's curse-attempt, reconciling it with Jephthah's denial of any battle.",
+      "source_note_text": "Then Balak - arose and warred against Israel - This circumstance is not related in Numbers 22:1-41, nor does it appear in that history that the Moabites attacked the Israelites; and probably the warring here mentioned means no more than his attempts to destroy them by the curses of Balaam, and the wiles of the Midianitish women."
+    }
+  ]
+}

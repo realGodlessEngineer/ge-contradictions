@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 291,
+  "question": "Who was Uzziah's father?",
+  "summary": "Matthew 1:8 puts \"Joram begat Ozias [Uzziah]\" in Jesus' genealogy. 1 Chronicles 3:11-12 lists the actual lineage as Joram, Ahaziah, Joash, Amaziah, Azariah (= Uzziah). Matthew has skipped three generations.",
+  "consensus": "probable_harmonization",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders read Matthew's \"begat\" as \"was ancestor of,\" so the three omitted kings between Joram and Uzziah are a deliberate compression, not an error.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells of the Skeptic's Annotated Bible presses the row as a flat count: Matthew names Joram as Uzziah's father, yet Chronicles places three generations between them.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible, \"Who was Uzziah's father?\"",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Who was Uzziah's father?\" (skepticsannotatedbible.com/contra/uzziah.html)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Matthew 1:8",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact omission at Matthew 1:8, defending 'Joram begat Ozias' as a descended-from statement and noting parallel skipped-generation genealogies (e.g. Ezra 7:2)."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Matthew_1.8.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Matthew 1:8—Is Joram the father of Uzziah or of Ahaziah?",
+        "note": "Live apologetic treatment; cites Matthew 1:8 and 1 Chronicles 3:11-12 and harmonizes via 'begot = became the ancestor of' / abbreviated genealogy."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "291#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Matthew 1:8",
+      "full_note_ref": "JFB/40/1/7",
+      "excerpt_text": "Three kings are here omitted—Ahaziah, Joash, and Amaziah (Ch1 3:11-12). Some omissions behooved to be made, to compress the whole into three fourteens (Mat 1:17).",
+      "on_tension_rationale": "Names both texts (Mat 1:8 vs 1 Chr 3:11-12), states exactly which three kings Matthew drops and why — the core harmonization that the gap is intentional compression.",
+      "source_note_text": "And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa; 8. And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias--or Uzziah. Three kings are here omitted--Ahaziah, Joash, and Amaziah (Ch1 3:11-12). Some omissions behooved to be made, to compress the whole into three fourteens (Mat 1:17). The reason why these, rather than other names, are omitted, must be sought in religious considerations--either in the connection of those kings with the house of Ahab (as LIGHTFOOT, EBRARD, and ALFORD view it); in their slender right to be regarded as true links in the theocratic chain (as LANGE takes it); or in some similar disqualification."
+    }
+  ]
+}

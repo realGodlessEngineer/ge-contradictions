@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 281,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read \"ascended\" in John 3:13 as ascending to fetch down divine knowledge, not bodily translation, so Enoch and Elijah pose no exception.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells of the Skeptic's Annotated Bible — the upstream source for this row — presses the plain wording: John 3:13 says no one but the Son of Man has ascended, yet Genesis 5:24, Hebrews 11:5, and 2 Kings 2:11 already had Enoch and Elijah taken up.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"Has anyone ever ascended into heaven?\" (skepticsannotatedbible.com/contra/enoch.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, \"Has anyone ever ascended into heaven?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "John 3:13",
+      "excerpt_text": "Though Enoch and Elias had, yet not by their own power, nor in the sense our Lord designs; whose meaning is, that no man had, or could go up to heaven, to bring from thence the knowledge of divine and heavenly things …",
+      "full_note_ref": "GILL/43/3/12",
+      "on_tension_rationale": "The single note that explicitly names Enoch and Elias, concedes they were taken up, and resolves the tension by restricting John 3:13's \"ascended\" to ascending-to-fetch-down-divine-knowledge — the exact harmonization of this contradiction. Truncated at a source semicolon, so ends with the elision marker.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on John 3:13",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, conceding Enoch and Elijah were taken up but reading John 3:13's \"ascended\" as going up to bring down the knowledge of heavenly things; Haley's coverage of this specific pair could not be confirmed, so the row-surfaced harmonizing commentator is used per spec."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/John_3.13.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: John 3:13 — How could Christ say no one has ascended to heaven when Elijah had?",
+        "note": "live apologetic treatment; cites John 3:13 against Enoch and Elijah and harmonizes via the authoritative-testimony / heavenly-knowledge sense"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 152,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders argue the texts equivocate on \"fear\": Scripture commands filial, reverential fear of God, while the \"no fear\" verses cast out only the slavish dread of punishment.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells catalogues this as a standing contradiction, holding that 1 John uses \"fear\" in its ordinary sense and that redefining it as mere reverence is special pleading rather than what the texts say.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (\"Should we fear God?\")",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), \"Should we fear God?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Job 28:20",
+      "excerpt_text": "There is a slavish fear of God, springing from hard thoughts of him, which is contrary to religion, Mat 25:24. There is a selfish fear of God springing from dreadful thoughts of him, which may be a good step towards religion, Act 9:5. But there is a filial fear of God, springing from great and high thoughts of him, which is the life and soul of all religion.",
+      "full_note_ref": "MHC/18/28/20",
+      "on_tension_rationale": "Directly resolves the tension by distinguishing kinds of fear: the slavish fear (which the NT casts out) versus the filial fear that is commanded. The clearest both-true harmonization on the row.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 John 4:18",
+      "excerpt_text": "Godly fear of offending God is quite distinct from slavish fear of consciously deserved punishment. The latter fear is natural to us all until love casts it out.",
+      "full_note_ref": "JFB/62/4/18",
+      "on_tension_rationale": "Applies the distinction directly to the contested verse: 1 John 4:18 removes slavish fear of punishment, not the godly fear of offending God that the OT commands.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 John 4:18",
+      "excerpt_text": "…not the filial fear of God, the new covenant grace of fear, which is the beginning of wisdom, and is consistent with faith, hope, love, and spiritual joy; but either the fear of men, which brings a snare …",
+      "full_note_ref": "GILL/62/4/18",
+      "on_tension_rationale": "On the contested verse, Gill specifies that the fear cast out is not the commanded filial fear of God but a lesser fear (of men / of judgment), so the verses address different objects.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this passage directly, distinguishing slavish, selfish, and filial fear of God (on Job 28:20) and separating the commanded fear of God from being afraid of him (on 1 John 4:17)."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/1_John_4.18.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: 1 John 4:18 — If love casts out all fear, why are we told to fear God?",
+        "note": "live apologetic treatment distinguishing reverential fear from slavish dread"
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 214,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators across the tradition read “Vashni” not as a name but as a copyist’s corruption of Hebrew vesheni (“and the second”), with Joel’s name dropped from the Chronicles text.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, listing this in the Skeptic’s Annotated Bible, presses the bare conflict—Joel in 1 Samuel 8:2 against “Vashni” in the King James 1 Chronicles 6:28—though the discrepancy rests on a Masoretic reading the critical apparatus treats as a scribal error.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); contradiction page “Who was Samuel's firstborn son?” (skepticsannotatedbible.com)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Chronicles 6:28",
+      "excerpt_text": "It is now generally thought by the best critics that, through an error of the copyists, an omission has been made of the oldest son’s name, and that Vashni, which is not the name of a person, merely signifies “and the second.” This critical emendation of the text makes all clear, as well as consistent with other passages relating to the family of Samuel.",
+      "full_note_ref": "JFB/13/6/28",
+      "on_tension_rationale": "Directly resolves the Joel/Vashni tension: Vashni is not a name but a corruption of 'and the second,' with the firstborn's name dropped by a copyist.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "1 Chronicles 6:28",
+      "excerpt_text": "The word יואל Joel is lost out of the text in this place, and ושני vesheni, which signifies the second, and which refers to Abiah, is made here into a proper name. The Septuagint, Vulgate, and Chaldee, copy this blunder; but the Syriac and Arabic read as in Sa1 8:2.",
+      "full_note_ref": "CLARKE/13/6/28",
+      "on_tension_rationale": "Distinct voice giving the same text-critical resolution plus versional evidence: 'Joel' fell out and 'vesheni' (the second) was misread as a name; Syriac/Arabic preserve Joel.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on 1 Chronicles 6:28",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, arguing 'Vashni' is a corruption of vesheni ('the second') and that 'Joel' dropped from the Hebrew, with the Syriac and Arabic preserving the original reading of 1 Samuel 8:2."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page on an allowlisted domain (gotquestions.org / carm.org / defendinginerrancy.com) was found for this specific contradiction; link omitted rather than guessed."
+      }
+    }
+  }
+}

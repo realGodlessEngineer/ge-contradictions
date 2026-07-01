@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 459,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read John's Annas stop and the Synoptics' Caiaphas trial as one continuous custody in stages — a preliminary hearing before the deposed but still-powerful Annas, who then sends Jesus on to his son-in-law Caiaphas.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "D. F. Strauss treats the Fourth Gospel's distinctive trial sequence — the unique detour to Annas absent from the other three — as one of John's departures from the Synoptic single hearing, not a detail the accounts straightforwardly share.",
+      "skeptic": {
+        "name": "David Friedrich Strauss",
+        "work": "The Life of Jesus Critically Examined",
+        "year": "1846",
+        "attribution": "David Friedrich Strauss (d. 1874), The Life of Jesus Critically Examined, trans. George Eliot (1846; German orig. 1835)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Matthew 26:57",
+      "excerpt_text": "The Gospels record Jesus as undergoing five hearings: (1) an informal hearing before Annas (John 18:13-24); (2) a night hearing before the Sanhedrin (Matt 26:59-66); (3) a morning hearing before the Sanhedrin (27:1-2); (4) a hearing before Herod Antipas (Luke 23:6-12); and (5) a two-stage trial before Pilate (Matt 27:11-31; see Luke 23:6-12). It all amounts to two trials, a Jewish trial and a Roman trial.",
+      "full_note_ref": "TYN/40/26/57",
+      "on_tension_rationale": "Directly dissolves the tension by listing the Annas hearing (John) and the Caiaphas/Sanhedrin hearing as distinct, sequential stages of one process rather than competing claims about where Jesus went first.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "John 18:13",
+      "excerpt_text": "He was the “sagan” of the high priest; he and Caiaphas seem to have had the high priesthood alternately; and either now, because his house lay first in the way, or rather, because he was a man of age, learning, and experience … therefore they first lead him to him, to have his advice how to proceed, and to take him along with them to his son-in-law, where the great council was convened …",
+      "full_note_ref": "GILL/43/18/13",
+      "on_tension_rationale": "Explains why John alone reports the Annas stop (proximity, seniority, kinship) and frames it as preliminary to delivery to Caiaphas, harmonizing the extra hearing with the Synoptic Caiaphas trial.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "John 18:13",
+      "excerpt_text": "It is likely that Annas was chief of the Sanhedrin, and that it was to him in that office that Christ was first brought. Some think that Annas was still high priest, and that Caiaphas was only his deputy, though he did the principal part of the business",
+      "full_note_ref": "CLARKE/43/18/13",
+      "on_tension_rationale": "Addresses why the Synoptics' 'the high priest' and John's Annas-first can both stand by arguing Annas retained high-priestly standing, so the initial arraignment before him does not conflict with the Caiaphas trial.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats the Annas/Caiaphas trial sequence under the harmonizing tradition, arguing John's 'first to Annas' supplies a preliminary stage the Synoptics omit rather than a rival claim."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/who-did-jesus-see-first-upon-his-arrest-annas-or-caiaphas/",
+        "domain": "carm.org",
+        "title": "CARM: Who did Jesus see first upon His arrest, Annas or Caiaphas?",
+        "note": "live apologetic treatment harmonizing Matthew 26:57 and John 18:13 as sequential hearings"
+      }
+    }
+  }
+}

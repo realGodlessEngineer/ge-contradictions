@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 264,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the Chronicler's 35 as the two pillars' combined length, so each is about 17½ cubits, rounded to 18 in Kings.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, in the Skeptic's Annotated Bible, presses the figures at face value: Kings gives each pillar as eighteen cubits, Chronicles as thirty-five, and the same two pillars cannot be both.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible (\"How high were the pillars?\", skepticsannotatedbible.com/contra/pillars.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (online), \"How high were the pillars?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Kings 7:15",
+      "excerpt_text": "In Ch2 3:15 they are said to have been thirty-five cubits high. There, however, their joint lengths are given; whereas here the length of the pillars is given separately. Each pillar was seventeen and a half cubits long, which is stated, in round numbers, as eighteen.",
+      "full_note_ref": "JFB/11/7/15",
+      "on_tension_rationale": "Names both verses and states the dominant joint-length harmonization in full: 35 = combined, ~17.5 each, rounded to 18. Strongest single reconcile; parity-capped to one on a discrepancy_first row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 1 Kings 7:15",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Treats this exact pair, harmonizing 2 Chronicles 3:15's thirty-five cubits as the two pillars' joint length (each seventeen and a half, rounded to eighteen). Haley's specific-passage coverage could not be confirmed, so a row-surfaced harmonizing commentator keyed to the passage is used per spec."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) squarely engages the 18-vs-35 pillar-height tension: GotQuestions' Jachin-and-Boaz page cites only 1 Kings and never 2 Chronicles 3:15 or the discrepancy; defendinginerrancy 1_Kings_7.15 / 2_Chronicles_3.15 both 404; CARM's only on-point article is the molten-sea (1 Kings 7:23) circumference, a different difficulty. Link omitted rather than guessed."
+      }
+    }
+  }
+}

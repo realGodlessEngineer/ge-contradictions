@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 79,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The commentators read \"son of Nahor\" as Hebrew idiom — son standing for grandson/descendant — so Bethuel (the father) and Nahor (the grandfather) both fit.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is catalogued by Steve Wells, who lists the two verses side by side as conflicting answers to \"Who was Laban's father?\" — Bethuel in one, Nahor in the other.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"Who was Laban's father?\" (contra/laban.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (skepticsannotatedbible.com)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Genesis 29:5",
+      "excerpt_text": "Son is here put for grandson, for Laban was the son of Bethuel the son of Nahor.",
+      "full_note_ref": "CLARKE/1/29/5",
+      "on_tension_rationale": "Directly resolves the Bethuel-vs-Nahor tension: 'son' = grandson, Laban = son of Bethuel who is son of Nahor. Strongest, most explicit harmonization on the row.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Genesis 29:5",
+      "excerpt_text": "He was the son of Bethuel, and grandson of Nahor; grandsons being called the sons of their grandfather …",
+      "full_note_ref": "GILL/1/29/5",
+      "on_tension_rationale": "States the same harmonization independently — Laban son of Bethuel, grandson of Nahor, with the general idiom that grandsons are called sons of their grandfather. Truncated mid-sentence before the secondary point about Nahor being better known.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 29:5",
+      "excerpt_text": "…he inquired after Laban, the son, i.e., the descendant, of Nahor …",
+      "full_note_ref": "KD/1/29/5",
+      "on_tension_rationale": "K&D gloss 'son' as 'descendant' at the very phrase in tension, treating Nahor as ancestor rather than literal father. Extracted from inside the anchor block; both ends mid-sentence so each carries the elision marker.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Genesis 29:5",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact pair directly: 'Son is here put for grandson, for Laban was the son of Bethuel the son of Nahor.' Used as the PD anchor because Haley's coverage of this specific pair could not be confirmed; per the spec, a row-surfaced harmonizing commentator keyed to the passage qualifies."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page (gotquestions.org / carm.org / defendinginerrancy.com) squarely treats this contradiction — gotquestions/Laban-in-the-Bible.html does not engage the Bethuel-vs-Nahor genealogy, and the on-topic hits are off-allowlist domains. Link omitted rather than guessed."
+      }
+    }
+  }
+}

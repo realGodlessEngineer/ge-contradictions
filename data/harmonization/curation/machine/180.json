@@ -1,0 +1,67 @@
+{
+  "contradiction_id": 180,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders answer on two fronts: the Deuteronomic bar on physical eunuchs was a temporary covenant ordinance later set aside, and Jesus' \"self-made eunuchs\" are voluntary celibates, not the castrated men the law excluded.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells, who frames it as \"Does God prefer castrated men?\"—arguing the law's flat exclusion of physical eunuchs cannot stand beside Jesus' approving words about those who make themselves eunuchs for the kingdom.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (\"Does God prefer castrated men?\")",
+        "year": "1999",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (1999-)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Deuteronomy 23:1",
+      "excerpt_text": "This law, however, was one of the ordinances intended for the period of infancy, and has lost its significance with the spread of the kingdom of God over all the nations of the earth (Isa 56:4).",
+      "full_note_ref": "KD/5/23/1",
+      "on_tension_rationale": "Directly resolves the OT-vs-NT tension: the eunuch-exclusion was a temporary covenant-infancy ordinance superseded as the kingdom of God spread, so it no longer binds in the era Jesus speaks to.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 19:12",
+      "excerpt_text": "and there be eunuchs which have made themselves eunuchs; not in a literal sense, in which the words are not to be taken, as they were by Origen … here it means such, who having the gift of continency without mutilating their bodies, or indulging any unnatural lusts, can live chastely without the use of women, and choose celibacy",
+      "full_note_ref": "GILL/40/19/12",
+      "on_tension_rationale": "Defuses the surface conflict by denying that Jesus endorses physical castration: the self-made eunuchs are voluntary celibates 'without mutilating their bodies,' a different category from the bodily-mutilated men Deut 23:1 excludes.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Matthew 19:12",
+      "excerpt_text": "and there be eunuchs which have made themselves eunuchs for the kingdom of heaven's sake--persons who, to do God's work better, deliberately choose this state.",
+      "full_note_ref": "JFB/40/19/12",
+      "on_tension_rationale": "Concisely reinforces that the 'self-made eunuchs' are persons who deliberately choose celibacy for God's work, not the physically emasculated men barred by Deut 23:1.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Deuteronomy 23:1",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Keil & Delitzsch treat this passage directly, reading the eunuch-exclusion as a temporary covenant-infancy ordinance that 'lost its significance with the spread of the kingdom of God' (citing Isa 56:4)—the harmonizing key to the Matthew 19:12 tension."
+      },
+      "link": {
+        "url": null
+      }
+    }
+  }
+}

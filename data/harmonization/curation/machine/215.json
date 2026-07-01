@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 215,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the hiding texts as temporary, sin-occasioned withdrawals that never cancel God's underlying, help-giving love.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman presses the strongest form of the objection, arguing the biblical writers give clashing answers — some insisting God answers the cry of the afflicted, the prophets and laments depicting him hiding his face and refusing to hear — that cannot be reduced to a single coherent doctrine.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "God's Problem: How the Bible Fails to Answer Our Most Important Question — Why We Suffer",
+        "year": "2008",
+        "attribution": "Bart D. Ehrman, God's Problem: How the Bible Fails to Answer Our Most Important Question — Why We Suffer (HarperOne, 2008)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Psalms 22:24",
+      "excerpt_text": "for though he forsook him for a while, and in a little wrath hid his face from him for a moment … yet he returned again, and did not hide his face from him for even; but when he cried unto him, he heard …",
+      "full_note_ref": "GILL/19/22/24",
+      "on_tension_rationale": "Directly harmonizes both poles of the contradiction in one move: the hiding of God's face is temporary ('for a moment'), and the cry is in fact heard — i.e., God reliably helps even where he appears to hide.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Psalm 10:1 and Psalm 22:24",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact tension on the row's anchor verses, explaining God's hiding of his face as a temporary, sin-occasioned withdrawal that 'is consistent with his everlasting and unchangeable love.' Used in place of Haley because Haley's coverage of this specific passage cluster could not be confirmed; Gill is a public-domain harmonizing commentator surfaced on this row."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/does-God-answer-prayers.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Does God answer prayers?",
+        "note": "Live apologetic treatment reframing apparent divine non-response (the 'God hides / will not hear' texts) as a 'yes / no / wait' answer rather than silence."
+      }
+    }
+  }
+}

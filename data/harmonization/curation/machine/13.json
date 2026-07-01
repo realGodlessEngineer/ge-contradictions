@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 13,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The commentators uniformly distinguish two senses of \"work\": God ceased only from creating, never from upholding and governing, so Genesis 2 and John 5:17 both stand.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, who catalogued the pair in the Skeptic's Annotated Bible, presses that Genesis has God resting on the seventh day while John 5:17 has him working without pause — so God both does and does not keep the Sabbath.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); entry \"Does God work on the Sabbath?\" (skepticsannotatedbible.com)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "John 5:17",
+      "excerpt_text": "God created the world in six days: on the seventh he rested from all creating acts, and set it apart to be an everlasting memorial of his work. But, though he rested from creating, he never ceased from preserving and governing that which he had formed: in this respect he can keep no sabbaths; for nothing can continue to exist, or answer the end proposed by the Divine wisdom and goodness, without the continual energy of God.",
+      "full_note_ref": "CLARKE/43/5/17",
+      "on_tension_rationale": "Directly resolves the row's tension: God rested from CREATING (Genesis 2) but never ceased PRESERVING/GOVERNING (John 5:17), so the two senses of 'work' are different and both passages hold. The cleanest single-voice statement of the harmonization.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "John 5:17",
+      "excerpt_text": "though he ended all his work on the seventh day, and rested from what he had done; yet he did not cease from working at all, but has continued to work ever since, on sabbath days, as well as on other days; in upholding and governing the world, in continuing the species of beings, and all creatures in their being…",
+      "full_note_ref": "GILL/43/5/17",
+      "on_tension_rationale": "Names both poles of the tension in one clause — God 'ended all his work on the seventh day, and rested' (Genesis 2) yet 'did not cease from working at all... on sabbath days' (John 5:17) — and harmonizes by limiting the rest to creating and assigning the ongoing work to upholding/governing. Distinct voice from Clarke.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "John 5:17",
+      "excerpt_text": "Now God rested only from such work as he had done the six days before; otherwise he worketh hitherto, he is every day working, sabbath days and week-days, upholding and governing all the creatures, and concurring by his common providence to all the motions and operations of nature, to his own glory…",
+      "full_note_ref": "MHC/43/5/17",
+      "on_tension_rationale": "Henry restricts God's seventh-day rest to 'such work as he had done the six days before' (creation), while affirming he 'worketh hitherto... every day... sabbath days and week-days' in providence — the same two-sense harmonization in a distinct voice, no near-duplicate of Clarke or Gill.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on John 5:17",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact passage-pair head-on, distinguishing God's rest from creating from his unceasing providential 'continual energy' — the public-domain anchor for the harmonization, surfaced on this row and keyed to John 5:17."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/what-did-God-do-on-the-seventh-day.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What did God do on the seventh day of creation?",
+        "note": "Live apologetic treatment that explicitly cites John 5:17 to argue God ceased only from new creative work, not from sustaining activity — directly on this contradiction."
+      }
+    }
+  }
+}

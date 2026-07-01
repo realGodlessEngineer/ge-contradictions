@@ -1,0 +1,57 @@
+{
+  "contradiction_id": 439,
+  "question": "When did the transfiguration occur?",
+  "summary": "Matthew 17:1 and Mark 9:2 both state that the transfiguration occurred \"after six days\" following Jesus' prediction about some standing there not tasting death before seeing the kingdom. Luke 9:28 instead reports it occurred \"about an eight days after these sayings.\" Two different numerical intervals between the same saying and the same event.",
+  "consensus": "probable_harmonization",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Harmonizers read 'six days' and 'about eight days' as one interval counted two ways: Matthew and Mark give only the intervening days, Luke adds the day of the saying and the day of the event.",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells lists 'after six days' (Matthew, Mark) against Luke's 'about eight days' (Luke 9:28) as a flat numerical contradiction in the transfiguration timing.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871)",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "On Luke 9:28 JFB state Luke's 'about eight days' includes the day of the saying and of the Transfiguration, which Matthew and Mark exclude in their 'after six days', the inclusive-vs-exclusive harmonization."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/after-how-many-days-did-jesus-take-the-three-men-up-the-mountain/",
+        "domain": "carm.org",
+        "title": "CARM: After how many days did Jesus take the three men up the mountain?",
+        "note": "Addresses the six-vs-eight-days difference directly, noting Luke's 'about' (hosei) approximates while Matthew and Mark are precise, so eight days is simply after six."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "439#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Luke 9:26",
+      "full_note_ref": "GILL/42/9/26",
+      "excerpt_text": "The other evangelists, Matthew and Mark, say it was six days after: the reason of this difference is, because Luke takes in the day in which he delivered these sayings, and that in which he was transfigured, and they only reckon the intermediate days",
+      "on_tension_rationale": "Directly resolves the six-vs-eight-days conflict as inclusive vs. exclusive counting: Luke counts the day of the saying and the day of the event, Matthew and Mark count only the days between.",
+      "source_note_text": "And it came to pass, about an eight days after those sayings,.... About a week after he had declared the above things, at, or near to Caesarea Philippi. The other evangelists, Matthew and Mark, say it was six days after: the reason of this difference is, because Luke takes in the day in which he delivered these sayings, and that in which he was transfigured, and they only reckon the intermediate days:\nhe took Peter, and John, and James; the same that he admitted to be with him at the raising of Jairus's daughter, and in the garden afterwards:\nand went up into a mountain to pray; to his God and Father, that his disciples might have a visible display of his glory, as an emblem and pledge of that in which he shall hereafter appear: it was usual with Christ to go up into a mountain to pray; Mat 14:23. See Gill on Mat 17:1."
+    }
+  ]
+}

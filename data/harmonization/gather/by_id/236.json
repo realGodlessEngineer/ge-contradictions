@@ -1,0 +1,988 @@
+{
+  "contradiction_id": 236,
+  "question": "Did Saul and Samuel kill all the Amalekites?",
+  "summary": "1 Samuel 15:7-8 says Saul utterly destroyed all the Amalekites with the edge of the sword. The same chapter lets Agag's mother survive (15:33), David is still slaughtering Amalekites years later in 1 Samuel 27:8 and 30:1-17 (with 400 escaping), and an Amalekite kills Saul in 2 Samuel 1:8-10. The text contradicts its own \"utterly destroyed all\" claim multiple times within a few chapters.",
+  "consensus": "genuine_contradiction",
+  "consensus_id": 1,
+  "category": "History & Narrative Events",
+  "contradiction_type": "factual_historical",
+  "testament_scope": "OT_internal",
+  "books_in_tension": "1 Samuel, 2 Samuel",
+  "refs_raw": [
+    "1 Samuel 15:33",
+    "1 Samuel 27:8-9",
+    "2 Samuel 1:8-10",
+    "1 Samuel 15:7-8",
+    "1 Samuel 15:33",
+    "1 Samuel 30:1",
+    "1 Samuel 30:17"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "1 Samuel 15:33",
+      "book": "1 Samuel",
+      "bolls": 9,
+      "ranges": [
+        [
+          15,
+          33,
+          33
+        ]
+      ]
+    },
+    {
+      "raw": "1 Samuel 27:8-9",
+      "book": "1 Samuel",
+      "bolls": 9,
+      "ranges": [
+        [
+          27,
+          8,
+          9
+        ]
+      ]
+    },
+    {
+      "raw": "2 Samuel 1:8-10",
+      "book": "2 Samuel",
+      "bolls": 10,
+      "ranges": [
+        [
+          1,
+          8,
+          10
+        ]
+      ]
+    },
+    {
+      "raw": "1 Samuel 15:7-8",
+      "book": "1 Samuel",
+      "bolls": 9,
+      "ranges": [
+        [
+          15,
+          7,
+          8
+        ]
+      ]
+    },
+    {
+      "raw": "1 Samuel 15:33",
+      "book": "1 Samuel",
+      "bolls": 9,
+      "ranges": [
+        [
+          15,
+          33,
+          33
+        ]
+      ]
+    },
+    {
+      "raw": "1 Samuel 30:1",
+      "book": "1 Samuel",
+      "bolls": 9,
+      "ranges": [
+        [
+          30,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "raw": "1 Samuel 30:17",
+      "book": "1 Samuel",
+      "bolls": 9,
+      "ranges": [
+        [
+          30,
+          17,
+          17
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 90,
+  "notes_raw_count": 117,
+  "notes_dropped": 27,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 15:6",
+      "note_ref": "GILL/9/15/6",
+      "cites": [
+        "1 Samuel 15:7-8"
+      ],
+      "text": "And Saul said unto the Kenites,.... Who were of the posterity of Jethro the father-in-law of Moses, or related to him; why Josephus (x) calls them the nation of the Sicimites, who dwelt in the midst of the land of Midian, I know not:\ngo, depart, get ye down from among the Amalekites; for though some of these people came with Israel into the land of Canaan, and were first at Jericho, and then came into the wilderness of Judah, Jdg 1:16 and were in other tribes also; yet as they removed from place to place, and from country to country, for the convenience of their flocks and herds, they dwelling in tents, might come into the country of Amalek and pitch there, and as they chose to dwell in rocks, and the caverns of them, to be near their flocks and herds in the valleys, they are called upon to get down from thence, see Num 24:21.\nlest I destroy you with them; they dwelling among the Amalekites, might perish with them; and especially as the Amalekites, upon their being routed, would naturally flee to the rocks, hills, and mountains, where these people had their tents, they would be in the greater danger of being destroyed with them, unless they removed:\nfor ye showed kindness to all the children of Israel when they came up out of Egypt; as Jethro, by the advice he gave to Moses to appoint proper officers in Israel, and Hobab, by being eyes to the people, in conducting them through the wilderness, and accompanying them to the land of Canaan:\nso the Kenites departed from among the Amalekites; took the advice of Saul, and removed and pitched their tents, elsewhere.\n(x) Ut supra, (Antiqu. l. 6. c. 7.) sect. 3."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 15:7",
+      "note_ref": "GILL/9/15/7",
+      "cites": [
+        "1 Samuel 15:7-8"
+      ],
+      "text": "And Saul smote the Amalekites,.... Engaging in battle with them, he overcame them, and beat them, and slew great numbers of them:\nfrom Havilah until thou comest to Shur, that is over against Egypt; having routed them in the valley, or in whatsoever place the battle was fought, he pursued them from one end of their country to the other; from Havilah, which lay to the northeast, to Shur, which lay to the southwest, and destroyed all that came in his way between those two points, see Gen 25:18."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 15:8",
+      "note_ref": "GILL/9/15/8",
+      "cites": [
+        "1 Samuel 15:7-8"
+      ],
+      "text": "And he took Agag the king of the Amalekites alive,.... This name seems to be a common name of the kings of these people, as Pharaoh was of the Egyptians, see Num 24:2. When this king fell into the hands of Saul, he did not put him to death, as he should have done, but preserved him; for what reasons, see in the following verse:\nand utterly destroyed all the people with the edge of the sword; that is, all that came in his way, or fell into his hands; all between Havilah and Shur; all excepting those that made their escape, for we after read of Amalekites, and that in large bodies, Sa1 27:8."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 15:33",
+      "note_ref": "GILL/9/15/33",
+      "cites": [
+        "1 Samuel 15:33"
+      ],
+      "text": "Then Samuel went to Ramah,.... His native place, and where was his usual residence:\nand Saul went up to his house to Gibeah of Saul; which was also his birth place, and where was his father's house, and where he had his palace, and kept his court; and took its name from him, to distinguish it from another Gibeah; and so Josephus (w) says it was called Gabathsaoule, and was about thirty furlongs or four miles from Jerusalem.\n(w) De Bello Jud. l. 5. c. 2. sect. 1."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 27:7",
+      "note_ref": "GILL/9/27/7",
+      "cites": [
+        "1 Samuel 27:8-9"
+      ],
+      "text": "And the time that David dwelt in the country of the Philistines,.... At Gath and Ziklag:\nwas a full year and four months; or \"days and four months\"; days being sometimes put for a year, Jdg 17:10; though some interpret it not of a year, but of some few days out of the fifth month, besides the four months; so Jarchi and Kimchi; and Josephus (h) makes his abode to be four months and twenty days; but, according to the Septuagint and Vulgate Latin versions, it was only four months; and so it may be rendered, \"days, that is, four months\"; for according to the Jewish chronology (i) Samuel died four months before Saul, and this flight of David was after the death of Samuel, and when Saul died he left the land of the Philistines, and took the throne of Judah; See Gill on Sa1 25:1.\n(h) Antiqu. l. 6. c. 13. sect. 10. (i) Sepher Olam Rabba c. 13. p. 37."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 27:8",
+      "note_ref": "GILL/9/27/8",
+      "cites": [
+        "1 Samuel 27:8-9"
+      ],
+      "text": "And David and his men went up,.... From Ziklag, where they dwelt:\nand invaded the Geshurites; some of the old inhabitants of the land of Canaan, the remains of the Amorites, whose land was given to the half tribe of Manasseh, but could never be expelled; and therefore David had a just right to invade them, and, if he could, either expel or destroy them; see Deu 3:14; these are the Geshurites which are joined with the Philistines, Jos 13:2,\nand the Gezrites; the inhabitants of Gezer, which place fell to the tribe of Ephraim; but that tribe could not drive out the inhabitants of it, and therefore David now fell upon them as the enemies of Israel, and seized on their country, as belonging to them, Jos 16:3,\nand the Amalekites; the sworn and implacable enemies of Israel, and whose memory they were laid under obligation to root out. These were such as had escaped the sword of Saul, and had fled to the more distant parts, against whom David now went; and perhaps these had fled to and mixed themselves with the people here mentioned:\nfor these nations were of old the inhabitants of the land; of the land of Canaan:\nas thou goest to Shur, even unto the land of Egypt; see Sa1 15:7."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 27:9",
+      "note_ref": "GILL/9/27/9",
+      "cites": [
+        "1 Samuel 27:8-9"
+      ],
+      "text": "And David smote the land,.... In which the above mentioned people dwelt, that is, the inhabitants of it:\nand left neither man nor woman alive; for these being the old Canaanites and Amalekites, according to the law of God were not to be spared, but utterly destroyed; which may be observed to remove the charge of cruelty that might be brought against David on this account, Deu 7:2; though this must be understood of such that came within his reach; for it is certain there were people of these several names after this; see Sa1 30:1,\nand took away the sheep, and the oxen, and the asses, and the camels,\nand the apparel, and returned, and came to Achish; at Gath, to make a report of what he had been about and done; and what he brought was a good booty for the support of his men and their families."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 27:10",
+      "note_ref": "GILL/9/27/10",
+      "cites": [
+        "1 Samuel 27:8-9"
+      ],
+      "text": "And Achish said, whither have ye made a road today?.... Or whither had they rushed in, or poured in and spread themselves? or where had they made their excursion to fetch in the prey and booty they now brought?\nand David said, against the south of Judah; he meant against some people that lay to the south of the land of Judah, without it; but expressed himself so, that Achish might think he meant the southern parts of Judah within the country; which, though not a downright lie, was an equivocation, and made with a design to deceive; and was by no means agreeably to the character of David, nor to be defended nor imitated:\nand against the south of the Jerahmeelites; these were the descendants of Jerahmeel, the son of Hezron, the grandson of Judah, and so inhabited in the tribe of Judah, and very probably in the southern part of it, Ch1 2:9,\nand against the south of the Kenites; the posterity of Jethro; these, at least some of them, at the first seating of the children of Israel in the land of Canaan, went with the children of Judah into the wilderness of Judah, which lieth in the south of Arad, Jdg 1:16."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 30:1",
+      "note_ref": "GILL/9/30/1",
+      "cites": [
+        "1 Samuel 30:1"
+      ],
+      "text": "And it came to pass, when David and his men were come to Ziklag, on the third day,.... Either from their departure from thence, when they went out with Achish, or rather from the time of their leaving Achish, and the camp of the Philistines; so long they were upon their march homewards, see Sa2 1:1; and no wonder, if it was the distance of eighty eight miles; see Gill on Sa1 29:11,\nthat the Amalekites had invaded the south, and Ziklag; the southern parts of the land of the Philistines, and of Judah, as appears from Sa1 30:14; taking the opportunity of the Philistines being gone into the land of Israel, and particularly of David's absence from Ziklag, to whom they bore a grudge for his invasion, destruction, and spoil of them not long ago, see Sa1 27:8,\nand smitten Ziklag, and burnt it with fire; not that they smote the inhabitants of it, there were no men in it, and the women and children they carried captive; but they demolished the buildings in it, pulled down the houses after they had rifled them, and burnt them with fire, that David and his men might dwell there no more."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 30:2",
+      "note_ref": "GILL/9/30/2",
+      "cites": [
+        "1 Samuel 30:1"
+      ],
+      "text": "And had taken the women captives, that were therein,.... There being no other to take, the men were gone with David:\nthey slew not any, either great or small; that is, of the women, whether married or unmarried, old, or maidens, or children; which was very much, since David destroyed all that came within his reach, men and women, when he invaded them, Sa1 27:9; but perhaps this was not owing to their humanity, but to their covetousness, designing to make an advantage of them by selling them for slaves; no doubt they were restrained by the providence of God:\nbut carried them away, and went on their way; homewards with their captives."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 30:16",
+      "note_ref": "GILL/9/30/16",
+      "cites": [
+        "1 Samuel 30:17"
+      ],
+      "text": "And when he had brought him down,.... To the place where the company of the Amalekites were, or near it:\nbehold, they were spread abroad upon all the earth; they were not in any regular order, and much less in any military form, but lay about in the fields, scattered here and there, were in detached parties:\nsome eating and drinking; in one place:\nand dancing; others, in another place, expressing their joy, and perhaps their thankfulness to their idols\nbecause of the great spoil they had taken out of the land of the Philistines, and out of the land of Judah; from Ziklag, and from the south of the Cherethites, and the south of Judah, they had invaded, Sa1 30:14; and here they were in the greatest security; knowing: that the armies of the Philistines were gone into the land of Israel, and were about to engage in battle with the Israelites, and David they supposed was with the Philistines, so that they had nothing to fear from any quarter; and thus it is often, that when men cry peace, peace, sudden destruction comes upon them."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 30:17",
+      "note_ref": "GILL/9/30/17",
+      "cites": [
+        "1 Samuel 30:17"
+      ],
+      "text": "And David smote them from the twilight even unto the evening of the next day,.... As there are two twilights, the twilight of the morning, and the twilight of the evening; this is differently understood some take it for the twilight of the morning, and that it was night when David came to them, and let them alone till they were drunk and asleep, and then early in the morning fell upon them, and smote them until the evening; so Josephus (s) relates it; but others take it to be the twilight of the evening, and that he fell upon them that night, and continued the slaughter of them to the evening of the next day, with which agrees the Targum; nay, some take the next day, or the morrow, to be that which followed after the two evenings; so that this slaughter was carried on to the third day:\nand there escaped not a man of them, save four hundred young men that rode upon camels, and fled; that sort of camels called dromedaries, according to Josephus (t), and which were very swift, and much used by the Arabians, near whom these people dwelt, see Isa 60:6.\n(s) Antiqu. l. 6. c. 4. sect. 6. (t) Ibid."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 1:7",
+      "note_ref": "GILL/10/1/7",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "And when he looked behind him,.... To see how near the enemy was, and who were pursuing him:\nhe saw me, and called unto me; by which it should rather seem that he belonged to the Philistines than to the Israelites, and as his being an Amalekite shows; for such an one would hardly be admitted among the latter, though it is most likely he was with neither, but happened to come that way just at that time:\nand I answered, here am I; ready to hear what thou hast to say, and do thy pleasure."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 1:8",
+      "note_ref": "GILL/10/1/8",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "And he said unto me, who art thou?.... Being willing to know whether a friend or an enemy, which by his coming behind him he could not tell:\nand I answered him, I am an Amalekite: which he might be; but it is not likely he should tell Saul he was, which would not recommend him to him; though indeed he was now in such circumstances, that the Amalekites had nothing to fear from him; and if he was slain by him, as Josephus (f) affirms he was, it seems to be a just retaliation on him for sparing any of that race, contrary to the will of God.\n(f) Antiqu. l. 6. c. 14. sect. 7."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 1:9",
+      "note_ref": "GILL/10/1/9",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "And he said unto me again, stand, I pray thee, upon me, and slay me,.... Which it can hardly be thought Saul would say; since he might as well have died by the hands of the uncircumcised Philistines, which he endeavoured to avoid, as by the hands of an Amalekite:\nfor anguish is come upon me; or trembling, as the Targum, not through fear of death, but through fear of falling into the hands of the Philistines, and of being ill used by them. Some render the words, \"my embroidered coat\", or \"breastplate\", or \"coat of mail\", holds me (g), or hinders me from being pierced through with the sword or spear; so Ben Gersom (h):\nbecause my life is yet whole in me: for though he had been wounded by the archers, yet he did not apprehend he had received any mortal wound, but his life was whole in him; and therefore feared he should fall into their hands alive, and be ill treated by them.\n(g) \"tunica scutulata\", Braunius; \"ocellata chlamys\", Junius & Tremellius, Piscator; \"thorax villosus seu pelliceus\", Texelii Phoenix, p. 210. (h) Vid. Braunium de Vest. Sacredot. Heb. l. 1. c. 17. sect. 9."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 1:10",
+      "note_ref": "GILL/10/1/10",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "So I stood upon him, and slew him,.... Pressed with all his weight upon his body, that so the spear might pierce through him, and slay him; thus he represents his death to be brought about:\nbecause I was sure that he could not live after that he was fallen; this is not consistent with what he had said before, both that he was leaning on his spear, and not fallen to the ground, and that his life was whole in him:\nand I took the crown that was upon his head; which made him conspicuous, and therefore the Philistines aimed at him, and pressed hard after him, Sa2 1:6; though some think that this was not on his head, but carried into the field of battle, ready to be put on if victory was on his side; and others say it was in the possession and care of Doeg, who at his death gave it to his son to carry to David, and thereby gain his favour:\nand the bracelet that was on his arm; of gold no doubt, so Josephus (i); such as great personages used to wear, men as well as women, see Gen 38:18, especially military men (k). Jarchi takes them to be the \"totaphot\" or phylacteries on the arm, which is not probable:\nand have brought them hither unto my lord; as ensigns of royalty, fit only for a king, Saul's successor, as this person, by calling him lord, owned him to be, and thought by bringing those to him to be highly he neared and rewarded.\n(i) Ut supra. (Antiqu. l. 6. c. 14. sect. 7.) (k) Vid. Liv. Hist. Decad. 1. l. 10. c. 44."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 15:6",
+      "note_ref": "JFB/9/15/6",
+      "cites": [
+        "1 Samuel 15:7-8"
+      ],
+      "text": "Kenites--(See on Jdg 1:16). In consequence, probably, of the unsettled state of Judah, they seem to have returned to their old desert tracts. Though now intermingled with the Amalekites, they were not implicated in the offenses of that wicked race; but for the sake of their ancestors, between whom and those of Israel there had been a league of amity, a timely warning was afforded them to remove from the scene of danger."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 15:7",
+      "note_ref": "JFB/9/15/7",
+      "cites": [
+        "1 Samuel 15:7-8"
+      ],
+      "text": "HE SPARES AGAG AND THE BEST OF THE SPOIL. (Sa1 15:7-9)\nSaul smote the Amalekites--His own view of the proper and expedient course to follow was his rule, not the command of God."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 15:8",
+      "note_ref": "JFB/9/15/8",
+      "cites": [
+        "1 Samuel 15:7-8"
+      ],
+      "text": "he took Agag . . . alive--This was the common title of the Amalekite kings. He had no scruple about the apparent cruelty of it, for he made fierce and indiscriminate havoc of the people. But he spared Agag, probably to enjoy the glory of displaying so distinguished a captive, and, in like manner, the most valuable portions of the booty, as the cattle. By this wilful and partial obedience to a positive command [Sa1 15:3], complying with it in some parts and violating it in others, as suited his own taste and humor, Saul showed his selfish, arbitrary temper, and his love of despotic power, and his utter unfitness to perform the duties of a delegated king in Israel."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 15:33",
+      "note_ref": "JFB/9/15/33",
+      "cites": [
+        "1 Samuel 15:33"
+      ],
+      "text": "Samuel hewed Agag--This cruel tyrant met the retribution of a righteous Providence. Never has it been unusual for great or official personages in the East to perform executions with their own hands. Samuel did it \"before the Lord\" in Gilgal, appointing that same mode of punishment (hitherto unknown in Israel) to be used towards him, which he had formerly used towards others.\nNext: 1 Samuel Chapter 16"
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 27:6",
+      "note_ref": "JFB/9/27/6",
+      "cites": [
+        "1 Samuel 27:8-9"
+      ],
+      "text": "Ziklag--Though originally assigned to Judah (Jos 15:31), and subsequently to Simeon (Jos 19:5), this town had never been possessed by the Israelites. It belonged to the Philistines, who gave it to David."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 27:8",
+      "note_ref": "JFB/9/27/8",
+      "cites": [
+        "1 Samuel 27:8-9"
+      ],
+      "text": "David . . . went up, and invaded the Geshurites--(See Jos 13:2).\nand the Gezrites--or the Gerizi [GESENIUS], (Jos 12:12), some Arab horde which had once encamped there.\nand the Amalekites--Part of the district occupied by them lay on the south of the land of Israel (Jdg 5:14; Jdg 12:15)."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 27:10",
+      "note_ref": "JFB/9/27/10",
+      "cites": [
+        "1 Samuel 27:8-9"
+      ],
+      "text": "Achish said, Whither have ye made a road to-day?--that is, raid, a hostile excursion for seizing cattle and other booty.\nDavid said, Against the south of Judah, and against the south of the Jerahmeelites--Jerahmeel was the great-grandson of Judah, and his posterity occupied the southern portion of that tribal domain.\nthe south of the Kenites--the posterity of Jethro, who occupied the south of Judah (Jdg 1:16; Num 24:21). The deceit practised upon his royal host and the indiscriminate slaughter committed, lest any one should escape to tell the tale, exhibit an unfavorable view of this part of David's history.\nNext: 1 Samuel Chapter 28"
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 30:2",
+      "note_ref": "JFB/9/30/2",
+      "cites": [
+        "1 Samuel 30:1"
+      ],
+      "text": "they slew not any, either great or small, but carried them away--Their conduct seems to stand in favorable contrast to that of David (Sa1 27:11). But their apparent clemency did not arise from humane considerations. It is traceable to the ancient war usages of the East, where the men of war, on the capture of a city, were unsparingly put to death, but there were no warriors in Ziklag at the time. The women and boys were reserved for slaves, and the old people were spared out of respect to age."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 30:3",
+      "note_ref": "JFB/9/30/3",
+      "cites": [
+        "1 Samuel 30:1"
+      ],
+      "text": "David and his men came to the city, and, behold, it was burned with fire--The language implies that the smoke of the conflagration was still visible, and the sacking very recent."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 30:15",
+      "note_ref": "JFB/9/30/15",
+      "cites": [
+        "1 Samuel 30:17"
+      ],
+      "text": "Swear unto me by God--Whether there was still among these idolatrous tribes a lingering belief in one God, or this Egyptian wished to bind David by the God whom the Hebrews worshipped, the solemn sanction of an oath was mutually recognized."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 30:16",
+      "note_ref": "JFB/9/30/16",
+      "cites": [
+        "1 Samuel 30:17"
+      ],
+      "text": "AND RECOVERS HIS TWO WIVES AND ALL THE SPOIL. (1Sa. 30:16-31)\nthey were spread abroad upon all the earth--Believing that David and all his men of war were far away, engaged with the Philistine expedition, they deemed themselves perfectly secure and abandoned themselves to all manner of barbaric revelry. The promise made in answer to the devout inquiries of David (Sa1 30:8) was fulfilled. The marauders were surprised and panic-stricken. A great slaughter ensued--the people as well as the booty taken from Ziklag was recovered, besides a great amount of spoil which they had collected in a wide, freebooting excursion."
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Samuel 1:2",
+      "note_ref": "JFB/10/1/2",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "a man came out of the camp from Saul--As the narrative of Saul's death, given in the last chapter, is inspired, it must be considered the true account, and the Amalekite's story a fiction of his own, invented to ingratiate himself with David, the presumptive successor to the throne. David's question, \"How went the matter?\" evinces the deep interest he took in the war, an interest that sprang from feelings of high and generous patriotism, not from views of ambition. The Amalekite, however, judging him to be actuated by a selfish principle, fabricated a story improbable and inconsistent, which he thought would procure him a reward. Having probably witnessed the suicidal act of Saul, he thought of turning it to his own account, and suffered the penalty of his grievously mistaken calculation (compare Sa2 1:9 with Sa1 31:4-5).",
+      "anchor": true
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Samuel 1:10",
+      "note_ref": "JFB/10/1/10",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "the crown--a small metallic cap or wreath, which encircled the temples, serving the purpose of a helmet, with a very small horn projecting in front, as the emblem of power.\nthe bracelet that was on his arm--the armlet worn above the elbow; an ancient mark of royal dignity. It is still worn by kings in some Eastern countries."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 15:6",
+      "note_ref": "CLARKE/9/15/6",
+      "cites": [
+        "1 Samuel 15:7-8"
+      ],
+      "text": "Said unto the Kenites - The Kenites were an ancient people. Jethro, the father-in-law of Moses, was a Kenite. Hobab his son (if the same person be not meant) was guide to the Hebrews through the wilderness. They had a portion of the promised land, near to the city Arad. See Jdg 1:16; and for more particulars concerning them and the Amalekites, see the notes on Num 26:20-21 (note)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 15:7",
+      "note_ref": "CLARKE/9/15/7",
+      "cites": [
+        "1 Samuel 15:7-8"
+      ],
+      "text": "From Havilah - to Shur - From Pelusium in Egypt, unto the Red Sea. - Josephus. But Havilah lay eastward from the Red Sea; the Amalekites lay between this and the way to Egypt towards Shur."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 15:32",
+      "note_ref": "CLARKE/9/15/32",
+      "cites": [
+        "1 Samuel 15:33"
+      ],
+      "text": "Agag came unto him delicately - The Septuagint have τρεμων, trembling; the original, מעדנת maadannoth, delicacies; probably איש ish, man, understood; a man of delights, a pleasure-taker: the Vulgate, pinguissimus et tremens, \"very fat and trembling.\"\nSurely the bitterness of death is past - Almost all the versions render this differently from ours. Surely death is bitter, is their general sense; and this seems to be the true meaning."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 15:33",
+      "note_ref": "CLARKE/9/15/33",
+      "cites": [
+        "1 Samuel 15:33"
+      ],
+      "text": "As thy sword hath made women childless - It appears that Agag had forfeited his life by his own personal transgressions, and that his death now was the retribution of his cruelties.\nAnd Samuel hewed Agag in pieces -\n1. What Samuel did here he did in his magisterial capacity; and,\n2. It is not likely he did it by his own sword, but by that of an executioner. What kings, magistrates, and generals do, in an official way, by their subjects, servants, or soldiers, they are said to do themselves; qui facit per alterum, facit per se."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 27:6",
+      "note_ref": "CLARKE/9/27/6",
+      "cites": [
+        "1 Samuel 27:8-9"
+      ],
+      "text": "Achish gave him Ziklag - Ziklag was at first given to the tribe of Judah, but afterwards it was ceded to that of Simeon, Jos 15:31; Jos 19:5. The Philistines had, however, made themselves masters of it, and held it to the time here mentioned; it then fell into the tribe of Judah again, and continued to be the property of the kings of Judah. This verse is a proof that this book was written long after the days of Samuel, and that it was formed by a later hand, out of materials which had been collected by a contemporary author. See the preface."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 27:9",
+      "note_ref": "CLARKE/9/27/9",
+      "cites": [
+        "1 Samuel 27:8-9"
+      ],
+      "text": "David smote the land - Here was a complete extirpation of all these people, not one being left alive, lest he should carry tidings of the disasters of his country! The spoil which David took consisted of sheep, oxen, asses, camels, and apparel."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 27:10",
+      "note_ref": "CLARKE/9/27/10",
+      "cites": [
+        "1 Samuel 27:8-9"
+      ],
+      "text": "Whither have ye made a road today? - He had probably been in the habit of making predatory excursions. This seems to be implied in the question of Achish."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 30:1",
+      "note_ref": "CLARKE/9/30/1",
+      "cites": [
+        "1 Samuel 30:1"
+      ],
+      "text": "On the third day - This was the third day after he had left the Philistine army at Aphek. Calmet supposes that Aphek was distant from Ziklag more than thirty leagues.\nThe Amalekites had invaded - These were, doubtless, a travelling predatory horde, who, availing themselves of the war between the Philistines and the Israelites, plundered several unprotected towns, and among them Ziklag. It is likely they had not heard of what David did to some of their tribes, else they would have avenged themselves by slaying all they found in Ziklag."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 30:15",
+      "note_ref": "CLARKE/9/30/15",
+      "cites": [
+        "1 Samuel 30:17"
+      ],
+      "text": "Swear unto me - At the conclusion of this verse, the Vulgate, Syriac, and Arabic add, that David swore to him. This is not expressed in the Hebrew, but is necessarily implied."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 30:16",
+      "note_ref": "CLARKE/9/30/16",
+      "cites": [
+        "1 Samuel 30:17"
+      ],
+      "text": "Out of the land of the Philistines - That these Amalekites were enemies to the Philistines is evident, but it certainly does not follow from this that those whom David destroyed were enemies also. This, I think, has been too hastily assumed by Dr. Chandler and others, in order the better to vindicate the character of David."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 30:17",
+      "note_ref": "CLARKE/9/30/17",
+      "cites": [
+        "1 Samuel 30:17"
+      ],
+      "text": "There escaped not a man of them - It is well known to every careful reader of the Bible, that the Amalekites were a proscribed people, even by God himself, and that in extirpating them it has been supposed David fulfilled the express will of God. But all this depends on whether he had an express commission to do so, received from God himself, as Saul had."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Samuel 1:8",
+      "note_ref": "CLARKE/10/1/8",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "I am an Amalekite - Dr. Delaney remarks that an Amalekite took that crown from off the head of Saul, which he had forfeited by his disobedience in the case of Amalek."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Samuel 1:10",
+      "note_ref": "CLARKE/10/1/10",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "The crown - and the bracelet - The crown was probably no more than a royal fillet or diadem, both being the ensigns of royalty. It is sometimes customary in the East for a sovereign prince to give a crown and bracelets, when investing others with dominion or authority over certain provinces. Had Saul these in token of his being God's vicegerent, and that he held the kingdom from him alone?"
+    },
+    {
+      "src": "KD",
+      "ref": "1 Samuel 15:10",
+      "note_ref": "KD/9/15/10",
+      "cites": [
+        "1 Samuel 15:7-8"
+      ],
+      "text": "The word of the Lord came to Samuel: \"It repenteth me that I have made Saul king, for he hath turned away from me, and not set up (carried out) my word.\" (On the repentance of God, see the remarks on Gen 6:6.) That this does not express any changeableness in the divine nature, but simply the sorrow of the divine love at the rebellion of sinners, is evident enough from Sa1 15:29. יי מאחרי שׁוּב, to turn round from following God, in order to go his own ways. This was Saul's real sin. He would no longer be the follower and servant of the Lord, but would be absolute ruler in Israel. Pride arising from the consciousness of his own strength, led him astray to break the command of God. What more God said to Samuel is not communicated here, because it could easily be gathered and supplied from what Samuel himself proceeded to do (see more particularly Sa1 15:16.). In order to avoid repetitions, only the principal feature in the divine revelation is mentioned here, and the details are given fully afterwards in the account of the fulfilment of the instructions. Samuel was deeply agitated by this word of the Lord. \"It burned (in) him,\" sc., wrath (אף, compare Gen 31:36 with Gen 30:2), not on account of the repentance to which God had given utterance at having raised up Saul as king, nor merely at Saul's disobedience, but at the frustration of the purpose of God in calling him to be king in consequence of his disobedience, from which he might justly dread the worst results in relation to the glory of Jehovah and his own prophetic labours.\n(Note: \"Many grave thoughts seem to have presented themselves at once to Samuel and disturbed his mind, when he reflected upon the dishonour which might be heaped upon the name of God, and the occasion which the rejection and deposition of Saul would furnish to wicked men for blaspheming God. For Saul had been anointed by the ministry of Samuel, and he had been chosen by God himself from all the people, and called by Him to the throne. If, therefore, he was nevertheless deposed, it seemed likely that so much would be detracted from the authority of Samuel and the confidence of the people in his teaching, and, moreover, that the worship of God would be overturned, and the greatest disturbance ensue; in fact, that universal confusion would burst upon the nation. These were probably the grounds upon which Samuel's great indignation rested.\" - Calvin.)\nThe opinion that ל יחר is also used to signify deep distress cannot be established from Sa2 4:8. \"And he cried to Jehovah the whole night,\" sc., praying for Saul to be forgiven. But it was in vain. This is evident from what follows, where Samuel maintains the cause of his God with strength and decision, after having wrestled with God in prayer."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Samuel 15:32",
+      "note_ref": "KD/9/15/32",
+      "cites": [
+        "1 Samuel 15:33"
+      ],
+      "text": "After Saul had prayed, Samuel directed him to bring Agag the king of the Amalekites. Agag came מעדנּת, i.e., in a contented and joyous state of mind, and said (in his heart), \"Surely the bitterness of death is vanished,\" not from any special pleasure at the thought of death, or from a heroic contempt of death, but because he thought that his life was to be granted him, as he had not been put to death at once, and was now about to be presented to the prophet (Clericus)."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Samuel 15:33",
+      "note_ref": "KD/9/15/33",
+      "cites": [
+        "1 Samuel 15:33"
+      ],
+      "text": "But Samuel pronounced the sentence of death upon him: \"As thy sword hath made women childless, so be thy mother childless before women!\" מנּשׁים is to be understood as a comparative: more childless than (other) women, i.e., the most childless of women, namely, because her son was the king. From these words of Samuel, it is very evident that Agag had carried on his wars with great cruelty, and had therefore forfeited his life according to the lex talionis. Samuel then hewed him in pieces \"before the Lord at Gilgal,\" i.e., before the altar of Jehovah there; for the slaying of Agag being the execution of the ban, was an act performed for the glory of God."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Samuel 15:34",
+      "note_ref": "KD/9/15/34",
+      "cites": [
+        "1 Samuel 15:33"
+      ],
+      "text": "After the prophet had thus maintained the rights of Jehovah in the presence of Saul, and carried out the ban upon Agag, he returned to his own home at Ramah; and Saul went to his house at Gibeah. From that time forward Samuel broke off all intercourse with the king whom Jehovah had rejected. \"For Samuel was grieved for Saul, and it repented the Lord that he had made Saul king,\" i.e., because Samuel had loved Saul on account of his previous election; and yet, as Jehovah had rejected him unconditionally, he felt that he was precluded from doing anything to effect a change of heart in Saul, and his reinstatement as king."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Samuel 27:8",
+      "note_ref": "KD/9/27/8",
+      "cites": [
+        "1 Samuel 27:8-9"
+      ],
+      "text": "From Ziklag David made an attack upon the Geshurites, Gerzites, and Amalekites, smote them without leaving a man alive, and returned with much booty. The occasion of this attack is not mentioned, as being a matter of indifference in relation to the chief object of the history; but it is no doubt to be sought for in plundering incursions made by these tribes into the land of Israel. For David would hardly have entered upon such a war in the situation in which he was placed at that time without some such occasion, seeing that it would be almost sure to bring him into suspicion with Achish, and endanger his safety. ויּעל, \"he advanced,\" the verb being used, as it frequently is, to denote the advance of an army against a people or town (see at Jos 8:1). At the same time, the tribes which he attacked may have had their seat upon the mountain plateau in the northern portion of the desert of Paran, so that David was obliged to march up to reach them. פּשׁט, to invade for the purpose of devastation and plunder. Geshuri is a tribe mentioned in Jos 13:2 as living in the south of the territory of the Philistines, and is a different tribe from the Geshurites in the north-east of Gilead (Jos 12:5; Jos 13:11, Jos 13:13; Deu 3:14). These are the only passages in which they are mentioned. The Gerzites, or Gizrites according to the Keri, are entirely unknown. Bonfrere and Clericus suppose them to be the Gerreni spoken of in 2 Macc. 13:24, who inhabited the town of Gerra, between Rhinocolura and Pelusium (Strabo, xvi. 760), or Gerron (Ptol. iv. 5). This conjecture is a possible one, but is very uncertain nevertheless, as the Gerzites certainly dwelt somewhere in the desert of Arabia. At any rate Grotius and Ewald cannot be correct in their opinion that they were the inhabitants of Gezer (Jos 10:33). The Amalekites were the remnant of this old hereditary foe of the Israelites, who had taken to flight on Saul's war of extermination, and had now assembled again (see at Sa1 15:8-9). \"For they inhabit the land, where you go from of old to Shur, even to the land of Egypt.\" The עשׁר before מעולם may be explained from the fact that בּואך is not adverbial here, but is construed according to its form as an infinitive: literally, \"where from of old thy coming is to Shur.\" עשׁר cannot have crept into the text through a copyist's mistake, as such a mistake would not have found its way into all the MSS. The fact that the early translators did not render the word proves nothing against its genuineness, but merely shows that the translators regarded it as superfluous. Moreover, the Alexandrian text is decidedly faulty here, and עולם is confounded with עלם, ἀπὸ Γελάμ. Shur is the desert of Jifar, which is situated in front of Egypt (as in Sa1 15:7). These tribes were nomads, and had large flocks, which David took with him as booty when he had smitten the tribes themselves. After his return, David betook himself to Achish, to report to the Philistian king concerning his enterprise, and deceive him as to its true character."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Samuel 27:10",
+      "note_ref": "KD/9/27/10",
+      "cites": [
+        "1 Samuel 27:8-9"
+      ],
+      "text": "Achish said, \"Ye have not made an invasion to-day, have ye?\" אל, like μὴ, is an interrogative sense; the ה has dropped out: vid., Ewald, 324, b. David replied, \"Against the south of Judah, and the south of the Jerahmeelites, and into the south of the Kenites,\" sc., we have made an incursion. This reply shows that the Geshurites, Gerzites, and Amalekites dwelt close to the southern boundary of Judah, so that David was able to represent the march against these tribes to Achish as a march against the south of Judah, to make him believe that he had been making an attack upon the southern territory of Judah and its dependencies. The Negeb of Judah is the land between the mountains of Judah and the desert of Arabia (see at Jos 15:21). The Jerahmeelites are the descendants of Jerahmeel, the first-born of Hezron (Ch1 2:9, Ch1 2:25-26), and therefore one of the three large families of Judah who sprang from Hezron. They probably dwelt on the southern frontier of the tribe of Judah (vid., Sa1 30:29). The Kenites were protgs of Judah (see at Sa1 15:6, and Jdg 1:16). In Sa1 27:11 the writer introduces the remark, that in his raid David left neither man nor woman of his enemies alive, to take them to Gath, because he thought \"they might report against us, and say, Thus hath David done.\" There ought to be a major point under דּוד עשׂה, as the following clause does not contain the words of the slaughtered enemies, but is a clause appended by the historian himself, to the effect that David continued to act in that manner as long as he dwelt in the land of the Philistines. משׁפּט, the mode of procedure; lit. the right which he exercised (see Sa1 8:9)."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Samuel 30:1",
+      "note_ref": "KD/9/30/1",
+      "cites": [
+        "1 Samuel 30:1"
+      ],
+      "text": "During David's absence the Amalekites had invaded the south country, smitten Ziklag and burnt it down, and carried off the women and children whom they found there; whereat not only were David and his men plunged into great grief on their return upon the third day but David especially was involved in very great trouble, inasmuch as the people wanted to stone him. But he strengthened himself in the Lord his God (Sa1 30:1-6).\nSa1 30:1-5\nSa1 30:1-4 form one period, which is expanded by the introduction of several circumstantial clauses. The apodosis to \"It came to pass, when,\" etc. (Sa1 30:1), does not follow till Sa1 30:4, \"Then David and the people,\" etc. But this is formally attached to Sa1 30:3, \"so David and his men came,\" with which the protasis commenced in Sa1 30:1 is resumed in an altered form. \"It came to pass, when David and his men came to Ziklag ... the Amalekites had invaded ... and had carried off the wives ... and had gone their way, and David and his men came into the town (for 'when David and his men came,' etc.), and behold it was burned ... . Then David and the people with him lifted up their voice.\" \"On the third day:\" after David's dismission by Achish, not after David's departure from Ziklag. David had at any rate gone with Achish beyond Gath, and had not been sent back till the whole of the princes of the Philistines had united their armies (Sa1 29:2.), so that he must have been absent from Ziklag more than two days, or two days and a half. This is placed beyond all doubt by Sa1 30:11., since the Amalekites are there described as having gone off with their booty three days before David followed them, and therefore they had taken Ziklag and burned it three days before David's return. These foes had therefore taken advantage of the absence of David and his warriors, to avenge themselves for David's invasions and plunderings (Sa1 27:8). Of those who were carried off, \"the women\" alone expressly mentioned in Sa1 30:2, although the female population and all the children had been removed, as we may see from the expression \"small and great\" (Sa1 30:3, Sa1 30:6). The lxx were therefore correct, so far as the sense is concerned, in introducing the words καὶ πάντα before בּהּ עשׁר. \"They had killed no one, but (only) carried away.\" נהג, to carry away captive, as in Isa 20:4. Among those who had been carried off were David's two wives, Ahinoam and Abigail (vid., Sa1 25:42-43; Sa1 27:3).\nSa1 30:6-10\nDavid was greatly distressed in consequence; \"for the people thought ('said,' sc., in their hearts) to stone him,\" because they sought the occasion of their calamity in his connection with Achish, with which many of his adherents may very probably have been dissatisfied. \"For the soul of the whole people was embittered (i.e., all the people were embittered in their souls) because of their sons and daughters,\" who had been carried away into slavery. \"But David strengthened himself in the Lord his God,\" i.e., sought consolation and strength in prayer and believing confidence in the Lord (Sa1 30:7.). This strength he manifested in the resolution to follow the foes and rescue their booty from them. To this end he had the ephod brought by the high priest Abiathar (cf. Sa1 23:9), and inquired by means of the Urim of the Lord, \"Shall I pursue this troop? Shall I overtake it?\" These questions were answered in the affirmative; and the promise was added, \"and thou wilt rescue.\" So David pursued the enemy with his six hundred men as far as the brook Besor, where the rest, i.e., two hundred, remained standing (stayed behind). The words עמדוּ והנּותרים, which are appended in the form of a circumstantial clause, are to be connected, so far as the facts are concerned, with what follows: whilst the others remained behind, David pursued the enemy still farther with four hundred men. By the word הנּותרים the historian has somewhat anticipated the matter, and therefore regards it as necessary to define the expression still further in Sa1 30:10. We are precluded from changing the text, as Thenius suggests, by the circumstance that all the early translators read it in this manner, and have endeavoured to make the expression intelligible by paraphrasing it. These two hundred men were too tired to cross the brook and go any farther. (פּגר, which only occurs here and in Sa1 30:21, signifies, in Syriac, to be weary or exhausted.) As Ziklag was burnt down, of course they found no provisions there, and were consequently obliged to set out in pursuit of the foe without being able to provide themselves with the necessary supplies. The brook Besor is supposed to be the Wady Sheriah, which enters the sea below Ashkelon (see v. Raumer, Pal. p. 52)."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Samuel 30:15",
+      "note_ref": "KD/9/30/15",
+      "cites": [
+        "1 Samuel 30:17"
+      ],
+      "text": "This Egyptian then conducted David, at his request, when he had sworn that he would neither kill him nor deliver him up to his master, down to the hostile troops, who were spread over the whole land, eating, drinking, and making merry, on account of all the great booty which they had brought out of the land of the Philistines and Judah."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Samuel 30:17",
+      "note_ref": "KD/9/30/17",
+      "cites": [
+        "1 Samuel 30:17"
+      ],
+      "text": "David surprised them in the midst of their security, and smote them from the evening twilight till the evening of the next day, so that no one escaped, with the exception of four hundred young men, who fled upon camels. Nesheph signifies the evening twilight here, not the dawn, - a meaning which is not even sustained by Job 7:4. The form מחרתם appears to be an adverbial formation, like יומם."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Samuel 30:18",
+      "note_ref": "KD/9/30/18",
+      "cites": [
+        "1 Samuel 30:17"
+      ],
+      "text": "Through this victory David rescued all that the Amalekites had taken, his two wives, and all the children great and small; also the booty that they had taken with them, so that nothing was missing."
+    },
+    {
+      "src": "KD",
+      "ref": "2 Samuel 1:1",
+      "note_ref": "KD/10/1/1",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "David receives the news of Saul's death. - Sa2 1:1-4. After the death of Saul, and David's return to Ziklag from his campaign against the Amalekites, there came a man to David on the third day, with his clothes torn and earth strewed upon his head (as a sign of deep mourning: see at Sa1 4:12), who informed him of the flight and overthrow of the Israelitish army, and the death of Saul and Jonathan.\nSa2 1:1-3\nSa2 1:1 may be regarded as the protasis to Sa2 1:2, so far as the contents are concerned, although formally it is rounded off, and ויּשׁב forms the apodosis to ויהי: \"It came to pass after the death of Saul, David had returned from the slaughter of the Amalekites (1 Samuel 30:1-26), that David remained at Ziklag two days. And it came to pass on the third day,\" etc. Both of these notices of the time refer to the day, on which David returned to Ziklag from the pursuit and defeat of the Amalekites. Whether the battle at Gilboa, in which Saul fell, occurred before or after the return of David, it is impossible to determine. All that follows from the juxtaposition of the two events in Sa2 1:1, is that they were nearly contemporaneous. The man \"came from the army from with Saul,\" and therefore appears to have kept near to Saul during the battle.\nSa2 1:4\nDavid's inquiry, \"How did the thing happen?\" refers to the statement made by the messenger, that he had escaped from the army of Israel. In the answer, אשׁר serves, like כּי in other passages, merely to introduce the words that follow, like our namely (vid., Ewald, 338, b.). \"The people fled from the fight; and not only have many of the people fallen, but Saul and Jonathan his son are also dead.\" וגם ... וגם: not only ... but also.\nSa2 1:5-10\nTo David's further inquiry how he knew this, the young man replied (Sa2 1:6-10), \"I happened to come (נקרא = נקרה) up to the mountains of Gilboa, and saw Saul leaning upon his spear; then the chariots (the war-chariots for the charioteers) and riders were pressing upon him, and he turned round and saw me, ... and asked me, Who art thou? and I said, An Amalekite; and he said to me, Come hither to me, and slay me, for the cramp (שׁבץ according to the Rabbins) hath seized me (sc., so that I cannot defend myself, and must fall into the hands of the Philistines); for my soul (my life) is still whole in me. Then I went to him, and slew him, because I knew that after his fall he would not live; and took the crown upon his head, and the bracelet upon his arm, and brought them to my lord\" (David). \"After his fall\" does not mean \"after he had fallen upon his sword or spear\" (Clericus), for this is neither implied in נפלו nor in על־חניתו נשׁען (\"supported, i.e., leaning upon his spear\"), nor are we at liberty to transfer it from Sa1 31:4 into this passage; but \"after his defeat,\" i.e., so that he would not survive this calamity. This statement is at variance with the account of the death of Saul in Sa1 31:3.; and even apart from this it has an air of improbability, or rather of untruth in it, particularly in the assertion that Saul was leaning upon his spear when the chariots and horsemen of the enemy came upon him, without having either an armour-bearer or any other Israelitish soldier by his side, so that he had to turn to an Amalekite who accidentally came by, and to ask him to inflict the fatal wound. The Amalekite invented this, in the hope of thereby obtaining the better recompense from David. The only part of his statement which is certainly true, is that he found the king lying dead upon the field of battle, and took off the crown and armlet; since he brought these to David. But it is by no means certain whether he was present when Saul expired, or merely found him after he was dead.\nSa2 1:11-12\nThis information, the substance of which was placed beyond all doubt by the king's jewels that were brought, filled David with the deepest sorrow. As a sign of his pain he rent his clothes; and all the men with him did the same, and mourned with weeping and fasting until the evening \"for Saul and for Jonathan his son, for the people of Jehovah, and for the house of Israel, because they had fallen by the sword\" (i.e., in battle). \"The people of Jehovah\" and the \"house or people of Israel\" are distinguished from one another, according to the twofold attitude of Israel, which furnished a double ground for mourning. Those who had fallen were first of all members of the people of Jehovah, and secondly, fellow-countrymen. \"They were therefore associated with them, both according to the flesh and according to the spirit, and for that reason they mourned the more\" (Seb. Schmidt). \"The only deep mourning for Saul, with the exception of that of the Jabeshites (Sa1 31:11), proceeded from the man whom he had hated and persecuted for so many years even to the time of his death; just as David's successor wept over the fall of Jerusalem, even when it was about to destroy Himself\" (O. v. Gerlach).\nSa2 1:13\nDavid then asked the bringer of the news for further information concerning his own descent, and received the reply that he was the son of an Amalekite stranger, i.e., of an Amalekite who had emigrated to Israel.\nSa2 1:14-16\nDavid then reproached him for what he had done: \"How wast thou not afraid to stretch forth thine hand to destroy the Lord's anointed?\" and commanded one of his attendants to slay him (Sa2 1:15.), passing sentence of death in these words: \"Thy blood come upon thy head (cf. Lev 20:9; Jos 2:1;(1); for thy mouth hath testified against thee, saying, I have slain the Lord's anointed.\"\n(Note: \"Thy mouth hath testified against thee, and out of it thou art judged (Luk 19:22), whether thou hast done it or not. If thou hast done it, thou receivest the just reward of thy deeds. If thou hast not done it, then throw the blame upon thine own lying testimony, and be content with the wages of a wicked flatterer; for, according to thine own confession, thou art the murderer of a king, and that is quite enough to betray thine evil heart. David could see plainly enough that the man was no murderer: he would show by his example that flatterers who boast of such sins as these should get no hearing from their superiors.\" - Berleb. Bible.)\nDavid regarded the statement of the Amalekite as a sufficient ground for condemnation, without investigating the truth any further; though it was most probably untrue, as he could see through his design of securing a great reward as due to him for performing such a deed (vid., Sa2 4:10), and looked upon a man who could attribute such an act to himself from mere avarice as perfectly capable of committing it. Moreover, the king's jewels, which he had brought, furnished a practical proof that Saul had really been put to death. This punishment was by no means so severe as to render it necessary to \"estimate its morality according to the times,\" or to defend it merely from the standpoint of political prudence, on the ground that as David was the successor of Saul, and had been pursued by him as his rival with constant suspicion and hatred, he ought not to leave the murder of the king unpunished, if only because the people, or at any rate his own opponents among the people, would accuse him of complicity in the murder of the king, if not of actually instigating the murderer. David would never have allowed such considerations as these to lead him into unjust severity. And his conduct requires no such half vindication. Even on the supposition that Saul had asked the Amalekite to give him his death-thrust, as he said he had, it was a crime deserving of punishment to fulfil this request, the more especially as nothing is said about any such mortal wounding of Saul as rendered his escape or recovery impossible, so that it could be said that it would have been cruel under such circumstances to refuse his request to be put to death. If Saul's life was still \"full in him,\" as the Amalekite stated, his position was not so desperate as to render it inevitable that he should fall into the hands of the Philistines. Moreover, the supposition was a very natural one, that he had slain the king for the sake of a reward. But slaying the king, the anointed of the Lord, was in itself a crime that deserved to be punished with death. What David might more than once have done, but had refrained from doing from holy reverence for the sanctified person of the king, this foreigner, a man belonging to the nation of the Amalekites, Israel's greatest foes, had actually done for the sake of gain, or at any rate pretended to have done. Such a crime must be punished with death, and that by David who had been chosen by God and anointed as Saul's successor, and whom the Amalekite himself acknowledge in that capacity, since otherwise he would not have brought him the news together with the royal diadem.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Samuel 15:1",
+      "note_ref": "MHC/9/15/1",
+      "cites": [
+        "1 Samuel 15:7-8"
+      ],
+      "text": "Here, I. Samuel, in God's name, solemnly requires Saul to be obedient to the command of God, and plainly intimates that he was now about to put him upon a trial, in one particular instance, whether he would be obedient or no, Sa1 15:1. And the making of this so expressly the trial of his obedience did very much aggravate his disobedience. 1. He reminds him of what God had done for him: \"The Lord sent me to anoint thee to be a king. God gave thee thy power, and therefore he expects thou shouldst use thy power for him. He put honour upon thee, and now thou must study how to do him honour. He made thee king over Israel, and now thou must plead Israel's cause and avenge their quarrels. Thou art advanced to command Israel, but know that thou art a subject to the God of Israel and must be commanded by him.\" Men's preferment, instead of releasing them from their obedience to God, obliges them so much the more to it. Samuel had himself been employed to anoint Saul, and therefore was the fitter to be send with these orders to him. 2. He tells him, in general, that, in consideration of this, whatever God commanded him to do he was bound to do it: Now therefore hearken to the voice of the Lord. Note, God's favours to us lay strong obligations upon us to be obedient to him. This we must render, Psa 116:12.\nII. He appoints him a particular piece of service, in which he must now show his obedience to God more than in any thing he had done yet. Samuel premises God's authority to the command: Thus says the Lord of hosts, the Lord of all hosts, of Israel's hosts. He also gives him a reason for the command, that the severity he must use might not seem hard: I remember that which Amalek did to Israel, Sa1 15:2. God had an ancient quarrel with the Amalekites, for the injuries they did to his people Israel when he brought them out of Egypt. We have the story, Exo 17:8, etc., and the crime is aggravated, Deu 25:18. He basely smote the hindmost of them, and feared not God. God then swore that he would have war with Amalek from generation to generation, and that in process of time he would utterly put out the remembrance of Amalek; this is the work that Saul is now appointed to do (Sa1 15:3): \"Go and smite Amalek. Israel is now strong, and the measure of the iniquity of Amalek is now full; now go and make a full riddance of that devoted nation.\" He is expressly commanded to kill and slay all before him, man and woman, infant and suckling, and not spare them out of pity; also ox and sheep, camel and ass, and not spare them out of covetousness. Note, 1. Injuries done to God's Israel will certainly be reckoned for sooner or later, especially the opposition given them when they are coming out of Egypt. 2. God often bears long with those that are marked for ruin. The sentence passed is not executed speedily. 3. Though he bear long, he will not bear always. The year of recompence for the controversy of Israel will come at last. Though divine justice strikes slowly it strikes surely. 4. The longer judgment is delayed many times the more severe it is when it comes. 5. God chooses out instruments to do his work that are fittest for it. This was bloody work, and therefore Saul who was a rough and severe man must do it.\nIII. Saul hereupon musters his forces, and makes a descent upon the country of Amalek. It was an immense army that he brought into the field (Sa1 15:4): 200,000 footmen. When he came to engage the Philistines, and the success was hazardous, he had but 600 attending him, Sa1 13:15. But now that he was to attack the Amalekites by express order from heaven, in which he was sure of victory, he had thousands at his call. But, whatever it was at other times, it was not now for the honour of Judah that their forces were numbered by themselves, for their quota was scandalously short (whatever was the reason), but a twentieth part of the whole, for they were by 10,000, when the other ten tribes (for I except Levi) brought into the field 200,000. The day of Judah's honour drew near, but had not yet come. Saul numbered them in Telaim, which signifies lambs. He numbered then like lambs (so the vulgar Latin), numbered them by the paschal lambs (so the Chaldee), allowing ten to a lamb, a way of numbering used by the Jews in the later times of their nation. Saul drew all his forces to the city of Amalek, that city that was their metropolis (Sa1 15:5), that he might provoke them to give him battle.\nIV. He gave friendly advice to the Kenites to separate themselves from the Amalekites among whom they dwelt, while this execution was in doing, Sa1 15:6. Herein he did prudently and piously, and, it is probable, according to the direction Samuel gave him. The Kenites were of the family and kindred of Jethro, Moses's father-in-law, a people that dwelt in tents, which made it easy for them, upon every occasion, to remove to other lands not appropriated. Many of them, at this time, dwelt among the Amalekites, where, though they dwelt in tents, they were fortified by nature, for they put their nest in a rock, being hardy people that could live any where, and affected fastnesses, Num 24:21. Balaam had foretold that they should be wasted, Num 24:22. However, Saul must not waste them. But, 1. He acknowledges the kindness of their ancestors to Israel, when they came out of Egypt. Jethro and his family had been very helpful and serviceable to them in their passage through the wilderness, had been to them instead of eyes, and this is remembered to their posterity many ages after. Thus a good man leaves the divine blessing for an inheritance to his children's children; those that come after us may be reaping the benefit of our good works when we are in our graves. God is not unrighteous to forget the kindnesses shown to his people; but they shall be remembered another day, at furthest in the great day, and recompensed in the resurrection of the just. I was hungry, and you gave me meat. God's remembering the kindness of the Kenites' ancestors in favour to them, at the same time when he was punishing the injuries done by the ancestors of the Amalekites, helped to clear the righteousness of God in that dispensation. If he entail favours, why may he not entail frowns? He espouses his people's cause, so as to bless those that bless them; and therefore so as to curse those that curse them, Num 24:9; Gen 12:3. They cannot themselves requite the kindnesses nor avenge the injuries done them, but God will do both. 2. He desires them to remove their tents from among the Amalekites: Go, depart, get you down from among them. When destroying judgments are abroad God will take care to separate between the precious and the vile, and to hide the meek of the earth in the day of his anger. It is dangerous being found in the company of God's enemies, and it is our duty and interest to come out from among them, lest we share in their sins and plagues, Rev 18:4. The Jews have a saying, Woe to the wicked man and woe to his neighbour.\nV. Saul prevailed against the Amalekites, for it was rather an execution of condemned malefactors than a war with contending enemies. The issue could not be dubious when the cause was just and the call so clear: He smote them (Sa1 15:7), utterly destroyed them, Sa1 15:8. Now they paid dearly for the sin of their ancestors. God sometimes lays up iniquity for the children. They were idolaters, and were guilty of many other sins, for which they deserved to fall under the wrath of God; yet, when God would reckon with them, he fastened upon the sin of their ancestors in abusing his Israel as the ground of his quarrel. Lord, How unsearchable are thy judgments, yet how incontestable is thy righteousness!\nVI. Yet he did his work by halves, Sa1 15:9. 1. He spared Agag, because he was a king like himself, and perhaps in hope to get a great ransom for him. 2. He spared the best of the cattle, and destroyed only the refuse, that was good for little. Many of the people, we may suppose, made their escape, and took their effects with them into other countries, and therefore we read of Amalekites after this; but that could not be helped. It was Saul's fault that he did not destroy such as came to his hands and were in his power. That which was now destroyed was in effect sacrificed to the justice of God, as the God to whom vengeance belongeth; and for Saul to think the torn and the sick, the lame and the lean, good enough for that, while he reserved for his own fields and his own table the firstlings and the fat, was really to honour himself more than God.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Samuel 15:10",
+      "note_ref": "MHC/9/15/10",
+      "cites": [
+        "1 Samuel 15:7-8"
+      ],
+      "text": "Saul is here called to account by Samuel concerning the execution of his commission against the Amalekites; and remarkable instances we are here furnished with of the strictness of the justice of God and the treachery and deceitfulness of the heart of man. We are here told,\nI. What passed between God and Samuel, in secret, upon this occasion, Sa1 15:10, Sa1 15:11. 1. God determines Saul's rejection, and acquaints Samuel with it: It repenteth me that I have set up Saul to be king. Repentance in God is not, as it is in us, a change of his mind, but a change of his method or dispensation. He does not alter his will, but wills an alteration. The change was in Saul: He has turned back from following me; this construction God put upon the partiality of his obedience, and the prevalency of his covetousness. And hereby he did himself make God his enemy. God repented that he had given Saul the kingdom and the honour and power that belonged to it: but he never repented that he had given any man wisdom and grace, and his fear and love; these gifts and callings of God are without repentance. 2. Samuel laments and deprecates it. It grieved Samuel that Saul had forfeited God's favour, and that God had resolved to cast him off; and he cried unto the Lord all night, spent a whole night in interceding for him, that this decree might not go forth against him. When others were in their beds sleeping, he was upon his knees praying and wrestling with God. He did not thus deprecate his own exclusion from the government; nor was he secretly pleased, as many a one would have been, that Saul, who succeeded him, was so soon laid aside, but on the contrary prayed earnestly for his establishment, so far was he from desiring that woeful day. The rejection of sinners is the grief of good people; God delights not in their death, nor should we.\nII. What passed between Samuel and Saul in public. Samuel, being sent of God to him with these heavy tidings, went, as Ezekiel, in bitterness of soul, to meet him, perhaps according to an appointment when Saul went forth on this expedition, for Saul had come to Gilgal (Sa1 15:12), the place where he was made king (Sa1 11:15), and were now he would have been confirmed if he had approved himself well in the trial of his obedience. But Samuel was informed that Saul had set up a triumphal arch, or some monument of his victory, at Carmel, a city in the mountains of Judah, seeking his own honour more than the honour of God, for he set up this place (or hand, as the word is) for himself (he had more need to have been repenting of his sin and making his peace with God than boasting of his victory), and also that he had marched in great state to Gilgal, for this seems to be intimated in the manner of expression: He has gone about, and passed on, and gone down, with a great deal of pomp and parade. There Samuel gave him the meeting, and,\n1. Saul makes his boast to Samuel of his obedience, because that was the thing by which he was now to signalize himself (Sa1 15:13): \"Blessed be thou of the Lord, for thou sendest me upon a good errand, in which I have had great success, and I have performed the commandment of the Lord.\" It is very likely, if his conscience had now flown in his face at this time and charged him with disobedience, he would not have been so forward to proclaim his disobedience; for by this he hoped to prevent Samuel's reproving him. Thus sinners think, by justifying themselves, to escape being judged of the Lord; whereas the only way to do that is by judging ourselves. Those that boast most of their religion may be suspected of partiality and hypocrisy in it.\n2. Samuel convicts him by a plain demonstration of his disobedience. \"Hast thou performed the commandment of the Lord? What means then the bleating of the sheep?\" Sa1 15:14. Saul would needs have it thought than God Almighty was wonderfully beholden to him for the good service he had done; but Samuel shows him that God was so far from being a debtor to him that he had just cause of action against him, and produces for evidence the bleating of the sheep, and the lowing of the oxen, which perhaps Saul appointed to bring up the rear of his triumph, but Samuel appears to them as witnesses against him. He needed not go far to disprove his professions. The noise the cattle made (like the rust of silver, Jam 5:3) would be a witness against him. Note, It is no new thing for the plausible professions and protestations of hypocrites to be contradicted and disproved by the most plain and undeniable evidence. Many boast of their obedience to the command of God; but what mean then their indulgence of the flesh, their love of the world, their passion and uncharitableness, and their neglect of holy duties, which witness against them?\n3. Saul insists upon his own justification against this charge, Sa1 15:15. The fact he cannot deny; the sheep and oxen were brought from the Amalekites. But, (1.) It was not his fault, for the people spared them; as if they durst have done it without the express orders of Saul, when they knew it was against the express orders of Samuel. Note, Those that are willing to justify themselves are commonly very forward to condemn others, and to lay the blame upon any rather than take it to themselves. Sin is a brat that nobody cares to have laid at his doors. It is the sorry subterfuge of an impenitent heart, that will not confess its guilt, to lay the blame on those that were tempters, or partners, or only followers in it. (2.) It was with a good intention: \"It was to sacrifice to the Lord thy God. He is thy God, and thou wilt not be against any thing that is done, as this is, for his honour.\" This was a false plea, for both Saul and the people designed their own profit in sparing the cattle. But, if it had been true, it would still have been frivolous, for God hates robbery for burnt-offering. God appointed these cattle to be sacrificed to him in the field, and therefore will give those no thanks that bring them to be sacrificed at his altar; for he will be served in his own way, and according to the rule he himself has prescribed. Nor will a good intention justify a bad action.\n4. Samuel overrules, or rather overlooks, his plea, and proceeds, in God's name, to give judgment against him. He premises his authority. What he was about to say was what the Lord had said to him (Sa1 15:16), otherwise he would have been far from passing so severe a censure upon him. Those who complain that their ministers are too harsh with them should remember that, while they keep to the word of God, they are but messengers, and must say as they are bidden, and therefore be willing, as Saul himself here was, that they should say on. Samuel delivers his message faithfully. (1.) He reminds Saul of the honour of God had done him in making him king (Sa1 15:17), when he was little in his own sight. God regarded the lowness of his state and rewarded the lowliness of his spirit. Note, Those that are advanced to honour and wealth ought often to remember their mean beginnings, that they may never think highly of themselves, but always study to do great things for the God that had advanced them. (2.) He lays before him the plainness of the orders he was to execute (Sa1 15:18): The Lord sent thee on a journey; so easy was the service, and so certain the success, that it was rather to be called a journey than a war. The work was honourable, to destroy the sworn enemies of God and Israel; and had he denied himself, and set aside the consideration of his own profit so far as to have destroyed all that belonged to Amalek, he would have been no loser by it at last, nor have gone this warfare on his own charges. God would no doubt have made it up to him, so that he should have no need of spoil. And therefore, (3.) He shows him how inexcusable he was in aiming to make a profit of this expedition, and to enrich himself by it (Sa1 15:19): \"Wherefore then didst thou fly upon the spoil, and convert that to thy own use which was to have been destroyed for God's honour?\" See what evil the love of money is the root of; but see what is the sinfulness of sin, and that in it which above any thing else makes it evil in the sight of the Lord. It is disobedience: Thou didst not obey the voice of the Lord.\n5. Saul repeats his vindication of himself, as that which, in defiance of conviction, he resolved to abide by, Sa1 15:20, Sa1 15:21. He denies the charge (Sa1 15:20): \"Yea, I have obeyed, I have done all I should do;\" for he had done all which he thought he needed to do, so much wiser was he in his own eyes than God himself. God bade him kill all, and yet he puts in among the instances of his obedience that he brought Agag alive, which he thought was as good as if he had killed him. Thus carnal deceitful hearts think to excuse themselves from God's commandments with their own equivalents. He insists upon it that he has utterly destroyed the Amalekites themselves, which was the main thing intended; but, as to the spoil, he owns it should have been utterly destroyed; so that he knew his Lord's will, and was under no mistake about the command. But he thought that would be wilful waste; the cattle of the Midianites was taken for a prey in Moses's time (Num 31:32, etc.), and why not the cattle of the Amalekites now? Better it should be prey to the Israelites than to the fowls of the air and the wild beasts; and therefore he connived at the people's carrying it away. But it was their doing and not his; and, besides, it was for sacrifice to the Lord here at Gilgal, whither they were now bringing them. See what a hard thing it is to convince the children of disobedience of their sin and to strip them of their fig-leaves.\n6. Samuel gives a full answer to his apology, since he did insist upon it, Sa1 15:22, Sa1 15:23. He appeals to his own conscience: Has the Lord as great delight in sacrifices as in obedience? Though Saul was not a man of any great acquaintance with religion, yet he could not but know this, (1.) That nothing is so pleasing to God as obedience, no, not sacrifice and offering, and the fat of rams. See here what we should seek and aim at in all the exercises of religion, even acceptance with God, that he may delight in what we do. If God be well pleased with us and our services, we are happy, we have gained our point, but otherwise to what purpose is it? Isa 1:11. Now here we are plainly told that humble, sincere, and conscientious obedience to the will of God, is more pleasing and acceptable to him than all burnt-offerings and sacrifices. A careful conformity to moral precepts recommends us to God more than all ceremonial observances, Mic 6:6-8; Hos 6:6. Obedience is enjoyed by the eternal law of nature, but sacrifice only by a positive law. Obedience was the law of innocency, but sacrifice supposes sin come into the world, and is but a feeble attempt to take that away which obedience would have prevented. God is more glorified and self more denied by obedience than by sacrifice. It is much easier to bring a bullock or lamb to be burnt upon the altar than to bring every high thought into obedience to God and the will subject to his will. Obedience is the glory of angels (Psa 103:20), and it will be ours. (2.) That nothing is so provoking to God as disobedience, setting up our wills in competition with his. This is here called rebellion and stubbornness, and is said to be as bad as witchcraft and idolatry, Sa1 15:23. It is as bad to set up other gods as to live in disobedience to the true God. Those that are governed by their own corrupt inclinations, in opposition to the command of God, do, in effect, consult the teraphim (as the word here is for idolatry) or the diviners. It was disobedience that made us all sinners (Rom 5:19), and this is the malignity of sin, that it is the transgression of the law, and consequently it is enmity to God, Rom 8:7. Saul was a king, but if he disobey the command of God, his royal dignity and power will not excuse him from the guilt of rebellion and stubbornness. It is not the rebellion of the people against their prince, but of a prince against God, that this text speaks of.\n7. He reads his doom: in short, \"Because thou has rejected the word of the Lord, hast despised it (so the Chaldee), hast made nothing of it (so the Septuagint), hast cast off the government of it, therefore he has rejected thee, despised and made nothing of thee, but cast thee off from being king. He that made thee king has determined to unmake thee again.\" Those are unfit and unworthy to rule over men who are not willing that God should rule over them."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Samuel 15:32",
+      "note_ref": "MHC/9/15/32",
+      "cites": [
+        "1 Samuel 15:33"
+      ],
+      "text": "Samuel, as a prophet, is here set over kings, Jer 1:10.\nI. He destroys king Agag, doubtless by such special direction from heaven as none now can pretend to. He hewed Agag in pieces. Some think he only ordered it to be done; or perhaps he did it with his own hands, as a sacrifice to God's injured justice (Sa1 15:33), and sacrifices used to be cut in pieces. Now observe in this,\n1. How Agag's present vain hopes were frustrated: He came delicately, in a stately manner, to show that he was a king, and therefore to be treated with respect, or in a soft effeminate manner, as one never used to hardship, that could not set the sole of his foot to the ground for tenderness and delicacy (Deu 28:56), to move compassion: and he said, \"Surely, now that the heat of the battle is over, the bitterness of death is past, Sa1 15:32. Having escaped the sword of Saul,\" that man of war, he thought he was in no danger from Samuel, and old prophet, a man of peace. Note, (1.) There is bitterness in death, it is terrible to nature. Surely death is bitter, so divers versions read those words of Agag; as the Septuagint read the former clause, He came trembling. Death will dismay the stoutest heart. (2.) Many think the bitterness of death is past when it is not so; they put that evil day far from them which is very near. True believers may, through grace, say this, upon good grounds, though death be not past, the bitterness of it is. O death! where is thy sting?\n2. How his former wicked practices were now punished. Samuel calls him to account, not only for the sins of his ancestors, but his own sins: Thy sword has made women childless, Sa1 15:33. He trod in the steps of his ancestors' cruelty, and those under him, it is likely, did the same; justly therefore is all the righteous blood shed by Amalek required of this generation, Mat 23:36. Agag, that was delicate and luxurious himself, was cruel and barbarous to others. It is commonly so: those who are indulgent in their appetites are not less indulgent of their passions. But blood will be reckoned for; even kings must account to the King of kings for the guiltless blood they shed or cause to be shed. It was that crime of king Manasseh which the Lord would not pardon, Kg2 24:4. See Rev 13:10.\nII. He deserts king Saul, takes leave of him (Sa1 15:34), and never came any more to see him (Sa1 15:35), to advise or assist him in any of his affairs, because Saul did not desire his company nor would he be advised by him. He looked upon him as rejected of God, and therefore he forsook him. Though he might sometimes see him accidentally (as Sa1 19:24), yet he never came to see him out of kindness or respect. Yet he mourned for Saul, thinking it a very lamentable thing that a man who stood so fair for great things should ruin himself so foolishly. He mourned for the bad state of the country, to which Saul was likely to have been so great a blessing, but now would prove a curse and a plague. He mourned for his everlasting state, having no hopes of bringing him to repentance. When he wept for him, it is likely, he made supplication, but the Lord had repented that he had made Saul king, and resolved to undo that work of his, so that Samuel's prayers prevailed not for him. Observe, We must mourn for the rejection of sinners, 1. Though we withdraw from them, and dare not converse familiarly with them. Thus the prophet determines to leave his people and go from them, and yet to weep day and night for them, Jer 9:1, Jer 9:2. 2. Though they do not mourn for themselves. Saul seems unconcerned at the tokens of God's displeasure which he lay under, and yet Samuel mourns day and night for him. Jerusalem was secure when Christ wept over it."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Samuel 27:8",
+      "note_ref": "MHC/9/27/8",
+      "cites": [
+        "1 Samuel 27:8-9"
+      ],
+      "text": "Here is an account of David's actions while he was in the land of the Philistines, a fierce attack he made upon some remains of the devoted nations, his success in it, and the representation he gave of it to Achish. 1. We may acquit him of injustice and cruelty in this action because those people whom he cut off were such as heaven had long since doomed to destruction, and he that did it was one whom heaven had ordained to dominion; so that the thing was very fit to be done, and he was very fit to do it. It was not for him that was anointed to fight the Lord's battles to sit still in sloth, however he might think fit, in modesty, to retire. He desired to be safe from Saul only that he might expose himself for Israel. He avenged an old quarrel that God had with these nations, and at the same time fetched in provisions for himself and his army, for by their swords they must live. The Amalekites were to be all cut off. Probably the Geshurites and Gezrites were branches of Amalek. Saul was rejected for sparing them, David makes up the deficiency of his obedience before he succeeds him. He smote them, and left none alive, Sa1 27:8, Sa1 27:9. The service paid itself, for they carried off abundance of spoil, which served for the subsistence of David's forces. 2. Yet we cannot acquit him of dissimulation with Achish in the account he gave him of this expedition. (1.) David, it seems, was not willing that he should know the truth, and therefore spared none to carry tidings to Gath (Sa1 27:11), not because he was ashamed of what he had done as a bad thing, but because he was afraid, if the Philistines knew it, they would be apprehensive of danger to themselves or their allies by harbouring him among them and would expel him from their coasts. It would be easy to conclude, If so he did, so will be his manner, and therefore he industriously conceals it from them, which, it seems, he could do by putting them all to the sword, for none of their neighbours would inform against him, nor perhaps would soon come to the knowledge of what was done, intelligence not being so readily communicated then as now. (2.) He hid it from Achish with an equivocation not at all becoming his character. Being asked which way he had made his sally, he answered, Against the south of Judah, v. 13. It was true he had invaded those countries that lay south of Judah, but he made Achish believe he had invaded those that lay south in Judah, the Ziphites for example, that had once and again betrayed him; so Achish understood him, and thence inferred that he had made his people Israel to abhor him, and so riveted himself in the interest of Achish. The fidelity of Achish to him, his good opinion of him, and the confidence he put in him, aggravate his sin in deceiving him thus, which, with some other such instances, David seems penitently to reflect upon when he prays, Remove from me the way of lying."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Samuel 30:1",
+      "note_ref": "MHC/9/30/1",
+      "cites": [
+        "1 Samuel 30:1"
+      ],
+      "text": "Here we have, I. The descent which the Amalekites made upon Ziklag in David's absence, and the desolations they made there. They surprised the city when it was left unguarded, plundered it, burnt it, and carried all the women and children captives, Sa1 30:1, Sa1 30:2. They intended, by this to revenge the like havoc that David had lately made of them and their country, Sa1 27:8. He that had made so many enemies ought not to have left his own concerns so naked and defenceless. Those that make bold with others must expect that others will make as bold with them and provide accordingly. Now observe in this, 1. The cruelty of Saul's pity (as it proved) in sparing the Amalekites; if he had utterly destroyed them, as he ought to have done, these would not have been in being to do this mischief. 2. How David was corrected for being so forward to go with the Philistines against Israel. God showed him that he had better have staid at home and looked after his own business. When we go abroad in the way of our duty we may comfortably hope that God will take care of our families in our absence, but not otherwise. 3. How wonderfully God inclined the hearts of these Amalekites to carry the women and children away captives, and not to kill them. When David invaded them he put all to the sword (Sa1 27:9), and no reason can be given why they did not retaliate upon this city, but that God restrained them; for he has all hearts in his hands, and says to the fury of the most cruel men, Hitherto thou shalt come, and no further. Whether they spared them to lead them in triumph, or to sell them, or to use them for slaves, God's hand must be acknowledged, who designed to make use of the Amalekites for the correction, not for the destruction, of the house of David.\nII. The confusion and consternation that David and his men were in when they found their houses in ashes and their wives and children gone into captivity. Three days' march they had from the camp of the Philistines to Ziklag, and now that they came thither weary, but hoping to find rest in their houses and joy in their families, behold a black and dismal scene was presented to them (Sa1 30:3), which made them all weep (David himself not excepted), though they were men of war, till they had no more power to weep, Sa1 30:4. The mention of David's wives, Ahinoam and Abigail, and their being carried captive, intimates that this circumstance went nearer his heart than any thing else. Note, It is no disparagement to the boldest and bravest spirits to lament the calamities of relations and friends. Observe, 1. This trouble came upon them when they were absent. It was the ancient policy of Amalek to take Israel at an advantage. 2. It met them at their return, and, for aught that appears, their own eyes gave them the first intelligence of it. Note, When we go abroad we cannot foresee what evil tidings may meet us when we come home again. The going out may be very cheerful, and yet the coming in be very doleful. Boast not thyself therefore of tomorrow, nor of tonight either, for thou knowest not what a day, or a piece of a day, may bring forth, Pro 27:1. If, when we come off a journey, we find our tabernacles in peace, and not laid waste as David here found his, let the Lord be praised for it.\nIII. The mutiny and murmuring of David's men against him (Sa1 30:6): David was greatly distressed, for, in the midst of all his losses, his own people spoke of stoning him, 1. Because they looked upon him as the occasion of their calamities, by the provocation he had given the Amalekites, and his indiscretion in leaving Ziklag without a garrison in it. Thus apt are we, when we are in trouble, to fly into a rage against those who are in any way the occasion of our trouble, while we overlook the divine providence, and have not that regard to the operations of God's hand in it which would silence our passions, and make us patient. 2. Because now they began to despair of that preferment which they had promised themselves in following David. They hoped ere this to have been all princes; and now to find themselves all beggars was such a disappointment to them as made them grow outrageous, and threaten the life of him on whom, under God, they had the greatest dependence. What absurdities will not ungoverned passions plunge men into? This was a sore trial to the man after God's own heart, and could not but go very near him. Saul had driven him from his country, the Philistines had driven him from their camp, the Amalekites had plundered his city, his wives were taken prisoners, and now, to complete his woe, his own familiar friends, in whom he trusted, whom he had sheltered, and who did eat of his bread, instead of sympathizing with him and offering him any relief, lifted up the heel against him and threatened to stone him. Great faith must expect such severe exercises. But it is observable that David was reduced to this extremity just before his accession to the throne. At this very time, perhaps, the stroke was struck which opened the door to his advancement. Things are sometimes at the worst with the church and people of God just before they begin to mend.\nIV. David's pious dependence upon the divine providence and grace in this distress: But David encouraged himself in the Lord his God. His men fretted at their loss. The soul of the people was bitter, so the word is. Their own discontent and impatience added wormwood and gall to the affliction and misery, and made their case doubly grievous. But 1. David bore it better, though he had more reason than any of them to lament it; they gave liberty to their passions, but he set his graces on work, and by encouraging himself in God, while they dispirited each other, he kept his spirit calm and sedate. Or, 2. There may be a reference to the threatening words his men gave out against him. They spoke of stoning him; but he, not offering to avenge the affront, nor terrified by their menaces, encouraged himself in the Lord his God, believed, and considered with application to his present case, the power and providence of God, his justice and goodness, the method he commonly takes of bringing low and then raising up, his care of his people that serve him and trust in him, and the particular promises he had made to him of bringing him safely to the throne; with these considerations he supported himself, not doubting but the present trouble would end well. Note, Those that have taken the Lord for their God may take encouragement from their relation to him in the worst of times. It is the duty and interest of all good people, whatever happens, to encourage themselves in God as their Lord and their God, assuring themselves that he can and will bring light out of darkness, peace out of trouble, and good out of evil, to all that love him and are the called according to his purpose, Rom 8:28. It was David's practice, and he had the comfort of it, What time I am afraid I will trust in thee. When he was at his wits' end he was not at his faith's end."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Samuel 30:7",
+      "note_ref": "MHC/9/30/7",
+      "cites": [
+        "1 Samuel 30:17"
+      ],
+      "text": "Solomon observes that the righteous is delivered out of trouble and the wicked cometh in his stead, that the just falleth seven times a-day and riseth again; so it was with David. Many were his troubles, but the Lord delivered him out of them all, and particularly out of this of which we have here an account.\nI. He enquired of the Lord both concerning his duty - Shall I pursue after this troop? and concerning the event - Shall I overtake them? Sa1 30:8. It was a great advantage to David that he had the high priest with him and the breast-plate of judgment, which, as a public person, he might consult in all his affairs, Num 27:21. We cannot think that he left Abiathar and the ephod at Ziklag, for then he and it would have been carried away by the Amalekites, unless we may suppose them hidden by a special providence, that they might be ready for David to consult at his return. If we conclude that David had his priest and ephod with him in the camp of the Philistines, it was certainly a great neglect in him that he did not enquire of the Lord by them concerning his engagement to Achish. Perhaps he was ashamed to own his religion so far among the uncircumcised; but now he begins to apprehend that this trouble is brought upon him to correct him for that oversight, and therefore the first thing he does is to call for the ephod. It is well if we get this good by our afflictions, to be reminded by them of neglected duties, and particularly to be quickened by them to enquire of the Lord. See Ch1 15:13. David had no room to doubt but that his war against these Amalekites was just, and he had an inclination strong enough to set upon them when it was for the recovery of that which was dearest to him in this world; and yet he would not go about it without asking counsel of God, thereby owning his dependence upon God and submission to him. If we thus, in all our ways, acknowledge God, we may expect that he will direct our steps, as he did David's here, answering him above what he asked, with an assurance that he should recover all.\nII. He went himself in person, and took with him all the force he had, in pursuit of the Amalekites, Sa1 30:9, Sa1 30:10. See how quickly, how easily, how effectually the mutiny among the soldiers was quelled by his patience and faith. When they spoke of stoning him (Sa1 30:6), if he had spoken of hanging them, or had ordered that the ringleaders of the faction should immediately have their heads struck off, though it would have been just, yet it might have been of pernicious consequence to his interest in this critical juncture; and, while he and his men were contending, the Amalekites would have clearly carried off their spoil. But when he, as a deaf man, heard not, smothered his resentments, and encouraged himself in the Lord his God, the tumult of the people was stilled by his gentleness and the power of God on their hearts; and, being thus mildly treated, they are now as ready to follow his foot as they were but a little before to fly in his face. Meekness is the security of any government. All his men were willing to go along with him in pursuit of the Amalekites, and he needed them all; but he was forced to drop a third part of them by the way; 200 out of 600 were so fatigued with their long march, and so sunk under the load of their grief, that they could not pass the brook Besor, but staid behind there. This was, 1. A great trial of David's faith, whether he could go on, in a dependence upon the word of God, when so many of his men failed him. When we are disappointed and discouraged in our expectations from second causes, then to go on with cheerfulness, confiding in the divine power, this is giving glory to God, by believing against hope, in hope. 2. A great instance of David's tenderness to his men, that he would by no means urge them beyond their strength, though the case itself was so very urgent. The Son of David thus considers the frame of his followers, who are not all alike strong and vigorous in their spiritual pursuits and conflicts; but, where we are weak, there he is kind; nay, more there he is strong, Co2 12:9, Co2 12:10.\nIII. Providence threw one in their way that gave them intelligence of the enemy's motions, and guided theirs; a poor Egyptian lad, scarcely alive, is made instrumental of a great deal of good to David. God chooses the foolish things of the world, with them to confound the wise. Observe, 1. His master's cruelty to him. He had got out of him all the service he could, and when the lad fell sick, probably being over-toiled with his work, he barbarously left him to perish in the field, when he was in no such haste but he might have put him into some of the carriages, and brought him home, or, at least, have left him wherewithal to support himself. That master has the spirit of an Amalekite, not of an Israelite, that can thus use a servant worse than one would use a beast. The tender mercies of the wicked are cruel. This Amalekite thought he should now have servants enough of the Israelite-captives, and therefore cared not what became of his Egyptian slave, but could willingly let him die in a ditch for want of necessaries, while he himself was eating and drinking, Sa1 30:16. Justly did Providence make this poor servant, that was thus basely abused, instrumental towards the destruction of a whole army of Amalekites and his master among the rest; for God hears the cry of oppressed servants. 2. David's compassion to him. Though he had reason to think he was one of those that had helped to destroy Ziklag, yet, finding him in distress, he generously relieved him, not only with bread and water (Sa1 30:11), but with figs and raisins, Sa1 30:12. Though the Israelites were in haste, and had no great plenty for themselves, yet they would not forbear to deliver one that was drawn unto death, nor say, Behold, we knew it not, Pro 24:11, Pro 24:12. Those are unworthy the name of Israelites who shut up the bowels of their compassion from persons in distress. It was also prudently done to relieve this Egyptian; for, though despicable, he was capable of doing them service: so it proved, though they were not certain of this when they relieved him. It is a good reason why we should neither do an injury nor deny a kindness to any man that we know not but, some time or other, it may be in his power to return either a kindness or an injury. 3. The intelligence David received from this poor Egyptian when he had come to himself. He gave him an account concerning his party. (1.) What they had done (Sa1 30:14): We made an invasion, etc. The countries which David had pretended to Achish to have made an incursion upon (Sa1 27:10) they really had invaded and laid waste. What was then false now proved too true. (2.) Whither they had gone, Sa1 30:15. This he promised David to inform him of upon condition he would spare his life and protect him from his master, who, if he could hear of him again (he thought), would add cruelty to cruelty. Such an opinion this poor Egyptian had of the obligation of an oath that he desired no greater security for his life than this: Swear unto me by God, not by the gods of Egypt or Amalek, but by the one supreme God.\nIV. David, being directed to the place where they lay, securely celebrating their triumphs, fell upon them, and, as he used to pray, saw his desire upon his enemies. 1. The spoilers were cut off. The Amalekites, finding the booty was rich, and having got with it (as they thought) out of the reach of danger, were making themselves very merry with it, Sa1 30:16. All thoughts of war were laid aside, nor were they in any haste to house their prey, but spread themselves abroad on the earth in the most careless manner that could be, and there they were found eating, and drinking, and dancing, probably in honour of their idol-gods, to whom they gave the praise of their success. In this posture David surprised them, which made the conquest of them, and the blow he gave them, the more easy to him and the more dismal to them. Then are sinners nearest to ruin when they cry, Peace and safety, and put the evil day far from them. Nor does any thing give our spiritual enemies more advantage against us than sensuality and the indulgence of the flesh. Eating, and drinking, and dancing, have been the soft and pleasant way in which many have gone down to the congregation of the dead. Finding them thus off their guard, and from their arms (many of them, it may be, drunk, and unable to make any resistance), he put them all to the sword, and only 400 escaped, Sa1 30:17. Thus is the triumphing of the wicked short, and wrath comes on them, as on Belshazzar, when they are in the midst of their jollity. 2. The spoil was recovered and brought off, and nothing was lost, but a great deal gotten. (1.) They retrieved all their own (Sa1 30:18, Sa1 30:19): David rescued his two wives; this is mentioned particularly, because this pleased David more than all the rest of his achievements. Providence had so ordered it that the Amalekites carefully preserved all that they had taken, concluding that they kept it for themselves, though really they preserved it for the right owners, so that there was nothing lacking to them; so it proved, when they concluded all was gone: so much better is God oftentimes to us than our own fears. Our Lord Jesus was indeed the Son of David and the Son of Abraham, in this resembling them both (Abraham, Gen 14:16, and David here), that he took the prey from the mighty, and led captivity captive. But this was not all. (2.) They took all that belonged to the Amalekites besides (Sa1 30:20): Flocks and herds, either such as were taken from the Philistines and others, which David had the disposal of by the law of war; or perhaps he made a sally into the enemy's country, and fetched off these flocks and herds thence, as interest for his own. This drove was put in the van of the triumph, with this proclamation, \"This is David's spoil. This we may thank him for.\" Those who lately spoke of stoning him now caressed him and cried him up, because they got by him more than they had then lost. Thus are the world and its sentiments governed by interest.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "2 Samuel 1:1",
+      "note_ref": "MHC/10/1/1",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "Here is, I. David settling again in Ziklag, his own city, after he had rescued his family and friends out of the hands of the Amalekites (Sa2 1:1): He abode in Ziklag. Thence he was now sending presents to his friends (Sa1 30:26), and there he was ready to receive those that came into his interests; not men in distress and debt, as his first followers were, but persons of quality in their country, mighty men, men of war, and captains of thousands (as we find, Ch1 12:1, Ch1 12:8, Ch1 12:20); such came day by day to him, God stirring up their hearts to do so, till he had a great host, like the host of God, as it is said, Ch1 12:22. The secret springs of revolutions are unaccountable, and must be resolved into that Providence which turns all hearts as the rivers of water.\nII. Intelligence brought him thither of the death of Saul. It was strange that he did not leave some spies about the camp, to bring him early notice of the issue of the engagement, a sign that he desired not Saul's woeful day, nor was impatient to come to the throne, but willing to wait till those tidings were brought to him which many a one would have sent more than half-way to meet. He that believes does not make haste, takes good news when it comes and is not uneasy while it is in the coming. 1. The messenger presents himself to David as an express, in the posture of a mourner for the deceased prince and a subject to the succeeding one. He came with his clothes rent, and made obeisance to David (Sa2 1:2), pleasing himself with the fancy that he had the honour to be the first that did him homage as his sovereign, but it proved he was the first that received from him sentence of death as his judge. He told David he came from the camp of Israel, and intimated the bad posture it was in when he said he had escaped out of it, having much ado to get away with his life, Sa2 1:3. 2. He gives him a general account of the issue of the battle. David was very desirous to know how the matter went, as one that had more reason than any to be concerned for the public; and he told him very distinctly that the army of Israel was routed, many slain, and, among the rest, Saul and Jonathan, Sa2 1:4. He named only Saul and Jonathan, because he knew David would be most solicitous to know their fate; for Saul was the man whom he most feared and Jonathan the man whom he most loved. 3. He gives him a more particular account of the death of Saul. It is probable that David had heard, by the report of others, what the issue of the war was, for multitudes resorted to him, it should seem, in consequence; but he was desirous to know the certainty of the report concerning Saul and Jonathan, either because he was not forward to believe it or because he would not proceed upon it to make his own claims till he was fully assured of it. He therefore asks, How knowest thou that Saul and Jonathan are dead? in answer to which the young man tells him a very ready story, putting it past doubt that Saul was dead, for he himself had been not only an eye-witness of his death, but an instrument of it, and therefore David might rely upon his testimony. He says nothing, in his narrative, of the death of Jonathan, knowing how ungrateful that would be to David, but accounts only for Saul, thinking (as David understood it well enough, Sa2 4:10) that he should be welcome for that, and rewarded as one that brought good tidings. The account he gives of this matter is, (1.) Very particular. That he happened to go to the place where Saul was (Sa2 1:6) as a passenger, not as a soldier, and therefore an indifferent person, that he found Saul endeavouring to run himself through with his own spear, none of his attendants being willing to do it for him; and, it seems, he could not do it dexterously for himself: his hand and heart failed him. The miserable man had not courage enough either to live or die; he therefore called this stranger to him (Sa2 1:7), enquired what countryman he was, for, provided he was not a Philistine, he would gladly receive from his hand the coup de grace (as the French call it concerning those that are broken on the wheel) - the merciful stroke, that might dispatch him out of his pain. Understanding that he was an Amalekite (neither one of his subjects nor one of his enemies), he begs this favour from him (Sa2 1:9): Stand upon me, and slay me. He is now sick of his dignity and willing to be trampled upon, sick of his life and willing to be slain. Who then would be inordinately fond of life or honour? The case may he such, even with those that have no hope in their death, that yet they may desire to die, and death flee from them, Rev 9:6. Anguish has come upon me; so we read it, as a complaint of the pain and terror his spirit was seized with. If his conscience now brought to mind the javelin he had cast at David, his pride, malice, and perfidiousness, and especially the murder of the priests, no marvel that anguish came upon him: moles (they say) open their eyes when they are dying. Sense of unpardoned guilt will make death indeed the king of terrors. Those that have baffled their convictions will perhaps, in their dying moments, be overpowered by them. The margin reads it as a complaint of the inconvenience of his clothes; that his coat of mail which he had for defence, or his embroidered coat which he had for ornament, hindered him, that he could not get the spear far enough into his body, or so straitened him, now that his body swelled with anguish, that he could not expire. Let no man's clothes be his pride, for it may so happen that they may be his burden and snare. \"Hereupon,\" saith our young man, \"I stood upon him, and slew him\" (Sa2 1:10) at which word, perhaps, he observed David look upon him with some show of displeasure, and therefore he excuses himself in the next words: \"For I was sure he could not live; his life was whole in him indeed, but he would certainly have fallen into the hands of the Philistines or given himself another thrust.\" (2.) It is doubtful whether this story be true. If it be, the righteousness of God is to be observed, that Saul, who spared the Amalekites in contempt of the divine command, received his death's wound from an Amalekite. But most interpreters think that it was false, and that, though he might happen to be present, yet he was not assisting in the death of Saul, but told David so in expectation that he would reward him for it, as having done him a piece of good service. Those who would rejoice at the fall of an enemy are apt to measure others by themselves, and to think that they will do so too. But a man after God's own heart is not to be judged of by common men. I am not clear whether this young man's story was true or no: it may consist with the narrative in the chapter before, and be an addition to it, as Peter's account of the death of Judas (Act 1:18) is to the narrative, Mat 27:5. What is there called a sword may here be called a spear, or when he fell upon his sword he leaned on his spear. (3.) However he produced that which was proof sufficient of the death of Saul, the crown that was upon his head and the bracelet that was on his arm. It should seem Saul was so foolishly fond of these as to wear them in the field of battle, which made him a fair mark for the archers, by distinguishing him from those about him; but as pride (we say) feels no cold, so it fears no danger, from that which gratifies it. These fell into the hands of this Amalekite. Saul spared the best of their spoil, and now the best of his came to one of that devoted nation. He brought them to David, as the rightful owner of them now that Saul was dead, not doubting but by his officiousness herein to recommend himself to the best preferments in his court or camp. The tradition of the Jews is that this Amalekite was the son of Doeg (for the Amalekites were descendants from Edom), and that Doeg, who they suppose was Saul's armour-bearer, before he slew himself gave Saul's crown and bracelet (the ensigns of his royalty) to his son, and bade him carry them to David, to curry favour with him. But this is a groundless conceit. Doeg's son, it is likely, was so well known to Saul that he needed not ask him as he did this Amalekite (Sa2 1:8), Who art thou? David had been long waiting for the crown, and now it was brought to him by an Amalekite. See how God can serve his own purposes of kindness to his people, even by designing (ill-designing) men, who aim at nothing but to set up themselves.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "2 Samuel 1:11",
+      "note_ref": "MHC/10/1/11",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "Here is, I. David's reception of these tidings. So far was he from falling into a transport of joy, as the Amalekite expected, that he fell into a passion of weeping, rent his clothes (Sa2 1:11), mourned and fasted (Sa2 1:12), not only for his people Israel and Jonathan his friend but for Saul his enemy. This he did, not only as a man of honour, in observance of that decorum which forbids us to insult over those that are fallen, and requires us to attend our relations to the grave with respect, whatever we lost by their life or got by their death, but as a good man and a man of conscience, that had forgiven the injuries Saul had done him and bore him no malice. He knew it, before his son wrote it (Pro 24:17, Pro 24:18), that if we rejoice when our enemy falls the Lord sees it, and it displeases him; and that he who is glad at calamities shall not go unpunished, Pro 17:5. By this it appears that those passages in David's psalms which express his desire of, and triumph in, the ruin of his enemies, proceeded not from a spirit of revenge, nor any irregular passion, but from a holy zeal for the glory of God and the public good; for by what he did here, when he heard of Saul's death, we may perceive that his natural temper was very tender, and that he was kindly affected even to those that hated him. He was very sincere, no question, in his mourning for Saul, and it was not pretended, or a copy of his countenance only. His passion was so strong, on this occasion, that it moved those about him; all that were with him, at least in complaisance to him, rent their clothes, and they fasted till even, in token of their sorrow; and probably it was a religious fast: they humbled themselves under the hand of God, and prayed for the repairing of the breaches made upon Israel by this defeat.\nII. The reward he gave to him that brought him the tidings. Instead of preferring him, he put him to death, judged him out of his own mouth, as a murderer of his prince, and ordered him to be forthwith executed for the same. What a surprise was this to the messenger, who thought he should have favour shown him for his pains. In vain did he plead that he had Saul's order for it, that it was a real kindness to him, that he must inevitably have died; all those pleas are overruled: \"Thy mouth has testified against thee, saying, I have slain the Lord's anointed (Sa2 1:16), therefore thou must die.\" Now,\n1. David herein did not do unjustly. For, (1.) The man was an Amalekite. This, lest he should have mistaken it in his narrative, he made him own a second time, Sa2 1:13. That nation, and all that belonged to it, were doomed to destruction, so that, in slaying him, David did what his predecessor should have done and was rejected for not doing. (2.) He did himself confess the crime, so that the evidence was, by the consent of all laws, sufficient to convict him; for every man is presumed to make the best of himself. If he did as he said, he deserved to die for treason (Sa2 1:14), doing that which, it is probable, he heard Saul's own armour-bearer refuse to do; if not, yet by boasting that he had done it he plainly showed that if there had been occasion he would have done it, and would have made nothing of it; and, by boasting of it to David, he showed what opinion he had of him, that he would rejoice in it, as one altogether like himself, which was an intolerable affront to him who had himself once and again refused to stretch forth his hand against the Lord's anointed. And his lying to David, if indeed it was a lie, was highly criminal, and proved, as sooner or later that sin will prove, lying against his own head.\n2. He did honourably and well. Hereby he demonstrated the sincerity of his grief, discouraged all others from thinking by doing the like to ingratiate themselves with him, and did that which might probably oblige the house of Saul and win upon them, and recommend him to the people as one that was zealous for public justice, without regard to his own private interest. We may learn from it that to give assistance to any in murdering themselves, directly or indirectly, if done wittingly, incurs the guilt of blood, and that the lives of princes ought to be, in a special manner, precious to us."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 15:6",
+      "note_ref": "TYN/9/15/6",
+      "cites": [
+        "1 Samuel 15:7-8"
+      ],
+      "text": "15:6 The Kenites were nomadic metalworkers and descendants of Moses’ father-in-law (Judg 1:16). • you showed kindness: See Exod 18; Num 10:29-32."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 15:7",
+      "note_ref": "TYN/9/15/7",
+      "cites": [
+        "1 Samuel 15:7-8"
+      ],
+      "text": "15:7 The area where the Amalekites lived stretched from Havilah in northern Sinai to Shur near the eastern border of Egypt."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 15:8",
+      "note_ref": "TYN/9/15/8",
+      "cites": [
+        "1 Samuel 15:7-8"
+      ],
+      "text": "15:8 Agag was probably the descendant of an earlier king by the same name (see Num 24:7; cp. Esth 3:1)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 15:9",
+      "note_ref": "TYN/9/15/9",
+      "cites": [
+        "1 Samuel 15:7-8"
+      ],
+      "text": "15:9 Saul and his men directly disobeyed the Lord’s command to “completely destroy” the Amalekites (15:3). Though the entire army participated in the disobedience of God’s command, Saul alone was responsible as their leader."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 27:6",
+      "note_ref": "TYN/9/27/6",
+      "cites": [
+        "1 Samuel 27:8-9"
+      ],
+      "text": "27:6 Ziklag was about twenty-two miles southwest of Gath. • still belongs to the kings of Judah: This note was written between Solomon’s death (931 BC) and the start of the Babylonian exile (586 BC)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 27:8",
+      "note_ref": "TYN/9/27/8",
+      "cites": [
+        "1 Samuel 27:8-9"
+      ],
+      "text": "27:8 Geshurites . . . Girzites . . . Amalekites: These groups, who lived on the edges of the southern desert, had been troublesome to both Philistines and Israelites. (On the Amalekites, see 14:48; ch 15; on the Geshurites, see Josh 13:2, 13; 2 Sam 3:3.) • Shur was somewhere east of Egypt (1 Sam 15:7; Gen 16:7; 20:1; 25:18)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 27:9",
+      "note_ref": "TYN/9/27/9",
+      "cites": [
+        "1 Samuel 27:8-9"
+      ],
+      "text": "27:9 David did not leave one person alive: At least some of these people were among those whom God had commanded Israel to destroy (see 15:3; 28:18; Deut 25:17-19; Josh 13:13)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 27:10",
+      "note_ref": "TYN/9/27/10",
+      "cites": [
+        "1 Samuel 27:8-9"
+      ],
+      "text": "27:10 David misled Achish by claiming his attacks were against his own people of Judah and two other related groups. The text does not commend David for lying to the foreign king, but neither does it condemn him. • The Jerahmeelites were a Semitic tribe in southern Judah (1 Chr 2:9, 25-27, 33, 42). • Kenites: Moses’ father-in-law was a Kenite (Judg 1:16; 4:11; see also study note on 1 Sam 15:6)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 30:1",
+      "note_ref": "TYN/9/30/1",
+      "cites": [
+        "1 Samuel 30:1"
+      ],
+      "text": "30:1 Ziklag: See study note on 27:6. • Perhaps the Amalekites were retaliating for David’s raids against them (27:8)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 30:2",
+      "note_ref": "TYN/9/30/2",
+      "cites": [
+        "1 Samuel 30:1"
+      ],
+      "text": "30:2 There were no fighting men left in Ziklag to protect the women and children. The Amalekites had a reputation for preying on the weak and vulnerable (see Deut 25:17-18). • without killing anyone: The Amalekites were not being compassionate; women and children were more useful alive than dead."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 30:17",
+      "note_ref": "TYN/9/30/17",
+      "cites": [
+        "1 Samuel 30:17"
+      ],
+      "text": "30:17 The total number of Amalekite raiders must have been quite large if 400 young men escaped."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Samuel 1:6",
+      "note_ref": "TYN/10/1/6",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "1:6 The Amalekite man’s second lie is, I happened to be on Mount Gilboa. Instead, he had probably scoured the area after the battle, looking for victims whose valuables he could take."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Samuel 1:9",
+      "note_ref": "TYN/10/1/9",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "1:9 Then he begged me: This is the Amalekite’s third lie; instead, Saul was probably already dead (cp. 1 Sam 31:4-6)."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Samuel 1:10",
+      "note_ref": "TYN/10/1/10",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "1:10 The Amalekite apparently got to Saul’s corpse before the Philistines did, for they would not have left royal items such as his crown and his armband on his body. • Israel’s king wore a crown (Hebrew nezer, “consecration”) as a sign of his consecration to God and status as the Lord’s anointed (1:14)."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 15:5",
+      "note_ref": "GNV/9/15/5",
+      "cites": [
+        "1 Samuel 15:7-8"
+      ],
+      "text": "Or, fought in the valley."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 15:6",
+      "note_ref": "GNV/9/15/6",
+      "cites": [
+        "1 Samuel 15:7-8"
+      ],
+      "text": "For Jethro came to visit them, and gave them good counsel, Exod. 18:19.\nWhich were the posterity of Jethro Moses’ father-in-law."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 15:32",
+      "note_ref": "GNV/9/15/32",
+      "cites": [
+        "1 Samuel 15:33"
+      ],
+      "text": "He suspected nothing less than death, or as some write, he passed not for death.\nOr, in bonds."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 15:34",
+      "note_ref": "GNV/9/15/34",
+      "cites": [
+        "1 Samuel 15:33"
+      ],
+      "text": "Where his house was."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 27:7",
+      "note_ref": "GNV/9/27/7",
+      "cites": [
+        "1 Samuel 27:8-9"
+      ],
+      "text": "Hebrew, the number of the days."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 27:8",
+      "note_ref": "GNV/9/27/8",
+      "cites": [
+        "1 Samuel 27:8-9"
+      ],
+      "text": "These were the wicked Canaanites, whom God had appointed to be destroyed."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 27:10",
+      "note_ref": "GNV/9/27/10",
+      "cites": [
+        "1 Samuel 27:8-9"
+      ],
+      "text": "Or, against whom.\nWhich were a family of the tribe of Judah, 1 Chron. 2:9."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 30:1",
+      "note_ref": "GNV/9/30/1",
+      "cites": [
+        "1 Samuel 30:1"
+      ],
+      "text": "That is, destroyed the city.\nAfter that he departed from Achish."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 30:3",
+      "note_ref": "GNV/9/30/3",
+      "cites": [
+        "1 Samuel 30:1"
+      ],
+      "text": "For these only remained in the city, when the men were gone to war."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 30:16",
+      "note_ref": "GNV/9/30/16",
+      "cites": [
+        "1 Samuel 30:17"
+      ],
+      "text": "The wicked in their pomp and pleasures consider not the judgment of God, which is then at hand to smite them."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 30:17",
+      "note_ref": "GNV/9/30/17",
+      "cites": [
+        "1 Samuel 30:17"
+      ],
+      "text": "Some read, and unto the morrow of the two evenings: that is, three days."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Samuel 1:6",
+      "note_ref": "GNV/10/1/6",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "Or, captains.\nAs I fled in the chase."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Samuel 1:8",
+      "note_ref": "GNV/10/1/8",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "He was an Amalekite born, but renounced his country, and joined with the Israelites."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Samuel 1:9",
+      "note_ref": "GNV/10/1/9",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "Hebrew, stand upon.\nI am sorry, because I am yet alive."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Samuel 1:10",
+      "note_ref": "GNV/10/1/10",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "Hebrew, I stood upon him."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 153,
+  "question": "Did God tell Moses to number the Levites?",
+  "summary": "Numbers 1:48-49 records YHWH explicitly telling Moses NOT to number the tribe of Levi among the children of Israel, and Numbers 2:33 confirms the Levites were not numbered as commanded. But Numbers 3:14-15 has YHWH then telling Moses to number the Levites by their fathers' houses, every male a month old and upward.",
+  "consensus": "apparent_only",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Commentators resolve it by distinguishing two counts: Levi was barred from the general military census but enrolled separately on its own basis for tabernacle service.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The Skeptic's Annotated Bible presses the tension at face value, juxtaposing the command not to number Levi among the children of Israel against the command to number the children of Levi.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible, \"Did God tell Moses to number the Levites?\"",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Did God tell Moses to number the Levites?\" (skepticsannotatedbible.com/contra/number-levites.html)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Numbers 1:49",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, reading the Num 1:49 prohibition as 'not along with the other tribes' and pointing to the separate Levite count in Num 3:43; the row's strongest harmonizing anchor (Haley's specific coverage of this pair unconfirmed)."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page squarely resolves the not-numbered/numbered pair: gotquestions.org/Numbers-census.html and defendinginerrancy.com/bible-solutions/Numbers_1.1-4.49.php explain only Levi's exclusion from the military census (or the population-plausibility difficulty) and never address the separate Num 3 count that dissolves the tension. Omitted rather than linked off-topic."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "153#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Numbers 1:49",
+      "full_note_ref": "GILL/4/1/49",
+      "excerpt_text": "That is, along with the other tribes, for it might be numbered by itself, as it afterwards was, Num 3:43 …",
+      "on_tension_rationale": "Gill reads the Num 1:49 prohibition as 'not with the other tribes,' and cross-references the separate Levite count in Num 3 — directly dissolving the not-number/number tension.",
+      "source_note_text": "Only thou shall not number the tribe of Levi,.... That is, along with the other tribes, for it might be numbered by itself, as it afterwards was, Num 3:43,\nneither take the sum of them among the children of Israel; which confirms what is before observed: now this being the declared will of God clears Moses from all partiality to his own tribe, he doing nothing but what he had a command of God for it."
+    }
+  ]
+}

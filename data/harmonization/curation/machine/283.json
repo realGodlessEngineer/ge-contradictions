@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 283,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the texts as one rule about sincerity: rending the garments is a fitting outward sign in its season, condemned only when it stands in for the rending of the heart it is meant to express.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, whose Skeptic's Annotated Bible compiled this very list, presses the practice itself: Scripture both praises Josiah for rending his clothes and has Joel forbid it and Elisha rebuke a king for it.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible (\"Should we rend our clothes?\")",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, \"Should we rend our clothes?\" (skepticsannotatedbible.com/contra/rend.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Joel 2:13",
+      "excerpt_text": "nor is it absolutely forbidden here, only comparatively, that they should rend their hearts rather than their garments; or not their garments only, but their hearts also …",
+      "full_note_ref": "GILL/29/2/13",
+      "on_tension_rationale": "Directly answers the apparent ban in Joel 2:13: the garment-rending is not prohibited but ranked below heart-rending, dissolving the 'virtue or vanity' conflict.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Joel 2:13",
+      "excerpt_text": "Let there be the inward sorrow of heart, and not the mere outward manifestation of it by \"rending the garment\" …",
+      "full_note_ref": "JFB/29/2/13",
+      "on_tension_rationale": "Reads Joel's 'not your garments' as a contrast between inward sorrow and merely outward show, not a flat prohibition of the act.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Joel 2:12",
+      "excerpt_text": "the sign without the thing signified is but a jest and a mockery, and an affront to God.",
+      "full_note_ref": "MHC/29/2/12",
+      "on_tension_rationale": "Frames the whole tension as sign-vs-substance: tearing clothes is right with a torn heart and an affront without one, harmonizing the praise of Josiah with Joel's rebuke.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Joel 2:13",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, explaining that rending the garment is 'not absolutely forbidden here, only comparatively,' which reconciles the praise of garment-rending elsewhere with Joel's 'rend your heart, and not your garments.'"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/rend-your-heart.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does it mean to rend your heart (Joel 2:13)?",
+        "note": "Live apologetic treatment distinguishing inward repentance from the outward ritual of tearing garments, harmonizing the practice texts."
+      }
+    }
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "contradiction_id": 10,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Traditional commentators read the ch. 1 grant as implicitly subject to the ch. 2 exception — the later restriction narrows, but does not contradict, the earlier provision.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells (Skeptic's Annotated Bible) lists this as a genuine conflict, arguing that Genesis 1:29 grants all seed-bearing plants and fruit trees without qualification, while Genesis 2:17 then forbids one tree — creating an inconsistency in the divine grant.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 10,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Genesis 1:29",
+      "excerpt_text": "and every tree, in which is the fruit of a tree yielding seed; all but the tree of knowledge, of good and evil, afterwards excepted",
+      "full_note_ref": "GILL/1/1/29",
+      "license_code": "PD",
+      "on_tension_rationale": "Gill reads the Genesis 1:29 grant as already carrying an implicit qualification — 'all but' the tree excepted in ch. 2 — directly addressing how the broad ch. 1 provision and the ch. 2 restriction cohere.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 10,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Genesis 2:16",
+      "excerpt_text": "of every tree of the garden thou mayest freely eat: a very generous, large, and liberal allowance this… even of any, and every tree in the garden, excepting one, next forbidden.",
+      "full_note_ref": "GILL/1/2/16",
+      "license_code": "PD",
+      "on_tension_rationale": "Gill's comment on Gen 2:16 frames the command as confirmation of the breadth of the grant with the single exception appended — explicitly reconciling the two passages by treating the ch. 2 command as expansive, not restrictive relative to ch. 1.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats the relation of the Genesis 1 food grant to the Genesis 2 prohibition under the harmonizing tradition that the later exception narrows rather than contradicts the earlier provision."
+      },
+      "link": null
+    }
+  }
+}

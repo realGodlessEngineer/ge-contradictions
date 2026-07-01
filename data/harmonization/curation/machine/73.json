@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 73,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators uniformly split the one English word \"tempt\" into two senses—solicitation to evil, which God never does, and trial or proving, which is what He did to Abraham.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells lists Genesis 22:1 against James 1:13 as a flat contradiction, pressing that the KJV renders the same root \"tempt\" in both places and that the two-senses distinction is read into the text to rescue it.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); skepticsannotatedbible.com"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "James 1:13",
+      "excerpt_text": "God is said in Gen 22:1 to have \"tempted Abraham\"; but there the tempting meant is that of trying or proving, not that of seducement.",
+      "full_note_ref": "JFB/59/1/13",
+      "on_tension_rationale": "Names both verses explicitly and resolves the tension with the trying-vs-seducement distinction—the sharpest single statement of the harmonization.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Genesis 22:1",
+      "excerpt_text": "Though the word tempt, from tento, signifies no more than to prove or try, yet as it is now generally used to imply a solicitation to evil, in which way God never tempts any man, it would be well to avoid it here.",
+      "full_note_ref": "CLARKE/1/22/1",
+      "on_tension_rationale": "The philological version of the harmonization: the same word covers 'prove/try' and 'solicit to evil,' and only the latter is denied of God in James.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "James 1:13",
+      "excerpt_text": "neither tempteth he any man; that is, to sin; he tempted Abraham, to try his faith, love, and obedience to him … but he never tempts or solicits them to sin; temptations to sin come from another quarter",
+      "full_note_ref": "GILL/59/1/13",
+      "on_tension_rationale": "Ties both passages together in one note—God 'tempts no man' to sin yet 'tempted Abraham' to try him—exactly the distinction the row turns on. Ellipsis joins two on-tension clauses without altering sense.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on James 1:13",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB's note on James 1:13 directly harmonizes the passage with Genesis 22:1, distinguishing 'trying or proving' from 'seducement.'"
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/James_1.15.php",
+        "domain": "defendinginerrancy.com",
+        "title": "James 1:15—If God doesn't tempt anyone, then why did He tempt Abraham?",
+        "note": "live apologetic treatment of the Genesis 22:1 / James 1:13 tension via the testing-vs-tempting distinction"
+      }
+    }
+  }
+}

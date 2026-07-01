@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 137,
+  "question": "What must a congregation do if it sins through ignorance?",
+  "summary": "Leviticus 4:13-21 prescribes one young bullock as a sin offering for the whole congregation's inadvertent sin. Numbers 15:24-26 prescribes one young bullock as a burnt offering plus a kid of the goats as a sin offering — two animals with different functions. The required sacrifice is different.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders read the two laws as covering different cases — Leviticus a sin of commission (a forbidden act), Numbers a sin of omission — so the offerings differ because the sins do.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells of the Skeptic's Annotated Bible presses the plain arithmetic: Leviticus prescribes one young bull for the congregation's inadvertent sin, while Numbers prescribes a bull as a burnt offering plus a goat as a sin offering — one animal versus two.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible, \"What must a congregation do if it sins through ignorance?\" (skepticsannotatedbible.com/contra/congregation.html)",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; \"What must a congregation do if it sins through ignorance?\")"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Numbers 15:22",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats this exact pair, harmonizing by distinguishing the Numbers law (a sin of omission) from the Leviticus 4:13 law (a positive transgression). Row-surfaced harmonizing commentator used because Haley's coverage of this specific pair could not be confirmed."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Numbers_15.24.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Numbers 15:24 — Are there two kinds of sin offerings, or only one?",
+        "note": "Live apologetic treatment (based on Geisler & Howe, When Critics Ask); cites both Numbers 15:24 and Leviticus 4, harmonizes via the commission/omission distinction and the view that one passage supplements the other."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "137#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Numbers 15:22",
+      "full_note_ref": "JFB/4/15/22",
+      "excerpt_text": "The law relates only to any omission and consequently is quite different from that laid down in Lev 4:13, which implies a transgression or positive neglect of some observances required.",
+      "on_tension_rationale": "Directly answers the contradiction by naming Lev 4:13 and distinguishing the two laws as covering different kinds of sin (omission in Numbers vs. positive transgression in Leviticus), which is the dominant harmonization for why the prescribed offerings differ. Single complete sentence ending on a real source period.",
+      "source_note_text": "if ye have erred, and not observed all these commandments, &c.--respecting the performance of divine worship, and the rites and ceremonies that constitute the holy service. The law relates only to any omission and consequently is quite different from that laid down in Lev 4:13, which implies a transgression or positive neglect of some observances required. This law relates to private parties or individual tribes; that to the whole congregation of Israel."
+    }
+  ]
+}

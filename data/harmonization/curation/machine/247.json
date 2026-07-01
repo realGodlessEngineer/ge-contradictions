@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 247,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The standard harmonization holds the three sons died young, so by the time Absalom raised his pillar he genuinely had no son left to keep his name.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells in the Skeptic's Annotated Bible, whose own \"How many sons did Absalom have?\" entry pairs these verses as a flat contradiction: 14:27 reports three sons, yet 18:18 has Absalom say he has none.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How many sons did Absalom have?\" (skepticsannotatedbible.com/contra/absalom.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; print ed. 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "2 Samuel 14:27",
+      "excerpt_text": "Who very probably died young; and the rather it may be thought so, since their names are not given, and more especially since it is said that Absalom had no sons, and therefore erected a pillar to keep up the remembrance of his name; unless it can be thought that that was set up before he had any sons, which is not so likely …",
+      "full_note_ref": "GILL/10/14/27",
+      "on_tension_rationale": "Gill names the harmonizing mechanism directly: the three sons of 14:27 died young, which is why Absalom (18:18) says he has no son and erects a memorial pillar. Cross-references Sa2 18:18 explicitly.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on 2 Samuel 14:27",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact pair at 14:27, reconciling the three sons with 18:18 by the sons' early death. Used as the PD anchor because Haley's coverage of this specific verse-pair could not be confirmed; the same 'sons died young' reading is run by Keil & Delitzsch, Clarke, and the Tyndale notes."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/2_Samuel_14.27.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in 2 Samuel 14:27?",
+        "note": "Live, on-topic apologetic page that cites both 2 Samuel 14:27 and 18:18 and harmonizes via the sons dying in infancy, leaving no posterity to carry the name."
+      }
+    }
+  }
+}

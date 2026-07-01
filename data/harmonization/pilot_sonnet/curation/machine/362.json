@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 362,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Classical commentators limit 'believeth all things' in 1 Cor 13:7 to charitable crediting of the good in others — not naive credulity — aligning it with the testing and proving commands elsewhere.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "C. Dennis McKinsey presses that 'believes all things' (1 Cor 13:7) is flatly incompatible with 'prove all things' (1 Thess 5:21), both stated as duties of the Christian.",
+      "skeptic": {
+        "name": "C. Dennis McKinsey",
+        "work": "The Encyclopedia of Biblical Errancy",
+        "year": "1995",
+        "attribution": "C. Dennis McKinsey, The Encyclopedia of Biblical Errancy (Prometheus Books, 1995)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 362,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "1 Corinthians 13:6",
+      "excerpt_text": "believeth all things; that are to be believed, all that God says in his word, all his truths, and all his promises…though such a man will not believe every spirit, every preacher and teacher, nor any but such as agree with the Scriptures of truth, the standard of faith and practice…a man of charity or love is willing to believe all the good things reported of men; he is very credulous of such things, and is unwilling to believe ill reports of persons, or any ill of men",
+      "full_note_ref": "GILL/46/13/6",
+      "license_code": "PD",
+      "on_tension_rationale": "Gill directly harmonizes the verse by defining 'believeth all things' as (a) believing God's word and (b) charitable credulity toward people — explicitly excluding naive credulity toward every doctrine or spirit.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 362,
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "1 Corinthians 13:7",
+      "excerpt_text": "believeth all things--unsuspiciously believes all that is not palpably false, all that it can with a good conscience believe to the credit of another. Compare Jam 3:17, \"easy to be entreated\"; Greek, \"easily persuaded.\"",
+      "full_note_ref": "JFB/46/13/7",
+      "license_code": "PD",
+      "on_tension_rationale": "JFB narrows 'believeth all things' to what conscience permits for another's credit, making explicit that palpably false claims are excluded — dissolving the apparent collision with 'prove all things.'",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley addresses the surface conflict between 'believe all things' and 'prove all things,' arguing that the former refers to charitable disposition toward persons while the latter refers to doctrinal discernment — distinct domains of application that do not collide."
+      },
+      "link": null
+    }
+  }
+}

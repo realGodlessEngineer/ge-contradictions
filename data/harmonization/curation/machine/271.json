@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 271,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read the Hebrew ra' in these verses as calamity or adversity set against \"peace\" — natural judgment God sends, not the moral evil of sin.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Dan Barker presses the objection that the God who is called love and \"in whom is no darkness\" nonetheless claims in Isaiah 45:7 to create evil, listing it among the traits that make the biblical God morally repugnant.",
+      "skeptic": {
+        "name": "Dan Barker",
+        "work": "God: The Most Unpleasant Character in All Fiction",
+        "year": "2016",
+        "attribution": "Dan Barker, God: The Most Unpleasant Character in All Fiction (New York: Sterling, 2016)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Isaiah 45:7",
+      "excerpt_text": "create evil—not moral evil (Jam 1:13), but in contrast to \"peace\" in the parallel clause, war, disaster (compare Psa 65:7; Amo 3:6).",
+      "full_note_ref": "JFB/23/45/7",
+      "on_tension_rationale": "Directly answers the moral-evil objection: distinguishes 'evil' here as calamity/disaster opposed to 'peace', not moral evil, citing James 1:13.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Isaiah 45:7",
+      "excerpt_text": "\"evil\" is also from him; not the evil of sin; this is not to be found among the creatures God made; this is of men, though suffered by the Lord, and overruled by him for good: but the evil of punishment for sin …",
+      "full_note_ref": "GILL/23/45/7",
+      "on_tension_rationale": "States the classic malum culpae / malum paenae distinction: God is not the author of the evil of sin, only of the evil of punishment/affliction.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Isaiah 45:7",
+      "excerpt_text": "I send peace and war, prosperity and adversity, as Amos 3:6.",
+      "full_note_ref": "GNV/23/45/7",
+      "on_tension_rationale": "Glosses 'create evil' as adversity paralleling peace, cross-referencing Amos 3:6 — a sovereignty-over-calamity reading, not moral evil.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats Isaiah 45:7 directly, arguing 'evil' here means natural evil — affliction, adversity — and that no text sanctions the proposition that God is the author of sin."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Isaiah_45.7.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Isaiah 45:7—Is God the author of evil?",
+        "note": "live apologetic treatment distinguishing calamity from moral evil and direct from permitted causation"
+      }
+    }
+  }
+}

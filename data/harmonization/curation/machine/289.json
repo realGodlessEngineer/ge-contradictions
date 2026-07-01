@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 289,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Keil & Delitzsch read the two notices as compatible — burial \"in the city of David\" need not mean the royal tombs, so Chronicles only supplements Kings.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Otto Thenius cast doubt on the Chronicler's burial notice, treating the \"not in the sepulchres of the kings\" demerit as an unhistorical addition that conflicts with the Kings account — the suspicion Keil & Delitzsch and Bertheau set out to rebut.",
+      "skeptic": {
+        "name": "Otto Thenius",
+        "work": "Die Bücher der Könige (Kurzgefasstes exegetisches Handbuch zum AT)",
+        "year": "1849",
+        "attribution": "Otto Thenius (d. 1876), Die Bücher der Könige (1849)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "2 Kings 12:19",
+      "excerpt_text": "but according to v. 25 of the Chronicles he was not buried in the graves of the kings. The two statements are not irreconcilable …",
+      "full_note_ref": "KD/12/12/19",
+      "on_tension_rationale": "The one gathered note that names BOTH poles (Kings 'buried with his fathers in the city of David' vs Chronicles 'not buried in the graves of the kings') and explicitly asserts they are compatible; block-anchored K&D note, on-tension sentence inside the block. Ends at the source semicolon after 'irreconcilable' → ' …' (no fabricated period, per the K&D-semicolon rule). Starts at a clean clause boundary to avoid the gather's 'his father sin' digitization typo while remaining a verbatim substring.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on 2 Kings 12:19-21",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this exact pair directly: 'The two statements are not irreconcilable; and there may be good historical ground for the account in the Chronicles,' burial 'in the city of David' not requiring interment in the royal sepulchres. Row-surfaced harmonizer keyed to the passage (Haley's specific coverage of this pair unconfirmed)."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) engages this pair: gotquestions Joash-king-Judah.html 404s; defendinginerrancy 2_Chronicles_24.25.php and 2_Kings_12.21.php both 404; no carm article. The only on-topic page (veritasdomain.wordpress.com, 'Where was Joash buried?') is off-allowlist → link omitted, never guessed."
+      }
+    }
+  }
+}

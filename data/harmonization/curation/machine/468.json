@@ -1,0 +1,60 @@
+{
+  "contradiction_id": 468,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the accounts as one sequence: Jesus carried the cross at first, and Simon was compelled only when exhaustion stopped him.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The Skeptic's Annotated Bible presses it flatly: John has Jesus bear his own cross, while the three Synoptics have Simon of Cyrene carry it — the texts simply name different bearers.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (\"Who carried Jesus' cross?\")",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (1999; rev. ed. 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 468,
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "John 19:17",
+      "excerpt_text": "He bore it all alone first; when he could no longer carry the whole through weakness, occasioned by the ill usage he had received, Simon, a Cyrenian, helped him to carry it",
+      "full_note_ref": "CLARKE/43/19/17",
+      "license_code": "PD",
+      "on_tension_rationale": "The most direct harmonization: Jesus carried the cross alone at first (John), and Simon was compelled only when weakness made him unable to continue (the Synoptics) — one sequence, not two accounts in conflict.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on John 19:17",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke keys the harmonization to this passage: Jesus bore the cross alone at first (John), and Simon of Cyrene was compelled only when weakness stopped him (the Synoptics) — one sequence on the road to Golgotha."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/did-jesus-or-simon-of-cyrene-carry-the-cross/",
+        "domain": "carm.org",
+        "title": "CARM: Did Jesus or Simon of Cyrene carry the cross?",
+        "note": "Live apologetic treatment resolving John 19:17 and the Synoptics by sequence — Jesus bore it until unable, then Simon assisted."
+      }
+    }
+  }
+}

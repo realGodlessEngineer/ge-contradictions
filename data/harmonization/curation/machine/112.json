@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 112,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders resolve the tension by distinguishing two senses of \"tempt\": Deuteronomy means to test or provoke God, while James denies only that God can be enticed to evil.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells (Skeptic's Annotated Bible) presses the row directly: the very command \"do not tempt God\" would be pointless if, as James says, God simply cannot be tempted at all.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Can God be tempted?\" (skepticsannotatedbible.com/contra/tempt_God.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online), \"Can God be tempted?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "James 1:13",
+      "excerpt_text": "as the word temptation has two grand meanings, solicitation to sin, and trial from providential situation or circumstances, James, taking up the word in the former sense, after having used it in the latter …",
+      "full_note_ref": "CLARKE/59/1/13",
+      "on_tension_rationale": "Clarke states the harmonization's core move explicitly: 'temptation' carries two senses, so James (entice-to-sin) and the Deut/Massah usage (trial/providential) are not denying the same thing. Truncated mid-sentence with the elision marker.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "James 1:13",
+      "excerpt_text": "he may be tempted by evil men, and with evil things, but he cannot be tempted \"to evil\", as the Ethiopic version renders it; he is proof against all such temptations …",
+      "full_note_ref": "GILL/59/1/13",
+      "on_tension_rationale": "Gill directly concedes God CAN be tempted (by evil men, e.g. at Massah, immediately before this) yet cannot be tempted 'to evil' — the exact OT-can / James-cannot distinction that dissolves the pair. Curly quotes normalized to straight; truncated mid-flow before a colon with the elision marker.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "James 1:13",
+      "excerpt_text": "God is said in Gen 22:1 to have \"tempted Abraham\"; but there the tempting meant is that of trying or proving, not that of seducement.",
+      "full_note_ref": "JFB/59/1/13",
+      "on_tension_rationale": "JFB applies the two-senses key to a parallel OT 'tempt' text (Gen 22:1), distinguishing trying/proving from seducement — the same lexical move that separates Deut 6:16 from James 1:13. Full sentence ending on a source period.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on James 1:13",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, resolving it by noting 'temptation' has two grand meanings — solicitation to sin (James's sense) versus trial from circumstances (the Deut/Massah sense)."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) squarely engages the James 1:13 vs Deut 6:16 pair: gotquestions God-cannot-be-tempted.html and defendinginerrancy James_1.15.php both explain James's sense but neither cites Deut 6:16 or harmonizes the two-senses pair. The on-topic page (Answers in Genesis 'Can God Be Tempted?') is off-allowlist. Link omitted, not guessed."
+      }
+    }
+  }
+}

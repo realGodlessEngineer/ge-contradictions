@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 166,
+  "question": "Who was Zelophahad's father?",
+  "summary": "Numbers 27:1 and Joshua 17:3 give Zelophehad's genealogy as Hepher → Gilead → Machir → Manasseh, making Hepher his immediate father. 1 Chronicles 7:14-15 lists Zelophehad as a son of Manasseh directly, with a different intermediate genealogy entirely. The two genealogies disagree about who Zelophehad's father was.",
+  "consensus": "genuinely_disputed",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders read the Chronicler's \"sons of Manasseh\" as loose for \"descendants\" — so Zelophehad is still Hepher's son, just listed farther down a compressed line.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The objection is pressed by Steve Wells (Skeptic's Annotated Bible), who sets the two genealogies side by side: Numbers and Joshua make Zelophehad the son of Hepher, while 1 Chronicles drops Hepher and lists him among the sons of Manasseh.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "Skeptic's Annotated Bible, \"Who was Zelophahad's father?\" (skepticsannotatedbible.com/contra/zelophehad.html)",
+      "year": "2013",
+      "attribution": "Steve Wells, Skeptic's Annotated Bible, \"Who was Zelophahad's father?\""
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 1 Chronicles 7:14",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Treats this passage directly: reads the Chronicler's 'sons of Manasseh' as 'descendants' and places Zelophehad 'a generation farther removed in descent' (Num 26:33), preserving the Hepher line of Numbers and Joshua. Used as the textual anchor because Haley's coverage of this specific genealogy pair could not be confirmed; this is a harmonizing commentator surfaced on the row and keyed to the passage."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) squarely engages the Zelophehad-genealogy tension. gotquestions.org/Zelophehad.html 404s; no carm/defendinginerrancy article on this pair was found. The on-topic scholarly pages (TheTorah.com) are off-allowlist and serve the critical side. Link omitted rather than guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "166#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "1 Chronicles 7:14",
+      "full_note_ref": "JFB/13/7/14",
+      "excerpt_text": "The sons of Manasseh—or descendants; for Ashriel was a grandson, and Zelophehad was a generation farther removed in descent (Num 26:33). The text, as it stands, is so confused and complicated that it is exceedingly difficult to trace the genealogical thread, and a great variety of conjectures have been made with a view to clear away the obscurity.",
+      "on_tension_rationale": "Directly engages the 1 Chr 7:14-15 listing that the skeptic uses: reads 'sons of Manasseh' as 'descendants', explicitly places Zelophehad 'a generation farther removed in descent' citing Num 26:33, so the Hepher line is preserved and the Chronicles wording is compression, not a rival paternity. The single note that names Zelophehad and resolves this exact tension.",
+      "source_note_text": "OF MANASSEH. (1Ch. 7:14-40)\nThe sons of Manasseh--or descendants; for Ashriel was a grandson, and Zelophehad was a generation farther removed in descent (Num 26:33). The text, as it stands, is so confused and complicated that it is exceedingly difficult to trace the genealogical thread, and a great variety of conjectures have been made with a view to clear away the obscurity. The passage [Ch1 7:14-15] should probably be rendered thus: \"The sons of Manasseh were Ashriel, whom his Syrian concubine bare to him, and Machir, the father of Gilead (whom his wife bare to him). Machir took for a wife Maachah, sister to Huppim and Shuppim.\""
+    }
+  ]
+}

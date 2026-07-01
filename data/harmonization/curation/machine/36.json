@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 36,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Noah's curse as prophecy foretelling the Canaanites' historical subjugation, not as God approving slavery as an institution.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells, who lists Genesis 9:25-27 among the passages by which the Bible has God sanctioning slavery, set squarely against its own \"love thy neighbour\" command in Leviticus 19:18.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible — \"Does God approve of slavery?\"",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Does God approve of slavery?\" (skepticsannotatedbible.com/contra/slavery.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 9:25-27",
+      "excerpt_text": "…Noah, through the Spirit and power of that God with whom he walked, discerned in the moral nature of his sons, and the different tendencies which they already displayed, the germinal commencement of the future course of their posterity, and uttered words of blessing and of curse, which were prophetic of the history of the tribes that descended from them.",
+      "full_note_ref": "KD/1/9/18",
+      "on_tension_rationale": "Frames the 'servant of servants' curse as prophetic foresight of what the tribes would become, not as God instituting or approving slavery — the core harmonizing move (prediction, not prescription).",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Genesis 9:25-27",
+      "excerpt_text": "This certainly points at the victories obtained by Israel over the Canaanites, by which they were all either put to the sword or put under tribute … which happened not till about 800 years after this.",
+      "full_note_ref": "MHC/1/9/24",
+      "on_tension_rationale": "Reads the curse as a prediction fulfilled in later conquest history rather than a standing divine endorsement of slavery, defusing the 'God approves slavery' charge.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Genesis 9:25-27 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly, arguing the curse is prophecy that 'do[es] not predict, like an irresistible fate, the unalterable destiny of every individual' but leaves room for personal freedom — distinguishing the prediction from any divine approval of slavery. Used in place of Haley, whose specific coverage of this curse-vs-love-thy-neighbour pair could not be confirmed."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Bible-slavery.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Does the Bible condone slavery?",
+        "note": "Live apologetic treatment arguing the Law regulated rather than instituted or endorsed slavery, engaging the love-your-neighbour tension."
+      }
+    }
+  }
+}

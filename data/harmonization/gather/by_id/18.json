@@ -1,0 +1,536 @@
+{
+  "contradiction_id": 18,
+  "question": "Is marriage a good thing?",
+  "summary": "Genesis 2:18-24 presents marriage as a divine solution to the problem that 'it is not good that man should be alone.' 1 Corinthians 7:1 and 7:7 have Paul declaring that 'it is good for a man not to touch a woman' and wishing that all men were unmarried like himself.",
+  "consensus": "genuinely_disputed",
+  "consensus_id": 3,
+  "category": "Law, Morality & Ethics",
+  "contradiction_type": "theological",
+  "testament_scope": "OT_vs_NT",
+  "books_in_tension": "Genesis, 1 Corinthians",
+  "refs_raw": [
+    "Genesis 2:18-24",
+    "1 Corinthians 7:1",
+    "1 Corinthians 7:7"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Genesis 2:18-24",
+      "book": "Genesis",
+      "bolls": 1,
+      "ranges": [
+        [
+          2,
+          18,
+          24
+        ]
+      ]
+    },
+    {
+      "raw": "1 Corinthians 7:1",
+      "book": "1 Corinthians",
+      "bolls": 46,
+      "ranges": [
+        [
+          7,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "raw": "1 Corinthians 7:7",
+      "book": "1 Corinthians",
+      "bolls": 46,
+      "ranges": [
+        [
+          7,
+          7,
+          7
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 46,
+  "notes_raw_count": 80,
+  "notes_dropped": 34,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Genesis 2:18",
+      "note_ref": "GILL/1/2/18",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "And the Lord God said,.... Not at the same time he gave the above direction and instruction to man, how to behave according to his will, but before that, even at the time of the formation of Adam and which he said either to him, or with himself: it was a purpose or determination in his own mind, and may be rendered, as it is by many, he \"had said\" (b), on the sixth day, on which man was created:\nit is not good that man should be alone; not pleasant and comfortable to himself, nor agreeable to his nature, being a social creature; nor useful to his species, not being able to propagate it; nor so much for the glory of his Creator:\nI will made him an help meet for him; one to help him in all the affairs of life, not only for the propagation of his species, but to provide things useful and comfortable for him; to dress his food, and take care of the affairs of the family; one \"like himself\" (c), in nature, temper, and disposition, in form and shape; or one \"as before him\" (d), that would be pleasing to his sight, and with whom he might delightfully converse, and be in all respects agreeable to him, and entirely answerable to his case and circumstances, his wants and wishes.\n(b) \"dixerat\", Vatablus, Drusius, Junius & Tremellius, Piscator. (c) \"simile sibi\", V. L. Sam. Syr. (d) \"Tanquam coram eo\", Montanus."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 2:19",
+      "note_ref": "GILL/1/2/19",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "And out of the ground the Lord God formed every beast of the field, and every fowl of the air,.... Or \"had formed them\" (e) on the fifth and sixth days; and these were formed two and two, male and female, in order to continue their species; whereas man was made single, and had no companion of the same nature with him: and while in these circumstances, God\nbrought them unto Adam; or \"to the man\" (f); either by the ministry of angels, or by a kind of instinct or impulse, which brought them to him of their own accord, as to the lord and proprietor of them, who, as soon as he was made, had the dominion of all the creatures given him; just as the creatures at the flood went in unto Noah in the ark; and as then, so now, all creatures, fowl and cattle, came, all but the fishes of the sea: and this was done\nto see what he would call them; what names he would give to them; which as it was a trial of the wisdom of man, so a token of his dominion over the creatures, it being an instance of great knowledge of them to give them apt and suitable names, so as to distinguish one from another, and point at something in them that was natural to them, and made them different from each other; for this does not suppose any want of knowledge in God, as if he did this to know what man would do, he knew what names man would give them before he did; but that it might appear he had made one superior to them all in wisdom and power, and for his pleasure, use, and service; and therefore brings them to him, to put them into his hands, and give him authority over them; and being his own, to call them by what names he pleased:\nand whatsoever Adam called every living creature, that was the name thereof; it was always afterwards called by it, by him and his posterity, until the confusion of languages, and then every nation called them as they thought proper, everyone in their own language: and as there is a good deal of reason to believe, that the Hebrew language was the first and original language; or however that eastern language, of which the Hebrew, Chaldee, Syriac, and Arabic, are so many dialects; it was this that he spoke, and in it gave names to the creatures suitable to their nature, or agreeable to some property or other observed in them: and Bochart (g) has given us many instances of creatures in the Hebrew tongue, whose names answer to some character or another in them: some think this was done by inspiration; and Plato says, that it seemed to him that that nature was superior to human, that gave names to things; and that this was not the work of vain and foolish man, but the first names were appointed by the gods (h); and so Cicero (i) asks, who was the first, which with Pythagoras was the highest wisdom, who imposed names on all things?\n(e) \"finxerat\", Drusius. (f) \"ad ipsum hominem\", Pagninus, Montanus. (g) Hierozoic. par. 1. l. 1. c. 9. p. 59, &c. (h) In Cratylo, apud Euseb. Praepar. Evangel. l. 11. c. 6. p. 515. (i) Tusculan. Quaest. l. 1."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 2:20",
+      "note_ref": "GILL/1/2/20",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "And Adam gave names to all cattle, and to the fowls of the air, and to every beast of the field,.... As they came before him, and passed by him, paying as it were their homage to him, their lord and owner:\nbut for Adam there was not found an help meet for him; and perhaps this might be one reason of their being brought unto him, that he might become sensible that there was none among all the creatures of his nature, and that was fit to be a companion of his; and to him must this be referred, and not to God; not as if God looked out an help meet for him among the creatures, and could find none; but, as Aben Ezra observes, man could not find one for himself; and this made it the more grateful and acceptable to him, when God had formed the woman of him, and presented her before him."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 2:21",
+      "note_ref": "GILL/1/2/21",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "And the Lord God caused a deep sleep to fall upon Adam, and he slept,.... This was not a common and natural sleep that Adam fell into, occasioned by any weariness of the animal spirits, in viewing the creatures as they passed by him, and in examining them, and giving them suitable and proper names; but it was supernatural, and from the Lord, his power and providence, who caused it to fall upon him: it was not a drowsiness, nor a slumber, but a sound sleep: his senses were so locked up by it, that he perceived not anything that was done to him; and it seems to have been on purpose, that he might feel no pain, while the operation was made upon him, as well as that it might appear that he had no hand in the formation of the woman; and that he might be the more surprised at the sight of her, just awaking out of sleep, to see so lovely an object, so much like himself, and made out of himself, and in so short a time as while he was taking a comfortable nap:\nand he took one of his ribs; with the flesh along with it: men have commonly, as anatomists (k) observe, twelve ribs on a side; it seems by this, that Adam had thirteen. The Targum of Jonathan is,\"and he took one of his ribs; that is, the thirteenth rib of his right side:''but our English poet (l) takes it to be one of the left side, and also a supernumerary one (m). God made an opening in him, and took it out, without putting him to any pain, and without any sensation of it: in what manner this was done we need not inquire; the power of God was sufficient to perform it; Adam was asleep when it was done, and saw it not, and the manner of the operation is not declared:\nand closed up the flesh instead thereof: so that there was no opening left, nor any wound made, or a scar appeared, or any loss sustained, but what was made up by an increase of flesh, or by closing up the flesh; and that being hardened like another rib, and so answered the same purpose. (Adam probably had the same number of ribs as we do today. Otherwise the genetic code for creation of an extra rib would cause at least some people today to have thirteen ribs. I know of no such case. Also, we know that acquired characteristics cannot be passed on to the next generation. A man who loses both legs in an accident, usually has children who have two legs. Ed.)\n(k) Bartholini Anatomia, l. 4. c. 17. p. 516. Vid. Scheuchzer. Physica Sacra, vol. 1. tab. 27. p. 28. (l) Who stooping opened my left side, and took From thence a rib.--- Milton's Paradise Lost, B. 8. l. 465. (m) Ib. B. 10. l. 887."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Corinthians 7:1",
+      "note_ref": "GILL/46/7/1",
+      "cites": [
+        "1 Corinthians 7:1"
+      ],
+      "text": "Now concerning the things whereof ye wrote unto me,.... Though the false apostles had greatly influenced the members of this church, yet there were many among them that had a very great respect for the apostle, and kept up a correspondence with him, though at a distance from him, by writing; in which way they informed him of their doubts and difficulties, that arose in their minds about certain things, and desired his judgment in them, to which they paid a very great deference. The things they wrote to him about, here referred to, may be collected from the contents of this chapter, and some others following; as whether a Christian man ought not to abstain from the use of women; whether a believer ought to live with an unbelieving yoke fellow; whether such as had been circumcised should not make use of some methods to draw on the foreskin of their flesh; whether apprentices, who were called by the grace of God, ought to serve out their time with their masters; and concerning celibacy or virginity, the eating of things offered to idols, and the maintenance of ministers: and he begins with the first; to which he answers,\nit is good for a man not to touch a woman; which is to be understood, not of merely touching a woman, which can neither be criminal, nor in all cases inexpedient, or be attended with any ill, or dangerous consequences; nor of the matrimonial contract, which is lawful and honourable; but of the act of carnal copulation with a woman: in this sense the Jews use the phrase,\n\"there are three (they say (r)) that fled from transgression, and the blessed God joined his name with them; and they are these, Joseph, and Joel, and Phalti. Joseph, as appears from what is said, Psa 81:5 \"a testimony in Joseph is his name\"; what is the meaning of the phrase \"in Joseph?\" this testifies concerning him, , \"that he did not touch Potiphar's wife\" (i.e. he did not lie with her); Jael, as is clear from what is said, Jdg 4:18 \"and Jael went forth to meet Sisera, and she covered him with a mantle\"; what is the meaning of the phrase, (which is rendered, \"with a mantle\";) our Rabbins here (in Babylon) say with a linen cloth; but our Rabbins there (in the land of Israel) say with bed clothes; says Resh Lekish, if we run over the whole Scripture, we shall not find any household goods so called; wherefore what is it? it is all one as , \"my name is thus\": and the meaning is, my name witnesses concerning her, , \"that that wicked one (Sisera) did not touch her\" (s); (i.e. had not carnal knowledge of her;) Phalti, as is evident from hence, one Scripture says, \"and Saul gave Michal his daughter to Phalti\", Sa1 25:44 and another Scripture says Phaltiel; sometimes he is called Phalti, and sometimes he is called Phaltiel; who takes Phalti? and who gives Phaltiel? but I testify concerning him; , \"that he did not touch David's wife\"; (i.e. did not lie with her;)''\nsee Gen 20:6. And in this sense also is the word \"touch\" used, both by Greek and Latin authors. The apostle's meaning is not that it is unlawful to marry, or that it is sinful to lie with a woman in lawful wedlock; but that it is much better, and more expedient on several accounts, to abstain from the use of women, when persons have the gift of continency.\n(r) Vajikra Rabba, sect. 23. fol. 164. 4. & 165. 1. Vid Shemot Rabba, sect. 1. fol. 91. 4. (s) Vid. Kimchi in Jud. iv. 18."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Corinthians 7:2",
+      "note_ref": "GILL/46/7/2",
+      "cites": [
+        "1 Corinthians 7:1"
+      ],
+      "text": "Nevertheless, to avoid fornication,.... Or \"fornications\"; meaning either the frequent commission of that sin; or all sorts of uncleanness and pollution, which may be avoided by wedlock, and the proper use of the marriage bed, where the gift of continency is not bestowed: wherefore to prevent unlawful copulations, as of single persons with one another, or of a married person with a single one, the apostle advises, as being what is right and proper,\nlet every man have his own wife, and let every woman have her own husband; that is, let every man that has a wife enjoy her, and make use of her, and let every woman that has an husband, receive him into her embraces; for these words are not to be understood of unmarried persons entering into a marriage state, for the words suppose them in such a state, but of the proper use of the marriage bed; and teach us that marriage, and the use of it, are proper remedies against fornication; and that carnal copulation of a man with a woman ought only to be of husband and wife, or of persons in a married state; and that all other copulations are sinful; and that polygamy is unlawful; and that one man is to have but one wife, and to keep to her; and that one woman is to have but one husband, and to keep to him."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Corinthians 7:6",
+      "note_ref": "GILL/46/7/6",
+      "cites": [
+        "1 Corinthians 7:7"
+      ],
+      "text": "But I speak this by permission,.... Referring either to what he had said before, though not to all; not to Co1 7:2 that for the avoiding of fornication, every man should make use of his own wife, and every woman of her own husband; since this is not by permission, but by command, Gen 2:24 that carnal copulation should be between one man and one woman in a married state; nor to Co1 7:3 for that married persons ought to render due benevolence to, and not defraud each other, having a power over each other's bodies, is a precept, and not a permission, Exo 21:10 but to Co1 7:5 their parting for a time, and coming together again: it is not an absolute command of God that they should separate for a time, on account of fasting and prayer, but if they thought fit to do so by agreement, they might; nor was there any positive precept for their coming together again directly, after such service was over. The apostle said this,\nnot of commandment; but, consulting their good, gives this advice, lest Satan should be busy with them, and draw them into sin; but if they had the gift of continence, they might continue apart longer; there was no precise time fixed by God, nor did the apostle pretend to fix any: or it may refer to what follows after, that he would have all men be as he was; though he laid no injunction, but left them to their liberty; unless it can be thought to regard marriage in general, and to be said in opposition to a Jewish notion, which makes marriage a \"command\";\n\"a man, they say (f), is bound to this command at seventeen years of age, and if he passes twenty and does not marry, he transgresses, and makes void an affirmative precept;''\nbut the apostle puts it as a matter of choice, and not of obligation.\n(f) Maimon. Hilch, Isbot, c. 15. sect. 2."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Corinthians 7:7",
+      "note_ref": "GILL/46/7/7",
+      "cites": [
+        "1 Corinthians 7:7"
+      ],
+      "text": "For I would that all men were even as I myself,.... The apostle speaks not of his state and condition, as married or unmarried, for it is not certain which he was; some think he had a wife, others not: it looks, however, as if he had not at this time, as appears from Co1 7:8 but be it which it will, it can hardly be thought he should wish all men to be in either state, either all married, or all unmarried; but he speaks of the gift of continency, which he had, as the following words show; and this he desires for all men, that they might not be in any danger from Satan's temptations, and that they might be more fit for and intent upon the service of Christ. The Syriac version adds, in \"purity\", or \"chastity\"; which may be preserved in a marriage state, as well as in single life:\nbut every man hath his proper gift of God, one after this manner, and another after that: all the gifts of nature and grace which men have, they have of God, and not of themselves; and every man has a gift proper to himself; no one man has all gifts, but some one, and some another; and with respect to the case in hand, one man has the gift of continency, another the gift of marriage; all cannot contain themselves, only to whom it is given: and all are not disposed to marriage; some are inclined to a single life, and some to a marriage state; and of those that are married, some can abstain from the use of the marriage bed longer than others, without being in danger of being tempted by Satan for their incontinency; and such a disposition is desirable."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 2:18",
+      "note_ref": "JFB/1/2/18",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "THE MAKING OF WOMAN, AND INSTITUTION OF MARRIAGE. (Gen 2:18-25)\nit is not good for the man to be alone--In the midst of plenty and delights, he was conscious of feelings he could not gratify. To make him sensible of his wants,"
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 2:19",
+      "note_ref": "JFB/1/2/19",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "God brought unto Adam--not all the animals in existence, but those chiefly in his immediate neighborhood to be subservient to his use.\nwhatsoever Adam called every living creature, that was the name thereof--His powers of perception and intelligence were supernaturally enlarged to know the characters, habits, and uses of each species that was brought to him."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 2:20",
+      "note_ref": "JFB/1/2/20",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "but for Adam there was not found an help meet for him--The design of this singular scene was to show him that none of the living creatures he saw were on an equal footing with himself, and that while each class came with its mate of the same nature, form, and habits, he alone had no companion. Besides, in giving names to them he was led to exercise his powers of speech and to prepare for social intercourse with his partner, a creature yet to be formed."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 2:21",
+      "note_ref": "JFB/1/2/21",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "deep sleep--probably an ecstasy or trance like that of the prophets, when they had visions and revelations of the Lord, for the whole scene was probably visible to the mental eye of Adam, and hence his rapturous exclamation.\ntook one of his ribs--\"She was not made out of his head to surpass him, nor from his feet to be trampled on, but from his side to be equal to him, and near his heart to be dear to him.\""
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Corinthians 7:2",
+      "note_ref": "JFB/46/7/2",
+      "cites": [
+        "1 Corinthians 7:1"
+      ],
+      "text": "Here the general rule is given\nto avoid fornication--More literally, \"on account of fornications,\" to which as being very prevalent at Corinth, and not even counted sins among the heathen, unmarried persons might be tempted. The plural, \"fornications,\" marks irregular lusts, as contrasted with the unity of the marriage relation [BENGEL].\nlet every man have--a positive command to all who have not the gift of continency, in fact to the great majority of the world (Co1 7:5). The dignity of marriage is set forth by Paul (Eph 5:25-32), in the fact that it signifies the mystical union between Christ and the Church."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Corinthians 7:6",
+      "note_ref": "JFB/46/7/6",
+      "cites": [
+        "1 Corinthians 7:7"
+      ],
+      "text": "by permission . . . not of commandment--not by God's permission to me to say it: but, \"by way of permission to you, not as a commandment.\" \"This\" refers to the directions, Co1 7:2-5."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Corinthians 7:7",
+      "note_ref": "JFB/46/7/7",
+      "cites": [
+        "1 Corinthians 7:7"
+      ],
+      "text": "even as I--having tile gift of continence (Mat 19:11-12). This wish does not hold good absolutely, else the extension of mankind and of the Church would cease; but relatively to \"the present distress\" (Co1 7:26)."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Corinthians 7:8",
+      "note_ref": "JFB/46/7/8",
+      "cites": [
+        "1 Corinthians 7:7"
+      ],
+      "text": "to the unmarried--in general, of both sexes (Co1 7:10-11).\nand widows--in particular.\neven as I--unmarried (Co1 9:5)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 2:18",
+      "note_ref": "CLARKE/1/2/18",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "It is not good that the man should be alone - לבדו lebaddo; only himself. I will make him a help meet for him; עזר כנגדו ezer kenegdo, a help, a counterpart of himself, one formed from him, and a perfect resemblance of his person. If the word be rendered scrupulously literally, it signifies one like, or as himself, standing opposite to or before him. And this implies that the woman was to be a perfect resemblance of the man, possessing neither inferiority nor superiority, but being in all things like and equal to himself. As man was made a social creature, it was not proper that he should be alone; for to be alone, i.e. without a matrimonial companion, was not good. Hence we find that celibacy in general is a thing that is not good, whether it be on the side of the man or of the woman. Men may, in opposition to the declaration of God, call this a state of excellence and a state of perfection; but let them remember that the word of God says the reverse."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 2:19",
+      "note_ref": "CLARKE/1/2/19",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "Out of the ground, etc. - Concerning the formation of the different kinds of animals, see the preceding chapter, Genesis 1 (note)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 2:20",
+      "note_ref": "CLARKE/1/2/20",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "And Adam gave names to all cattle - Two things God appears to have had in view by causing man to name all the cattle, etc. 1. To show him with what comprehensive powers of mind his Maker had endued him; and 2. To show him that no creature yet formed could make him a suitable companion. And that this twofold purpose was answered we shall shortly see; for,\n1. Adam gave names; but how? From an intimate knowledge of the nature and properties of each creature. Here we see the perfection of his knowledge; for it is well known that the names affixed to the different animals in Scripture always express some prominent feature and essential characteristic of the creatures to which they are applied. Had he not possessed an intuitive knowledge of the grand and distinguishing properties of those animals, he never could have given them such names. This one circumstance is a strong proof of the original perfection and excellence of man, while in a state of innocence; nor need we wonder at the account. Adam was the work of an infinitely wise and perfect Being, and the effect must resemble the cause that produced it.\n2. Adam was convinced that none of these creatures could be a suitable companion for him, and that therefore he must continue in the state that was not good, or be a farther debtor to the bounty of his Maker; for among all the animals which he had named there was not found a help meet for him. Hence we read,"
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 2:21",
+      "note_ref": "CLARKE/1/2/21",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "The Lord God caused a deep sleep to fall upon Adam, etc. - This was neither swoon nor ecstasy, but what our translation very properly terms a deep sleep.\nAnd he took one of his ribs - It is immaterial whether we render צלע tsela a rib, or a part of his side, for it may mean either: some part of man was to be used on the occasion, whether bone or flesh it matters not; though it is likely, from verse Gen 2:23, that a part of both was taken; for Adam, knowing how the woman was formed, said, This is flesh of my flesh, and bone of my bone. God could have formed the woman out of the dust of the earth, as he had formed the man; but had he done so, she must have appeared in his eyes as a distinct being, to whom he had no natural relation. But as God formed her out of a part of the man himself, he saw she was of the same nature, the same identical flesh and blood, and of the same constitution in all respects, and consequently having equal powers, faculties, and rights. This at once ensured his affection, and excited his esteem."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Corinthians 7:1",
+      "note_ref": "CLARKE/46/7/1",
+      "cites": [
+        "1 Corinthians 7:1"
+      ],
+      "text": "The things whereof ye wrote unto me - It is sufficiently evident that the principal part of this epistle was written in answer to some questions which had been sent to the apostle in a letter from the Corinthian Church; and the first question seems to be this: \"Is it proper for a man to marry in the present circumstances of the Church?\" The question concerning the expediency or inexpediency of marriage was often agitated among the ancient philosophers; and many, though inclined to decide against it, because of the troubles and cares connected with it, tolerated it in their opinions; because, though an evil, it was judged to be a necessary evil. The words of Menander are full to this effect: Γαμειν, εαν τις την αληθειαν σκοπῃ, κακον μεν εστιν, αλλ' αναγκαιον κακον· \"If a man consider marriage in a proper point of view, it is an evil; but then it is a necessary evil.\" Metellus Numidicus spoke of it nearly in the same way. Si sine uxore possemus, Quirites, esse, omnes ea molestia careremus; sed quoniam ita natura tradidit, ut nec Cum Illis salis commode, nec Sine Illis ullo modo vivi possit, saluti perpetus potius quam brevi voluptati consulendum. \"If, O ye Romans, we could live unmarried, we should be saved from a great deal of trouble; but, seeing that nature has so ordered it that we cannot live very comfortably with wives, and without them cannot live at all, marriage should be adopted, not for the sake of the short-lived pleasure, but rather for perpetual safety.\" But this was not the common opinion; the Jews absolutely required that every man should marry, and reputed those as murderers who did not. - See on Co1 7:6 (note). By the laws of Lycurgus unmarried persons were prohibited from seeing the public games. By the laws of the Spartans bachelors were punished. And Plato declares all such unworthy of any honor. And to this the commentator says, Amen.\nNot to touch a woman - Γυναικος μη ἁπτεσθαι· The learned reader need not be informed in what sense ἁπτομαι is used among the Greeks, and langere among the Latins. For examples Wetstein may be consulted."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Corinthians 7:2",
+      "note_ref": "CLARKE/46/7/2",
+      "cites": [
+        "1 Corinthians 7:1"
+      ],
+      "text": "To avoid fornication - Δια τας πορνειας· verto, propter exercendam libidinem, vel ut libidinem licite exercere liceat. Probo hanc notionem ex Hebraeo, ibi זנה, zanah, est libidinem exercere, Hos 4:10 : For they shall eat and not have enough; they shall commit whoredom, תזנו, libidinem exercebunt, and shall not increase. Here the prophet certainly does not speak of whoredom in our sense of the word; for the persons he mentions expected to have children, which cannot be said of those who are addicted to improper connections: the prophet speaks concerning married persons, whom he threatens with a privation of children, notwithstanding libidinem exercebant in order to have numerous families. See Schoettgen. The following verse shows that this is the apostle's meaning.\nLet every man have his own wife - Let every man have one woman, his own; and every woman one man, her own. Here, plurality of wives and husbands is most strictly forbidden; and they are commanded to marry for the purpose of procreating children.\nIn the Jewish constitutions there are some things not only curious, but useful, respecting marriage. \"There are four causes which induce men to marry:\n1. Impure desire;\n2. To get riches;\n3. To become honorable;\n4. For the glory of God.\nThose who marry through the first motive beget wicked and rebellious children. Those who marry for the sake of riches have the curse of leaving them to others. Those who marry for the sake of aggrandizing their family, their families shall be diminished. Those who marry to promote the glory of God, their children shall be holy, and by them shall the true Church be increased.\""
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Corinthians 7:6",
+      "note_ref": "CLARKE/46/7/6",
+      "cites": [
+        "1 Corinthians 7:7"
+      ],
+      "text": "I speak this by permission, etc. - It was a constant custom of the more conscientious rabbins, to make a difference between the things which they enjoined on their own judgment, and those which they built on the authority of the law. Thus Rabbi Tancum: \"The washing of hands before meat is in our own power; washing after meat is commanded.\" In relation to this point Dr. Lightfoot produces some examples from the Jewish writers: \"The man is commanded concerning begetting and multiplying, but not the woman. And when does the man come under this command? From the age of sixteen or seventeen years; but, if he exceeds twenty years without marrying, behold he violates and renders an affirmative precept vain. The Gemara says: It is forbidden a man to be without a wife; because it is written, It is not good for man to be alone. And whosoever gives not himself to generation and multiplying is all one with a murderer: he is as though he diminished from the image of God, etc.\" We may understand the apostle here as saying that the directions already given were from his own judgment, and not from any Divine inspiration; and we may take it for granted that where he does not make this observation he is writing under the immediate afflatus of the Holy Spirit."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Corinthians 7:7",
+      "note_ref": "CLARKE/46/7/7",
+      "cites": [
+        "1 Corinthians 7:7"
+      ],
+      "text": "For I would that all men, etc. - He wished that all that were then in the Church were, like him self, unmarried; but this was in reference to the necessities of the Church, or what he calls, Co1 7:26, the present distress: for it never could be his wish that marriage should cease among men, and that human beings should no longer be propagated upon earth; nor could he wish that the Church of Christ should always be composed of single persons; this would have been equally absurd; but as the Church was then in straits and difficulties, it was much better for its single members not to encumber themselves with domestic embarrassments.\nEvery man hath his proper gift of God - Continence is a state that cannot be acquired by human art or industry; a man has it from God, or not at all: and if he have it from God, he has it from him as the author of his nature; for where it does not exist naturally, it never can exist, but either by miraculous interference, which should never be expected, or by chirurgical operation, which is a shocking abomination in the sight of God. See the note on Mat 19:12 (note)."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 2:18",
+      "note_ref": "KD/1/2/18",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "Creation of the Woman. - As the creation of the man is introduced in Gen 1:26-27, with a divine decree, so here that of the woman is preceded by the divine declaration, It is not good that the man should be alone; I will make him כּנגדּו עזר, a help of his like: \"i.e., a helping being, in which, as soon as he sees it, he may recognise himself\" (Delitzsch). Of such a help the man stood in need, in order that he might fulfil his calling, not only to perpetuate and multiply his race, but to cultivate and govern the earth. To indicate this, the general word כנגדו עזר is chosen, in which there is an allusion to the relation of the sexes. To call out this want, God brought the larger quadrupeds and birds to the man, \"to see what he would call them (לו lit., each one); and whatsoever the man might call every living being should be its name.\" The time when this took place must have been the sixth day, on which, according to Gen 1:27, the man and woman were created: and there is no difficulty in this, since it would not have required much time to bring the animals to Adam to see what he would call them, as the animals of paradise are all we have to think of; and the deep sleep into which God caused the man to fall, till he had formed the woman from his rib, need not have continued long. In Gen 1:27 the creation of the woman is linked with that of the man; but here the order of sequence is given, because the creation of the woman formed a chronological incident in the history of the human race, which commences with the creation of Adam. The circumstance that in Gen 2:19 the formation of the beasts and birds is connected with the creation of Adam by the imperf. c. ו consec., constitutes to objection to the plan of creation given in Gen 1. The arrangement may be explained on the supposition, that the writer, who was about to describe the relation of man to the beasts, went back to their creation, in the simple method of the early Semitic historians, and placed this first instead of making it subordinate; so that our modern style of expressing the same thought would be simply this: \"God brought to Adam the beasts which He had formed.\"\n(Note: A striking example of this style of narrative we find in Kg1 7:13. First of all, the building and completion of the temple are noticed several times in 1 Kings 6, and the last time in connection with the year and month (Kg1 6:9, Kg1 6:14, Kg1 6:37-38); after that, the fact is stated, that the royal palace was thirteen years in building; and then the writer proceeds thus: \"And king Solomon sent and fetched Hiram from Tyre...and he came to king Solomon, and did all his work; and made the two pillars,\" etc. Now, if we were to understand the historical preterite with consec., here, as giving the order of sequence, Solomon would be made to send for the Tyrian artist, thirteen years after the temple was finished, to come and prepare the pillars for the porch, and all the vessels needed for the temple. But the writer merely expresses in Semitic style the simple thought, that \"Hiram, whom Solomon fetched from Tyre, made the vessels,\" etc. Another instance we find in Jdg 2:6.)\nMoreover, the allusion is not to the creation of all the beasts, but simply to that of the beasts living in the field (game and tame cattle), and of the fowls of the air-to beasts, therefore, which had been formed like man from the earth, and thus stood in a closer relation to him than water animals or reptiles. For God brought the animals to Adam, to show him the creatures which were formed to serve him, that He might see what he would call them. Calling or naming presupposes acquaintance. Adam is to become acquainted with the creatures, to learn their relation to him, and by giving them names to prove himself their lord. God does not order him to name them; but by bringing the beasts He gives him an opportunity of developing that intellectual capacity which constitutes his superiority to the animal world. \"The man sees the animals, and thinks of what they are and how they look; and these thoughts, in themselves already inward words, take the form involuntarily of audible names, which he utters to the beasts, and by which he places the impersonal creatures in the first spiritual relation to himself, the personal being\" (Delitzsch). Language, as W. v. Humboldt says, is \"the organ of the inner being, or rather the inner being itself as it gradually attains to inward knowledge and expression.\" It is merely thought cast into articulate sounds or words. The thoughts of Adam with regard to the animals, to which he gave expression in the names that he gave them, we are not to regard as the mere results of reflection, or of abstraction from merely outward peculiarities which affected the senses; but as a deep and direct mental insight into the nature of the animals, which penetrated far deeper than such knowledge as is the simple result of reflecting and abstracting thought. The naming of the animals, therefore, led to this result, that there was not found a help meet for man. Before the creation of the woman we must regard the man (Adam) as being \"neither male, in the sense of complete sexual distinction, nor androgynous as though both sexes were combined in the one individual created at the first, but as created in anticipation of the future, with a preponderant tendency, a male in simple potentiality, out of which state he passed, the moment the woman stood by his side, when the mere potentia became an actual antithesis\" (Ziegler).\nThen God caused a deep sleep to fall upon the man (Gen 2:21). תּרדּמּה, a deep sleep, in which all consciousness of the outer world and of one's own existence vanishes. Sleep is an essential element in the nature of man as ordained by God, and is quite as necessary for man as the interchange of day and night for all nature besides. But this deep sleep was different from natural sleep, and God caused it to fall upon the man by day, that He might create the woman out of him. \"Everything out of which something new is to spring, sinks first of all into such a sleep\" (Ziegler). צלע means the side, and, as a portion of the human body, the rib. The correctness of this meaning, which is given by all the ancient versions, is evident from the words, \"God took one of his צלעות,\" which show that the man had several of them. \"And closed up flesh in the place thereof;\" i.e., closed the gap which had been made, with flesh which He put in the place of the rib. The woman was created, not of dust of the earth, but from a rib of Adam, because she was formed for an inseparable unity and fellowship of life with the man, and the mode of her creation was to lay the actual foundation for the moral ordinance of marriage. As the moral idea of the unity of the human race required that man should not be created as a genus or plurality,\n(Note: Natural science can only demonstrate the unity of the human race, not the descent of all men from one pair, though many naturalists question and deny even the former, but without any warrant from anthropological facts. For every thorough investigation leads to the conclusion arrived at by the latest inquirer in this department, Th. Waitz, that not only are there no facts in natural history which preclude the unity of the various races of men, and fewer difficulties in the way of this assumption than in that of the opposite theory of specific diversities; but even in mental respects there are no specific differences within the limits of the race. Delitzsch has given an admirable summary of the proofs of unity. \"That the races of men,\" he says, \"are not species of one genus, but varieties of one species, is confirmed by the agreement in the physiological and pathological phenomena in them all, by the similarity in the anatomical structure, in the fundamental powers and traits of the mind, in the limits to the duration of life, in the normal temperature of the body and the average rate of pulsation, in the duration of pregnancy, and in the unrestricted fruitfulness of marriages between the various races.\")\nso the moral relation of the two persons establishing the unity of the race required that man should be created first, and then the woman from the body of the man. By this the priority and superiority of the man, and the dependence of the woman upon the man, are established as an ordinance of divine creation. This ordinance of God forms the root of that tender love with which the man loves the woman as himself, and by which marriage becomes a type of the fellowship of love and life, which exists between the Lord and His Church (Eph 5:32). If the fact that the woman was formed from a rib, and not from any other part of the man, is significant; all that we can find in this is, that the woman was made to stand as a helpmate by the side of the man, not that there was any allusion to conjugal love as founded in the heart; for the text does not speak of the rib as one which was next the heart. The word בּנה is worthy of note: from the rib of the man God builds the female, through whom the human race is to be built up by the male (Gen 16:2; Gen 30:3)."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 2:23",
+      "note_ref": "KD/1/2/23",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "The design of God in the creation of the woman is perceived by Adam, as soon as he awakes, when the woman is brought to him by God. Without a revelation from God, he discovers in the woman \"bone of his bones and flesh of his flesh.\" The words, \"this is now (הפּעם lit., this time) bone of my bones,\" etc., are expressive of joyous astonishment at the suitable helpmate, whose relation to himself he describes in the words, \"she shall be called Woman, for she is taken out of man.\" אשּׁה is well rendered by Luther, \"Mnnin\" (a female man), like the old Latin vira from vir. The words which follow, \"therefore shall a man leave his father and his mother, and shall cleave unto his wife, and they shall become one flesh,\" are not to be regarded as Adam's, first on account of the על־כּן, which is always used in Genesis, with the exception of Gen 20:6; Gen 42:21, to introduce remarks of the writer, either of an archaeological or of a historical character, and secondly, because, even if Adam on seeing the woman had given prophetic utterance to his perception of the mystery of marriage, he could not with propriety have spoken of father and mother. They are the words of Moses, written to bring out the truth embodied in the fact recorded as a divinely appointed result, to exhibit marriage as the deepest corporeal and spiritual unity of man and woman, and to hold up monogamy before the eyes of the people of Israel as the form of marriage ordained by God. But as the words of Moses, they are the utterance of divine revelation; and Christ could quote them, therefore, as the word of God (Mat 19:5). By the leaving of father and mother, which applies to the woman as well as to the man, the conjugal union is shown to be a spiritual oneness, a vital communion of heart as well as of body, in which it finds its consummation. This union is of a totally different nature from that of parents and children; hence marriage between parents and children is entirely opposed to the ordinance of God. Marriage itself, notwithstanding the fact that it demands the leaving of father and mother, is a holy appointment of God; hence celibacy is not a higher or holier state, and the relation of the sexes for a pure and holy man is a pure and holy relation. This is shown in Gen 2:25 : \"They were both naked ערוּמּים, with dagesh in the מ, is an abbreviated form of עירמּים Gen 3:7, from עוּר to strip), the man and his wife, and were not ashamed.\" Their bodies were sanctified by the spirit, which animated them. Shame entered first with sin, which destroyed the normal relation of the spirit to the body, exciting tendencies and lusts which warred against the soul, and turning the sacred ordinance of God into sensual impulses and the lust of the flesh."
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 2:16",
+      "note_ref": "MHC/1/2/16",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "Observe here, I. God's authority over man, as a creature that had reason and freedom of will. The Lord God commanded the man, who stood now as a public person, the father and representative of all mankind, to receive law, as he had lately received a nature, for himself and all his. God commanded all the creatures, according to their capacity; the settled course of nature is a law, Psa 148:6; Psa 104:9. The brute-creatures have their respective instincts; but man was made capable of performing reasonable service, and therefore received, not only the command of a Creator, but the command of a Prince and Master. Though Adam was a very great man, a very good man, and a very happy man, yet the Lord God commanded him; and the command was no disparagement to his greatness, no reproach to his goodness, nor any diminution at all to his happiness. Let us acknowledge God's right to rule us, and our own obligations to be ruled by him; and never allow any will of our own in contradiction to, or competition with, the holy will of God.\nII. The particular act of this authority, in prescribing to him what he should do, and upon what terms he should stand with his Creator. Here is,\n1. A confirmation of his present happiness to him, in that grant, Of every tree in the garden thou mayest freely eat. This was not only an allowance of liberty to him, in taking the delicious fruits of paradise, as a recompence for his care and pains in dressing and keeping it (Co1 9:7, Co1 9:10), but it was, withal, an assurance of life to him, immortal life, upon his obedience. For the tree of life being put in the midst of the garden (Gen 2:9), as the heart and soul of it, doubtless God had an eye to that especially in this grant; and therefore when, upon his revolt, this grant is recalled, no notice is taken of any tree of the garden as prohibited to him, except the tree of life (Gen 3:22), of which it is there said he might have eaten and lived for ever, that is, never died, nor ever lost his happiness. \"Continue holy as thou art, in conformity to thy Creator's will, and thou shalt continue happy as thou art in the enjoyment of thy Creator's favour, either in this paradise or in a better.\" Thus, upon condition of perfect personal and perpetual obedience, Adam was sure of paradise to himself and his heirs for ever.\n2. A trial of his obedience, upon pain of the forfeiture of all his happiness: \"But of the other tree which stood very near the tree of life (for they are both said to be in the midst of the garden), and which was called the tree of knowledge, in the day thou eatest thereof, thou shalt surely die;\" as if he had said, \"Know, Adam, that thou art now upon thy good behaviour, thou art put into paradise upon trial; be observant, be obedient, and thou art made for ever; otherwise thou wilt be as miserable as now thou art happy.\" Here,\n(1.) Adam is threatened with death in case of disobedience: Dying thou shalt die, denoting a sure and dreadful sentence, as, in the former part of this covenant, eating thou shalt eat, denotes a free and full grant. Observe [1.] Even Adam, in innocency, was awed with a threatening; fear is one of the handles of the soul, by which it is taken hold of and held. If he then needed this hedge, much more do we now. [2.] The penalty threatened is death: Thou shalt die, that is, \"Thou shalt be debarred from the tree of life, and all the good that is signified by it, all the happiness thou hast, either in possession or prospect; and thou shalt become liable to death, and all the miseries that preface it and attend it.\" [3.] This was threatened as the immediate consequence of sin: In the day thou eatest, thou shalt die, that is, \"Thou shalt become mortal and capable of dying; the grant of immortality shall be recalled, and that defence shall depart from thee. Thou shalt become obnoxious to death, like a condemned malefactor that is dead in the law\" (only, because Adam was to be the root of mankind, he was reprieved); \"nay, the harbingers and forerunners of death shall immediately seize thee, and thy life, thenceforward, shall be a dying life: and this, surely; it is a settled rule, the soul that sinneth, it shall die.\"\n(2.) Adam is tried with a positive law, not to eat of the fruit of the tree of knowledge. Now it was very proper to make trial of his obedience by such a command as this, [1.] Because the reason of it is fetched purely from the will of the Law-maker. Adam had in his nature an aversion to that which was evil in itself, and therefore he is tried in a thing which was evil only because it was forbidden; and, being in a small thing, it was the more fit to prove his obedience by. [2.] Because the restraint of it is laid upon the desires of the flesh and of the mind, which, in the corrupt nature of man, are the two great fountains of sin. This prohibition checked both his appetite towards sensitive delights and his ambitions of curious knowledge, that his body might be ruled by his soul and his soul by his God.\nThus easy, thus happy, was man in a state of innocency, having all that heart could wish to make him so. How good was God to him! How many favours did he load him with! How easy were the laws he gave him! How kind the covenant he made with him! Yet man, being in honour, understood not his own interest, but soon became as the beasts that perish."
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 2:18",
+      "note_ref": "MHC/1/2/18",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "Here we have, I. An instance of the Creator's care of man and his fatherly concern for his comfort, Gen 2:18. Though God had let him know that he was a subject, by giving him a command, (Gen 2:16, Gen 2:17), yet here he lets him know also, for his encouragement in his obedience, that he was a friend, and a favourite, and one whose satisfaction he was tender of. Observe,\n1. How God graciously pitied his solitude: It is not good that man, this man, should be alone. Though there was an upper world of angels and a lower world of brutes, and he between them, yet there being none of the same nature and rank of beings with himself, none that he could converse familiarly with, he might be truly said to be alone. Now he that made him knew both him and what was good for him, better than he did himself, and he said, \"It is not good that he should continue thus alone.\" (1.) It is not for his comfort; for man is a sociable creature. It is a pleasure to him to exchange knowledge and affection with those of his own kind, to inform and to be informed, to love and to be beloved. What God here says of the first man Solomon says of all men (Ecc 4:9, etc.), that two are better than one, and woe to him that is alone. If there were but one man in the world, what a melancholy man must he needs be! Perfect solitude would turn a paradise into a desert, and a palace into a dungeon. Those therefore are foolish who are selfish and would be place alone in the earth. (2.) It is not for the increase and continuance of his kind. God could have made a world of men at first, to replenish the earth, as he replenished heaven with a world of angels: but the place would have been too strait for the designed number of men to live together at once; therefore God saw fit to make up that number by a succession of generations, which, as God had formed man, must be from two, and those male and female; one will be ever one.\n2. How God graciously resolved to provide society for him. The result of this reasoning concerning him was this kind resolution, I will make a help-meet for him; a help like him (so some read it), one of the same nature and the same rank of beings; a help near him (so others), one to cohabit with him, and to be always at hand; a help before him (so others), one that he should look upon with pleasure and delight. Note hence, (1.) In our best state in this world we have need of one another's help; for we are members one of another, and the eye cannot say to the hand, I have no need of thee, Co1 12:21. We must therefore be glad to receive help from others, and give help to others, as there is occasion. (2.) It is God only who perfectly knows our wants, and is perfectly able to supply them all, Phi 4:19. In him alone our help is, and from him are all our helpers. (3.) A suitable wife is a help-meet, and is from the Lord. The relation is then likely to be comfortable when meetness directs and determines the choice, and mutual helpfulness is the constant care and endeavour, Co1 7:33, Co1 7:34. (4.) Family-society, if it is agreeable, is a redress sufficient for the grievance of solitude. He that has a good God, a good heart, and a good wife, to converse with, and yet complains he wants conversation, would not have been easy and content in paradise; for Adam himself had no more: yet, even before Eve was created, we do not find that he complained of being alone, knowing that he was not alone, for the Father was with him. Those that are most satisfied in God and his favour are in the best way, and in the best frame, to receive the good things of this life, and shall be sure of them, as far as Infinite Wisdom sees good.\nII. An instance of the creatures' subjection to man, and his dominion over them (Gen 2:19, Gen 2:20): Every beast of the field and every fowl of the air God brought to Adam, either by the ministry of angels, or by a special instinct, directing them to come to man as their master, teaching the ox betimes to know his owner. Thus God gave man livery and seisin of the fair estate he had granted him, and put him in possession of his dominion over the creatures. God brought them to him, that he might name them, and so might give, 1. A proof of his knowledge, as a creature endued with the faculties both of reason and speech, and so taught more than the beasts of the earth and made wiser than the fowls of the heaven, Job 35:11. And, 2. A proof of his power. It is an act of authority to impose names (Dan 1:7), and of subjection to receive them. The inferior creatures did now, as it were, do homage to their prince at his inauguration, and swear fealty and allegiance to him. If Adam had continued faithful to his God, we may suppose the creatures themselves would so well have known and remembered the names Adam now gave them as to have come at his call, at any time, and answered to their names. God gave names to the day and night, to the firmament, to the earth, and to the sea; and he calleth the stars by their names, to show that he is the supreme Lord of these. But he gave Adam leave to name the beasts and fowls, as their subordinate lord; for, having made him in his own image, he thus put some of his honour upon him.\nIII. An instance of the creatures' insufficiency to be a happiness for man: But (among them all) for Adam there was not found a help meet for him. Some make these to be the words of Adam himself; observing all the creatures come to him by couples to be named, he thus intimates his desire to his Maker: - \"Lord, these have all helps meet for them; but what shall I do? Here is never a one for me.\" It is rather God's judgment upon the review. He brought them all together, to see if there were ever a suitable match for Adam in any of the numerous families of the inferior creatures; but there was none. Observe here, 1. The dignity and excellency of the human nature. On earth there was not its like, nor its peer to be found among all visible creatures; they were all looked over, but it could not be matched among them all. 2. The vanity of this world and the things of it; put them all together, and they will not make a help-meet for man. They will not suit the nature of his soul, nor supply its needs, nor satisfy its just desires, nor run parallel with its never-failing duration. God creates a new thing to be a help-meet for man - not so much the woman as the seed of the woman."
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 2:21",
+      "note_ref": "MHC/1/2/21",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "Here we have, I. The making of the woman, to be a help-meet for Adam. This was done upon the sixth day, as was also the placing of Adam in paradise, though it is here mentioned after an account of the seventh day's rest; but what was said in general (Gen 1:27), that God made man male and female, is more distinctly related here. Observe, 1. That Adam was first formed, then Eve (Ti1 2:13), and she was made of the man, and for the man (Co1 11:8, Co1 11:9), all which are urged there as reasons for the humility, modesty, silence, and submissiveness, of that sex in general, and particularly the subjection and reverence which wives owe to their own husbands. Yet man being made last of the creatures, as the best and most excellent of all, Eve's being made after Adam, and out of him, puts an honour upon that sex, as the glory of the man, Co1 11:7. If man is the head, she is the crown, a crown to her husband, the crown of the visible creation. The man was dust refined, but the woman was dust double-refined, one remove further from the earth. 2. That Adam slept while his wife was in making, that no room might be left to imagine that he had herein directed the Spirit of the Lord, or been his counsellor, Isa 40:13. He had been made sensible of his want of a meet help; but, God having undertaken to provide him one, he does not afflict himself with any care about it, but lies down and sleeps sweetly, as one that had cast all his care on God, with a cheerful resignation of himself and all his affairs to his Maker's will and wisdom. Jehovah-jireh, let the Lord provide when and whom he pleases. If we graciously rest in God, God will graciously work for us and work all for good. 3. That God caused a sleep to fall on Adam, and made it a deep sleep, that so the opening of his side might be no grievance to him; while he knows no sin, God will take care he shall feel no pain. When God, by his providence, does that to his people which is grievous to flesh and blood, he not only consults their happiness in the issue, but by his grace he can so quiet and compose their spirits as to make them easy under the sharpest operations. 4. That the woman was made of a rib out of the side of Adam; not made out of his head to rule over him, nor out of his feet to be trampled upon by him, but out of his side to be equal with him, under his arm to be protected, and near his heart to be beloved. Adam lost a rib, and without any diminution to his strength or comeliness (for, doubtless, the flesh was closed without a scar); but in lieu thereof he had a help meet for him, which abundantly made up his loss: what God takes away from his people he will, one way or other, restore with advantage. In this (as in many other things) Adam was a figure of him that was to come; for out of the side of Christ, the second Adam, his spouse the church was formed, when he slept the sleep, the deep sleep, of death upon the cross, in order to which his side was opened, and there came out blood and water, blood to purchase his church and water to purify it to himself. See Eph 5:25, Eph 5:26.\nII. The marriage of the woman to Adam. Marriage is honourable, but this surely was the most honourable marriage that ever was, in which God himself had all along an immediate hand. Marriages (they say) are made in heaven: we are sure this was, for the man, the woman, the match, were all God's own work; he, by his power, made them both, and now, by his ordinance, made them one. This was a marriage made in perfect innocency, and so was never any marriage since, 1. God, as her Father, brought the woman to the man, as his second self, and a help-meet for him. When he had made her, he did not leave her to her own disposal; no, she was his child, and she must not marry without his consent. Those are likely to settle to their comfort who by faith and prayer, and a humble dependence upon providence, put themselves under a divine conduct. That wife that is of God's making by special grace, and of God's bringing by special providence, is likely to prove a help-meet for a man. 2. From God, as his Father, Adam received her (Gen 2:23): \"This is now bone of my bone. Now I have what I wanted, and which all the creatures could not furnish me with, a help meet for me.\" God's gifts to us are to be received with a humble thankful acknowledgment of his wisdom in suiting them to us, and his favour in bestowing them on us. Probably it was revealed to Adam in a vision, when he was asleep, that this lovely creature, now presented to him, was a piece of himself, and was to be his companion and the wife of his covenant. Hence some have fetched an argument to prove that glorified saints in the heavenly paradise shall know one another. Further, in token of his acceptance of her, he gave her a name, not peculiar to her, but common to her sex: She shall be called woman, Isha, a she-man, differing from man in sex only, not in nature - made of man, and joined to man.\nIII. The institution of the ordinance of marriage, and the settling of the law of it, Gen 2:24. The sabbath and marriage were two ordinances instituted in innocency, the former for the preservation of the church, the latter for the preservation of the world of mankind. It appears (by Mat 19:4, Mat 19:5) that it was God himself who said here, \"A man must leave all his relations, to cleave to his wife;\" but whether he spoke it by Moses, the penman, or by Adam (who spoke, Gen 2:23), is uncertain. It should seem, they are the words of Adam, in God's name, laying down this law to all his posterity. 1. See here how great the virtue of a divine ordinance is; the bonds of it are stronger even than those of nature. To whom can we be more firmly bound than the fathers that begat us and the mothers that bore us? Yet the son must quit them, to be joined to his wife, and the daughter forget them, to cleave to her husband, Psa 45:10, Psa 45:11. 2. See how necessary it is that children should take their parents' consent along with them in their marriage, and how unjust those are to their parents, as well as undutiful, who marry without it; for they rob them of their right to them, and interest in them, and alienate it to another, fraudulently and unnaturally. 3. See what need there is both of prudence and prayer in the choice of this relation, which is so near and so lasting. That had need be well done which is to be done for life. 4. See how firm the bond of marriage is, not to be divided and weakened by having many wives (Mal 2:15) nor to be broken or cut off by divorce, for any cause but fornication, or voluntary desertion. 5. See how dear the affection ought to be between husband and wife, such as there is to our own bodies, Eph 5:28. These two are one flesh; let them then be one soul.\nIV. An evidence of the purity and innocency of that state wherein our first parents were created, Gen 2:25. They were both naked. They needed no clothes for defense against cold nor heat, for neither could be injurious to them. They needed none for ornament. Solomon in all his glory was not arrayed like one of these. Nay, they needed none for decency; they were naked, and had no reason to be ashamed. They knew not what shame was, so the Chaldee reads it. Blushing is now the colour of virtue, but it was not then the colour of innocency. Those that had no sin in their conscience might well have no shame in their faces, though they had no clothes to their backs."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Corinthians 7:1",
+      "note_ref": "MHC/46/7/1",
+      "cites": [
+        "1 Corinthians 7:1",
+        "1 Corinthians 7:7"
+      ],
+      "text": "The apostle comes now, as a faithful and skilful casuist, to answer some cases of conscience which the Corinthians had proposed to him. Those were things whereof they wrote to him, Co1 7:1. As the lips of ministers should keep knowledge, so the people should ask the law at their mouths. The apostle was as ready to resolve as they were to propose their doubts. In the former chapter, he warns them to avoid fornication; here he gives some directions about marriage, the remedy God had appointed for it. He tells them in general,\nI. That it was good, in that juncture of time at least, to abstain from marriage altogether: It is good for a man not to touch a woman (not to take her to wife), by good here not understanding what is so conformable to the mind and will of God as if to do otherwise were sin, an extreme into which many of the ancients have run in favour of celibacy and virginity. Should the apostle be understood in this sense, he would contradict much of the rest of his discourse. But it is good, that is, either abstracting from circumstances there are many things in which the state of celibacy has the advantage above the marriage state; or else at this juncture, by reason of the distress of the Christian church, it would be a convenience for Christians to keep themselves single, provided they have the gift of continency, and at the same time can keep themselves chaste. The expression also may carry in it an intimation that Christians must avoid all occasions of this sin, and flee all fleshly lusts, and incentives to them; must neither look on nor touch a woman, so as to provoke lustful inclinations. Yet,\nII. He informs them that marriage, and the comforts and satisfactions of that state, are by divine wisdom prescribed for preventing fornication (Co1 7:2), Porneias - Fornications, all sorts of lawless lust. To avoid these, Let every man, says he, have his own wife, and every woman her own husband; that is, marry, and confine themselves to their own mates. And, when they are married, let each render the other due benevolence (Co1 7:3), consider the disposition and exigency of each other, and render conjugal duty, which is owing to each other. For, as the apostle argues (Co1 7:4), in the married state neither person has power over his own body, but has delivered it into the power of the other, the wife hers into the power of the husband, the husband his into the power of the wife. Note, Polygamy, or the marriage of more persons than one, as well as adultery, must be a breach of marriage-covenants, and a violation of the partner's rights. And therefore they should not defraud one another of the use of their bodies, nor any other of the comforts of the conjugal state, appointed of God for keeping the vessel in sanctification and honour, and preventing the lusts of uncleanness, except it be with mutual consent (Co1 7:5) and for a time only, while they employ themselves in some extraordinary duties of religion, or give themselves to fasting and prayer. Note, Seasons of deep humiliation require abstinence from lawful pleasures. But this separation between husband and wife must not be for a continuance, lest they expose themselves to Satan's temptations, by reason of their incontinence, or inability to contain. Note, Persons expose themselves to great danger by attempting to perform what is above their strength, and at the same time not bound upon them by any law of God. If they abstain from lawful enjoyments, they may be ensnared into unlawful ones. The remedies God hath provided against sinful inclinations are certainly best.\nIII. The apostle limits what he had said about every man's having his own wife, etc. (Co1 7:2): I speak this by permission, not of command. He did not lay it as an injunction upon every man to marry without exception. Any man might marry. No law of God prohibited the thing. But, on the other hand, not law bound a man to marry so that he sinned if he did not; I mean, unless his circumstances required it for preventing the lust of uncleanness. It was a thing in which men, by the laws of God, were in a great measure left at liberty. And therefore Paul did not bind every man to marry, though every man had an allowance. No, he could wish all men were as himself (Co1 7:7), that is, single, and capable of living continently in that state. There were several conveniences in it, which at that season, if not at others, made it more eligible in itself. Note, It is a mark of true goodness to wish all men as happy as ourselves. But it did not answer the intentions of divine Providence as well for all men to have as much command of this appetite as Paul had. It was a gift vouchsafed to such persons as Infinite Wisdom thought proper: Every one hath his proper gift of God, one after this manner and another after that. Natural constitutions vary; and, where there may not be much difference in the constitution, different degrees of grace are vouchsafed, which may give some a greater victory over natural inclination than others. Note, The gifts of God, both in nature and grace, are variously distributed. Some have them after this manner and some after that. Paul could wish all men were as himself, but all men cannot receive such a saying, save those to whom it is given, Mat 19:11.\nIV. He sums up his sense on this head (Co1 7:9, Co1 7:10): I say therefore to the unmarried and widows, to those in a state of virginity or widowhood, It is good for them if they abide even as I. There are many conveniences, and especially at this juncture, in a single state, to render it preferable to a married one. It is convenient therefore that the unmarried abide as I, which plainly implies that Paul was at that time unmarried. But, if they cannot contain, let them marry; for it is better to marry than to burn. This is God's remedy for lust. The fire may be quenched by the means he has appointed. And marriage, with all its inconveniences, is much better than to burn with impure and lustful desires. Marriage is honourable in all; but it is a duty in those who cannot contain nor conquer those inclinations."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 2:18",
+      "note_ref": "TYN/1/2/18",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "2:18-23 As human creation was the climax of ch 1, so human intimacy is the high point of ch 2. God’s concern for mutual human support and companionship finds no parallel in ancient Near Eastern literature.\n2:18 It is not good: This is God’s first negative assessment of an otherwise excellent creation (1:31). The Lord God is portrayed as a father who obtains a bride for his son (cp. ch 24). • The answer to the man’s need is a helper who is just right for him; she is his perfect complement, made in the same image of God (1:26-27), given the same commission (1:28; 2:15), and obligated by the same prohibition (2:17). The man cannot fulfill his created purpose alone."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 2:19",
+      "note_ref": "TYN/1/2/19",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "2:19-20 to see what he would call them: Following God’s example (1:5, 8, 10), the man chose a name for each of the creatures. In so doing, he was exercising his reign over creation (1:26, 28)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 2:23",
+      "note_ref": "TYN/1/2/23",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "2:23 Adam recognized the woman as a “helper just right for him” (2:20). His celebration of her in poetry and song observed his unity with her, not their distinctions (cp. 29:14). • Adam declares that “She will be called ‘woman’ (Hebrew ’ishah) because she was taken from ‘man’ (Hebrew ’ish).” He understood the nature of their connection (see Eph 5:28-29). Adam had earlier assessed the animals without finding the characteristics he needed in a partner. How different this evaluation is!"
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 2:24",
+      "note_ref": "TYN/1/2/24",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "2:24 Marriage between a man and a woman is not just a human social construct but is rooted in the created order. • a man leaves . . . and is joined: Marriage entails a shift of loyalty from parents to spouse. • the two are united into one: Marriage and its commitments make it the most fundamental covenant relationship observed among humans. Marriage is a powerful image of Israel’s covenant with God (Hos 2:14-23) and of Christ’s relationship to the church (Eph 5:22-32). Marriage is designed as an inseparable, exclusive relationship between a man and a woman. The family unit it creates is the basic building block of human society."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Corinthians 7:1",
+      "note_ref": "TYN/46/7/1",
+      "cites": [
+        "1 Corinthians 7:1"
+      ],
+      "text": "7:1–16:4 Paul now addresses the questions the Corinthians had asked him by letter, beginning with the question of marriage (cp. 7:25; 8:1; 12:1; 16:1).\n7:1-40 Paul consistently states his strong conviction that true Christians, as slaves of Christ, are wholly claimed by Christ the Lord for his own service. Because of this, he recommends that Christians remain single, but concedes that getting married is no sin.\n7:1 it is good to abstain from sexual relations: Both Paul and Jesus encouraged the ideal of a celibate life for God’s sake (cp. Matt 19:10-12). Paul’s emphasis on celibacy is shaped by his expectation that the end of the age is near (see 1 Cor 7:29-31)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Corinthians 7:2",
+      "note_ref": "TYN/46/7/2",
+      "cites": [
+        "1 Corinthians 7:1"
+      ],
+      "text": "7:2 Because of widespread sexual immorality, Paul encourages most Christians to get married (7:9). He tempers the ideal of the celibate life with awareness of physical realities."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Corinthians 7:6",
+      "note_ref": "TYN/46/7/6",
+      "cites": [
+        "1 Corinthians 7:7"
+      ],
+      "text": "7:6-7 Paul’s preference is singleness, but he recognizes that both marriage and the single life are among the gifts that God gives to various people."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Corinthians 7:8",
+      "note_ref": "TYN/46/7/8",
+      "cites": [
+        "1 Corinthians 7:7"
+      ],
+      "text": "7:8-9 Paul’s general advice is that it’s better to stay unmarried because of the opportunities it provides to serve Christ without distraction (7:32-35). But even with its distractions, an honorable marriage is much better than living a life dominated by unsatisfied sexual desire."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 2:18",
+      "note_ref": "GNV/1/2/18",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "Hebrew, before him."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 2:19",
+      "note_ref": "GNV/1/2/19",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "By moving them to come and submit themselves to Adam."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 2:22",
+      "note_ref": "GNV/1/2/22",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "Hebrew, built.\nSignifying that mankind was perfect, when the woman was created, which before was like an imperfect building."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 2:23",
+      "note_ref": "GNV/1/2/23",
+      "cites": [
+        "Genesis 2:18-24"
+      ],
+      "text": "Or, Manness, because she cometh of man: for in Hebrew Ish is man, and Ishah the woman."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Corinthians 7:1",
+      "note_ref": "GNV/46/7/1",
+      "cites": [
+        "1 Corinthians 7:1"
+      ],
+      "text": "Touching those matters whereof you wrote unto me.\nHe teacheth concerning marriage, that although a single life hath his commodities, which he will declare afterwards, yet that marriage is necessary for the avoiding of fornication: but so that neither one man may have many wives, or any wife many husbands.\nCommodious, and (as we say) expedient. For marriage bringeth many griefs with it, and that by reason of the corruption of our first estate."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Corinthians 7:6",
+      "note_ref": "GNV/46/7/6",
+      "cites": [
+        "1 Corinthians 7:7"
+      ],
+      "text": "Fifthly, he teacheth that marriage is not simply necessary for all men, but for them which have not the gift of continency, and this gift is by a peculiar grace of God."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Corinthians 7:7",
+      "note_ref": "GNV/46/7/7",
+      "cites": [
+        "1 Corinthians 7:7"
+      ],
+      "text": "I wish."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Corinthians 7:8",
+      "note_ref": "GNV/46/7/8",
+      "cites": [
+        "1 Corinthians 7:7"
+      ],
+      "text": "Sixthly, he giveth the selfsame admonition touching the second marriage, to wit, that a single life is to be allowed, but for such as have the gift of continency: otherwise they ought to marry again, that their conscience may be at peace.\nThis whole place is flat against them which condemn second marriages."
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+- [DiMattei connective scope](feedback_dimattei_connective_scope.md) — DiMattei is real & engaged Ex29/Num28, but his thesis is tamid historicity/Priestly-insertion, NOT animal-count.
+- [Paine flood-repent source = 1797 Letters](feedback_paine_flood_repent_source_1797.md) — "made a world then drowned it, repenting" vs creation's unchangeableness is from the 1797 Letters, NOT Age of Reason Part I (1794); id-33 G-line was a false positive.

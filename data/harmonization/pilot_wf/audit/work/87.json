@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 87,
+  "question": "Who was Dishon's father?",
+  "summary": "Genesis 36:20-21 and 1 Chronicles 1:38 list Dishon as one of Seir's sons, making Seir the father. A few verses later, Genesis 36:24-25 and 1 Chronicles 1:40-41 say Dishon is Anah's son — and since Anah is Seir's son in 36:20, that makes Dishon Seir's grandson, not son.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Older harmonizers resolve the clash by positing two distinct men named Dishon — Seir's son and a grandson named after his uncle — though even Gill grants the identification is difficult.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells presses the plain reading: the same Dishon is made Seir's son in one breath and Anah's son in the next, so the genealogy makes him at once Seir's son and his grandson.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); contradiction \"Who was Dishon's father?\""
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Genesis 36:21",
+        "author": "John Gill",
+        "year": "1746-63",
+        "note": "Gill treats this passage directly, distinguishing the Dishon who is Anah's son from the like-named Dishon who is Seir's son (the uncle) and weighing whether one or two men named Anah are in view."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page on an allowlisted apologetics domain (gotquestions.org / carm.org / defendinginerrancy.com) could be verified for this specific Dishon-parentage contradiction; link omitted rather than fabricated."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "87#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Genesis 36:21",
+      "full_note_ref": "GILL/1/36/21",
+      "excerpt_text": "Dishon, the name of one of his uncles. … Aben Ezra thinks this is not the same Anah that was mentioned in the beginning of this verse; since, if he was the same, there was no need to mention him again, but that he is the same that is mentioned in Gen 36:2",
+      "on_tension_rationale": "Directly engages the father-of-Dishon confusion: notes that the Dishon listed under Anah bears the name of Anah's uncle (Seir's son Dishon), and weighs whether the Anah here is even the same Anah — the two-individuals harmonization of the duplicate names.",
+      "source_note_text": "And the children of Anah were these,....\nDishon, the name of one of his uncles. Gen 36:21,\nand Aholibamah the daughter of Anah; Aben Ezra thinks this is not the same Anah that was mentioned in the beginning of this verse; since, if he was the same, there was no need to mention him again, but that he is the same that is mentioned in Gen 36:2; but if he is not the same that is spoken of in this verse and Gen 36:24, it is difficult to account for the mention of him at all in this place: that he is the same as in Gen 36:2 seems to be right, though it is attended with this difficulty, that the Anah and Aholibamah there are represented as of the Hivites, whereas here they are reckoned among the Horites; but it may be, as Ainsworth observes on Gen 36:20, that the Horites were of the race of the Hivites originally; and indeed this Aholibamah being the wife of Esau seems to be the reason of this particular notice taken of her here. She is omitted in Ch1 1:41."
+    }
+  ]
+}

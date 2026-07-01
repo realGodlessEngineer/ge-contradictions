@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 65,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The standard defense is chronological: Abraham's marriage predated the Levitical code, and marrying a paternal half-sister was reckoned lawful in that era.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the tension directly: God blesses Abraham's marriage to his paternal half-sister in Genesis, yet Leviticus and Deuteronomy curse that very union as incest.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Is incest forbidden?\" (skepticsannotatedbible.com/contra/incest.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), \"Is incest forbidden?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Genesis 20:12",
+      "excerpt_text": "and she became my wife; as in those times it was judged lawful, and so it has been accounted lawful in many nations to marry sisters on the father's side, when those on the mother's were prohibited …",
+      "full_note_ref": "GILL/1/20/12",
+      "on_tension_rationale": "Directly harmonizes by appeal to era: Abraham's marriage to a paternal half-sister was lawful at that time, before the later Levitical prohibition — the core chronological defense, keyed to the exact verse and relationship in tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Genesis 20:12",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact verse, explaining Sarah as Abraham's paternal half-sister and arguing such father-side marriages were judged lawful in that era, before the Levitical code."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Genesis_20.12.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in Genesis 20:12?",
+        "note": "Live apologetic treatment of the Abraham/Sarah half-sister marriage vs. the Levitical incest laws; argues the chronological gap plus the breadth of the term 'sister'."
+      }
+    }
+  }
+}

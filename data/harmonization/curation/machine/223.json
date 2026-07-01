@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 223,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read 16:18's \"man of war\" as a verdict drawn from David's lion-and-bear exploits, not a record of prior battlefield service.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Julius Wellhausen pressed the sharper objection that the veteran-warrior David of chapter 16 and the unknown youth of chapter 17 derive from separate sources, a tension corroborated by the shorter Septuagint text.",
+      "skeptic": {
+        "name": "Julius Wellhausen",
+        "work": "Der Text der Bücher Samuelis untersucht",
+        "year": "1871",
+        "attribution": "Julius Wellhausen (d. 1918), Der Text der Bücher Samuelis untersucht (Göttingen, 1871)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "1 Samuel 16:14",
+      "excerpt_text": "The description of David is \"a mighty man\" and \"a man of war\" does not presuppose that David had already fought bravely in war, but may be perfectly explained from what David himself afterwards affirmed respecting his conflicts with lions and bears (Sa1 17:34-35).",
+      "full_note_ref": "KD/9/16/14",
+      "on_tension_rationale": "Directly neutralizes the contradiction: 'man of war' (16:18) is read not as prior military service but as an inference from the lion/bear feats David later recounts in 17:34-35, so the two chapters describe the same untested-but-proven youth.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament: The Books of Samuel (1 Samuel 16-17)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this passage directly, defending the unity of 1 Samuel 16-17 against De Wette, Thenius and Ewald and explaining the 'man of war' description from David's earlier conflicts with lions and bears."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Saul-David.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why did Saul not know who David was after David killed Goliath?",
+        "note": "live apologetic treatment of the same 1 Samuel 16-vs-17 problem, including the chronological-reordering harmonization"
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 114,
+  "question": "Who was Moses' father-in-law?",
+  "summary": "Three different names are given for Moses' father-in-law. Exodus 3:1, 4:18, 18:1, 18:5 all call him Jethro (the priest of Midian). Numbers 10:29 and Judges 4:11 call him Hobab. Exodus 2:18-21 calls him Reuel. The verses directly identify different men by different names in the same narrative role.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Harmonizers treat the names as one family: a single father-in-law with several names, with Reuel as the elder and Hobab his son.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The source-critical objection is pressed by Steven DiMattei, who argues the names belong to different Pentateuchal traditions — Reuel in the Yahwist (Exod 2:18; Num 10:29), Jethro in the Elohist — so they are not one man harmonized but rival traditions juxtaposed.",
+    "skeptic": {
+      "name": "Steven DiMattei",
+      "work": "Contradictions in the Bible, no. 85: \"Is Moses' father-in-law Reuel OR Jethro OR Hobab?\"",
+      "year": "2013",
+      "attribution": "Steven DiMattei, Contradictions in the Bible, no. 85 (contradictionsinthebible.com, 2013)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on Exodus 2:18",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, enumerating Reuel/Raguel/Jethro/Hobab/Kenite and arguing they are one family rather than rival figures (Haley's specific coverage of this passage could not be confirmed)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Jethro-in-the-Bible.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who was Jethro in the Bible?",
+        "note": "Live apologetic treatment harmonizing the Jethro/Reuel names for Moses' father-in-law."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "114#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Exodus 2:18",
+      "full_note_ref": "CLARKE/2/2/18",
+      "excerpt_text": "The person in question appears to have several names. Here he is called Reuel; in Num 10:29, Raguel; in Exo 3:1, Jethor; in Jdg 4:11, Hobab … Some suppose that Re-u-el was father to Hobab, who was also called Jethro. This is the most likely; see Clarke's note on Exo 3:1.",
+      "on_tension_rationale": "Directly names all three contested names (Reuel, Jethro, Hobab) and the contradiction's exact references, then offers the harmonization (one family: Reuel father of Hobab/Jethro). Strongest single reconcile statement on the row.",
+      "source_note_text": "Reuel, their father - In Num 10:29 this person is called Raguel, but the Hebrew is the same in both places. The reason of this difference is that the ע ain in רעואל is sometimes used merely as vowel, sometimes as g, ng, and gn, and this is occasioned by the difficulty of the sound, which scarcely any European organs can enunciate. As pronounced by the Arabs it strongly resembles the first effort made by the throat in gargling, or as Meninski says, Est vox vituli matrem vocantis, \"It is like the sound made by a calf in seeking its dam.\" Raguel is the worst method of pronouncing it; Re-u-el, the first syllable strongly accented, is nearer to the true sound. A proper uniformity in pronouncing the same word wherever it may occur, either in the Old or New Testament, is greatly to be desired. The person in question appears to have several names. Here he is called Reuel; in Num 10:29, Raguel; in Exo 3:1, Jethor; in Jdg 4:11, Hobab; and in Jdg 1:16 he is called קיני Keyni, which in Exodus 4 we translate Kenite. Some suppose that Re-u-el was father to Hobab, who was also called Jethro. This is the most likely; see Clarke's note on Exo 3:1."
+    }
+  ]
+}

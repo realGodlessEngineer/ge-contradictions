@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 206,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read \"blessed among/above women\" as a relative, comparative idiom of honor — not an exclusive cosmic ranking — so the same praise can fall on Jael, Judith, and Mary without conflict.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells (Skeptics Annotated Bible) presses the wording directly, noting that Jael and Judith are blessed \"above\" all women while Mary is only blessed \"among\" them, so the three superlatives cannot all hold.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptics Annotated Bible, \"Who is the most blessed woman?\" (skepticsannotatedbible.com/contra/blessed.html); cf. Dwindling in Unbelief, \"Who is the most blessed woman (according to the Bible)?\"",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptics Annotated Bible, \"Who is the most blessed woman?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Luke 1:28",
+      "excerpt_text": "As the mother of our Lord, she was the most \"blessed among women\" in external distinction; but let them listen to the Lord's own words. \"Nay, rather blessed are they that hear the word of God and keep it.\"",
+      "full_note_ref": "JFB/42/1/28",
+      "on_tension_rationale": "Directly relativizes Mary's superlative: she is most blessed 'in external distinction' only, with the real blessing redefined — treats 'blessed among women' as a qualified, non-exclusive honor, dissolving the competition with Jael/Judith.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Luke 1:26",
+      "excerpt_text": "Compare it with that which Deborah saith of Jael, another that was the glory of her sex (Jdg 5:24), Blessed shall she be above women in the tent.",
+      "full_note_ref": "MHC/42/1/26",
+      "on_tension_rationale": "Explicitly sets Mary's 'blessed among women' alongside Jael's 'blessed above women' as the same comparative idiom of honor for 'the glory of her sex' — reading the two blessings as parallel praise rather than competing rankings.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Luke 1:28",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Treats this passage directly, reading Mary's 'blessed among women' as a relative honor 'in external distinction' and explicitly subordinating it to the Lord's own redefinition of blessedness, which resolves the competing-superlatives objection. Haley's coverage of this specific minor row is unconfirmed, so anchored to a harmonizing commentator surfaced on the row, per the policy's 'also acceptable' provision."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) squarely engages the multiple-most-blessed-women tension: gotquestions blessed-among-women.html is a 404; Jael-in-the-Bible.html quotes Judges 5:24 but does not address the comparison with Mary/Judith (WebFetch-confirmed); virgin-Mary.html does not engage the Jael/Judith parallel. Link omitted rather than guessed."
+      }
+    }
+  }
+}

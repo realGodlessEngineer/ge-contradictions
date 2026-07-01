@@ -1,0 +1,625 @@
+{
+  "contradiction_id": 466,
+  "question": "Who put the robe on Jesus?",
+  "summary": "Luke 23:11 has Herod Antipas and his soldiers dress Jesus in a gorgeous robe during the side-trip to Herod's quarters that only Luke records, before sending him back to Pilate. Matthew 27:27-28, Mark 15:15-17, and John 19:1-2 have Pilate's Roman soldiers strip Jesus and dress him in a purple/scarlet robe inside the praetorium *after* Pilate had already handed him over for scourging. Two different sets of soldiers, two different settings, two different mock-coronations.",
+  "consensus": "probable_harmonization",
+  "consensus_id": 4,
+  "category": "Jesus & the Gospels",
+  "contradiction_type": "compositional",
+  "testament_scope": "NT_internal",
+  "books_in_tension": "Matthew, Mark, Luke, John",
+  "refs_raw": [
+    "Luke 23:11",
+    "Matthew 27:27-28",
+    "Mark 15:15-17",
+    "John 19:1-2"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Luke 23:11",
+      "book": "Luke",
+      "bolls": 42,
+      "ranges": [
+        [
+          23,
+          11,
+          11
+        ]
+      ]
+    },
+    {
+      "raw": "Matthew 27:27-28",
+      "book": "Matthew",
+      "bolls": 40,
+      "ranges": [
+        [
+          27,
+          27,
+          28
+        ]
+      ]
+    },
+    {
+      "raw": "Mark 15:15-17",
+      "book": "Mark",
+      "bolls": 41,
+      "ranges": [
+        [
+          15,
+          15,
+          17
+        ]
+      ]
+    },
+    {
+      "raw": "John 19:1-2",
+      "book": "John",
+      "bolls": 43,
+      "ranges": [
+        [
+          19,
+          1,
+          2
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 55,
+  "notes_raw_count": 61,
+  "notes_dropped": 6,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Matthew 27:26",
+      "note_ref": "GILL/40/27/26",
+      "cites": [
+        "Matthew 27:27-28"
+      ],
+      "text": "Then the soldiers of the governor,.... Those that were about him, his attendants and guards,\ntook Jesus into the common hall; the \"praetorium\", or judgment hall, as it is sometimes called; the governor's palace, into which the Jews would not enter, lest they should defile themselves: Pilate therefore came out to them, and went into the pavement called Gabbatha, and sat upon a judgment seat there; see Joh 18:28, where he passed sentence on Christ; which being done, the soldiers took him into the hall of judgment; which being both magnificent and large, was fit for the scene they intended to act there. Munster's Hebrew Gospel reads it, they took him \"in the house of judgment\"; and the Ethiopic version renders it, \"out of the court of judicature\"; both wrong.\nAnd gathered unto him whole band of soldiers; the same that Judas had with him to take him, consisting of five hundred, and some say more: these their fellow soldiers, to whom Jesus was committed, got together to him, or \"against him\", as the Syriac and Persic versions render it, make themselves sport and diversion with him. Think in what hands and company our dear Lord now was: now was he encompassed with dogs, and enclosed with the assembly of the wicked indeed; see Psa 22:16. The Persic version renders it, \"multitudes of knaves being gathered together to him\"."
+    },
+    {
+      "src": "GILL",
+      "ref": "Matthew 27:27",
+      "note_ref": "GILL/40/27/27",
+      "cites": [
+        "Matthew 27:27-28"
+      ],
+      "text": "And they stripped him,.... Of his clothes; at least of his upper garment: for one man to spit upon another, as these soldiers afterwards did on Christ, or to strip him of his garment, according to the Jewish canons, were punishable with a fine of four hundred pence (z), which amounted to twelve pounds and ten shillings of our money; but the soldiers were in no danger of being prosecuted, for stripping Christ. This is one part of the low estate Christ submitted to: his clothes on his back seem to be all he had in this world, and of these he is stripped:\nand put on him a scarlet robe, or \"a red coat\", as the Persic version renders it; very likely an old coat of one of their officers. The Evangelists Mark and John say it was \"purple\", Mar 15:17, and so the Arabic version renders it here: whether there were two garments put upon him, the one a purple vest, and the other a scarlet robe over it; or whether scarlet was used instead of purple, is not certain; which was a colour wore by kings, and a sign of imperial dignity (a); and therefore put upon Christ by way of mockery, upbraiding him with the character he bore, as king of the Jews. This was an emblem of his being clothed, as it were with our sins, which are as scarlet, and of his bloody sufferings in the human nature.\n(z) Misn. Bava Kama, c. 8. sect. 6. (a) Alexander ab Alex. Genial. Dier. l. 1. c. 28."
+    },
+    {
+      "src": "GILL",
+      "ref": "Matthew 27:28",
+      "note_ref": "GILL/40/27/28",
+      "cites": [
+        "Matthew 27:27-28"
+      ],
+      "text": "And when they had platted a crown of thorns,.... What sort of thorn this crown was made of, whether of the bramble, or of the white thorn, is not very material (b): the word used in the Syriac version, is rendered by interpreters, \"white thorns\", and which were common in Judea: these, be they what they will, they made into the form of a crown, and\nthey put it upon his head; both to reproach him as a king, and to torture him as a man: however, it had its significance, and was an emblem of men, comparable to thorns; either of wicked men, and of his being encompassed with them at this time; or of good men, chosen out from among them, redeemed by him, and accounted as a royal diadem with him (c): or it might represent the sins of his people, which, like thorns, pierced him, and like a crown of them surrounded him every side; or else the many troubles he was exercised with, and through which he did, as his members do, enter the kingdom: and especially, his being made a curse for us, thorns and briers being the curse which was inflicted on the earth, for the sin of man: in this Christ was the antitype of the ram, caught by his horns among the thickets, which \"Abraham\" sacrificed in the room of his son. This may teach us many useful lessons: we may see what a curse sin brought upon man, and upon the earth for man's sake; and even upon the Messiah, in the stead of men: we may observe the difference between us and Christ: we are a crown of glory, and a royal diadem in his hand; we are crowned with loving kindness and tender mercies, and have a crown of righteousness, life, and glory, laid up for us, and he was crowned with thorns; as also the difference between Christ in his state of humiliation wearing such a crown, and his state of exaltation, in which he is crowned with glory and honour. The Jews acknowledge this circumstance of the sufferings of Jesus, though they ascribe it to the elders of Jerusalem; who, they say (d),\n\"took thorns and made a crown of them, and put it upon his head.''\nWhich are the very words of the evangelist:\nand a reed in his right hand, or \"cane\"; and Munster's Hebrew Gospel uses the word, \"a cane\", such as men walk with; and this may be confirmed from the barbarous use they afterwards made of it, by smiting him on the head with it: a \"reed\" indeed may fitly express the weakness of his kingdom in the eye of the world: but any cane or common staff, or stick, put into his hands in the room of a sceptre, would also signify the meanness of his kingdom, which was not of this world, and came not with observation: they meant to reproach him with it, but they will find one time or another, that he, has another sceptre, even a sceptre of righteousness, a staff of strength, a rod of iron, with which he will rule and break in pieces, all the wicked of the earth. However, we may learn from hence, Christ does not disdain to hold a reed in his hand: nor will he break the bruised reed, or discourage, or crush the weakest believer.\nAnd they bowed the knee before him, and mocked him, saying, Hail, king of the Jews: being thus clad in a scarlet, or purple robe, or both; and having a crown of thorns on his head, and a reed instead of a sceptre in his hand, they carry on the mockery still further, and bend the knee to him, as to a prince just come to his throne, and salute as such; and in a mock way, wish him long life and prosperity: thus deriding him in his kingly office, as all such do, who call him Lord, Lord, but disregard his commands.\n(b) Vid. Bartholin. de Spinea Corona, sect. 1. 2. (c) Vid. Paschal. de Coronis, l. 10. c. 12. p. 701, 702. (d) Toldos Jesu, p. 17."
+    },
+    {
+      "src": "GILL",
+      "ref": "Matthew 27:29",
+      "note_ref": "GILL/40/27/29",
+      "cites": [
+        "Matthew 27:27-28"
+      ],
+      "text": "And they spit upon him,.... The Syriac and Persic versions add, \"upon his face\", which he did not hide from spitting; see Isa 1:6, and so what with sweat, by being hurried from place to place, and with blood trickling down from his temples, scratched with thorns, and with the spittle of these filthy soldiers, his visage was more marred than any man's, and his form than the sons of men, Isa 52:14.\nAnd took the reed, or \"cane\", which was put into his right hand,\nand smote him on the head; whereby they drove the sharp points of the thorns into it, which must give him inexpressible pain and torture."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 15:14",
+      "note_ref": "GILL/41/15/14",
+      "cites": [
+        "Mark 15:15-17"
+      ],
+      "text": "And so Pilate, willing to content the people,.... To satisfy and make them easy, who were become very noisy and tumultuous, and fearing the consequences of their resentment, should he not comply, of which he had formerly had experience; therefore to humour them, and keep in their favour, after he had washed his hands, to testify his innocence in the matter,\nhe released Barabbas unto them; the seditious person, robber, and murderer, as they desired:\nand delivered Jesus when he had scourged him; or having scourged him; for this he had done before, hoping the Jews would have been satisfied with that, and not have insisted on any further punishment. The Arabic version very wrongly renders the words, \"and delivered unto them Jesus, that he might be scourged\": as if this was afterwards to be done by the Jews, or Roman soldiers; whereas he had scourged him before, and now delivered him\nto be crucified, as they desired; in which he acted contrary to law and justice, to the violation of his own conscience, and merely to gratify the humour of the people; See Gill on Mat 27:26."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 15:15",
+      "note_ref": "GILL/41/15/15",
+      "cites": [
+        "Mark 15:15-17"
+      ],
+      "text": "And the soldiers led him away into the hall,.... From the place called the pavement, where was the judge's bench, from which he passed sentence on Christ, to a large room,\ncalled the praetorium, or judgment hall; being the hall, or room, where the praetor, or Roman magistrate, kept his court of judicature; and is the same place the Jews would not go into, lest they should be defiled, and become unmeet to eat the Chagigah that day; and into which Pilate had Jesus more than once alone, Joh 18:28, but now he had a large company with him:\nand they call together the whole band; very likely the soldiers, into whose custody Jesus was put, and who led him away, were the four soldiers that attended his crucifixion, and parted his garments; but for greater diversion they got together the whole band to which they belonged; See Gill on Mat 27:27."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 15:16",
+      "note_ref": "GILL/41/15/16",
+      "cites": [
+        "Mark 15:15-17"
+      ],
+      "text": "And they clothed him with purple,.... Matthew calls it a \"scarlet\" robe; and the Persic version here renders it a \"red garment\": it was of a colour resembling purple; it was pretty near it, and therefore so called; which is what kings were used to wear; and so in derision of him, as a king, clothed him with this mock purple robe; and which was very likely one of the soldiers' old coats:\nand platted a crown of thorns, and put it about his head; for a crown, and also a reed in his hand, instead of a sceptre, as Matthew relates; See Gill on Mat 26:28, Mat 26:29."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 15:17",
+      "note_ref": "GILL/41/15/17",
+      "cites": [
+        "Mark 15:15-17"
+      ],
+      "text": "And began to salute him, hail, king of the Jews! In a mock way, wishing him long life and prosperity, as if he was a king just come to his throne, and this was his coronation day.\nAnd began to salute him, hail, king of the Jews! In a mock way, wishing him long life and prosperity, as if he was a king just come to his throne, and this was his coronation day.\nMark 15:19\nmar 15:19\nmar 15:19\nmar 15:19And they smote him on the head with a reed,.... Or cane, a walking stick which they had put into his hands for a sceptre: this they took out again, and struck him on the head with it, which drove the sharp pointed thorns into his temples:\nand did spit upon him; \"upon his face\", as the Syriac, Arabic, and Persic versions read:\nand bowing their knees, as to a sovereign prince,\nworshipped him; saying the above words, hail, king of the Jews? See Gill on Mat 27:29, Mat 27:30."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 23:9",
+      "note_ref": "GILL/42/23/9",
+      "cites": [
+        "Luke 23:11"
+      ],
+      "text": "Then he questioned with him in many words,.... Or talked very much to him, inquiring who he was, whether John the Baptist, or no; whether it was true that he had wrought such miracles he had heard of, and how he wrought them, and by what power he performed them, and how he came by it; and used many arguments to persuade him to work a miracle at that time:\nbut he answered him nothing; would not give him one word in return to his many words, nor work any miracle in his presence; he answered him neither by words nor deeds; he would not indulge his curiosity, though he might have obtained his liberty by it."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 23:10",
+      "note_ref": "GILL/42/23/10",
+      "cites": [
+        "Luke 23:11"
+      ],
+      "text": "And the chief priests and Scribes,.... The sanhedrim that followed him from Pilate's hall, to Herod's palace; fearing, lest Herod should be disposed to let him go, should he gratify him by working a miracle:\nstood; before Herod; so witnesses, and accusers, used to do; See Gill on Mar 14:57.\nand vehemently accused him; of the same things they had accused him before Pilate, with great bitterness and constancy, increasing, and aggravating the charges against him."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 23:11",
+      "note_ref": "GILL/42/23/11",
+      "cites": [
+        "Luke 23:11"
+      ],
+      "text": "And Herod, with his men of war,.... Or his soldiers, his bodyguards that attended his person, who came with him from Galilee, and were both for his security and service, and for his pomp and magnificence:\nset him at nought; made nothing of him; had him in no account; treated him as a silly, and contemptible creature, that could not do any thing that was reported of him; nor able to say any thing for himself; but took him to be a mere fool and idiot; and so they used him:\nand mocked him; as a king, and made sport and pastime with him:\nand arrayed him in a gorgeous robe. The Vulgate Latin renders it, \"a white robe\"; a token of his innocence, though not so designed by them, but rather by way of derision, as a symbol of his simplicity and folly. The Syriac version renders it, \"scarlet\"; and the Arabic and Persic versions, \"red\". It is very likely that it was an old worn-out robe of one of the officers, or soldiers, which they put on him; in contempt of his being a king, as the Roman soldiers afterwards did, upon the same account:\nand sent him again to Pilate; uncondemned, not knowing what to make of him, or the charge against him, and he might be unwilling to have any hand in his death, not having forgotten the case of John the Baptist; and therefore remits him to Pilate, to do as he thought fit with him."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 23:12",
+      "note_ref": "GILL/42/23/12",
+      "cites": [
+        "Luke 23:11"
+      ],
+      "text": "And the same day Pilate and Herod were made friends together,.... For it pleased Herod, that Pilate should show such a regard to his authority and power, as to send one that belonged to his jurisdiction to take cognizance of his case; and especially as it was a person that was much talked of, and he had long wanted to see; and Pilate, on the other hand, was pleased with Herod, that though he was one that was under his jurisdiction, and so had a right of trying the cause, and either absolve or condemn, yet chose not to use this his power, but referred the case to the Roman governor:\nfor before they were at enmity between themselves; it may be on account of the Galilaeans, the subjects of Herod, whom Pilate had slain, whilst they were sacrificing at Jerusalem, Luk 13:1, which Herod might resent, as an infringement upon his authority and power; for had they been ever so deserving of punishment, it ought to have been left to him, to have inflicted it, and not the governor of Judea, who had nothing to do with them: but now matters were made up by this step of Pilate's, in sending Christ to him, supposed to be a Galilean, and so of Herod's jurisdiction; which was tacitly acknowledging his former conduct to be wrong, and showed a regard to Herod's authority: and thus they were reconciled together, and agreed in their contemptuous usage, and ill-treatment of Christ, and so fulfilled Psa 2:1."
+    },
+    {
+      "src": "GILL",
+      "ref": "John 19:2",
+      "note_ref": "GILL/43/19/2",
+      "cites": [
+        "John 19:1-2"
+      ],
+      "text": "And the soldiers platted a crown of thorns,.... This was an emblem of his being surrounded by wicked men, sons of Belial, comparable to thorns, whilst he hung suffering on the cross; and of the sins of his people compassing him about, which were as thorns, very grievous to him; and of his various troubles in life, and of his being made a curse for us at death; thorns being the produce of the curse upon the earth.\nAnd put it on his head: not only by way of derision, as mocking at his character, the King of the Jews, but in order to afflict and distress him.\nAnd they put on him a purple robe: Matthew calls it a scarlet robe; and the Arabic and Persic versions here, \"a red\" one: it very probably was one of the soldiers' coats, which are usually red: this was still in derision of him as a king, and was an emblem of his being clothed with our purple and scarlet sins, and of the bloody sufferings of his human nature for them, and through which we come to have a purple covering, or to be justified by his blood, and even to be made truly kings, as well as priests, unto God."
+    },
+    {
+      "src": "GILL",
+      "ref": "John 19:3",
+      "note_ref": "GILL/43/19/3",
+      "cites": [
+        "John 19:1-2"
+      ],
+      "text": "And said, hail, King of the Jews!.... Some copies before this clause read, \"and they came unto him\"; and so read the Vulgate Latin, Arabic, Coptic, and Ethiopic versions; that is, they came and prostrated themselves before him; bowed the knee unto him, and addressed him in a mock way, as if he was an earthly monarch just come to his crown, and whom they wished long to live; thus mocking at his kingly office, and despising him under that character, as many do now: some will not have him to reign over them, but reject him as King; and others, though in words they own him to be King, yet disregard his commands, and act no better part than these scoffing soldiers did:\nand they smote him with their hands: upon his cheeks, as the Syriac version reads it. These, and many other affronts they gave him; in all which they were indulged by Pilate, and was a pleasing scene to the wicked Jews, whose relentless hearts were not in the least moved hereby, though Pilate hoped they would; and which was his view in allowing the soldiers to use such incivilities and indecencies to him."
+    },
+    {
+      "src": "GILL",
+      "ref": "John 19:4",
+      "note_ref": "GILL/43/19/4",
+      "cites": [
+        "John 19:1-2"
+      ],
+      "text": "Pilate therefore went forth again,.... When all this was done to Jesus, Pilate went again out of the judgment hall, or however from the place where Jesus had been scourged, and ill used in the manner he was: he went a little before him unto the Jews that stood without,\nand saith unto them, behold I bring him forth unto you; that is, he had ordered him to be brought forth by the soldiers, and they were just bringing him in the sad miserable condition in which he was, that the Jews might see, with their own eyes, how he had been used:\nthat ye may know that I find no fault in him; for by seeing what was done to him, how severely he had been scourged, and in what derision and contempt he had been had, and what barbarity had been exercised on him, they might know and believe, that if Pilate did all this, or allowed of it to be done to a man whom he judged innocent, purely to gratify the Jews; that had he found anything in him worthy of death, he would not have stopped here, but would have ordered the execution of him; of this they might assure themselves by his present conduct. Pilate, by his own confession, in treating, or suffering to be treated in so cruel and ignominious a manner, one that he himself could find no fault in, or cause of accusation against, was guilty of great injustice."
+    },
+    {
+      "src": "JFB",
+      "ref": "Matthew 27:9",
+      "note_ref": "JFB/40/27/9",
+      "cites": [
+        "Matthew 27:27-28"
+      ],
+      "text": "Then was fulfilled that which was spoken by Jeremy the prophet, saying-- (Zac 11:12-13). Never was a complicated prophecy, otherwise hopelessly dark, more marvellously fulfilled. Various conjectures have been formed to account for Matthew's ascribing to Jeremiah a prophecy found in the book of Zechariah. But since with this book he was plainly familiar, having quoted one of its most remarkable prophecies of Christ but a few chapters before (Mat 21:4-5), the question is one more of critical interest than real importance. Perhaps the true explanation is the following, from LIGHTFOOT: \"Jeremiah of old had the first place among the prophets, and hereby he comes to be mentioned above all the rest in Mat 16:14; because he stood first in the volume of the prophets [as he proves from the learned DAVID KIMCHI] therefore he is first named. When, therefore, Matthew produceth a text of Zechariah under the name of JEREMY, he only cites the words of the volume of the prophets under his name who stood first in the volume of the prophets. Of which sort is that also of our Saviour (Luk 24:41), \"All things must be fulfilled which are written of Me in the Law, and the Prophets, and the Psalms,\" or the Book of Hagiographa, in which the Psalms were placed first.\"",
+      "anchor": true
+    },
+    {
+      "src": "JFB",
+      "ref": "Luke 23:9",
+      "note_ref": "JFB/42/23/9",
+      "cites": [
+        "Luke 23:11"
+      ],
+      "text": "answered . . . nothing--(See Mat 7:6)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Luke 23:10",
+      "note_ref": "JFB/42/23/10",
+      "cites": [
+        "Luke 23:11"
+      ],
+      "text": "stood and vehemently accused him--no doubt both of treason before the king, and of blasphemy, for the king was a Jew."
+    },
+    {
+      "src": "JFB",
+      "ref": "Luke 23:11",
+      "note_ref": "JFB/42/23/11",
+      "cites": [
+        "Luke 23:11"
+      ],
+      "text": "his men of war--his bodyguard.\nset him at naught, &c.--stung with disappointment at His refusal to amuse him with miracles or answer any of his questions.\ngorgeous robe--bright robe. If this mean (as sometimes) of shining white, this being the royal color among the Jews, it may have been in derision of His claim to be \"King of the Jews.\" But if so, \"He in reality honored Him, as did Pilate with His true title blazoned on the cross\" [BENGEL].\nsent him again to Pilate--instead of releasing him as he ought, having established nothing against Him (Luk 23:14-15). \"Thus he implicated himself with Pilate in all the guilt of His condemnation, and with him accordingly he is classed\" (Act 4:27) [BENGEL].\nat enmity--perhaps about some point of disputed jurisdiction, which this exchange of the Prisoner might tend to heal."
+    },
+    {
+      "src": "JFB",
+      "ref": "John 19:2",
+      "note_ref": "JFB/43/19/2",
+      "cites": [
+        "John 19:1-2"
+      ],
+      "text": "the soldiers platted a crown of thorns, and put it on his head--in mockery of a regal crown.\nand they put on him a purple robe--in mockery of the imperial purple; first \"stripping him\" (Mat 27:28) of His own outer garment. The robe may have been the \"gorgeous\" one in which Herod arrayed and sent Him back to Pilate (Luk 23:11). \"And they put a reed into His right hand\" (Mat 27:29) --in mockery of the regal scepter. \"And they bowed the knee before Him\" (Mat 27:29)."
+    },
+    {
+      "src": "JFB",
+      "ref": "John 19:3",
+      "note_ref": "JFB/43/19/3",
+      "cites": [
+        "John 19:1-2"
+      ],
+      "text": "And said, Hail, King of the Jews!--doing Him derisive homage, in the form used on approaching the emperors. \"And they spit upon Him, and took the reed and smote Him on the head\" (Mat 27:30). The best comment on these affecting details is to cover the face."
+    },
+    {
+      "src": "JFB",
+      "ref": "John 19:4",
+      "note_ref": "JFB/43/19/4",
+      "cites": [
+        "John 19:1-2"
+      ],
+      "text": "Pilate . . . went forth again, and saith . . . Behold, I bring him forth to you--am bringing, that is, going to bring him forth to you.\nthat ye may know I find no fault in him--and, by scourging Him and allowing the soldiers to make sport of Him, have gone as far to meet your exasperation as can be expected from a judge."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Mark 15:8",
+      "note_ref": "CLARKE/41/15/8",
+      "cites": [
+        "Mark 15:15-17"
+      ],
+      "text": "The multitude crying aloud - Αναβοησας. The word itself strongly marks the vociferations, or, to come nearer the original word, the bellowing of the multitude. It signifies, properly, a loud and long cry, such as Christ emitted on the cross. See the whole history of these proceedings against our Lord treated at large, on Matthew 27 (note).",
+      "anchor": true
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Mark 15:17",
+      "note_ref": "CLARKE/41/15/17",
+      "cites": [
+        "Mark 15:15-17"
+      ],
+      "text": "And platted a crown of thorns - In the note on Mat 27:29 (note), I have ventured to express a doubt whether our Lord was crowned with thorns, in our sense of the word; this crown being designed as an instrument of torture. I am still of the same opinion, having considered the subject more closely since writing that note. As there I have referred to Bishop Pearce, a man whose merit as a commentator is far beyond my praise, and who, it is to be regretted, did not complete his work on the New Testament, I think it right to insert the whole of his note here.\n\"The word ακανθων may as well be the plural genitive case of the word ακανθος as of ακανθη: if of the latter, it is rightly translated, of thorns; but the former would signify what we call bear's-foot, and the French, branche ursine. This is not of the thorny kind of plants, but is soft and smooth. Virgil calls it mollis acanthus, Ecl. iii. 45, Geor. iv. 137. So does Pliny, sec. Epist. ver. 6. And Pliny the elder, in his Nat. Hist. xxii. 22, p. 277, edit. Hard., says that it is laevis, smooth; and that it is one of those plants that are cultivated in gardens. I have somewhere read, but cannot at present recollect where, that this soft and smooth herb was very common in and about Jerusalem. I find nothing in the New Testament said concerning this crown, which Pilate's soldiers put on the head of Jesus, to incline one to think that it was of thorns, and intended, as is usually supposed, to put him to pain. The reed put into his hand, and the scarlet robe on his back, were only meant as marks of mockery and contempt. One may also reasonably judge, by the soldiers being said to plat this crown, that it was not composed of such twigs and leaves as were of a thorny nature. I do not find that it is mentioned by any of the primitive Christian writers as an instance of the cruelty used towards our Savior, before he was led to his crucifixion, till the time of Tertullian, who lived after Jesus's death at the distance of above 160 years. He indeed seems to have understood ακανθων in the sense of thorns, and says, De Corona Militar. sect. xiv. edit. Pamel. Franck. 1597, Quale, oro te, Jesus Christus sertum pro utroque sexu subiit? Ex spinis, opinor, et tribulis. The total silence of Polycarp, Barnabas, Clem. Romanus, and all the other Christian writers whose works are now extant, and who wrote before Tertullian, in particular, will give some weight to incline one to think that this crown was not platted with thorns. But as this is a point on which we have not sufficient evidence, I leave it almost in the same state of uncertainty in which I found it. The reader may see a satisfactory account of acanthus, bear's-foot, in Quincy's English Dispensatory, part ii. sect. 3, edit. 8, 1742.\"\nThis is the whole of the learned and judicious prelate's note; on which I have only to observed that the species of acanthus described by Virgil and the two Plinys, as mollis and laevis, soft and smooth, is, no doubt, the same as that formerly used in medicine, and described by Quincy and other pharmacopaeists; but there are other species of the same plant that are prickly, and particularly those called the acanthus spinosus, and the ilicifolius, the latter of which is common in both the Indies: this has leaves something like our common holly, the jagged edges of which are armed with prickles; but I do not conceive that this kind was used, nor indeed any other plant of a thorny nature, as the Roman soldiers who platted the crown could have no interest in adding to our Lord's sufferings; though they smote him with the rod, yet their chief object was to render him ridiculous, for pretending, as they imagined, to regal authority. The common wild acanthas or bear's-foot, which I have often met in the dry turf bogs in Ireland, though it have the appearance of being prickly, yet is not, in fact, so. Several shoots grow from one root, about four or five inches long, and about as thick as a little finger. A parcel of such branches, platted by their roots in a string, night be made to look even ornamental, tied about the temples and round the head. It would finely imitate a crown or diadem. But I know not if this plant be a native of Judea."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 23:10",
+      "note_ref": "CLARKE/42/23/10",
+      "cites": [
+        "Luke 23:11"
+      ],
+      "text": "The chief priests - vehemently accused him - Corrupt priests and teachers are generally the most implacable enemies of Christ and his truth. Evil passions betray those who are slaves to them. An affected moderation would have rendered these accusers less suspected, their accusations more probable, and the envy less visible than this vehemence: but envy seldom or never consults prudence: and God permits this to be so for the honor of truth and innocence. Quesnel."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 23:11",
+      "note_ref": "CLARKE/42/23/11",
+      "cites": [
+        "Luke 23:11"
+      ],
+      "text": "A gorgeous robe - Εσθητα λαμπραν. It probably means a white robe, for it was the custom of the Jewish nobility to wear such. Hence, in Rev 3:4, it is said of the saints, They shall walk with me in White (garments), because they are Worthy. In such a robe, Herod, by way of mockery, caused our Lord to be clothed; but, the nobility among the Romans wearing purple for the most part, Pilate's soldiers, who were Romans, put on Jesus a purple robe, Mar 15:17; Joh 19:2; both of them following the custom of their own country, when, by way of mocking our Lord as a king, they clothed him in robes of state. See Bishop Pearce."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 23:12",
+      "note_ref": "CLARKE/42/23/12",
+      "cites": [
+        "Luke 23:11"
+      ],
+      "text": "Pilate and Herod were made friends - I do not find any account of the cause of the enmity which subsisted between Herod and Pilate given by ancient authors; and the conjectures of the moderns on the subject should be considered as mere guesses. It is generally supposed that this enmity arose from what is related Luke 13, of the Galileans, whose blood Pilate hath mingled with that of their sacrifices. These were Herod's subjects, and Pilate seems to have fallen on them at the time they were offering sacrifices to God at the temple. Wicked men cannot love one another: this belongs to the disciples of Christ. But when Christ, his truth, or his followers are to be persecuted, for this purpose the wicked unite their counsels and their influence. The Moabites and Ammonites, who were enemies among themselves, united against poor Israel, and, as Rabbi Tanchum says, may be likened to two contending dogs, who, when the wolf comes, join together to destroy him; each knowing that, if he do not, the wolf will kill both in succession: whereas, by their union, they may now kill or baffle him. There is a proverb among the rabbins, that, when the cat and weasel marry together, misery becomes increased."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "John 19:1",
+      "note_ref": "CLARKE/43/19/1",
+      "cites": [
+        "John 19:1-2"
+      ],
+      "text": "Pilate took Jesus, and scourged him - That is, caused him to be scourged: for we cannot with Bede suppose that he scourged him with his own hand.\nAs our Lord was scourged by order of Pilate, it is probable he was scourged in the Roman manner, which was much more severe than that of the Jews. The latter never gave more than thirty-nine blows; for the law had absolutely forbidden a man to be abused, or his flesh cut in this chastisement, Deu 25:3. The common method of whipping or flogging in some places, especially that of a military kind, is a disgrace to the nation where it is done, to the laws, and to humanity. See Mat 27:26, and the note there. Though it was customary to scourge the person who was to be crucified, yet it appears that Pilate had another end in view by scourging our Lord. He hoped that this would have satisfied the Jews, and that he might then have dismissed Jesus. This appears from Luk 23:16."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "John 19:2",
+      "note_ref": "CLARKE/43/19/2",
+      "cites": [
+        "John 19:1-2"
+      ],
+      "text": "Platted a crown of thorns - See on Mat 27:29 (note)."
+    },
+    {
+      "src": "MHC",
+      "ref": "Mark 15:15",
+      "note_ref": "MHC/41/15/15",
+      "cites": [
+        "Mark 15:15-17"
+      ],
+      "text": "Here, I. Pilate, to gratify the Jews' malice, delivers Christ to be crucified, Mar 15:15. Willing to content the people, to do enough for them (so the word is), and make them easy, that he might keep them quiet, he released Barabbas unto them, who was the scandal and plague of their nation, and delivered Jesus to be crucified, who was the glory and blessing of their nation. Though he had scourged him before, hoping that would content them, and then not designing to crucify him, yet he went on to that; for no wonder that he who could persuade himself to chastise one that was innocent (Luk 23:16), could by degrees persuade himself to crucify him.\nChrist was crucified, for that was, 1. A bloody death, and without blood no remission, Heb 9:22. The blood is the life (Gen 9:4); it is the vehicle of the animal spirits, which connect the soul and body, so that the exhausting of the blood is the exhausting of the life. Christ was to lay down his life for us, and therefore shed his blood. Blood made atonement for the soul (Lev 17:11), and therefore in every sacrifice of propitiation special order was given for the pouring out of the blood, and the sprinkling of that before the Lord. Now, that Christ might answer all these types, he shed his blood. 2. It was a painful death; the pains were exquisite and acute, for death made its assaults upon the vitals by the exterior parts, which are quickest of sense. Christ died, so as that he might feel himself die, because he was to be both the priest and the sacrifice; so that he might be active in dying; because he was to make his soul an offering for sin. Tully calls crucifixion, Teterrimum supplicium - A most tremendous punishment: Christ would meet death in its greatest terror, and so conquer it. 3. It was a shameful death, the death of slaves, and the vilest malefactors; so it was accounted among the Romans. The cross and the shame are put together. God having been injured in his honour by the sin of man, it is in his honour that Christ makes him satisfaction, not only by denying himself in, and divesting himself of, the honours due to his divine nature, for a time, but by submitting the greatest reproach and ignominy the human nature was capable of being loaded with. Yet this was not the worst. 4. It was a cursed death; thus it was branded by the Jewish law (Deu 21:23); He that is hanged, is accursed of God, is under a particular mark of God's displeasure. It was the death that Saul's sons were put to, when the guilt of their father' bloody house was to be expiated, Sa2 21:6. Haman and his sons were hanged, Est 7:10; Est 9:13. We do not read any of the prophets of the Old Testament that were hanged; but now that Christ has submitted to be hanged upon a tree, the reproach and curse of that kind of death are quite rolled away, so that it ought to be any hindrance to the comfort of those who die either innocently or penitently, nor any diminution fRom. but rather an addition to, the glory of those who die martyrs for Christ, to be as he was, hanged upon a tree.\nII. Pilate, to gratify the gay humour of the Roman soldiers, delivered him to them, to be abused and spitefully treated, while they were preparing for the execution. They called together the whole regiment that was then in waiting, and they went into an inner hall, where they ignominiously abused our Lord Jesus, as a king, just as in the high priest's hall his servants had ignominiously abused him as a Prophet and Saviour. 1. Do kings wear robes of purple or scarlet? They clothed him with purple. This abuse done to Christ in his apparel should be an intimation to Christians, not to make the putting on of apparel their adorning, Pe1 3:4. Shall a purple or scarlet robe be matter of pride to a Christian, which was matter of reproach and shame to Christ. 2. Do kings wear crowns? They platted a crown of thorns, and put it on his head. A crown of straw, or rushes, would have been banter enough; but this was pain also. He wore the crown of thorns which we had deserved, that we might wear the crown of glory which he merited. Let us be taught by these thorns, as Gideon taught the men of Succoth, to hate sin, and be uneasy under it, and to be in love with Jesus Christ, who is here a lily among thorns. If we be at any time afflicted with a thorn in the flesh, let it be our comfort, that our high priest is touched with the feelings of our infirmities, having himself known what thorns in the flesh meant. 3. Are kings attended with the acclamations of their subjects, O king, live for ever? That also is mimicked; they saluted him with \"Hail, King of the Jews; such a prince, and such a people, even good enough for one another.\" 4. Kings have sceptres put into their hand, marks of dominion, as the crown is of dignity; to imitate this, they put a reed in his right hand. Those that despise the authority of Jesus Christ, as not to be observed and obeyed, who regard not either the precepts of his word, or the threatenings of his wrath, do, in effect, put a reed in his hand; nay, and, as these here, smite him on the head with it, such is the indignity they do him. 5. Subjects, when they swear allegiance, were wont to kiss their sovereign; and this they offered to do, but, instead of that, spit upon him. 6. Kings used to be addressed upon the knee; and this also they brought into the jest, they bowed the knee, and worshipped him; this they did in scorn, to make themselves and one another laugh. We were by sin become liable to everlasting shame and contempt, to deliver us from which, our Lord Jesus submitted to this shame and contempt for us. He was thus mocked, not in his own clothes, but in another's, to signify that he suffered not for his own sin; the crime was ours, the shame his. Those who pretend subjection to Christ, but at the same time give themselves up to the service of the world and the flesh, do, in effect, the same that they did, who bowed the knee to him in mockery, and abused him with, Hail, king of the Jews, when they said, We have no king but Caesar. Those that bow the knee to Christ, but do not bow the soul, that draw nigh to him with their mouths, and honour him with their lips, but their hearts are far from him, put the same affront upon him that these here did.\nIII. The soldiers, at the hour appointed, led him away from Pilate's judgment-hall to the place of execution (Mar 15:20), as a sheep to the slaughter; he was led forth with the workers of iniquity, though he did no sin. But lest his death, under the load of his cross, which he was to carry, should prevent the further cruelties they intended, they compelled one Simon of Cyrene to carry his cross for him. He passed by, coming out of the country or out of the fields, not thinking of any such matter. Note, We must not think it strange, if crosses come upon us suddenly, and we be surprised by them. The cross was a very troublesome unwieldy load: but he that carried it a few minutes, had the honour to have his name upon the record in the book of God, though otherwise an obscure person; so that, wherever this gospel is preached; so that, wherever this gospel is preached, there shall this be told for a memorial to him: in like manner, though no affliction, no cross, for the present, be joyous, but grievous, yet afterward it yields a crown of glory to them that are exercised thereby."
+    },
+    {
+      "src": "MHC",
+      "ref": "Luke 23:1",
+      "note_ref": "MHC/42/23/1",
+      "cites": [
+        "Luke 23:11"
+      ],
+      "text": "Our Lord Jesus was condemned as a blasphemer in the spiritual court, but it was the most impotent malice that could be that this court was actuated by; for, when they had condemned him, they knew they could not put him to death, and therefore took another course.\nI. They accused him before Pilate. The whole multitude of them arose, when they saw they could go no further with him in their court, and led him unto Pilate, though it was no judgment day, no assizes or sessions; and they demanded justice against him, not as a blasphemer (that was no crime that he took cognizance of), but as one disaffected to the Roman government, which they in their hearts did not look upon as any crime at all, or, if it was one, they themselves were much more chargeable with it than he was; only it would serve the turn and answer the purpose of their malice: and it is observable that that which was the pretended crime, for which they employed the Roman powers to destroy Christ, was the real crime for which the Roman powers not long after destroyed them.\n1. Here is the indictment drawn up against him (Luk 23:2), in which they pretended a zeal for Caesar, only to ingratiate themselves with Pilate, but it was all malice against Christ, and nothing else. They misrepresented him, (1.) As making the people rebel against Caesar. It was true, and Pilate knew it, that there was a general uneasiness in the people under the Roman yoke, and they wanted nothing but an opportunity to shake it off; now they would have Pilate believe that this Jesus was active to foment that general discontent, which, if the truth was known, they themselves were the aiders and abettors of: We have found him perverting the nation; as if converting them to God's government were perverting them from the civil government; whereas nothing tends more to make men good subjects than making them Christ's faithful followers. Christ had particularly taught that they ought to give tribute to Caesar, though he knew there were those that would be offended at him for it; and yet he is here falsely accused as forbidding to give tribute to Caesar. Innocency is no fence against calumny. (2.) As making himself a rival with Caesar, though the very reason why they rejected him, and would not own him to be the Messiah, was because he did not appear in worldly pomp and power, and did not set up for a temporal prince, nor offer to do any thing against Caesar; yet this is what they charged him with, that he said, he himself is Christ a king. He did say that he was Christ, and, if so, then a king, but not such a king as was ever likely to give disturbance to Caesar. When his followers would have made him a king (Joh 6:15), he declined it, though by the many miracles he wrought he made it appear that if he would have set up in competition with Caesar he would have been too hard for him.\n2. His pleading to the indictment: Pilate asked him, Art thou the king of the Jews? Luk 23:3. To which he answered, Thou sayest it; that is, \"It is as thou sayest, that I am entitled to the government of the Jewish nation; but in rivalship with the scribes and Pharisees, who tyrannize over them in matters of religion, not in rivalship with Caesar, whose government relates only to their civil interests.\" Christ's kingdom is wholly spiritual, and will not interfere with Caesar's jurisdiction. Or, \"Thou sayest it; but canst thou prove it? What evidence hast thou for it?\" All that knew him knew the contrary, that he never pretended to be the king of the Jews, in opposition to Caesar as supreme, or to the governors that were sent by him, but the contrary.\n3. Pilate's declaration of his innocency (Luk 23:4): He said to the chief priests, and the people that seemed to join with them in the prosecution, \"I find no fault in this man. What breaches of your law he may have been guilty of I am not concerned to enquire, but I find nothing proved upon him that makes him obnoxious to our court.\"\n4. The continued fury and outrage of the prosecutors, Luk 23:5. Instead of being moderated by Pilate's declaration of his innocency, and considering, as they ought to have done, whether they were not bringing the guilt of innocent blood upon themselves, they were the more exasperated, more exceedingly fierce. We do not find that they have any particular fact to produce, much less any evidence to prove it; but they resolve to carry it with noise and confidence, and say it, though they cannot prove it: He stirs up the people to rebel against Caesar, teaching throughout all Judea, beginning from Galilee to this place. He did stir up the people, but it was not to any thing factious or seditious, but to every thing that was virtuous and praiseworthy. He did teach, but they could not charge him with teaching any doctrine that tended to disturb the public peace, or make the government uneasy or jealous.\nII. They accused him before Herod. 1. Pilate removed him and his cause to Herod's court. The accusers mentioned Galilee, the northern part of Canaan. \"Why,\" saith Pilate, \"is he of that country? Is he a Galilean?\" Luk 23:6. \"Yes,\" said they, \"that is his head-quarters; there he was spent most of his time.\" \"Let us send him to Herod then,\" saith Pilate, \"for Herod is now in town, and it is but fit he should have cognizance of his cause, since he belongs to Herod's jurisdiction.\" Pilate was already sick of the cause, and desirous to rid his hands of it, which seems to have been the true reason for sending him to Herod. But God ordered it so for the more evident fulfilling of the scripture, as appears Act 4:26, Act 4:27, where that of David (Psa 2:2), The kings of the earth and the rulers set themselves against the Lord and his Anointed, is expressly said to be fulfilled in Herod and Pontius Pilate. 2. Herod was very willing to have the examining of him (Luk 23:8): When he saw Jesus he was exceedingly glad, and perhaps the more glad because he saw him a prisoner, saw him in bonds. He had heard many things of him in Galilee, where his miracles had for a great while been all the talk of the country; and he longed to see him, not for any affection he had for him or his doctrine, but purely out of curiosity; and it was only to gratify this that he hoped to have seen some miracle done by him, which would serve him to talk of as long as he lived. In order to this, he questioned with him in many things, that at length he might bring him to something in which he might show his power. Perhaps he pumped him concerning things secret, or things to come, or concerning his curing diseases. But Jesus answered him nothing; nor would he gratify him so much as with the performance of one miracle. The poorest beggar, that asked a miracle for the relief of his necessity, was never denied; but this proud prince, that asked a miracle merely for the gratifying of his curiosity, is denied. He might have seen Christ and his wondrous works many a time in Galilee, and would not, and therefore it is justly said, Now he would see them, and shall not; they are hidden from his eyes, because he knew not the day of his visitation. Herod thought, now that he had him in bonds, he might command a miracle, but miracles must not be made cheap, nor Omnipotence be at the beck of the greatest potentate. 3. His prosecutors appeared against him before Herod, for they were restless in the prosecution: They stood, and vehemently accused him (Luk 23:10), impudently and boldly, so the word signifies. They would make Herod believe that he had poisoned Galilee too with his seditious notions. Note, It is no new thing for good men and good ministers, that are real and useful friends to the civil government, to be falsely accused as factious and seditious, and enemies to government. 4. Herod was very abusive to him: He, with his men of war, his attendants, and officers, and great men, set him at nought. They made nothing of him; so the word is. Horrid wickedness! To make nothing of him who made all things. They laughed at him as a fool; for they knew he had wrought many miracles to befriend others, and why would he not now work one to befriend himself? Or, they laughed at him as one that had lost his power, and was become weak as other men. Herod, who had been acquainted with John Baptist, and had more knowledge of Christ too than Pilate had, was more abusive to Christ than Pilate was; for knowledge without grace does but make men the more ingeniously wicked. Herod arrayed Christ in a gorgeous robe, some gaudy painted clothes, as a mock-king; and so he taught Pilate's soldiers afterwards to do him the same indignity. He was ringleader in that abuse. 5. Herod sent him back to Pilate, and it proved an occasion of the making of them friends, they having been for some time before at variance. Herod could not get sight of a miracle, but would not condemn him neither as a malefactor, and therefore sent him again to Pilate (Luk 23:11), and so returned Pilate's civility and respect in sending the prisoner to him; and this mutual obligation, with the messages that passed between them on this occasion, brought them to a better understanding one of another than there had been of late between them, Luk 23:12. They had been at enmity between themselves, probably upon Pilate's killing of the Galileans, who were Herod's subjects (Luk 13:1), or some other such matter of controversy as usually occurs among princes and great men. Observe how those that quarrelled with one another yet could unite against Christ; as Gebal, and Ammon, and Amalek, though divided among themselves, were confederate against the Israel of God, Psa 83:7. Christ is the great peace-maker; both Pilate and Herod owned his innocency, and their agreeing in this cured their disagreeing in other things.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Luke 23:13",
+      "note_ref": "MHC/42/23/13",
+      "cites": [
+        "Luke 23:11"
+      ],
+      "text": "We have here the blessed Jesus run down by the mob, and hurried to the cross in the storm of a popular noise and tumult, raised by the malice and artifice of the chief priests, as agents for the prince of the power of the air.\nI. Pilate solemnly protests that he believes he has done nothing worthy of death or of bonds. And, if he did believe so, he ought immediately to have discharged him, and not only so, but to have protected him from the fury of the priests and rabble, and to have bound his prosecutors to their good behaviour for their insolent conduct. But, being himself a bad man, he had no kindness for Christ, and, having made himself otherwise obnoxious, was afraid of displeasing either the emperor or the people; and therefore, for want of integrity, he called together the chief priests, and rulers, and people (whom he should have dispersed, as a riotous and seditious assembly, and forbid them to come near him), and will hear what they have to say, to whom he should have turned a deaf ear, for he plainly saw what spirit actuated them (Luk 23:14): \"You have brought,\" saith he, \"this man to me, and, because I have a respect for you, I have examined him before you, and have heard all you have to allege against him, and I can make nothing of it: I find no fault in him; you cannot prove the things whereof you accuse him.\"\nII. He appeals to Herod concerning him (Luk 23:15): \"I sent you to him, who is supposed to have known more of him than I have done, and he has sent him back, not convicted of any thing, nor under any mark of his displeasure; in his opinion, his crimes are not capital. He has laughed at him as a weak man, but has not stigmatized him as a dangerous man.\" He thought Bedlam a fitter place for him than Tyburn.\nIII. He proposes to release him, if they will but consent to it. He ought to have done it without asking leave of them, Fiat justitia, ruat coelum - Let justice have its course, though the heavens should be desolated. But the fear of man brings many into this snare, that, whereas justice should take place, though heaven and earth come together, they will do an unjust thing, against their consciences, rather than pull an old house about their ears. Pilate declares him innocent, and therefore has a mind to release him; yet, to please the people, 1. He will release him under the notion of a malefactor, because of necessity he must release one (Luk 23:17); so that whereas he ought to have been released by an act of justice, and thanks to nobody, he would have him released by an act of grace, and not be beholden to the people for it. 2. He will chastise him, and release him. If no fault be to be found in him, why should he be chastised? There is as much injustice in scourging as in crucifying an innocent man; nor would it be justified by pretending that this would satisfy the clamours of the people, and make him the object of their pity who was not to be the object of their envy. We must not do evil that good may come.\nIV. The people choose rather to have Barabbas released, a wretched fellow, that had nothing to recommend him to their favour but the daringness of his crimes. He was imprisoned for a sedition made in the city, and for murder (of all crimes among men the least pardonable), yet this was the criminal that was preferred before Christ: Away with this man, and release unto us Barabbas, Luk 23:18, Luk 23:19. And no wonder that such a man is the favourite and darling of such a mob, he that was really seditious, rather than he that was really loyal and falsely accused of sedition.\nV. When Pilate urged the second time that Christ should be released, they cried out, Crucify him, crucify him, Luk 23:20, Luk 23:21. They not only will have him die, but will have him die so great a death; nothing less will serve but he must be crucified: Crucify him, crucify him.\nVI. When Pilate the third time reasoned with them, to show them the unreasonableness and injustice of it, they were the more peremptory and outrageous (Luk 23:22): \"Why? What evil hath he done? Name his crime. I have found no cause of death, and you cannot say what cause of death you have found in him; and therefore, if you will but speak the word, I will chastise him and let him go.\" But popular fury, the more it is complimented, the more furious it grows; they were instant with loud voices, with great noises or outcries, not requesting, but requiring, that he might be crucified; as if they had as much right, at the feast, to demand the crucifying of one that was innocent as the release of one that was guilty.\nVII. Pilate's yielding, at length, to their importunity. The voice of the people and of the chief priests prevailed, and were too hard for Pilate, and overruled him to go contrary to his convictions and inclinations. He had not courage to go against so strong a stream, but gave sentence that it should be as they required, Luk 23:24. Here is judgment turned away backward, and justice standing afar off, for fear of popular fury. Truth is fallen in the street, and equity cannot enter, Isa 59:14. Judgment was looked for, but behold oppression; righteousness, but behold a cry, Isa 5:7. This is repeated in Luk 23:25, with the aggravating circumstance of the release of Barabbas: He released unto them him that for sedition and murder was cast into prison, who hereby would be hardened in his wickedness, and do the more mischief, because him they had desired, being altogether such a one as themselves; but he delivered Jesus to their will, and he could not deal more barbarously with him than to deliver him to their will, who hated him with a perfect hatred, and whose tender mercies were cruelty."
+    },
+    {
+      "src": "MHC",
+      "ref": "John 19:1",
+      "note_ref": "MHC/43/19/1",
+      "cites": [
+        "John 19:1-2"
+      ],
+      "text": "Here is a further account of the unfair trial which they gave to our Lord Jesus. The prosecutors carrying it on with great confusion among the people, and the judge with great confusion in his own breast, between both the narrative is such as is not easily reduced to method; we must therefore take the parts of it as they lie.\nI. The judge abuses the prisoner, though he declares him innocent, and hopes therewith to pacify the prosecutors; wherein his intention, if indeed it was good, will by no means justify his proceedings, which were palpably unjust.\n1. He ordered him to be whipped as a criminal, Joh 19:1. Pilate, seeing the people so outrageous, and being disappointed in his project of releasing him upon the people's choice, took Jesus, and scourged him, that is, appointed the lictors that attended him to do it. Bede is of opinion that Pilate scourged Jesus himself with his own hands, because it is said, He took him and scourged him, that it might be done favourably. Matthew and Mark mention his scourging after his condemnation, but here it appears to have been before. Luke speaks of Pilate's offering to chastise him, and let him go, which must be before sentence. This scourging of him was designed only to pacify the Jews, and in it Pilate put a compliment upon them, that he would take their word against his own sentiments so far. The Roman scourgings were ordinarily very severe, not limited, as among the Jews, to forty stripes; yet this pain and shame Christ submitted to for our sakes. (1.) That the scripture might be fulfilled, which spoke of his being stricken, smitten, and afflicted, and the chastisement of our peace being upon him (Isa 53:5), of his giving his back to the smiters (Isa 50:6), of the ploughers ploughing upon his back, Psa 129:3. He himself likewise had foretold it, Mat 20:19; Mar 10:34; Luk 18:33. (2.) That by his stripes we might be healed, Pe1 2:4. We deserved to have been chastised with whips and scorpions, and beaten with many stripes, having known our Lord's will and not done it; but Christ underwent the stripes for us, bearing the rod of his Father's wrath, Lam 3:1. Pilate's design in scourging him was that he might not be condemned, which did not take effect, but intimated what was God's design, that his being scourged might prevent our being condemned, we having fellowship in his sufferings, and this did take effect: the physician scourged, and so the patient healed. (3.) That stripes, for his sake, might be sanctified and made easy to his followers; and they might, as they did, rejoice in that shame (Act 5:41; Act 16:22, Act 16:25), as Paul did, who was in stripes above measure, Co2 11:23. Christ's stripes take out the sting of theirs, and alter the property of them. We are chastened of the Lord, that we may not be condemned with the world, Co1 11:32.\n2. He turned him over to his soldiers, to be ridiculed and made sport with as a fool (Joh 19:2, Joh 19:3): The soldiers, who were the governor's life-guard, put a crown of thorns upon his head; such a crown they thought fittest for such a king; they put on him a purple robe, some old threadbare coat of that colour, which they thought good enough to be the badge of his royalty; and they complemented him with, Hail, king of the Jews (like people like king), and then smote him with their hands.\n(1.) See here the baseness and injustice of Pilate, that he would suffer one whom he believed an innocent person, and if so an excellent person, to be thus abused and trampled on by his own servants. Those who are under the arrest of the law ought to be under the protection of it; and their being secured is to be their security. But Pilate did this, [1.] To oblige his soldiers' merry humour, and perhaps his own too, notwithstanding the gravity one might have expected in a judge. Herod, as well as his men of war, had just before done the same, Luk 23:11. It was as good as a stage-play to them, now that it was a festival time; as the Philistines made sport with Samson. [2.] To oblige the Jews' malicious humour, and to gratify them, who desired that all possible disgrace might be done to Christ, and the utmost indignities put upon him.\n(2.) See here the rudeness and insolence of the soldiers, how perfectly lost they were to all justice and humanity, who could thus triumph over a man in misery, and one that had been in reputation for wisdom and honour, and never did any thing to forfeit it. But thus hath Christ's holy religion been basely misrepresented, dressed up by bad men at their pleasure, and so exposed to contempt and ridicule, as Christ was here. [1.] They clothe him with a mock-robe, as if it were a sham and a jest, and nothing but the product of a heated fancy and a crazed imagination. And as Christ is here represented as a king in conceit only, so is his religion as a concern in conceit only, and God and the soul, sin and duty, heaven and hell, are with many all chimeras. [2.] They crown him with thorns; as if the religion of Christ were a perfect penance, and the greatest pain and hardship in the world; as if to submit to the control of God and conscience were to thrust one's head into a thicket of thorns; but this is an unjust imputation; thorns and snares are in the way of the froward, but roses and laurels in religion's ways.\n(3.) See here the wonderful condescension of our Lord Jesus in his sufferings for us. Great and generous minds can bear any thing better than ignominy, any toil, any pain, any loss, rather than reproach; yet this the great and holy Jesus submitted to for us. See and admire, [1.] The invincible patience of a sufferer, leaving us an example of contentment and courage, evenness, and easiness of spirit, under the greatest hardships we may meet with in the way of duty. [2.] The invincible love and kindness of a Saviour, who not only cheerfuly and resolutely went through all this, but voluntarily undertook it for us and for our salvation. Herein he commended his love, that he would not only die for us, but die as a fool dies. First, He endured the pain; not the pangs of death only, though in the death of the cross these were most exquisite; but, as if these were too little, he submitted to those previous pains. Shall we complain of a thorn in the flesh, and of being buffeted by affliction, because we need it to hide pride from us, when Christ humbled himself to bear those thorns in the head, and those buffetings, to save and teach us? Co2 12:7. Secondly, He despised the shame, the shame of a fool's coat, and the mock-respect paid him, with, Hail, king of the Jews. If we be at any time ridiculed for well-doing, let us not be ashamed, but glorify God, for thus we are partakers of Christ's sufferings. He that bore these sham honours was recompensed with real honours, and so shall we, if we patiently suffer shame for him.\nII. Pilate, having thus abused the prisoner, presents him to the prosecutors, in hope that they would now be satisfied, and drop the prosecution, Joh 19:4, Joh 19:5. Here he proposes two things to their consideration: -\n1. That he had not found any thing in him which made him obnoxious to the Roman government (Joh 19:4): I find no fault in him; oudemian aitian heuriskō - I do not find in him the least fault, or cause of accusation. Upon further enquiry, he repeats the declaration he had made, Joh 18:38. Hereby he condemns himself; if he found no fault in him, why did he scourge him, why did he suffer him to be abused? None ought to suffer ill but those that do ill; yet thus many banter and abuse religion, who yet, if they be serious, cannot but own they find no fault in it. If he found no fault in him, why did he bring him out to his prosecutors, and not immediately release him, as he ought to have done? If Pilate had consulted his own conscience only, he would neither have scourged Christ nor crucified him; but, thinking to trim the matter, to please the people by scourging Christ, and save his conscience by not crucifying him, behold he does both; whereas, if he had at first resolved to crucify him, he need not have scourged him. It is common for those who think to keep themselves from greater sins by venturing upon less sins to run into both.\n2. That he had done that to him which would make him the less dangerous to them and to their government, Joh 19:5. He brought him out to them, wearing the crown of thorns, his head and face all bloody, and said, \"Behold the man whom you are so jealous of,\" intimating that though his having been so popular might have given them some cause to fear that his interest in the country would lessen theirs, yet he had taken an effectual course to prevent it, by treating him as a slave, and exposing him to contempt, after which he supposed the people would never look upon him with any respect, nor could he ever retrieve his reputation again. Little did Pilate think with what veneration even these sufferings of Christ would in after ages be commemorated by the best and greatest of men, who would glory in that cross and those stripes which he thought would have been to him and his followers a perpetual and indelible reproach. (1.) Observe here our Lord Jesus shows himself dressed up in all the marks of ignominy. He came forth, willing to be made a spectacle, and to be hooted at, as no doubt he was when he came forth in this garb, knowing that he was set for a sign that should be spoken against, Luk 2:34. Did he go forth thus bearing our reproach? Let us go forth to him bearing his reproach, Heb 13:13. (2.) How Pilate shows him: Pilate saith unto them, Behold the man. He saith unto them: so the original is; and, the immediate antecedent being Jesus, I see no inconvenience in supposing these to be Christ's own words; he said, \"Behold the man against whom you are so exasperated.\" But some of the Greek copies, and the generality of the translators, supply it as we do, Pilate saith unto them, with a design to appease them, Behold the man; not so much to move their pity, Behold a man worthy your compassion, as to silence their jealousies, Behold a man not worthy your suspicion, a man from whom you can henceforth fear no danger; his crown is profaned, and cast to the ground, and now all mankind will make a jest of him. The word however is very affecting: Behold the man. It is good for every one of us, with an eye of faith, to behold the man Christ Jesus in his sufferings. Behold this king with the crown wherewith his mother crowned him, the crown of thorns, Sol 3:11. \"Behold him, and be suitably affected with the sight. Behold him, and mourn because of him. Behold him, and love him; be still looking unto Jesus.\"\nIII. The prosecutors, instead of being pacified, were but the more exasperated, Joh 19:6, Joh 19:7.\n1. Observe here their clamour and outrage. The chief priests, who headed the mob, cried out with fury and indignation, and their officers, or servants, who must say as they said, joined with them in crying, Crucify him, crucify him. The common people perhaps would have acquiesced in Pilate's declaration of his innocency, but their leaders, the priests, caused them to err. Now by this it appears that their malice against Christ was, (1.) Unreasonable and most absurd, in that they offer not to make good their charges against him, nor to object against the judgment of Pilate concerning him; but, though he be innocent, he must be crucified. (2.) It was insatiable and very cruel. Neither the extremity of his scourging, nor his patience under it, nor the tender expostulations of the judge, could mollify them in the least; no, nor could the jest into which Pilate had turned the cause, put them into a pleasant humour. (3.) It was violent and exceedingly resolute; they will have it their own way, and hazard the governor's favour, the peace of the city, and their own safety, rather than abate of the utmost of their demands. Were they so violent in running down our Lord Jesus, and in crying, Crucify him, crucify him? and shall not we be vigorous and zealous in advancing his name, and in crying, Crown him, Crown him? Did their hatred of him sharpen their endeavours against him? and shall not our love to him quicken our endeavours for him and his kingdom?\n2. The check Pilate gave to their fury, still insisting upon the prisoner's innocency: \"Take you him and crucify him, if he must be crucified.\" This is spoken ironically; he knew they could not, they durst not, crucify him; but it is as if he should say, \"You shall not make me a drudge to your malice; I cannot with a safe conscience crucify him.\" A good resolve, if he would but have stuck to it. He found no fault in him, and therefore should not have continued to parley with the prosecutors. Those that would be safe from sin should be deaf to temptation. Nay, he should have secured the prisoner from their insults. What was he armed with power for, but to protect the injured? The guards of governors ought to be the guards of justice. But Pilate had not courage enough to act according to his conscience; and his cowardice betrayed him into a snare.\n3. The further colour which the prosecutors gave to their demand (Joh 19:7): We have a law, and by our law, if it were but in our power to execute it, he ought to die, because he made himself the Son of God. Now here observe, (1.) They made their boast of the law, even when through breaking the law they dishonoured God, as is charged upon the Jews, Rom 2:23. They had indeed an excellent law, far exceeding the statutes and judgments of other nations; but in vain did they boast of their law, when they abused it to such bad purposes. (2.) They discover a restless and inveterate malice against our Lord Jesus. When they could not incense Pilate against him by alleging that he pretended himself a king, they urged this, that he pretended himself a God. Thus they turn every stone to take him off. (3.) They pervert the law, and make that the instrument of their malice. Some think they refer to a law made particularly against Christ, as if, being a law, it must be executed, right or wrong; whereas there is a woe to them that decree unrighteous decrees, and that write the grievousness which they have prescribed, Isa 10:1. See Mic 6:16. But it should seem they rather refer to the law of Moses; and if so, [1.] It was true that blasphemers, idolaters, and false prophets, were to be put to death by that law. Whoever falsely pretended to be the Son of God was guilty of blasphemy, Lev 24:16. But then, [2.] It was false that Christ pretended to be the Son of God, for he really was so; and they ought to have enquired into the proofs he produced of his being so. If he said that he was the Son of God, and the scope and tendency of his doctrine were not to draw people from God, but to bring them to him, and if he confirmed his mission and doctrine by miracles, as undoubtedly he did, beyond contradiction, by their law they ought to hearken to him (Deu 18:18, Deu 18:19), and, if they did not, they were to be cut off. That which was his honour, and might have been their happiness, if they had not stood in their own light, they impute to him as a crime, for which he ought not to be crucified, for this was no death inflicted by their law.\nIV. The judge brings the prisoner again to his trial, upon this new suggestion. Observe,\n1. The concern Pilate was in, when he heard this alleged (Joh 19:8): When he heard that his prisoner pretended not to royalty only, but to deity, he was the more afraid. This embarrassed him more than ever, and made the case more difficult both ways; for, (1.) There was the more danger of offending the people if he should acquit him, for he knew how jealous that people were for the unity of the Godhead, and what aversion they now had to other gods; and therefore, though he might hope to pacify their rage against a pretended king, he could never reconcile them to a pretended God. \"If this be at the bottom of the tumult,\" thinks Pilate, \"it will not be turned off with a jest.\" (2.) There was the more danger of offending his own conscience if he should condemn him. \"Is he one\" (thinks Pilate) \"that makes himself the Son of God? and what if it should prove that he is so? What will become of me then?\" Even natural conscience makes men afraid of being found fighting against God. The heathen had some fabulous traditions of incarnate deities appearing sometimes in mean circumstances, and treated ill by some that paid dearly for their so doing. Pilate fears lest he should thus run himself into a premunire.\n2. His further examination of our Lord Jesus thereupon, Joh 19:9. That he might give the prosecutors all the fair play they could desire, he resumed the debate, went into the judgment-hall, and asked Christ, Whence art thou? Observe,\n(1.) The place he chose for this examination: He went into the judgment-hall for privacy, that he might be out of the noise and clamour of the crowd, and might examine the thing the more closely. Those that would find out the truth as it is in Jesus must get out of the noise of prejudice, and retire as it were into the judgment-hall, to converse with Christ alone.\n(2.) The question he put to him: Whence art thou? Art thou from men or from heaven? From beneath or from above? He had before asked directly, Art thou a King? But here he does not directly ask, Art thou the Son of God? lest he should seem to meddle with divine things too boldly. But in general, \"Whence art thou? Where wast thou, and in what world hadst thou a being, before thy coming into this world?\"\n(3.) The silence of our Lord Jesus when he was examined upon this head; but Jesus gave him no answer. This was not a sullen silence, in contempt of the court, nor was it because he knew not what to say; but, [1.] It was a patient silence, that the scripture might be fulfilled, as a sheep before the shearers is dumb, so he opened not his mouth, Isa 53:7. This silence loudly bespoke his submission to his Father's will in his present sufferings, which he thus accommodated himself to, and composed himself to bear. He was silent, because he would say nothing to hinder his sufferings. If Christ had avowed himself a God as plainly as he avowed himself a king, it is probable that Pilate would not have condemned him (for he was afraid at the mention of it by the prosecutors); and the Romans, though they triumphed over the kings of the nations they conquered, yet stood in awe of their gods. See Co1 2:8. If they had known him to be the Lord of glory, they would not have crucified him; and how then could we have been saved? [2.] It was a prudent silence. When the chief priests asked him, Art thou the Son of the Blessed? he answered, I am, for he knew they went upon the scriptures of the Old Testament which spoke of the Messiah; but when Pilate asked him he knew he did not understand his own question, having no notion of the Messiah, and of his being the Son of God, and therefore to what purpose should he reply to him whose head was filled with the pagan theology, to which he would have turned his answer?\n(4.) The haughty check which Pilate gave him for his silence (Joh 19:10): \"Speakest thou not unto me? Dost thou put such an affront upon me as to stand mute? What knowest thou not that, as president of the province, I have power, if I think fit, to crucify thee, and have power, if I think fit, to release thee?\" Observe here, [1.] How Pilate magnified himself, and boasts of his own authority, as not inferior to that of Nebuchadnezzar, of whom it is said that whom he would he slew, and whom he would he kept alive. Dan 5:19. Men in power are apt to be puffed up with their power, and the more absolute and arbitrary it is the more it gratifies and humours their pride. But he magnifies his power to an exorbitant degree when he boasts that he has power to crucify one whom he had declared innocent, for no prince or potentate has authority to do wrong. Id possumus, quod jure possumus - We can do that only which we can do justly. [2.] How he tramples upon our blessed Saviour: Speakest thou not unto me? He reflects upon him, First, As if he were undutiful and disrespectful to those in authority, not speaking when he was spoken to. Secondly, As if he were ungrateful to one that had been tender of him: \"Speakest thou not to me who have laboured to secure thy release?\" Thirdly, As if he were unwise for himself: \"Wilt thou not speak to clear thyself to one that is willing to clear thee?\" If Christ had indeed sought to save his life, now had been his time to have spoken; but that which he had to do was to lay down his life.\n(5.) Christ's pertinent answer to this check, Joh 19:11, where,\n[1.] He boldly rebukes his arrogance, and rectifies his mistake: \"Big as thou lookest and talkest, thou couldest have no power at all against me, no power to scourge, no power to crucify, except it were given thee from above.\" Though Christ did not think fit to answer him when he was impertinent (then answer not a fool according to his folly, lest thou also be like him), yet he did think fit to answer him when he was imperious; then answer a fool according to his folly, lest he be wise in his own conceit, Pro 26:4, Pro 26:5. When Pilate used his power, Christ silently submitted to it; but, when he grew proud of it, he made him know himself: \"All the power thou hast is given thee from above,\" which may be taken two ways: - First, As reminding him that his power in general, as a magistrate, was a limited power, and he could do no more than God would suffer him to do. God is the fountain of power; and the powers that are, as they are ordained by him and derived from him, so they are subject to him. They ought to go no further than his law directs them; they can go no further than his providence permits them. They are God's hand and his sword, Psa 17:13, Psa 17:14. Though the axe may boast itself against him that heweth therewith, yet still it is but a tool, Isa 10:5, Isa 10:15. Let the proud oppressors know that there is a higher than they, to whom they are accountable, Ecc 5:8. And let this silence the murmurings of the oppressed, It is the Lord. God has bidden Shimei curse David; and let it comfort them that their persecutors can do no more than God will let them. See Isa 51:12, Isa 51:13. Secondly, As informing him that his power against him in particular, and all the efforts of that power, were by the determinate counsel and foreknowledge of God, Act 2:23. Pilate never fancied himself to look so great as now, when he sat in judgment upon such a prisoner as this, who was looked upon by many as the Son of God and king of Israel, and had the fate of so great a man at his disposal; but Christ lets him know that he was herein but an instrument in God's hand, and could no nothing against him, but by the appointment of Heaven, Act 4:27, Act 4:28.\n[2.] He mildly excuses and extenuates his sin, in comparison with the sin of the ringleaders: \"Therefore he that delivered me unto thee lies under greater guilt; for thou as a magistrate hast power from above, and art in thy place, thy sin is less than theirs who, from envy and malice, urge thee to abuse thy power.\"\nFirst, It is plainly intimated that what Pilate did was sin, a great sin, and that the force which the Jews put upon him, and which he put upon himself in it, would not justify him. Christ hereby intended a hint for the awakening of his conscience and the increase of the fear he was now under. The guilt of others will not acquit us, nor will it avail in the great day to say that others were worse than we, for we are not to be judged by comparison, but must bear our own burden.\nSecondly, Yet theirs that delivered him to Pilate was the greater sin. By this it appears that all sins are not equal, but some more heinous than others; some comparatively as gnats, others as camels; some as motes in the eyes, others as beams; some as pence, others as pounds. He that delivered Christ to Pilate was either, 1. The people of the Jews, who cried out, Crucify him, crucify him. They had seen Christ's miracles, which Pilate had not; to them the Messiah was first sent; they were his own; and to them, who were now enslaved, a Redeemer should have been most welcome, and therefore it was much worse in them to appear against him than in Pilate. 2. Or rather he means Caiaphas in particular, who was at the head of the conspiracy against Christ, and first advised his death, Joh 11:49, Joh 11:50. The sin of Caiaphas was abundantly greater than the sin of Pilate. Caiaphas prosecuted Christ from pure enmity to him and his doctrine, deliberately and of malice prepense. Pilate condemned him purely for fear of the people, and it was a hasty resolution which he had not time to cool upon. 3. Some think Christ means Judas; for, though he did not immediately deliver him into the hands of Pilate, yet he betrayed him to those that did. The sin of Judas was, upon many accounts, greater than the sin of Pilate. Pilate was a stranger to Christ; Judas was his friend and follower. Pilate found no fault in him, but Judas knew a great deal of good of him. Pilate, though biassed, was not bribed, but Judas took a reward against the innocent; the sin of Judas was a leading sin, and let in all that followed. He was a guide to them that took Jesus. So great was the sin of Judas that vengeance suffered him not to live; but when Christ said this, or soon after, he was gone to his own place.\nV. Pilate struggles with the Jews to deliver Jesus out of their hands, but in vain. We hear no more after this of any thing that passed between Pilate and the prisoner; what remains lay between him and the prosecutors.\n1. Pilate seems more zealous than before to get Jesus discharged (Joh 19:12): Thenceforth, from this time, and for this reason, because Christ had given him that answer (Joh 19:11), which, though it had a rebuke in it, yet he took kindly; and, though Christ found fault with him, he still continued to find no fault in Christ, but sought to release him, desired it, endeavoured it. He sought to release him; he contrived how to do it handsomely and safely, and so as not to disoblige the priests. It never does well when our resolutions to do our duty are swallowed up in projects how to do it plausibly and conveniently. If Pilate's policy had not prevailed above his justice, he would not have been long seeking to release him, but would have done it. Fiat justitia, ruat coelum - Let justice be done, though heaven itself should fall.\n2. The Jews were more furious than ever, and more violent to get Jesus crucified. Still they carry on their design with noise and clamour as before; so now they cried out. They would have it thought that the commonalty was against him, and therefore laboured to get him cried down by a multitude, and it is no hard matter to pack a mob; whereas, if a fair poll had been granted, I doubt not but it would have been carried by a great majority for the releasing of him. A few madmen may out-shout many wise men, and then fancy themselves to speak the sense (when it is but the nonsense) of a nation, or of all mankind; but it is not so easy a thing to change the sense of the people as it is to misrepresent it, and to change their cry. Now that Christ was in the hands of his enemies his friends were shy and silent, and disappeared, and those that were against him were forward to show themselves so; and this gave the chief priests an opportunity to represent it as the concurring vote of all the Jews that he should be crucified. In this outcry they sought two things: - (1.) To blacken the prisoner as an enemy to Caesar. He had refused the kingdoms of this world and the glory of them, had declared his kingdom not to be of this world, and yet they will have it that he speaks against Caesar; antilegei - he opposed Caesar, invades his dignity and sovereignty. It has always been the artifice of the enemies of religion to represent it as hurtful to kings and provinces, when it would be highly beneficial to both. (2.) To frighten the judge, as no friend to Caesar: \"If thou let this man go unpunished, and let him go on, thou art not Caesar's friend, and therefore false to thy trust and the duty of thy place, obnoxious to the emperor's displeasure, and liable to be turned out.\" They intimate a threatening that they would inform against him, and get him displaced; and here they touched him in a sensible and very tender part. But, of all people, these Jews should not have pretended a concern for Caesar, who were themselves so ill affected to him and his government. They should not talk of being friends to Caesar, who were themselves such back friends to him; yet thus a pretended zeal for that which is good often serves to cover a real malice against that which is better.\n3. When other expedients had been tried in vain, Pilate slightly endeavoured to banter them out of their fury, and yet, in doing this, betrayed himself to them, and yielded to the rapid stream, Joh 19:13-15. After he had stood it out a great while, and seemed now as if he would have made a vigorous resistance upon this attack (Joh 19:12), he basely surrendered. Observe here,\n(1.) What it was that shocked Pilate (Joh 19:13): When he heard that saying, that he could not be true to Caesar's honour, nor sure of Caesar's favour, if he did not put Jesus to death, then he thought it was time to look about him. All they had said to prove Christ a malefactor, and that therefore it was Pilate's duty to condemn him, did not move him, but he still kept to his conviction of Christ's innocency; but, when they urged that it was his interest to condemn him, then he began to yield. Note, Those that bind up their happiness in the favour of men make themselves an easy prey to the temptations of Satan.\n(2.) What preparation was made for a definitive sentence upon this matter: Pilate brought Jesus forth, and he himself in great state took the chair. We may suppose that he called for his robes, that he might look big, and then sat down in the judgment-seat.\n[1.] Christ was condemned with all the ceremony that could be. First, To bring us off at God's bar, and that all believers through Christ, being judged here, might be acquitted in the court of heaven. Secondly, To take off the terror of pompous trials, which his followers would be brought to for his sake. Paul might the better stand at Caesar's judgment-seat when his Master had stood there before him.\n[2.] Notice is here taken of the place and time.\nFirst, The place where Christ was condemned: in a place called the Pavement, but in Hebrew, Gabbatha, probably the place where he used to sit to try causes or criminals. Some make Gabbatha to signify an enclosed place, fenced against the insults of the people, whom therefore he did the less need to fear; others an elevated place, raised that all might see him.\nSecondly, The time, Joh 19:14. It was the preparation of the passover, and about the sixth hour. Observe, 1. The day: It was the preparation of the passover, that is, for the passover-sabbath, and the solemnities of that and the rest of the days of the feast of unleavened bread. This is plain from Luk 23:54, It was the preparation, and the sabbath drew on. So that this preparation was for the sabbath. Note, Before the passover there ought to be preparation. This is mentioned as an aggravation of their sin, in persecuting Christ with so much malice and fury, that it was when they should have been purging out the old leaven, to get ready for the passover; but the better the day the worse the deed. 2. The hour: It was about the sixth hour. Some ancient Greek and Latin manuscripts read it about the third hour, which agrees with Mar 15:25. And it appears by Mat 27:45 that he was upon the cross before the sixth hour. But it should seem to come in here, not as a precise determination of the time, but as an additional aggravation of the sin of his prosecutors, that they were pushing on the prosecution, not only on a solemn day, the day of the preparation, but, from the third to the sixth hour (which was, as we call it, church-time) on that day, they were employed in this wickedness; so that for this day, though they were priests, they dropped the temple-service, for they did not leave Christ till the sixth hour, when the darkness began, which frightened them away. Some think that the sixth hour, with this evangelist, is, according to the Roman reckoning and ours, six of the clock in the morning, answering to the Jews' first hour of the day; this is very probable, that Christ's trial before Pilate was at the height about six in the morning, which was then a little after sun-rising.\n(3.) The rencounter Pilate had with the Jews, both priests and people, before he pr"
+    },
+    {
+      "src": "TYN",
+      "ref": "Matthew 27:25",
+      "note_ref": "TYN/40/27/25",
+      "cites": [
+        "Matthew 27:27-28"
+      ],
+      "text": "27:25 all the people (see 21:43): This does not mean every living Jew. Instead, those urging Jesus’ condemnation are representative of all of unbelieving Israel, whose actions bring consequences for the nation as a whole (e.g., the destruction of Jerusalem in AD 70). • We will take responsibility for his death—we and our children (see 23:35; 2 Sam 1:16; 14:9; Jer 51:35; Acts 5:28; 18:6; 20:26): Christians have at times misunderstood and misused this verse in persecution of Jews, but it is not an indictment against Jews in general."
+    },
+    {
+      "src": "TYN",
+      "ref": "Matthew 27:26",
+      "note_ref": "TYN/40/27/26",
+      "cites": [
+        "Matthew 27:27-28"
+      ],
+      "text": "27:26 When a man was flogged, he was beaten with whips that had leather thongs at the end, some with sharp bone, lead, or rock fragments stuck to the ends of the thongs (see also Deut 25:1-3; 1 Kgs 12:11, 14; Acts 16:22; 22:25; 2 Cor 11:24-25)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Matthew 27:27",
+      "note_ref": "TYN/40/27/27",
+      "cites": [
+        "Matthew 27:27-28"
+      ],
+      "text": "27:27-31 In the Jewish trial Jesus was mocked as a prophet (26:67-68); here he is mocked as a king.\n27:27 The governor’s soldiers were auxiliary troops recruited from non-Jewish residents of Palestine. • Their headquarters was located at the official residence of the governor in Jerusalem (the Antonia Fortress on the northwest corner of the Temple compound)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Matthew 27:28",
+      "note_ref": "TYN/40/27/28",
+      "cites": [
+        "Matthew 27:27-28"
+      ],
+      "text": "27:28-29 The scarlet robe was probably the cloak of a soldier meant to emulate royal garb solely for the purpose of ridiculing Jesus. • Weaving thorn branches into a crown was a mockery of Jesus as king."
+    },
+    {
+      "src": "TYN",
+      "ref": "Mark 15:15",
+      "note_ref": "TYN/41/15/15",
+      "cites": [
+        "Mark 15:15-17"
+      ],
+      "text": "15:15 to pacify the crowd: To protect his job, Pilate ordered a completely innocent man to be crucified. • He ordered Jesus flogged: Flogging was preliminary to crucifixion. It was done with leather thongs tipped with metal, stone, or bone. This laceration of the flesh could itself bring death. Jesus’ prediction in 10:34 was now being fulfilled."
+    },
+    {
+      "src": "TYN",
+      "ref": "Mark 15:16",
+      "note_ref": "TYN/41/15/16",
+      "cites": [
+        "Mark 15:15-17"
+      ],
+      "text": "15:16-41 The crucifixion account is one of the most historically certain accounts of ancient history. Why would the early church create a story in which the object of their faith was crucified? This story was and still is an offense to Jews and absurd nonsense to Gentiles (1 Cor 1:23).\n15:16 The entire regiment (literally cohort, one-tenth of a legion) was about 600 men. Those called out were probably all the soldiers currently on duty in the Praetorium."
+    },
+    {
+      "src": "TYN",
+      "ref": "Mark 15:17",
+      "note_ref": "TYN/41/15/17",
+      "cites": [
+        "Mark 15:15-17"
+      ],
+      "text": "15:17 a purple robe: Purple cloth, made with an expensive dye, was worn by royalty and other wealthy individuals (Luke 16:19; 1 Maccabees 10:20, 62; 11:58). This robe may have been a centurion’s out-of-service robe."
+    },
+    {
+      "src": "TYN",
+      "ref": "Mark 15:18",
+      "note_ref": "TYN/41/15/18",
+      "cites": [
+        "Mark 15:15-17"
+      ],
+      "text": "15:18 King of the Jews: The formal charge (15:2) on which Jesus was convicted (15:26)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 23:9",
+      "note_ref": "TYN/42/23/9",
+      "cites": [
+        "Luke 23:11"
+      ],
+      "text": "23:9 Jesus refused to answer: See Isa 53:7."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 23:12",
+      "note_ref": "TYN/42/23/12",
+      "cites": [
+        "Luke 23:11"
+      ],
+      "text": "23:12 Herod and Pilate, who had been enemies before: There was a history of bad blood between Herod Antipas and Pilate. Herod and three of his brothers had previously brought charges against Pilate before Tiberius Caesar when Pilate set up idolatrous golden shields in Jerusalem, and Tiberius had ordered Pilate to remove the shields. Pilate was also governing Judea, which Antipas’s father, Herod the Great, had once ruled, and which Antipas hoped one day to claim as his own."
+    },
+    {
+      "src": "TYN",
+      "ref": "John 19:1",
+      "note_ref": "TYN/43/19/1",
+      "cites": [
+        "John 19:1-2"
+      ],
+      "text": "19:1-16 Jesus was also beaten after his sentencing (Mark 15:15), but here John records an earlier beating, which was likely Pilate’s attempt to show that Jesus had been punished and could be released (John 19:4). When this failed, Pilate passed his sentence and handed Jesus over to the Jewish leaders for crucifixion (19:16)."
+    },
+    {
+      "src": "TYN",
+      "ref": "John 19:2",
+      "note_ref": "TYN/43/19/2",
+      "cites": [
+        "John 19:1-2"
+      ],
+      "text": "19:2 The crown of thorns might have come from a date palm (cp. 12:13-14), the thorns of which can exceed twelve inches. There are Greek coin images showing such crowns, with the stems woven and the thorns radiating upward above the crown. • The purple robe was probably a soldier’s robe—dark red to complete the picture of mock royalty."
+    },
+    {
+      "src": "TYN",
+      "ref": "John 19:4",
+      "note_ref": "TYN/43/19/4",
+      "cites": [
+        "John 19:1-2"
+      ],
+      "text": "19:4-6 Pilate’s intention was to bring Jesus out to display the marks of his punishment to sway the crowd to let him go. After being flogged with a lead-tipped whip, Jesus was bleeding profusely. • Pilate announced his verdict of not guilty a second time, but he was met with a strident call for Jesus’ death (19:6)."
+    },
+    {
+      "src": "GNV",
+      "ref": "Matthew 27:25",
+      "note_ref": "GNV/40/27/25",
+      "cites": [
+        "Matthew 27:27-28"
+      ],
+      "text": "If there be any offence committed in slaying him, let us and our posterity smart for it."
+    },
+    {
+      "src": "GNV",
+      "ref": "Matthew 27:28",
+      "note_ref": "GNV/40/27/28",
+      "cites": [
+        "Matthew 27:27-28"
+      ],
+      "text": "Christ suffereth that reproach which was due to our sins; notwithstanding in the meantime by the secret providence of God, he is entitled King by them which did him that reproach.\nThey cast a cloak about him, and wrapped it about him, for it lacked sleeves.\nJohn and Mark make mention of a purple robe, which is also a very pleasant red. But these profane and malapert saucy soldiers clad Jesus in this array, to mock him withall, who was indeed a true King."
+    },
+    {
+      "src": "GNV",
+      "ref": "Mark 15:6",
+      "note_ref": "GNV/41/15/6",
+      "cites": [
+        "Mark 15:15-17"
+      ],
+      "text": "Used Pilate to deliver.",
+      "anchor": true
+    },
+    {
+      "src": "GNV",
+      "ref": "Mark 15:17",
+      "note_ref": "GNV/41/15/17",
+      "cites": [
+        "Mark 15:15-17"
+      ],
+      "text": "Christ going about to take away the sins of men, who went about to usurp the throne of God himself, is condemned as one that hunted after the kingdom, and mocked with a false show of a kingdom, that we on the other side, who shall indeed be eternal kings, might receive the crown of glory at God’s own hand."
+    },
+    {
+      "src": "GNV",
+      "ref": "Luke 23:11",
+      "note_ref": "GNV/42/23/11",
+      "cites": [
+        "Luke 23:11"
+      ],
+      "text": "Accompanied with his nobles and soldiers which followed him from Galilee."
+    },
+    {
+      "src": "GNV",
+      "ref": "Luke 23:12",
+      "note_ref": "GNV/42/23/12",
+      "cites": [
+        "Luke 23:11"
+      ],
+      "text": "The hatred of godliness joineth the wicked together."
+    },
+    {
+      "src": "GNV",
+      "ref": "Luke 23:13",
+      "note_ref": "GNV/42/23/13",
+      "cites": [
+        "Luke 23:11"
+      ],
+      "text": "Christ is quit the second time, even of him of whom he is condemned, that it might appear, how he being just, redeemed us which were unjust.\nThose whom the Jews called the Sanhedrin."
+    },
+    {
+      "src": "GNV",
+      "ref": "John 19:1",
+      "note_ref": "GNV/43/19/1",
+      "cites": [
+        "John 19:1-2"
+      ],
+      "text": "The wisdom of the flesh, chooseth of two evils the least, but God curseth that same wisdom."
+    },
+    {
+      "src": "GNV",
+      "ref": "John 19:4",
+      "note_ref": "GNV/43/19/4",
+      "cites": [
+        "John 19:1-2"
+      ],
+      "text": "Christ is again acquitted by the same mouth wherewith he is afterward condemned."
+    }
+  ]
+}

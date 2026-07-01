@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 176,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders answer that the Law was not abrogated but fulfilled — its force endures even as the new covenant brings it to its goal in Christ.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Thomas Paine pressed the underlying objection: an immutable God cannot give one law in one age (the Old Testament) and a contrary law in another (the New), so the two-law scheme is self-refuting.",
+      "skeptic": {
+        "name": "Thomas Paine",
+        "work": "The Age of Reason",
+        "year": "1794",
+        "attribution": "Thomas Paine (d. 1809), The Age of Reason (1794)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Luke 16:17",
+      "excerpt_text": "Although the new covenant fulfilled the Old Testament law and prophets, the law has not passed away …",
+      "full_note_ref": "TYN/42/16/17",
+      "on_tension_rationale": "Directly answers Luke 16:16's 'until John' horn and the abrogation claim: the Law is fulfilled, not superseded or void — the core harmonizing move for whether the Law is still binding.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Luke 16:16",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, anticipating and rejecting the inference that 'the law and the prophets were until John' means the Law was 'abrogated and laid aside'; he argues it had 'their full accomplishment' in Christ. (Haley's coverage of this specific passage could not be confirmed; this harmonizing commentator is surfaced on the row.)"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/abolish-fulfill-law.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does it mean that Jesus fulfilled the law, but did not abolish it?",
+        "note": "live apologetic treatment of the permanence-vs-supersession tension (fulfilled, not abolished)"
+      }
+    }
+  }
+}

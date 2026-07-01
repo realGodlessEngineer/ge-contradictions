@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 143,
+  "question": "Should we judge others?",
+  "summary": "Jesus in Matthew 7:1 and Luke 6:37 commands his followers not to judge, and Paul echoes that in Romans 2:1 and 14:10 along with James 4:12. But Leviticus 19:15 commands righteous judgment of one's neighbor, John 7:24 has Jesus telling people to \"judge righteous judgment,\" and Paul in 1 Corinthians 5-6 demands the Corinthians judge an immoral brother and even angels.",
+  "consensus": "probable_harmonization",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Commentators harmonize by distinguishing senses of \"judge\": the prohibition targets censorious, hypocritical, private condemnation, while civil and corrective righteous judgment remains commanded.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells, who catalogs this in the Skeptic's Annotated Bible, presses that the texts issue flatly opposing commandments on whether believers should judge others at all.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013; \"Should we judge others?\" contradiction list)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Matthew 7:1",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this passage directly, harmonizing it by distinguishing the magistrate's/minister's office of judging from the private, censorious judging Christ prohibits."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/do-not-judge.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does the Bible mean when it says, \"Do not judge\"?",
+        "note": "Live apologetic treatment reconciling Matthew 7:1 with the call to righteous judgment (John 7:24; 1 Corinthians)."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "143#0",
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "attribution": "Geneva Bible (1599)",
+      "verse_ref": "Luke 6:37",
+      "full_note_ref": "GNV/42/6/37",
+      "excerpt_text": "He speaketh not here of civil judgments, and therefore by the word, forgive, is meant that good nature, which the Christians use in suffering and pardoning wrongs.",
+      "on_tension_rationale": "Directly resolves the tension by restricting Christ's \"judge not\" to a sense other than civil/legal judging, which Lev 19:15 and 1 Cor command.",
+      "source_note_text": "He speaketh not here of civil judgments, and therefore by the word, forgive, is meant that good nature, which the Christians use in suffering and pardoning wrongs.\nBrotherly reprehension must not proceed of curiosity, nor churlishness, nor malice, but they must be just, moderate, and loving."
+    }
+  ]
+}

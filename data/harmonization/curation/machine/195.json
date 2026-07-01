@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 195,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders hold that \"Jabin\" was a dynastic title and that Canaanites rebuilt the burned Hazor, so Judges 4 names a later king of the same name, not the one Joshua slew.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "J. Alberto Soggin argues the originally independent Deborah-Sisera tradition was secondarily fused with Joshua 11, so the \"second Jabin of Hazor\" is an editorial conflation of one event, not a real later king.",
+      "skeptic": {
+        "name": "J. Alberto Soggin",
+        "work": "Judges: A Commentary (Old Testament Library)",
+        "year": "1981",
+        "attribution": "J. Alberto Soggin (d. 2010), Judges: A Commentary, Old Testament Library (1981)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Joshua 11:1",
+      "excerpt_text": "It is probable that Jabin was the common name of all the kings of Hazor. That king, by whom the Israelites were kept in a state of slavery for twenty years, and who was defeated by Deborah and Barak, was called by this name … it is likely that the Canaanites rebuilt it, and restored the ancient government, as we find a powerful king there about one hundred and thirty years after the death of Joshua, Jdg 4:1.",
+      "full_note_ref": "CLARKE/6/11/1",
+      "on_tension_rationale": "Directly answers the tension: dynastic-name theory plus a rebuilt Hazor yields a later, different Jabin in Judges 4. Ellipsis joins two non-adjacent on-tension sentences in the same note, preserving sense.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Joshua 11:1",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, arguing Jabin was a common (dynastic) name of the kings of Hazor and that Canaanites rebuilt the burned city, so the Judges 4 Jabin is a later king of the same name."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No dedicated on-topic page on an allowlisted apologetics domain could be confirmed; omitted rather than guessed."
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 113,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Exodus 17 and Numbers 20 as two separate occasions — Horeb/Rephidim early, Kadesh late — so the strike command and the speak command never apply to one and the same event.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharpest objection is pressed by Julius Wellhausen, who treats the two rock-miracle accounts as variant traditions from different sources and finds the divergent instructions impossible to harmonize as a single coherent history.",
+      "skeptic": {
+        "name": "Julius Wellhausen",
+        "work": "Prolegomena to the History of Israel",
+        "year": "1885",
+        "attribution": "Julius Wellhausen (d. 1918), Prolegomena to the History of Israel (Eng. tr. 1885)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Numbers 20:7",
+      "excerpt_text": "it was not the same rock that was smote before; that was in Horeb, this in the extremity of the land of Edom, as Aben Ezra observes; this was to be spoken to, and by a word speaking it would give out water …",
+      "full_note_ref": "GILL/4/20/7",
+      "on_tension_rationale": "Directly harmonizes the strike-vs-speak tension by distinguishing two rocks at two places (Horeb, struck; Edom/Kadesh, spoken to) — the two-distinct-events reading.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Numbers 20:1",
+      "excerpt_text": "God bade them speak to the rock, and they spoke to the people, and smote the rock, which at this time they were not ordered to do, but they thought speaking would not do.",
+      "full_note_ref": "MHC/4/20/1",
+      "on_tension_rationale": "States the Numbers instruction was to speak (distinct from the Exodus strike) and that smiting was unordered this time, treating the two episodes as carrying different commands rather than one contradictory one.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Numbers 20:2",
+      "excerpt_text": "Another rebellion was in Raphidim, Exod. 17, and this was in Kadesh.",
+      "full_note_ref": "GNV/4/20/2",
+      "on_tension_rationale": "Distinguishes the two water-from-rock rebellions as separate occasions and places (Rephidim vs Kadesh), the load-bearing premise of the two-events harmonization.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Numbers 20:7",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, harmonizing the strike-vs-speak difference by distinguishing the Horeb rock that was struck from the later Edom/Kadesh rock that was to be spoken to."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Meribah-in-the-Bible.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What is the significance of Meribah in the Bible?",
+        "note": "Live apologetic treatment that reads Exodus 17 (Rephidim, struck) and Numbers 20 (Kadesh, spoken to) as two separate events."
+      }
+    }
+  }
+}

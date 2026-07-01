@@ -1,0 +1,46 @@
+{
+  "contradiction_id": 172,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Deuteronomy's prohibition as bounded to that moment — God shielded Moab when Israel was strong, but later turned the same nation over to judgment.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the inconsistency directly: God forbids Israel to distress Moab or take its land in Deuteronomy 2:9, yet Judges has Israel slay ten thousand Moabites and Jeremiah 48 calls for Moab to be cut off as a nation.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How should the Moabites be treated?\"",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), contradiction \"How should the Moabites be treated?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Judges 3:12",
+      "excerpt_text": "God would not suffer the Israelites, when they were the stronger, to distress the Moabites, nor give them any disturbance, though they were idolaters (Deu 2:9); yet now he suffered the Moabites to distress Israel, and strengthened them on purpose that they might …",
+      "full_note_ref": "MHC/7/3/12",
+      "on_tension_rationale": "Matthew Henry sets Deut 2:9 beside the later Moabite war and frames the shift as God's changing dispensation toward Moab — the core harmonizing move (the peace command was time-bound, not permanent).",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Deuteronomy 2:9",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, harmonizing the prohibition as temporary: Israel was not to take Moab's land \"at least not as yet, the measure of their sins not being fully up... otherwise in David's time they were subdued.\""
+      }
+    }
+  }
+}

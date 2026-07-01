@@ -1,0 +1,65 @@
+{
+  "contradiction_id": 128,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators distinguish two different things: the ordinary scented oil Proverbs praises and the one sacred recipe Exodus reserves for the Tabernacle.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells of the Skeptic's Annotated Bible, who lists Proverbs 27:9 endorsing perfume against Exodus 30:37, framing the latter as a flat ban — \"perfume is for God, not you.\"",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "1999-2026",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (1999-2026)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Proverbs 27:8",
+      "excerpt_text": "Meaning not the holy anointing oil for sacred use, or the perfume or incense offered on the altar of incense; but common oil or ointment used at entertainments, poured on the heads of the guests; and incense in censing of rooms, which were very delightful, pleased the senses, and so exhilarated the heart …",
+      "full_note_ref": "GILL/20/27/8",
+      "on_tension_rationale": "Directly distinguishes the perfume Proverbs praises ('common oil or ointment') from 'the holy anointing oil for sacred use' Exodus restricts — the core harmonization.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Exodus 30:37",
+      "excerpt_text": "ye shall not make to yourselves according to the composition thereof; that is, for their own use, for the scenting of their rooms, or to snuff up, or smell to, as in the next verse",
+      "full_note_ref": "GILL/2/30/37",
+      "on_tension_rationale": "Reads the Exodus ban as keyed to copying this one composition for personal use, not a universal prohibition of perfume.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Exodus 30:37",
+      "excerpt_text": "Only dedicated to the use of the Tabernacle.",
+      "full_note_ref": "GNV/2/30/37",
+      "on_tension_rationale": "Concise statement that the restriction concerns the sacred Tabernacle recipe, not perfume in general.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Proverbs 27:9 and Exodus 30:37-38",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, distinguishing the 'common oil or ointment' Proverbs praises from the 'holy anointing oil for sacred use' whose composition Exodus reserves; Haley's coverage of this specific passage could not be confirmed."
+      },
+      "link": null
+    }
+  }
+}

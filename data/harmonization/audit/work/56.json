@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 56,
+  "question": "How old was Abraham when Ishmael was born?",
+  "summary": "Genesis 16:16 says plainly that Abraham was 86 when Ishmael was born. But if you stack Gen 11:26 (Terah was 70 when Abram was born), Acts 7:4 (Abram left Haran only after Terah died), and Gen 11:32 (Terah died at 205), then Abram was at least 135 when he left Haran — which would make Ishmael's birth even later than that, not at 86.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders deny the buried premise: Genesis 11:26 lists Abram first for dignity, so Terah was 130 (not 70) when Abram was born, leaving him 75 at Haran.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The objection was pressed early by the Karaite polemicist Isaac of Troki, who held that Stephen erred in Acts 7:4 — that on the plain reading of Genesis 11:26 Abram left Haran while Terah was still alive, not after his death.",
+    "skeptic": {
+      "name": "Isaac ben Abraham of Troki",
+      "work": "Chizzuk Emunah (Faith Strengthened)",
+      "year": "1593",
+      "attribution": "Isaac ben Abraham of Troki (d. 1594), Chizzuk Emunah (Faith Strengthened), part 2, ch. 61 (1593)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Genesis 11:26",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact chronology directly, arguing Abram is named first only 'by way of dignity' and was born when Terah was 130, not 70, so 75 at Haran reconciles with Terah's death at 205 (Acts 7:4). Used as the row's harmonizing anchor since Haley's specific-passage coverage could not be confirmed by search."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Genesis_11.32.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Genesis 11:32 — Was Abraham 75 years old when he left Haran?",
+        "note": "Live apologetic page that engages this exact Gen 11:26 / 11:32 / 12:4 / Acts 7:4 chronology and argues Abram was born when Terah was 130; allowlisted domain, verified on-topic."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "56#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Genesis 11:26",
+      "full_note_ref": "CLARKE/1/11/26",
+      "excerpt_text": "Many have been greatly puzzled with the account here, supposing because Abram is mentioned first, that therefore he was the eldest son of Terah: but he is only put first by way of dignity. … Terah died two hundred and five years old, Gen 11:32; then Abram departed from Haran when seventy-five years old, Gen 12:4; therefore Abram was born, not when his father Terah was seventy, but when he was one hundred and thirty.",
+      "on_tension_rationale": "Directly dissolves the chronological chain the contradiction is built on: it denies that Gen 11:26 means Terah was 70 at Abram's birth (the false premise SAB itself identifies), placing Abram's birth at Terah 130 so that 75 at Haran + Terah's death at 205 are mutually consistent. Two non-adjacent verbatim sentences joined sense-preservingly; ends on a real source period.",
+      "source_note_text": "And Terah lived seventy years, and begat Abram, Nahor, and Haran - Haran was certainly the eldest son of Terah, and he appears to have been born when Terah was about seventy years of age, and his birth was followed in successive periods with those of Nahor his second, and Abram his youngest son. Many have been greatly puzzled with the account here, supposing because Abram is mentioned first, that therefore he was the eldest son of Terah: but he is only put first by way of dignity. An in stance of this we have already seen, Gen 5:32, where Noah is represented as having Shem, Ham, and Japheth in this order of succession; whereas it is evident from other scriptures that Shem was the youngest son, who for dignity is named first, as Abram is here; and Japheth the eldest, named last, as Haran is here. Terah died two hundred and five years old, Gen 11:32; then Abram departed from Haran when seventy-five years old, Gen 12:4; therefore Abram was born, not when his father Terah was seventy, but when he was one hundred and thirty.\nWhen any case of dignity or pre-eminence is to be marked, then even the youngest son is set before all the rest, though contrary to the usage of the Scriptures in other cases. Hence we find Shem, the youngest son of Noah, always mentioned first; Moses is mentioned before his elder brother Aaron; and Abram before his two elder brethren Haran and Nahor. These observations are sufficient to remove all difficulty from this place."
+    }
+  ]
+}

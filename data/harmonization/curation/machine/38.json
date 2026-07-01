@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 38,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders distinguish the prohibited act (murder) from killing the commandment never covers — lawful war, self-defense, judicial execution, and the divinely decreed Amalekite war.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Thomas Paine presses the hardest objection, arguing the divinely ordered slaughter of the Amalekites — infants and sucklings included — is murder no verbal distinction can excuse, branding such commands the work of \"a book of lies, wickedness, and blasphemy.\"",
+      "skeptic": {
+        "name": "Thomas Paine",
+        "work": "The Age of Reason, Part II",
+        "year": "1795",
+        "attribution": "Thomas Paine (d. 1809), The Age of Reason, Part II (1795)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Exodus 20:13",
+      "excerpt_text": "by this law is forbidden suicide, or self-murder, parricide or murder of parents, homicide or the murder of man; yet killing of men in lawful war, or in defence of a man's self, when his own life is in danger, or the execution of malefactors by the hands or order of the civil magistrate, and killing a man at unawares, without any design, are not to be reckoned breaches of this law …",
+      "full_note_ref": "GILL/2/20/13",
+      "on_tension_rationale": "Directly resolves the central tension: the sixth commandment forbids murder, but explicitly does NOT cover lawful war, self-defense, or judicial execution by the civil magistrate — the very killings the Torah's legal code mandates. Truncated mid-larger-sentence (source has a semicolon, not a period) so ends with U+2026.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "1 Samuel 15:3",
+      "excerpt_text": "Nothing could justify such an exterminating decree but the absolute authority of God. This was given: all the reasons of it we do not know; but this we know well, The Judge of all the earth doth right.",
+      "full_note_ref": "CLARKE/9/15/3",
+      "on_tension_rationale": "Engages the genocide side of the tension: the Amalekite slaughter is reconciled with morality by appeal to God's absolute authority (divine-command harmonization), implicitly framing it as not a breach of the moral law the sixth commandment encodes. Complete source sentences ending on real periods; no ellipsis needed (lemma 'Slay both man and woman - ' trimmed as verse header).",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Exodus 20:13",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact passage, drawing the murder-vs-lawful-killing distinction that grounds the harmonizing tradition: the sixth commandment forbids murder while expressly exempting lawful war, self-defense, and judicial execution. Used in place of Haley, whose coverage of this specific tension could not be confirmed; per spec, a harmonizing commentator surfaced on the row and keyed to the passage is preferred."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Exodus_20.13.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in Exodus 20:13?",
+        "note": "Live apologetic treatment arguing the Hebrew ratsach (murder) is distinct from harag (kill), so the prohibition (Exod 20:13) and lawful killing / capital punishment (Exod 21:12) are compatible. Verified real and on-topic; domain is on the allowlist."
+      }
+    }
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "contradiction_id": 260,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators harmonize by recipient: the 1 Kings list is Hiram's annual palace supply, while the larger Chronicles list pays the woodcutters on Lebanon.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Otto Thenius, in his critical commentary on Kings, treated the two accounts as not standing as written and emended one from the other rather than reading them as separate payments.",
+      "skeptic": {
+        "name": "Otto Thenius",
+        "work": "Die Bücher der Könige (Erklärung der Bücher der Könige)",
+        "year": "1849",
+        "attribution": "Otto Thenius (d. 1876), Die Bücher der Könige (1849; 2nd ed. 1873)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "2 Chronicles 2:10",
+      "excerpt_text": "There is no discrepancy between that passage and this. The yearly supplies of wine and oil, mentioned in the former, were intended for Huram's court in return for the cedars sent him; while the articles of meat and drink specified here were for the workmen on Lebanon.",
+      "full_note_ref": "JFB/14/2/10",
+      "on_tension_rationale": "Explicitly denies the discrepancy and resolves it by distinguishing recipients: the 1 Kings supplies were for Hiram's court, the 2 Chronicles supplies for the Lebanon workmen.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "1 Kings 5:11",
+      "excerpt_text": "Here twenty thousand measures of wheat, and twenty measures of pure oil, is all that is promised: there, twenty thousand measures of beaten wheat, twenty thousand measures of barley, twenty thousand baths of wine, and twenty thousand baths of oil, is the stipulation; unless we suppose the first to be for Hiram's own family, the latter for his workmen.",
+      "full_note_ref": "CLARKE/11/5/11",
+      "on_tension_rationale": "Lays both differing lists side by side and resolves the difference by supposing the first was for Hiram's own family and the larger second list for his workmen.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Kings 5:11",
+      "excerpt_text": "reference is had to different things; here the writer relates what was given to Hiram for his own family, there what was given to the workmen, where several other things are mentioned besides these",
+      "full_note_ref": "GILL/11/5/11",
+      "on_tension_rationale": "States the harmonization directly: the two passages refer to different things, one being the gift to Hiram's own family and the other to the workmen, with extra commodities.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on 1 Kings 5:8-11",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this passage directly, arguing the two accounts are 'so clear' that critics who confounded them and emended one from the other are mistaken: the 1 Kings list is the payment for the wood delivered to Hiram's court, the Chronicles list the provision for the tree-fellers."
+      },
+      "link": {
+        "url": null
+      }
+    }
+  }
+}

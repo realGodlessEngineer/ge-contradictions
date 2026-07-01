@@ -1,0 +1,945 @@
+{
+  "contradiction_id": 106,
+  "question": "How many days is unleavened bread to be eaten during the Passover?",
+  "summary": "Exodus 12:15, 13:6-7, 23:15, Leviticus 23:6, and Deuteronomy 16:3 all require seven days of unleavened bread. But Deuteronomy 16:8, three verses after Deut 16:3 says seven, specifies six days of unleavened bread followed by a solemn assembly on the seventh. Even internally within Deuteronomy 16, the count flips between six and seven.",
+  "consensus": "probable_contradiction",
+  "consensus_id": 2,
+  "category": "Numbers & Measurements",
+  "contradiction_type": "numerical",
+  "testament_scope": "OT_internal",
+  "books_in_tension": "Exodus, Leviticus, Deuteronomy",
+  "refs_raw": [
+    "Deuteronomy 16:8",
+    "Exodus 12:15",
+    "Exodus 13:6-7",
+    "Exodus 23:15",
+    "Leviticus 23:6",
+    "Deuteronomy 16:3"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Deuteronomy 16:8",
+      "book": "Deuteronomy",
+      "bolls": 5,
+      "ranges": [
+        [
+          16,
+          8,
+          8
+        ]
+      ]
+    },
+    {
+      "raw": "Exodus 12:15",
+      "book": "Exodus",
+      "bolls": 2,
+      "ranges": [
+        [
+          12,
+          15,
+          15
+        ]
+      ]
+    },
+    {
+      "raw": "Exodus 13:6-7",
+      "book": "Exodus",
+      "bolls": 2,
+      "ranges": [
+        [
+          13,
+          6,
+          7
+        ]
+      ]
+    },
+    {
+      "raw": "Exodus 23:15",
+      "book": "Exodus",
+      "bolls": 2,
+      "ranges": [
+        [
+          23,
+          15,
+          15
+        ]
+      ]
+    },
+    {
+      "raw": "Leviticus 23:6",
+      "book": "Leviticus",
+      "bolls": 3,
+      "ranges": [
+        [
+          23,
+          6,
+          6
+        ]
+      ]
+    },
+    {
+      "raw": "Deuteronomy 16:3",
+      "book": "Deuteronomy",
+      "bolls": 5,
+      "ranges": [
+        [
+          16,
+          3,
+          3
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 86,
+  "notes_raw_count": 103,
+  "notes_dropped": 17,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Exodus 12:13",
+      "note_ref": "GILL/2/12/13",
+      "cites": [
+        "Exodus 12:15"
+      ],
+      "text": "And the blood shall be to you for a token upon the houses where you are,.... The blood of the passover lamb being sprinkled on the two sideposts and upper doorposts of the houses inhabited by the Israelites, or where they were eating the passover; this should be a sign or token to them of the Lord's making good his promises, to them, and so of their safety, and to the destroying angel not to enter therein, but pass by and save them:\nand when I see the blood, I will pass over you; for which reason this ordinance now instituted was called the passover, because the Lord, on sight of the blood sprinkled, passed over the houses of the Israelites to those of the Egyptians; or \"leaped\", as Jarchi says, the word signifies, skipped from one Egyptian house to another, passing by that of the Israelites:\nand the plague shall not be upon you, to destroy you, when I smite the land of Egypt, the pestilence with which the firstborn should be destroyed."
+    },
+    {
+      "src": "GILL",
+      "ref": "Exodus 12:14",
+      "note_ref": "GILL/2/12/14",
+      "cites": [
+        "Exodus 12:15"
+      ],
+      "text": "And this shall be unto you for a memorial,.... To be remembered, and that very deservedly, for the destruction of the firstborn of the Egyptians, and for the deliverance of the children of Israel out of Egypt, and as memorable a day it is, and much more so, for the redemption of the spiritual Israel by the Messiah; for it was on this selfsame day that he suffered for the redemption and salvation of his people: the Jews not only having a saying,\"that in the month Nisan they were redeemed, and in the month Nisan they will be redeemed (g)''but they expressly say,\"on the same day, the fifteenth of Nisan, Israel is to be redeemed, in the days of the Messiah, as they were redeemed on that day, as it is said, according to the days, &c. Mic 7:15 (h):\"\nand you shall keep it a feast to the Lord throughout your generations; as the fifteenth day was properly the Chagigah; or festival day, when they made a feast both of the flock and of the herd, of both sheep and oxen, Deu 16:2.\nyou shall keep it a feast by an ordinance for ever; unto the end of the Jewish economy and church state, until the Messiah come, the true passover, and be sacrificed for us.\n(g) Roshhashanah, fol. 11. 1. 2. (h) Cabalistae apud Fagium in loc."
+    },
+    {
+      "src": "GILL",
+      "ref": "Exodus 12:15",
+      "note_ref": "GILL/2/12/15",
+      "cites": [
+        "Exodus 12:15"
+      ],
+      "text": "Seven days shall ye eat unleavened bread,.... From the evening of the fourteenth day to the evening of the twenty first; and this was a distinct festival from what was properly called the feast of the passover, and does not respect the first passover in Egypt; for though the passover lamb was eaten with unleavened bread, and the Israelites ate no other, not only for seven days, but for thirty days following; yet this was not only by the divine command, but through necessity, they having no other bread to eat; but in later times they were commanded to keep a feast for seven days, in which they were not to eat leavened bread, in commemoration of their hasty departure out of Egypt, not having time to leaven the dough in their troughs, and of their distress and want of savoury bread:\neven the first day ye shall put away leaven out of your houses; out of their dwelling houses, which were to be diligently searched for that purpose, and every hole and crevice in them; and not only their lower rooms, their dining rooms and parlours, but their upper rooms and bedchambers; because it was possible a man might sometimes go into them with a piece of bread in his hand, and drop or leave some of it behind him: yea, synagogues and schools were to be searched, since children might carry thither leavened breads (i): and this search was to be made by the light of a lamp or candle, not by the light of the moon, if in the night; nor by the light of the sun, if in the day, but by the light of a lamp or candle, and not by the light of a torch, or of a lump of fat, or grease, or oil, but by a lamp or candle of wax (k): and this search was to be made at the beginning of the night of the fourteenth of Nisan; yea, it is said that leavened bread was forbidden from the seventh hour of the day, that is, one o'clock in the afternoon and upwards, which is the middle of the day (l): the account of the Misnic doctors is (m),\"R. Meir says, that they may eat leaven the whole fifth hour, i.e. eleven o'clock in the morning, and burn it the beginning of the sixth, or twelve o'clock; R. Judah says, they may eat it all the fourth hour, or tenth o'clock, and suspend it the whole fifth hour, and burn it the beginning of the sixth:\"\nfor whosoever eateth leavened bread from the first day until the seventh day; from the first of the seven days to the last of them, beginning at the night at the fourteenth, and ending at the night of the twenty first:\nthat soul shall be cut off from Israel; either from the commonwealth of Israel, and be disfranchised, and not accounted as an Israelite; or from the Israelitish church state, and have no communion in it, or partake of the ordinances at it; or if it is to be understood of cutting off by death, it is either by the hand of the civil magistrate, or by the immediate hand of God; and is sometimes by the Jews interpreted of a man dying either without children, or before he is fifty years of age, and some even understand it of destruction of soul and body, or of eternal damnation.\n(i) Lebush, par. 1. No. 433. sect. 1. 3. 10. Schulcan Aruch, par. 1. No. 433. sect. 3. 10. (k) Lebush & Schulcan ib. sect. 1. (l) Lebush & Schulcan No. 431. sect. 1. (m) Misn. Pesach c. 1. sect. 4."
+    },
+    {
+      "src": "GILL",
+      "ref": "Exodus 12:16",
+      "note_ref": "GILL/2/12/16",
+      "cites": [
+        "Exodus 12:15"
+      ],
+      "text": "And in the first day there shall be an holy convocation,.... An holy day, in which the people be called to holy exercises, and wholly abstain from worldly business, done on other days:\nand in the seventh day there shall be an holy convocation unto you; observed in a festival way, and in the like religious manner the first day was, the day of their going out of Egypt; and the seventh was the day in which Pharaoh and his host were drowned in the Red sea, as Aben Ezra observes; for which reason those days are distinguished from the rest, and appointed to be holy convocations, and which appear from the journeying of the children of Israel, as computed by Junius: they came to Succoth on the fifteenth, to Etham the seventeenth, to Pihahiroth the eighteenth, where they were ordered to stay, and wait the coming of their enemies, on the twentieth the army of Pharaoh came up to them, and the night following the Israelites passed through the sea and the Egyptians were drowned:\nno manner of work shall be done in them; as used to be done on other days, and as were on the other five days of this festival: the Jewish canons are,\"it is forbidden to do any work on the evening of the passover, from the middle of the day and onward, and whoever does work from the middle of the day and onward, they excommunicate him; even though, he does it for nothing, it is forbidden (n): R. Meir says, whatever work anyone begins before the fourteenth (of Nisan) he may finish it on the fourteenth, but he may not begin it on the beginning of the fourteenth, though he could finish it: the wise men say, three workmen may work on the evening of the passover unto the middle of the day, and they are these, tailors, barbers, and fullers: R. Jose bar Judah says, also shoemakers (o),''but in the text no exception is made but the following:\nsave that which every man must eat, that only may be done of you; so that kindling fire and preparing food might be done on those days, which might not be done on sabbath days; and the prohibition of work was not so strict on those days as on that.\n(n) Lebush, par. 1. No. 468. sect. 1. Schulcan Aruch, par. 1. No. 468. sect. 1. (o) Misn. Pesach. c. 4. sect. 6."
+    },
+    {
+      "src": "GILL",
+      "ref": "Exodus 13:5",
+      "note_ref": "GILL/2/13/5",
+      "cites": [
+        "Exodus 13:6-7"
+      ],
+      "text": "And it shall be when the Lord shall bring thee into the land of the Canaanites,.... Though the whole land was called the land of Canaan, yet there was one tribe or nation of them particularly so called as here, distinct from those that follow:\nand the Hittites, and the Amorites, and the Hivites, and the Jebusites; there were seven nations in all, but two are here omitted, the Girgashites and Perizzites, but they are added in the Septuagint version, see Deu 7:1.\nwhich he swore unto thy fathers to give thee; to Abraham, Isaac, and Jacob; so that they might be assured they would be brought into it, since they had both the word and oath of God for it; and which is the rather mentioned now for their encouragement, since they were at this time set forward in their journey thitherwards:\na land flowing with milk and honey; See Gill on Exo 3:8,\nthat thou shalt keep this service in this month; the month of Abib; that is, the following service concerning unleavened bread; it is concluded from hence by some, that those laws concerning the passover, and eating unleavened bread, and sanctifying the firstborn, did not oblige the Israelites, while in the wilderness, only when they came into the land of Canaan; and it seems pretty clear that this was the case with respect to the two latter, but not the former, since it is certain they did keep the passover in the wilderness, and were obliged to it, Num 9:1 but then it may be observed, that there is no mention there of their keeping the feast of unleavened bread, only of the passover, as here no mention is made of the feast of the passover, which, though they followed one another, were, two distinct feasts."
+    },
+    {
+      "src": "GILL",
+      "ref": "Exodus 13:6",
+      "note_ref": "GILL/2/13/6",
+      "cites": [
+        "Exodus 13:6-7"
+      ],
+      "text": "Seven days shalt thou eat unleavened bread,.... The Jews (y) gather from this place, and from Deu 16:8, that the obligation to eat unleavened bread lasted no longer than the first night of the seven days, but on the rest it was enough if they abstained from leavened bread, and it was lawful for them to eat of other food as they pleased; see Gill on Exo 12:15, but the words are very express in both places, and so in the following verse, for eating unleavened bread, as well as abstaining from leavened; and, indeed, otherwise it would not be so clear and plain a commemoration of their case and circumstances, in which they were when they came out of Egypt; this bread of affliction, as it is called, Deu 16:3 being what would put them in mind thereof:\nand in the seventh day shall be a feast to the Lord; an holy convocation, in which no work was to be done, except what was necessary for preparing food to eat, see Exo 12:16.\n(y) In Siphre apud Manasseh Ben lsrael. Conciliat. in loc."
+    },
+    {
+      "src": "GILL",
+      "ref": "Exodus 13:7",
+      "note_ref": "GILL/2/13/7",
+      "cites": [
+        "Exodus 13:6-7"
+      ],
+      "text": "Unleavened bread shall be eaten seven days,.... From the evening of the fourteenth day, to the evening of the twenty first, Exo 12:18, this is very express as before, that not only they were to abstain from leaven, but that they were obliged to eat unleavened bread; and as for the cakes of eggs and sugar the Jews now use, these, as Leo Modeua says (z), are for those that are dainty and of tender stomachs and such as are sick, who eat unleavened bread also:\nand there shall no leavened bread be seen with thee, neither shall there be leaven seen with thee in all thy quarters: See Gill on Exo 12:15 and the above mentioned writer says (a),\"they begin before the passover, with all the diligence and care they can, to put away all leaven, or anything that hath had leaven in it, out of their houses, and out of their power; searching all their cupboards and bins, and cleansing the whole house and whiting it all over; and they provide themselves also of new utensils for their kitchen and table; or else they new make the old again, and scour them well; or else they have a select number of vessels set apart for the use of the passover only, that so they may be certainly assured that they use not anything during those eight days, that hath had leaven in it:''and Aben Ezra upon the place says, that the sense of it is, that the Israelites ought not to suffer any to sojourn in any place subject to them, but on this condition, that they abstain from leavened bread at the time of the passover, and this he takes to be the meaning of the phrase, \"in all thy quarters or borders\".\n(z) History of the Rites, &c. of the Jews, par. 3. c. 3. sect. 5. (a) Ib. sect. 4."
+    },
+    {
+      "src": "GILL",
+      "ref": "Exodus 13:8",
+      "note_ref": "GILL/2/13/8",
+      "cites": [
+        "Exodus 13:6-7"
+      ],
+      "text": "And thou shall show thy son in that day,.... On the first of the days of the feast of unleavened bread, the reason of eating it; and this is to be shown not to a son or single child only, but by parents to all their children, sons and daughters, and even unasked, as Maimonides (b) interprets it; and so Jarchi's note is, to a son that knows not how to ask or what to ask about; see Gill on Exo 12:26, Exo 12:27,\nsaying, this is done because of that which the Lord did unto me, when I came forth out of Egypt: that is, this unleavened bread is eaten because of the quick and speedy deliverance of Israel out of Egypt, so that they had not time to leaven their dough.\n(b) Hilchot Chametz Umetzah, c. 7. sect. 2, 3."
+    },
+    {
+      "src": "GILL",
+      "ref": "Exodus 23:13",
+      "note_ref": "GILL/2/23/13",
+      "cites": [
+        "Exodus 23:15"
+      ],
+      "text": "Three times thou shall keep a feast unto me in the year. The feast of the passover, on the fourteenth of the month Nisan or March; and the feast of weeks or pentecost fifty days after that; and the feast of tabernacles on the fifteenth day of Tisri or September.\nThree times thou shall keep a feast unto me in the year. The feast of the passover, on the fourteenth of the month Nisan or March; and the feast of weeks or pentecost fifty days after that; and the feast of tabernacles on the fifteenth day of Tisri or September.\nExodus 23:15\nexo 23:15\nexo 23:15\nexo 23:15Thou shalt keep the feast of unleavened bread,.... Which began on the fourteenth of the month Abib or Nisan, and lasted seven days, during which time no leavened bread was to be eaten by the Israelites, or to be in their houses, of which see the notes on:See Gill on Exo 12:15, Exo 12:18, Exo 12:19, Exo 12:10, Exo 13:6, Exo 13:7.\nthou shall eat unleavened bread, seven days, as I commanded thee, in the time appointed of the month Abib; from the fourteenth of the month to the twenty first:\nfor in it thou camest out of Egypt; in such haste that there was no time to leaven the dough in the troughs; in commemoration of which this law was given, and this feast was kept:\nand none shall appear before me empty; at this feast and the two following ones; for, besides the offerings and sacrifices appointed, at the feast of passover was brought a sheaf of the first fruits of the barley harvest; and at the feast of pentecost the two wave loaves or cakes of the first fruits of the wheat harvest; and at the feast of tabernacles they appeared with palm tree branches, and boughs of goodly trees, and poured out water fetched from Siloam, before the Lord: but to this appearance the Jewish doctors (b) say,\"there was no measure fixed; for everyone, if he would, might go up and appear, and go away: according to another interpretation, for the burnt offering of appearance, and the peace offerings of the Chagigah, which a man is bound to bring, as it is written, \"ye shall not appear empty\"; there is no measure from the law, as it is written, \"a man according to the gift of his hand\", Deu 16:17, but the wise men fix a measure; to the burnt offering a meah of silver, to the Chagigah two pieces of silver:''some understand this, not of their bringing anything with them to appear before the Lord with, but of what they should be blessed with there; even with the presence of God, and communion with him, and with the blessings of his grace and goodness; so that however they came, they should not remain, nor go away empty, and so have no cause to repent their appearance before him; but the former sense seems best.\n(b) Bartenora in Misn. Peah, c. 1. sect. 1."
+    },
+    {
+      "src": "GILL",
+      "ref": "Exodus 23:14",
+      "note_ref": "GILL/2/23/14",
+      "cites": [
+        "Exodus 23:15"
+      ],
+      "text": "And the feast of harvest,.... This is the second feast, the feast of wheat harvest, between which and barley harvest were fifty days; or between the firstfruits of the one and the first fruits of the other were seven weeks, as Aben Ezra observes, and was sometimes called the feast of weeks; at which feast were to be brought:\nthe first fruits of thy labours, which thou hast sown in the field; the two wave loaves or cakes, made of the first new wheat, which was the effect of their labour in tilling the field, and sowing it with wheat, and reaping it:\nand the feast of ingathering, which is in the end of the year, when thou hast gathered in thy labours out of the field; this is the third feast in the year to be kept, and was kept at the close of the year, at the revolution of it, when a new year began that is, according to the old account, which made Tisri the month in which this feast was kept, the first month of the year; whereas, according to the new count, it was the seventh month from the month Abib, now made the first of the months upon the Israelites coming out of Egypt in that month: this is the same feast with the feast of tabernacles, but here called the feast of ingathering, because at this time of the year all the fruits of the earth were gathered in; the corn, and wine, and oil, and all other fruits, on account of which there was great rejoicing, as there ought to be."
+    },
+    {
+      "src": "GILL",
+      "ref": "Exodus 23:15",
+      "note_ref": "GILL/2/23/15",
+      "cites": [
+        "Exodus 23:15"
+      ],
+      "text": "Three times in the year all thy males shall appear before the Lord thy God. In the city of Jerusalem, when they were come into the land of Canaan, and the temple was there built: here they were to show themselves before the Lord as being his, and devoted to his service; concerning which the Misnic doctors have the following canon (c),\"all are bound to appear except a man deaf and dumb, a fool, a little one, one of neither sex, or of both sexes, women, servants not free, the lame, the blind, the sick, an old man, and he that cannot go on his feet.''\n(c) Misn. Chagigah, c. 1. sect. 1."
+    },
+    {
+      "src": "GILL",
+      "ref": "Exodus 23:16",
+      "note_ref": "GILL/2/23/16",
+      "cites": [
+        "Exodus 23:15"
+      ],
+      "text": "Thou shall not offer the blood of my sacrifice with leavened bread,.... This belongs to the feast of the passover; for, as all the Jewish writers agree, this sacrifice is the sacrifice of the passover, as it is sometimes called, see Exo 12:27 now when the paschal lamb was killed, and its blood shed, and its flesh eaten, there was to be no leaven along with it; it was to be eaten with unleavened bread, and there was to be no leaven in their houses at this time; nay, it was not to be slain until all was removed: this was the first thing the Jews did, as soon as the fourteenth day was come, to search for leaven, remove and burn it; and this sense of the law is confirmed by the Targum of Jonathan, which is,\"not a man shall slay, while there is leaven in your houses, the sacrifice of my passover;''and to the same purpose is the note of Jarchi:\nneither shall the fat of my sacrifice remain until the morning; and indeed no part of the passover lamb was to remain until the morning, what did was to be burnt with fire, Exo 12:10 the Targum of Jonathan is,\"neither shall there remain without the altar the fat of the sacrifice of my passover until the morning, nor of the flesh which ye ate in the evening;''and so Jarchi interprets it of its not remaining without the altar."
+    },
+    {
+      "src": "GILL",
+      "ref": "Leviticus 23:4",
+      "note_ref": "GILL/3/23/4",
+      "cites": [
+        "Leviticus 23:6"
+      ],
+      "text": "These are the feasts of the Lord, even holy convocations,.... What follow besides the sabbath mentioned:\nwhich ye shall proclaim in their seasons; the proper times of the year, the day or days, and month in which they are to be observed; these were to be proclaimed by the priests with the sound of trumpet, namely, what follow, for they are put together, which had been before for the most part singly delivered."
+    },
+    {
+      "src": "GILL",
+      "ref": "Leviticus 23:5",
+      "note_ref": "GILL/3/23/5",
+      "cites": [
+        "Leviticus 23:6"
+      ],
+      "text": "In the fourteenth day of the first month,.... The month Nisan, the same with Abib, the month in which the children of Israel came out of Egypt, for which reason it was made the first month in the year, answering to part of our March and part of April; and for the same reason was the passover kept at this time, as follows:\nat even is the Lord's passover; that is, that was the time for the keeping the passover, even \"between the two evenings\", as it may be rendered; from the sixth hour and onward, as Jarchi, trial is, after noon or twelve o'clock the middle of the day, as Gersom, when the sun began to decline; See Gill on Exo 12:6."
+    },
+    {
+      "src": "GILL",
+      "ref": "Leviticus 23:6",
+      "note_ref": "GILL/3/23/6",
+      "cites": [
+        "Leviticus 23:6"
+      ],
+      "text": "And on the fifteenth day of the same month is the feast of unleavened bread unto the Lord,.... Which was the day the children of Israel went out of Egypt with their dough and leaven, having not time to leaven it; in remembrance of which this feast was appointed:\nseven days ye must eat unleavened bread; see Exo 12:15."
+    },
+    {
+      "src": "GILL",
+      "ref": "Leviticus 23:7",
+      "note_ref": "GILL/3/23/7",
+      "cites": [
+        "Leviticus 23:6"
+      ],
+      "text": "In the first day ye shall have an holy convocation,.... That is, on the first of the seven days of the feast of unleavened bread, even the fifteenth day of the month Nisan; this was separated from the other days of the festival, and more particularly devoted to religions exercises, see Exo 12:16,\nye shall do no servile work therein; such as agriculture, or any manufacture or mechanical business, which they and their servants were at other times employed in; but they might bake bread, and boil or roast their meat, and walk abroad, which they might not do on their sabbaths; and therefore it is so expressed as to distinguish it from the work forbidden on that day."
+    },
+    {
+      "src": "GILL",
+      "ref": "Deuteronomy 16:2",
+      "note_ref": "GILL/5/16/2",
+      "cites": [
+        "Deuteronomy 16:3"
+      ],
+      "text": "Thou shalt therefore sacrifice the passover unto the Lord thy God,.... In the month Abib, and in the night of that month they came out of Egypt, even on the fourteenth day of it at night, between the two evenings, as the Targum of Jonathan; which was a lamb, and typical of Christ, the passover sacrificed for us, Co1 5:7.\nof the flock and the herd; that is, you shall sacrifice also the offerings which were offered throughout the seven days of unleavened bread, and these were both sheep and oxen, Num 28:19 and are expressly called passover offerings and peace offerings, Ch2 30:21, for what was strictly and properly the passover was only of the flock, a lamb, and not of the herd, or a bullock; though Aben Ezra says there were some that thought that in Egypt it was only a lamb or a kid, but now it might be a bullock; which he observes is not right. It may be indeed that the word \"passover\" here is a general term, comprehending the whole passover solemnity, and all the sacrifices of the seven days: the Jews commonly understand this clause of the Chagigah, or feast of the fifteenth day, the first day of unleavened bread, and so the Targum of Jonathan,\"and the sheep and the oxen on the morrow;''some distinguish them thus, the flock for the duty of the passover, the herd for the peace offerings, so Aben Ezra; or as Jarchi interprets it, the flock of the lambs and kids, and the herd for the Chagigah or festival; in the Talmud (m); the flock, this is the passover; the herd, this is the Chagigah, so Abendana: there was a Chagigah of the fourteenth day, which was brought with the lamb and eaten first, when the company was too large for the lamb, that their might eat with satiety (n); but this was not reckoned obligatory upon them (o), but they were bound to bring their Chagigah on the fifteenth day:\nin the place which the Lord thy God shall choose to place his name there; that is, at Jerusalem, as the event has shown; hence we read of the parents of our Lord going up to Jerusalem every year at the feast of the passover, Luk 2:41.\n(m) T. Bab. Pesachim, fol. 70. 2. (n) Jarchi in loc. Maimon. Hilchot Corban Pesach, c. 8. l. 3. (o) T. Bab. Pesachim, fol. 71. 1, 2. Maimon. ut supra, (n)) c. 10. sect. 13. Aruch in voc. fol. 58. 1."
+    },
+    {
+      "src": "GILL",
+      "ref": "Deuteronomy 16:3",
+      "note_ref": "GILL/5/16/3",
+      "cites": [
+        "Deuteronomy 16:3"
+      ],
+      "text": "Thou shalt eat no leavened bread with it,.... With the passover, as the Targum of Jonathan expresses it; that is, with the passover lamb, nor indeed with any of the passover, or peace offerings, as follows; see Exo 12:8.\nseven days shall ye eat unleavened bread therewith; with the passover; this plainly shows, that by the passover in the preceding verse is not meant strictly the passover lamb, for that was eaten at once on the night of the fourteenth of the month, and not seven days running, and therefore must be put for the whole solemnity of the feast, and all the sacrifices of it, both the lamb of the fourteenth, and the Chagigah of the fifteenth, and every of the peace offerings of the rest of the days were to be eaten with unleavened bread:\neven the bread of affliction; so called either from the nature of its being heavy and lumpish, not grateful to the taste nor easy of digestion, and was mortifying and afflicting to be obliged to eat of it seven days together; or rather from the use of it, which was, as Jarchi observes, to bring to remembrance the affliction they were afflicted with in Egypt:\nfor thou camest forth out of the land of Egypt in haste; and had not time to leaven their dough; so that at first they were obliged through necessity to eat unleavened bread, and afterwards by the command of God in remembrance of it; see Exo 12:33,\nthat thou mayest remember the day when thou camest forth out of the land of Egypt all the days of thy life; how it was with them then, how they were hurried out with their unleavened dough; and that this might be imprinted on their minds, the master of the family used (p), at the time of the passover, to break a cake of unleavened bread, and say, this is the bread of affliction, &c. or bread of poverty; as it is the way of poor men to have broken bread, so here is broken bread.\n(p) Haggadah Shel Pesach, in Seder Tephillot, fol. 242. Maimon. Chametz Umetzah, c. 8. sect. 6."
+    },
+    {
+      "src": "GILL",
+      "ref": "Deuteronomy 16:4",
+      "note_ref": "GILL/5/16/4",
+      "cites": [
+        "Deuteronomy 16:3"
+      ],
+      "text": "And there shall be no leavened bread seen with thee in all thy coasts seven days,.... For before the passover they were to search diligently every room in the house, and every hole and crevice, that none might remain any where; see Exo 12:15,\nneither shall there be anything of the flesh, which thou sacrificedst the first day at even, remain all night until the morning; which may be understood both of the flesh of the passover lamb, as Aben Ezra, according to Exo 12:10 and of the flesh of flocks and herds, or of the Chagigah; according to Jarchi this Scripture speaks of the Chagigah of the fourteenth, which was not to remain on the first day of the feast (the fifteenth) until the morning of the second day (the sixteenth)."
+    },
+    {
+      "src": "GILL",
+      "ref": "Deuteronomy 16:8",
+      "note_ref": "GILL/5/16/8",
+      "cites": [
+        "Deuteronomy 16:8"
+      ],
+      "text": "Six days shalt thou eat unleavened bread,.... In other places it is ordered to be eaten seven days, Exo 12:15 and here it is not said six only; it was to be eaten on the seventh as on the other, though that is here distinguished from the six, because of special and peculiar service assigned to it, but not because of an exemption from eating unleavened bread on it. The Jews seem to understand this of different corn of which the bread was made, and not of different sort of bread; the Targum of Jonathan is, on the first day ye shall offer the sheaf (the firstfruits of the barley harvest), and on the six days which remain ye shall begin to eat the unleavened bread of the new fruits, and so Jarchi:\nand on the seventh day shall be a solemn assembly to the Lord thy God; a holy convocation, devoted to religious exercises, and the people were restrained, according to the sense of the word, from all servile work, as follows:\nthou shalt do no work therein; that is, the business of their callings, their trades and manufactories; they were obliged to abstain from all kind of work excepting what was necessary for the dressing of food, and in this it differed from a sabbath; see Exo 12:16."
+    },
+    {
+      "src": "JFB",
+      "ref": "Exodus 12:14",
+      "note_ref": "JFB/2/12/14",
+      "cites": [
+        "Exodus 12:15"
+      ],
+      "text": "for a memorial, &c.--The close analogy traceable in all points between the Jewish and Christian passovers is seen also in the circumstance that both festivals were instituted before the events they were to commemorate had transpired."
+    },
+    {
+      "src": "JFB",
+      "ref": "Exodus 12:15",
+      "note_ref": "JFB/2/12/15",
+      "cites": [
+        "Exodus 12:15"
+      ],
+      "text": "UNLEAVENED BREAD. (Exo. 12:15-51)\nSeven days shall ye eat unleavened bread, &c.--This was to commemorate another circumstance in the departure of the Israelites, who were urged to leave so hurriedly that their dough was unleavened (Exo 12:39), and they had to eat unleavened cakes (Deu 16:3). The greatest care was always taken by the Jews to free their houses from leaven--the owner searching every corner of his dwelling with a lighted candle. A figurative allusion to this is made (Co1 5:7). The exclusion of leaven for seven days would not be attended with inconvenience in the East, where the usual leaven is dough kept till it becomes sour, and it is kept from one day to another for the purpose of preserving leaven in readiness. Thus even were there none in all the country, it could be got within twenty-four hours [HARMER].\nthat soul shall be cut off--excommunicated from the community and privileges of the chosen people."
+    },
+    {
+      "src": "JFB",
+      "ref": "Exodus 12:16",
+      "note_ref": "JFB/2/12/16",
+      "cites": [
+        "Exodus 12:15"
+      ],
+      "text": "there shall be an holy convocation--literally, calling of the people, which was done by sound of trumpets (Num 10:2), a sacred assembly--for these days were to be regarded as Sabbaths--excepting only that meat might be cooked on them (Exo 16:23)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Exodus 12:17",
+      "note_ref": "JFB/2/12/17",
+      "cites": [
+        "Exodus 12:15"
+      ],
+      "text": "ye shall observe, &c.--The seven days of this feast were to commence the day after the passover. It was a distinct festival following that feast; but although this feast was instituted like the passover before the departure, the observance of it did not take place till after."
+    },
+    {
+      "src": "JFB",
+      "ref": "Exodus 13:4",
+      "note_ref": "JFB/2/13/4",
+      "cites": [
+        "Exodus 13:6-7"
+      ],
+      "text": "month Abib--literally, \"a green ear,\" and hence the month Abib is the month of green ears, corresponding to the middle of our March. It was the best season for undertaking a journey to the desert region of Sinai, especially with flocks and herds; for then the winter torrents had subsided, and the wadies were covered with an early and luxuriant verdure."
+    },
+    {
+      "src": "JFB",
+      "ref": "Exodus 13:5",
+      "note_ref": "JFB/2/13/5",
+      "cites": [
+        "Exodus 13:6-7"
+      ],
+      "text": "when the Lord shall bring thee--The passover is here instituted as a permanent festival of the Israelites. It was, however, only a prospective observance; we read of only one celebration of the passover during the protracted sojourn in the wilderness [Num 9:5]; but on their settlement in the promised land, the season was hallowed as a sacred anniversary [Jos 5:10], in conformity with the directions here given."
+    },
+    {
+      "src": "JFB",
+      "ref": "Exodus 13:8",
+      "note_ref": "JFB/2/13/8",
+      "cites": [
+        "Exodus 13:6-7"
+      ],
+      "text": "thou shalt show thy son in that day, saying--The establishment of this and the other sacred festivals presented the best opportunities of instructing the young in a knowledge of His gracious doings to their ancestors in Egypt."
+    },
+    {
+      "src": "JFB",
+      "ref": "Exodus 13:9",
+      "note_ref": "JFB/2/13/9",
+      "cites": [
+        "Exodus 13:6-7"
+      ],
+      "text": "it shall be for a sign unto thee upon thine hand, &c.--There is no reason to believe that the Oriental tattooing--the custom of staining the hands with the powder of Hennah, as Eastern females now do--is here referred to. Nor is it probable that either this practice or the phylacteries of the Pharisees--parchment scrolls, which were worn on their wrists and foreheads--had so early an existence. The words are to be considered only as a figurative mode of expression.\nthat the Lord's law may be in thy mouth, &c.--that is, that it may be the subject of frequent conversation and familiar knowledge among the people."
+    },
+    {
+      "src": "JFB",
+      "ref": "Exodus 23:13",
+      "note_ref": "JFB/2/23/13",
+      "cites": [
+        "Exodus 23:15"
+      ],
+      "text": "make no mention of the name of other gods, &c.--that is, in common conversation, for a familiar use of them would tend to lessen horror of idolatry."
+    },
+    {
+      "src": "JFB",
+      "ref": "Exodus 23:14",
+      "note_ref": "JFB/2/23/14",
+      "cites": [
+        "Exodus 23:15"
+      ],
+      "text": "Three times . . . keep a feast . . . in the year--This was the institution of the great religious festivals--\"The feast of unleavened bread,\" or the passover--\"the feast of harvest,\" or pentecost--\"the feast of ingathering,\" or the feast of tabernacles, which was a memorial of the dwelling in booths in the wilderness, and which was observed in the seventh month (Exo 12:2). All the males were enjoined to repair to the tabernacle and afterwards the temple, and the women frequently went. The institution of this national custom was of the greatest importance in many ways: by keeping up a national sense of religion and a public uniformity in worship, by creating a bond of unity, and also by promoting internal commerce among the people. Though the absence of all the males at these three festivals left the country defenseless, a special promise was given of divine protection, and no incursion of enemies was ever permitted to happen on those occasions."
+    },
+    {
+      "src": "JFB",
+      "ref": "Leviticus 23:4",
+      "note_ref": "JFB/3/23/4",
+      "cites": [
+        "Leviticus 23:6"
+      ],
+      "text": "These are the feasts of the Lord, which ye shall proclaim in their seasons--Their observance took place in the parts of the year corresponding to our March, May, and September. Divine wisdom was manifested in fixing them at those periods; in winter, when the days were short and the roads broken up, a long journey was impracticable; while in summer the harvest and vintage gave busy employment in the fields. Besides, another reason for the choice of those seasons probably was to counteract the influence of Egyptian associations and habits. And God appointed more sacred festivals for the Israelites in the month of September than the people of Egypt had in honor of their idols. These institutions, however, were for the most part prospective, the observance being not binding on the Israelites during their wanderings in the wilderness, while the regular celebration was not to commence till their settlement in Canaan."
+    },
+    {
+      "src": "JFB",
+      "ref": "Leviticus 23:5",
+      "note_ref": "JFB/3/23/5",
+      "cites": [
+        "Leviticus 23:6"
+      ],
+      "text": "THE PASSOVER. (Lev 23:5-8)\nthe Lord's passover--(See Exo 12:2, Exo 12:14, Exo 12:18). The institution of the passover was intended to be a perpetual memorial of the circumstances attending the redemption of the Israelites, while it had a typical reference to a greater redemption to be effected for God's spiritual people. On the first and last days of this feast, the people were forbidden to work [Lev 23:7-8]; but while on the Sabbath they were not to do any work, on feast days they were permitted to dress meat--and hence the prohibition is restricted to \"no servile work.\" At the same time, those two days were devoted to \"holy convocation\"--special seasons of social devotion. In addition to the ordinary sacrifices of every day, there were to be \"offerings by fire\" on the altar (see Num 28:19), while unleavened bread was to be eaten in families all the seven days (see Co1 5:8)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Deuteronomy 16:2",
+      "note_ref": "JFB/5/16/2",
+      "cites": [
+        "Deuteronomy 16:3"
+      ],
+      "text": "Thou shalt therefore sacrifice the passover--not the paschal lamb, which was strictly and properly the passover. The whole solemnity is here meant, as is evident from the mention of the additional victims that required to be offered on the subsequent days of the feast (Num 28:18-19; Ch2 35:8-9), and from the allusion to the continued use of unleavened bread for seven days, whereas the passover itself was to be eaten at once. The words before us are equivalent to \"thou shalt observe the feast of the passover.\""
+    },
+    {
+      "src": "JFB",
+      "ref": "Deuteronomy 16:3",
+      "note_ref": "JFB/5/16/3",
+      "cites": [
+        "Deuteronomy 16:3"
+      ],
+      "text": "seven days shalt thou eat unleavened bread--a sour, unpleasant, unwholesome kind of bread, designed to be a memorial of their Egyptian misery and of the haste with which they departed, not allowing time for their morning dough to ferment."
+    },
+    {
+      "src": "JFB",
+      "ref": "Deuteronomy 16:7",
+      "note_ref": "JFB/5/16/7",
+      "cites": [
+        "Deuteronomy 16:8"
+      ],
+      "text": "thou shalt roast and eat it--(See on Exo 12:8; compare Ch2 35:13).\nthou shalt turn in the morning, and go unto thy tents--The sense of this passage, on the first glance of the words, seems to point to the morning after the first day--the passover eve. Perhaps, however, the divinely appointed duration of this feast, the solemn character and important object, the journey of the people from the distant parts of the land to be present, and the recorded examples of their continuing all the time (Ch2 30:21 Ch2 35:17), (though these may be considered extraordinary, and therefore exceptional occasions), may warrant the conclusion that the leave given to the people to return home was to be on the morning after the completion of the seven days."
+    },
+    {
+      "src": "JFB",
+      "ref": "Deuteronomy 16:9",
+      "note_ref": "JFB/5/16/9",
+      "cites": [
+        "Deuteronomy 16:8"
+      ],
+      "text": "Seven weeks shalt thou number--The feast of weeks, or a WEEK OF WEEKS: the feast of pentecost (see on Lev 23:10; also see Exo 34:22; Act 2:1). As on the second day of the passover a sheaf of new barley, reaped on purpose, was offered, so on the second day of pentecost a sheaf of new wheat was presented as first-fruits (Exo 23:16; Num 28:26), a freewill, spontaneous tribute of gratitude to God for His temporal bounties. This feast was instituted in memory of the giving of the law, that spiritual food by which man's soul is nourished (Deu 8:3)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Exodus 12:13",
+      "note_ref": "CLARKE/2/12/13",
+      "cites": [
+        "Exodus 12:15"
+      ],
+      "text": "The blood shall be to you for a token - It shall be the sign to the destroying angel, that the house on which he sees this blood sprinkled is under the protection of God, and that no person in it is to be injured. See Clarke on Exo 12:11 (note)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Exodus 12:14",
+      "note_ref": "CLARKE/2/12/14",
+      "cites": [
+        "Exodus 12:15"
+      ],
+      "text": "A memorial - To keep up a remembrance of the severity and goodness, or justice and mercy, of God. Ye shall keep it a feast - it shall be annually observed, and shall be celebrated with solemn religious joy, throughout your generations - as long as ye continue to be a distinct people; an ordinance - a Divine appointment, an institution of God himself, neither to be altered nor set aside by any human authority.\nFor ever - חקת עולם chukkath olam, an everlasting or endless statute, because representative of the Lamb of God who taketh away the sin of the world; whose mediation, in consequence of his sacrifice, shall endure while time itself lasts; and to whose merits and efficacy the salvation of the soul shall be ascribable throughout eternity. This, therefore, is a statute and ordinance that can have no end, either in this world or in the world to come. It is remarkable that though the Jews have ceased from the whole of their sacrificial system, so that sacrifices are no longer offered by them in any part of the world, yet they all, in all their generations and in all countries, keep up the remembrance of the passover, and observe the feast of unleavened bread. But no lamb is sacrificed. Their sacrifices have all totally ceased, ever since the destruction of Jerusalem by the Romans. Even the flesh that is used on this occasion is partly roasted and partly boiled, that it may not even resemble the primitive sacrifice; for they deem it unlawful to sacrifice out of Jerusalem. The truth is, the true Lamb of God that taketh away the sin of the world has been offered, and they have no power to restore the ancient type. See Clarke on Exo 12:27 (note)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Exodus 12:15",
+      "note_ref": "CLARKE/2/12/15",
+      "cites": [
+        "Exodus 12:15"
+      ],
+      "text": "Seven days shall ye eat unleavened bread - This has been considered as a distinct ordinance, and not essentially connected with the passover. The passover was to be observed on the fourteenth day of the first month; the feast of unleavened bread began on the fifteenth and lasted seven days, the first and last of which were holy convocations.\nThat soul shall be cut off - There are thirty-six places in which this excision or cutting off is threatened against the Jews for neglect of some particular duty; and what is implied in the thing itself is not well known. Some think it means a violent death, some a premature death, and some an eternal death. It is very likely that it means no more than a separation from the rights and privileges of an Israelite; so that after this excision the person was considered as a mere stranger, who had neither lot nor part in Israel, nor any right to the blessings of the covenant. This is probably what St. Paul means, Rom 9:3. But we naturally suppose this punishment was not inflicted but on those who had showed a marked and obstinate contempt for the Divine authority. This punishment appears to have been nearly the same with excommunication among the Christians; and from this general notion of the cutting off, the Christian excommunication seems to have been borrowed."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Exodus 12:16",
+      "note_ref": "CLARKE/2/12/16",
+      "cites": [
+        "Exodus 12:15"
+      ],
+      "text": "In the first day and in the seventh day there shall be a holy convocation - This is the first place where we meet with the account of an assembly collected for the mere purpose of religious worship. Such assemblies are called holy convocations, which is a very appropriate appellation for a religious assembly; they were called together by the express command of God, and were to be employed in a work of holiness. מקרא mikra, convocation, is a word of similar import with the Greek εκκλησια, which we commonly translate Church, and which properly signifies an assembly convened by public call."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Exodus 13:5",
+      "note_ref": "CLARKE/2/13/5",
+      "cites": [
+        "Exodus 13:6-7"
+      ],
+      "text": "When the Lord shall bring thee into the land - Hence it is pretty evident that the Israelites were not obliged to celebrate the Passover, or keep the feast of unleavened bread, till they were brought into the promised land."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Exodus 13:6",
+      "note_ref": "CLARKE/2/13/6",
+      "cites": [
+        "Exodus 13:6-7"
+      ],
+      "text": "Unleavened bread - See Clarke on Exo 12:15 (note), and Exo 12:16 (note)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Exodus 13:9",
+      "note_ref": "CLARKE/2/13/9",
+      "cites": [
+        "Exodus 13:6-7"
+      ],
+      "text": "And it shall be for a sign - upon thine hand - This direction, repeated and enlarged Exo 13:16, gave rise to phylacteries or tephillin, and this is one of the passages which the Jews write upon them to the present day. The manner in which the Jews understood and kept these commands may appear in their practice. They wrote the following four portions of the law upon slips of parchment or vellum: Sanctify unto me the first-born, Exodus 13, from Exo 13:2-10 inclusive. And it shall be, when the Lord shall bring thee into the land, Exodus 13, from Exo 13:11-16 inclusive. Hear, O Israel, the Lord our God is one Lord, Deuteronomy 6, from Deu 6:4-9 inclusive. And it shall come to pass, if ye shall hearken diligently, Deuteronomy 11, from Deu 11:13-21 inclusive. These four portions, making in all 30 verses, written as mentioned above, and covered with leather, they tied to the forehead and to the hand or arm.\nThose which were for the Head (the frontlets) they wrote on four slips of parchment, and rolled up each by itself, and placed them in four compartments, joined together in one piece of skin or leather. Those which were designed for the hand were formed of one piece of parchment, the four portions being written upon it in four columns, and rolled up from one end to the other. These were all correct transcripts from the Mosaic text, without one redundant or deficient letter, otherwise they were not lawful to be worn. Those for the head were tied on so as to rest on the forehead. Those for the hand or arm were usually tied on the left arm, a little above the elbow, on the inside, that they might be near the heart, according to the command, Deu 6:6 : And these words which I command thee this day shall be in thine heart. These phylacteries formed no inconsiderable part of a Jew's religion; they wore them as a sign of their obligation to God, and as representing some future blessedness. Hence they did not wear them on feast days nor on the Sabbath, because these things were in themselves signs; but they wore them always when they read the law, or when they prayed, and hence they called them תפלין tephillin, prayer, ornaments, oratories, or incitements to prayer. In process of time the spirit of this law was lost in the letter, and when the word was not in their mouth, nor the law in their heart, they had their phylacteries on their heads and on their hands. And the Pharisees, who in our Lord's time affected extraordinary piety, made their phylacteries very broad, that they might have many sentences written upon them, or the ordinary portions in very large and observable letters.\nIt appears that the Jews wore these for three different purposes: -\n1. As signs or remembrancers. This was the original design, as the institution itself sufficiently proves.\n2. To procure reverence and respect in the sight of the heathen. This reason is given in the Gemara, Berachoth, chapter i: \"Whence is it proved that the phylacteries or tephillin are the strength of Israel? Ans. From what is written, Deu 28:10 : All the people of the earth shall see that thou art called by the name of the Lord (יהוה Yehovah) and they shall be afraid of thee.\"\n3. They used them as amulets or charms, to drive away evil spirits. This appears from the Targum on Sol 8:3 : His left hand is under my head, etc. \"The congregation of Israel hath said, I am elect above all people, because I bind my phylacteries on my left hand and on my head, and the scroll is fixed to the right side of my gate, the third part of which looks to my bed-chamber, that demons may not be permitted to injure me.\nOne of the original phylacteries or תפלין tephillin now lies before me; it is a piece of fine vellum, about eighteen inches long, and an inch and quarter broad. It is divided into four unequal compartments; the letters are very well formed, but written with many apices, after the manner of the German Jews. In the first compartment is written the portion taken from Exo 13:2-10; in the second, Exo 13:11-16; in the third, Deu 6:4-9; in the fourth, Deu 11:13-21, as before related. This had originally served for the hand or arm.\nThese passages seem to be chosen in vindication of the use of the phylactery itself, as the reader may see on consulting them at large. Bind them for a Sign upon thy Hand; and for Frontlets between thy Eyes; write them upon the Posts of thy House and upon thy Gates; all which commands the Jews take in the most literal sense. To acquire the reputation of extraordinary sanctity they wore the fringes of their garments of an uncommon length. Moses had commanded them, Num 15:38, Num 15:39, to put fringes to the borders of their garments, that when they looked upon even these distinct threads they might remember, not only the law in general but also the very minutiae or smaller parts of all the precepts, rites, and ceremonies belonging to it. As those hypocrites (for such our Lord proves them to be) were destitute of all the life and power of religion within, they endeavored to supply its place with phylacteries and fringes without. The same principles distinguish hypocrites every where, and multitudes of them may be found among those termed Christians as well as among the Jews. It is probably to this institution relative to the phylactery that the words, Rev 14:1, allude: And I looked, and, lo, a hundred and forty-four thousand having his Father's name written on their foreheads. \"That is,\" says Mr. Ainsworth, \"as a sign of the profession of God's law; for That which in the Gospel is called his Name, (Mat 12:21), in the prophets is called his Law, (Isa 42:4).\" So again antichrist exacts the obedience to his precepts by a mark on men's right hands or on their foreheads, Rev 13:16."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Exodus 23:14",
+      "note_ref": "CLARKE/2/23/14",
+      "cites": [
+        "Exodus 23:15"
+      ],
+      "text": "Three times thou shalt keep a feast unto me in the year - The three feasts here referred to were,\n1. The feast of the Passover;\n2. The feast of Pentecost;\n3. The feast of Tabernacles.\n1. The feast of the Passover was celebrated to keep in remembrance the wonderful deliverance of the Hebrews from Egypt.\n2. The feast of Pentecost, called also the feast of harvest and the feast of weeks, Exo 34:22, was celebrated fifty days after the Passover to commemorate the giving of the law on Mount Sinai, which took place fifty days after, and hence called by the Greeks Pentecost.\n3. The feast of Tabernacles, called also the feast of the ingathering, was celebrated about the 15th of the month Tisri to commemorate the Israelites' dwelling in tents for forty years, during their stay in the wilderness. See on Leviticus 23 (note).\n\"God, out of his great wisdom,\" says Calmet, \"appointed several festivals among the Jews for many reasons:\n1. To perpetuate the memory of those great events, and the wonders he had wrought for the people; for example, the Sabbath brought to remembrance the creation of the world; the Passover, the departure out of Egypt; the Pentecost, the giving of the law; the feast of Tabernacles, the sojourning of their fathers in the wilderness, etc.\n2. To keep them faithful to their religion by appropriate ceremonies, and the splendor of Divine service.\n3. To procure them lawful pleasures, and necessary rest.\n4. To give them instruction; for in their religious assemblies the law of God was always read and explained.\n5. To consolidate their social union, by renewing the acquaintance of their tribes and families; for on these occasions they come together from different parts of the land to the holy city.\"\nBesides the feasts mentioned above, the Jews had,\n1. The feast of the Sabbath, which was a weekly feast.\n2. The feast of the Sabbatical Year, which was a septennial feast.\n3. The feast of Trumpets, which was celebrated on the first day of what was called their civil year, which was ushered in by the blowing of a trumpet; Lev 23:24, etc.\n4. The feast of the New Moon, which was celebrated on the first day the moon appeared after her change.\n5. The feast of Expiation, which was celebrated annually on the tenth day of Tisri or September, on which a general atonement was made for all the sins, negligences, and ignorances, throughout the year.\n6. The feast of Lots or Purim, to commemorate the preservation of the Jews from the general massacre projected by Haman. See the book of Esther.\n7. The feast of the Dedication, or rather the Restoration of the temple, which had been profaned by Antiochus Epiphanes. This was also called the feast of Lights.\nBesides these, the Jews have had several other feasts, such as the feast of Branches, to commemorate the taking of Jericho.\nThe feast of Collections, on the 10th of September, on which they make contributions for the service of the temple and synagogue.\nThe feast for the death of Nicanor. 1 Maccabees 7:48, etc.\nThe feast for the discovery of the sacred fire, 2 Maccabees 1:18, etc.\nThe feast of the carrying of wood to the temple, called Xylophoria, mentioned by Josephus - War, b. ii. c. 17."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Exodus 23:17",
+      "note_ref": "CLARKE/2/23/17",
+      "cites": [
+        "Exodus 23:15"
+      ],
+      "text": "All thy males - Old men, sick men, male idiots, and male children under thirteen years of age, excepted; for so the Jewish doctors understand this command."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Leviticus 23:5",
+      "note_ref": "CLARKE/3/23/5",
+      "cites": [
+        "Leviticus 23:6"
+      ],
+      "text": "The Lord's passover - See this largely explained in the notes on Exo 12:21-27 (note)."
+    },
+    {
+      "src": "KD",
+      "ref": "Exodus 12:1",
+      "note_ref": "KD/2/12/1",
+      "cites": [
+        "Exodus 12:15"
+      ],
+      "text": "Institution of the Passover. - The deliverance of Israel from the bondage of Egypt was at hand; also their adoption as the nation of Jehovah (Exo 6:6-7).\nBut for this a divine consecration was necessary, that their outward severance from the land of Egypt might be accompanied by an inward severance from everything of an Egyptian or heathen nature. This consecration was to be imparted by the Passover-a festival which was to lay the foundation for Israel's birth (Hos 2:5) into the new life of grace and fellowship with God, and to renew it perpetually in time to come. This festival was therefore instituted and commemorated before the exodus from Egypt. Vv. 1-28 contain the directions for the Passover: viz., Exo 12:1-14 for the keeping of the feast of the Passover before the departure from Egypt, and Exo 12:15-20 for the seven days' feast of unleavened bread. In Exo 12:21-27 Moses communicates to the elders of the nation the leading instructions as to the former feast, and the carrying out of those instructions is mentioned in Exo 12:28.\nExo 12:1-2\nBy the words, \"in the land of Egypt,\" the law of the Passover which follows is brought into connection with the giving of the law at Sinai and in the fields of Moab, and is distinguished in relation to the former as the first or foundation law for the congregation of Jehovah. The creation of Israel as the people of Jehovah (Isa 43:15) commenced with the institution of the Passover. As a proof of this, it was preceded by the appointment of a new era, fixing the commencement of the congregation of Jehovah. \"This month\" (i.e., the present in which ye stand) \"be to you the head (i.e., the beginning) of the months, the first let it be to you for the months of the year;\" i.e., let the numbering of the months, and therefore the year also, begin with it. Consequently the Israelites had hitherto had a different beginning to their year, probably only a civil year, commencing with the sowing, and ending with the termination of the harvest (cf. Exo 23:16); whereas the Egyptians most likely commenced their year with the overflowing of the Nile at the summer solstice (cf. Lepsius, Chron. 1, pp. 148ff.). The month which was henceforth to be the first of the year, and is frequently so designated (Exo 40:2, Exo 40:17; Lev 23:5, etc.), is called Abib (the ear-month) in Exo 13:4; Exo 23:15; Exo 34:18; Deu 16:1, because the corn was then in ear; after the captivity it was called Nisan (Neh 2:1; Est 3:7). It corresponds very nearly to our April.\nExo 12:3-14\nArrangements for the Passover. - \"All the congregation of Israel\" was the nation represented by its elders (cf. Exo 12:21, and my bibl. Arch. ii. p. 221). \"On the tenth of this (i.e., the first) month, let every one take to himself שׂה (a lamb, lit., a young one, either sheep or goats; Exo 12:5, and Deu 14:4), according to fathers' houses\" (vid., Exo 6:14), i.e., according to the natural distribution of the people into families, so that only the members of one family or family circle should unite, and not an indiscriminate company. In Exo 12:21 mishpachoth is used instead. \"A lamb for the house,\" בּית, i.e., the family forming a household.\nExo 12:4\nBut if \"the house be too small for a lamb\" (lit., \"small from the existence of a lamb,\" מן comparative: משּׂה היות is an existence which receives its purpose from the lamb, which answers to that purpose, viz., the consumption of the lamb, i.e., if a family is not numerous enough to consume a lamb), \"let him (the house-father) and his nearest neighbour against his house take (sc., a lamb) according to the calculation of the persons.\" מכסה computatio (Lev 27:23), from כּסס computare; and מכס, the calculated amount or number (Num 31:28): it only occurs in the Pentateuch. \"Every one according to the measure of his eating shall ye reckon for the lamb:\" i.e., in deciding whether several families had to unite, in order to consume one lamb, they were to estimate how much each person would be likely to eat. Consequently more than two families might unite for this purpose, when they consisted simply of the father and mother and little children. A later custom fixed ten as the number of persons to each paschal lamb; and Jonathan has interpolated this number into the text of his Targum.\nExo 12:5\nThe kind of lamb: תּמים integer, uninjured, without bodily fault, like all the sacrifices (Lev 22:19-20); a male like the burnt-offerings (Lev 1:3, Lev 1:11); שׁנה בּן one year old (ἐνιαύσιος, lxx). This does not mean \"standing in the first year, viz., from the eighth day of its life to the termination of the first year\" (Rabb. Cler., etc.), a rule which applied to the other sacrifices only (Exo 22:29; Lev 22:27). The opinion expressed by Ewald and others, that oxen were also admitted at a later period, is quite erroneous, and cannot be proved from Deu 16:2, or Ch2 30:24 and Ch2 35:7. As the lamb was intended as a sacrifice (Exo 12:27), the characteristics were significant. Freedom from blemish and injury not only befitted the sacredness of the purpose to which they were devoted, but was a symbol of the moral integrity of the person represented by the sacrifice. It was to be a male, as taking the place of the male first-born of Israel; and a year old, because it was not till then that it reached the full, fresh vigour of its life. \"Ye shall take it out from the sheep or from the goats:\" i.e.,, as Theodoret explains it, \"He who has a sheep, let him slay it; and he who has no sheep, let him take a goat.\" Later custom restricted the choice to the lamb alone; though even in the time of Josiah kids were still used as well (Ch2 25:7).\nExo 12:6\n\"And it shall be to you for preservation (ye shall keep it) until the fourteenth day, and then...slay it at sunset.\" Among the reasons commonly assigned for the instruction to choose the lamb on the 10th, and keep it till the 14th, which Jonathan and Rashi supposed to refer to the Passover in Egypt alone, there is an element of truth in the one given most fully by Fagius, \"that the sight of the lamb might furnish an occasion for conversation respecting their deliverance from Egypt,...and the mercy of God, who had so graciously looked upon them;\" but this hardly serves to explain the interval of exactly four days. Hoffmann supposes it to refer to the four doroth (Gen 15:16), which had elapsed since Israel was brought to Egypt, to grow into a nation. The probability of such an allusion, however, depends upon just what Hoffmann denies without sufficient reason, viz., upon the lamb being regarded as a sacrifice, in which Israel consecrated itself to its God. It was to be slain by \"the whole assembly of the congregation of Israel:\" not by the whole assembled people, as though they gathered together for this purpose, for the slaughtering took place in every house (Exo 12:7); the meaning is simply, that the entire congregation, without any exception, was to slay it at the same time, viz., \"between the two evenings\" (Num 9:3, Num 9:5, Num 9:11), or \"in the evening at sunset\" (Deu 16:6). Different opinions have prevailed among the Jews from a very early date as to the precise time intended. Aben Ezra agrees with the Caraites and Samaritans in taking the first evening to be the time when the sun sinks below the horizon, and the second the time of total darkness; in which case, \"between the two evenings\" would be from 6 o'clock to 7:20. Kimchi and Rashi, on the other hand, regard the moment of sunset as the boundary between the two evenings, and Hitzig has lately adopted their opinion. According to the rabbinical idea, the time when the sun began to descend, viz., from 3 to 5 o'clock, was the first evening, and sunset the second; so that \"between the two evenings\" was from 3 to 6 o'clock. Modern expositors have very properly decided in favour of the view held by Aben Ezra and the custom adopted by the Caraites and Samaritans, from which the explanation given by Kimchi and Rashi does not materially differ. It is true that this argument has been adduced in favour of the rabbinical practice, viz., that \"only by supposing the afternoon to have been included, can we understand why the day of Passover is always called the 14th (Lev 23:5; Num 9:3, etc.);\" and also, that \"if the slaughtering took place after sunset, it fell on the 15th Nisan, and not the 14th.\" But both arguments are based upon an untenable assumption. For it is obvious from Lev 23:32, where the fast prescribed for the day of atonement, which fell upon the 10th of the 7th month, is ordered to commence on the evening of the 9th day, \"from even to even,\" that although the Israelites reckoned the day of 24 hours from the evening sunset to sunset, in numbering the days they followed the natural day, and numbered each day according to the period between sunrise and sunset. Nevertheless there is no formal disagreement between the law and the rabbinical custom. The expression in Deu 16:6, \"at (towards) sunset,\" is sufficient to show that the boundary line between the two evenings is not to be fixed precisely at the moment of sunset, but only somewhere about that time. The daily evening sacrifice and the incense offering were also to be presented \"between the two evenings\" (Exo 29:39, Exo 29:41; Exo 30:8; Num 28:4). Now as this was not to take place exactly at the same time, but to precede it, they could not both occur at the time of sunset, but the former must have been offered before that. Moreover, in later times, when the paschal lamb was slain and offered at the sanctuary, it must have been slain and offered before sunset, if only to give sufficient time to prepare the paschal meal, which was to be over before midnight. It was from these circumstances that the rabbinical custom grew up in the course of time, and the lax use of the word evening, in Hebrew as well as in every other language, left space enough for this. For just as we do not confine the term morning to the time before sunset, but apply it generally to the early hours of the day, so the term evening is not restricted to the period after sunset. If the sacrifice prescribed for the morning could be offered after sunrise, the one appointed for the evening might in the same manner be offered before sunset.\nExo 12:7\nSome of the blood was to be put (נתן as in Lev 4:18, where יתּן is distinguished from הזּה, to sprinkle, in Lev 4:17) upon the two posts and the lintel of the door of the house in which the lamb was eaten. This blood was to be to them a sign (Exo 12:13); for when Jehovah passed through Egypt to smite the first-born, He would see the blood, and would spare these houses, and not permit the destroyer to enter them (Exo 12:13, Exo 12:23). The two posts with the lintel represented the door (Exo 12:23), which they surrounded; and the doorway through which the house was entered stood for the house itself, as we may see from the frequent expression \"in thy gates,\" for in thy towns (Exo 20:10; Deu 5:14; Deu 12:17, etc.). The threshold, which belonged to the door quite as much as the lintel, was not to be smeared with blood, in order that the blood might not be trodden under foot. But the smearing of the door-posts and lintel with blood, the house was expiated and consecrated on an altar. That the smearing with blood was to be regarded as an act of expiation, is evident from the simple fact, that a hyssop-bush was used for the purpose (Exo 12:22); for sprinkling with hyssop is never prescribed in the law, except in connection with purification in the sense of expiation (Lev 14:49.; Num 19:18-19). In Egypt the Israelites had no common altar; and for this reason, the houses in which they assembled for the Passover were consecrated as altars, and the persons found in them were thereby removed from the stroke of the destroyer. In this way the smearing of the door-posts and lintel became a sign to Israel of their deliverance from the destroyer. Jehovah made it so by His promise, that He would see the blood, and pass over the houses that were smeared with it. Through faith in this promise, Israel acquired in the sign a firm pledge of its deliverance. The smearing of the doorway was relinquished, after Moses (not Josiah, as Vaihinger supposes, cf. Deu 16:5-6) had transferred the slaying of the lambs to the court of the sanctuary, and the blood had been ordered to be sprinkled upon the altar there.\nExo 12:8-9\nWith regard to the preparation of the lamb for the meal, the following directions were given: \"They shall eat the lamb in that night\" (i.e., the night following the 14th), and none of it נא (\"underdone\" or raw), or בּשׁל (\"boiled,\" - lit., done, viz., בּמּים מבשּׁל, done in water, i.e., boiled, as בּשׁל does not mean to be boiled, but to become ripe or done, Joe 3:13); \"but roasted with fire, even its head on (along with) its thighs and entrails;\" i.e., as Rashi correctly explains it, \"undivided or whole, so that neither head nor thighs were cut off, and not a bone was broken (Exo 12:46), and the viscera were roasted in the belly along with the entrails,\" the latter, of course, being first of all cleansed. On כּרעים and קרב see Lev 1:9. These regulations are all to be regarded from one point of view. The first two, neither underdone nor boiled, were connected with the roasting of the animal whole. As the roasting no doubt took place on a spit, since the Israelites while in Egypt can hardly have possessed such ovens of their own, as are prescribed in the Talmud and are met with in Persia, the lamb would be very likely to be roasted imperfectly, or underdone, especially in the hurry that must have preceded the exodus (Exo 12:11). By boiling, again, the integrity of the animal would have been destroyed, partly through the fact that it could never have been got into a pot whole, as the Israelites had no pots or kettles sufficiently large, and still more through the fact that, in boiling, the substance of the flesh is more or less dissolved. For it is very certain that the command to roast was not founded upon the hurry of the whole procedure, as a whole animal could be quite as quickly boiled as roasted, if not even more quickly, and the Israelites must have possessed the requisite cooking utensils. It was to be roasted, in order that it might be placed upon the table undivided and essentially unchanged. \"Through the unity and integrity of the lamb given them to eat, the participants were to be joined into an undivided unity and fellowship with the Lord, who had provided them with the meal\" (cf. Co1 10:17).\n(Note: See my Archologie i. p. 386. Baehr (Symb. 2, 635) has given the true explanation: \"By avoiding the breaking of the bones, the animal was preserved in complete integrity, undisturbed and entire (Psa 34:20). The sacrificial lamb to be eaten was to be thoroughly and perfectly whole, and at the time of eating was to appear as a perfect whole, and therefore as one; for it is not what is dissected, divided, broken in pieces, but only what is whole, that is eo ipso one. There was not other reason for this, than that all who took part in this one whole animal, i.e., all who ate of it, should look upon themselves as one whole, one community, like those who eat the New Testament Passover, the body of Christ (Co1 5:7), of whom the apostle says (Co1 10:17), \"There is one bread, and so we, being many, are one body: for we are all partakers of one body.\" The preservation of Christ, so that not a bone was broken, had the same signification; and God ordained this that He might appear as the true paschal lamb, that was slain for the sins of the world.\")\nThey were to eat it with מצות (ἄζυμα, azymi panes; lxx, Vulg.), i.e., (not sweet, or parched, but) pure loaves, nor fermented with leaven; for leaven, which sets the dough in fermentation, and so produces impurity, was a natural symbol of moral corruption, and was excluded from the sacrifices therefore as defiling (Lev 2:11).\n\"Over (upon) bitter herbs they shall eat it.\" מררים, πικρίδες (lxx), lactucae agrestes (Vulg.), probably refers to various kinds of bitter herbs. Πικρίς, according to Aristot. Hist. an. 9, 6, and Plin. h. n. 8, 41, is the same as lactuca silvestris, or wild lettuce; but in Dioscor. 2, 160, it is referred to as the wild σέρις or κιχώριον, i.e., wild endive, the intubus or intubum of the Romans. As lettuce and endive are indigenous in Egypt, and endive is also met with in Syria from the beginning of the winter months to the end of March, and lettuce in April and May, it is to these herbs of bitter flavor that the term merorim chiefly applies; though others may also be included, as the Arabs apply the same term to Scorzonera orient., Picris scabra, Sonclus oler., Hieracium uniflor., and others (Forsk. flor. cxviii. and 143); and in the Mishnah, Pes. 2, 6, five different varieties of bitter herbs are reckoned as merorim, though it is difficult to determine what they are (cf. Bochart, Hieroz. 1, pp. 691ff., and Cels. Hierobot. ii. p. 727). By על (upon) the bitter herbs are represented, both here and in Num 9:11, not as an accompaniment to the meat, but as the basis of the meal. על does not signify along with, or indicate accompaniment, not even in Exo 35:22; but in this and other similar passages it still retains its primary signification, upon or over. It is only used to signify accompaniment in cases where the ideas of protection, meditation, or addition are prominent. If, then, the bitter herbs are represented in this passage as the basis of the meal, and the unleavened bread also in Num 9:11, it is evident that the bitter herbs were not intended to be regarded as a savoury accompaniment, by which more flavour was imparted to the sweeter food, but had a more profound signification. The bitter herbs were to call to mind the bitterness of life experienced by Israel in Egypt (Exo 1:14), and this bitterness was to be overpowered by the sweet flesh of the lamb. In the same way the unleavened loaves are regarded as forming part of the substance of the meal in Num 9:11, in accordance with their significance in relation to it (vid., Exo 12:15). There is no discrepancy between this and Deu 16:3, where the mazzoth are spoken of as an accompaniment to the flesh of the sacrifice; for the allusion there is not to the eating of the paschal lamb, but to sacrificial meals held during the seven days' festival.\nExo 12:10-11\nThe lamb was to be all eaten wherever this was possible; but if any was left, it was to be burned with fire the following day, - a rule afterwards laid down for all the sacrificial meals, with one solitary exception (vid., Lev 7:15). They were to eat it בּחפּזון, \"in anxious flight\" (from חפז trepidare, Psa 31:23; to flee in terror, Deu 20:3; Kg2 7:15); in travelling costume therefore, - with \"the loins girded,\" that they might not be impeded in their walking by the long flowing dress (Kg2 4:29), - with \"shoes (Sandals) on their feet,\" that they might be ready to walk on hard, rough roads, instead of barefooted, as they generally went (cf. Jos 9:5, Jos 9:13; Bynaeus de calceis ii. 1, 7; and Bochart, Hieroz. i. pp. 686ff.), and \"staff in hand\" (Gen 32:11). The directions in Exo 12:11 had reference to the paschal meal in Egypt only, and had no other signification than to prepare the Israelites for their approaching departure. But though \"this preparation was intended to give the paschal meal the appearance of a support for the journey, which the Israelites were about to tale,\" this by no means exhausts its signification. The divine instructions close with the words, \"it is פּסח to Jehovah;\" i.e., what is prescribed is a pesach appointed by Jehovah, and to be kept for Him (cf. Exo 20:10, \"Sabbath to Jehovah;\" Exo 32:5, \"feast to Jehovah\"). The word פּסח, Aram. פסחא, Gr. πάσχα, is derived from פּסח, lit., to leap or hop, from which these two meanings arise: (1) to limp (Kg1 18:21; Sa2 4:4, etc.); and (2) to pass over, transire (hence Tiphsah, a passage over, Kg1 4:24). It is for the most part used figuratively for ὑπερβαίνειν, to pass by or spare; as in this case, where the destroying angel passed by the doors and houses of the Israelites that were smeared with blood. From this, pesach (ὑπέρβασις, Aquil. in Exo 12:11; ὑπερβασία, Joseph. Ant. ii. 14, 6) came afterwards to be used for the lamb, through which, according to divine appointment, the passing by or sparing had been effected (Exo 12:21, Exo 12:27; Ch2 35:1, Ch2 35:13, etc.); then for the preparation of the lamb for a meal, in accordance with the divine instructions, or for the celebration of this meal (thus here, Exo 12:11; Lev 23:5; Num 9:7, etc.); and then, lastly, it was transferred to the whole seven days' observance of the feast of unleavened bread, which began with this meal (Deu 16:1), and also to the sacrifices which were to be offered at that feast (Deu 16:2; Ch2 35:1, Ch2 35:7, etc.). The killing of the lamb appointed for the pesach was a זבח, i.e., a slain-offering, as Moses calls it when making known the command of God to the elders (Exo 12:27); consequently the eating of it was a sacrificial feast (\"the sacrifice of the feast of the Passover,\" Exo 34:25). For זבח is never applied to slaying alone, as שׁחט is. Even in Pro 17:1 and Sa1 28:24, which Hoffmann adduces in support of this meaning, it signifies \"to sacrifice\" only in a figurative or transferred sense. At the first Passover in Egypt, it is true, there was no presentation (הקריב), because Israel had not altar there. But the presentation took place at the very first repetition of the festival at Sinai (Num 9:7). The omission of this in Egypt, on account of the circumstances in which they were placed, constituted no essential difference between the first \"sacrifice of the Passover\" and the repetitions of it; for the choice of the lamb four days before it was slain, was a substitute for the presentation, and the sprinkling of the blood, which was essential to every sacrifice, was effected in the smearing of the door-posts and lintel. The other difference upon which Hofmann lays stress, viz., that at all subsequent Passovers the fat of the animal was burned upon the altar, is very questionable. For this custom cannot be proved from the Old Testament, though it is prescribed in the Mishnah.\n(Note: In the elaborate account of the Passover under Josiah, in 2 Chron 35, we have, it is true, an allusion to the presentation of the burnt-offering and fat (Ch2 35:14); but the boiling of the offerings in pots, caldrons, and pans is also mentioned, along with the roasting of the Passover (Ch2 35:13); from which it is very obvious, that in this account the offering of burnt and slain-offerings is associated with the preparation of the paschal lamb, and the paschal meal is not specially separated from the sacrificial meals of the seven days' feast; just as we find that the king and the princes give the priests and Levites not only lambs and kids, but oxen also, for the sacrifices and sacrificial meals of this festival (see my Archologie, 81, 8).)\nBut even if the burning of the fat of the paschal lamb had taken place shortly after the giving of the law, on the ground of the general command in Lev 3:17; Lev 7:23. (for this is not taken for granted in Exo 23:18, as we shall afterwards show), this difference could also be accounted for from the want of an altar in Egypt, and would not warrant us in refusing to admit the sacrificial character of the first Passover. For the appointment of the paschal meal by God does not preclude the idea that it was a religious service, nor the want of an altar the idea of sacrifice, as Hoffmann supposes. All the sacrifices of the Jewish nation were minutely prescribed by God, so that the presentation of them was the consequence of divine instructions. And even though the Israelites, when holding the first Passover according to the command of God, merely gave expression to their desire to participate in the deliverance from destruction and the redemption of Egypt, and also to their faith in the word and promise of God, we must neither measure the signification of this divine institution by that fact, nor restrict it to this alone, inasmuch as it is expressly described as a sacrificial meal.\nExo 12:12-13\nIn Exo 12:12 and Exo 12:13 the name pesach is explained. In that night Jehovah would pass through Egypt, smite all the first-born of man and beast, execute judgment upon all the gods of Egypt, and pass over (פּסח) the Israelites. In what the judgment upon all the gods of Egypt consisted, it is hard to determine. The meaning of these words is not exhausted by Calvin's remark: \"God declared that He would be a judge against the false gods, because it was most apparent then, now little help was to be found in them, and how vain and fallacious was their worship.\" The gods of Egypt were spiritual authorities and powers, δαιμόνια, which governed the life and spirit of the Egyptians. Hence the judgment upon them could not consist of the destruction of idols, as Ps. Jonathan's paraphrase supposes: idola fusa colliquescent, lapidea concidentur, testacea confringentur, lignea in cinerem redigentur. For there is nothing said about this; but in v. 29 the death of the first-born of men and cattle alone is mentioned as the execution of the divine threat; and in Num 33:4 also the judgment upon the gods is connected with the burial of the first-born, without special reference to anything besides. From this it seems to follow pretty certainly, that the judgments upon the gods of Egypt consisted in the slaying of the first-born of man and beast. But the slaying of the first-born was a judgment upon the gods, not only because the impotence and worthlessness of the fancied gods were displayed in the consternation produced by this stroke, but still more directly in the fact, that in the slaying of the king's son and many of the first-born animals, the gods of Egypt, which were worshipped both in their kings and also in certain sacred animals, such as the bull Apis and the goat Nendes, were actually smitten themselves.\nExo 12:13\nTo the Israelites, on the other hand, the blood upon the houses in which they were assembled would be a sign and pledge that Jehovah would spare them, and no plague should fall upon them to destroy (cf. Eze 21:31; not \"for the destroyer,\" for there is no article with למשׁחית).\nExo 12:14\nThat day (the evening of the 14th) Israel was to keep \"for a commemoration as a feast to Jehovah,\" consecrated for all time, as an \"eternal ordinance,\" לדרתיכם \"in your generations,\" i.e., for all ages, דּרת denoting the succession of future generations (vid., Exo 12:24). As the divine act of Israel's redemption was of eternal significance, so the commemoration of that act was to be an eternal ordinance, and to be upheld as long as Israel should exist as the redeemed people of the Lord, i.e., to all eternity, just as the new life of the redeemed was to endure for ever. For the Passover, the remembrance of which was to be revived by the constant repetition of the feast, was the celebration of their birth into the new life of fellowship with the Lord. The preservation from the stroke of the destroyer, from which the feast received its name, was the commencement of their redemption from the bondage of Egypt, and their elevation into the nation of Jehovah. The blood of the paschal lamb was atoning blood; for the Passover was a sacrifice, which combined in itself the signification of the future sin-offerings and peace-offerings; in other words, which shadowed forth both expiation and quickening fellowship with God. The smearing of the houses of the Israelites with the atoning blood of the sacrifice set forth the reconciliation of Israel and its God, through the forgiveness and expiation of its sins; and in the sacrificial meal which followed, their communion with the Lord, i.e., their adoption as children of God, was typically completed. In the meal the sacrificium became a sacramentum, the flesh of the sacrifice a means of grace, by which the Lord adopted His spared and redeemed people into the fellowship of His house, and gave them food for the refreshing of their souls.\nExo 12:15-20\nJudging from the words \"I brought out\" in Exo 12:17, Moses did not receive instructions respecting the seven days' feast of Mazzoth till after the exodus from Egypt; but on account of its internal and substantial connection with the Passover, it is placed here in immediate association with the institution of the paschal meal. \"Seven days shall he eat unleavened bread, only (אך) on the first day (i.e., not later than the first day) he shall cause to cease (i.e., put away) leaven out of your houses.\" The first day was the 15th of the month (cf. Lev 23:6; Num 28:17). On the other hand, when בּראשׁון is thus defined in Exo 12:18, \"on the 14th day of the month at even,\" this may be accounted for from the close connection between the feast of Mazzoth and the feast of Passover, inasmuch as unleavened bread was to be eaten with the paschal lamb, so that the leaven had to be cleared away before this meal. The significance of this feast was in the eating of the mazzoth, i.e., of pure unleavened bread (see Exo 12:8). As bread, which is the principal means of preserving life, might easily be regarded as the symbol of life itself, so far as the latter is set forth in the means employed for its own maintenance and invigoration, so the mazzoth, or unleavened loaves, were symbolical of the new life, as cleansed from the leaven of a sinful nature. But if the eating of mazzoth was to shadow forth the new life into which Israel was transferred, any one who ate leavened bread at the feast would renounce this new life, and was therefore to be cut off from Israel, i.e., \"from the congregation of Israel\" (Exo 12:19).\nExo 12:16\nOn the first and seventh days, a holy meeting was to be held, and labour to be suspended. מקרא־קדשׁ is not indictio sancti, proclamatio sanctitatis (Vitringa), but a holy assembly, i.e., a meeting of the people for the worship of Jehovah (Eze 46:3, Eze 46:9). מקרא, from קרא to call, is that which is called, i.e., the assembly (Isa 4:5; Neh 8:8). No work was to be done upon these days, except what was necessary for the preparation of food; on the Sabbath, even this was prohibited (Exo 35:2-3). Hence in Lev 23:7, the \"work\" is called \"servile work,\" ordinary handicraft.\nExo 12:17-20\n\"Observe the Mazzoth\" (i.e., the directions given in Exo 12:15 and Exo 12:16 respecting the feast of Mazzoth), \"for on this very day I have brought your armies out of the land of Egypt.\" This was effected in the night of the 14th-15th, or rather at midnight, and therefore in the early morning of the 15th Abib. Because Jehovah had brought Israel out of Egypt on the 15th Abib, therefore Israel was to keep Mazzoth for seven days. Of course it was not merely a commemoration of this event, but the exodus formed the groundwork of the seven days' feast, because it was by this that Israel had been introduced into a new vital element. For this reason the Israelites were to put away all the leaven of their Egyptian nature, the leaven of malice and wickedness (Co1 5:8), and by eating pure and holy bread, and meeting for the worship of God, to show that they were walking in newness of life. This aspect of the feast will serve to explain the repeated emphasis laid upon the instructions given concerning it, and the repeated threat of extermination against either native or foreigner, in case the law should be disobeyed (Exo 12:18-20). To eat leavened bread at this feast, would have been a denial of the divine act, by which Israel was introduced into the new life of fellowship with Jehovah. גּר, a stranger, was a non-Israelite who lived for a time, or possibly for his whole life, in the midst of the Israelitish nation, but without being incorporated into it by circumcision. הארץ אזרח, a tree that grows upon the soil in which it was planted; hence indigena, the native of a country. This term was applied to the Israelites, \"because they had sprung from Isaac and Jacob, who were born in the land of Canaan, and had received it from God as a permanent settlement\" (Clericus). The feast of Mazzoth, the commemoration of Israel's creation as the people of Jehovah (Isa 43:15-17), was fixed for seven days, to stamp upon it in the number seven the seal of the covenant relationship. This heptad of days was made holy through the sanctification of the first and last days by the holding of a holy assembly, and the entire suspension of work. The beginning and the end comprehended the whole. In the eating of unleavened bread Israel laboured for meat for the new life (Joh 6:27), whilst the seal of worship was impressed upon this new life in the holy convocation, and",
+      "anchor": true
+    },
+    {
+      "src": "KD",
+      "ref": "Exodus 13:1",
+      "note_ref": "KD/2/13/1",
+      "cites": [
+        "Exodus 13:6-7"
+      ],
+      "text": "Sanctification of the first-born, and Promulgation of the Law for the Feast of Mazzoth. - Exo 13:1, Exo 13:2. The sanctification of the first-born was closely connected with the Passover. By this the deliverance of the Israelitish first-born was effected, and the object of this deliverance was their sanctification. Because Jehovah had delivered the first-born of Israel, they were to be sanctified to Him. If the Israelites completed their communion with Jehovah in the Passover, and celebrated the commencement of their divine standing in the feast of unleavened bread, they gave uninterrupted effect to their divine sonship in the sanctification of the first-born. For this reason, probably, the sanctification of the first-born was commanded by Jehovah at Succoth, immediately after the exodus, and contemporaneously with the institution of the seven days' feast of Mazzoth (cf. Exo 2:15), so that the place assigned it in the historical record is the correct one; whereas the divine appointment of the feast of Mazzoth had been mentioned before (Exo 12:15.), and the communication of that appointment to the people was all that remained to be mentioned here.\nExo 13:2\nEvery first-born of man and beast was to be sanctified to Jehovah, i.e., given up to Him for His service. As the expression, \"all the first-born,\" applied to both man and beast, the explanation is added, \"everything that opens the womb among the Israelites, of man and beast.\" כּל־רחם פּטר for רחם כּל־פּטת (Exo 13:12): כּל is placed like an adjective after the noun, as in Num 8:16, כּל בּכור for בּכור־כּל, διανοῖγον πᾶσαν μήτραν for πᾶν διανοῖγον μήτραν (Exo 13:12, lxx). הוּא לי: \"it is Mine,\" it belongs to Me. This right to the first-born was not founded upon the fact, that \"Jehovah was the Lord and Creator of all things, and as every created object owed its life to Him, to Him should its life be entirely devoted,\" as Kurtz maintains, though without scriptural proof; but in Num 3:13 and Num 8:17 the ground of the claim is expressly mentioned, viz., that on the day when Jehovah smote all the first-born of Egypt, He sanctified to Himself all the first-born of the Israelites, both of man and beast. Hence the sanctification of the first-born rested not upon the deliverance of the first-born sons from the stroke of the destroyer through the atoning blood of the paschal lamb, but upon the fact that God sanctified them for Himself at that time, and therefore delivered them. But Jehovah sanctified the first-born of Israel to Himself by adopting Israel as His first-born son (Exo 4:22), or as His possession. Because Israel had been chosen as the nation of Jehovah, its first-born of man and beast were spared, and for that reason they were henceforth to be sanctified to Jehovah. In what way, is more clearly defined in Num 8:12.\nExo 13:3-7\nThe directions as to the seven days' feast of unleavened bread (Exo 12:15-20) were made known by Moses to the people on the day of the exodus, at the first station, namely, Succoth; but in the account of this, only the most important points are repeated, and the yearly commemoration is enjoined. In Exo 13:3, Egypt is called a \"slave-house,\" inasmuch as Israel was employed in slave-labour there, and treated as a slave population (cf. Exo 20:2; Deu 5:6; Deu 6:12, etc.). יד הזק \"strength of hand,\" in Exo 13:3, Exo 13:14, and Exo 13:16, is more emphatic than the more usual חזקה יד (Exo 3:19, etc.). - On Exo 13:5, see Exo 3:8, and Exo 12:25. In Exo 13:6, the term \"feast to Jehovah\" points to the keeping of the seventh day by a holy convocation and the suspension of work (Exo 12:16). It is only of the seventh day that this is expressly stated, because it was understood as a matter of course, that the first was a feast of Jehovah.\nExo 13:8\n\"because of that which Jehovah did to me\" (זה in a relative sense, is qui, for אשׁר, see Ewald, 331): sc., \"I eat unleavened bread,\" or, \"I observe this service.\" This completion of the imperfect sentence follows readily from the context, and the whole verse may be explained from Exo 12:26-27.\nExo 13:9\nThe festival prescribed was to be to Israel \"for a sign upon its hand, and for a memorial between the eyes.\" These words presuppose the custom of wearing mnemonic signs upon the hand and forehead; but they are not to be traced to the heathen custom of branding soldiers and slaves with marks upon the hand and forehead. For the parallel passages in Deu 6:8 and Deu 11:18, \"bind them for a sign upon your hand,\" are proofs that the allusion is neither to branding nor writing on the hand. Hence the sign upon the hand probably consisted of a bracelet round the wrist, and the ziccaron between the eyes, of a band worn upon the forehead. The words are then used figuratively, as a proverbial expression employed to give emphasis to the injunction to bear this precept continually in mind, to be always mindful to observe it. This is still more apparent from the reason assigned, \"that the law of Jehovah may be in thy mouth.\" For it was not by mnemonic slips upon the hand and forehead that a law was so placed in the mouth as to be talked of continually (Deu 6:7; Deu 11:19), but by the reception of it into the heart and its continual fulfilment. (See also Exo 13:16.) As the origin and meaning of the festival were to be talked of in connection with the eating of unleavened bread, so conversation about the law of Jehovah was introduced at the same time, and the obligation to keep it renewed and brought vividly to mind.\nExo 13:10\nThis ordinance the Israelites were to keep למועדהּ, \"at its appointed time\" (i.e., from the 15th to the 21st Abib), - \"from days to days,\" i.e., as often as the days returned, therefore from year to year (cf. Jdg 11:40; Jdg 21:19; Sa1 1:3; Sa1 2:19).\nExo 13:11-14\nIn Exo 13:11-16, Moses communicated to the people the law briefly noticed in Exo 13:2, respecting the sanctification of the first-born. This law was to come into force when Israel had taken possession of the promised land. Then everything which opened the womb was to be given up to the Lord. ליהוה העביר: to cause to pass over to Jehovah, to consecrate or give up to Him as a sacrifice (cf. Lev 18:21). In \"all that openeth the womb\" the first-born of both man and beast are included (Exo 13:2). This general expression is then particularized in three clauses, commencing with וכל: (a) בּהמה cattle, i.e., oxen, sheep, and goats, as clean domestic animals, but only the males; (b) asses, as the most common of the unclean domestic animals, instead of the whole of these animals, Num 18:15; (c) the first-born of the children of Israel. The female first-born of man and beast were exempted from consecration. Of the clean animals the first-born male (פּטר abbreviated from רחם פּטר, and שׁגר from the Chaldee שׁגר to throw, the dropped young one) was to belong to Jehovah, i.e., to be sacrificed to Him (Exo 13:15, and Num 18:17). This law is still further explained in Exo 22:29, where it is stated that the sacrificing was not to take place till the eighth day after the birth; and in Deu 15:21-22, it is still further modified by the command, that an animal which had any fault, and was either blind or lame, was not to be sacrificed, but to be slain and eaten at home, like other edible animals. These two rules sprang out of the general instructions concerning the sacrificial animals. The first-born of the ass was to be redeemed with a male lamb or kid (שׂה, as at Exo 12:3); and if not redeemed, it was to be killed. ערף: from ערף the nape, to break the neck (Deu 21:4, Deu 21:6). The first-born sons of Israel were also to be consecrated to Jehovah as a sacrifice; not indeed in the manner of the heathen, by slaying and burning upon the altar, but by presenting them to the Lord as living sacrifices, devoting all their powers of body and mind to His service. Inasmuch as the first birth represented all the births, the whole nation was to consecrate itself to Jehovah, and present itself as a priestly nation in the consecration of the first-born. But since this consecration had its foundation, not in nature, but in the grace of its call, the sanctification of the first birth cannot be deduced from the separation of the first-born to the priesthood. This view, which was very prevalent among early writers, has been thoroughly overthrown by Outram (de Sacrif. 1, c. 4) and Vitringa (observv. ii. c. 2, pp. 272ff.). As the priestly character of the nation did not give a title in itself to the administration of the priesthood within the theocracy, so the first-born were not eo ipso chosen as priests through their consecration to Jehovah. In what way they were to consecrate their life to the Lord, depended upon the appointment of the Lord, which was, that they were to perform the non-priestly work of the sanctuary, to be servants of the priests in their holy service. Even this work was afterwards transferred to the Levites (Num 3). At the same time the obligation was imposed upon the people to redeem their first-born sons from the service which was binding upon them, but was now transferred to the Levites, who were substituted for them; in other words, to pay five shekels of silver per head to the priesthood (Num 3:47; Num 18:16). In anticipation of this arrangement, which was to be introduced afterwards, the redemption (פּדה) of the male first-born is already established here. - On Exo 13:14, see Exo 12:26. מחר: to-morrow, for the future generally, as in Gen 30:33. מה־זאת: what does this mean? quid sibi vult hoc praeceptum ac primogenitura (Jonathan).\nExo 13:15-16\nלשׁלּחנוּ הקשׁה: \"he made hard\" (sc., his heart, cf. Exo 7:3) \"to let us go.\" The sanctification of the first-born is enforced in Exo 13:16 in the same terms as the keeping of the feast of Mazzoth in Exo 13:9, with this exception, that instead of לזכרון we have לטוטפת, as in Deu 6:8, and Deu 11:18. The word טוטפת signifies neither amulet nor στίγματα, but \"binding\" or headbands, as is evident from the Chaldee טוטפא armlet (Sa2 1:10), טוטפתּא tiara (Est 8:15; Eze 24:17, Eze 24:23). This command was interpreted literally by the Talmudists, and the use of tephillim, phylacteries (Mat 23:5), founded upon it;\n(Note: Possibly these scrolls were originally nothing more than a literal compliance with the figurative expression, or a change of the figure into a symbol, so that the custom did not arise from a pure misunderstanding; though at a later period the symbolical character gave place more and more to the casual misinterpretation. On the phylacteries generally, see my Archologie and Herzog's Cycl.)\nthe Caraites, on the contrary, interpreted it figuratively, as a proverbial expression for constant reflection upon, and fulfilment of, the divine commands. The correctness of the latter is obvious from the words themselves, which do not say that the commands are to be written upon scrolls, but only that they are to be to the Israelites for signs upon the hand, and for bands between the eyes, i.e., they are to be kept in view like memorials upon the forehead and the hand. The expression in Deu 6:8, \"Thou shalt bind them for a sign upon thine hand, and they shall be as frontlets between thine eyes,\" does not point at all to the symbolizing of the divine commands by an outward sign to be worn upon the hand, or to bands with passages of the law inscribed upon them, to be worn on the forehead between the eyes; nor does the \"advance in Deu 6:8 from heart to word, and from word to hand or act,\" necessarily lead to the peculiar notion of Schultz, that \"the sleeve and turban were to be used as reminders of the divine commands, the former by being fastened to the hand in a peculiar way, the latter by an end being brought down upon the forehead.\" The line of thought referred to merely expresses the idea, that the Israelites were not only to retain the commands of God in their hearts, and to confess them with the mouth, but to fulfil them with the hand, or in act and deed, and thus to show themselves in their whole bearing as the guardians and observers of the law. As the hand is the medium of action, and carrying in the hand represents handling, so the space between the eyes, or the forehead, is that part of the body which is generally visible, and what is worn there is worn to be seen. This figurative interpretation is confirmed and placed beyond doubt by such parallel passages as Pro 3:3, \"Bind them (the commandments) about thy neck; write them upon the tables of thine heart\" (cf. Pro 3:21, Pro 3:22, Exo 4:21; Exo 6:21-22; Exo 7:3).",
+      "anchor": true
+    },
+    {
+      "src": "KD",
+      "ref": "Exodus 23:14",
+      "note_ref": "KD/2/23/14",
+      "cites": [
+        "Exodus 23:15"
+      ],
+      "text": "The Fundamental Rights of Israel in its Religious and Theocratical Relation to Jehovah. - As the observance of the Sabbath and sabbatical year is not instituted in Exo 23:10-12, so Exo 23:14-19 do not contain either the original or earliest appointment of the feasts, or a complete law concerning the yearly feasts. They simply command the observance of three feasts during the year, and the appearance of the people three times in the year before the Lord; that is to say, the holding of three national assemblies to keep a feast before the Lord, or three annual pilgrimages to the sanctuary of Jehovah. The leading points are clearly set forth in Exo 23:14 and Exo 23:17, to which the other verses are subordinate. These leading points are משׁפּטים or rights, conferred upon the people of Israel in their relation to Jehovah; for keeping a feast to the Lord, and appearing before Him, were both of them privileges bestowed by Jehovah upon His covenant people. Even in itself the festal rejoicing was a blessing in the midst of this life of labour, toil, and trouble; but when accompanied with the right of appearing before the Lord their God and Redeemer, to whom they were indebted for everything they had and were, it was one that no other nation enjoyed. For though they had their joyous festivals, these festivals bore the same relation to those of Israel, as the dead and worthless gods of the heathen to the living and almighty God of Israel.\nOf the three feasts at which Israel was to appear before Jehovah, the feast of Mazzoth, or unleavened bread, is referred to as already instituted, by the words \"as I have commanded thee,\" and \"at the appointed time of the earing month,\" which point back to chs. 12 and 13; and all that is added here is, \"ye shall not appear before My face empty.\" \"Not empty:\" i.e., not with empty hands, but with sacrificial gifts, answering to the blessing given by the Lord (Deu 16:16-17). These gifts were devoted partly to the general sacrifices of the feast, and partly to the burnt and peace-offerings which were brought by different individuals to the feasts, and applied to the sacrificial meals (Num 28 and 29). This command, which related to all the feasts, and therefore is mentioned at the very outset in connection with the feast of unleavened bread, did indeed impose a duty upon Israel, but such a duty as became a source of blessing to all who performed it. The gifts demanded by God were the tribute, it is true, which the Israelites paid to their God-King, just as all Eastern nations are required to bring presents when appearing in the presence of their kings; but they were only gifts from God's own blessing, a portion of that which He had bestowed in rich abundance, and they were offered to God in such a way that the offerer was thereby more and more confirmed in the rights of covenant fellowship. The other two festivals are mentioned here for the first time, and the details are more particularly determined afterwards in Lev 23:15., and Num 28:26. One was called the feast of Harvest, \"of the first-fruits of thy labours which thou hast sown in the field,\" i.e., of thy field-labour. According to the subsequent arrangements, the first of the field-produce was to be offered to God, not the first grains of the ripe corn, but the first loaves of bread of white or wheaten flour made from the new corn (Lev 23:17.). In Exo 34:22 it is called the \"feast of Weeks,\" because, according to Lev 23:15-16; Deu 16:9, it was to be kept seven weeks after the feast of Mazzoth; and the \"feast of the first-fruits of wheat harvest,\" because the loaves of first-fruits to be offered were to be made of wheaten flour. The other of these feasts, i.e., the third in the year, is called \"the feast of Ingathering, at the end of the year, in the gathering in of thy labours out of the field.\" This general and indefinite allusion to time was quite sufficient for the preliminary institution of the feast. In the more minute directions respecting the feasts given in Lev 23:34; Num 29:12, it is fixed for the fifteenth day of the seventh month, and placed on an equality with the feast of Mazzoth as a seven days' festival. השּׁנה בּצאת does not mean after the close of the year, finito anno, any more than the corresponding expression in Exo 34:22, השּׁנה תּקוּפת, signifies at the turning of the year. The year referred to here was the so-called civil year, which began with the preparation of the ground for the harvest-sowing, and ended when all the fruits of the field and garden had been gathered in. No particular day was fixed for its commencement, nor was there any new year's festival; and even after the beginning of the earing month had been fixed upon for the commencement of the year (Exo 12:2), this still remained in force, so far as all civil matters connected with the sowing and harvest were concerned; though there is no evidence that a double reckoning was carried on at the same time, or that a civil reckoning existed side by side with the religious. בּאספּך does not mean, \"when thou hast gathered,\" postquam collegisti; for בּ does not stand for אחר, nor has the infinitive the force of the preterite. On the contrary, the expression \"at thy gathering in,\" i.e., when thou gatherest in, is kept indefinite both here and in Lev 23:39, where the month and days in which this feast was to be kept are distinctly pointed out; and also in Deu 16:13, in order that the time for the feast might not be made absolutely dependent upon the complete termination of the gathering in, although as a rule it would be almost over. The gathering in of \"thy labours out of the field\" is not to be restricted to the vintage and gathering of fruits: this is evident not only from the expression \"out of the field,\" which points to field-produce, but also from the clause in Deu 16:13, \"gathering of the floor and wine-press,\" which shows clearly that the words refer to the gathering in of the whole of the year's produce of corn, fruit, oil, and wine."
+    },
+    {
+      "src": "KD",
+      "ref": "Exodus 23:17",
+      "note_ref": "KD/2/23/17",
+      "cites": [
+        "Exodus 23:15"
+      ],
+      "text": "\"Three times in the year\" (i.e., according to Exo 23:14 and Deu 16:16, at the three feasts just mentioned) \"all thy males shall appear before the face of the Lord Jehovah.\" The command to appear, i.e., to make a pilgrimage to the sanctuary, was restricted to the male members of the nation, probably to those above 20 years of age, who had been included in the census (Num 1:3). But this did not prohibit the inclusion of women and boys (cf. Sa1 1:3., and Luk 2:31.)."
+    },
+    {
+      "src": "KD",
+      "ref": "Leviticus 23:4",
+      "note_ref": "KD/3/23/4",
+      "cites": [
+        "Leviticus 23:6"
+      ],
+      "text": "Lev 23:4 contains the special heading for the yearly feasts. בּמועדם at their appointed time.\nLev 23:5-14\nThe leading directions for the Passover and feast of Mazzoth are repeated from Exo 12:6, Exo 12:11, Exo 12:15-20. עבדה מלאכת, occupation of a work, signifies labour at some definite occupation, e.g., the building of the tabernacle, Exo 35:24; Exo 36:1, Exo 36:3; hence occupation in connection with trade or one's social calling, such as agriculture, handicraft, and so forth; whilst מלאכה is the performance of any kind of work, e.g., kindling fire for cooking food (Exo 35:2-3). On the Sabbath and the day of atonement every kind of civil work was prohibited, even to the kindling of fire for the purpose of cooking (Lev 23:3, Lev 23:30, Lev 23:31, cf. Exo 20:10; Exo 31:14; Exo 35:2-3; Deu 5:14 and Lev 16:29; Num 29:7); on the other feast-days with a holy convocation, only servile work (Lev 23:7, Lev 23:8, Lev 23:21, Lev 23:25, Lev 23:35, Lev 23:36, cf. Exo 12:16, and the explanation on Lev 12:1-8 :15ff., and Num 28:18, Num 28:25-26; Num 29:1, Num 29:12, Num 29:35). To this there is appended a fresh regulation in Lev 23:9-14, with the repetition of the introductory clause, \"And the Lord spake,\" etc. When the Israelites had come into the land to be given them by the Lord, and had reaped the harvest, they were to bring a sheaf as first-fruits of their harvest to the priest, that he might wave it before Jehovah on the day after the Sabbath, i.e., after the first day of Mazzoth. According to Josephus and Philo, it was a sheaf of barley; but this is not expressly commanded, because it would be taken for granted in Canaan, where the harvest began with the barley. In the warmer parts of Palestine the barley ripens about the middle of April, and is reaped in April or the beginning of May, whereas the wheat ripens two or three weeks later (Seetzen; Robinson's Pal. ii. 263, 278). The priest was to wave the sheaf before Jehovah, i.e., to present it symbolically to Jehovah by the ceremony of waving, without burning any of it upon the altar. The rabbinical rule, viz., to dry a portion of the ears by the fire, and then, after rubbing them out, to burn them on the altar, was an ordinance of the later scribes, who knew not the law, and was based upon Lev 2:14. For the law in Lev 2:14 refers to the offerings of first-fruits made by private persons, which are treated of in Num 18:12-13, and Deu 26:2. The sheaf of first-fruits, on the other hand, which was to be offered before Jehovah as a wave-offering in the name of the congregation, corresponded to the two wave-loaves which were leavened and then baked, and were to be presented to the Lord as first-fruits (Lev 23:17). As no portion of these wave-loaves was burned upon the altar, because nothing leavened was to be placed upon it (Lev 2:11), but they were assigned entirely to the priests, we have only to assume that the same application was intended by the law in the case of the sheaf of first-fruits, since the text only prescribes the waving, and does not contain a word about roasting, rubbing, or burning the grains upon the altar. השּׁבּת מחרת (the morrow after the Sabbath) signifies the next day after the first day of the feast of Mazzoth, i.e., the 16th Abib (Nisan), not the day of the Sabbath which fell in the seven days' feast of Mazzoth, as the Baethoseans supposed, still less the 22nd of Nisan, or the day after the conclusion of the seven days' feast, which always closed with a Sabbath, as Hitzig imagines.\n(Note: The view advocated by the Baethoseans, which has been lately supported by W. Schultz, is refuted not only by Jos 5:11, but by the definite article used, השּׁבּת, which points back to one of the feast-days already mentioned, and still more decisively by the circumstance, that according to Lev 23:15 the seven weeks, at the close of which the feast of Pentecost was to be kept, were to be reckoned from this Sabbath; and if the Sabbath was not fixed, but might fall upon any day of the seven days' feast of Mazzoth, and therefore as much as give or six days after the Passover, the feast of Passover itself would be forced out of the fundamental position which it occupied in the series of annual festivals (cf. Ranke, Pentateuch ii. 108). Hitzig's hypothesis has been revived by Hupfeld and Knobel, without any notice of the conclusive refutation given to it by Bהhr and Wieseler; only Knobel makes \"the Sabbath\" not the concluding but the opening Sabbath of the feast of Passover, on the ground that \"otherwise the festal sheaf would not have been offered till the 22nd of the month, and therefore would have come post festum.\" But this hypothesis, which renders it necessary that the commencement of the ecclesiastical year should always be assigned to a Saturday (Sabbath), in order to gain weekly Sabbaths for the 14th and 21st of the month, as the opening and close of the feast of Passover, gives such a form to the Jewish year as would involve its invariably closing with a broken week; a hypothesis which is not only incapable of demonstration, but, from the holiness attached to the Jewish division of weeks, is a priori improbable, and in fact inconceivable. The Mosaic law, which gave such sanctity to the division of time into weeks, as founded upon the history of creation, by the institution of the observance of the Sabbath, that it raised the Sabbath into the groundwork of a magnificent festal cycle, could not possibly have made such an arrangement with regard to the time for the observance of the Passover, as would involve almost invariably the mutilation of the last week of the year, and an interruption of the old and sacred weekly cycle with the Sabbath festival at its close. The arguments by which so forced a hypothesis is defended, must be very conclusive indeed, to meet with any acceptance. But neither Hitzig nor his followers have been able to adduce any such arguments as these. Besides the word \"Sabbath\" and Jos 5:11, which prove nothing at all, the only other argument adduced by Knobel is, that \"it is impossible to see why precisely the second day of the azyma, when the people went about their ordinary duties, and there was no meeting at the sanctuary, should have been distinguished by the sacrificial gift which was the peculiar characteristic of the feast,\" - an argument based upon the fallacious principle, that anything for which I can see no reason, cannot possibly have occurred.)\nThe \"Sabbath\" does not mean the seventh day of the week, but the day of rest, although the weekly Sabbath was always the seventh or last day of the week; hence not only the seventh day of the week (Exo 31:15, etc.), but the day of atonement (the tenth of the seventh month), is called \"Sabbath,\" and \"Shabbath shabbathon\" (Lev 23:32; Lev 16:31). As a day of rest, on which no laborious work was to be performed (Lev 23:8), the first day of the feast of Mazzoth is called \"Sabbath,\" irrespectively of the day of the week upon which it fell; and \"the morrow after the Sabbath\" is equivalent to \"the morrow after the Passover\" mentioned in Jos 5:11, where \"Passover\" signifies the day at the beginning of which the paschal meal was held, i.e., the first day of unleavened bread, which commenced on the evening of the 14th, in other words, the 15th Abib. By offering the sheaf of first-fruits of the harvest, the Israelites were to consecrate their daily bread to the Lord their God, and practically to acknowledge that they owed the blessing of the harvest to the grace of God. They were not to eat any bread or roasted grains of the new corn till they had presented the offering of their God (Lev 23:14). This offering was fixed for the second day of the feast of the Passover, that the connection between the harvest and the Passover might be kept in subordination to the leading idea of the Passover itself (see at Exo 12:15.). But as the sheaf was not burned upon the altar, but only presented symbolically to the Lord by waving, and then handed over to the priests, an altar-gift had to be connected with it, - namely, a yearling sheep as a burnt-offering, a meat-offering of two-tenths of an ephah of fine flour mixed with oil, and a drink-offering of a quarter of a hin of wine, - to give expression to the obligation and willingness of the congregation not only to enjoy their earthly food, but to strengthen all the members of their body for growth in holiness and diligence in good works. The burnt-offering, for which a yearling lamb was prescribed, as in fact for all the regular festal sacrifices, was of course in addition to the burnt-offerings prescribed in Num 28:19-20, for every feast-day. The meat-offering, however, was not to consist of one-tenth of an ephah of fine flour, as on other occasions (Exo 29:40; Num 28:9, Num 28:13, etc.), but of two-tenths, that the offering of corn at the harvest-feast might be a more plentiful one than usual."
+    },
+    {
+      "src": "KD",
+      "ref": "Deuteronomy 16:1",
+      "note_ref": "KD/5/16/1",
+      "cites": [
+        "Deuteronomy 16:8",
+        "Deuteronomy 16:3"
+      ],
+      "text": "The annual feasts appointed by the law were to be celebrated, like the sacrificial meals, at the place which the Lord would choose for the revelation of His name; and there Israel was to rejoice before the Lord with the presentation of sacrifices. From this point of view Moses discusses the feasts of Passover, Pentecost, and Tabernacles, assuming the laws previously given concerning these festivals (Ex 12; Lev 23:1, and Num 28 and 29) as already known, and simply repeating those points which related to the sacrificial meals held at these festivals. This serves to explain the reason why only those three festivals are mentioned, at which Israel had already been commanded to appear before the Lord in Exo 23:14-17, and Exo 34:18, Exo 34:24-25, and not the feast of trumpets or day of atonement: viz., because the people were not required to assemble at the sanctuary out of the whole land on the occasion of these two festivals.\n(Note: That the assembling of the people at the central sanctuary is the leading point of view under which the feasts are regarded here, has been already pointed out by Bachmann (die Feste, p. 143), who has called attention to the fact that \"the place which Jehovah thy God will choose\" occurs six times (Deu 16:2, Deu 16:6, Deu 16:7, Deu 16:11, Deu 16:15, Deu 16:16); and \"before the face of Jehovah\" three times (Deu 16:11 and Deu 16:16 twice); and that the celebration of the feast at any other place is expressly declared to be null and void. At the same time, he has once more thoroughly exploded the contradictions which are said to exist between this chapter and the earlier festal laws, and which Hupfeld has revived in his comments upon the feasts, without troubling himself to notice the careful discussion of the subject by Hvernick in his Introduction, and Hengstenberg in his Dissertations.)\nDeu 16:1-8\nIsrael was to make ready the Passover to the Lord in the earing month (see at Exo 12:2). The precise day is supposed to be known from Ex 12, as in Exo 23:15. פּסח עשׂה (to prepare the Passover), which is used primarily to denote the preparation of the paschal lamb for a festal meal, is employed here in a wider signification viz., \"to keep the Passover.\" At this feast they were to slay sheep and oxen to the Lord for a Passover, at the place, etc. In Deu 16:2, as in Deu 16:1, the word \"Passover\" is employed in a broader sense, and includes not only the paschal lamb, but the paschal sacrifices generally, which the Rabbins embrace under the common name of chagiga; not the burnt-offerings and sin-offerings, however, prescribed in Num 28:19-26, but all the sacrifices that were slain at the feast of the Passover (i.e., during the seven days of the Mazzoth, which are included under the name of pascha) for the purpose of holding sacrificial meals. This is evident from the expression \"of the flock and the herd;\" as it was expressly laid down, that only a שׂה, i.e., a yearling animal of the sheep or goats, was to be slain for the paschal meal on the fourteenth of the month in the evening, and an ox was never slaughtered in the place of the lamb. But if any doubt could exist upon this point, it would be completely set aside by Deu 16:3 : \"Thou shalt eat no leavened bread with it: seven days shalt thou eat unleavened bread therewith.\" As the word \"therewith\" cannot possibly refer to anything else than the \"Passover\" in Deu 16:2, it is distinctly stated that the slaughtering and eating of the Passover was to last seven days, whereas the Passover lamb was to be slain and consumed in the evening of the fourteenth Abib (Exo 12:10). Moses called the unleavened bread \"the bread of affliction,\" because the Israelites had to leave Egypt in anxious flight (Exo 12:11) and were therefore unable to leaven the dough (Exo 12:39), for the purpose of reminding the congregation of the oppression endured in Egypt, and to stir them up to gratitude towards the Lord their deliverer, that they might remember that day as long as they lived. (On the meaning of the Mazzothy, see at Exo 12:8 and Exo 12:15.) - On account of the importance of the unleavened bread as a symbolical shadowing forth of the significance of the Passover, as the feast of the renewal and sanctification of the life of Israel, Moses repeats in Deu 16:4 two of the points in the law of the feast: first of all the one laid down in Exo 13:7, that no leaven was to be seen in the land during the seven days; and secondly, the one in Exo 23:18 and Exo 34:25, that none of the flesh of the paschal lamb was to be left till the next morning, in order that all corruption might be kept at a distance from the paschal food. Leaven, for example, sets the dough in fermentation, from which putrefaction ensues; and in the East, if flesh is kept, it very quickly decomposes. He then once more fixes the time and place for keeping the Passover (the former according to Exo 12:6 and Lev 23:5, etc.), and adds in Deu 16:7 the express regulation, that not only the slaughtering and sacrificing, but the roasting (see at Exo 12:9) and eating of the paschal lamb were to take place at the sanctuary, and that the next morning they could turn and go back home. This rule contains a new feature, which Moses prescribes with reference to the keeping of the Passover in the land of Canaan, and by which he modifies the instructions for the first Passover in Egypt, to suit the altered circumstances. In Egypt, when Israel was not yet raised into the nation of Jehovah, and had as yet no sanctuary and no common altar, the different houses necessarily served as altars. But when this necessity was at an end, the slaying and eating of the Passover in the different houses were to cease, and they were both to take place at the sanctuary before the Lord, as was the case with the feast of Passover at Sinai (Num 9:1-5). Thus the smearing of the door-posts with the blood was tacitly abolished, since the blood was to be sprinkled upon the altar as sacrificial blood, as it had already been at Sinai. - The expression \"to thy tents,\" for going \"home,\" points to the time when Israel was till dwelling in tents, and had not as yet secured any fixed abodes and houses in Canaan, although this expression was retained at a still later time (e.g., Sa1 13:2; Sa2 19:9, etc.). The going home in the morning after the paschal meal, is not to be understood as signifying a return to their homes in the different towns of the land, but simply, as even Riehm admits, to their homes or lodgings at the place of the sanctuary. How very far Moses was from intending to release the Israelites from the duty of keeping the feast for seven days, is evident from the fact that in Deu 16:8 he once more enforces the observance of the seven days' feast. The two clauses, \"six days thou shalt eat mazzoth,\" and \"on the seventh day shall be azereth (Eng. Ver. 'a solemn assembly') to the Lord thy God,\" are not placed in antithesis to each other, so as to imply (in contradiction to Deu 16:3 and Deu 16:4; Exo 12:18-19; Exo 13:6-7; Lev 23:6; Num 28:17) that the feast of Mazzoth was to last only six days instead of seven; but the seventh day is brought into especial prominence as the azereth of the feast (see at Lev 23:36), simply because, in addition to the eating of mazzoth, there was to be an entire abstinence from work, and this particular feature might easily have fallen into neglect at the close of the feast. But just as the eating of mazzoth for seven days is not abolished by the first clause, so the suspension of work on the first day is not abolished by the second clause, any more than in Exo 13:6 the first day is represented as a working day by the fact that the seventh day is called \"a feast to Jehovah.\"\nDeu 16:9-12\nWith regard to the Feast of Weeks (see at Exo 23:16), it is stated that the time for its observance was to be reckoned from the Passover. Seven weeks shall they count \"from the beginning of the sickle to the corn,\" i.e., from the time when the sickle began to be applied to the corn, or from the commencement of the corn-harvest. As the corn-harvest was opened with the presentation of the sheaf of first-fruits on the second day of the Passover, this regulation as to time coincides with the rule laid down in Lev 23:15. \"Thou shalt keep the feast to the Lord thy God according to the measure of the free gift of thy hand, which thou givest as Jehovah thy God blesseth thee.\" The ἁπ. λεγ. מסּת is the standing rendering in the Chaldee for דּי, sufficiency, need; it probably signifies abundance, from מסס = מסה, to flow, to overflow, to derive. The idea is this: Israel was to keep this feast with sacrificial gifts, which every one was able to bring, according to the extent to which the Lord had blessed him, and (Deu 16:11) to rejoice before the Lord at the place where His name dwelt with sacrificial meals, to which the needy were to be invited (cf. Deu 14:29), in remembrance of the fact that they also were bondmen in Egypt (cf. Deu 15:15). The \"free-will offering of the hand,\" which the Israelites were to bring with them to this feast, and with which they were to rejoice before the Lord, belonged to the free-will gifts of burnt-offerings, meat-offerings, drink-offerings, and thank-offerings, which might be offered, according to Num 29:39 (cf. Lev 23:38), at every feast, along with the festal sacrifices enjoined upon the congregation. The latter were binding upon the priests and congregation, and are fully described in Num 28 and 29, so that there was no necessity for Moses to say anything further with reference to them.\nDeu 16:13-15\nIn connection with the Feast of Tabernacles also, he simply enforces the observance of it at the central sanctuary, and exhorts the people to rejoice at this festival, and not only to allow their sons and daughters to participate in this joy, but also the man-servant and maid-servant, and the portionless Levites, strangers, widows, and orphans. After what had already been stated, Moses did not consider it necessary to mention expressly that this festal rejoicing was also to be manifested in joyous sacrificial meals; it was enough for him to point to the blessing which God had bestowed upon their cultivation of the corn, the olive, and the vine, and upon all the works of their hands, i.e., upon their labour generally (Deu 16:13-15), as there was nothing further to remark after the instructions which had already been given with reference to this feast also (Lev 23:34-36, Lev 23:39-43; Num 29:12-38).\nDeu 16:16-17\nIn conclusion, the law is repeated, that the men were to appear before the Lord three times a year at the three feasts just mentioned (compare Exo 23:17 with Exo 23:14, and Exo 34:23), with the additional clause, \"at the place which the Lord shall choose,\" and the following explanation of the words \"not empty:\" \"every man according to the gift of his hand, according to the blessing of Jehovah his God, which He hath given thee,\" i.e., with sacrificial gifts, as much as every one could offer, according to the blessing which he had received from God.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Exodus 12:1",
+      "note_ref": "MHC/2/12/1",
+      "cites": [
+        "Exodus 12:15"
+      ],
+      "text": "Moses and Aaron here receive of the Lord what they were afterwards to deliver to the people concerning the ordinance of the passover, to which is prefixed an order for a new style to be observed in their months (Exo 12:1, Exo 12:2): This shall be to you the beginning of months. They had hitherto begun their year from the middle of September, but henceforward they were to begin it from the middle of March, at least in all their ecclesiastical computations. Note, It is good to begin the day, and begin the year, and especially to begin our lives, with God. This new calculation began the year with the spring, which reneweth the face of the earth, and was used as a figure of the coming of Christ, Sol 2:11, Sol 2:12. We may suppose that, while Moses was bringing the ten plagues upon the Egyptians, he was directing the Israelites to prepare for their departure at an hour's warning. Probably he had be degrees brought them near together from their dispersions, for their are here called the congregation of Israel (Exo 12:3), and to them as a congregation orders are here sent. Their amazement and hurry, it is easy to suppose, were great; yet now they must apply themselves to the observance of a sacred rite, to the honour of God. Note, When our heads are fullest of care, and our hands of business, yet we must not forget our religion, nor suffer ourselves to be indisposed for acts of devotion.\nI. God appointed that on the night wherein they were to go out of Egypt they should, in each of their families, kill a lamb, or that two or three families, if they were small, should join for a lamb. The lamb was to be got ready four days before and that afternoon they were to kill it (Exo 12:6) as a sacrifice; not strictly, for it was not offered upon the altar, but as a religious ceremony, acknowledging God's goodness to them, not only in preserving them from, but in delivering them by, the plagues inflicted on the Egyptians. See the antiquity of family-religion; and see the convenience of the joining of small families together for religious worship, that it may be made the more solemn.\nII. The lamb so slain they were to eat, roasted (we may suppose, in its several quarters), with unleavened bread and bitter herbs, because they were to eat it in haste (Exo 12:11), and to leave none of it until the morning; for God would have them to depend upon him for their daily bread, and not to take thought for the morrow. He that led them would feed them.\nIII. Before they ate the flesh of the lamb, they were to sprinkle the blood upon the doorposts, Exo 12:7. By this their houses were to be distinguished from the houses of the Egyptians, and so their first-born secured from the sword of the destroying angel, Exo 12:12, Exo 12:13. Dreadful work was to be made this night in Egypt; all the first-born both of man and beast were to be slain, and judgment executed upon the gods of Egypt. Moses does not mention the fulfillment, in this chapter, yet he speaks of it Num 33:4. It is very probable that the idols which the Egyptians worshipped were destroyed, those of metal melted, those of wood consumed, and those of stone broken to pieces, whence Jethro infers (Exo 18:11), The Lord is greater than all gods. The same angel that destroyed their first-born demolished their idols, which were no less dear to them. For the protection of Israel from this plague they were ordered to sprinkle the blood of the lamb upon the door-posts, their doing which would be accepted as an instance of their faith in the divine warnings and their obedience to the divine precepts. Note, 1. If in times of common calamity God will secure his own people, and set a mark upon them; they shall be hidden either in heaven or under heaven, preserved either from the stroke of judgments or at least from the sting of them. 2. The blood of sprinkling is the saint's security in times of common calamity; it is this that marks them for God, pacifies conscience, and gives them boldness of access to the throne of grace, and so becomes a wall of protection round them and a wall of partition between them and the children of this world.\nIV. This was to be annually observed as a feast of the Lord in their generations, to which the feast of unleavened bread was annexed, during which, for seven days, they were to eat no bread but what was unleavened, in remembrance of their being confined to such bread, of necessity, for many days after they came out of Egypt, Exo 12:14-20. The appointment is inculcated for their better direction, and that they might not mistake concerning it, and to awaken those who perhaps in Egypt had grown generally very stupid and careless in the matters of religion to a diligent observance of the institution. Now, without doubt, there was much of the gospel in this ordinance; it is often referred to in the New Testament, and, in it, to us is the gospel preached, and not to them only, who could not stedfastly look to the end of these things, Heb 4:2; Co2 3:13.\n1. The paschal lamb was typical. Christ is our Passover, Co1 5:7. (1.) It was to be a lamb; and Christ is the Lamb of God (Joh 1:29), often in the Revelation called the Lamb, meek and innocent as a lamb, dumb before the shearers, before the butchers. (2.) It was to be a male of the first year (Exo 12:5), in its prime; Christ offered up himself in the midst of his days, not in infancy with the babes of Bethlehem. It denotes the strength and sufficiency of the Lord Jesus, on whom our help was laid. (3.) It was to be without blemish (Exo 12:5), denoting the purity of the Lord Jesus, a Lamb without spot, Pe1 1:19. The judge that condemned him (as if his trial were only like the scrutiny that was made concerning the sacrifices, whether they were without blemish or no) pronounced him innocent. (4.) It was to be set apart four days before (Exo 12:3, Exo 12:6), denoting the designation of the Lord Jesus to be a Saviour, both in the purpose and in the promise. It is very observable that as Christ was crucified at the passover, so he solemnly entered into Jerusalem four days before, the very day that the paschal lamb was set apart. (5.) It was to be slain, and roasted with fire (Exo 12:6-9), denoting the exquisite sufferings of the Lord Jesus, even unto death, the death of the cross. The wrath of God is as fire, and Christ was made a curse for us. (6.) It was to be killed by the whole congregation between the two evenings, that is, between three o'clock and six. Christ suffered in the end of the world (Heb 9:26), by the hand of the Jews, the whole multitude of them (Luk 23:18), and for the good of all his spiritual Israel. (7.) Not a bone of it must be broken (Exo 12:46), which is expressly said to be fulfilled in Christ (Joh 19:33, Joh 19:36), denoting the unbroken strength of the Lord Jesus.\n2. The sprinkling of the blood was typical. (1.) It was not enough that the blood of the lamb was shed, but it must be sprinkled, denoting the application of the merits of Christ's death to our souls; we must receive the atonement, Rom 5:11. (2.) It was to be sprinkled with a bunch of hyssop (Exo 12:22) dipped in the basin. The everlasting covenant, like the basin, in the conservatory of this blood, the benefits and privileges purchased by it are laid up for us there; faith is the bunch of hyssop by which we apply the promises to ourselves and the benefits of the blood of Christ laid up in them. (3.) It was to be sprinkled upon the door-posts, denoting the open profession we are to make of faith in Christ, and obedience to him, as those that are not ashamed to own our dependence upon him. The mark of the beast may be received on the forehead or in the right hand, but the seal of the Lamb is always in the forehead, Rev 7:3. There is a back-way to hell, but no back-way to heaven; no, the only way to this is a high-way, Isa 35:8. (4.) It was to be sprinkled upon the lintel and the sideposts, but not upon the threshold (Exo 12:7), which cautions us to take heed of trampling under foot the blood of the covenant, Heb 10:29. It is precious blood, and must be precious to us. (5.) The blood, thus sprinkled, was a means of the preservation of the Israelites from the destroying angel, who had nothing to do where the blood was. If the blood of Christ be sprinkled upon our consciences, it will be our protection from the wrath of God, the curse of the law, and the damnation of hell, Rom 8:1.\n3. The solemnly eating of the lamb was typical of our gospel-duty to Christ. (1.) The paschal lamb was killed, not to be looked upon only, but to be fed upon; so we must by faith make Christ ours, as we do that which we eat, and we must receive spiritual strength and nourishment from him, as from our food, and have delight and satisfaction in him, as we have in eating and drinking when we are hungry or thirsty: see Joh 6:53-55. (2.) It was to be all eaten; those that by faith feed upon Christ must feed upon a whole Christ; they must take Christ and his yoke, Christ and his cross, as well as Christ and his crown. Is Christ divided? Those hat gather much of Christ will have nothing over. (3.) It was to be eaten immediately, not deferred till morning, Exo 12:10. Today Christ is offered, and is to be accepted while it is called today, before we sleep the sleep of death. (4.) It was to be eaten with bitter herbs (Exo 12:8), in remembrance of the bitterness of their bondage in Egypt. We must feed upon Christ with sorrow and brokenness of heart, in remembrance of sin; this will give an admirable relish to the paschal lamb. Christ will be sweet to us if sin be bitter. (5.) It was to be eaten in a departing posture (Exo 12:11); when we feed upon Christ by faith we must absolutely forsake the rule and dominion of sin, shake off Pharaoh's yoke; and we must sit loose to the world, and every thing in it, forsake all for Christ, and reckon it no bad bargain, Heb 13:13, Heb 13:14.\n4. The feast of unleavened bread was typical of the Christian life, Co1 5:7, Co1 5:8. Having received Christ Jesus the Lord, (1.) We must keep a feast in holy joy, continually delighting ourselves in Christ Jesus; no manner of work must be done (Exo 12:16), no care admitted or indulged, inconsistent with, or prejudicial to, this holy joy: if true believers have not a continual feast, it is their own fault. (2.) It must be a feast of unleavened bread, kept in charity, without the leaven of malice, and in sincerity, without the leaven of hypocrisy. The law was very strict as to the passover, and the Jews were so in their usages, that no leaven should be found in their houses, Exo 12:19. All the old leaven of sin must be put far from us, with the utmost caution and abhorrence, if we would keep the feast of a holy life to the honour of Christ. (3.) It was by an ordinance for ever (Exo 12:17); as long as we live, we must continue feeding upon Christ and rejoicing in him, always making thankful mention of the great things he has done for us.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Exodus 13:1",
+      "note_ref": "MHC/2/13/1",
+      "cites": [
+        "Exodus 13:6-7"
+      ],
+      "text": "Care is here taken to perpetuate the remembrance,\nI. Of the preservation of Israel's firstborn, when the firstborn of the Egyptians were slain. In memory of that distinguishing favour, and in gratitude for it, the firstborn, in all ages, were to be consecrated to God, as his peculiars (Exo 13:2), and to be redeemed, Exo 13:13. God, who by the right of creation is proprietor and sovereign of all the creatures, here lays claim in particular to the firstborn of the Israelites, by right of protection: Sanctify to me all the firstborn. The parents were not to look upon themselves as interested in their firstborn, till they had first solemnly presented them to God, recognized his title to them, and received them back, at a certain rate, from him again. Note, 1. That which is by special distinguishing mercy spared to us should be in a peculiar manner dedicated to God's honour; at least some grateful acknowledgment, in works of piety and charity, should be made, when our lives, or the lives of our children, have been given us for a prey. 2. God, who is the first and best, should have the first and best, and to him we should resign that which is most dear to us, and most valuable. The firstborn were the joy and hope of their families. Therefore they shall be mine, says God. By this is will appear that we love God best (as we ought) if we are willing to part with that to him which we love best in this world. 3. It is the church of the firstborn that is sanctified to God, Heb 12:23. Christ it the firstborn among many brethren (Rom 8:29), and, by virtue of their union with him, all that are born again, and born from above, are accounted as firstborn. There is an excellency of dignity and power belonging to them; and, if children, then heirs.\nII. The remembrance of their coming out of Egypt must also be perpetuated: \"Remember this day, Exo 13:3. Remember it by a good token, as the most remarkable day of your lives, the birthday of your nation, or the day of its coming of age, to be no longer under the rod.\" Thus the day of Christ's resurrection is to be remembered, for in it we were raised up with Christ out of death's house of bondage. The scripture tells us not expressly what day of the year Christ rose (as Moses told the Israelites what day of the year they were brought out of Egypt, that they might remember it yearly), but very particularly what day of the week it was, plainly intimating that, as the more valuable deliverance, and of greater importance, it should be remembered weekly. Remember it, for by strength of hand the Lord brought you out. Note, The more of God and his power appears in any deliverance, the more memorable it is. Now, that it might be remembered,\n1. They must be sure to keep the feast of unleavened bread, Exo 13:5-7. It was not enough that they remembered it, but they must celebrate the memorial of it in that way which God had appointed, and use the instituted means of preserving the remembrance of it. So, under the gospel, we must not only remember Christ, but do this in remembrance of him. Observe, How strict the prohibition of leaven is (Exo 13:7); not only no leaven must be eaten, but none must be seen, no, not in all their quarters. Accordingly, the Jews' usage was, before the feast of the passover, to cast all the leavened bread out of their houses: they burnt it, or buried it, or broke it small and scattered it in the wind; they searched diligently with lighted candles in all the corners of their houses, lest any leaven should remain. The care and strictness enjoined in this matter were designed, (1.) To make the feast the more solemn, and consequently the more taken notice of by their children, who would ask, \"Why is so much ado made?\" (2.) To teach us how solicitous we should be to put away from us all sin, Co1 5:7.\n2. They must instruct their children in the meaning of it, and relate to them the story of their deliverance out of Egypt, Exo 13:8. Note, (1.) Care must be taken betimes to instruct children in the knowledge of God. Here is an ancient law for catechising. (2.) It is particularly of great use to acquaint children betimes with the stories of the scripture, and to make them familiar to them. (3.) It is a debt we owe to the honour of God, and to the benefit of our children's souls, to tell them of the great works God has done for his church, both those which we have seen with our eyes done in our day and which we have heard with our ears and our fathers have told us: Thou shalt show thy son in that day (the day of the feast) these things. When they were celebrating the ordinance, they must explain it. Every thing is beautiful in its season. The passover is appointed for a sign, and for a memorial, that the Lord's law may be in thy mouth. Note, We must retain the remembrance of God's works, that we may remain under the influence of God's law. And those that have God's law in their heart should have it in their mouth, and be often speaking of it, the more to affect themselves and to instruct others.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Exodus 23:10",
+      "note_ref": "MHC/2/23/10",
+      "cites": [
+        "Exodus 23:15"
+      ],
+      "text": "Here is, I. The institution of the sabbatical year, Exo 23:10, Exo 23:11. Every seventh year the land was to rest; they must not plough nor sow it at the beginning of the year, and then they could not expect any great harvest at the end of the year: but what the earth did produce of itself should be eaten from hand to mouth, and not laid up. Now this was designed, 1. To show what a plentiful land that was into which God was bringing them - that so numerous a people could have rich maintenance out of the produce of so small a country, without foreign trade, and yet could spare the increase of every seventh year. 2. To remind them of their dependence upon God their great landlord, and their obligation to use the fruit of their land as he should direct. Thus he would try their obedience in a matter that nearly touched their interest. Afterwards we find that their disobedience to this command was a forfeiture of the promises, Ch2 36:21. 3. To teach them a confidence in the divine Providence, while they did their duty - that, as the sixth day's manna served for two day's meat, so the sixth year's increase should serve for two years' subsistence. Thus they must learn not to take thought for their life, Mat 6:25. If we are prudent and diligent in our affairs, we may trust Providence to furnish us with the bread of the day in its day.\nII. The repetition of the law of the fourth commandment concerning the weekly sabbath, Exo 23:12. Even in the year of rest they must not think that the sabbath day was laid in common with the other days, but, even that year, it must be religiously observed; yet thus some have endeavoured to take away the observance of the sabbath, by pretending that every day must be a sabbath day.\nIII. All manner of respect to the gods of the heathen is here strictly forbidden, Exo 23:13. A general caution is prefixed to this, which has reference to all these precepts: In all things that I have said unto you, be circumspect. We are in danger of missing our way on the right hand and on the left, and it is at our peril if we do; therefore we have need to look about us. A man may ruin himself through mere carelessness, but he cannot save himself without great care and circumspection: particularly, since idolatry was a sin which they were much addicted to, and would be greatly tempted to, they must endeavour to blot out the remembrance of the gods of the heathen, and must disuse and forget all their superstitious forms of speech, and never mention them but with detestation. In Christian schools and academies (for it is in vain to think of reforming the play-houses), it were to be wished that the names and stories of the heathen deities, or demons rather, were not so commonly and familiarly used as they are, even with intimations of respect, and sometimes with forms of invocation. Surely we have not so learned Christ.\nIV. Their solemn religious attendance on God in the place which he should choose is here strictly required, Exo 23:14-17. 1. Thrice a year all their males must come together in a holy convocation, that they might the better know and love one another, and keep up their communion as a dignified and peculiar people. 2. They must come together before the Lord (Exo 23:17) to present themselves before him, looking towards the place where his honour dwelt, and to pay their homage to him as their great Lord, from and under whom they held all their enjoyments. 3. They must feast together before the Lord, eating and drinking together, in token of their joy in God and their grateful sense of his goodness to them; for a feast is made for laughter, Ecc 10:19. O what a good Master do we serve, who has made it our duty to rejoice before him, who feasts his servants when they are in waiting! Never let religion be called a melancholy thing, when its solemn services are solemn feasts. 4. They must not appear before God empty, Exo 23:15. Some free-will offering or other they must bring, in token of their respect and gratitude to their great benefactor; and, as they were not allowed to come empty-handed, so we must not come to worship God empty-hearted; our souls must be filled with grace, with pious and devout affections, holy desires towards him, and dedications of ourselves to him, for with such sacrifices God is well-pleased. 5. The passover, pentecost, and feast of tabernacles, in spring, summer, and autumn, were the three times appointed for their attendance: not in winter, because travelling was then uncomfortable; not in the midst of their harvest, because then they were otherwise employed; so that they had no reason to say that he made them to serve with an offering, or wearied them with incense.\nV. Some particular directions are here given about the three feasts, though not so fully as afterwards. 1. As to the passover, it was not to be offered with leavened bread, for at that feast all leaven was to be cast out, nor was the fat of it to remain until the morning, lest it should become offensive, Exo 23:18. 2. At the feast of pentecost, when they were to begin their harvest, they must bring the first of their first-fruits to God, by the pious presenting of which the whole harvest was sanctified, Exo 23:19. 3. At the feast of ingathering, as it is called (Exo 23:16), they must give God thanks for the harvest-mercies they had received, and must depend upon him for the next harvest, and must not think to receive benefit by that superstitious usage of some of the Gentiles, who, it is said, at the end of their harvest, seethed a kid in its dam's milk, and sprinkled that milk-pottage, in a magical way, upon their gardens and fields, to make them more fruitful next year. But Israel must abhor such foolish customs.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Leviticus 23:4",
+      "note_ref": "MHC/3/23/4",
+      "cites": [
+        "Leviticus 23:6"
+      ],
+      "text": "Here again the feasts are called the feasts of the Lord, because he appointed them. Jeroboam's feast, which he devised of his own heart (Kg1 12:33), was an affront to God, and a reproach upon the people. These feasts were to be proclaimed in their seasons (Lev 23:4), and the seasons God chose for them were in March, May and September (according to our present computation), not in winter, because travelling would then be uncomfortable, when the days were short, and the ways foul; not in the middle of summer, because then in those countries they were gathering in their harvest and vintage, and could be ill spared from their country business. Thus graciously does God consult our comfort in his appointments, obliging us thereby religiously to regard his glory in our observance of them, and not to complain of them as a burden. The solemnities appointed them were, 1. Many and returned frequently, which was intended to preserve in them a deep sense of God and religion, and to prevent their inclining to the superstitions of the heathen. God kept them fully employed in his service, that they might not have time to hearken to the temptations of the idolatrous neighbourhood they lived in. 2. They were most of them times of joy and rejoicing. The weekly sabbath is so, and all their yearly solemnities, except the day of atonement. God would thus teach them that wisdom's ways are pleasantness, and engage them to his service by encouraging them to be cheerful in it and to sing at their work. Seven days were days of strict rest and holy convocations; the first day and the seventh of the feast of unleavened bread, the day of pentecost, the day of the feast of trumpets, the first day and the eighth of the feast of tabernacles, and the day of atonement: here were six for holy joy and one only for holy mourning. We are commanded to rejoice evermore, but not to be evermore weeping. Here is,\nI. A repetition of the law of the passover, which was to be observed on the fourteenth day of the first month, in remembrance of their deliverance out of Egypt and the distinguishing preservation of their first-born, mercies never to be forgotten. This feast was to begin with the killing of the paschal lamb, Lev 23:5. It was to continue seven days, during all which time they were to eat sad bread, that was unleavened (Lev 23:6), and the first and last day of the seven were to be days of holy rest and holy convocations, Lev 23:7, Lev 23:8. They were not idle days spent in sport and recreation (as many that are called Christians spend their holy days), but offerings were made by fire unto the Lord at his altar; and we have reason to think that the people were taught to employ their time in prayer, and praise, and godly meditation.\nII. An order for the offering of a sheaf of the first-fruits, upon the second day of the feast of unleavened bread; the first is called the sabbath, because it was observed as a sabbath (Lev 23:11), and, on the morrow after, they had this solemnity. A sheaf or handful of new corn was brought to the priest, who was to heave it up, in token of his presenting it to the God of Heaven, and to wave it to and fro before the Lord, as the Lord of the whole earth, and this should be accepted for them as a thankful acknowledgment of God's mercy to them in clothing their fields with corn, and of their dependence upon God, and desire towards him, for the preserving of it to their use. For it was the expression both of prayer and praise, Lev 23:11. A lamb for a burnt-offering was to be offered with it, Lev 23:12. As the sacrifice of animals was generally attended with meat-offerings, so this sacrifice of corn was attended with a burnt-offering, that bread and flesh might be set together on God's table. They are forbidden to eat of their new corn till this handful was offered to God; for it was fit, if God and Israel feast together, that he should be served first. And the offering of this sheaf of first-fruits in the name of the whole congregation did, as it were, sanctify to them their whole harvest, and give them a comfortable use of all the rest; for then we may eat our bread with joy when we have, in some measure, performed our duty to God, and God has accepted our works, for thus all our enjoyments become clean to us. Now, 1. This law was given now, though there was no occasion for putting it in execution till they came to Canaan: in the wilderness they sowed no corn; but God's feeding them there with bread from heaven obliged them hereafter not to grudge him his share of their bread out of the earth. We find that when they came into Canaan the manna ceased upon the very day that the sheaf of first-fruits was offered; they had eaten of the old corn the day before (Jos 5:11), and then on this day they offered the first-fruits, by which they became entitled to the new corn too (Lev 23:12), so that there was no more occasion for manna. 1. This sheaf of first-fruits was typical of our Lord Jesus, who has risen from the dead as the first-fruits of those that slept, Co1 15:20. That branch of the Lord (Isa 4:2) was then presented to him, in virtue of the sacrifice of himself, the Lamb of God, and it was accepted for us. It is very observable that our Lord Jesus rose from the dead on the very day that the first-fruits were offered, to show that he was the substance of this shadow. 3. We are taught by this law to honour the Lord with our substance, and with the first-fruits of all our increase, Pro 3:9. They were not to eat of their new corn till God's part was offered to him out of it (Lev 23:14), for we must always begin with God, begin our lives with him, begin every day with him, begin every meal with him, begin every affair and business with him; seek first the kingdom of God."
+    },
+    {
+      "src": "MHC",
+      "ref": "Deuteronomy 16:1",
+      "note_ref": "MHC/5/16/1",
+      "cites": [
+        "Deuteronomy 16:8",
+        "Deuteronomy 16:3"
+      ],
+      "text": "Much of the communion between God and his people Israel was kept up, and a face of religion preserved in the nation, by the three yearly feasts, the institution of which, and the laws concerning them, we have several times met with already; and here they are repeated.\nI. The law of the passover, so great a solemnity that it made the whole month, in the midst of which it was placed, considerable: Observe the month Abib, Deu 16:1. Though one week only of this month was to be kept as a festival, yet their preparations before must be so solemn, and their reflections upon it and improvements of it afterwards so serious, as to amount to an observance of the whole month. The month of Abib, or of new fruits, as the Chaldee translates it, answers to our March (or part of March and part of April), and was by a special order from God, in remembrance of the deliverance of Israel out of Egypt, made the beginning of their year (Exo 12:2), which before was reckoned to begin in September. This month they were to keep the passover, in remembrance of their being brought out of Egypt by night, Deu 16:1. The Chaldee paraphrasts expound it, \"Because they came out of Egypt by daylight,\" there being an express order that they should not stir out of their doors till morning, Exo 12:22. One of them expounds it thus: \"He brought thee out of Egypt, and did wonders by night.\" The other, \"and thou shalt eat the passover by night.\" The laws concerning it are, 1. That they must be sure to sacrifice the passover in the place that God should choose (Deu 16:2), and in no other place, Deu 16:5-7. The passover was itself a sacrifice; hence Christ, as our passover, is said to be sacrificed for us (Co1 5:7), and many other sacrifices were offered during the seven days of the feast (Num 28:19, etc.), which are included here, for they are said to be sacrificed of the flock and the herd, whereas the passover itself was only of the flock, either a lamb or a kid: now no sacrifice was accepted but from the altar that sanctified it; it was therefore necessary that they should to up to the place of the altar, for, though the paschal lamb was entirely eaten by the owners, yet it must be killed in the court, the blood sprinkled, and the inwards burned upon the altar. By confining them to the appointed rule, from which they would have been apt to vary, and to introduce foolish inventions of their own, had they been permitted to offer these sacrifices within their own gates, from under the inspection of the priests. They were also hereby directed to have their eye up unto God in the solemnity, and the desire of their hearts towards the remembrance of his name, being appointed to attend where he had chosen to place his name, Deu 16:2 and Deu 16:6. But, when the solemnity was over, they might turn and go unto their tents, Deu 16:7. Some think that they might, if they pleased, return the very morning after the paschal lamb was killed and eaten, the priests and Levites being sufficient to carry on the rest of the week's work; but the first day of the seven is so far from being the day of their dispersion that it is expressly appointed for a holy convocation (Lev 23:7; Num 28:18); therefore we must take it as Jonathan's paraphrase expounds it, in the morning after the end of the feast thou shalt go to thy cities. And it was the practice to keep together the whole week, Ch2 35:17. 2. That they must eat unleavened bread for seven days, and no leavened bread must be seen in all their coasts, Deu 16:3, Deu 16:4, Deu 16:8. The bread they were confined to is here called bread of affliction, because neither grateful to the taste nor easy of digestion, and therefore proper to signify the heaviness of their spirits in their bondage and to keep in remembrance the haste in which they came out, the case being so urgent that they could not stay for the leavening of the bread they took with them for their march. The Jewish writers tell us that the custom at the passover supper was that the master of the family broke this unleavened bread, and gave to every one a piece of it, saying, This is (that is, this signifies, represents, or commemorates, which explains that saying of our Saviour, This is my body) the bread of affliction which your fathers did eat in the land of Egypt. The gospel meaning of this feast of unleavened bread the apostle gives us, Co1 5:7. Christ our passover being sacrificed for us, and we having participated in the blessed fruits of that sacrifice to our comfort, let us keep the feast in a holy conversation, free from the leaven of malice towards our brethren and hypocrisy towards God, and with the unleavened bread of sincerity and love. Lastly, Observe, concerning the passover, for what end it was instituted: \"That thou mayest remember the day when thou camest forth out of Egypt, not only on the day of the passover, or during the seven days of the feast, but all the days of thy life (Deu 16:3), as a constant inducement to obedience.\" Thus we celebrate the memorial of Christ's death at certain times, that we may remember it at all times, as a reason why we should live to him that died for us and rose again.\nII. Seven weeks after the passover the feast of pentecost was to be observed, concerning which they are here directed, 1. Whence to number their seven weeks, from the time thou beginnest to put the sickle to the corn (Deu 16:9), that is, from the morrow after the first day of the feast of unleavened bread, for on that day (though it is probable the people did not begin their harvest till the feast was ended) messengers were sent to reap a sheaf of barley, which was to be offered to God as the first-fruits, Lev 23:10. Some think it implies a particular care which Providence would take of their land with respect to the weather, that their harvest should be always ripe and ready for the sickle just at the same time. 2. How they were to keep this feast. (1.) They must bring an offering unto God, Deu 16:10. It is here called a tribute of a free-will-offering. It was required of them as a tribute to their Sovereign Lord and owner, under whom they held all they had; and yet because the law did not determine the quantum, but it was left to every man's generosity to bring what he chose, and whatever he brought he must give cheerfully, it is therefore called a free-will offering. It was a grateful acknowledgment of the goodness of God to them in the mercies of these corn-harvests now finished, and therefore must be according as God had blessed them. Where God sows plentifully he expects to reap accordingly. (2.) They must rejoice before God, Deu 16:11. Holy joy is the heart and soul of thankful praises, which are as the language and expression of holy joy. They must rejoice in their receivings from God, and in their returns of service and sacrifice to him; our duty must be our delight as well as our enjoyments. They must have their very servants to rejoice with them, \"for remember (Deu 16:12) that thou wast a bond-man, and wouldest have been very thankful if thy taskmasters would have given thee some time and cause for rejoicing; and thy God did bring thee out to keep a feast with gladness; therefore be pleasant with thy servants, and make them easy.\" And, it should seem, those general words, thou shalt observe and do these statutes, are added here for a particular reason, because this feast was kept in remembrance of the giving of the law upon Mount Sinai, fifty days after they came out of Egypt; now the best way of expressing our thankfulness to God for his favour to us in giving us his law is to observe and do according to the precepts of it.\nIII. They must keep the feast of tabernacles, Deu 16:13-15. Here is no repetition of the law concerning the sacrifices that were to be offered in great abundance at this feast (which we had at large, Num 29:12, etc.), because the care of these belonged to the priests and Levites, who had not so much need of a repetition as the people had, and because the spiritual part of the service, which consisted in holy joy, was most pleasing to God, and was to be the perpetual duty of a gospel conversation, of which this feast was typical. Observe what stress is laid upon it here: Thou shalt rejoice in thy feast (Deu 16:14), and, because the Lord shall bless thee, thou shalt surely rejoice, Deu 16:15. Note, 1. It is the will of God that his people should be a cheerful people. If those that were under the law must rejoice before God, much more must we that are under the grace of the gospel, which makes it our duty, not only as here to rejoice in our feasts, but to rejoice evermore, to rejoice in the Lord always. 2. When we rejoice in God ourselves we should do what we can to assist others also to rejoice in him, by comforting the mourners and supplying the necessitous, that even the stranger, the fatherless, and the widow may rejoice with us. See Job 29:13. 3. We must rejoice in God, not only because of what we have received and are receiving from him daily, but because of what he has promised, and we expect to receive yet further from him: because he shall bless thee, therefore thou shalt rejoice. Those that make God their joy may rejoice in hope, for he is faithful that has promised.\nIV. The laws concerning the three solemn feasts are summed up (Deu 16:16, Deu 16:17), as often before, Exo 23:16, Exo 23:17; Exo 34:23. The general commands concerning them are, 1. That all the males must then make their personal appearance before God, that by their frequent meeting to worship God, at the same place, and by the same rule, they might be kept faithful and constant to that holy religion which was established among them. 2. That none must appear before God empty, but every man must bring some offering or other, in token of a dependence upon God and gratitude to him. And God was not unreasonable in his demands; let every man but give as he was able, and no more was expected. The same is still the rule of charity, Co1 16:2. Those that give to their power shall be accepted, but those that give beyond their power are accounted worthy of double honour (Co2 8:3), as the poor widow that gave all she had, Luk 21:4.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "Exodus 12:14",
+      "note_ref": "TYN/2/12/14",
+      "cites": [
+        "Exodus 12:15"
+      ],
+      "text": "12:14 The Jewish people still commemorate Passover, since it was instituted as a law for all time."
+    },
+    {
+      "src": "TYN",
+      "ref": "Exodus 12:15",
+      "note_ref": "TYN/2/12/15",
+      "cites": [
+        "Exodus 12:15"
+      ],
+      "text": "12:15 without yeast: Israel needed unleavened bread for traveling (see 12:34, 39), which the festival commemorated. Later, yeast was seen as an image of sin, probably because it is an agent of fermentation (“Beware of the yeast of the Pharisees,” Matt 16:6). • cut off from the community: This means either death or expulsion from the community."
+    },
+    {
+      "src": "TYN",
+      "ref": "Exodus 13:5",
+      "note_ref": "TYN/2/13/5",
+      "cites": [
+        "Exodus 13:6-7"
+      ],
+      "text": "13:5 A land flowing with milk and honey refers to a land that was agriculturally rich, where there was pasturage for cattle and crops with blooms from which bees could make honey."
+    },
+    {
+      "src": "TYN",
+      "ref": "Exodus 13:9",
+      "note_ref": "TYN/2/13/9",
+      "cites": [
+        "Exodus 13:6-7"
+      ],
+      "text": "13:9 The annual celebration of the Passover was a visible sign to identify oneself as the Lord’s possession. It was a mark of his ownership, the physical reinforcement of a spiritual reality. • Let it remind you always to recite this teaching of the Lord: The second part of the verse may be interpreted either as a statement to be recited (as in the NLT text) or simply as a description of the Lord’s work."
+    },
+    {
+      "src": "TYN",
+      "ref": "Exodus 23:14",
+      "note_ref": "TYN/2/23/14",
+      "cites": [
+        "Exodus 23:15"
+      ],
+      "text": "23:14-17 God’s command was that every man in Israel must appear before . . . the Lord (23:17), that is, at the Tabernacle, three times each year. While all the people were camped around the Tabernacle in the wilderness, this requirement did not create any problems. Later, when the people were dispersed throughout the land at a distance from the Tabernacle (later the Temple), it was more difficult. The stipulation seems to have been intended to keep the people from building local worship centers, which would splinter them as a people and allow for pagan influences on the worship of Yahweh. Sadly, these stipulations were not carefully carried out (see, e.g., 2 Kgs 23:21-23)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Exodus 23:15",
+      "note_ref": "TYN/2/23/15",
+      "cites": [
+        "Exodus 23:15"
+      ],
+      "text": "23:15 appointed time in early spring, in the month of Abib: See 13:4-5; Lev 23:5-8; Deut 16:1-8."
+    },
+    {
+      "src": "TYN",
+      "ref": "Exodus 23:16",
+      "note_ref": "TYN/2/23/16",
+      "cites": [
+        "Exodus 23:15"
+      ],
+      "text": "23:16 The Festival of Harvest was celebrated seven weeks after Passover, around the end of the barley harvest and the beginning of the wheat harvest (mid-May to mid-June). In postbiblical Judaism, this festival commemorated the giving of the Sinai covenant, which was calculated to have occurred fifty days after the first Passover in Egypt (see Lev 23:15-21; Deut 16:9-12). • The Festival of the Final Harvest was celebrated on the fifteenth day of the seventh month of the Hebrew calendar (mid-September to mid-October), after the final harvest of grapes was complete. This festival commemorated the wilderness wanderings when God provided for his people."
+    },
+    {
+      "src": "TYN",
+      "ref": "Leviticus 23:5",
+      "note_ref": "TYN/3/23/5",
+      "cites": [
+        "Leviticus 23:6"
+      ],
+      "text": "23:5-8 Passover . . . Unleavened Bread: These feasts were instituted on the eve of the exodus from Egypt (see Exod 12:1-28). Passover was the first of three great festivals (Deut 16:16), followed by the Festival of Harvest (Lev 23:15-21) and the Festival of Shelters (23:34-43).\n23:5 Passover began at sundown on the fourteenth day of the first month, as the new day was beginning (see study note on 11:24-25). The Passover feast included a roast lamb, bitter salad greens, and bread made without yeast (Exod 12:8), all representing Israel’s liberation from Egyptian bondage. • The first month marked the beginning of the Jewish calendar as late as Ezra 6:19. The month’s earliest name, Abib (“spring, fresh grain”; Exod 13:4; 23:15; 34:18; Deut 16:1), was partially replaced by the name Nisan after the Babylonian exile (Neh 2:1; Esth 3:7)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Leviticus 23:6",
+      "note_ref": "TYN/3/23/6",
+      "cites": [
+        "Leviticus 23:6"
+      ],
+      "text": "23:6 Following Passover was the Festival of Unleavened Bread, during which Israel ate bread made without yeast (see study note on 2:11) to remember the Egyptian slavery that it represented and the haste with which they departed Egypt (Deut 16:3)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Deuteronomy 16:1",
+      "note_ref": "TYN/5/16/1",
+      "cites": [
+        "Deuteronomy 16:3"
+      ],
+      "text": "16:1-8 The Passover (Hebrew pesakh) was the festival marking Israel’s deliverance from the tenth plague and from bondage in Egypt (see Exod 11–12; Lev 23:5-8). • The Exodus was such a significant event in Israel’s history that the month of Abib, when the Exodus took place, became the beginning of Israel’s annual calendar (see Exod 12:2)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Deuteronomy 16:2",
+      "note_ref": "TYN/5/16/2",
+      "cites": [
+        "Deuteronomy 16:3"
+      ],
+      "text": "16:2 the place . . . for his name to be honored: The Lord’s name represented the Lord himself. When he placed his name in the Tabernacle or Temple, he was effectively taking up residence there (see 12:5, 18)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Deuteronomy 16:3",
+      "note_ref": "TYN/5/16/3",
+      "cites": [
+        "Deuteronomy 16:8",
+        "Deuteronomy 16:3"
+      ],
+      "text": "16:3 Although yeast frequently symbolizes corruption (Lev 6:14-17; Matt 16:11-12), it was avoided at the original Passover because the Israelites had no time to wait for yeast bread to rise (see Exod 12:10-14). The elements of the yearly Passover celebration reminded the Israelites of what God had done for them.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "Deuteronomy 16:10",
+      "note_ref": "TYN/5/16/10",
+      "cites": [
+        "Deuteronomy 16:8"
+      ],
+      "text": "16:10 The Festival of Harvest took place seven weeks after Passover to celebrate the wheat harvest (Exod 34:22; Lev 23:15-22)."
+    },
+    {
+      "src": "GNV",
+      "ref": "Exodus 12:14",
+      "note_ref": "GNV/2/12/14",
+      "cites": [
+        "Exodus 12:15"
+      ],
+      "text": "That is, until Christ’s coming: for then ceremonies had an end.\nOf the benefit received for your deliverance."
+    },
+    {
+      "src": "GNV",
+      "ref": "Exodus 12:16",
+      "note_ref": "GNV/2/12/16",
+      "cites": [
+        "Exodus 12:15"
+      ],
+      "text": "Or, calling together of the people to serve God."
+    },
+    {
+      "src": "GNV",
+      "ref": "Exodus 13:4",
+      "note_ref": "GNV/2/13/4",
+      "cites": [
+        "Exodus 13:6-7"
+      ],
+      "text": "Containing part of March and part of April, when corn began to ripe in that country."
+    },
+    {
+      "src": "GNV",
+      "ref": "Exodus 13:6",
+      "note_ref": "GNV/2/13/6",
+      "cites": [
+        "Exodus 13:6-7"
+      ],
+      "text": "Both the seventh and the first day were holy, as Exod. 12:16."
+    },
+    {
+      "src": "GNV",
+      "ref": "Exodus 13:8",
+      "note_ref": "GNV/2/13/8",
+      "cites": [
+        "Exodus 13:6-7"
+      ],
+      "text": "When thou dost celebrate the feast of unleavened bread."
+    },
+    {
+      "src": "GNV",
+      "ref": "Exodus 13:9",
+      "note_ref": "GNV/2/13/9",
+      "cites": [
+        "Exodus 13:6-7"
+      ],
+      "text": "Thou shalt have continual remembrance thereof, as thou wouldest of a thing that is in thine hand, or before thine eyes."
+    },
+    {
+      "src": "GNV",
+      "ref": "Exodus 23:13",
+      "note_ref": "GNV/2/23/13",
+      "cites": [
+        "Exodus 23:15"
+      ],
+      "text": "Neither by swearing by them nor speaking of them, Ps. 16:4; Eph. 5:3."
+    },
+    {
+      "src": "GNV",
+      "ref": "Exodus 23:15",
+      "note_ref": "GNV/2/23/15",
+      "cites": [
+        "Exodus 23:15"
+      ],
+      "text": "That is, Easter, in remembrance that the Angel passed over and spared the Israelites, when he slew the firstborn of the Egyptians."
+    },
+    {
+      "src": "GNV",
+      "ref": "Exodus 23:16",
+      "note_ref": "GNV/2/23/16",
+      "cites": [
+        "Exodus 23:15"
+      ],
+      "text": "This is the feast of Tabernacles, signifying that they dwelled 40 years under the tents or the Tabernacles in wilderness.\nWhich is Whitsuntide, in token that the Law was given 50 days after they departed from Egypt."
+    },
+    {
+      "src": "GNV",
+      "ref": "Leviticus 23:4",
+      "note_ref": "GNV/3/23/4",
+      "cites": [
+        "Leviticus 23:6"
+      ],
+      "text": "For the Sabbath was kept every week, and these others were kept but once every year."
+    },
+    {
+      "src": "GNV",
+      "ref": "Leviticus 23:7",
+      "note_ref": "GNV/3/23/7",
+      "cites": [
+        "Leviticus 23:6"
+      ],
+      "text": "Or, bodily labor, save about that which one must eat, Exod. 22:16."
+    },
+    {
+      "src": "GNV",
+      "ref": "Leviticus 23:8",
+      "note_ref": "GNV/3/23/8",
+      "cites": [
+        "Leviticus 23:6"
+      ],
+      "text": "The first day of the feast and the seventh were kept holy: in the rest they might work, except any feast were intermeddled, as the feast of unleavened bread, the fifteenth day, and the feast of sheaves the sixteenth day."
+    },
+    {
+      "src": "GNV",
+      "ref": "Deuteronomy 16:1",
+      "note_ref": "GNV/5/16/1",
+      "cites": [
+        "Deuteronomy 16:3"
+      ],
+      "text": "Read Exod. 13:4."
+    },
+    {
+      "src": "GNV",
+      "ref": "Deuteronomy 16:2",
+      "note_ref": "GNV/5/16/2",
+      "cites": [
+        "Deuteronomy 16:3"
+      ],
+      "text": "Thou shalt eat the Easter lamb."
+    },
+    {
+      "src": "GNV",
+      "ref": "Deuteronomy 16:3",
+      "note_ref": "GNV/5/16/3",
+      "cites": [
+        "Deuteronomy 16:3"
+      ],
+      "text": "Which signified that affliction, which thou hadst in Egypt."
+    },
+    {
+      "src": "GNV",
+      "ref": "Deuteronomy 16:9",
+      "note_ref": "GNV/5/16/9",
+      "cites": [
+        "Deuteronomy 16:8"
+      ],
+      "text": "Beginning at the next morning after the Passover, Lev. 23:15; Exod. 13:4."
+    }
+  ]
+}

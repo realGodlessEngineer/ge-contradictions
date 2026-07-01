@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 227,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators harmonize by distinguishing the price required (100) from the price David actually paid (200), with Clarke instead arguing the original text read 100 throughout.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, who lists the passage in the Skeptic's Annotated Bible, presses the two figures as a self-disagreement of the text, though he grants David may simply have paid twice the asking price.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "2 Samuel 3:14",
+      "excerpt_text": "he mentions but one hundred, though he gave two hundred as her dowry, no more being required than one hundred; see Sa1 18:25.",
+      "full_note_ref": "GILL/10/3/14",
+      "on_tension_rationale": "Directly reconciles 200 (1 Sam 18:27) with 100 (2 Sam 3:14): David paid 200 but cites the 100 that was the actual required price.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Samuel 18:27",
+      "excerpt_text": "The number was doubled, partly to show his respect and attachment to the princess, and partly to oblige Saul to the fulfilment of his pledge.",
+      "full_note_ref": "JFB/9/18/27",
+      "on_tension_rationale": "Explains the 200 as a deliberate doubling of the 100 required, so the two numbers reflect required vs. delivered, not a contradiction.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "1 Samuel 18:27",
+      "excerpt_text": "The Septuagint has only one hundred men. Saul covenanted with David for a hundred; and David himself says, Sa2 3:14, that he espoused Michal for a hundred: hence it is likely that one hundred is the true reading.",
+      "full_note_ref": "CLARKE/9/18/27",
+      "on_tension_rationale": "Text-critical reconciliation: the LXX reads 100 and agrees with 2 Sam 3:14, so the 200 in the MT is treated as a scribal corruption of an originally consistent 100.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on 2 Samuel 3:14",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats the passage directly, harmonizing the figures: David paid two hundred as the dowry but cites the one hundred Saul actually required."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No dedicated page on an allowlisted apologetics domain treating this specific 100-vs-200 discrepancy could be verified; link omitted rather than guessed."
+      }
+    }
+  }
+}

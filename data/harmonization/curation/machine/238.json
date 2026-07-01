@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 238,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders limit \"all his house\" to the kin and courtiers present at Gilboa, noting Chronicles itself names survivors elsewhere.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the plain wording: Chronicles says Saul's whole house died together, yet Samuel keeps producing living sons and grandsons of Saul.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Did Saul's family die with him?\" (skepticsannotatedbible.com/contra/saul_fam.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Did Saul's family die with him?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Chronicles 10:6",
+      "excerpt_text": "Saul died, and his three sons, and all his house—his sons and courtiers who were there engaged in the battle. But it appears that Ish-bosheth and Mephibosheth were kept at Gibeah on account of their youth.",
+      "full_note_ref": "JFB/13/10/6",
+      "on_tension_rationale": "Directly restricts the scope of 'all his house' to those present at Gilboa and names the surviving sons (Ish-bosheth, Mephibosheth) who reappear in 2 Samuel — the exact harmonization for this row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 1 Chronicles 10:6",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Treats this passage directly: reads 'all his house' as those present at the battle and notes Ish-bosheth and Mephibosheth were kept at Gibeah and survived. Row-surfaced harmonizer used because Haley's coverage of this specific subtotal could not be confirmed."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/1_Chronicles_10.6.php",
+        "domain": "defendinginerrancy.com",
+        "title": "1 Chronicles 10:6 — Did all of Saul's family die with him or not?",
+        "note": "Live, on-topic apologetic page; harmonizes 'all his house' as those who followed Saul to war, citing Ishbosheth's and Mephibosheth's survival."
+      }
+    }
+  }
+}

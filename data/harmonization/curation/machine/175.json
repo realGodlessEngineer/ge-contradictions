@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 175,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read “face to face” as the directness of the speaking, not a visible form — so 5:4 and 4:12 describe one event without conflict.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the plainest reading: 4:12 says they saw no form at all, yet 5:4 says God talked with them face to face — the same author cannot have it both ways.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (“Did the Israelites see God face to face on Mount Horeb?” / “Can God be seen?”)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); skepticsannotatedbible.com"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Deuteronomy 5:4",
+      "excerpt_text": "not in a visible and corporeal form, of which there was no trace (Deu 4:12, Deu 4:15), but freely, familiarly, and in such a manner that no doubt could be entertained of His presence.",
+      "full_note_ref": "JFB/5/5/4",
+      "on_tension_rationale": "Directly reconciles the two verses: reads 5:4 “face to face” as familiar/direct speech, not visual perception, and cites 4:12/4:15 as proof that no form was seen — the exact tension of this contradiction.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Deuteronomy 4:12 and 5:4",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D harmonize this exact pair on the passage: at 5:4 they argue “face to face” (בּפנים פּנים) “simply denotes the directness with which Jehovah spoke to the people,” not a visible form, and at 4:12 they reconcile “Ye heard the sound of the words, but ye did not see a shape” with the texts denying any sight of God's form."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/seen-God.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Has anyone ever seen God?",
+        "note": "live apologetic treatment distinguishing “face to face” communication from seeing God's form/glory"
+      }
+    }
+  }
+}

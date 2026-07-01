@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 45,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Genesis 8:21 as a specific oath never to repeat a universal flood-curse, leaving room for limited, this-worldly judgments and reading the later \"earth\" as a particular land.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The Skeptic's Annotated Bible (Steve Wells) presses the row directly, setting God's sworn \"I will not again curse the ground\" against the later curse that \"devoured the earth\" and the threat to \"smite the earth with a curse.\"",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Will God curse the earth?\" (skepticsannotatedbible.com/contra/curse_earth.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (print ed. 2013; web)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Genesis 8:20",
+      "excerpt_text": "neither will I again smite any more everything living, as I have done; this hinders not but that there might be, as has been since, partial calamities, or particular judgments on individual persons, towns, and cities, as those of Sodom and Gomorrah, or partial inundations, but not a general deluge, or an universal destruction of the world and creatures in it …",
+      "full_note_ref": "GILL/1/8/20",
+      "on_tension_rationale": "Distinguishes the promise's scope: God forswears only universal destruction, not particular judgments/curses — the core harmonizing move against Isaiah/Malachi.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Genesis 8:21",
+      "excerpt_text": "there shall not be another deluge to destroy the whole earth … God has other means of destruction; and the next time he visits by a general judgment, Fire is to be the agent.",
+      "full_note_ref": "CLARKE/1/8/21",
+      "on_tension_rationale": "Reads the Genesis oath as a promise against a second flood specifically, leaving other forms of judgment/curse open — directly relieves the tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Malachi 4:6",
+      "excerpt_text": "It proved so to guilty Jerusalem and the \"earth,\" that is, the land of Judea when it rejected Messiah at His first advent …",
+      "full_note_ref": "JFB/39/4/6",
+      "on_tension_rationale": "Reads Malachi's threatened \"earth\" as the land of Judea, not the whole globe Genesis 8:21 covers — the scope-of-'earth' harmonization.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Malachi 4:6",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, resolving the tension by limiting Malachi's threatened \"earth\" to \"only that land, and the people of it... to whom the law of Moses was given,\" not \"the whole earth\" Genesis 8:21 covers. Used in place of Haley, whose coverage of this specific pair could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) was found that engages this specific Genesis 8:21-vs-Isaiah 24/Malachi 4:6 pairing; omitted rather than guessed."
+      }
+    }
+  }
+}

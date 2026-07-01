@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 340,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The PD commentators harmonize by time-frame: the wicked do prosper now, but God reserves their reckoning for the end, so both observations stand.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman presses the objection that Scripture's wisdom writers (Job, Ecclesiastes) simply observe that the wicked prosper, flatly against the texts asserting that evil destroys them — answers he reads as genuinely contradictory, not staged.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "God's Problem: How the Bible Fails to Answer Our Most Important Question—Why We Suffer",
+        "year": "2008",
+        "attribution": "Bart D. Ehrman, God's Problem (HarperOne, 2008)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Job 12:6",
+      "excerpt_text": "This principle Job here opposes, and maintains that God, in disposing men's outward affairs, acts as a sovereign, reserving the exact distribution of rewards and punishments for the future state.",
+      "full_note_ref": "MHC/18/12/6",
+      "on_tension_rationale": "Directly resolves the tension: concedes the wicked prosper now (Job 12:6) but assigns the just outcome (Ps 34:21) to a 'future state' — the eschatological harmonization.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Psalm 34:21",
+      "excerpt_text": "The godly might suffer, but the Lord will reward them in the end. Similarly, the wicked might prosper for a time, but ultimately they will perish (1:6; 34:15-16).",
+      "full_note_ref": "TYN/19/34/19",
+      "on_tension_rationale": "Names both poles explicitly ('prosper for a time' vs Ps 34:21 'evil shall slay the wicked') and reconciles them by 'in the end'/'ultimately'.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Jeremiah 12:1",
+      "excerpt_text": "to whom God for a while giveth prosperity, that afterward they should the more feel his heavy judgment when they lack their riches which were a sign of his mercy.",
+      "full_note_ref": "GNV/24/12/3",
+      "on_tension_rationale": "Same time-frame harmonization applied to Jeremiah 12:1: prosperity is granted 'for a while' precisely so 'heavy judgment' follows, reconciling the prospering-wicked with their destruction.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (Andover: W. F. Draper, 1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley's harmonizing handbook treats the prosperity of the wicked versus the affliction of the righteous within the standard 'present prosperity, final judgment' framework that the PD commentators apply here."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/why-do-the-wicked-prosper.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why do the wicked prosper?",
+        "note": "Live apologetic treatment citing Jeremiah 12:1-2, Job 21:7, and Psalm 73, arguing the wicked's prosperity is temporary and their destruction ultimate."
+      }
+    }
+  }
+}

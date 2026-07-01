@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 5,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The strongest defense denies that Genesis 1:20 ever sourced the birds from water — the Hebrew is imperative, leaving the element unstated, so nothing conflicts with 2:19.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharpest objection comes from J. W. Colenso, who reads Genesis 1 and 2 as two separate sources (Elohist and Jehovist) whose creation reports cannot be harmonized into one consistent order or origin for the creatures.",
+      "skeptic": {
+        "name": "J. W. Colenso",
+        "work": "The Pentateuch and Book of Joshua Critically Examined",
+        "year": "1862-1879",
+        "attribution": "J. W. Colenso (d. 1883), The Pentateuch and Book of Joshua Critically Examined (1862-79)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 1:20",
+      "excerpt_text": "Earlier translators, on the contrary, have rendered the latter as a relative clause, after the πετεινὰ πετόμενα of the lxx, \"and with birds that fly;\" thus making the birds to spring out of the water, in opposition to Gen 2:19. Even with regard to the element out of which the water animals were created the text is silent …",
+      "full_note_ref": "KD/1/1/20",
+      "on_tension_rationale": "K&D directly names the Gen 2:19 conflict and argues it arises only from a faulty relative-clause rendering of 1:20; the Hebrew imperative leaves the element unstated, so birds are not said to come from water. This is the row's strongest verbatim harmonization of the exact water-vs-ground tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Genesis 1:20",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly: argues the Hebrew of Gen 1:20 does not make birds spring from the water and is silent on the element, removing the apparent conflict with Gen 2:19."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/two-Creation-accounts.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why are there two different Creation accounts in Genesis chapters 1-2?",
+        "note": "Live apologetic treatment addressing Gen 2:19 and the 'had formed' pluperfect harmonization."
+      }
+    }
+  }
+}

@@ -1,0 +1,85 @@
+{
+  "contradiction_id": 260,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators consistently distinguish two separate transactions: Kings records what Solomon gave Hiram's royal household annually, while Chronicles records the separate rations promised to the Lebanese timber workers.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Dennis McKinsey (Biblical Errancy) pressed this as a genuine discrepancy, arguing that the commodities, quantities, and stated recipients differ irreconcilably between the two accounts and that the two-transaction harmonization is an ad hoc invention unsupported by either text.",
+      "skeptic": {
+        "name": "Dennis McKinsey",
+        "work": "Biblical Errancy",
+        "year": "1983-2000",
+        "attribution": "Dennis McKinsey, Biblical Errancy newsletter (1983–2000)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 260,
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "1 Kings 5:11",
+      "excerpt_text": "food to his household--This was an annual supply for the palace, different from that mentioned in Ch2 2:10, which was for the workmen in the forests.",
+      "full_note_ref": "JFB/11/5/11",
+      "license_code": "PD",
+      "on_tension_rationale": "Directly states the two-transaction resolution: 1 Kings 5:11 is for Hiram's palace household; 2 Chr 2:10 is for the Lebanon timber workers — two distinct payments, not variant accounts of the same payment.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 260,
+      "pole": "reconcile",
+      "source_code": "KD",
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "verse_ref": "1 Kings 5:1",
+      "excerpt_text": "These two accounts are so clear, that Jac. Capp., Gramt., Mov., Thenius, and Bertheau, who have been led by critical prejudices to confound them with one another, and therefore to attempt to emend the one from the other, are left quite alone. For the circumstance that the quantity of wheat, which Solomon supplied to Hiram for his court, was just the same as that which he gave to the Sidonian workmen, does not warrant our identifying the two accounts.",
+      "full_note_ref": "KD/11/5/1",
+      "license_code": "PD",
+      "on_tension_rationale": "Directly addresses the contradiction claim: argues the two-transaction reading is so plain that critics who conflate the passages are rejecting an obvious distinction, noting the coincidence of equal wheat quantities does not make them the same payment.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 260,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "1 Kings 5:11",
+      "excerpt_text": "here the writer relates what was given to Hiram for his own family, there what was given to the workmen, where several other things are mentioned besides these",
+      "full_note_ref": "GILL/11/5/11",
+      "license_code": "PD",
+      "on_tension_rationale": "Concisely states the two-recipient distinction from a third independent voice: Kings = Hiram's family; Chronicles = the workmen (who also received barley and wine not mentioned in Kings).",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats the Solomon-Hiram provisions under his section on historical discrepancies, arguing that Kings and Chronicles describe complementary halves of Solomon's total payment arrangement — the royal household stipend and the workers' rations — rather than rival versions of a single transaction."
+      },
+      "link": null
+    }
+  }
+}

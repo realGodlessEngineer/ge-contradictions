@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 31,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators answer that \"son of God\" is not one title but several senses — Christ's by nature, Adam's by creation, believers' by adoption — so the uses do not compete.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells, who catalogues the title's incompatible uses — Jesus the \"only begotten,\" yet Adam and Spirit-led believers also \"sons of God\" — as a single inconsistency.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How many sons does God have?\"",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), \"How many sons does God have?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Romans 8:14",
+      "excerpt_text": "they are the sons of God: not in so high a sense as Christ is; nor in so low a sense as Adam was, and angels are; much less in such sense as wicked magistrates be; nor merely as professors of religion in common; but by adoption, not national, such as that of the Jews, but special …",
+      "full_note_ref": "GILL/45/8/14",
+      "on_tension_rationale": "Directly resolves the whole tension in one sentence: distinguishes believers' sonship from Christ's ('not in so high a sense'), from Adam's ('not in so low a sense'), classing them as sons 'by adoption' — exactly the three overlapping uses the question pits against each other.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Luke 3:38",
+      "excerpt_text": "Adam was the son of God: Adam had no earthly father since God created him. … Adam, the first son of God, failed when tested, but Jesus, the Son of God in the fullest sense, successfully resisted temptation.",
+      "full_note_ref": "TYN/42/3/38",
+      "on_tension_rationale": "Distinguishes Adam's sonship (by creation, no earthly father) from Jesus' sonship 'in the fullest sense,' directly addressing how Luke 3:38 and the 'only begotten' texts can both stand. Two sentences from the same note joined by a sense-preserving ellipsis.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Romans 8:14",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, expressly distinguishing the senses in which Christ, Adam, and believers are each called 'son of God' — the harmonizing answer to the multiple-uses objection."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/only-begotten-son.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does it mean that Jesus is God's only begotten son?",
+        "note": "Live apologetic treatment distinguishing Jesus' unique (monogenes) sonship from believers' sonship by adoption."
+      }
+    }
+  }
+}

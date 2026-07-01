@@ -1,0 +1,42 @@
+{
+  "contradiction_id": 92,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "empty",
+      "connective": null,
+      "skeptic": null,
+      "empty_note": "No public-domain commentary note was gathered for this row (the lean input carried zero notes and no voices), so no verbatim reconcile excerpt could be drawn. The standard harmonization, found in the PD commentators, makes up the thirty-third by reckoning Jacob himself into the Leah subtotal (6 sons + 23 grandsons + 2 great-grandsons + Dinah = 32, +Jacob = 33); it is anchored below as pd_work rather than excerpted, since the spec permits excerpt_text only from a gathered note's verbatim text."
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, whose Skeptic's Annotated Bible is the upstream source for this very question, presses the plain arithmetic: the names listed in Genesis 46:9-15a total only thirty-two, yet verse 15b states thirty-three.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How many descendants of Jacob and Leah went to Egypt with Jacob?\" (skepticsannotatedbible.com/contra/jacob-leah.html)",
+        "year": "1999",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (first ed. 1999; online), contradiction page \"How many descendants of Jacob and Leah went to Egypt with Jacob?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, An Exposition of the Old and New Testament, on Genesis 46:15",
+        "author": "John Gill",
+        "year": "1748",
+        "note": "Gill addresses the very gap pressed by this row: the named descendants fall short of thirty-three, so he reckons Jacob himself into the Leah subtotal — \"it seems best therefore to take Jacob himself into the account ... which will make thirty three\" — excluding Er and Onan, who died in Canaan. A passage-specific harmonizer surfaced for this exact subtotal; used in place of Haley, whose coverage of this particular count could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted (gotquestions.org / carm.org / defendinginerrancy.com) page was found that engages this specific Genesis 46:15 thirty-two-vs-thirty-three Leah subtotal; the allowlisted pages located treat only the separate 70-vs-75 grand-total crux (Gen 46:27 / Exod 1:5 / Acts 7:14), so the optional link is omitted rather than co-opted."
+      }
+    }
+  }
+}

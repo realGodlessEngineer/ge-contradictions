@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 143,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators harmonize by distinguishing senses of \"judge\": the prohibition targets censorious, hypocritical, private condemnation, while civil and corrective righteous judgment remains commanded.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, who catalogs this in the Skeptic's Annotated Bible, presses that the texts issue flatly opposing commandments on whether believers should judge others at all.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013; \"Should we judge others?\" contradiction list)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Luke 6:37",
+      "excerpt_text": "He speaketh not here of civil judgments, and therefore by the word, forgive, is meant that good nature, which the Christians use in suffering and pardoning wrongs.",
+      "full_note_ref": "GNV/42/6/37",
+      "on_tension_rationale": "Directly resolves the tension by restricting Christ's \"judge not\" to a sense other than civil/legal judging, which Lev 19:15 and 1 Cor command.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Matthew 7:1",
+      "excerpt_text": "There are those whose office it is to judge - magistrates and ministers. Christ, though he made not himself a Judge, yet came not to unmake them, for by him princes decree justice; but this is directed to private persons, to his disciples, who shall hereafter sit on thrones judging, but not now.",
+      "full_note_ref": "MHC/40/7/1",
+      "on_tension_rationale": "Distinguishes the office of judging (left intact, covering 1 Cor 5-6) from the private censoriousness Jesus forbids, dissolving the apparent conflict.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "John 7:24",
+      "excerpt_text": "Judge not, &c.—that is, Rise above the letter into the spirit of the law.",
+      "full_note_ref": "JFB/43/7/24",
+      "on_tension_rationale": "Reads John 7:24's \"judge righteous judgment\" as the corrective complement to \"judge not\" - both aim at the law's spirit, not opposite rules.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Matthew 7:1",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this passage directly, harmonizing it by distinguishing the magistrate's/minister's office of judging from the private, censorious judging Christ prohibits."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/do-not-judge.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does the Bible mean when it says, \"Do not judge\"?",
+        "note": "Live apologetic treatment reconciling Matthew 7:1 with the call to righteous judgment (John 7:24; 1 Corinthians)."
+      }
+    }
+  }
+}

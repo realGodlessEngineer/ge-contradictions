@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 427,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Classical commentators confine the 'unpardonable sin' to a specific, deliberate post-Pentecost rejection of the Spirit, leaving the universal pardon texts in Acts and the epistles fully intact for all other sinners.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman notes that the unqualified 'all sins forgiven' promises in Acts and the Pauline epistles sit in unresolved tension with Jesus's explicit exception for blasphemy against the Holy Spirit.",
+      "skeptic": {
+        "name": "Bart Ehrman",
+        "work": "Jesus, Interrupted",
+        "year": "2009",
+        "attribution": "Bart Ehrman, Jesus, Interrupted (HarperOne, 2009)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 427,
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Matthew 12:31",
+      "excerpt_text": "all sin--whether in its ordinary or its more aggravated forms--shall find forgiveness with God…There is no sin whatever, it seems, of which it may be said.",
+      "full_note_ref": "JFB/40/12/31",
+      "license_code": "PD",
+      "on_tension_rationale": "JFB explicitly addresses the apparent scope conflict: the universal pardon in v. 31a is the governing principle; the exception in v. 32 must be understood within it, not as canceling it.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 427,
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Matthew 12:32",
+      "excerpt_text": "It is a contrast between slandering \"the Son of man\" in His veiled condition and unfinished work--which might be done \"ignorantly, in unbelief\" (Ti1 1:13), and slandering the same blessed Person after the blaze of glory which the Holy Ghost was soon to throw around His claims, and in the full knowledge of all that. This would be to slander Him with eyes open, or to do it \"presumptuously.\"",
+      "full_note_ref": "JFB/40/12/32",
+      "license_code": "PD",
+      "on_tension_rationale": "JFB defines the unpardonable sin as a uniquely post-Pentecost, eyes-open rejection — a narrow category that leaves the epistles' universal forgiveness promises undisturbed for ordinary sinners.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats the blasphemy-against-the-Spirit passages in relation to the universal forgiveness promises, arguing that the 'unpardonable sin' refers to a settled, willful rejection of the Spirit's testimony rather than any ordinary sin, which harmonizes the exception with the broader pardon texts."
+      },
+      "link": null
+    }
+  }
+}

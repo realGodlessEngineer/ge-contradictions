@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 261,
+  "question": "How many overseers did Solomon have?",
+  "summary": "1 Kings 5:16 reports that Solomon employed 3,300 overseers over the temple workforce, while 2 Chronicles 2:18 puts the number at 3,600. The two passages describe the same administrative tier of the same building project and produce a flat numerical discrepancy of 300.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "The standard harmonization, after J. H. Michaelis, treats the two totals as the same workforce counted on different principles, so the sum-totals match.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells, cataloguing this as a numbered Kings–Chronicles discrepancy, presses the plain reading: the same tier of overseers over the same project is given as 3,300 in one account and 3,600 in the other.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); cf. skepticsannotatedbible.com, contradiction “How many overseers did Solomon have?”"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on 1 Kings 5:16",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this exact discrepancy directly, following J. H. Michaelis: the same overseers are classified differently in Kings and Chronicles, yielding identical sum-totals (3850)."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No confirmed on-topic page on an allowlisted domain (gotquestions.org/carm.org/defendinginerrancy.com); link omitted rather than guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "261#0",
+      "pole": "reconcile",
+      "source_code": "KD",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "verse_ref": "1 Kings 5:16",
+      "full_note_ref": "KD/11/5/16",
+      "excerpt_text": "The accounts in the Chronicles differ from these in a very peculiar manner, the number of overseers being given in Ch2 2:17 and 3600 … the sum-total of the overseers is the same in both accounts (3300 + 550 = 3850 in the books of Kings, and 3600 + 250 = 3850 in the Chronicles); and we must therefore follow J. H. Michaelis, an explain the differences as resulting from a different method of classification, namely, from the fact that in the Chronicles. the Canaanitish overseers are distinguished from the Israelitish (viz., 3600 Canaanites and 250 Israelites), whereas in the books of Kings the inferiores et superiores praefecti are distinguished.",
+      "on_tension_rationale": "Directly addresses the 3,300 vs 3,600 difference, harmonizing it as one workforce classified two ways so the totals (3850) match.",
+      "source_note_text": "\"Beside (לבד), i.e., without reckoning, the princes, Solomon's officers, who were over the work (i.e., the chiefs appointed by Solomon as overlookers of the work), 3300, who ruled over the people who laboured at the work.\" הנּצּבים שׂרי, as Thenius correctly observes, cannot be the chief of the overlookers, i.e., the head inspectors, as there is no allusion made to subordinate inspectors, and the number given is much too large for head inspectors. נצּבים, which is governed by שׂרי in the construct state, is to be taken as defining the substantive: principes qui praefecti erant (Vatabl.; cf. Ewald, 287, a.). Moreover, at the close of the account of the whole of Solomon's buildings (Kg1 9:23), 550 more הנּצּבים שׂרי are mentioned as presiding over the people who did the work. The accounts in the Chronicles differ from these in a very peculiar manner, the number of overseers being given in Ch2 2:17 and 3600, and in Ch2 8:10 as 250. Now, however natural it may be, with the multiplicity of errors occurring in numerical statements, to assume that these differences have arisen from copyists' errors through the confounding together of numerical letters resembling one another, this explanation is overthrown as an improbable one, by the fact that the sum-total of the overseers is the same in both accounts (3300 + 550 = 3850 in the books of Kings, and 3600 + 250 = 3850 in the Chronicles); and we must therefore follow J. H. Michaelis, an explain the differences as resulting from a different method of classification, namely, from the fact that in the Chronicles. the Canaanitish overseers are distinguished from the Israelitish (viz., 3600 Canaanites and 250 Israelites), whereas in the books of Kings the inferiores et superiores praefecti are distinguished. Consequently Solomon had 3300 inferior overseers and 550 superior (or superintendents), of whom 250 were selected from the Israelites and 300 from the Canaanites. In Ch2 2:16-17, it is expressly stated that the 3600 were taken from the גּרים, i.e., the Canaanites who were left in the land of Israel. And it is equally certain that the number given in Kg1 9:23 and Ch2 8:10 (550 and 250) simply comprises the superintendents over the whole body of builders, notwithstanding the fact that in both passages (Kg1 5:16 and Kg1 9:23) the same epithet הנּצּבים שׂרי is used. If, then, the number of overseers is given in Kg1 9:23 and 550, i.e., 300 more than in the parallel passage of the Chronicles, there can hardly be any doubt that the number 550 includes the 300, in which the number given in our chapter falls short of that in the Chronicles, and that in the 3300 of our chapter the superintendents of Canaanitish descent are not included.\n(Note: Ewald (Gesch. iii. p. 292) assumes that \"by the 550 (Kg1 9:23) we are to understand the actual superintendents, whereas the 3300 (Kg1 5:13) include inferior inspectors as well; and of the 550 superintendents, 300 were taken from the Canaanaeans, so that only 250 (Ch2 8:10) were native Hebrews;\" though he pronounces the number 3600 (Ch2 2:17) erroneous. Bertheau, on the other hand, in his notes in Ch2 8:10, has rather complicated than elucidated the relation in which the two accounts stand to one another.)"
+    }
+  ]
+}

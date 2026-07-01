@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 44,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read the two dates as two stages of one process — the surface looked dry on day one, but the muddy ground was not firm and walkable until two months later, marked even by a different Hebrew word.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells, who lists Genesis 8:13 and 8:14 as giving two different dates for when the earth dried after the flood.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"When did the earth dry after the flood?\" (skepticsannotatedbible.com/contra/dry.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (print ed. 2013; online skepticsannotatedbible.com)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Genesis 8:14",
+      "excerpt_text": "…a different word from that in the preceding verse is here used for \"dry\", this being a different kind, or, however, a greater degree of dryness than the other.",
+      "full_note_ref": "GILL/1/8/14",
+      "on_tension_rationale": "Directly resolves the two-dates tension by noting the Hebrew uses a different word in 8:14 than in 8:13, denoting a greater degree of dryness — the two verses describe distinct stages, not the same event on two dates.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 8:13",
+      "excerpt_text": "He could see that the surface of the earth was dry; but it was not till the 27th day of the second month, 57 days, therefore, after the removal of the roof, that the earth was completely dried up.",
+      "full_note_ref": "KD/1/8/13",
+      "on_tension_rationale": "Explicitly distinguishes the day-1 'surface was dry' from the day-27 'completely dried up,' framing the interval as the gap between a visibly dry surface and full drying — the harmonizing two-stages reading.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Genesis 8:13",
+      "excerpt_text": "Though Noah saw the ground dry the first day of the first month, yet God would not suffer him to go out of the ark till the twenty-seventh day of the second month.",
+      "full_note_ref": "MHC/1/8/13",
+      "on_tension_rationale": "Treats the two dates as compatible: Noah saw dry ground on day 1 (8:13) but the ground was not yet a fit habitation until day 27 (8:14), so God delayed the exit — distinct conditions, not contradictory dates.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Genesis 8:14",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact pair directly, observing that 8:14 uses a different Hebrew word for 'dry' than 8:13, denoting a greater degree of dryness — so the two dates mark two stages, not a contradiction. Used in place of Haley, whose specific coverage of this passage could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page (gotquestions.org / carm.org / defendinginerrancy.com) engaging this specific Genesis 8:13 vs 8:14 drying-date tension could be confirmed; link omitted rather than fabricated."
+      }
+    }
+  }
+}

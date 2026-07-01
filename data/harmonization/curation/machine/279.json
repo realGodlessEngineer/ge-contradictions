@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 279,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read the two threats as distinct: 1 Kings 20:42 forfeits Ahab's own life (fulfilled at Ramoth-gilead), while 21:27-29 defers the ruin of his house to his son's days because he repented.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, the Skeptic's Annotated Bible compiler who frames this row, presses that scripture gives inconsistent verdicts on Ahab — sparing him for humbling himself yet condemning him to die for releasing Ben-Hadad.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible (\"Did God bring evil upon Ahab?\", skepticsannotatedbible.com/contra/ahab.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (contra/ahab.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "1 Kings 21:27",
+      "excerpt_text": "For the Lord Himself acknowledge it to be humiliation before Him (Kg1 21:29), and said to Elijah, that because of it He would not bring the threatened calamity upon Ahab's house in his own lifetime, but only in the days of his son.",
+      "full_note_ref": "KD/11/21/27",
+      "on_tension_rationale": "Distinguishes the two judgments — the deferred one falls on Ahab's HOUSE (to his son's days) because he repented, separate from the personal threat in 20:42; this is the core both-true mechanism.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "1 Kings 20:42",
+      "excerpt_text": "This was fulfilled at the battle of Ramoth-gilead, where he was slain by the Syrians …",
+      "full_note_ref": "CLARKE/11/20/42",
+      "on_tension_rationale": "Establishes the 20:42 threat as the forfeit of Ahab's OWN life, actually fulfilled at Ramoth-gilead — the distinct object from the deferred dynastic judgment, so both stand.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "1 Kings 21:27",
+      "excerpt_text": "Because of Ahab's repentance, the Lord sent Elijah to postpone the awful sentence against Ahab and instead impose it on his equally wicked sons …",
+      "full_note_ref": "TYN/11/21/27",
+      "on_tension_rationale": "Modern voice stating the deferral mechanism plainly: repentance postpones the sentence onto Ahab's sons, so sparing and condemning are sequenced, not contradictory.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on 1 Kings 21:27",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly, distinguishing the deferred judgment on Ahab's house (to his son's days, for his repentance) from the personal threat of 1 Kings 20:42."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/King-Ahab.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who was King Ahab in the Bible?",
+        "note": "Live apologetic treatment that engages both the 20:42 forfeit-of-life threat and the 21:27-29 deferral, resolving the tension via deferred dynastic judgment plus Ahab's eventual death fulfilling the threat."
+      }
+    }
+  }
+}

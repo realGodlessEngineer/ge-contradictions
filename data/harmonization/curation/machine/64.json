@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 64,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The leading harmonization restricts \"everlasting\" to the covenant of grace, not to circumcision itself, so the rite could lapse in Christ without breaking Genesis 17's promise.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharpest objection is pressed by Steven DiMattei, who argues the Priestly writer's \"eternal covenant\" of circumcision in Genesis 17 is flatly subverted by Paul, who cherry-picks the earlier uncircumcised-Abraham account to make the rite optional.",
+      "skeptic": {
+        "name": "Steven DiMattei",
+        "work": "Contradictions in the Bible (contradictionsinthebible.com), \"#31. Is the covenant of circumcision an eternal covenant OR not?\"",
+        "year": "2013",
+        "attribution": "Steven DiMattei, PhD, Contradictions in the Bible (#31, 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 17:15",
+      "excerpt_text": "Eternal duration was promised only to the covenant established by God with the seed of Abraham, which was to grow into a multitude of nations, but not to the covenant institution which God established in connection with the lineal posterity of Abraham, the twelve tribes of Israel. … So again it was only in its essence that circumcision could be a sign of the eternal covenant.",
+      "full_note_ref": "KD/1/17/15",
+      "on_tension_rationale": "Directly answers the 'everlasting command' objection: K&D restrict the eternity of the covenant to the grace-promise to the spiritual seed, denying it ever attached to the temporary institution/sign of circumcision — so the rite's abolition in Christ does not falsify Gen 17's 'everlasting covenant.'",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Genesis 17:15-21",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Argues the 'everlasting covenant' was promised only to the covenant of grace expanding to Abraham's spiritual seed, not to the temporary institution and sign of circumcision — the strongest PD answer on the row to the 'everlasting command' wording. (Haley's coverage of this exact pair could not be confirmed, so a row-surfaced harmonizing commentator keyed to the passage is used per spec.)"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/neither-circumcision-nor-uncircumcision.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does it mean that neither circumcision nor uncircumcision counts for anything (Galatians 5:6)?",
+        "note": "Live apologetic treatment: argues physical circumcision was fulfilled and internalized (circumcision of the heart) under the New Covenant rather than abolished, so Genesis 17 and Galatians 5 stand together."
+      }
+    }
+  }
+}

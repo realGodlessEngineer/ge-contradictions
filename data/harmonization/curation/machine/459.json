@@ -1,0 +1,90 @@
+{
+  "contradiction_id": 459,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read the stop at Annas as a brief preliminary on the way to Caiaphas, so John's extra hearing and the Synoptics' destination describe one continuous transfer.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells sets John (Jesus taken first to Annas) against Matthew, Mark, and Luke (taken to Caiaphas / the high priest) as conflicting answers to whom Jesus was brought first.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 459,
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "verse_ref": "John 18:13",
+      "excerpt_text": "Having seized him, they led him away to Annas first, before they brought him to the court that was sat, expecting him, in the house of Caiaphas… Annas did not long detain them, being as willing as any of them to have the prosecution pushed on, and therefore sent him bound to Caiaphas, to his house, which was appointed for the rendezvous of the sanhedrim upon this occasion",
+      "full_note_ref": "MHC/43/18/13",
+      "license_code": "PD",
+      "on_tension_rationale": "Directly harmonizes the sequence: the visit to Annas was a short preliminary stop before the prisoner was sent on to Caiaphas's house, where the sanhedrin (the Synoptics' trial) was already convened.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 459,
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "John 18:13",
+      "excerpt_text": "It is likely that Annas was chief of the Sanhedrin, and that it was to him in that office that Christ was first brought… What is related in the 24th verse, Now Annas had sent him bound to Caiaphas, comes properly in after the 13th verse.",
+      "full_note_ref": "CLARKE/43/18/13",
+      "license_code": "PD",
+      "on_tension_rationale": "Resolves the order by Annas's standing (head of the council) and by reading John 18:24 as belonging right after 18:13, so the Annas stage is momentary before the transfer to Caiaphas the Synoptics report.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 459,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "John 18:13",
+      "excerpt_text": "therefore they first lead him to him, to have his advice how to proceed, and to take him along with them to his son-in-law, where the great council was convened, and that he might use his interest and authority, in taking proper measures, in order to put Jesus to death",
+      "full_note_ref": "GILL/43/18/13",
+      "license_code": "PD",
+      "on_tension_rationale": "A distinct voice giving a motive for the extra Annas stage: it was a consultative call before proceeding to Caiaphas's house, where the council was already assembled, so John's order and the Synoptics' destination coincide.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832)",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "On John 18:13 Clarke argues Annas, as chief of the Sanhedrin, received Jesus first and that 18:24 ('Annas had sent him bound to Caiaphas') belongs right after 18:13, making the Annas stop a brief preliminary to the Caiaphas trial the Synoptics report."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Annas-and-Caiaphas.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What is the account of Annas and Caiaphas?",
+        "note": "Explains that Jesus was brought to Annas first (John 18:13) and then sent to Caiaphas (John 18:24), so John's order and the Synoptics' Caiaphas trial are complementary."
+      }
+    }
+  }
+}

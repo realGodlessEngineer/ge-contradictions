@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 470,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read each gospel as giving the essential charge — the phrase 'the king of the Jews' common to all four — Mark abbreviating to 'the sum' of a longer trilingual placard.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Thomas Paine pressed the sharpest form of the objection: that no two evangelists recite the inscription in the same words, which he took as evidence the writers were not present at the scene.",
+      "skeptic": {
+        "name": "Thomas Paine",
+        "work": "The Age of Reason, Part II",
+        "year": "1795",
+        "attribution": "Thomas Paine (d. 1809), The Age of Reason, Part II (1795)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Mark 15:24",
+      "excerpt_text": "And the superscription of his accusation,… was written; over his head, upon the cross, to which it was fastened; the sum of which was, the king of the Jews; See Gill on Mat 27:37.",
+      "full_note_ref": "GILL/41/15/24",
+      "on_tension_rationale": "Directly engages the wording difference: Gill characterizes Mark's shorter form ('the king of the Jews') as 'the sum' of the inscription, the core harmonizing move that each gospel records the essential charge rather than the full placard.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats the divergent inscriptions on the cross directly in the harmonizing tradition, arguing each evangelist gives a portion of one trilingual title."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Matthew_27.37_(cf._Mark_15.26;_Luke_23.38;_John_19.19).php",
+        "domain": "defendinginerrancy.com",
+        "title": "Matthew 27:37 (cf. Mark 15:26; Luke 23:38; John 19:19) — Why are all the Gospel accounts of the inscription on the cross different?",
+        "note": "Live apologetic treatment keyed to all four passages; argues 'the king of the Jews' is identical in all four and each records part of one fuller inscription."
+      }
+    }
+  }
+}

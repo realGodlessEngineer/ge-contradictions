@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 273,
+  "question": "Who was Abijam's mother?",
+  "summary": "1 Kings 15:2 names Abijam's mother as Maachah, daughter of Abishalom. 2 Chronicles 13:2 names her Michaiah, daughter of Uriel. The same king's mother is given two different names and two different fathers.",
+  "consensus": "genuinely_disputed",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders treat the two names as variants of one woman and resolve the two fathers as father-versus-grandfather, with Maachah a granddaughter of Absalom through Tamar and Uriel.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The critical objection is pressed by Ernst Bertheau, who argues the differing names and fathers reflect a corrupt, confused text rather than a single reconcilable genealogy.",
+    "skeptic": {
+      "name": "Ernst Bertheau",
+      "work": "Die Bücher der Chronik",
+      "year": "1873",
+      "attribution": "Ernst Bertheau (d. 1888), Die Bücher der Chronik (1873)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 1 Kings 15:2",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats this passage directly, harmonizing both the name (Maachah/Michaiah) and the father (Abishalom/Uriel) differences via the Tamar-Uriel descent."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page from an allowlisted apologetics domain could be verified for this specific passage; link omitted."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "273#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "1 Kings 15:2",
+      "full_note_ref": "JFB/11/15/2",
+      "excerpt_text": "his mother's name was Maachah—or Michaiah (Ch2 13:2), probably altered from the one to the other on her becoming queen, as was very common under a change of circumstances. She is called the daughter of Abishalom, or Absalom (Ch2 11:21), of Uriel (Ch2 13:2). Hence, it has been thought probable that Tamar, the daughter of Absalom (Sa2 14:27; Sa2 18:18), had been married to Uriel, and that Maachah was their daughter.",
+      "on_tension_rationale": "Directly harmonizes both the name difference (Maachah/Michaiah, variant on becoming queen) and the father difference (Abishalom vs Uriel, via Tamar married to Uriel).",
+      "source_note_text": "Three years reigned he--(compare Kg1 15:1 with Kg1 15:9). Parts of years are often counted in Scripture as whole years. The reign began in Jeroboam's eighteenth year, continued till the nineteenth, and ended in the course of the twentieth.\nhis mother's name was Maachah--or Michaiah (Ch2 13:2), probably altered from the one to the other on her becoming queen, as was very common under a change of circumstances. She is called the daughter of Abishalom, or Absalom (Ch2 11:21), of Uriel (Ch2 13:2). Hence, it has been thought probable that Tamar, the daughter of Absalom (Sa2 14:27; Sa2 18:18), had been married to Uriel, and that Maachah was their daughter."
+    }
+  ]
+}

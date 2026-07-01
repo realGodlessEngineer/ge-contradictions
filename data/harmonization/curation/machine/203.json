@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 203,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders keep the verse intact by reading it as a compressed double reference — Abraham's Machpelah purchase and Jacob's Shechem purchase folded into one summary.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The Skeptic's Annotated Bible presses the buyer discrepancy at face value: Joshua says Jacob bought the Shechem plot from the sons of Hamor, while Acts 7:16 names Abraham as the buyer of the same sepulchre — both cannot be the same transaction.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"Who bought the sepulchre in Shechem from the sons of Hamor?\" (skepticsannotatedbible.com/contra/jacob_bought.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (contra/jacob_bought.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Acts 7:16",
+      "excerpt_text": "Whereas the parcel of ground in Sichem, bought of the sons of Emmor, the father of Sichem, was bought by Jacob, Gen 33:19.… but what best seems to remove the difficulty is, that the words refer to both places and purchases; to the field of Machpelah bought by Abraham, and to the parcel of field is Sichem bought by Jacob, of the sons of Emmor …",
+      "full_note_ref": "GILL/44/7/16",
+      "on_tension_rationale": "Squarely names the buyer tension (Acts says Abraham bought of the sons of Hamor, but the OT plot at Shechem was bought by Jacob, Gen 33:19) and offers the strongest both-true reading — the verse compresses two distinct purchases/locations (Abraham's Machpelah + Jacob's Shechem) — keeping the text as written rather than emending 'Abraham' to 'Jacob.' Verbatim from the note; two non-adjacent on-tension spans joined by a sense-preserving ellipsis; the first span ends on a real source period, the second is truncated mid-sentence so closes with the elision marker. Gill's own source spelling 'the parcel of field is Sichem' is preserved verbatim.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Acts 7:16",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact buyer pair directly: he states the difficulty (the Shechem sepulchre said in Acts 7:16 to be bought by Abraham, when the OT plot at Shechem was bought by Jacob, Gen 33:19 / Josh 24:32) and harmonizes it as a double reference to both purchases. Used as the PD anchor because Haley's coverage of this specific Joshua 24:32 / Acts 7:16 pair could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page found on the allowlist (gotquestions.org / carm.org / defendinginerrancy.com). gotquestions.org/Shechem-in-the-Bible.html mentions Shechem topically but does not engage the Abraham-vs-Jacob buyer discrepancy; defendinginerrancy.com Acts_7.16.php and Joshua_24.32.php both 404 (Acts_7.14.php treats only the 70-vs-75 souls difficulty); no carm.org article found. The on-topic treatments (bibleref.com, hadavar.org, lavistachurchofchrist.org, forwhatsaiththescriptures.org) are all off-allowlist. Link omitted rather than use an off-topic or off-allowlist page."
+      }
+    }
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "rate_target": 0.25,
+  "seed": 1337,
+  "excerpts_total": 44,
+  "excerpts_sampled": 20,
+  "contradictions_total": 20,
+  "contradictions_with_work": 20,
+  "by_consensus": {
+    "genuinely_disputed": {
+      "total": 19,
+      "sampled": 8
+    },
+    "apparent_only": {
+      "total": 11,
+      "sampled": 5
+    },
+    "probable_harmonization": {
+      "total": 14,
+      "sampled": 7
+    }
+  },
+  "by_voice": {
+    "GILL": {
+      "total": 23,
+      "sampled": 13
+    },
+    "TYN": {
+      "total": 2,
+      "sampled": 0
+    },
+    "JFB": {
+      "total": 8,
+      "sampled": 4
+    },
+    "KD": {
+      "total": 6,
+      "sampled": 3
+    },
+    "CLARKE": {
+      "total": 3,
+      "sampled": 0
+    },
+    "MHC": {
+      "total": 2,
+      "sampled": 0
+    }
+  },
+  "by_pole": {
+    "reconcile": {
+      "total": 44,
+      "sampled": 20
+    }
+  },
+  "sampled_uids": [
+    "2#0",
+    "10#0",
+    "15#0",
+    "63#0",
+    "66#0",
+    "117#0",
+    "119#0",
+    "128#0",
+    "158#0",
+    "221#0",
+    "246#0",
+    "260#0",
+    "343#0",
+    "362#0",
+    "395#0",
+    "427#0",
+    "460#0",
+    "524#0",
+    "528#0",
+    "550#0"
+  ]
+}

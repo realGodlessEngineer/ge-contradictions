@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 184,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Moses' law as a tolerated concession that already leaned toward Jesus' standard, so the Deuteronomic permission was never a license for sin.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "E. P. Sanders, who examined this very saying, concludes against the contradiction: Moses only permitted divorce, and to forbid what Moses permitted is not to break the law.",
+      "skeptic": {
+        "name": "E. P. Sanders",
+        "work": "Jesus and Judaism",
+        "year": "1985",
+        "attribution": "E. P. Sanders, Jesus and Judaism (London: SCM Press, 1985)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Deuteronomy 24:1",
+      "excerpt_text": "Thus the second marriage of a divorced woman was placed implicite upon a par with adultery, and some approach made towards the teaching of Christ concerning marriage: \"Whosoever shall marry her that is divorced, committeth adultery\" (Mat 5:32).",
+      "full_note_ref": "KD/5/24/1",
+      "on_tension_rationale": "Directly bridges the two passages: K&D argue the Mosaic law itself already moved toward Jesus' divorce teaching, so Deut 24 does not license what Luke 16:18 condemns.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Deuteronomy 24:1-4 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly, arguing Moses tolerated divorce 'because of the hardness of the people's hearts' (Mat 19:8) and that the law placed remarriage of a divorced woman 'implicite upon a par with adultery,' an approach toward Christ's teaching."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Deuteronomy-24-divorce.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does Deuteronomy 24 teach about divorce?",
+        "note": "Live apologetic treatment of the Deut 24 remarriage permission via the hardness-of-heart concession framework."
+      }
+    }
+  }
+}

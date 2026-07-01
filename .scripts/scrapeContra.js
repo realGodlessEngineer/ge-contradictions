@@ -240,6 +240,54 @@ async function initDatabase() {
         )
     `);
 
+    // The three harmonization_* tables are baked/owned by .scripts/buildHarmonizationTables.js;
+    // declared here for documentation parity only.
+    db.run(`
+        CREATE TABLE IF NOT EXISTS harmonization_quote (
+            id INTEGER PRIMARY KEY,
+            contradiction_id INTEGER NOT NULL,
+            pole TEXT NOT NULL,
+            ord INTEGER NOT NULL,
+            text TEXT NOT NULL,
+            attr TEXT NOT NULL,
+            voice TEXT,
+            href TEXT,
+            source_kind TEXT NOT NULL,
+            source_code TEXT,
+            FOREIGN KEY (contradiction_id) REFERENCES contradictions(id)
+        )
+    `);
+
+    db.run(`
+        CREATE TABLE IF NOT EXISTS harmonization_row (
+            contradiction_id INTEGER PRIMARY KEY,
+            covered INTEGER NOT NULL DEFAULT 1,
+            reconcile_note TEXT,
+            discrepancy_note TEXT,
+            reconcile_half_line TEXT,
+            discrepancy_half_line TEXT,
+            reconcile_empty_note TEXT,
+            reconcile_empty_note_attr TEXT,
+            discrepancy_empty_note TEXT,
+            discrepancy_empty_note_attr TEXT,
+            FOREIGN KEY (contradiction_id) REFERENCES contradictions(id)
+        )
+    `);
+
+    db.run(`
+        CREATE TABLE IF NOT EXISTS harmonization_verse_pair (
+            id INTEGER PRIMARY KEY,
+            contradiction_id INTEGER NOT NULL,
+            ord INTEGER NOT NULL,
+            ref TEXT NOT NULL,
+            snippet TEXT NOT NULL,
+            FOREIGN KEY (contradiction_id) REFERENCES contradictions(id)
+        )
+    `);
+
+    db.run(`CREATE INDEX IF NOT EXISTS idx_hq_cid_pole_ord ON harmonization_quote(contradiction_id, pole, ord)`);
+    db.run(`CREATE INDEX IF NOT EXISTS idx_hvp_cid_ord ON harmonization_verse_pair(contradiction_id, ord)`);
+
     db.run(`CREATE INDEX IF NOT EXISTS idx_answers_contradiction ON answers(contradiction_id)`);
     db.run(`CREATE INDEX IF NOT EXISTS idx_references_answer ON bible_references(answer_id)`);
     db.run(`CREATE INDEX IF NOT EXISTS idx_contradictions_type ON contradictions(contradiction_type_id)`);

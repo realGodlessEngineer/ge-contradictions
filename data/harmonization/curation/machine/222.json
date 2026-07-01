@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 222,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers take Samuel's eight as the true total and read Chronicles' seven as a later list from which one son, dead young and childless, dropped out.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Sara Japhet, the leading critical commentator on Chronicles, lists this among the book's flat contradictions of Samuel: the Chronicler makes David the seventh son where Samuel makes him the eighth, with no son's death recorded to bridge the gap.",
+      "skeptic": {
+        "name": "Sara Japhet",
+        "work": "I and II Chronicles: A Commentary (Old Testament Library)",
+        "year": "1993",
+        "attribution": "Sara Japhet, I and II Chronicles: A Commentary (OTL, 1993), p. 77"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Chronicles 2:15",
+      "excerpt_text": "As it appears (Sa1 16:10; Sa1 17:12) that Jesse had eight sons, the presumption is from David being mentioned here as the seventh son of his father, that one of them had died at an early age, without leaving issue.",
+      "full_note_ref": "JFB/13/2/15",
+      "on_tension_rationale": "Directly states both numbers (eight in Samuel, seventh in Chronicles) and offers the standard harmonization that an unnamed son died young without issue and so was dropped from the genealogy.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 1 Chronicles 2:15",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Treats this passage directly: reconciles Samuel's eight sons with Chronicles' seven by positing that one son died young without leaving issue and so was omitted from the genealogy."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/1_Samuel_16.10.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Did Jesse have eight sons or only seven (1 Chronicles 2:13-15)?",
+        "note": "live apologetic treatment of this specific seven-vs-eight discrepancy"
+      }
+    }
+  }
+}

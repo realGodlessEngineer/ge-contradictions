@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 75,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The strongest harmonization reads \"concubine\" as a rank, not a contradiction: pilegesh means a secondary-rank wife, so \"wife\" and \"concubine\" describe one woman at two levels of standing.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, cataloguing the passage in the Skeptic's Annotated Bible, presses it as a flat contradiction: Genesis calls Keturah a wife while Chronicles calls her a concubine, two statuses the texts do not reconcile.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"Was Keturah Abraham's wife or concubine?\" (skepticsannotatedbible.com/contra/keturah.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (online), \"Was Keturah Abraham's wife or concubine?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "1 Chronicles 1:32",
+      "excerpt_text": "Abraham's pilegesh, or wife of the second rank; she was neither whore, harlot, nor concubine, in our sense of these words.",
+      "full_note_ref": "CLARKE/13/1/32",
+      "on_tension_rationale": "Directly addresses the wife-vs-concubine legal-status conflict the summary names: Clarke reads the Chronicler's 'concubine' (pilegesh) as a second-rank wife, harmonizing it with Genesis's 'wife.' Strongest single harmonization; parity-capped to one against the named-skeptic discrepancy pole.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on 1 Chronicles 1:32",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact passage, glossing the Chronicler's term as 'pilegesh, or wife of the second rank' to reconcile it with Genesis 25:1's 'wife.' Used as the PD anchor because Haley's specific coverage of this Keturah pair could not be confirmed."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Genesis_25.1.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in Genesis 25:1? (Keturah, wife vs. concubine)",
+        "note": "Live apologetic treatment citing both Genesis 25:1 and 1 Chronicles 1:32; harmonizes via the range of Hebrew 'ishshah and Genesis 25:6's pilegesh."
+      }
+    }
+  }
+}

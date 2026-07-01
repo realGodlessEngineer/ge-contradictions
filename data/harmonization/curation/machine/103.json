@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 103,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read God's hardening as the occasion and Pharaoh's own obstinacy as the cause, so the king remains the morally responsible agent.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells of the Skeptic's Annotated Bible presses this as a flat contradiction over moral responsibility, ranging the verses where 'God did' the hardening against those where 'the Pharaoh did' it, with 1 Samuel 6:6 looking back and crediting Pharaoh.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Who hardened the Pharaoh's heart?\" (skepticsannotatedbible.com/contra/hardened.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Who hardened the Pharaoh's heart?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Exodus 7:3",
+      "excerpt_text": "This would be the result. But the divine message would be the occasion, not the cause of the king's impenitent obduracy.",
+      "full_note_ref": "JFB/2/7/3",
+      "on_tension_rationale": "Directly resolves the who-is-responsible tension: God's declared hardening is the 'occasion,' Pharaoh's own obduracy the 'cause' — keeping moral agency with Pharaoh. Single tightest statement of the harmonization across the seven voices; ends on a real source period.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Exodus 7:3",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Treats this exact tension at the verse, distinguishing God's hardening as the occasion from Pharaoh's own obduracy as the cause. Row-surfaced harmonizing commentator keyed to the passage; Haley's specific-passage coverage could not be confirmed by search, so anchored here per spec."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/God-harden-Pharaoh-heart.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why did God harden Pharaoh's heart?",
+        "note": "Live, on-topic apologetic treatment; cites Exodus 8:15, 8:32, 9:12, 10:20, 27 and argues God and Pharaoh were both active, God reinforcing Pharaoh's self-initiated hardening."
+      }
+    }
+  }
+}

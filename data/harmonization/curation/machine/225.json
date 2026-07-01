@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 225,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read 2 Samuel 21:19 as a copyist's slip, restoring \"brother of Goliath\" from the parallel in 1 Chronicles 20:5 so David remains the giant's slayer.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Baruch Halpern presses that the Masoretic text of 2 Samuel 21:19 plainly has Elhanan kill Goliath with no \"brother\" in it, so the Chronicler's added phrase is itself the harmonizing fix, not the original reading.",
+      "skeptic": {
+        "name": "Baruch Halpern",
+        "work": "David's Secret Demons: Messiah, Murderer, Traitor, King",
+        "year": "2001",
+        "attribution": "Baruch Halpern, David's Secret Demons: Messiah, Murderer, Traitor, King (2001)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "2 Samuel 21:19",
+      "excerpt_text": "the word \"brother\" is rightly supplied from Ch1 20:5; where his name is said to be Lahmi, for not Goliath himself was slain, though some so interpret it, and take Elhanan to be David; so Jarchi, and with which agrees the Targum; but he was slain not at Gob, but in the valley of Elah, nor had David any such name as Elhanan …",
+      "full_note_ref": "GILL/10/21/18",
+      "on_tension_rationale": "Directly answers 'Who killed Goliath?' by harmonizing 2 Sam 21:19 with 1 Sam 17 via the Chronicler's 'brother' (Lahmi), denying Elhanan=David and that Goliath himself was slain here. Strongest single reconcile; parity-capped to one on this discrepancy_first row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on 2 Samuel 21:19",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact verse, calling it a transcriber's corruption and restoring the 1 Chronicles 20:5 reading (Lahmi, brother of Goliath) on the authority of Kennicott so that David, not Elhanan, slew Goliath."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Goliath-David-Elhanan.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who killed Goliath, David or Elhanan?",
+        "note": "live apologetic treatment arguing a scribal omission of 'the brother of' in 2 Samuel 21:19"
+      }
+    }
+  }
+}

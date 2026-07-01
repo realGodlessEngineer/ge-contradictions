@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 122,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Psalm 35's curses not as private vengeance but as a plea for God's justice and glory, leaving the love-command of Exodus 23 intact.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the row directly: one text orders active kindness to an enemy while the other prays God's angel hound them to ruin, and he sets these against Jesus' \"love your enemies\" as flatly inconsistent.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How should we treat our enemies?\"",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"How should we treat our enemies?\" (skepticsannotatedbible.com/contra/enemies.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Psalms 35:4",
+      "excerpt_text": "The language seems vindictive, but it arises from a desire for justice and for the Lord to care for the needy and oppressed.",
+      "full_note_ref": "TYN/19/35/4",
+      "on_tension_rationale": "Directly re-reads the imprecation of Ps 35 as a desire for justice rather than vindictiveness, dissolving the tension with the love-enemy command of Exod 23:4.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Psalms 35:7",
+      "excerpt_text": "Showing that we may not call God to be a revenger, but only for his glory, and when our cause is just.",
+      "full_note_ref": "GNV/19/35/7",
+      "on_tension_rationale": "Frames the imprecation as a prayer for God's glory and just cause, not private revenge — the standard harmonization that keeps it compatible with the enemy-kindness law.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Psalms 35:7",
+      "excerpt_text": "Their imprecations on impenitent rebels against God need no vindication; His justice and wrath are for such; His mercy for penitents.",
+      "full_note_ref": "JFB/19/35/7",
+      "on_tension_rationale": "Defends the imprecations as appeals to God's justice against the impenitent, distinct from personal hatred — answering the charge that Ps 35 contradicts the duty of benevolence.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Psalm 35:7",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Treats this passage directly, defending the imprecations as appeals to God's justice against the impenitent rather than personal vengeance, harmonizing them with the duty of kindness to enemies."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/imprecatory-psalms.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What are imprecatory psalms?",
+        "note": "Live apologetic treatment harmonizing the imprecatory psalms with Jesus' command to love enemies (Matt 5:44); lists Psalm 35 and resolves via divine justice / spiritual enemies."
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 104,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders concede Yahweh predates Abraham yet argue the patriarchs knew the name without knowing what it fully signified.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steven DiMattei presses this as the textbook J-versus-P seam: the Yahwist has the patriarchs invoking Yahweh by name throughout Genesis, which Exodus 6:2-3 (P) flatly denies.",
+      "skeptic": {
+        "name": "Steven DiMattei",
+        "work": "Contradictions in the Bible #11 (\"When was the name Yahweh first invoked: in the earliest generations of man OR not till Moses at Sinai?\")",
+        "year": "2013",
+        "attribution": "Dr. Steven DiMattei, Contradictions in the Bible #11, contradictionsinthebible.com (2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Exodus 6:3",
+      "excerpt_text": "It is certain that the name Jehovah was in use long before the days of Abraham … I believe the simple meaning is this, that though from the beginning the name Jehovah was known as one of the names of the Supreme Being, yet what it really implied they did not know.",
+      "full_note_ref": "CLARKE/2/6/3",
+      "on_tension_rationale": "Directly names the crux, concedes Yahweh was used before Abraham (granting the Gen 22:14 datum), and offers the dominant harmonization: the name was known but its significance was not. Strongest single reconcile on the row; two non-adjacent verbatim clauses joined sense-preservingly (concession + resolution), first clause truncated mid-sentence with the elision marker, second ends on the source period.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on Exodus 6:3",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Treats this exact passage as a \"crux criticorum,\" grants that Yahweh was in use before Abraham (Gen 2:4; 15:2, 7), and resolves the tension by distinguishing the name as a label from its full significance. Row-surfaced harmonizer keyed to the passage; used because Haley's specific coverage of this pair could not be confirmed."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/meaning-of-Yahweh.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What is the meaning of Yahweh? What is the meaning of Jehovah?",
+        "note": "Live apologetic treatment; cites both Exodus 6:3 and Genesis 22:14 and harmonizes via the patriarchs knowing the name but not its full impact."
+      }
+    }
+  }
+}

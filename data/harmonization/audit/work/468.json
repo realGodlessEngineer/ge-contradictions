@@ -1,0 +1,57 @@
+{
+  "contradiction_id": 468,
+  "question": "Who carried Jesus' cross?",
+  "summary": "John 19:17 has Jesus carry his own cross to Golgotha — explicitly, *bastazōn heautō ton stauron*. Matthew 27:32, Mark 15:21, and Luke 23:26 have Simon the Cyrenian compelled to carry the cross for him. One gospel has Jesus do it himself; the other three have him hand off the load.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders read the accounts as one sequence: Jesus carried the cross at first, and Simon was compelled only when exhaustion stopped him.",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The Skeptic's Annotated Bible presses it flatly: John has Jesus bear his own cross, while the three Synoptics have Simon of Cyrene carry it — the texts simply name different bearers.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible (\"Who carried Jesus' cross?\")",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (1999; rev. ed. 2013)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on John 19:17",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke keys the harmonization to this passage: Jesus bore the cross alone at first (John), and Simon of Cyrene was compelled only when weakness stopped him (the Synoptics) — one sequence on the road to Golgotha."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/did-jesus-or-simon-of-cyrene-carry-the-cross/",
+        "domain": "carm.org",
+        "title": "CARM: Did Jesus or Simon of Cyrene carry the cross?",
+        "note": "Live apologetic treatment resolving John 19:17 and the Synoptics by sequence — Jesus bore it until unable, then Simon assisted."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "468#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "John 19:17",
+      "full_note_ref": "CLARKE/43/19/17",
+      "excerpt_text": "He bore it all alone first; when he could no longer carry the whole through weakness, occasioned by the ill usage he had received, Simon, a Cyrenian, helped him to carry it",
+      "on_tension_rationale": "The most direct harmonization: Jesus carried the cross alone at first (John), and Simon was compelled only when weakness made him unable to continue (the Synoptics) — one sequence, not two accounts in conflict.",
+      "source_note_text": "Bearing his cross - He bore it all alone first; when he could no longer carry the whole through weakness, occasioned by the ill usage he had received, Simon, a Cyrenian, helped him to carry it: see the note on Mat 27:32.\nGolgotha - See on Mat 27:33 (note)."
+    }
+  ]
+}

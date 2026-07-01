@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 133,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders distinguish two acts of writing: God re-engraved the Ten Words on the tablets, while Moses wrote out the surrounding covenant terms (or a copy).",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Source critic Richard Elliott Friedman reads Exodus 34:1 and 34:27-28 as a redactional seam: in the underlying J narrative Moses writes the tablets, and 34:1's \"I will write\" was added to splice this account to the God-written tablets of Exodus 32, leaving the two attributions unreconciled.",
+      "skeptic": {
+        "name": "Richard Elliott Friedman",
+        "work": "The Bible with Sources Revealed: A New View into the Five Books of Moses",
+        "year": "2003",
+        "attribution": "Richard Elliott Friedman, The Bible with Sources Revealed (HarperSanFrancisco, 2003), 177-179"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Exodus 34:1",
+      "excerpt_text": "But here, in Exo 34:27, it seems as if Moses was commanded to write these words, and in Exo 34:28 it is said, And he wrote upon the tables; but in Deu 10:1-4 it is expressly said that God wrote the second tables as well as the first. … This supposition removes the apparent contradiction; and thus both God and Moses may be said to have written the covenant and the ten commandments: the former, the original; the latter, the copy.",
+      "full_note_ref": "CLARKE/2/34/1",
+      "on_tension_rationale": "Clarke names the exact tension (34:27-28 reads as Moses writing vs. Deut 10:1-4 stating God wrote) and offers the standard harmonization: God wrote the Ten Words; Moses wrote a copy/the other precepts, so both can be said to have written. Single strongest reconcile, parity-capped to the one named-skeptic discrepancy entry.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on Exodus 34:1",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, framing the apparent contradiction between Exodus 34:27-28 and Deuteronomy 10:1-4 and resolving it by distinguishing God's writing of the Ten Words from Moses' writing of a copy/the accompanying precepts. Used because Haley's specific-passage coverage could not be confirmed; Clarke is a harmonizing commentator already surfaced on this row and keyed to the passage."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No squarely on-topic page on an allowlisted domain (gotquestions.org / carm.org / defendinginerrancy.com) could be verified for this specific contradiction; link omitted rather than fabricated."
+      }
+    }
+  }
+}

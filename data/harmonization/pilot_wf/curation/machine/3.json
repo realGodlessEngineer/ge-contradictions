@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 3,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders resolve the timing two ways: the stars' matter was created \"in the beginning\" and only completed on day four, and Job's \"morning stars\" are figurative for angels, not literal stars.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, in the Skeptics Annotated Bible, presses the pairing directly: Genesis dates the stars to the fourth day, after the earth, while Job places the morning stars at the earth's founding, so the two cannot both be literal.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); SAB online, \"When were the stars made?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 1:14",
+      "excerpt_text": "We are not taught here that on one day, viz., the fourth, God created all the heavenly bodies out of nothing, and in a perfect condition; on the contrary, we are told that in the beginning God created the heaven and the earth, and on the fourth day that He made the sun, the moon, and the stars (planets, comets, and fixed stars) in the firmament, to be lights for the earth. … the primary material, not only of the earth, but also of the heaven and the heavenly bodies, was created in the beginning.",
+      "full_note_ref": "KD/1/1/14",
+      "on_tension_rationale": "Directly dissolves the sequencing: the stars' matter is created at Gen 1:1 (so it can exist when the earth is founded in Job 38) and is only completed/placed on day four — meeting the contradiction head-on.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Job 38:7",
+      "excerpt_text": "The stars are figuratively said to sing God's praises, as in Psa 19:1; Psa 148:3. They are symbols of the angels, bearing the same relation to our earth, as angels do to us. Therefore they answer to \"sons of God,\" or angels, in the parallel.",
+      "full_note_ref": "JFB/18/38/7",
+      "on_tension_rationale": "Reads Job's 'morning stars' as figurative for angels, so Job makes no claim about literal stars predating the earth — removing the conflict with the day-four creation.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Job 38:7",
+      "excerpt_text": "Or figuratively, either angels, as most interpret them, comparable to stars for their glory, purity, and light, for their constancy, permanency, and numbers … For these words are not necessarily to be restrained to the laying of the foundation and cornerstone of the earth, as our version directs",
+      "full_note_ref": "GILL/18/38/7",
+      "on_tension_rationale": "Offers two distinct harmonizations of the same verse: the morning stars are figuratively angels, and the singing need not be temporally pinned to the founding of the earth — so it implies no stars-before-earth sequence.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Genesis 1:14",
+        "author": "Keil & Delitzsch",
+        "year": "1861-75",
+        "note": "Treats this passage directly, arguing the heavenly bodies' material was created 'in the beginning' (Gen 1:1) and only completed on the fourth day, harmonizing the order with Job 38:4-7."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/sons-of-God-in-Job.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who were the sons of God in the book of Job?",
+        "note": "Live apologetic treatment reading the 'morning stars' of Job 38:7 as angels who witnessed creation, the standard reconciliation of this row."
+      }
+    }
+  }
+}

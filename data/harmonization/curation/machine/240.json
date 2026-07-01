@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 240,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The standard harmonization treats Chileab and Daniel as two names of one son, so the lists name the same person twice.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Hans Wilhelm Hertzberg notes that in Chronicles \"the name Daniel surprisingly takes the place of Chileab,\" with the old versions adding still further forms, treating the difference as a textual deviation rather than a settled second name.",
+      "skeptic": {
+        "name": "Hans Wilhelm Hertzberg",
+        "work": "I & II Samuel: A Commentary (Old Testament Library)",
+        "year": "1964",
+        "attribution": "Hans Wilhelm Hertzberg, I & II Samuel: A Commentary, Old Testament Library (Philadelphia: Westminster, 1964)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "2 Samuel 3:2",
+      "excerpt_text": "The latter is also called Daniel in Ch1 3:1, and therefore had probably two names.",
+      "full_note_ref": "KD/10/3/2",
+      "on_tension_rationale": "Directly states the harmonizing inference for the Chileab/Daniel difference: one son with two names. Strongest single reconcile sentence; parity-capped to 1 on this discrepancy_first row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, The Holy Bible ... with a Commentary and Critical Notes, on 1 Chronicles 3:1 (1832)",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, arguing the second son \"probably had two names\" (Chileab in 2 Sam 3:3, Daniel in 1 Chron 3:1) and citing the Targum and Jarchi for the harmonizing tradition."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page on an allowlisted domain could be verified for this specific Chileab/Daniel case; link omitted rather than guessed."
+      }
+    }
+  }
+}

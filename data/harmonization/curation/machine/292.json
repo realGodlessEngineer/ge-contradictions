@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 292,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders relocate the cruelty to the human invaders and read Hosea as predicting, not commanding — God justly judges covenant rebellion and merely permits the enemy's atrocity, the very act he condemns when done unprovoked.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the double standard directly: God decrees that Samaria's pregnant women be ripped up yet condemns the same act in others, so the deed is approved and condemned at once.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"Does God allow pregnant women to be ripped apart?\" (skepticsannotatedbible.com/contra/ripped.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (online), \"Does God allow pregnant women to be ripped apart?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Amos 1:3",
+      "excerpt_text": "Men often do that unjustly and wickedly, and shall be severely reckoned with for it, which yet God just permits them to do.",
+      "full_note_ref": "MHC/30/1/3",
+      "on_tension_rationale": "Directly resolves the double standard via the permission-not-endorsement distinction: the cruelty (Damascus/Ammon ripping up Gilead) is the human agents' wickedness, justly punished, even though God permits it as an instrument of judgment.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Hosea 13:16",
+      "excerpt_text": "things which are often done by cruel enemies, when cities are sacked and plundered; and which Shalmaneser might be provoked unto by the perfidy of the king of Israel, and by the city of Samaria holding out a three years' siege.",
+      "full_note_ref": "GILL/28/13/16",
+      "on_tension_rationale": "Locates the ripping-up in the invader's hands (Shalmaneser), provoked by Israel's own perfidy — i.e. Hosea predicts the enemy's atrocity as just recompense, not a divine endorsement of the act, the harmonizing reading of the Hosea side.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Amos 1:3",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Treats this passage's tension directly, distinguishing God's permitting the atrocity (used as judgment) from the wickedness of the human agents who commit it and are reckoned with for it."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) squarely engages the Hosea 13:16 vs Amos 1:13 double standard; gotquestions Hosea-13-16 / pregnant-women-ripped slugs 404 and defendinginerrancy Hosea_13.16.php 404 — link omitted rather than guessed."
+      }
+    }
+  }
+}

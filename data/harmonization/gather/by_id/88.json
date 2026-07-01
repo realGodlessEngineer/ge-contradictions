@@ -1,0 +1,439 @@
+{
+  "contradiction_id": 88,
+  "question": "Who brought Joseph into Egypt?",
+  "summary": "Genesis 37:28 says the Midianite merchants drew Joseph out of the pit, sold him to the Ishmaelites, and the Ishmaelites brought him to Egypt — a position Genesis 39:1 reinforces. Genesis 37:36, in the very same chapter, says \"the Midianites sold him into Egypt.\" The narrative can't decide which caravan delivered Joseph.",
+  "consensus": "genuine_contradiction",
+  "consensus_id": 1,
+  "category": "History & Narrative Events",
+  "contradiction_type": "compositional",
+  "testament_scope": "OT_internal",
+  "books_in_tension": "Genesis",
+  "refs_raw": [
+    "Genesis 37:36",
+    "Genesis 37:28",
+    "Genesis 39:1"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Genesis 37:36",
+      "book": "Genesis",
+      "bolls": 1,
+      "ranges": [
+        [
+          37,
+          36,
+          36
+        ]
+      ]
+    },
+    {
+      "raw": "Genesis 37:28",
+      "book": "Genesis",
+      "bolls": 1,
+      "ranges": [
+        [
+          37,
+          28,
+          28
+        ]
+      ]
+    },
+    {
+      "raw": "Genesis 39:1",
+      "book": "Genesis",
+      "bolls": 1,
+      "ranges": [
+        [
+          39,
+          1,
+          1
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 35,
+  "notes_raw_count": 40,
+  "notes_dropped": 5,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Genesis 37:27",
+      "note_ref": "GILL/1/37/27",
+      "cites": [
+        "Genesis 37:28"
+      ],
+      "text": "Then there passed by Midianites, merchantmen,.... The same with the Ishmaelites before mentioned, as appears from the latter part of this verse; for as these were near neighbours, so they might join together in merchandise, and travel in company for greater safety, and are sometimes called the one, and sometimes the other, as well as they might mix together in their habitations and marriages; and are hence called Arabians by the Targums, as before observed, and so by Josephus, which signifies a mixed people:\nand they drew and lifted up Joseph out of the pit: not the Midianites, but his brethren:\nand sold Joseph to the Ishmaelites for twenty pieces of silver; for twenty shekels, which amounted to twenty five shillings of our money. The Jews (z) say, they each took two shekels apiece, and bought with them a pair of shoes, according to Amo 8:6; but there were but nine of them, Reuben was absent:\nand they brought Joseph into Egypt; some think these Midianites were different from the Ishmaelites, and that Joseph was sold many times, first to the Midianites, and then by them to the Ishmaelites, and by the latter to Potiphar. Justin (a), an Heathen writer, gives an account of this affair in some agreement with this history;\"Joseph (he says) was the youngest of his brethren, whose excellent genius they feared, and took him secretly, and sold him to \"foreign merchants\", by whom he was carried into Egypt.''\n(z) Pirke Eliezer, c. 38. (a) E. Trogo, l. 36. c. 2."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 37:28",
+      "note_ref": "GILL/1/37/28",
+      "cites": [
+        "Genesis 37:28"
+      ],
+      "text": "And Reuben returned unto the pit,.... It is very probable he had pretended to go somewhere on business, with an intention to take a circuit, and come to the pit and deliver his brother, and go home with him to his father. The Jews say (b) he departed from his brethren, and sat down on a certain mountain, that he might descend in the night and take Joseph out of the pit, and accordingly he came down in the night, and found him not. So Josephus (c) says, it was in the night when Reuben came to the pit, who calling to Joseph, and he not answering, suspected he was killed:\nand, behold, Joseph was not in the pit; for neither by looking down into it could he see him, nor by calling be answered by him, which made it a clear case to him he was not there:\nand he rent his clothes; as a token of distress and anguish of mind, of sorrow and mourning, as was usual in such cases; Jacob afterwards did the same, Gen 37:34.\n(b) Pirke Eliezer, ut supra. (c. 38.) (c) Antiqu. l. 2. c. 3. sect. 3."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 37:29",
+      "note_ref": "GILL/1/37/29",
+      "cites": [
+        "Genesis 37:28"
+      ],
+      "text": "And he returned unto his brethren,.... From the pit, and whom he suspected had took him and killed him, as was their first design, not being with them when they proposed to sell him, and did:\nand said, the child is not; not in the pit, nor in the land of the living, but is dead, which is sometimes the meaning of the phrase, Jer 31:15; he calls him a child, though seventeen years of age, because the youngest brother but one, and he himself was the eldest, and also because of his tender concern for him:\nand I, whither shall I go? to find the child or flee from his father's face, which he could not think of seeing any more; whom he had highly offended already in the case of Bilhah, and now he would be yet more incensed against him for his neglect of Joseph, who, he might have expected, would have taken particular care of him, being the eldest son: he speaks like one in the utmost perplexity, not knowing what to do, what course to steer, being almost distracted and at his wits' end."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 37:35",
+      "note_ref": "GILL/1/37/35",
+      "cites": [
+        "Genesis 37:36"
+      ],
+      "text": "And the Midianites sold him into Egypt,.... Or Medanites, who sprung from Medan, a brother of Midian, and son of Keturah, Gen 24:2; and were distinct from the Midianites, though they dwelt near them, and were now in company with them, and with the Ishmaelites, and were all concerned in the buying and selling of Joseph, and therefore this is sometimes ascribed to the one, and sometimes to the other:\nunto Potiphar, an officer of Pharaoh; the word is sometimes used for an eunuch, but cannot design one here, since Potiphar had a wife, and some say a child; but he either was a chamberlain, or however some officer at court, besides what follows:\nand captain of the guard; of Pharoah's guard, his bodyguard; some render it, \"of the slaughterers\" (h); meaning either cooks or butchers, of whom he was the chief; or rather executioners, he having the charge of prisoners, and the care of executing them, like our sheriffs. Joseph was a most eminent type of Christ, and there are so many things in this chapter which show an agreement between them that cannot be passed over. Joseph was the son of his father's old age, Christ the son of the Ancient of days; Joseph was in a peculiar manner beloved by his father, Christ is the dear son of his Father's love; Jacob made for Joseph a coat of many colours, God prepared a body in human nature for Christ, filled and adorned with the various gifts and graces of the Spirit without measure. Joseph was hated by his brethren, and they could not endure to think he should have the dominion over them. The Jews, of whom Christ was according to the flesh, hated him, and would not have him to reign over them; Joseph was sent by his father a long journey to visit his brethren, and know the welfare of them and their flocks, Christ was sent from heaven to earth to seek and save the lost sheep of the house of Israel; Joseph's brethren, when they saw him come to them, conspired to take away his life, the Jews, who were Christ's own, when he came to them, received him not, but said, this is the heir, let us kill him, and they consulted to take away his life; Joseph was stripped of his clothes, and sold for twenty pieces of silver at the motion of Judah, and Christ, by one of the same name, was sold for thirty pieces of silver, and was stripped of his clothes by the Roman soldiers; Joseph was delivered into the hands of foreigners, and Christ into the hands of the Gentiles; Joseph being reckoned as dead by his father, and yet alive, may be herein an emblem of Christ's death, and his resurrection from the dead.\n(h) Sept. \"principi coquorum\", Cartwright; so Josephus, \"principi lanionum\", Pagninus, Montanus, \"capitalium rerum praefecto\", Tigurine version.\nNext: Genesis Chapter 38"
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 39:1",
+      "note_ref": "GILL/1/39/1",
+      "cites": [
+        "Genesis 39:1"
+      ],
+      "text": "And Joseph was brought down to Egypt,.... By the Ishmaelites, Gen 37:28; as in a following clause:\nand Potiphar an officer of Pharaoh, captain of the guard, an Egyptian; as his name also shows, which signifies the fruit of Pot or Phut, that is, the son or grandson of one of that name (m); which might be common in Egypt, since it was the name of a son of Ham, Gen 10:6, from whom the land of Egypt is called the land of Ham, Psa 105:23; of this man and his offices; see Gill on Gen 37:36,\nhe bought him: that is, \"Joseph\":\nof the hands of the Ishmaelites, who had brought him down thither; what they gave for him we know, but what they sold him for to Potiphar is not said; no doubt they got a good price for him, and his master had a good bargain too, as appears by what follows.\n(m) Onomastic. Sacr. p. 671, 672."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 39:2",
+      "note_ref": "GILL/1/39/2",
+      "cites": [
+        "Genesis 39:1"
+      ],
+      "text": "And the Lord was with Joseph,.... Blessing him with his gracious presence, with discoveries of his love, and communion with himself, though destitute of the means of grace and ordinances of worship he enjoyed in his father's house; favouring him with bodily health, and protecting him from all evils and enemies:\nand he was a prosperous man; in worldly things, and which was owing to the presence of God with him, and his blessing on him:\nand he was in the house of his master the Egyptian; he continued there, and did not attempt to make his escape; or his employment lay chiefly, if not altogether, in the house, and herein he was prosperous, and continued to be so as long as he was in it; the Jews (n) say, he remained here twelve months. Near the pyramids built in the neighbourhood of Memphis, as is affirmed unanimously by the ancients, to this day is shown a hill, on which they say the house of Potiphar was built, whose servant the patriarch Joseph was, and some of the rubbish of the bricks are yet to be seen (o).\n(n) Seder Olam Rabba, c. 2. p. 5. (o) Jablonski de Terra Goshen, Dissert. 6. sect. 6."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 39:3",
+      "note_ref": "GILL/1/39/3",
+      "cites": [
+        "Genesis 39:1"
+      ],
+      "text": "And his master saw that the Lord was with him,.... He knew nothing of the spiritual and gracious presence of God that was with him, he was no judge of that; but he perceived by the ingenuity of his mind, by his ready and speedy learning the Egyptian language, by his dexterity in business, and by the prudence and faithfulness with which he did everything, that he was highly favoured by the divine Being, and had great endowments bestowed upon him, and was an extraordinary person for his age:\nand that the Lord made all that he did to prosper in his hand; and though Potiphar might have no knowledge of the true Jehovah, whose name he uses, yet he might have a notion of a supreme Being, and that all outward prosperity was owing to him; and knowing Joseph to be an Hebrew, as it is plain his wife did, Gen 39:14; and Jehovah to be the God of the Hebrews, he imputes all the prosperity that attended Joseph and his services unto his God."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 37:26",
+      "note_ref": "JFB/1/37/26",
+      "cites": [
+        "Genesis 37:28"
+      ],
+      "text": "Judah said, . . . What profit is it if we slay our brother?--The sight of these travelling merchants gave a sudden turn to the views of the conspirators; for having no wish to commit a greater degree of crime than was necessary for the accomplishment of their end, they readily approved of Judah's suggestion to dispose of their obnoxious brother as a slave. The proposal, of course, was founded on their knowledge that the Arabian merchants trafficked in slaves; and there is the clearest evidence furnished by the monuments of Egypt that the traders who were in the habit of bringing slaves from the countries through which they passed, found a ready market in the cities of the Nile.\nthey . . . lifted up Joseph out of the pit, and sold him--Acting impulsively on Judah's advice, they had their poor victim ready by the time the merchants reached them; and money being no part of their object, they sold him for\ntwenty pieces of silver--The money was probably in rings or pieces (shekels), and silver is always mentioned in the records of that early age before gold, on account of its rarity. The whole sum, if in shekel weight, did not exceed Â£3.\nthey brought Joseph into Egypt--There were two routes to Egypt: the one was overland by Hebron, where Jacob dwelt, and by taking which, the fate of his hapless son would likely have reached the paternal ears; the other was directly westward across the country from Dothan to the maritime coast, and in this, the safest and most expeditious way, the merchants carried Joseph to Egypt. Thus did an overruling Providence lead this murderous conclave of brothers, as well as the slave merchants both following their own free courses--to be parties in an act by which He was to work out, in a marvellous manner, the great purposes of His wisdom and goodness towards His ancient Church and people."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 37:29",
+      "note_ref": "JFB/1/37/29",
+      "cites": [
+        "Genesis 37:28"
+      ],
+      "text": "Reuben returned unto the pit--He seems to have designedly taken a circuitous route, with a view of secretly rescuing the poor lad from a lingering death by starvation. His intentions were excellent, and his feelings no doubt painfully lacerated when he discovered what had been done in his absence. But the thing was of God, who had designed that Joseph's deliverance should be accomplished by other means than his."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 37:34",
+      "note_ref": "JFB/1/37/34",
+      "cites": [
+        "Genesis 37:36"
+      ],
+      "text": "Jacob rent his clothes, and put sackcloth upon his loins--the common signs of Oriental mourning. A rent is made in the skirt more or less long according to the afflicted feelings of the mourner, and a coarse rough piece of black sackcloth or camel's hair cloth is wound round the waist."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 37:35",
+      "note_ref": "JFB/1/37/35",
+      "cites": [
+        "Genesis 37:36"
+      ],
+      "text": "and he said, For I will go down into the grave unto my son--not the earth, for Joseph was supposed to be torn in pieces, but the unknown place--the place of departed souls, where Jacob expected at death to meet his beloved son.\nNext: Genesis Chapter 38"
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 39:2",
+      "note_ref": "JFB/1/39/2",
+      "cites": [
+        "Genesis 39:1"
+      ],
+      "text": "he was in the house of his master--Those slaves who had been war captives were generally sent to labor in the field and subjected to hard treatment under the \"stick\" of taskmasters. But those who were bought with money were employed in domestic purposes, were kindly treated, and enjoyed as much liberty as the same class does in modern Egypt."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 39:3",
+      "note_ref": "JFB/1/39/3",
+      "cites": [
+        "Genesis 39:1"
+      ],
+      "text": "his master saw that the Lord was with him--Though changed in condition, Joseph was not changed in spirit; though stripped of the gaudy coat that had adorned his person, he had not lost the moral graces that distinguished his character; though separated from his father on earth, he still lived in communion with his Father in heaven; though in the house of an idolater, he continued a worshipper of the true God."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 37:28",
+      "note_ref": "CLARKE/1/37/28",
+      "cites": [
+        "Genesis 37:28"
+      ],
+      "text": "For twenty pieces of silver - In the Anglo-Saxon it is thirty pence. This, I think, is the first instance on record of selling a man for a slave; but the practice certainly did not commence now, it had doubtless been in use long before. Instead of pieces, which our translators supply, the Persian has miskal, which was probably intended to signify a shekel; and if shekels be intended, taking them at three shillings each, Joseph was sold for about three pounds sterling. I have known a whole cargo of slaves, amounting to eight hundred and thirteen, bought by a slave captain in Bonny river, in Africa, on an average, for six pounds each; and this payment was made in guns, gunpowder, and trinkets! As there were only nine of the brethren present, and they sold Joseph for twenty shekels, each had more than two shekels as his share in this most infamous transaction."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 37:29",
+      "note_ref": "CLARKE/1/37/29",
+      "cites": [
+        "Genesis 37:28"
+      ],
+      "text": "Ruben returned unto the pit - It appears he was absent when the caravan passed by, to whom the other brethren had sold Joseph."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 37:35",
+      "note_ref": "CLARKE/1/37/35",
+      "cites": [
+        "Genesis 37:36"
+      ],
+      "text": "All his sons and all his daughters - He had only one daughter, Dinah; but his sons' wives may be here included. But what hypocrisy in his sons to attempt to comfort him concerning the death of a son who they knew was alive; and what cruelty to put their aged father to such torture, when, properly speaking, there was no ground for it!"
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 37:36",
+      "note_ref": "CLARKE/1/37/36",
+      "cites": [
+        "Genesis 37:36"
+      ],
+      "text": "Potiphar, an officer of Pharaoh's - The word סריס saris, translated officer, signifies a eunuch; and lest any person should imagine that because this Potiphar had a wife, therefore it is absurd to suppose him to have been a eunuch, let such persons know that it is not uncommon in the east for eunuchs to have wives, nay, some of them have even a harem or seraglio where they keep many women, though it does not appear that they have any progeny; and probably discontent on this ground might have contributed as much to the unfaithfulness of Potiphar's wife, as that less principled motive through which it is commonly believed she acted.\nCaptain of the guard - שר הטבחים sar kattabbachim, chief of the butchers; a most appropriate name for the guards of an eastern despot. If a person offend one of the despotic eastern princes, the order to one of the life-guards is, Go and bring me his head; and this command is instantly obeyed, without judge, jury, or any form of law. Potiphar, we may therefore suppose, was captain of those guards whose business it was to take care of the royal person, and execute his sovereign will on all the objects of his displeasure. Reader, if thou hast the happiness to live under the British constitution, be thankful to God. Here, the will, the power, and utmost influence of the king, were he even so disposed, cannot deprive the meanest subject of his property, his liberty, or his life. All the solemn legal forms of justice must be consulted; the culprit, however accused, be heard by himself and his counsel; and in the end twelve honest, impartial men, chosen from among his fellows, shall decide on the validity of the evidence produced by the accuser. For the trial by jury, as well as for innumerable political blessings, may God make the inhabitants of Great Britain thankful!\n1. With this chapter the history of Joseph commences, and sets before our eyes such a scene of wonders wrought by Divine Providence in such a variety of surprising instances, as cannot fail to confirm our faith in God, show the propriety of resignation to his will, and confidence in his dispensations, and prove that all things work together for good to them that love him. Joseph has often been considered as a type of Christ, and this subject in the hands of different persons has assumed a great variety of coloring. The following parallels appear the most probable; but I shall not pledge myself for the propriety of any of them: \"Jesus Christ, prefigured by Joseph, the beloved of his father, and by him sent to visit his brethren, is the innocent person whom his brethren sold for a few pieces of silver, the bargain proposed by his brother Judah, (Greek Judas), the very namesake of that disciple and brother (for so Christ vouchsafes to call him) who sold his Lord and Master; and who by this means became their Lord and Savior; nay, the Savior of strangers, and of the whole world; which had not happened but for this plot of destroying him, the act of rejecting, and exposing him to sale. In both examples we find the same fortune and the same innocence: Joseph in the prison between two criminals; Jesus on the cross between two thieves. Joseph foretells deliverance to one of his companions and death to the other, from the same omens: of the two thieves, one reviles Christ, and perishes in his crimes; the other believes, and is assured of a speedy entrance into paradise. Joseph requests the person that should be delivered to be mindful of him in his glory; the person saved by Jesus Christ entreats his deliverer to remember him when he came into his kingdom.\" - See Pascal's Thoughts. Parallels and coincidences of this kind should always be received cautiously, for where the Spirit of God has not marked a direct resemblance, and obviously referred to it as such in some other part of his word, it is bold, if not dangerous, to say \"such and such things and persons are types of Christ.\" We have instances sufficiently numerous, legitimately attested, without having recourse to those which are of dubious import and precarious application. See the observation on Genesis 40. (Gen 40:23 (note)).\n2. Envy has been defined, \"pain felt, and malignity conceived, at the sight of excellence or happiness in another.\" Under this detestable passion did the brethren of Joseph labor; and had not God particularly interposed, it would have destroyed both its subjects and its object, Perhaps there is no vice which so directly filiates itself on Satan, as this does. In opposition to the assertion that we cannot envy that by which we profit, it may be safely replied that we may envy our neighbor's wisdom, though he gives us good counsel; his riches, though he supplies our wants; and his greatness, though he employs it for our protection.\n3. How ruinous are family distractions! A house divided against itself cannot stand. Parents should take good heed that their own conduct be not the first and most powerful cause of such dissensions, by exciting envy in some of their children through undue partiality to others; but it is in vain to speak to most parents on the subject; they will give way to foolish predilections, till, in the prevailing distractions of their families, they meet with the punishment of their imprudence, when regrets are vain, and the evil past remedy."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 39:1",
+      "note_ref": "CLARKE/1/39/1",
+      "cites": [
+        "Genesis 39:1"
+      ],
+      "text": "An officer of Pharaoh, captain of the guard - Mr. Ainsworth, supposing that his office merely consisted in having charge of the king's prisoners, calls Potiphar provost marshal! See Clarke on Gen 37:36 (note), See Clarke on Gen 40:3 (note)."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 37:25",
+      "note_ref": "KD/1/37/25",
+      "cites": [
+        "Genesis 37:28"
+      ],
+      "text": "Reuben had saved Joseph's life indeed by his proposal; but his intention to send him back to his father was frustrated. For as soon as the brethren sat down to eat, after the deed was performed, they saw a company of Ishmaelites from Gilead coming along the road which leads from Beisan past Jenin (Rob. Pal. iii. 155) and through the plain of Dothan to the great caravan road that runs from Damascus by Lejun (Legio, Megiddo), Ramleh, and Gaza to Egypt (Rob. iii. 27, 178). The caravan drew near, laden with spices: viz., נכאת, gum-tragacanth; צרי, balsam, for which Gilead was celebrated (Gen 43:11; Jer 8:22; Jer 46:11); and לט, ladanum, the fragrant resin of the cistus-rose. Judah seized the opportunity to propose to his brethren to sell Joseph to the Ishmaelites. \"What profit have we,\" he said, \"that we slay our brother and conceal his blood? Come, let us sell him to the Ishmaelites; and our hand, let it not lay hold of him (sc., to slay him), for he is our brother, our flesh.\" Reuben wished to deliver Joseph entirely from his brothers' malice. Judah also wished to save his life, though not from brotherly love so much as from the feeling of horror, which was not quite extinct within him, at incurring the guilt of fratricide; but he would still like to get rid of him, that his dreams might not come true. Judah, like his brethren, was probably afraid that their father might confer upon Joseph the rights of the first-born, and so make him lord over them. His proposal was a welcome one. When the Arabs passed by, the brethren fetched Joseph out of the pit and sold him to the Ishmaelites, who took him into Egypt. The different names given to the traders - viz., Ishmaelites (Gen 37:25, Gen 37:27, and Gen 37:28), Midianites (Gen 37:28), and Medanites (Gen 37:36) - do not show that the account has been drawn from different legends, but that these tribes were often confounded, from the fact that they resembled one another so closely, not only in their common descent from Abraham (Gen 16:15 and Gen 25:2), but also in the similarity of their mode of life and their constant change of abode, that strangers could hardly distinguish them, especially when they appeared not as tribes but as Arabian merchants, such as they are here described as being: \"Midianitish men, merchants.\" That descendants of Abraham should already be met with in this capacity is by no means strange, if we consider that 150 years had passed by since Ishmael's dismissal from his father's house, - a period amply sufficient for his descendants to have grown through marriage into a respectable tribe. The price, \"twenty (sc., shekels) of silver,\" was the price which Moses afterwards fixed as the value of a boy between 5 and 20 (Lev 27:5), the average price of a slave being 30 shekels (Exo 21:32). But the Ishmaelites naturally wanted to make money by the transaction.",
+      "anchor": true
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 37:29",
+      "note_ref": "KD/1/37/29",
+      "cites": [
+        "Genesis 37:28"
+      ],
+      "text": "The business was settled in Reuben's absence; probably because his brethren suspected that he intended to rescue Joseph. When he came to the pit and found Joseph gone, he rent his clothes (a sign of intense grief on the part of the natural man) and exclaimed: \"The boy is no more, and I, whither shall I go!\" - how shall I account to his father for his disappearance! But the brothers were at no loss; they dipped Joseph's coat in the blood of a goat and sent it to his father, with the message, \"We have found this; see whether it is thy son's coat or not.\" Jacob recognised the coat at once, and mourned bitterly in mourning clothes (שׂק) for his son, whom he supposed to have been devoured and destroyed by a wild beast (טרף טרף inf. abs. of Kal before Pual, as an indication of undoubted certainty), and refused all comfort from his children, saying, \"No (כּי immo, elliptical: Do not attempt to comfort me, for) I will go down mourning into Sheol to my son.\" Sheol denotes the place where departed souls are gathered after death; it is an infinitive form from שׁאל to demand, the demanding, applied to the place which inexorably summons all men into its shade (cf. Pro 30:15-16; Isa 5:14; Hab 2:5). How should his sons comfort him, when they were obliged to cover their wickedness with the sin of lying and hypocrisy, and when even Reuben, although at first beside himself at the failure of his plan, had not courage enough to disclose his brothers' crime?"
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 37:36",
+      "note_ref": "KD/1/37/36",
+      "cites": [
+        "Genesis 37:36"
+      ],
+      "text": "But Joseph, while his father was mourning, was sold by the Midianites to Potiphar, the chief of Pharaoh's trabantes, to be first of all brought low, according to the wonderful counsel of God, and then to be exalted as ruler in Egypt, before whom his brethren would bow down, and as the saviour of the house of Israel. The name Potiphar is a contraction of Poti Pherah (Gen 41:50); the lxx render both Πετεφρής or Πετεφρῆ (vid., Gen 41:50). סריס (eunuch) is used here, as in Sa1 8:15 and in most of the passages of the Old Testament, for courtier or chamberlain, without regard to the primary meaning, as Potiphar was married. \"Captain of the guard\" (lit., captain of the slaughterers, i.e., the executioners), commanding officer of the royal body-guard, who executed the capital sentences ordered by the king, as was also the case with the Chaldeans (Kg2 25:8; Jer 39:9; Jer 52:12. See my Commentary on the Books of Kings, vol. i. pp. 35, 36, Eng. Tr.)."
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 37:23",
+      "note_ref": "MHC/1/37/23",
+      "cites": [
+        "Genesis 37:28"
+      ],
+      "text": "We have here the execution of their plot against Joseph. 1. They stripped him, each striving to seize the envied coat of many colours, Gen 37:23. Thus, in imagination, they degraded him from the birthright, of which perhaps this was the badge, grieving him, affronting their father, and making themselves sport, while they insulted over him. \"Now, Joseph, where is the fine coat?\" Thus our Lord Jesus was stripped of his seamless coat, and thus his suffering saints have first been industriously divested of their privileges and honours, and then made the off-scouring of all things. 2. They went about to starve him, throwing him into a dry pit, to perish there with hunger and cold, so cruel were their tender mercies, Gen 37:24. Note, Where envy reigns pity is banished, and humanity itself is forgotten, Pro 27:4. So full of deadly poison is malice that the more barbarous any thing is the more grateful it is. Now Joseph begged for his life, in the anguish of his soul (Gen 42:21), entreated, by all imaginable endearments, that they would be content with his coat and spare his life. He pleads innocence, relation, affection, submission; he weeps and makes supplication, but all in vain. Reuben alone relents and intercedes for him, Gen 42:22. But he cannot prevail to save Joseph from the horrible pit, in which they resolve he shall die by degrees, and be buried alive. Is this he to whom his brethren must do homage? Note, God's providences often seem to contradict his purposes, even then they are serving them, and working at a distance towards the accomplishment of them. 3. They slighted him when he was in distress, and were not grieved for the affliction of Joseph; for when he was pining away in the pit, bemoaning his own misery, and with a languishing cry calling to them for pity, they sat down to eat bread, Gen 37:25. (1.) They felt no remorse of conscience for the sin; if they had, it would have spoiled their appetite for their meat, and the relish of it. Note, A great force put upon conscience commonly stupefies it, and for the time deprives it both of sense and speech. Daring sinners are secure ones. But the consciences of Joseph's brethren, though asleep now, were roused long afterwards, Gen 42:21. (2.) They were now pleased to think how they were freed from the fear of their brother's dominion over them, and that, on the contrary, they had turned the wheel upon him. They made merry over him, as the persecutors over the two witnesses that had tormented them, Rev 11:10. Note, Those that oppose God's counsels may possibly prevail so far as to think they have gained their point, and yet be deceived. 4. They sold him. A caravan of merchants very opportunely passed by (Providence so ordering it), and Judah made the motion that they should sell Joseph to them, to be carried far enough off into Egypt, where, in all probability, he would be lost, and never heard of more. (1.) Judah proposed it in compassion to Joseph (Gen 37:26): \"What profit is it if we slay our brother? it will be less guilt, and more gain, to sell him.\" Note, When we are tempted to sin, we should consider the unprofitableness of it. It is what there is nothing to be got by. (2.) They acquiesced in it, because they thought that if he were sold for a slave he would never be a lord, if sold into Egypt he would never be their lord; yet all this was working towards it. Note, The wrath of man shall praise God, and the remainder of wrath he will restrain, Psa 76:10. Joseph's brethren were wonderfully restrained from murdering him, and their selling him was as wonderfully turned to God's praise. As Joseph was sold by the contrivance of Judah for twenty pieces of silver, so was our Lord Jesus for thirty, and by one of the same name too, Judas. Reuben (it seems) had gone away from his brethren, when they sold Joseph, intending to come round some other way to the pit, and to help Joseph out of it, and return him safely to his father. This was a kind project, but, if it had taken effect, what had become of God's purpose concerning his preferment in Egypt? Note, There are many devices in man's heart, many devices of the enemies of God's people to destroy them and of their friends to help them, which perhaps are both disappointed, as these were; but the counsel of the Lord, that shall stand. Reuben thought himself undone, because the child was sold: I, whither shall I go? Gen 37:30. He being the eldest, his father would expect from him an accounts of Joseph; but, as it proved, they would all have been undone if he had not been sold.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 37:31",
+      "note_ref": "MHC/1/37/31",
+      "cites": [
+        "Genesis 37:36"
+      ],
+      "text": "I. Joseph would soon be missed, great enquiry would be made for him, and therefore his brethren have a further design, to make the world believe that Joseph was torn in pieces by a wild beast; and this they did, 1. To clear themselves, that they might not be suspected to have done him any mischief. Note, We have all learned of Adam to cover our transgression, Job 31:33. When the devil has taught men to commit one sin, he then teaches them to conceal it with another, theft and murder with lying and perjury; but he that covers his sin shall not prosper long. Joseph's brethren kept their own and one another's counsel for some time, but their villany came to light at last, and it is here published to the world, and the remembrance of it transmitted to every age. 2. To grieve their good father. It seems designed by them on purpose to be revenged upon him for his distinguishing love of Joseph. It was contrived on purpose to create the utmost vexation to him. They sent him Joseph's coat of many colours, with one colour more than it had had, a bloody colour, Gen 37:32. They pretended they had found it in the fields, and Jacob himself must be scornfully asked, Is this thy son's coat? Now the badge of his honour is the discovery of his fate; and it is rashly inferred from the bloody coat that Joseph, without doubt, is rent in pieces. Love is always apt to fear the worst concerning the person beloved; there is a love that casteth out fear, but that is a perfect love. Now let those that know the heart of a parent suppose the agonies of poor Jacob, and put their souls into his soul's stead. How strongly does he represent to himself the direful idea of Joseph's misery! Sleeping or waking, he imagines he sees the wild beast setting upon Joseph, thinks he hears his piteous shrieks when the lion roared against him, makes himself tremble and grow chill, many a time, when he fancies how the beast sucked his blood, tore him limb from limb, and left no remains of him, but the coat of many colours, to carry the tidings. And no doubt it added no little to the grief that he had exposed him, by sending him, and sending him all alone, on this dangerous journey, which proved so fatal to him. This cuts him to the heart, and he is ready to look upon himself as an accessory to the death of his son. Now, (1.) Endeavours were used to comfort him. His sons basely pretended to do it (Gen 37:35); but miserable hypocritical comforters were they all. Had they really desired to comfort him, they might easily have done it, by telling him the truth, \"Joseph is alive, he is indeed sold into Egypt, but it will be an easy thing to send thither and ransom him.\" This would have loosened his sackcloth, and girded him with gladness presently. I wonder their countenances did not betray their guilt, and with what face they could pretend to condole with Jacob on the death of Joseph, when they knew he was alive. Note, The heart is strangely hardened by the deceitfulness of sin. But, (2.) It was all in vain: Jacob refused to be comforted, Gen 37:35. He was an obstinate mourner, resolved to go down to the grave mourning. It was not a sudden transport of passion, like that of David, Would God I had died for thee, my son, my son! But, like Job, he hardened himself in sorrow. Note, [1.] Great affection to any creature does not prepare for so much the greater affliction, when it is either removed from us or embittered to us. Inordinate love commonly ends in immoderate grief; as much as the sway of the pendulum throws one way, so much it will throw the other way. [2.] Those consult neither the comfort of their souls nor the credit of their religion that are determined in their sorrow upon any occasion whatsoever. We must never say, \"We will go to our grave mourning,\" because we know not what joyful days Providence may yet reserve for us, and it is our wisdom and duty to accommodate ourselves to Providence. [3.] We often perplex ourselves with imaginary troubles. We fancy things worse than they are, and then afflict ourselves more than we need. Sometimes there needs no more to comfort us than to undeceive us: it is good to hope the best.\nII. The Ishmaelites and Midianites having bought Joseph only to make their market of him, here we have him sold again (with gain enough to the merchants, no doubt) to Potiphar, Gen 37:36. Jacob was lamenting the loss of his life; had he known all he would have lamented, though not so passionately, the loss of liberty. Shall Jacob's freeborn son exchange the best robe of his family for the livery of an Egyptian lord, and all the marks of servitude? How soon was the land of Egypt made a house of bondage to the seed of Jacob! Note, It is the wisdom of parents not to bring up their children too delicately, because they know not to what hardships and mortifications Providence may reduce them before they die. Jacob little thought that ever his beloved Joseph would be thus bought and sold for a servant.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 39:1",
+      "note_ref": "MHC/1/39/1",
+      "cites": [
+        "Genesis 39:1"
+      ],
+      "text": "Here is, I. Joseph bought (Gen 39:1), and he that bought him, whatever he gave for him, had a good bargain of him; it was better than the merchandise of silver. The Jews have a proverb, \"If the world did not know the worth of good men, they would hedge them about with pearls.\" He was sold to an officer of Pharaoh, with whom he might get acquainted with public persons and public business, and so be fitted for the preferment for which he was designed. Note, 1. What God intends men for he will be sure, some way or other, to qualify them for. 2. Providence is to be acknowledged in the disposal even of poor servants and in their settlements, and therein may perhaps be working towards something great and important.\nII. Joseph blessed, wonderfully blessed, even in the house of his servitude.\n1. God prospered him, Gen 39:2, Gen 39:3. Perhaps the affairs of Potiphar's family had remarkably gone backward before; but, upon Joseph's coming into it, a discernible turn was given to them, and the face and posture of them altered on a sudden. Though, at first, we may suppose that his hand was put to the meanest services, even in those appeared his ingenuity and industry; a particular blessing of Heaven attended him, which, as he rose in his employment, became more and more discernible. Note, (1.) Those that have wisdom and grace have that which cannot be taken away from them, whatever else they are robbed of. Joseph's brethren had stripped him of his coat of many colours, but they could not strip him of his virtue and prudence. (2.) Those that can separate us from all our friends, yet cannot deprive us of the gracious presence of our God. When Joseph had none of all his relations with him, he had his God with him, even in the house of the Egyptian. Joseph was separated from his brethren, but not from his God; banished from his father's house, but the Lord was with him, and this comforted him. (3.) It is God's presence with us that makes all we do prosperous. Those that would prosper must therefore make God their friend; and those that do prosper must therefore give God the praise.\n2. His master preferred him, by degrees made him steward of his household, Gen 39:4. Note, (1.) Industry and honesty are the surest and safest way both of rising and thriving: Seest thou a man prudent, and faithful, and diligent in his business? He shall stand before kings at length, and not always before mean men. (2.) It is the wisdom of those that are in any sort of authority to countenance and employ those with whom it appears that the presence of God is, Psa 101:6. Potiphar knew what he did when he put all into the hands of Joseph; for he knew it would prosper better there than in his own hand. (3.) He that is faithful in a few things stand fair for being made ruler over many things, Mat 25:21. Christ goes by this rule with his servants. (4.) It is a great ease to a master to have those employed under him that are trusty. Potiphar was so well satisfied with Joseph's conduct that he knew not aught he had, save the bread which he did eat, Gen 39:6. The servant had all the care and trouble of the estate; the master had only the enjoyment of it: an example not to be imitated by any master, unless he could be sure that he had one in all respects like Joseph for a servant.\n3. God favoured his master for his sake (Gen 39:5): He blessed the Egyptian's house, though he was an Egyptian, a stranger to the true God, for Joseph's sake; and he himself, like Laban, soon learned it by experience, Gen 30:27. Note, (1.) Good men are the blessings of the places where they live; even good servants may be so, though mean, and lightly esteemed. (2.) The prosperity of the wicked is, one way or other, for the sake of the godly. Here was a wicked family blessed for the sake of one good servant in it."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 37:26",
+      "note_ref": "TYN/1/37/26",
+      "cites": [
+        "Genesis 37:28"
+      ],
+      "text": "37:26 Judah began to exercise leadership that he would continue to develop as events unfolded (see 43:8-10)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 37:28",
+      "note_ref": "TYN/1/37/28",
+      "cites": [
+        "Genesis 37:28"
+      ],
+      "text": "37:28 the Ishmaelites, who were Midianite traders (literally the Midianite traders): Ishmaelites were descendants of Abraham through Hagar (16:5), while Midianites were descendants of Abraham through Keturah (25:1-2). The term Ishmaelite may have described bedouin tribes generally. The Midianites might also have been traveling with a separate caravan of Ishmaelite traders (37:27). • Kidnapping (see 40:15) would become a capital offense (see Exod 21:16) in Jewish law."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 37:29",
+      "note_ref": "TYN/1/37/29",
+      "cites": [
+        "Genesis 37:28"
+      ],
+      "text": "37:29-30 When Reuben returned, he tore his clothes in grief. His attempt to restore his relationship with his father by saving Joseph had gone awry."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 37:36",
+      "note_ref": "TYN/1/37/36",
+      "cites": [
+        "Genesis 37:36"
+      ],
+      "text": "37:36 sold Joseph to Potiphar: Joseph found himself in a place of service that seemed congruent with his rise to authority, yet he still faced more testing."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 39:1",
+      "note_ref": "TYN/1/39/1",
+      "cites": [
+        "Genesis 39:1"
+      ],
+      "text": "39:1–47:31 Joseph began as a slave, alienated from his brothers and separated from his father; he ended as Pharaoh’s viceroy. Through the trips to Egypt, the covenant family went from the brink of apostasy, divided by jealousy and deception, to being reconciled and united by Judah’s intercession and Joseph’s forgiveness.\n39:1-23 Joseph’s integrity in Potiphar’s service contrasts with Judah’s moral failure (ch 38). God was with Joseph (39:2-3, 21, 23) and enabled him to prosper and be a blessing (see study notes on 12:1-9; 28:16-22) despite his slavery and imprisonment."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 39:2",
+      "note_ref": "TYN/1/39/2",
+      "cites": [
+        "Genesis 39:1"
+      ],
+      "text": "39:2 God is mentioned for the first time (apart from 38:7-10) since Jacob built his altar in Bethel (35:1-15); his covenant name, “the Lord,” is used for the first time since Jacob left Laban (31:49)."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 37:28",
+      "note_ref": "GNV/1/37/28",
+      "cites": [
+        "Genesis 37:28"
+      ],
+      "text": "Moses writing according to the opinion of them which took the Midianites and Ishmaelites to be both one, doth here confound their names: as also appeareth, verse 36 and Gen. 39:1, or else he was first offered to the Midianites, but sold to the Ishmaelites."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 37:35",
+      "note_ref": "GNV/1/37/35",
+      "cites": [
+        "Genesis 37:36"
+      ],
+      "text": "Or, I will mourn for him so long as I live."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 37:36",
+      "note_ref": "GNV/1/37/36",
+      "cites": [
+        "Genesis 37:36"
+      ],
+      "text": "Or, captain of the guard.\nWhich word doth not always signify him that is gelded, but also him that is in some high dignity."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 39:1",
+      "note_ref": "GNV/1/39/1",
+      "cites": [
+        "Genesis 39:1"
+      ],
+      "text": "Read Gen. 37:36."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 39:2",
+      "note_ref": "GNV/1/39/2",
+      "cites": [
+        "Genesis 39:1"
+      ],
+      "text": "The favor of God is the fountain of all prosperity."
+    }
+  ]
+}

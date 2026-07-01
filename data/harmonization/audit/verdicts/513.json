@@ -1,0 +1,22 @@
+{
+  "contradiction_id": 513,
+  "excerpts": [
+    {
+      "excerpt_uid": "513#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "pass",
+      "action": null,
+      "reason": "Clarke's note ('This vinegar must not be confounded with the vinegar and gall mentioned Mat 27:34, and Mar 15:23. That, being a stupifying potion ... he refused to drink; but of this he took a little, and then expired, Joh 19:30') is verbatim in the embedded source and directly reconciles the refuse-versus-drink tension by distinguishing the two offers."
+    }
+  ],
+  "guardrails": {
+    "parity": "ok",
+    "connectives": "ok",
+    "named_skeptic": "ok",
+    "discrepancy_integrity": "ok",
+    "deeper_learning": "ok",
+    "reason": "reconcile_first row. Reconcile connective ('separate two offers — a stupefying drink refused before death, and the plain sour wine Jesus received in His thirst just before He died') accurately introduces the Clarke excerpt, is on-tension, and does not overclaim. Discrepancy pole is named_skeptic — Steve Wells, Skeptic's Annotated Bible 'Did Jesus drink on the cross?' (skepticsannotatedbible.com/contra/drink.html) is the real, verified page posing exactly the Synoptic-refuses vs Johannine-drinks conflict; fairly represented. Parity ok (reconcile_first; reconcile 1 excerpt + connective >= discrepancy skeptic connective). Not a discrepancy_first row, so discrepancy_integrity n/a. Deeper-learning exit real and on-topic: Haley 1874 harmonizes the drink by two distinct offers, and gotquestions.org/Jesus-vinegar-on-the-cross.html (verified) is a live page distinguishing the refused pre-crucifixion drugged drink from the vinegar received near death — allowlisted domain, on-topic."
+  }
+}

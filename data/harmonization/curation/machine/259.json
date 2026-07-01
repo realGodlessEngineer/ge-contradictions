@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 259,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders resolve the three fathers by distinguishing two Hemans and reading \"sons of Mahol\" as a title (or another name for Zerah), not a literal third father.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, whose Skeptic's Annotated Bible is the upstream of this question, presses the plain reading: the texts simply assign Heman three different fathers — Mahol, Zerah, and Joel.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Who was Heman's father?\" (skepticsannotatedbible.com/contra/heman.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Who was Heman's father?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "1 Kings 4:29",
+      "excerpt_text": "These four persons are most probably the same as the \"sons of Zerach\" (Ethan, Heman, Calcol, and Dara) mentioned in Ch1 2:6, since the names perfectly agree … But they were both Levites - Heman a Korahite of the line of Kohath and a grandson of Samuel (Ch1 6:18-19) … It by no means follows from Ch1 2:6 that they were lineal descendants of Zerach.",
+      "full_note_ref": "KD/11/4/29",
+      "on_tension_rationale": "Directly harmonizes all three fathers: equates the Kings 'sons of Mahol' four with the Chronicles 'sons of Zerach'; notes Heman the singer is the Levite grandson of Samuel (i.e. son of Joel); and denies that the Zerah grouping requires literal descent — dissolving the Mahol/Zerah/Joel conflict. Anchor block, on-tension sentences drawn from deep inside.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Kings 4:31",
+      "excerpt_text": "the sons of Mahol—either another name for Zerah (Ch1 2:6); or taking it as a common noun, signifying a dance, a chorus, \"the sons of Mahol\" signify persons eminently skilled in poetry and music.",
+      "full_note_ref": "JFB/11/4/31",
+      "on_tension_rationale": "Squarely addresses the Mahol-vs-Zerah half of the tension: 'Mahol' is either another name for Zerah or an appellative ('sons of music/dancing'), so it is not a competing third father.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "1 Kings 4:31",
+      "excerpt_text": "In Ch1 2:6 we have all the four names, but they are probably not the same persons, for they are there said to be the sons of Zerah, and he flourished long before Solomon's time.",
+      "full_note_ref": "CLARKE/11/4/31",
+      "on_tension_rationale": "Carries the 'two different Hemans' harmonization: the Zerah-line Heman of 1 Chr 2:6 is distinguished from the later figure, so the divergent fathers belong to distinct men rather than to one contradictory genealogy.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on 1 Kings 4:31",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly: identifies the 'sons of Mahol' with the 'sons of Zerach,' shows Heman the singer is the Levite grandson of Samuel, and argues the Zerah grouping is honorary rather than lineal — the fullest harmonization of the three fathers surfaced on this row. (Used as the anchor because Haley's coverage of this specific passage could not be confirmed.)"
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page (gotquestions.org, carm.org, defendinginerrancy.com) treats this specific genealogy row; gotquestions two-Hemans.html and defendinginerrancy 1_Kings_4.31.php both 404. Link omitted rather than guessed."
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "contradiction_id": 253,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders close the gap by ledger: Chronicles' larger Israel total folds in the 300,000 standing army that Samuel set aside, while Samuel's larger Judah total adds a 30,000 frontier force Chronicles omitted.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "filled",
+      "connective": "One gathered commentator declines the reconciliation outright, granting that the two totals cannot both be right and tracing the gap to scribal corruption in the numbers.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Chronicles 21:5",
+      "excerpt_text": "It amounted to one million one hundred thousand men in Israel, capable of bearing arms, inclusive of the three hundred thousand military (Ch1 27:1-9), which, being already enlisted in the royal service, were not reckoned (Sa2 24:9), and to four hundred seventy thousand men in Judah, omitting thirty thousand which formed an army of observation stationed on the Philistine frontier (Sa2 6:1).",
+      "full_note_ref": "JFB/13/21/5",
+      "on_tension_rationale": "Single sentence that resolves BOTH numeric differences at once: the 300,000 standing army accounts for the 1,100,000 vs 800,000 Israel gap, the 30,000 frontier force for the 500,000 vs 470,000 Judah gap, and it names both source verses (Ch1 27 / Sa2 24:9 / Sa2 6:1). Strongest single reconcile; parity-capped to one on this discrepancy_first row.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "discrepancy",
+      "source_code": "CLARKE",
+      "verse_ref": "2 Samuel 24:9",
+      "excerpt_text": "Neither of these sums is too great, but they cannot be both correct; and which is the true number is difficult to say. … To attempt to reconcile them in every part is lost labor; better at once acknowledge what cannot be successfully denied …",
+      "full_note_ref": "CLARKE/10/24/9",
+      "on_tension_rationale": "Rare case the spec endorses: a gathered note itself CONCEDES the contradiction. Clarke grants the two totals 'cannot be both correct,' calls reconciling them 'lost labor,' and elsewhere in the same note attributes the gap to scribal mistake/corruption. First span ends on a real source period; second span (non-adjacent, sense-preserving join) truncated before the continuation 'that although the original writers...' → ' …'. This makes the discrepancy pole filled with a verbatim excerpt, so no named skeptic is needed (and Paine does NOT press this exact pair — verified — nor does SAB/DiMattei have a dedicated numbers row).",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 1 Chronicles 21:5 and 2 Samuel 24:9",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Row-surfaced harmonizer keyed to the exact passage: resolves the 300,000 Israel gap via the standing army not reckoned in Samuel and the 30,000 Judah gap via a frontier army omitted in Chronicles. Used as the textual anchor because Haley's verbatim coverage of this specific number pair could not be confirmed."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/2_Samuel_24.9.php",
+        "domain": "defendinginerrancy.com",
+        "title": "2 Samuel 24:9 — Why do the numbers of men recorded in 2 Samuel 24:9 and in 1 Chronicles 21:5-6 disagree?",
+        "note": "Verified live + on-topic: cites both verses and harmonizes via the standing-army (288,000+) inclusion in Chronicles and the 30,000 frontier force excluded from Chronicles' Judah count — 'Both calculations are correct according to the groups which were included and excluded from each report.'"
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 276,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The harmonizers' strongest move is textual: the date is a copyist's slip, the original \"16\" miscopied as \"36.\"",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Otto Thenius pressed the harder objection — that the Chronicler reworked and misrepresented his Kings source, so the thirty-sixth-year date reflects a real defect in Chronicles, not a recoverable scribal accident.",
+      "skeptic": {
+        "name": "Otto Thenius",
+        "work": "Die Bücher der Könige (Kurzgefasstes exegetisches Handbuch)",
+        "year": "1849",
+        "attribution": "Otto Thenius (d. 1876), Die Bücher der Könige (1849)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "2 Chronicles 16:1",
+      "excerpt_text": "There remains therefore no alternative but to regard the text as erroneous - the letters ל (30) and י (10), which are somewhat similar in the ancient Hebrew characters, having been interchanged by a copyist; and hence the numbers 35 and 36 have arisen out of the original 15 and 16.",
+      "full_note_ref": "KD/14/16/1",
+      "on_tension_rationale": "Directly states the harmonization for the 26-vs-36 conflict: the date is a scribal interchange of Hebrew numeral letters, original 16 became 36, removing the ten-year gap. Block-anchored; sentence drawn from deep in the KD block.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on 2 Chronicles 16:1",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this passage directly, arguing the thirty-sixth-year date is a copyist's interchange of the Hebrew numeral letters (original 16, not 36) and that all the Chronicle's Asa data then harmonize with Kings."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/2_Chronicles_16.1.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in 2 Chronicles 16:1?",
+        "note": "live apologetic treatment arguing the \"thirty-six\" is a copyist error for \"sixteen\""
+      }
+    }
+  }
+}

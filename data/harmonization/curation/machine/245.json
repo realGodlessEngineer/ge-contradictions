@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 245,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The harmonizing tradition treats \"forty years\" as a textual corruption, reading \"four years\" with the Syriac, Arabic, and Josephus, and shows that forty cannot fit David's reign at all.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells of the Skeptic's Annotated Bible presses the plain Masoretic reading: 2 Samuel 15:7 dates Absalom's revolt \"after forty years,\" yet 2 Samuel 5:4 gives David a reign of only forty years total, so the rebellion cannot fall where the received text places it.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"When did Absalom rebel against David?\" (skepticsannotatedbible.com/contra/absalom_rebel.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"When did Absalom rebel against David?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "2 Samuel 15:7",
+      "excerpt_text": "It is generally admitted that an error has here crept into the text, and that instead of \"forty,\" we should read with the Syriac and Arabic versions, and JOSEPHUS, \"four years\"—that is, after Absalom's return to Jerusalem, and his beginning to practice the base arts of gaining popularity.",
+      "full_note_ref": "JFB/10/15/7",
+      "on_tension_rationale": "Directly addresses the tension by declaring 'forty' a textual error and adopting 'four years' on Syriac/Arabic/Josephus authority — the core harmonization of this row.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "2 Samuel 15:7",
+      "excerpt_text": "The number forty is altogether unsuitable, as it cannot possibly be understood either as relating to the age of Absalom or to the year of David's reign: for Absalom was born at Hebron after David had begun to reign, and David only reigned forty years and a half in all, and Absalom's rebellion certainly did not take place in the last few weeks of his reign. … Consequently the reading adopted by the Syriac, Arabic, and Vulgate, also by Theodoret and others, viz., \"four years,\" must certainly be the correct one …",
+      "full_note_ref": "KD/10/15/7",
+      "on_tension_rationale": "Spells out exactly why 'forty' is impossible given David's forty-year reign (the 2 Sam 5:4 datum) and concludes 'four years' must be correct — engages the contradiction head-on.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "2 Samuel 15:7",
+      "excerpt_text": "There is no doubt that this reading is corrupt, though supported by the commonly printed Vulgate, the Septuagint, and the Chaldee. But the Syriac has arba shanin, Four years; the Arabic the same arba shinin, Four years; and Josephus has the same …",
+      "full_note_ref": "CLARKE/10/15/7",
+      "on_tension_rationale": "A third distinct text-critical voice declaring the 'forty' reading corrupt and marshalling the versional witnesses for 'four years.'",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 2 Samuel 15:7",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Treats this exact verse, stating that 'forty' is a textual error and that 'four years' should be read with the Syriac, Arabic, and Josephus. Used as the passage-specific anchor because Haley's coverage of this verse could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) treats the 2 Samuel 15:7 'forty years vs four years' difficulty; gotquestions forty-years-Absalom.html and defendinginerrancy 2_Samuel_15.7.php both 404. Link omitted rather than guessed."
+      }
+    }
+  }
+}

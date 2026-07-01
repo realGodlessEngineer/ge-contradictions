@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 76,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Genesis 6:3's 120 years as a grace period before the flood, not a lifespan cap, and Psalm 90:10's seventy as the Mosaic-era norm after the long antediluvian ages — so the figures describe different things and different eras.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The Skeptic's Annotated Bible presses the figures at face value, observing that after the flood many patriarchs lived far longer than God's stated 120-year limit, so the texts give incompatible answers.",
+      "skeptic": {
+        "name": "Steve Wells (Skeptic's Annotated Bible)",
+        "work": "Skeptic's Annotated Bible, \"What is the human life span?\"",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, \"What is the human life span?\" (skepticsannotatedbible.com/contra/lifespan.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Genesis 6:3",
+      "excerpt_text": "It is possible that this was a new restriction on the number of years individuals would generally be allowed to live (so the NLT). However, for generations after the flood, humans lived well beyond 120 years (see, e.g., Gen 11:10-26). An alternative interpretation sees this as a 120-year grace period before the arrival of the flood (see Jon 3:4; Matt 24:37-38; 1 Pet 3:20; 2 Pet 2:5).",
+      "full_note_ref": "TYN/1/6/3",
+      "on_tension_rationale": "Directly names the cap-reading, concedes it fails because post-flood patriarchs lived past 120 (the genealogy half of the tension, citing Gen 11:10-26), then gives the grace-period harmonization. The single strongest on-tension excerpt on the row.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Psalms 90:10",
+      "excerpt_text": "before the flood, men lived to a great age; some nine hundred years and upwards; after the flood, men lived not so long; the term fixed then, as some think, was an hundred and twenty years, grounding it on the passage in Gen 6:3, but now, in the time of Moses, it was brought to threescore years and ten, or eighty at most …",
+      "full_note_ref": "GILL/19/90/10",
+      "on_tension_rationale": "Reconciles all three figures (900+, 120, and 70) as a sequence of eras, reading Psalm 90:10's seventy as the Mosaic-era norm — distinct voice from TYN, covers the Psalm half of the tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Psalm 90:10",
+        "author": "John Gill",
+        "year": "1746-63",
+        "note": "Gill's note on Psalm 90:10 explicitly harmonizes the three figures, treating the antediluvian 900+ years, the 120-year term grounded on Gen 6:3, and the seventy-year Mosaic-era norm as a sequence of reductions rather than competing claims."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Genesis_6.3.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Genesis 6:3 — Does this contradict what Moses said in Psalm 90 about human longevity?",
+        "note": "Live apologetic treatment of this exact pair; offers both the grace-period reading and the average-vs-limit / different-era resolution."
+      }
+    }
+  }
+}

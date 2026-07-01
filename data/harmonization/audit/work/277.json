@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 277,
+  "question": "Was Jehu the son or grandson of Nimshi?",
+  "summary": "1 Kings 19:16 calls Jehu the son of Nimshi. 2 Kings 9:2 (and 9:14) calls him the son of Jehoshaphat son of Nimshi, making him Nimshi's grandson. The same person is given two different relationships to the same ancestor within the same narrative complex.",
+  "consensus": "apparent_only",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders note that Hebrew \"son\" routinely means descendant, so calling Jehu \"son of Nimshi\" simply names his grandfather as ancestor.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells of the Skeptic's Annotated Bible presses the plain wording: one verse makes Jehu Nimshi's son, the other his grandson, of the same man in the same story.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible, \"Was Jehu the son or grandson of Nimshi?\" (skepticsannotatedbible.com/contra/jehu.html)",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (skepticsannotatedbible.com/contra/jehu.html)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on 1 Kings 19:16",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill keys the harmonization to this passage, stating Jehu 'was a son of Jehoshaphat, and a grandson of Nimshi' so the shorter '1 Kgs son of Nimshi' names the grandfather as ancestor."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) engages this exact tension; the only on-topic article (The Domain for Truth) is off-allowlist, so the link is omitted."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "277#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "1 Kings 19:16",
+      "full_note_ref": "GILL/11/19/16",
+      "excerpt_text": "This was a son of Jehoshaphat, and a grandson of Nimshi …",
+      "on_tension_rationale": "Directly resolves the son-vs-grandson wording by naming the intervening generation: Jehu is son of Jehoshaphat and grandson of Nimshi, so '1 Kgs son of Nimshi' = ancestor/grandson. Only gathered voice that engages the genealogical tension verbatim. Truncated at a source semicolon -> ' …'.",
+      "source_note_text": "And Jehu the son of Nimshi shalt thou anoint to be king over Israel,.... This was a son of Jehoshaphat, and a grandson of Nimshi; nor does he appear to have been anointed by Elijah, but by Elisha; and being done by his order and direction was the same as if it was done by himself, unless he was twice anointed, see Kg2 9:1.\nand Elisha the son of Shaphat of Abelmeholah shalt thou anoint to be prophet in thy room; which was in the half tribe of Manasseh, on this side Jordan; See Gill on Jdg 7:22."
+    }
+  ]
+}

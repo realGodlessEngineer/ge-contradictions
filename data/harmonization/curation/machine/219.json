@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 219,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the lists as compatible: Ishui and Abinadab are one man under two names, and the fourth son (Esh-baal/Ish-bosheth) is simply left out of the battle-roll in Samuel.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the plain numeric and onomastic clash — three sons named in Samuel against four, differently named, in Chronicles — as a genealogical contradiction the harmonizers must explain away.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), \"Who were Saul's sons?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Samuel 14:49",
+      "excerpt_text": "and Ishui; the same with Abinadab, Ch1 8:33 for he had two names … and besides these three there was another, whose name was Ishbosheth, sometimes called Eshbaal, Sa2 2:8 who succeeded him in the kingdom … it is generally supposed the reason why these only are named is, because they went out to war with him, and died with him, but this did not",
+      "full_note_ref": "GILL/9/14/49",
+      "on_tension_rationale": "Directly resolves both halves of the tension: identifies Ishui = Abinadab (two names for one son) and explains the count difference (a fourth son, Eshbaal/Ishbosheth, omitted in Samuel because only the war-slain sons are listed). Verbatim sentences joined by sense-preserving ellipsis.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Chronicles 8:33",
+      "excerpt_text": "Abinadab—the same as Ishui (Sa1 14:49). … Esh-baal—that is, Ish-bosheth.",
+      "full_note_ref": "JFB/13/8/33",
+      "on_tension_rationale": "Concise name-identity equation from a distinct voice: Abinadab = Ishui and Esh-baal = Ish-bosheth, which is exactly the bridge between the two lists. Typeset '--' normalized to em-dash; two verbatim lines joined by ellipsis.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "1 Samuel 14:49",
+      "excerpt_text": "Jisvi is only another name for Abinadab (Sa1 31:2; Ch1 8:33; Ch1 9:39). In these passages in the Chronicles there is a fourth mentioned, Esh-baal, i.e., the one who is called Ish-bosheth in Sa2 2:8, etc., and who was set up by Abner as the antagonist of David. The reason why he is not mentioned here it is impossible to determine. It may be that the name has fallen out simply through some mistake in copying …",
+      "full_note_ref": "KD/9/14/47",
+      "on_tension_rationale": "Strongest scholarly harmonization on the row, drawn from inside the block-anchored note: Jisvi = Abinadab, names the fourth (Esh-baal = Ish-bosheth), and offers the textual explanation (the name lost in copying) for the count difference. Trailing colon-clause truncated with elision marker; no added period.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on 1 Samuel 14:49",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly: identifies Jisvi with Abinadab, names the fourth son Esh-baal (= Ish-bosheth) given in Chronicles, and explains the differing count as an omission or copyist loss. Used as the PD harmonizing anchor because Haley's specific coverage of this passage could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page on an allowlisted domain (gotquestions.org / carm.org / defendinginerrancy.com) could be verified for this specific contradiction; link omitted rather than fabricated."
+      }
+    }
+  }
+}

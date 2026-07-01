@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 40,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the two counts as one command refined: two of every kind for survival, with extra clean animals added for post-flood sacrifice — and deny this proves two spliced sources.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Julius Wellhausen made the animal-count split a foundational case for the Documentary Hypothesis, assigning the seven clean pairs of Genesis 7:2 to the J source and the uniform two-of-each of Genesis 6:19 to the later Priestly writer, two flood accounts a redactor stitched together.",
+      "skeptic": {
+        "name": "Julius Wellhausen",
+        "work": "Prolegomena to the History of Israel",
+        "year": "1885",
+        "attribution": "Julius Wellhausen (d. 1918), Prolegomena to the History of Israel (ET 1885; German 1878/1883)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 7:1",
+      "excerpt_text": "The fact that in the command to enter the ark a distinction is now made between clean and unclean animals, seven of the former being ordered to be taken, - i.e., three pair and a single one, probably a male for sacrifice-is no more a proof of different authorship, or of the fusion of two accounts, than the interchange of the names Jehovah and Elohim.",
+      "full_note_ref": "KD/1/7/1",
+      "on_tension_rationale": "Directly engages and rebuts the source-critical reading of the two-vs-seven discrepancy (the exact objection Wellhausen presses): the seven clean / two unclean distinction is no proof of two fused accounts. Strongest single harmonization because it answers the named skeptic head-on. Single hyphens used as dashes in the source are kept verbatim (not the spec's allowed '--' case).",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Genesis 7:1",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly: argues the clean/unclean seven-vs-two distinction is no proof of different authorship or fusion of two accounts, answering the documentary reading of the animal-count discrepancy."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/how-many-animals-were-on-Noahs-ark.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: How many animals were on Noah's ark?",
+        "note": "Live apologetic treatment harmonizing Genesis 6:19 (two of every kind) with Genesis 7:2 (seven pairs of clean animals)."
+      }
+    }
+  }
+}

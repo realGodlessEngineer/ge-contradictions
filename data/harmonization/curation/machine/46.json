@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 46,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read John 6's \"eat my flesh, drink my blood\" as figurative spiritual partaking, while the literal Levitical blood-ban was a ceremonial statute pointing forward to Christ's atoning blood.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells of the Skeptic's Annotated Bible presses the tension directly, listing the perpetual blood-prohibition statutes against John 6's command to drink Christ's blood as a flat contradiction.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"Is it OK to eat blood?\"",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, \"Is it OK to eat blood?\" (skepticsannotatedbible.com/contra/eat_blood.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "John 6:52",
+      "excerpt_text": "Flesh cannot put a difference between fleshly eating which is done by the help of the teeth, and spiritual eating which consisteth in faith, and therefore is condemneth that which it understandeth not …",
+      "full_note_ref": "GNV/43/6/52",
+      "on_tension_rationale": "Distinguishes literal/fleshly eating from spiritual eating-by-faith, which is the core move that keeps John 6 from colliding with the literal blood ban.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "John 6:53",
+      "excerpt_text": "Bishop Pearce justly observes that the ideas of eating and drinking are here borrowed to express partaking of, and sharing in. Thus spiritual happiness on earth, and even in heaven, is expressed by eating and drinking …",
+      "full_note_ref": "CLARKE/43/6/53",
+      "on_tension_rationale": "Names the figurative mechanism explicitly: 'eating and drinking' is borrowed language for partaking/sharing, not literal consumption of blood.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Acts 15:20",
+      "excerpt_text": "blood was forbidden to be eaten, till that sacrifice was offered up; and then that blood itself was to be spiritually eaten by faith: and now if eating of blood in general was morally evil in itself, it would be a monstrous shocking thing in the Christian religion, that the blood of Christ is to be drank; though it be to be understood in a spiritual sense …",
+      "full_note_ref": "GILL/44/15/20",
+      "on_tension_rationale": "The one note that bridges both passages: the ceremonial blood-ban pointed forward to Christ's sacrifice, whose blood is then 'spiritually eaten by faith' rather than drunk literally.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on John 6:53",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, arguing the 'eating' and 'drinking' of Christ's flesh and blood is borrowed figurative language for partaking of the atonement, not literal blood-consumption, which dissolves the conflict with the Levitical blood-ban."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page confirmed to engage John 6:53-56; GotQuestions' eating/drinking-blood article does not address the John 6 tension, so omitted per the on-topic requirement."
+      }
+    }
+  }
+}

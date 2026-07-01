@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 186,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Ezekiel's denial as comparative — God has no delight in death for its own sake, yet the holiness of his love still requires the destruction Deuteronomy describes.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible annotates Deuteronomy 28:63 and files it directly under \"Does God take pleasure in the death of the wicked?\", holding that the LORD who \"rejoices to destroy\" cannot be the same God who in Ezekiel 18:23 disclaims any pleasure in the wicked's death.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); skepticsannotatedbible.com, contradiction \"Does God take pleasure in the death of the wicked?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Deuteronomy 28:63",
+      "excerpt_text": "Greatly as the sin of man troubles God, and little as the pleasure may be which He has in the death of the wicked, yet the holiness of His love demands the punishment and destruction of those who despise the riches of His goodness and long-suffering …",
+      "full_note_ref": "KD/5/28/15",
+      "on_tension_rationale": "Block-anchored K&D note on Deut 28:63 explicitly names the Ezekiel side ('little pleasure in the death of the wicked') and harmonizes it with the Deuteronomic 'rejoice to destroy' by appeal to the holiness of God's love — the strongest single cross-textual reconciliation on the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Ezekiel 18:23 and Deuteronomy 28:63",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry harmonizes both passages directly on the row: on Ezekiel 18:23 he writes 'It is spoken here comparatively; he has not pleasure in the ruin of sinners ... that is the will of his decree, his consequent will, but it is not his antecedent will, the will of his delight,' and on Deut 28:63 explains how sin 'makes it necessary for the God of infinite goodness to rejoice in the destruction of his own creatures.' Used in place of Haley because Haley's coverage of this specific verse-pair could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org/carm.org/defendinginerrancy.com) directly engages the Deut 28:63 vs. Ezek 18:23 tension; the gotquestions 'death of the wicked' page treats only the Ezekiel side and avoids the cross-passage conflict, so the optional link is omitted rather than cite an off-tension page."
+      }
+    }
+  }
+}

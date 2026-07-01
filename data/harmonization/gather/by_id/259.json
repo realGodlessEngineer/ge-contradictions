@@ -1,0 +1,748 @@
+{
+  "contradiction_id": 259,
+  "question": "Who was Heman's father?",
+  "summary": "1 Kings 4:31 calls Heman a \"son of Mahol\" along with Ethan, Chalcol, and Darda. 1 Chronicles 2:6 lists Heman among the sons of Zerah. 1 Chronicles 6:33 and 1 Chronicles 15:17 identify Heman the singer as the son of Joel. Three different fathers for Heman: Mahol, Zerah, and Joel.",
+  "consensus": "probable_harmonization",
+  "consensus_id": 4,
+  "category": "Genealogy & Identity",
+  "contradiction_type": "genealogical",
+  "testament_scope": "OT_internal",
+  "books_in_tension": "1 Kings, 1 Chronicles",
+  "refs_raw": [
+    "1 Kings 4:31",
+    "1 Chronicles 2:6",
+    "1 Chronicles 6:33",
+    "1 Chronicles 15:17"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "1 Kings 4:31",
+      "book": "1 Kings",
+      "bolls": 11,
+      "ranges": [
+        [
+          4,
+          31,
+          31
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 2:6",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          2,
+          6,
+          6
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 6:33",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          6,
+          33,
+          33
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 15:17",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          15,
+          17,
+          17
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 68,
+  "notes_raw_count": 74,
+  "notes_dropped": 6,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "1 Kings 4:29",
+      "note_ref": "GILL/11/4/29",
+      "cites": [
+        "1 Kings 4:31"
+      ],
+      "text": "And he spake three thousand proverbs,.... Wise sayings, short and pithy sentences, instructive in morality and civil life; these were not written as the book of Proverbs, but spoken only, and were taken from his lips, and spread by those that heard them for the use of others, but in process of time were lost; whereas the above book, being written under divine inspiration, is preserved: and\nhis songs were a thousand and five; some things that were useful to improve the minds and morals of men he delivered in verse, to make them more pleasant and agreeable, that they might be the more easily received and retained in memory; but of all his songs, the most: excellent is the book of Canticles, called \"the Song of Songs\", being divine and spiritual, and dictated by the inspiration of the Spirit of God: he was both a moral philosopher and poet, as well as a botanist and naturalist, and well-skilled in medicine, as the following words suggest, Kg1 4:33."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Kings 4:30",
+      "note_ref": "GILL/11/4/30",
+      "cites": [
+        "1 Kings 4:31"
+      ],
+      "text": "And he spake of trees,.... Of all trees, herbs, and plants, of the nature, virtues, and use them:\nfrom the cedar tree that is in Lebanon: a mountain on the northern border of Judea, famous for cedars, the tallest and largest of trees:\neven unto the hyssop that springeth out of the wall; which grew about Jerusalem, and in the mountains of it, as an Arabic writes testifies (p), the lowest and least herb; so that what is between the cedar and hyssop include trees and plants of every kind and sort: whether the same herb we call hyssop is meant, is not certain; some take it to be mint; others marjoram; some houseleek; others the wallflower; Levinus Lemnius (q) supposes it to be Adiantum, or maiden hair: the Targum interprets it allegorically, that he prophesied of the kings of the house of David in this world, and in the world to come of the Messiah:\nhe spake also of beasts, and of fowls, and of creeping things, and of fishes; he understood the nature of all sorts of animals in the earth, air, and sea, and discoursed of their names, kinds, qualities, and use, with the greatest ease and perspicuity; the Jews fancy that Aristotle's History of Animals is his, which that philosopher came upon, and published it in his own name. Suidas (r) says it was reported that Solomon wrote a book of medicines for all diseases, which was fixed to the entrance of the temple, which Hezekiah took away, because sick people applied to that for cure of their disorders, and neglected to pray to God.\n(p) Isaac Ben Omram apud Bochart. Hierozoic. par. 1. l. 2. c. 50. col. 590. (q) Herb. Bibl. Explicat. c. 26. (r) In voce"
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Kings 4:31",
+      "note_ref": "GILL/11/4/31",
+      "cites": [
+        "1 Kings 4:31"
+      ],
+      "text": "And there came of all people to hear the wisdom of Solomon,\nfrom all kings of the earth,.... Who sent their ambassadors to his court to know the truth of what was reported, and bring them some proofs and specimens, by which they might judge of the truth of the relations that had been told them; which perhaps might seem to them to be beyond all belief:\nwhich had heard of his wisdom; for the fame of it was spread everywhere by merchants and travellers, and such sort of persons, who had been at Jerusalem, and were masters of various anecdotes relating to Solomon; which they industriously spread in the several parts of the world they had dealings in.\nNext: 1 Kings Chapter 5"
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 2:4",
+      "note_ref": "GILL/13/2/4",
+      "cites": [
+        "1 Chronicles 2:6"
+      ],
+      "text": "And the sons of Zerah,.... The other twin of Judah:\nZimri, and Ethan, and Heman, and Calcol, and Dara: five of them in all; the Targum calls them governors, and adds, on whom the spirit of prophecy dwelt; and in the Jewish chronology (n) they are said to prophesy in Egypt; and the four last are supposed to be the same with those in Kg1 4:31. See Gill on Kg1 4:31.\n(n) Seder Olam Rabba, c. 20. p. 52."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 2:5",
+      "note_ref": "GILL/13/2/5",
+      "cites": [
+        "1 Chronicles 2:6"
+      ],
+      "text": "And the sons of Carmi,.... The Targum adds, this is Zimri; but in Jos 7:1 Carmi is said to be the son of Zabdi, who seems to be the same with Zimri; and some supply the word here, and read (o) the sons of Zimri, Carmi, Achar, who was the grandson of Zimri; his proper name was Achan, Jos 7:1, but called Achar here by way of reproach, as Jarchi and others observe; being, as it follows:\nthe troubler of Israel, as Achar signifies: \"who transgressed in the thing accursed\"; devoted to the Lord, by taking it away for his own use, see Jos 6:17, hence the valley in which he was put to death was called Achor, Jos 6:26.\n(o) So Junius & Tremellius, & Piscator."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 2:6",
+      "note_ref": "GILL/13/2/6",
+      "cites": [
+        "1 Chronicles 2:6"
+      ],
+      "text": "And the sons of Ethan; Azariah. Including his posterity, see Gen 46:23, the posterity of the other three sons of Zerah are not mentioned, either because the writer could not find the genealogy of them, as Kimchi; or rather, as he thinks, he cuts short the genealogy of Zerah, because the kingdom did not proceed from him, and returns to the genealogy of Hezron, from whence it did, or perhaps they had no children.\n, the posterity of the other three sons of Zerah are not mentioned, either because the writer could not find the genealogy of them, as Kimchi; or rather, as he thinks, he cuts short the genealogy of Zerah, because the kingdom did not proceed from him, and returns to the genealogy of Hezron, from whence it did, or perhaps they had no children.\n1 Chronicles 2:9\nch1 2:9\nch1 2:9\nch1 2:9The sons also of Hezron, that were born unto him,.... The Targum adds, in Timnath; but most likely in Egypt:\nJerahmeel, and Ram, and Chelubai; afterwards called Caleb."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 2:7",
+      "note_ref": "GILL/13/2/7",
+      "cites": [
+        "1 Chronicles 2:6"
+      ],
+      "text": "And Ram begat Amminadab,.... Ram is the same with Aram, Mat 1:3 the genealogy is carried down from him to Jesse in the same order as there, and in Rut 4:19 only here Nahshon the son of Amminadab is called\nthe prince of the children of Judah; which Kimchi and Jarchi say is written for the honour of David, who descended from him; and Salmon his son is here called Salma."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 6:31",
+      "note_ref": "GILL/13/6/31",
+      "cites": [
+        "1 Chronicles 6:33"
+      ],
+      "text": "And his brother Asaph,.... That is, Heman's brother; so Asaph was, as he was a descendant from the same original ancestor Levi, yet in the line of Gershon; and as being of the same office, a precentor, or chief singer:\nwho stood on his right hand; he was next to Heman; Heman stood in the middle, which was the most honourable (h), and Asaph on his right hand, and Ethan, after mentioned, on his left; even Asaph, whose name is often met with in the book of Psalms; and his genealogy here stands thus, as traced up to Levi, viz. Berechiah, Shimea, Michael, Baaseiah, Malchiah, Ethni, Zerah, Adaiah, Ethan, Zimmah, Shimei, Jahath, Gershon, Levi.\n(h) \"Alecto stetit in mediis----\", Claudian in Rufin. l. 1. ver. 41. Vid. Barthii Animadv. in ib."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 6:32",
+      "note_ref": "GILL/13/6/32",
+      "cites": [
+        "1 Chronicles 6:33"
+      ],
+      "text": "And their brethren, the sons of Merari,.... Who were the brethren of the Kohathites and Gershonites, descending from the same ancestor Levi: stood\non the left hand; that is, of Heman, see Ch1 6:39, the chief of whom was Ethan, sometimes called Jeduthun, Ch1 16:41 and often in the book of Psalms; his genealogy is traced up to Levi thus; Kishi, called Kushaiah, Ch1 15:17 Abdi, Malluch, Hashabiah, Amaziah, Hilkiah, Amzi, Bani, Shamer, Mahli, Mushi, Merari, Levi."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 6:33",
+      "note_ref": "GILL/13/6/33",
+      "cites": [
+        "1 Chronicles 6:33"
+      ],
+      "text": "Their brethren also the Levites,.... Who were not skilled in singing, and employed in that service, even the rest of the Kohathites, Gershonites, and Merarites:\nwere appointed unto all manner of service of the tabernacle of the house of God; some were porters at the gates; others had the care of the vessels; others slew the beasts for sacrifices, flayed them, and cut them up, and brought the pieces to the altar of burnt offerings, for the priests to offer."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 15:15",
+      "note_ref": "GILL/13/15/15",
+      "cites": [
+        "1 Chronicles 15:17"
+      ],
+      "text": "And the children of the Levites bare the ark of God upon their shoulders, with the staves thereon, as Moses commanded, according to the word of the Lord. Not only bare it on their shoulders, but with the staves in it, which rested on their shoulders, see Num 7:9, the reason of this command, that the ark should be carried on men's shoulders, and not in any carriage, according to Maimonides (h), was both for the honour of it, and lest its form and structure should be any ways damaged.\n(h) Moreh Nevochim, par. 3. c. 45. p. 479."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 15:16",
+      "note_ref": "GILL/13/15/16",
+      "cites": [
+        "1 Chronicles 15:17"
+      ],
+      "text": "And David spake to the chief of the Levites,.... The six before mentioned, Ch1 15:11.\nto appoint their brethren to be the singers; before the ark, as they brought it up:\nwith instruments of music, psalteries, and harps, and cymbals; which were used in those times, see Sa2 6:5.\nsounding by lifting up the voice with joy; the instrumental music was to be attended with vocal music, and that very sonorous and loud, and performed with all tokens of inward joy and gladness, as the occasion required."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 15:17",
+      "note_ref": "GILL/13/15/17",
+      "cites": [
+        "1 Chronicles 15:17"
+      ],
+      "text": "So the Levites appointed Heman the son of Joel,.... The grandson of Samuel the prophet, Ch1 6:33.\nand of his brethren, Asaph the son of Berechiah; a famous singer, often mentioned in the Psalms, Ch1 6:39.\nand of the sons of Merari their brethren, Ethan the son of Kushaiah; the same with the son of Kishi, Ch1 6:44, these were the chief of the singers."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 15:18",
+      "note_ref": "GILL/13/15/18",
+      "cites": [
+        "1 Chronicles 15:17"
+      ],
+      "text": "And with them their brethren of the second degree,.... Who were next unto them, both in office and skill in singing:\nthe fourteen following, Zechariah, Ben, and Jaaziel, and Shemiramoth, and Jehiel, and Unni, Eliab, and Benaiah, and Maaseiah, and Mattithiah, and Elipheleh, and Mikneiah, and Obededom, and Jeiel, the porters; who, when they were not employed in singing, were doorkeepers of the sanctuary; either they had been porters at the tabernacle in Gibeon, or were so after the ark was placed in the tabernacle David prepared for it."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Kings 4:29",
+      "note_ref": "JFB/11/4/29",
+      "cites": [
+        "1 Kings 4:31"
+      ],
+      "text": "HIS WISDOM. (Kg1 4:29-34)\nGod gave Solomon wisdom and understanding exceeding much, and largeness of heart--that is, high powers of mind, great capacity for receieving, as well as aptitude for communicating knowledge."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Kings 4:30",
+      "note_ref": "JFB/11/4/30",
+      "cites": [
+        "1 Kings 4:31"
+      ],
+      "text": "Solomon's wisdom excelled the wisdom of all the children of the east country--that is, the Arabians, Chaldeans, and Persians (Gen 25:6).\nall the wisdom of Egypt--Egypt was renowned as the seat of learning and sciences, and the existing monuments, which so clearly describe the ancient state of society and the arts, show the high culture of the Egyptian people."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Kings 4:31",
+      "note_ref": "JFB/11/4/31",
+      "cites": [
+        "1 Kings 4:31"
+      ],
+      "text": "wiser than all men--that is, all his contemporaries, either at home or abroad.\nthan Ethan--or Jeduthun, of the family of Merari (Ch1 6:44).\nHeman-- (Ch1 15:17-19) --the chief of the temple musicians and the king's seers (Ch1 25:5); the other two are not known.\nthe sons of Mahol--either another name for Zerah (Ch1 2:6); or taking it as a common noun, signifying a dance, a chorus, \"the sons of Mahol\" signify persons eminently skilled in poetry and music."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Kings 4:32",
+      "note_ref": "JFB/11/4/32",
+      "cites": [
+        "1 Kings 4:31"
+      ],
+      "text": "he spake three thousand proverbs--embodying his moral sentiments and sage observations on human life and character.\nsongs . . . a thousand and five-- Psalm 72, 127, 132, and the Song of Songs are his."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 2:6",
+      "note_ref": "JFB/13/2/6",
+      "cites": [
+        "1 Chronicles 2:6"
+      ],
+      "text": "Zimri, and Ethan, and Heman, and Calcol, and Dara--These five are here stated to be the sons of Zerah, that is, of Ezra, whence they were called Ezrahites (Kg1 4:31). In that passage they are called \"the sons of Mahol,\" which, however, is to be taken not as a proper name, but appellatively for \"sons of music, dancing,\" &c. The traditional fame of their great sagacity and acquirements had descended to the time of Solomon and formed a standard of comparison for showing the superior wisdom of that monarch. Jewish writers say that they were looked up to as prophets by their countrymen during the abode in Egypt."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 2:7",
+      "note_ref": "JFB/13/2/7",
+      "cites": [
+        "1 Chronicles 2:6"
+      ],
+      "text": "the sons of Carmi--He was the son of Zimri, or Zabdi, as he is called (Jos 7:1).\nAchar--or Achan (Jos 7:1). This variety in the form of the name is with great propriety used here, since Achar means \"troubler.\""
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 6:32",
+      "note_ref": "JFB/13/6/32",
+      "cites": [
+        "1 Chronicles 6:33"
+      ],
+      "text": "before the dwelling-place, &c.--that is, in the tent which David had erected for receiving the ark after it was removed from the house of Obed-edom [Sa2 6:17]. This was a considerable time before the temple was built.\nthey waited on their office according to their order--which David, doubtless by the direction of the Holy Spirit, had instituted for the better regulation of divine worship."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 6:33",
+      "note_ref": "JFB/13/6/33",
+      "cites": [
+        "1 Chronicles 6:33"
+      ],
+      "text": "Shemuel--that is, Samuel. This is the exact representation of the Hebrew name."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 15:16",
+      "note_ref": "JFB/13/15/16",
+      "cites": [
+        "1 Chronicles 15:17"
+      ],
+      "text": "David spake to the chief of the Levites to appoint . . . the singers with instruments--These eminent Levites were instructed to train the musicians and singers who were under them, for the solemn procession. The performers were ranged in three choirs or bands, and the names of the principal leaders are given (Ch1 15:17-18, Ch1 15:21), with the instruments respectively used by each. \"Ben\" (Ch1 15:18) is omitted (Ch1 15:20). Either it was used merely as a common noun, to intimate that Zechariah was the son of Jaaziel or Aziel, or Ben is the same as Azaziah [Ch1 15:21]."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Kings 4:29",
+      "note_ref": "CLARKE/11/4/29",
+      "cites": [
+        "1 Kings 4:31"
+      ],
+      "text": "God gave Solomon wisdom, etc. - He gave him a capacious mind, and furnished him with extraordinary assistance to cultivate it.\nEven as the sand that is on the sea-shore - Lord Bacon observes on this: \"As the sand on the sea-shore encloses a great body of waters, so Solomon's mind contained an ocean of knowledge.\" This is a happy and correct illustration."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Kings 4:30",
+      "note_ref": "CLARKE/11/4/30",
+      "cites": [
+        "1 Kings 4:31"
+      ],
+      "text": "The children of the east country - That is the Chaldeans, Persians, and Arabians, who, with the Egyptians, were famed for wisdom and knowledge through all the world."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Kings 4:31",
+      "note_ref": "CLARKE/11/4/31",
+      "cites": [
+        "1 Kings 4:31"
+      ],
+      "text": "He was wiser than all men - He was wiser than any of those who were most celebrated in his time, among whom were the four after mentioned, viz., Ethan, Heman, Chalcol, and Darda. Ethan was probably the same as is mentioned in some of the Psalms, particularly Psa 89:1, title; and among the singers in Ch1 6:42. There is a Heman mentioned in the title to Psa 88:1. In Ch1 2:6 we have all the four names, but they are probably not the same persons, for they are there said to be the sons of Zerah, and he flourished long before Solomon's time.\nSome suppose that בני מחול beney machol should be rendered masters of dancing or music, as מחול machol signifies not only a dance or choir, but also an instrument of music of the pipe kind. Perhaps a reference is here made to Solomon's skill in music and poetry, as he is compared to persons who appear to have been eminent poets and musicians."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Kings 4:32",
+      "note_ref": "CLARKE/11/4/32",
+      "cites": [
+        "1 Kings 4:31"
+      ],
+      "text": "He spake three thousand proverbs - The book of Proverbs, attributed to Solomon, contain only about nine hundred or nine hundred and twenty-three distinct proverbs; and if we grant with some that the first nine chapters are not the work of Solomon, then all that can be attributed to him is only about six hundred and fifty.\nOf all his one thousand and five songs or poems we have only one, the book of Song of Solomon, remaining, unless we include Psa 127:1-5, Except the Lord build the house, etc., which in the title is said to be by or for him, though it appears more properly to be a psalm of direction, left him by his father David, relative to the building of the temple."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 2:6",
+      "note_ref": "CLARKE/13/2/6",
+      "cites": [
+        "1 Chronicles 2:6"
+      ],
+      "text": "Five of them in all - \"These were all chief men; and on them the spirit of prophecy rested.\" - T."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 6:31",
+      "note_ref": "CLARKE/13/6/31",
+      "cites": [
+        "1 Chronicles 6:33"
+      ],
+      "text": "After that the ark had rest - The Targum says, \"These are they whom David set over the service of the singing, in the house of the sanctuary, or tabernacle of the Lord, at the time in which the ark was brought into it;\" that is, when it was brought from the house of Obed-edom."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 6:32",
+      "note_ref": "CLARKE/13/6/32",
+      "cites": [
+        "1 Chronicles 6:33"
+      ],
+      "text": "According to their order - This order is specified below."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 15:15",
+      "note_ref": "CLARKE/13/15/15",
+      "cites": [
+        "1 Chronicles 15:17"
+      ],
+      "text": "Upon their shoulders - That is the staves which went through the rings rested on their shoulders, but the ark itself rested on the staves like a sedan on its poles.\nAs Moses commanded - See Num 4:5, Num 4:15."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 15:17",
+      "note_ref": "CLARKE/13/15/17",
+      "cites": [
+        "1 Chronicles 15:17"
+      ],
+      "text": "- Heman - Asaph - Ethan - These were the three chief musicians in the time of David; see Ch1 6:31."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Kings 4:29",
+      "note_ref": "KD/11/4/29",
+      "cites": [
+        "1 Kings 4:31"
+      ],
+      "text": "Solomon's Wisdom. - Kg1 4:29. According to His promise in Kg1 3:12, God gave Solomon wisdom and very much insight and לב רחב, \"breadth of heart,\" i.e., a comprehensive understanding, as sand by the sea-shore, - a proverbial expression for an innumerable multitude, or great abundance (cf. Kg1 4:20; Gen 41:49; Jos 11:4, etc.). חכמה signifies rather practical wisdom, ability to decide what is the judicious and useful course to pursue; תּבוּנה, rather keenness of understanding to arrive at the correct solution of difficult and complicated problems; לב רחב, mental capacity to embrace the most diverse departments of knowledge.\nKg1 4:30\nHis wisdom was greater than the wisdom of all the sons of the East, and all the wisdom of the Egyptians. קרם בּני (sons of the East) are generally the Arabian tribes dwelling in the east of Canaan, who spread as far as to the Euphrates (cf. Jdg 6:3, Jdg 6:33; Jdg 7:12; Jdg 8:10; Job 1:3; Isa 11:14, etc.). Hence we find קרם ארץ used in Gen 25:6 to denote Arabia in the widest sense, on the east and south-east of Palestine; whereas in Gen 29:1 קרם בּני ארץ signifies the land beyond the Euphrates, viz., Mesopotamia, and in Num 23:7, קרם הררי, the mountains of Mesopotamia. Consequently by \"the sons of the East\" we are to understand here primarily the Arabians, who were celebrated for their gnomic wisdom, more especially the Sabaeans (see at 1 Kings 10), including the Idumaeans, particularly the Temanites (Jer 49:7; Oba 1:8); but also, as כּל requires, the Chaldaeans, who were celebrated both for their astronomy and astrology. \"All the wisdom of the Egyptians,\" because the wisdom of the Egyptians, which was so greatly renowned as almost to have become proverbial (cf. Isa 19:11; Isa 31:2, and Act 7:22; Joseph. Ant. viii. 2, 5; Herod. ii. 160), extended over the most diverse branches of knowledge, such as geometry, arithmetic, astronomy, and astrology (Diod. Sic. i. 73 and 81), and as their skill in the preparation of ointments from vegetable and animal sources, and their extensive acquaintance with medicine, clearly prove, embraced natural science as well, in which Solomon, according to Kg1 4:33, was very learned.\nKg1 4:31\n\"He was wiser than all men (of his time), than Ethan the Ezrachite and Heman, Chalcol and Darda, the sons of Machol.\" These four persons are most probably the same as the \"sons of Zerach\" (Ethan, Heman, Calcol, and Dara) mentioned in Ch1 2:6, since the names perfectly agree, with the exception of דּרע for דּרדּע, where the difference is no doubt attributable to a copyist's error; although, as the name does not occur again, it cannot be decided whether Dara or Darda is the correct form. Heman and Ethan are also called Ezrachites (האזרחי) in Psa 88:1 and Psa 89:1; and אזרחי is another form of זרחי, the name of the family of Zerach the son of Judah (Num 26:13, Num 26:20), lengthened by א prosthet. But they were both Levites - Heman a Korahite of the line of Kohath and a grandson of Samuel (Ch1 6:18-19), and Ethan a Merarite (Ch1 6:29-32; Ch1 15:17) and the president of the Levitical vocal choirs in the time of David (Ch1 15:19); and Heman was also \"the king's seer in the words of God\" (Ch1 25:5). Their Levitical descent is not at variance with the epithet Ezrachite. For as the Levite in Jdg 17:7 is spoken of as belonging to the family of Judah, because he dwelt in Bethlehem of Judah, and as Samuel's father, Elkanah the Levite, is called an Ephraimite in Sa1 1:1, because in his civil capacity he was incorporated into the tribe of Ephraim, so Heman and Ethan are called Ezrachites because they were incorporated into the Judaean family of Zerach. It by no means follows from Ch1 2:6 that they were lineal descendants of Zerach. The whole character of the genealogical fragment contained in Ch1 2:6. shows very clearly that it does not give the lineal posterity of Zerach with genealogical exactness, but that certain persons and households of that family who had gained historical renown are grouped together without any more precise account of their lineal descent. Calcol and Darda (or Dara) are never met with again. It is no doubt to these two that the expression מחול בּני refers, though it cannot be determined whether מחול is a proper name or an appellative noun. In support of the appellative meaning, \"sons of the dance,\" in the sense of sacras choreas ducendi periti, Hiller (in the Onomast. p. 872) appeals to Ecc 12:4, \"daughters of song.\" - \"And his name was,\" i.e., he was celebrated, \"among all the nations round about\" (cf. Kg1 10:1, Kg1 10:23-24).\nKg1 4:32\n\"He spoke three thousand proverbs, and there were a thousand and five of his songs.\" Of these proverbs we possess a comparatively small portion in the book of Proverbs, probably a selection of the best of his proverbs; but of the songs, besides the Song of Songs, we have only two psalms, viz., Ps 72 and Psa 127:1-5, which have his name, and justly bear it.\nKg1 4:33\n\"And he spoke of trees, from the cedar on Lebanon to the hyssop which grows upon the wall.\" The cedar and hyssop are placed in antithesis, the former as the largest and most glorious of trees, the latter as the smallest and most insignificant of plants, to embrace the whole of the vegetable kingdom. Thenius maintains that by אזוב we are not to understand the true hyssop, nor the Wohlgemuth or Dosten (ὀρίγανον), according to the ordinary view (see at Exo 12:22), because they are neither of them such small plants as we should expect in an antithesis to the cedar, but \"one of the wall-mosses growing in tufts, more especially the orthotrichum saxatile (Oken), which forms a miniature hyssop with its lancet-shaped leaves, and from its extreme minuteness furnishes a perfect antithesis to the cedar.\" There is much to favour this view, since we can easily imagine that the Hebrews may have reckoned a moss, which resembled the hyssop in its leaves, as being itself a species of hyssop. - \"And of beasts and birds, of creeping things and fishes;\" the four principal classes into which the Hebrews divided the animal kingdom. Speaking of plants and animals presupposes observations and researches in natural science, or botanical and zoological studies.\nKg1 4:34\nThe widespread fame of his wisdom brought many strangers to Jerusalem, and all the more because of its rarity at that time, especially among princes. The coming of the queen of Sheba to Jerusalem (1 Kings 10) furnishes a historical proof of this.\n(Note: Greatly as the fame of Solomon's wisdom is extolled in these verses, it was far outdone in subsequent times. Even Josephus has considerably adorned the biblical accounts in his Antiqq. viii. 2, 5. He makes Solomon the author not only of 1005 βιβλία περὶ ᾠδῶν καὶ μελῶν, and 300 βίβλους παραβολῶν καὶ εἰκόνων, but also of magical books with marvellous contents. Compare the extracts from Eupolemus in Eusebii praep. Ev. ix. 31ff., the remnants of Solomon's apocryphal writings in Fabricii Cod. apocr. V. T. i. pp. 914ff. and 1014f., the collection of the Talmudical Sagas in Othonis Lex. rabb. philol. pp. 668f., and G. Weil, bibl. Legenden der Mussulmnner, pp. 225-279. According to the Koran (Sure xxvii. Kg1 4:17.), Solomon understood the languages not only of men and demons, but also of birds and ants. The Turkish literature contains a \"Book of Solomon,\" Suleimanname, consisting of seventy volumes, from which v. Hammer (Rosenl, i. p. 147ff.) has given extracts.)"
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 2:4",
+      "note_ref": "KD/13/2/4",
+      "cites": [
+        "1 Chronicles 2:6"
+      ],
+      "text": "And the sons of Zerah,.... The other twin of Judah:\nZimri, and Ethan, and Heman, and Calcol, and Dara: five of them in all; the Targum calls them governors, and adds, on whom the spirit of prophecy dwelt; and in the Jewish chronology (n) they are said to prophesy in Egypt; and the four last are supposed to be the same with those in Kg1 4:31. See Gill on Kg1 4:31.\n(n) Seder Olam Rabba, c. 20. p. 52."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 2:5",
+      "note_ref": "KD/13/2/5",
+      "cites": [
+        "1 Chronicles 2:6"
+      ],
+      "text": "And the sons of Carmi,.... The Targum adds, this is Zimri; but in Jos 7:1 Carmi is said to be the son of Zabdi, who seems to be the same with Zimri; and some supply the word here, and read (o) the sons of Zimri, Carmi, Achar, who was the grandson of Zimri; his proper name was Achan, Jos 7:1, but called Achar here by way of reproach, as Jarchi and others observe; being, as it follows:\nthe troubler of Israel, as Achar signifies: \"who transgressed in the thing accursed\"; devoted to the Lord, by taking it away for his own use, see Jos 6:17, hence the valley in which he was put to death was called Achor, Jos 6:26.\n(o) So Junius & Tremellius, & Piscator."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 2:6",
+      "note_ref": "KD/13/2/6",
+      "cites": [
+        "1 Chronicles 2:6"
+      ],
+      "text": "And the sons of Ethan; Azariah. Including his posterity, see Gen 46:23, the posterity of the other three sons of Zerah are not mentioned, either because the writer could not find the genealogy of them, as Kimchi; or rather, as he thinks, he cuts short the genealogy of Zerah, because the kingdom did not proceed from him, and returns to the genealogy of Hezron, from whence it did, or perhaps they had no children.\n, the posterity of the other three sons of Zerah are not mentioned, either because the writer could not find the genealogy of them, as Kimchi; or rather, as he thinks, he cuts short the genealogy of Zerah, because the kingdom did not proceed from him, and returns to the genealogy of Hezron, from whence it did, or perhaps they had no children.\n1 Chronicles 2:9\nch1 2:9\nch1 2:9\nch1 2:9The sons also of Hezron, that were born unto him,.... The Targum adds, in Timnath; but most likely in Egypt:\nJerahmeel, and Ram, and Chelubai; afterwards called Caleb."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 2:7",
+      "note_ref": "KD/13/2/7",
+      "cites": [
+        "1 Chronicles 2:6"
+      ],
+      "text": "And Ram begat Amminadab,.... Ram is the same with Aram, Mat 1:3 the genealogy is carried down from him to Jesse in the same order as there, and in Rut 4:19 only here Nahshon the son of Amminadab is called\nthe prince of the children of Judah; which Kimchi and Jarchi say is written for the honour of David, who descended from him; and Salmon his son is here called Salma."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 6:31",
+      "note_ref": "KD/13/6/31",
+      "cites": [
+        "1 Chronicles 6:33"
+      ],
+      "text": "And his brother Asaph,.... That is, Heman's brother; so Asaph was, as he was a descendant from the same original ancestor Levi, yet in the line of Gershon; and as being of the same office, a precentor, or chief singer:\nwho stood on his right hand; he was next to Heman; Heman stood in the middle, which was the most honourable (h), and Asaph on his right hand, and Ethan, after mentioned, on his left; even Asaph, whose name is often met with in the book of Psalms; and his genealogy here stands thus, as traced up to Levi, viz. Berechiah, Shimea, Michael, Baaseiah, Malchiah, Ethni, Zerah, Adaiah, Ethan, Zimmah, Shimei, Jahath, Gershon, Levi.\n(h) \"Alecto stetit in mediis----\", Claudian in Rufin. l. 1. ver. 41. Vid. Barthii Animadv. in ib."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 6:32",
+      "note_ref": "KD/13/6/32",
+      "cites": [
+        "1 Chronicles 6:33"
+      ],
+      "text": "And their brethren, the sons of Merari,.... Who were the brethren of the Kohathites and Gershonites, descending from the same ancestor Levi: stood\non the left hand; that is, of Heman, see Ch1 6:39, the chief of whom was Ethan, sometimes called Jeduthun, Ch1 16:41 and often in the book of Psalms; his genealogy is traced up to Levi thus; Kishi, called Kushaiah, Ch1 15:17 Abdi, Malluch, Hashabiah, Amaziah, Hilkiah, Amzi, Bani, Shamer, Mahli, Mushi, Merari, Levi."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 6:33",
+      "note_ref": "KD/13/6/33",
+      "cites": [
+        "1 Chronicles 6:33"
+      ],
+      "text": "Their brethren also the Levites,.... Who were not skilled in singing, and employed in that service, even the rest of the Kohathites, Gershonites, and Merarites:\nwere appointed unto all manner of service of the tabernacle of the house of God; some were porters at the gates; others had the care of the vessels; others slew the beasts for sacrifices, flayed them, and cut them up, and brought the pieces to the altar of burnt offerings, for the priests to offer."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 15:15",
+      "note_ref": "KD/13/15/15",
+      "cites": [
+        "1 Chronicles 15:17"
+      ],
+      "text": "And the children of the Levites bare the ark of God upon their shoulders, with the staves thereon, as Moses commanded, according to the word of the Lord. Not only bare it on their shoulders, but with the staves in it, which rested on their shoulders, see Num 7:9, the reason of this command, that the ark should be carried on men's shoulders, and not in any carriage, according to Maimonides (h), was both for the honour of it, and lest its form and structure should be any ways damaged.\n(h) Moreh Nevochim, par. 3. c. 45. p. 479."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 15:16",
+      "note_ref": "KD/13/15/16",
+      "cites": [
+        "1 Chronicles 15:17"
+      ],
+      "text": "And David spake to the chief of the Levites,.... The six before mentioned, Ch1 15:11.\nto appoint their brethren to be the singers; before the ark, as they brought it up:\nwith instruments of music, psalteries, and harps, and cymbals; which were used in those times, see Sa2 6:5.\nsounding by lifting up the voice with joy; the instrumental music was to be attended with vocal music, and that very sonorous and loud, and performed with all tokens of inward joy and gladness, as the occasion required."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 15:17",
+      "note_ref": "KD/13/15/17",
+      "cites": [
+        "1 Chronicles 15:17"
+      ],
+      "text": "So the Levites appointed Heman the son of Joel,.... The grandson of Samuel the prophet, Ch1 6:33.\nand of his brethren, Asaph the son of Berechiah; a famous singer, often mentioned in the Psalms, Ch1 6:39.\nand of the sons of Merari their brethren, Ethan the son of Kushaiah; the same with the son of Kishi, Ch1 6:44, these were the chief of the singers."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 15:18",
+      "note_ref": "KD/13/15/18",
+      "cites": [
+        "1 Chronicles 15:17"
+      ],
+      "text": "And with them their brethren of the second degree,.... Who were next unto them, both in office and skill in singing:\nthe fourteen following, Zechariah, Ben, and Jaaziel, and Shemiramoth, and Jehiel, and Unni, Eliab, and Benaiah, and Maaseiah, and Mattithiah, and Elipheleh, and Mikneiah, and Obededom, and Jeiel, the porters; who, when they were not employed in singing, were doorkeepers of the sanctuary; either they had been porters at the tabernacle in Gibeon, or were so after the ark was placed in the tabernacle David prepared for it."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Kings 4:29",
+      "note_ref": "MHC/11/4/29",
+      "cites": [
+        "1 Kings 4:31"
+      ],
+      "text": "Solomon's wisdom was more his glory than his wealth, and here we have a general account of it.\nI. The fountain of his wisdom: God gave it him, Kg1 4:29. He owns it himself. Pro 2:6, The Lord giveth wisdom. He gives the powers of reason (Job 38:36), preserves and improves them. The ordinary advances of them are owing to his providence, the sanctification of them to his grace, and this extraordinary pitch at which they arrived in Solomon to a special grant of his favour to him in answer to prayer.\nII. The fulness of it: He had wisdom and understanding, exceeding much, great knowledge of distant countries and the histories of former times, a quickness of thought, strength of memory, and clearness of judgment, such as never any man had. It is called largeness of heart; for the heart is often put for the intellectual powers. He had a vast compass of knowledge, could take things entire, and had an admirable faculty of laying things together. Some, by his largeness of heart, understand his courage and boldness, and that great assurance with which he delivered his dictates and determinations. Or it may be meant of his disposition to do good with his knowledge. He was very free and communicative, had the gift of utterance as well as wisdom, was as free of his learning as he was of his meat, and grudged neither to any that were about him. Note, It is very desirable that those who have large gifts of any kind should have large hearts to use them for the good of others; and this is from the hand of God, Ecc 2:24. He shall enlarge the heart, Psa 119:32. The greatness of Solomon's wisdom is illustrated by comparison. Chaldea and Egypt were nations famous for learning; thence the Greeks borrowed theirs; but the greatest scholars of these nations came short of Solomon, Kg1 4:30. If nature excels art, much more does grace. The knowledge which God gives by special favour goes beyond that which man gets by his own labour. Some wise men there were in Solomon's time, who were in great repute, particularly Heman, and others who were Levites, and employed by David in the temple-music, Ch1 15:19. Heman was his seer in the word of God, Ch1 25:5. Chalcol and Darda were own brothers, and they also were noted for learning and wisdom. But Solomon excelled them all (Kg1 4:30), he out-did them and confounded them; his counsel was much more valuable.\nIII. The fame of it. It was talked of in all nations round about. His great wealth and glory made his wisdom much more illustrious, and have him those opportunities of showing it which those cannot have that live in poverty and obscurity. The jewel of wisdom may receive great advantage by the setting of it.\nIV. The fruits of it; by these the tree is known: he did not bury his talent, but showed his wisdom,\n1. In his compositions. Those in divinity, written by divine inspiration, are not mentioned here, for they are extant, and will remain to the world's end monuments of his wisdom, and are, as other parts of scripture, of use to make us wise unto salvation. But, besides these, it appears by what he spoke, or dictated to be written from him, (1.) That he was a moralist, and a man of great prudence, for he spoke 3000 proverbs, wise sayings, apophthegms, of admirable use for the conduct of human life. The world is much governed by proverbs, and was never better furnished with useful ones than by Solomon. Whether those proverbs of Solomon that we have were any part of the 3000 is uncertain. (2.) That he was a poet and a man of great wit: His songs were 1005, of which one only is extant, because that only was divinely inspired, which is therefore called his Song of songs. His wise instructions were communicated by proverbs, that they might be familiar to those whom he designed to teach and ready on all occasions, and by songs, that they might be pleasant and move the affections. (3.) That he was a natural philosopher, and a man of great learning and insight into the mysteries of nature. From his own and others' observations and experience, he wrote both of plants and animals (Kg1 4:33), descriptions of their natures and qualities, and (some think) of the medicinal use of them.\n2. In his conversation. There came persons from all parts, who were more inquisitive after knowledge than their neighbours, to hear the wisdom of Solomon, Kg1 4:34. Kings that had heard of it sent their ambassadors to hear it and to bring them instructions from it. Solomon's court was the staple of learning, and the rendezvous of philosophers, that is, the lovers of wisdom, who all came to light their candle at his lamp and to borrow from him. Let those who magnify the modern learning above that of the ancients produce such a treasure of knowledge any where in these latter ages as that was which Solomon was master of; yet this puts an honour upon human learning, that Solomon was praised for it, and recommends it to the great men of the earth, as well worthy their diligent search. But,\nLastly, Solomon was, herein, a type of Christ, in whom are hidden all the treasures of wisdom and knowledge, and hidden for use; for he is made of God to us wisdom."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 2:1",
+      "note_ref": "MHC/13/2/1",
+      "cites": [
+        "1 Chronicles 2:6"
+      ],
+      "text": "Here is, I. The family of Jacob. His twelve sons are here named, that illustrious number so often celebrated almost throughout the whole Bible, from the first to the last book of it. At every turn we meet with the twelve tribes that descended from these twelve patriarchs. The personal character of several of them was none of the best (the first four were much blemished), and yet the covenant was entailed on their seed; for it was of grace, free grace, that it was said, Jacob have I loved - not of works, lest any man should boast.\nII. The family of Judah. That tribe was most praised, most increased, and most dignified, of any of the tribes, and therefore the genealogy of it is the first and largest of them all. In the account here given of the first branches of that illustrious tree, of which Christ was to be the top branch, we meet, 1. With some that were very bad. Here is Er, Judah's eldest son, that was evil in the sight of the Lord, and was cut off, in the beginning of his days, by a stroke of divine vengeance: The Lord slew him, Ch1 2:3. His next brother, Onan, was no better, and fared no better. Here is Tamar, with whom Judah, her father-in-law, committed incest, Ch1 2:4. And here is Achan, called Achar - a troubler, that troubled Israel by taking of the accursed thing, Ch1 2:7. Note, The best and most honourable families may have those belonging to them that are blemishes. 2. With some that were very wise and good, as Heman and Ethan, Calcol and Dara, who were not perhaps the immediate sons of Zerah, but descendants from him, and are named because they were the glory of their father's house; for, when the Holy Ghost would magnify the wisdom of Solomon, he declares him wiser than these four men, who, though the sons of Mahol, are called Ezrahites, from Zerah, Kg1 4:31. That four brothers should be eminent for wisdom and grace was a rare thing. 3. With some that were very great, as Nahshon, who was prince of the tribe of Judah when the camp of Israel was formed in the wilderness, and so led the van in that glorious march, and Salman, or Salmon, who was in that post of honour when they entered into Canaan, Ch1 2:10, Ch1 2:11.\nIII. The family of Jesse, of which a particularly account is kept for the sake of David, and the Son of David, who is a rod out of the stem of Jesse, Isa 11:1. Hence it appears that David was a seventh son, and that his three great commanders, Joab, Abishai, and Asahel, were the sons of one of his sisters, and Amasa of another. Three of the four went down slain to the pit, though they were the terror of the mighty.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 6:31",
+      "note_ref": "MHC/13/6/31",
+      "cites": [
+        "1 Chronicles 6:33"
+      ],
+      "text": "When the Levites were first ordained in the wilderness much of the work then appointed them lay in carrying and taking care of the tabernacle and the utensils of it, while they were in their march through the wilderness. In David's time their number was increased; and, though the greater part of them was dispersed all the nation over, to teach the people the good knowledge of the Lord, yet those that attended the house of God were so numerous that there was not constant work for them all; and therefore David, by special commission and direction from God, new-modelled the Levites, as we shall find in the latter part of this book. Here we are told what the work was which he assigned them.\nI. Singing-work, Ch1 6:31. David was raised up on high to be the sweet psalmist of Israel (Sa2 23:1), not only to pen psalms, but to appoint the singing of them in the house of the Lord (not so much because he was musical as because he was devout), and this he did after that the ark had rest. While that was in captivity, obscure, and unsettled, the harps were hung upon the willow-trees: singing was then thought unseasonable (when the bridegroom is taken away they shall fast); but the harps being resumed, and the songs revived, at the bringing up of the ark, they were continued afterwards. For we should rejoice as much in the prolonging of our spiritual privileges as in the restoring of them. When the service of the ark was much superseded by its rest they had other work cut out for them (for Levites should never be idle) and were employed in the service of song. Thus when the people of God come to the rest which remains for them above they shall take leave of all their burdens and be employed in everlasting songs. These singers kept up that service in the tabernacle till the temple was built, and then they waited on their office there, Ch1 6:32. When they came to that stately magnificent house they kept as close both to their office and to their order as they had done in the tabernacle. It is a pity that the preferment of the Levites should ever make them remiss in their business. We have here an account of the three great masters who were employed in the service of the sacred song, with their respective families; for they waited with their children, that is, such as descended from them or were allied to them, Ch1 6:33. Heman, Asaph, and Ethan, were the three that were appointed to this service, one of each of the three houses of the Levites, that there might be an equality in the distribution of this work and honour, and that every one might know his post, such an admirable order was there in this choir service. 1. Of the house of Kohath was Heman with his family (Ch1 6:33), a man of a sorrowful spirit, if it be the same Heman that penned the 88th psalm, and yet a singer. He was the grandson of Samuel the prophet, the son of Joel, of whom it is said that he walked not in the ways of Samuel (Sa1 8:2, Sa1 8:3); but it seems, though the son did not, the grandson did. Thus does the blessing entailed on the seed of the upright sometimes pass over one generation and fasten upon the next. And this Heman, though the grandson of that mighty prince, did not think it below him to be a precentor in the house of God. David himself was willing to be a door-keeper. Rather we may look upon this preferment of the grandson in the church as a recompense for the humble modest resignation which the grandfather made of his authority in the state. Many such ways God has of making up his people's losses and balancing their disgraces. Perhaps David, in making Heman the chief, had some respect to his old friend Samuel. 2. Of the house of Gershom was Asaph, called his brother, because in the same office and of the same tribe, though of another family. He was posted on Heman's right hand in the choir, Ch1 6:39. Several of the psalms bear his name, being either penned by him or tuned by him as the chief musician. It is plain that he was the penman of some psalms; for we read of those that praised the Lord in the words of David and of Asaph. He was a seer as well as a singer, Ch2 29:30. His pedigree is traced up here, through names utterly unknown, as high as Levi, Ch1 6:39-43. 3. Of the house of Merari was Ethan (Ch1 6:44), who was appointed to Heman's left hand. His pedigree is also traced up to Levi, Ch1 6:47. If these were the Heman and Ethan that penned the 88th and 89th psalms, there appears no reason here why they should be called Ezrahites (see the titles of those psalms), as there does why those should be called so who are mentioned Ch1 2:6, and who were the sons of Zerah.\nII. There was serving-work, abundance of service to be done in the tabernacle of the house of God (Ch1 6:48), to provide water and fuel, - to wash and sweep, and carry out ashes, - to kill, and flay, and boil the sacrifices; and to all such services there were Levites appointed, those of other families, or perhaps those that were not fit to be singers, that had either no good voice or no good ear. As every one has received the gift, so let him minister. Those that could not sing must not therefore be laid aside as good for nothing; though they were not fit for that service, there was other service they might be useful in.\nIII. There was sacrificing-work, and that was to be done by the priests only, Ch1 6:49. They only were to sprinkle the blood and burn the incense; as for the work of the most holy place, that was to be done by the high priest only. Each had his work, and they both needed one another and both helped one another in it. Concerning the work of the priests we are here told, 1. What was the end they were to have in their eye. They were to make an atonement for Israel, to mediate between the people and God; not to magnify and enrich themselves, but to serve the public. They were ordained for men. 2. What was the rule they were to have in their eye. They presided in God's house, yet must do as they were bidden, according to all that God commanded. That law the highest are subject to."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 15:1",
+      "note_ref": "MHC/13/15/1",
+      "cites": [
+        "1 Chronicles 15:17"
+      ],
+      "text": "Preparation is here made for the bringing of the ark home to the city of David from the house of Obed-edom. It is here owned that in the former attempt, though it was a very good work and in it they sought God, yet they sought him, not after the due order, Ch1 15:13. \"We did not go about our work considerately; and therefore we sped so ill.\" Note, It is not enough that we do that which is good, but we must do it well - not enough that we seek God in a due ordinance, but we must seek after him, in a due order. Note, also, When we have suffered for our irregularities we must learn thereby to be more regular; then we answer the end of chastisement. Let us see how the matter was mended. 1. David now prepared a place for the reception of the ark, before he brought it to him; and thus he sought in the due order. He had not time to build a house, but he pitched a tent for it (Ch1 15:1), probably according to the pattern shown to Moses in the mount, or as near it as might be, of curtains and boards. Observe, When he made houses for himself in the city of David he prepared a place for the ark. Note, Wherever we build for ourselves, we must be sure to make room for God's ark, for a church in the house. 2. David now ordered that the Levites or priests should carry the ark upon their shoulders. Now he bethought himself of that which he could not but know before, that, none ought to carry the ark but the Levites, Ch1 15:2. The Kohathites carried it in their ordinary marches, and therefore had no wagons allotted them, because their work was to bear upon their shoulders, Num 7:9. But upon extraordinary occasions, as when they passed Jordan and compassed Jericho, the priests carried it. This rule was express, and yet David himself forgot it, and put the ark upon a cart. Note, Even those that are very knowing in the word of God, yet have it not always so ready to them as were to be wished when they have occasion to use it. Wise and good men may be guilty of an oversight, which, as soon as they are aware of, they will correct. David did not go about to justify what had been done amiss, nor to lay the blame on others, but owned himself guilty, with others, of not seeking God in a due order, and now took care not only to summon the Levites to the solemnity, as he did all Israel (Ch1 15:3), and had done before (Ch1 13:2), but to see that they assembled (Ch1 15:4), especially the sons of Aaron, Ch1 15:11. To them he gives the solemn charge (Ch1 15:12): You are the chief of the fathers of the Levites, therefore do you bring up the ark of the Lord. It is expected that those who are advanced above others in dignity should go before others in duty. \"You are the chief, and therefore more is expected from you than from others, both by way of service yourselves and influence on the rest. You did it not at first, neither did your duty yourselves nor took care to instruct us, and we smarted for it: The Lord made a breach upon us; we have all smarted for your neglect; this has been by your means (see Mal 1:9): therefore sanctify yourselves, and mind your business.\" When those that have suffered for doing ill thus learn to do better the correction is well bestowed. 3. The Levites and priests sanctified themselves (Ch1 15:14) and were ready to carry the ark on their shoulders, according to the law, Ch1 15:15. Note, Many that are very remiss in their duty, if they were but faithfully told of it, would reform and do better. The breach upon Uzza made the priests more careful to sanctify themselves, that is, to cleanse themselves from all ceremonial pollution and to compose themselves for the solemn service of God, so as to strike a reverence upon the people. Some are made examples, that others may be made exemplary and very cautious. 4. Officers were appointed to be ready to bid the ark welcome, with every possible expression of joy, Ch1 15:16. David ordered the chief of the Levites to nominate those that they knew to be proficients for this service. Heman, Asaph, and Ethan, were now first appointed, Ch1 15:17. They undertook to sound with symbols (Ch1 15:19), others with psalteries (Ch1 15:20), others with harps, on the Sheminith, or eighth, eight notes higher or lower than the rest, according to the rules of the concert, Ch1 15:21. Some that were priests blew with the trumpet (Ch1 15:24), as was usual at the removal of the ark (Num 10:8) and at solemn feasts, Psa 81:3. And one was appointed for song (Ch1 15:22), for he was skilful in it, could sing well himself and instruct others. Note, As every man has received the gift, so he ought to minister the same, Pe1 4:10. And those that excel in any endowment should not only use it for the common good themselves, but teach others also, and not grudge to make others as wise as themselves. This way of praising God by musical instruments had not hitherto been in use. But David, being a prophet, instituted it by divine direction, and added it to the other carnal ordinances of that dispensation, as the apostle calls them, Heb 9:10. The New Testament keeps up singing of psalms, but has not appointed church-music. Some were appointed to be porters (Ch1 15:18), others door-keepers for the ark (Ch1 15:23, Ch1 15:24), and one of these was Obed-edom, who reckoned it no doubt a place of honour, and accepted it as recompence for the entertainment he had given to the ark. He had been for three months housekeeper to the ark, and indeed its landlord. But, when he might not be so any longer, such an affection had he for it that he was glad to be its door-keeper.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Kings 4:29",
+      "note_ref": "TYN/11/4/29",
+      "cites": [
+        "1 Kings 4:31"
+      ],
+      "text": "4:29-30 wise men of the East: Babylon was well-known for wise men. Yet Solomon’s God-given wisdom (3:9, 12, 28; Prov 1:7; Eccl 12:13) exceeded them all (1 Kgs 4:34)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Kings 4:31",
+      "note_ref": "TYN/11/4/31",
+      "cites": [
+        "1 Kings 4:31"
+      ],
+      "text": "4:31 Ethan and Heman were among the musicians appointed by David (see 1 Chr 6:33-47; 15:16-19; Pss 88, 89). • The sons of Mahol were Temple singers, so Heman, Calcol, and Darda may have participated in the worship services (see 1 Chr 15:17, 19-22)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Kings 4:32",
+      "note_ref": "TYN/11/4/32",
+      "cites": [
+        "1 Kings 4:31"
+      ],
+      "text": "4:32-34 proverbs . . . songs: Solomon wrote much of the book of Proverbs and composed Pss 72 and 127. His knowledge of plants and animals reflected his careful observation of nature (see Prov 6:6-8). Solomon’s wisdom and literary prowess (see Matt 12:42) are reflected in the Song of Songs and Ecclesiastes. No wonder many, including kings (1 Kgs 10:1-9), sought the wisdom of Solomon."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 2:4",
+      "note_ref": "TYN/13/2/4",
+      "cites": [
+        "1 Chronicles 2:6"
+      ],
+      "text": "2:4-5 The main ancestral line of David descends from Perez, one of the sons of Tamar, Judah’s widowed daughter-in-law. • Hamul, one of Perez’s sons, is ignored completely; the Chronicler might not have had information about him."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 2:6",
+      "note_ref": "TYN/13/2/6",
+      "cites": [
+        "1 Chronicles 2:6"
+      ],
+      "text": "2:6-8 For the genealogy of Zerah, cp. Josh 7:1, 17; 1 Kgs 4:31 (Mahol might be another name for Zerah)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 2:7",
+      "note_ref": "TYN/13/2/7",
+      "cites": [
+        "1 Chronicles 2:6"
+      ],
+      "text": "2:7 set apart for the Lord: See “Complete Destruction” Theme Note."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 6:31",
+      "note_ref": "TYN/13/6/31",
+      "cites": [
+        "1 Chronicles 6:33"
+      ],
+      "text": "6:31-47 This genealogy names the lead singers from Kohath (6:33), Gershon (6:39), and Merari (6:44), the chief Levitical families."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 6:33",
+      "note_ref": "TYN/13/6/33",
+      "cites": [
+        "1 Chronicles 6:33"
+      ],
+      "text": "6:33 Heman held the lead position among David’s singers (see Ps 88:title)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 15:16",
+      "note_ref": "TYN/13/15/16",
+      "cites": [
+        "1 Chronicles 15:17"
+      ],
+      "text": "15:16-18 This is the first of three lists of Levitical musicians (see 15:19-22; 16:4-6). This list gave the names of the three leaders (Heman, Asaph, and Ethan; see 6:33-47) along with their assistants."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 15:19",
+      "note_ref": "TYN/13/15/19",
+      "cites": [
+        "1 Chronicles 15:17"
+      ],
+      "text": "15:19-22 The second list of Levitical musicians focused on their musical specialties rather than their rank."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Kings 4:29",
+      "note_ref": "GNV/11/4/29",
+      "cites": [
+        "1 Kings 4:31"
+      ],
+      "text": "Meaning, great understanding and able to comprehend all things."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Kings 4:30",
+      "note_ref": "GNV/11/4/30",
+      "cites": [
+        "1 Kings 4:31"
+      ],
+      "text": "To wit, the Philosophers and Astronomers, which were judged most wise."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Kings 4:32",
+      "note_ref": "GNV/11/4/32",
+      "cites": [
+        "1 Kings 4:31"
+      ],
+      "text": "Which for the most part are thought to have perished in the captivity of Babylon."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Kings 4:33",
+      "note_ref": "GNV/11/4/33",
+      "cites": [
+        "1 Kings 4:31"
+      ],
+      "text": "From the highest to the lowest."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 2:6",
+      "note_ref": "GNV/13/2/6",
+      "cites": [
+        "1 Chronicles 2:6"
+      ],
+      "text": "Of these read 1 Kings 4:31.\nOr, Zabdi."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 2:7",
+      "note_ref": "GNV/13/2/7",
+      "cites": [
+        "1 Chronicles 2:6"
+      ],
+      "text": "Or, Achan."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 6:31",
+      "note_ref": "GNV/13/6/31",
+      "cites": [
+        "1 Chronicles 6:33"
+      ],
+      "text": "After it was brought to that place where the Temple should be built and was no more carried to and fro."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 6:32",
+      "note_ref": "GNV/13/6/32",
+      "cites": [
+        "1 Chronicles 6:33"
+      ],
+      "text": "Read Exod. 27:21."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 15:16",
+      "note_ref": "GNV/13/15/16",
+      "cites": [
+        "1 Chronicles 15:17"
+      ],
+      "text": "These instruments and other ceremonies, which they observed, were instructions of their infancy, which continued to the coming of Christ."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 15:18",
+      "note_ref": "GNV/13/15/18",
+      "cites": [
+        "1 Chronicles 15:17"
+      ],
+      "text": "Which were inferior in dignity."
+    }
+  ]
+}

@@ -1,0 +1,75 @@
+{
+  "contradiction_id": 460,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read the trial testimony as a garbled distortion of Jesus' real saying, which John 2:19-21 preserves accurately as a body-resurrection metaphor.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman presses the tension by noting that Mark's false witnesses report a saying strikingly close to what John attributes to Jesus verbatim, raising the question of which evangelist — or which tradition — has the more reliable version.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus: Apocalyptic Prophet of the New Millennium",
+        "year": "1999",
+        "attribution": "Bart D. Ehrman, Jesus: Apocalyptic Prophet of the New Millennium (1999)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 460,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Matthew 26:60",
+      "excerpt_text": "in which they did injury, both to his words and sense: he did not say, \"I am able to destroy the temple\", but only said, \"destroy this temple\"; signifying neither his power, nor his will and inclination to it; but put it upon the Jews, and left it to them to do it: nor did he say one word about the temple of God, or as it is in Mar 14:58, \"this temple that is made with hands\"; the temple at Jerusalem, which was made by the hands of men, and devoted to the worship of God; but only \"this temple\", referring to his body, or human nature; in which he, the Son of God, dwelt, as in a temple",
+      "full_note_ref": "GILL/40/26/60",
+      "license_code": "PD",
+      "on_tension_rationale": "Gill directly compares the false witnesses' version with Jesus' original words, itemising three specific distortions — thus directly engaging the question of whether the trial testimony contradicts the John 2 saying.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 460,
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "verse_ref": "Matthew 26:61",
+      "excerpt_text": "The charge is either a misunderstanding or a deliberate distortion of Jesus' prediction of his death and resurrection (see John 2:19-21).",
+      "full_note_ref": "TYN/40/26/61",
+      "license_code": "PD",
+      "on_tension_rationale": "Explicitly names John 2:19-21 and frames the trial charge as misunderstanding or distortion of that saying, directly addressing the apparent conflict between the two accounts.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley addresses the temple-saying harmony under discrepancies between the Synoptic trial accounts and John 2, arguing the witnesses distorted a genuine but figurative saying of Jesus."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/destroy-this-temple.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What did Jesus mean when he said 'destroy this temple'?",
+        "note": "Live apologetic treatment of John 2:19-21 and its relation to the trial testimony in Matthew 26 and Mark 14."
+      }
+    }
+  }
+}

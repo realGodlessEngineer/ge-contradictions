@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 258,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators dissolve the tenfold gap two ways — a 'stall' in Kings counting ten horses to one Chronicles stable, or 'forty thousand' as an old copyist's error for 'four thousand.'",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, who curates the contradiction at its source, presses the two figures at face value: one book says forty thousand stalls, the other four thousand, a difference of a factor of ten about the same king.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How many stalls did Solomon have?\"",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"How many stalls did Solomon have?\" (skepticsannotatedbible.com/contra/stalls.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "2 Chronicles 9:25",
+      "excerpt_text": "It has been conjectured [GESENIUS, Hebrew Lexicon] that the original term may signify not only stall or stable, but a number of horses occupying the same number of stalls. Supposing that ten were put together in one part, this would make forty thousand.",
+      "full_note_ref": "JFB/14/9/25",
+      "on_tension_rationale": "JFB names the exact 40,000-vs-4,000 gap and gives the leading harmonization: a 'stall' in Kings = ten horses per Chronicles stall, reconciling the tenfold difference.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "2 Chronicles 9:25",
+      "excerpt_text": "That is, ten horses in every stable, which in all amounts to forty thousand, as 1 Kings 4:26.",
+      "full_note_ref": "GNV/14/9/25",
+      "on_tension_rationale": "A compact second voice stating the same ten-per-stall harmonization and explicitly cross-referencing 1 Kings 4:26 to make the two figures one.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "1 Kings 4:26",
+      "excerpt_text": "From this collation of parallel places we may rest satisfied that there is a corruption in the numbers somewhere; and as a sort of medium, we may take for the whole four thousand stalls, one thousand four hundred chariots, and twelve thousand horsemen.",
+      "full_note_ref": "CLARKE/11/4/26",
+      "on_tension_rationale": "Clarke collates Kings, Chronicles, LXX, Syriac and the Targum and resolves the gap textually, taking 4,000 stalls as the true number — the copyist-error wing of the harmonization.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on 1 Kings 4:26",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact pair directly, collating 1 Kings 4:26, 2 Chronicles 9:25, 10:26 and the versions to argue the 40,000 figure reflects a numerical corruption and 4,000 is the original."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/1_Kings_4.26.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: 1 Kings 4:26 — How can this verse say Solomon had 40,000 stalls when 2 Chronicles 9:25 says he had only 4,000 stalls?",
+        "note": "Live apologetic treatment (based on Geisler & Howe, When Critics Ask); cites both verses and harmonizes via Hebrew copyist error (rbym/rbh)."
+      }
+    }
+  }
+}

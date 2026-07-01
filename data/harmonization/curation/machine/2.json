@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 2,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the Father's \"by myself\" and the Son's agency as one Trinitarian act — the singular \"alone\" excludes creatures, not the Son or Spirit, and \"from\"/\"through\" mark one creative work in distinct persons.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharpest objection comes from Biblical Unitarian Anthony Buzzard, who argues Isaiah 44:24's \"alone\"/\"by myself\" leaves no room beside the Father, so the New Testament's crediting of creation to the Son cannot stand as written.",
+      "skeptic": {
+        "name": "Anthony Buzzard",
+        "work": "The Doctrine of the Trinity: Christianity's Self-Inflicted Wound",
+        "year": "1998",
+        "attribution": "Anthony F. Buzzard, The Doctrine of the Trinity: Christianity's Self-Inflicted Wound (1998)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Isaiah 44:24",
+      "excerpt_text": "that stretcheth forth the heavens alone, that spreadeth abroad the earth by myself; not to the exclusion of the Father and the Holy Spirit, but of all creatures, angels and men …",
+      "full_note_ref": "GILL/23/44/24",
+      "on_tension_rationale": "Directly defuses the contradiction's hinge — Isaiah's 'alone/by myself' — by reading the exclusivity as against creatures, not the Son or Spirit.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "1 Corinthians 8:6",
+      "excerpt_text": "But as the Father is called Lord, so is the Son, God therefore this word (One) doth not respect the persons, but the natures. This word (By) doth not signify the instrumental cause, but the efficient: For the Father and the Son work together, which is not so to be taken, that we make two causes, seeing they have both but one nature though they be distinct persons.",
+      "full_note_ref": "GNV/46/8/6",
+      "on_tension_rationale": "Addresses the exact 'from the Father / through the Son' split the summary names, reading 'by' as efficient (not merely instrumental) and the two as one nature working together.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Corinthians 8:6",
+      "excerpt_text": "In Col 1:16 all things are said to be created (not only \"by\" Christ, but also) \"for Him\" (CHRIST). So entirely are the Father and Son one (compare Rom 11:36; Heb 2:10).",
+      "full_note_ref": "JFB/46/8/6",
+      "on_tension_rationale": "Explicitly links 1 Cor 8:6 to Col 1:16 and grounds the harmonization in Father-Son unity, the move the summary says 1 Cor 8:6 attempts.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Isaiah 44:24",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, reading the 'by myself' / 'alone' of Isaiah 44:24 as excluding creatures rather than the Son and Spirit, the harmonizing tradition's core answer to this contradiction."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/all-things-visible-and-invisible.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does it mean that Jesus created all things visible and invisible (Colossians 1:16)?",
+        "note": "live apologetic treatment harmonizing the Father-as-architect / Son-as-agent creation roles"
+      }
+    }
+  }
+}

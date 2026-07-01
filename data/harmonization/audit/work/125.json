@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 125,
+  "question": "What animals must you sacrifice each day?",
+  "summary": "Exodus 29:36-39 prescribes the daily sacrifice as a bullock for a sin offering plus two lambs for a continual burnt offering. Numbers 28:1-4 prescribes only two lambs as the daily tamid, with no bullock required. The two passages describe the daily cultic requirement differently.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders read the daily bullock as the seven-day consecration rite, while the two lambs alone are the perpetual daily tamid the Numbers law repeats.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steven DiMattei argues that Numbers 28 claims the daily tamid was instituted at Sinai while Leviticus records no such offering, so Exodus 29:38-42 was a later Priestly insertion written to buttress that claim.",
+    "skeptic": {
+      "name": "Steven DiMattei",
+      "work": "Contradictions in the Bible (contradictionsinthebible.com)",
+      "year": "2014",
+      "attribution": "Steven DiMattei, Contradictions in the Bible (contradictionsinthebible.com, 2014)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Exodus 29:36",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, restricting the daily bullock to the seven days of consecration so that the perpetual daily order is the two lambs of Num 28."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": null
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "125#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Exodus 29:36",
+      "full_note_ref": "GILL/2/29/36",
+      "excerpt_text": "That is, every day of the seven days of consecration …",
+      "on_tension_rationale": "Gill explicitly limits the daily bullock of Exo 29:36 to the seven days of priestly consecration, which is precisely why it is absent from the perpetual daily tamid of Num 28 — the core harmonization of this row.",
+      "source_note_text": "And thou shall offer every day a bullock for a sin offering for atonement,.... That is, every day of the seven days of consecration; denoting the full and complete atonement for sin by the sacrifice of Christ, which these sacrifices could not really obtain, and were therefore frequently repeated, in this case seven times; figuratively by that number pointing to the full expiation of sin by the atoning Saviour, who was made not only an offering for sin, but sin itself by imputation, for his people:\nand thou shalt cleanse the altar when thou hast made atonement for it; which though not capable of sin, or of any moral guilt, yet, inasmuch as it was to be of sacred use, and to have sin offerings laid upon it, expiation and cleansing, in a ceremonial way, were to be made for it, to purge it from the uncleanness of the children of Israel, Lev 16:18. This altar was typical of Christ, who is that altar believers in him have a right to partake of; and though he had no sin of his own, no guilt of that kind to expiate, nor pollution to be cleansed from, yet as he had the guilt of his people transferred to him, and was clothed with their filthy garments, and had their uncleannesses on him; by the sacrifice of himself he purged away sin from himself and them, and was justified and cleared of all, and they in him:\nand thou shalt anoint it, to sanctify it; anoint it, as it afterwards was, with the holy anointing oil, whereby it was sanctified, or set apart for holy uses; in which it was a figure of Christ anointed with the oil of gladness, the Holy Spirit, above his fellows; and was sanctified and set apart for his priestly office, in which he was both altar, sacrifice, and priest."
+    }
+  ]
+}

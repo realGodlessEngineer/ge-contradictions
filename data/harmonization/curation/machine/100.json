@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 100,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The commentators read the \"angel of the LORD\" and the \"God\" who speaks as one and the same, the angel being the visible form in which God himself is present.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, in the Skeptic's Annotated Bible, presses the plain shift of speakers, listing Exodus 3:2 and Acts 7:35 (an angel) against Exodus 3:4 and Mark 12:26 (God) as two different answers to one question.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Who appeared to Moses in the burning bush?\" (skepticsannotatedbible.com/contra/bush.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/bush.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Exodus 3:2",
+      "excerpt_text": "The transition from the Angel of Jehovah (Exo 3:2) to Jehovah (Exo 3:4) proves the identity of the two; and the interchange of Jehovah and Elohim, in Exo 3:4, precludes the idea of Jehovah being merely a national God.",
+      "full_note_ref": "KD/2/3/2",
+      "on_tension_rationale": "Directly answers the angel-vs-God tension: the very shift from 'Angel of Jehovah' (3:2) to 'Jehovah/God' (3:4) is read as proof of identity, not a change of speaker. Strongest single reconcile.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Exodus 3:2",
+      "excerpt_text": "Here the preternatural fire may be primarily meant by the expression \"angel of the Lord\"; but it is clear that under this symbol, the Divine Being was present, whose name is given (Exo 3:4, Exo 3:6), and elsewhere called the angel of the covenant, Jehovah-Jesus.",
+      "full_note_ref": "JFB/2/3/2",
+      "on_tension_rationale": "Explicitly says the 'angel of the Lord' of 3:2 is the symbol under which the Divine Being himself was present, naming 3:4 as where that name is given — collapsing the two speakers into one.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Exodus 3:4",
+      "excerpt_text": "Whom he calleth the Angel, verse 2.",
+      "full_note_ref": "GNV/2/3/4",
+      "on_tension_rationale": "Annotates the 'God called' verse (3:4) by pointing back to 'the Angel' of 3:2 — a compact, distinct-voice cross-identification of the God who speaks with the angel who appeared.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Exodus 3:2",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this exact tension at the verse, reading the Angel-of-Jehovah/Jehovah-Elohim alternation as proof of a single divine speaker rather than two. (Haley's coverage of this specific passage could not be confirmed; per spec a row-surfaced harmonizing commentator keyed to the passage is used.)"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/angel-of-the-Lord.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who is the angel of the Lord?",
+        "note": "Live apologetic page; cites Exodus 3:2 for the burning bush and argues the angel of the Lord speaks and identifies as God (a theophany / pre-incarnate Christ), directly engaging the angel-vs-God identity question."
+      }
+    }
+  }
+}

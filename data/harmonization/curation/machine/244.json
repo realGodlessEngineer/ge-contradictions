@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 244,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the gap as one count of chariots and another of the men in them — 700 chariots at ten men each yielding the 7,000.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The critical concession comes from Samuel Davidson, who held that the figures cannot both stand and that the text of one book is corrupt — a verdict the very harmonists report at this verse.",
+      "skeptic": {
+        "name": "Samuel Davidson",
+        "work": "The Hebrew Text of the Old Testament, Revised from Critical Sources",
+        "year": "1855",
+        "attribution": "Samuel Davidson (d. 1898), The Hebrew Text of the Old Testament, Revised from Critical Sources (1855)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "2 Samuel 10:18",
+      "excerpt_text": "in Ch1 19:17, they are said to be seven thousand, here seven hundred; which may be reconciled by observing, that here the chariots that held the men are numbered, there the number of the men that were in the chariots given, and reckoning ten men in a chariot, seven hundred chariots held just seven thousand men",
+      "full_note_ref": "GILL/10/10/18",
+      "on_tension_rationale": "Directly names the 700 vs 7,000 gap and offers the count-of-chariots vs count-of-men harmonization (10 men per chariot). Strongest single reconcile on the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on 2 Samuel 10:18",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact discrepancy at 2 Samuel 10:18, explaining the 700/7,000 difference as a copyist confusion of the numeral letters zain (7,000) and nun (700)."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/joshua-esther/how-many-charioteers-were-killed-700-or-7000",
+        "domain": "carm.org",
+        "title": "CARM: How many charioteers were killed, 700 or 7,000?",
+        "note": "live apologetic treatment of 2 Samuel 10:18 vs 1 Chronicles 19:18"
+      }
+    }
+  }
+}

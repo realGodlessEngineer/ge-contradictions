@@ -1,0 +1,996 @@
+{
+  "contradiction_id": 11,
+  "question": "What kind of animals may we eat?",
+  "summary": "The canon gives four different answers to what humans are allowed to eat. Genesis 1:29 gives a strictly vegetarian menu in Eden. Genesis 9:3 tells Noah after the flood that every moving thing that lives is now food. Leviticus 11 and Deuteronomy 14 pull the permission back and restrict Israel to specific clean species, banning pigs, shellfish, hares, camels, and a long list of others. Mark 7:18-20 and Matthew 15:11 then have Jesus declaring that nothing entering a person from outside can defile them, which Mark 7:19 glosses as 'thus he declared all foods clean.' Four mandates, four different scopes.",
+  "consensus": "genuine_contradiction",
+  "consensus_id": 1,
+  "category": "Law, Morality & Ethics",
+  "contradiction_type": "ethical_legal",
+  "testament_scope": "OT_vs_NT",
+  "books_in_tension": "Genesis, Leviticus, Deuteronomy, Matthew, Mark",
+  "refs_raw": [
+    "Genesis 1:29",
+    "Deuteronomy 14:7-8",
+    "Leviticus 11:2-4",
+    "Genesis 9:3",
+    "Mark 7:18-20",
+    "Matthew 15:11"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Genesis 1:29",
+      "book": "Genesis",
+      "bolls": 1,
+      "ranges": [
+        [
+          1,
+          29,
+          29
+        ]
+      ]
+    },
+    {
+      "raw": "Deuteronomy 14:7-8",
+      "book": "Deuteronomy",
+      "bolls": 5,
+      "ranges": [
+        [
+          14,
+          7,
+          8
+        ]
+      ]
+    },
+    {
+      "raw": "Leviticus 11:2-4",
+      "book": "Leviticus",
+      "bolls": 3,
+      "ranges": [
+        [
+          11,
+          2,
+          4
+        ]
+      ]
+    },
+    {
+      "raw": "Genesis 9:3",
+      "book": "Genesis",
+      "bolls": 1,
+      "ranges": [
+        [
+          9,
+          3,
+          3
+        ]
+      ]
+    },
+    {
+      "raw": "Mark 7:18-20",
+      "book": "Mark",
+      "bolls": 41,
+      "ranges": [
+        [
+          7,
+          18,
+          20
+        ]
+      ]
+    },
+    {
+      "raw": "Matthew 15:11",
+      "book": "Matthew",
+      "bolls": 40,
+      "ranges": [
+        [
+          15,
+          11,
+          11
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 92,
+  "notes_raw_count": 102,
+  "notes_dropped": 10,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Genesis 1:27",
+      "note_ref": "GILL/1/1/27",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "So God created man in his own image,.... Which consisted both in the form of his body, and the erect stature of it, different from all other creatures; in agreement with the idea of that body, prepared in covenant for the Son of God, and which it was therein agreed he should assume in the fulness of time; and in the immortality of his soul, and in his intellectual powers, and in that purity, holiness, and righteousness in which he was created; as well as in his dominion, power, and authority over the creatures, in which he was as God's viceregent, and resembled him. The Jerusalem Targum is,\nthe Word of the Lord created man in his likeness; even that Word that was in the beginning with God, and was God, and in time became incarnate, by whom all things were made, Joh 1:1.\nin the image of God created he him; which is repeated for the certainty of it, and that it might be taken notice of, as showing man's superior glory and dignity to the rest of the creatures, Co1 11:7.\nmale and female created he them; not that man was created an hermaphrodite, or with two bodies, back to back united together, and afterwards cleaved asunder, as the Jews fabulously say; but first God made man, or the male, out of the dust of the earth, and infused a rational soul into him; and then out of one of his ribs made a female, or woman, who was presented to him as his wife, that so their species might be propagated; and only one male and one female were created, to show that hereafter a man was to have at a time no more wives than one; see Mal 2:15 for all that is said in the following chapter, concerning the formation of man out of the dust of the earth, and the making of woman out of his rib, and presenting her to him, and his taking her to be his wife, were all done on this sixth day, and at this time. It is a tradition among the Heathens, that man was made last of all the creatures; so says Plato (k); and this notion the Chinese also have (l). The Jews give these reasons why man was made on the evening of the sabbath, to show that he did not assist in the work of creation; and that if he was elated in his mind, it might be told him that a fly was created before him, and that he might immediately enter on the command, i.e. of the sabbath (m).\n(k) Protagor. p. 320, 321. (l) Martin. Sinic. Hist. l. 1. p. 4. (m) T. Bab. Sanhedrin, fol. 38. 1."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 1:28",
+      "note_ref": "GILL/1/1/28",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "And God blessed them,.... The man and the woman he had made, with all the blessings of nature and Providence; with all the good things of life; with his presence, and with communion with himself in a natural way, through the creatures; and particularly with a power of procreating their species, as follows,\nand God said unto them, be fruitful, and multiply, and replenish the earth: if this is not an express command, as the Jews understand it, for marriage and procreation of children, it seems to be more than a bare permission; at least it is a direction and an advice to what was proper and convenient for the increase of mankind, and for the filling of the earth with inhabitants, which was the end of its being made, Isa 45:18. This shows that marriage is an ordinance of God, instituted in paradise, and is honourable; and that procreation is a natural action, and might have been, and may be performed without sin,\nand subdue it; the earth; not that it was in the hands of others, who had no right to it, and to be conquered and taken out of their hands; but is to be understood of their taking possession, and making use of it; of their tilling the land, and making it subservient to their use:\nand have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the face of the earth; which was giving them an universal and unlimited dominion over all the creatures; of which see an enumeration in Psa 8:6."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 1:29",
+      "note_ref": "GILL/1/1/29",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "And God said,.... That is, to Adam and Eve, whom he had made in his image and likeness, and to whom he had given the dominion of the earth and sea, and all things in them:\nbehold, I have given you every herb bearing seed, which is upon the face of all the earth; every herb or plant which had a seed in it, by which it sowed itself again; or being taken off, might be sown by man, even everyone that was wholesome, healthful, and nourishing, without any exception; whatever grew in any part of the earth, be it where it would:\nand every tree, in which is the fruit of a tree yielding seed; all but the tree of knowledge, of good and evil, afterwards excepted; and both these take in all kind of vegetables, all herbs, plants, roots, even corn, wheat, barley, pease, beans, &c. and the various fruits of all sorts of trees, but that before mentioned:\nto you it shall be for meat: which is generally thought to be the food of the antediluvians (n), it not being proper, at least very soon, to kill any of the animals, until they were multiplied and increased, lest their species should be destroyed; though here is no prohibition of eating flesh; nor is it said that this only should be for meat, which is before mentioned; and by the early employment of some in keeping sheep, and by the sacrifice of creatures immediately after the fall, part of which used to be eaten by the offerers; and by the distinction of clean and unclean creatures before the flood, it looks probable that flesh might be eaten: and Bochart (o) refers this clause to what goes before in the preceding verse, as well as to what is in this, and takes the sense to be, that the fishes of the sea, and fowls of the air, and every living creature man had dominion over, as well as herbs and fruits, were given him for his food: but the Jews (p) are of opinion, that the first man might not eat flesh, but it was granted to the sons of Noah. (From Rom 5:12 there was no death before Adam's sin, hence up until at least the fall, man did not eat meat. Ed.) (n) \"Panis erant primus virides Mortalibus Herbae\", Ovid. Fast. l. 4. (o) Hierozoic. par. 1. l. 1. c. 2. col. 11. (p) T. Bab. Sanhedrin, fol. 59. 2."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 1:30",
+      "note_ref": "GILL/1/1/30",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "And to every beast of the earth,.... Wild or tame, the cattle on a thousand hills; God took care and provided for these, being all his creatures, and designed to answer some end or other by their creation:\nand to every fowl of the air; that flies in it,\nand to every creeping thing upon the earth; even the meanest and lowest insect:\nwherein there is life; or \"a living soul\"; that has an animal life, which is to be supported by food:\nI have given every green herb for meat; the leaves for some, and seed for others; and here is no mention made of flesh; and perhaps those creatures which are now carnivorous were not so at their first creation:\nand it was so; every creature, both man and beast, had food suitable to their nature and appetite, and a sufficiency of it. (From Rom 5:12, it is certain that up until the fall no animal ate other animals, otherwise there would have been death before Adam's first sin, which is said to be the cause of death. Ed.)"
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 9:1",
+      "note_ref": "GILL/1/9/1",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "And God blessed Noah and his sons,.... With temporal blessings, not spiritual ones; for though some of them were blessed with such, yet not all, particularly Ham:\nand said unto them, be fruitful and multiply, and replenish the earth; depopulated by the flood: this is a renewal of the blessing on Adam, a power and faculty of propagating his species, which was as necessary now as then, since there were so few of the human race left in the world; and the renewal of this grant was the rather necessary, if, as has been observed, Noah and his sons were restrained from cohabiting with their wives while in the ark: but though these words are not an express command for the propagation of their species, yet more than a bare permission, at least they are a direction and instruction to it, and even carry in them a promise of fruitfulness, that they should multiply and increase, which was very needful at this time."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 9:2",
+      "note_ref": "GILL/1/9/2",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "And the fear or you, and the dread of you, shall be upon every beast of the earth,.... This is a renewal, at least in part, of the grant of dominion to Adam over all the creatures; these obeyed him cheerfully, and from love, but sinning, he in a good measure lost his power over them, they rebelled against him; but now though the charter of power over them is renewed, they do not serve man freely, but are in dread of him, and flee from him; some are more easily brought into subjection to him, and even the fiercest and wildest of them may be tamed by him; and this power over them was the more easily retrieved in all probability by Noah and his sons, from the inhabitation of the creatures with them for so long a time in the ark:\nand upon every fowl of the air, and upon all that moveth upon the earth, and upon all the fishes of the sea; as appears by fowls flying away, by beasts and creeping things getting off as fast as they can, and by fishes swimming away at the sight of men:\ninto your hand are they delivered; as the lords and proprietors of them, for their use and service, and particularly for what follows, see Psa 8:6 where there is an enumeration of the creatures subject to men."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 9:3",
+      "note_ref": "GILL/1/9/3",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "Every moving thing that liveth shall be meat for you,.... That is, every beast, fowl, and fish, without exception; for though there was a difference at this time of clean and unclean creatures with respect to sacrifice, yet not with respect to food; every creature of God was good then, as it is now, and it was left to man's reason and judgment what to make use of, as would be most conducive to his health, and agreeable to his taste: and though there was a distinction afterwards made under the Levitical dispensation among the Jews, who were forbid the use of some creatures; yet they themselves say (k), that all unclean beasts will be clean in the world to come, in the times of the Messiah, as they were to the sons of Noah, and refer to this text in proof of it; the only exception in the text is, that they must be living creatures which are taken, and used for food; not such as die of themselves, or are torn to pieces by wild beasts, but such as are taken alive, and killed in a proper manner:\neven as the green herb have I given you all things; as every green herb was given for meat to Adam originally, without any exception, Gen 1:29 so every living creature, without exception, was given to Noah and his sons for food. Some think, and it is a general opinion, that this was a new grant, that man had no right before to eat flesh, nor did he; and it is certain it is not before expressed, but it may be included in the general grant of power and dominion over the creatures made to Adam; and since what is before observed is only a renewal of former grants, this may be considered in the same light; or otherwise the dominion over the creatures first granted to Adam will be reduced to a small matter, if he had no right nor power to kill and eat them; besides, in so large a space of time as 1600 years and upwards, the world must have been overstocked with creatures, if they were not used for such a purpose; nor will Abel's offering the firstling and fattest of his flock appear so praiseworthy, when it made no difference with him, if he ate not of them, whether they were fat or lean; and who will deny that there were peace offerings before the flood, which the offerer always ate of? to which may be added the luxury of men before the flood, who thereby were given to impure and carnal lusts; and our Lord expressly says of the men of that age, that they were \"eating and drinking\", living in a voluptuous manner, which can hardly be accounted for, if they lived only on herbs, see Luk 17:22 though it must be owned, that it was a common notion of poets and philosophers (l), that men in the golden age, as they call it, did not eat flesh, but lived on herbs and fruit.\n(k) In Bereshit Rabba, apud Ainsworth in loc. (l) Pythagoras, apud Ovid. Metamorph. l. 15. Fab. 2. Porphyr. de abstinentia, l. 4. sect. 2."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 9:4",
+      "note_ref": "GILL/1/9/4",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "But flesh with the life thereof, which is the blood thereof, shall you not eat. This is the only exception to the eating of flesh; it was not to be eaten with the blood in it, which is said to be its life; not that the blood is of itself the life, but because it is a means of life, and that being exhausted, the creature must die, and because the animal and vital spirits appear to us most vigorous in it; yea, it is the ailment and support of them, and which furnishes out the greatest quantity of them: or rather it may be rendered, \"the flesh with its life in its blood\" (m); while there is life in the blood, or while the creature is living; the meaning is, that a creature designed for food should be properly killed, and its blood let out; that it should not be devoured alive, as by a beast of prey; that raw flesh should not be eaten, as since by cannibals, and might be by riotous flesh eaters, before the flood; for notwithstanding this law, as flesh without the blood might be eaten, so blood properly let out, and dressed, or mixed with other things, might be eaten, for aught this says to the contrary; but was not to be eaten with the flesh, though it might separately, which was afterwards forbid by another law. The design of this was to restrain cruelty in men, and particularly to prevent the shedding of human blood, which men might be led into, were they suffered to tear living creatures in pieces, and feed upon their raw flesh, and the blood in it. The Targum of Jonathan is,\"but the flesh which is torn from a living beast at the time that its life is in it, or which is torn from a beast while it is slain, before all its breath is gone out, ye shall not eat.''And the Jewish writers generally interpret this of the flesh of a creature taken from it alive, which, they say, is the seventh precept given to the sons of Noah, over and above the six which the sons of Adam were bound to observe, and they are these;1. Idolatry is forbidden. 2. Blasphemy is forbidden. 3. The shedding of blood, or murder is forbidden. 4. Uncleanness, or unjust carnal copulations is forbidden. 5. Rapine or robbery is forbidden. 6. The administration of justice to malefactors is required. 7. The eating of any member or flesh of a creature while alive (n) is forbidden.Such of the Heathens who conformed to those precepts were admitted to dwell among the Israelites, and were called proselytes of the gate.\n(m) \"carnem cum anima, \"seu\" vita ejus, sanguine ejus\", Cartwright. (n) Maimon. Hilchot Melachim, c. 9. sect. 1."
+    },
+    {
+      "src": "GILL",
+      "ref": "Leviticus 11:1",
+      "note_ref": "GILL/3/11/1",
+      "cites": [
+        "Leviticus 11:2-4"
+      ],
+      "text": "And the Lord spake unto Moses, and unto Aaron,.... The one being the chief magistrate, and the other the high priest, and both concerned to see the following laws put into execution; according to Jarchi, the Lord spoke to Moses that he might speak to Aaron; but being now in office, and one part of his office being to distinguish between clean and unclean, the following discourse is directed equally to him as to Moses:\nsaying unto them; as follows."
+    },
+    {
+      "src": "GILL",
+      "ref": "Leviticus 11:2",
+      "note_ref": "GILL/3/11/2",
+      "cites": [
+        "Leviticus 11:2-4"
+      ],
+      "text": "Speak unto the children of Israel, saying,.... For to them only belong the following laws, and not unto the Gentiles, as Jarchi rightly observes; these were parts of the ceremonial law, which was peculiarly given to them, and lay, among other things, in meats and drinks, and now abolished; for it is not what goes into a man that defiles him; nor is anything common or unclean of itself, but every creature of God is good if received with thanksgiving. The sons of Noah had free liberty, without any restraint or limitation, of using for food any living creature that moved upon the face of the earth; in the choice of which they were left to exercise their reason and judgment, and is the case with us now; but as men have not so nice a smell as some animals have, and cannot distinguish by their senses so well as they what food is most wholesome, which makes the exercise of their reason and judgment necessary, and the people of the Jews being a special people, and for whom the Lord had a peculiar regard; for the sake of their health, and to preserve them from diseases they were subject to, such as the leprosy and others, and to direct them to what was most salubrious and healthful, gave them the following laws; and which, though they are not obligatory upon us, yet may be a direction to us, in the use of what may be most suitable and proper food for us, the difference of climates, and of the constitutions of men's bodies, being considered: not that we are to suppose, that the case of health was the only reason of delivering out these laws to the children of Israel, for other ends, besides that, may be thought to be had in view; as to assert his sovereign right to the creatures, and his disposal of them to them according to his will and pleasure; to lay a restraint on their appetites, to prevent luxury, and to teach them self denial, and compliance with his will; as also to keep them the more from the company and conversation of the Gentiles, by whom they otherwise might be led into idolatry; and to give them an aversion to their idols, to whom the creatures forbidden them to eat, many of them were either now or would be sacred to them; and chiefly to excite to a care for purity, both inward and outward, and create in the man abhorrence of those vices which may be signified by the ill qualities of several of the creatures; and to instruct them in the difference between holy and unholy persons, with whom they should or should not have communion; see Act 10:11.\nthese are the beasts that ye shall eat among all the beasts that are on the earth; they are not particularly mentioned here, but they are in Deu 14:4 and they are these ten; the ox, the sheep, and the goat, the hart, and the roebuck, and the fallow deer, and the wild goat, and the pygarg, and the wild ox, and the chamois; of all which; see Gill on Deu 14:4, Deu 14:5, here only some general things are observed to describe them by, as follow."
+    },
+    {
+      "src": "GILL",
+      "ref": "Leviticus 11:3",
+      "note_ref": "GILL/3/11/3",
+      "cites": [
+        "Leviticus 11:2-4"
+      ],
+      "text": "Whatsoever parteth the hoof, and is cloven footed,.... That is, whose hoof is parted and cloven quite through; for there are some creatures that have partitions in their feet, but not quite through, they are parted above, but underneath are joined together by a skin; wherefore both these phrases are used to describe the beasts lawful to be eaten: the Egyptians seem to have borrowed this law from the Jews, for Chaeremon says (x), that they abstain from such four footed beasts that have only one hoof, or have many partitions, or have no horns: and so the Targum of Jonathan adds here,\"which have horns,''which, though not in the text, agrees well with the creatures allowed by this law to be eaten, see Deu 14:4 for such are all horned cattle; nor are there any cattle horned forbid to be eaten:\nand cheweth the cud among the beasts, that shall ye eat: who having no upper teeth cannot thoroughly chew their food at once, and therefore bring it up again out of their stomachs into their mouths and chew it over again, that it may be better prepared for digestion in the stomach, and so yield better nourishment; and this makes the flesh of such creatures fitter for food: and these creatures have more stomachs than one; the ventricles for rumination are four; the first is the paunch, which in oxen is so big as to hold food of fifty pound weight, the second the honeycomb, the third the tripe, the fourth the honey tripe, and to which are helpful the pectoral muscle, the abdomen, with the diaphragm (y): all this might have a moral and spiritual meaning in it, and may be applied either to ministers of the word; who ought rightly to divide the word of truth, and give to everyone their part, and who should walk uprightly according to it, and who should give themselves up wholly to the meditation of it, and thoroughly digest it; and study to show themselves workmen, that need not to be ashamed; or to private Christians, who have a discerning spirit in spiritual things, and can distinguish not only morality from immorality, but spiritual things from carnal, heavenly things from earthly, the voice of Christ from the voice of a stranger, and the doctrines of Christ from the doctrines of men; and who also walk as they should do, by faith on Christ, in the ways of God, and according to the Gospel; these chew the cud, meditate on the word, feed upon it while delivered, recall it, and have it brought to their remembrance by the divine Spirit, and ponder it in their hearts; see Psa 1:1.\n(x) Apud Porphyr. de Abstinentia, l. 4. sect. 7. (y) Scheuchzer. Physic. Sacr. vol. 2. p. 278, 279."
+    },
+    {
+      "src": "GILL",
+      "ref": "Leviticus 11:4",
+      "note_ref": "GILL/3/11/4",
+      "cites": [
+        "Leviticus 11:2-4"
+      ],
+      "text": "Nevertheless, these shall ye not eat,.... To whom one of these descriptive characters may agree but not the other:\nof them that chew the cud, or of them that divide the hoof: there being some that chewed the cud but did not divide the hoof; others that divided the hoof but did not chew the cud, of which instances are given as follow:\nas the camel, because he cheweth the cud, but divideth not the hoof; he is unclean unto you; and not to be eaten, whether male or female; or rather, \"though he cheweth the cud\"; and this account agrees with what naturalists give of it; so Aristotle (z) says it has not both rows of teeth, but wants its upper teeth, and chews as horned cattle do, and has bellies like theirs; for they have more bellies than one, as the sheep, and goat, and hart, and others; since the service of the mouth is not sufficient to grind the food for want of teeth, this is supplied by the bellies, which receive the food one after another; in the first it is undigested, in the second somewhat more digested, in the third more fully, in the fourth completely: and so many bellies the camel has, as a very learned searcher (a) into these things observes; the first is the biggest, the second very small, the third much greater than the second, and the fourth equal to the second; in the second belly between the tunics, he says, seem to be the hydrophylacia, in which the water they drink is kept, very commodious for these animals passing through sandy deserts, so that they can long bear thirst: Pliny (b) says four days: Leo Africanus (c) relates a method used by travellers in the deserts of Lybia, who being in extreme want of water kill one of their camels, out of whose intestines they press out water; this they drink, this they carry about till they find a well, or must die with thirst: and the account also which is given of the feet of these creatures agrees; it parts the hoof, but not thoroughly, it is not cleft quite through, and so comes not up to Moses's descriptive character of clean creatures; its hoof is divided in two, but so divided, as Aristotle (d) observes, that it is but little divided on the back part unto the second joint of the toes; the fore part is very little divided, to the first joint of the toes, and there is something between the parts, as in the feet of geese: and so Pliny says (e) it has two hoofs, but the lower part of the foot is but very little divided, so that it is not thoroughly cleft: but though the flesh of these creatures was forbidden the Jews, it was eaten by people of other nations; both Aristotle (f) and Pliny (g) commend the milk of camels; and by the former the flesh of them is said to be exceeding sweet; and Diodorus Siculus relates (h), that what with their milk and their flesh, which is eaten, as well as on account of their carrying burdens, they are very profitable unto men; and Strabo (i) says, the Nomades eat the flesh and milk of camels; and so the Africans, according to Leo Africanus (k); and a countryman of ours (l), who lived some time in Arabia, relates, that when a camel falls they kill it, and the poorer sort of the company eat it; and he says that he himself ate of camel's flesh, and that it was very sweet and nourishing: these creatures, in the mystic sense, may be an emblem of such persons, that carry their heads high, are proud and haughty, that boast of their riches, or trust in their righteousness.\n(z) De Part. Animal. l. 3. c. 14. (a) Scheuchzer. ib. p. 280. (b) Nat. Hist. l. 8. c. 18. (c) Descriptio Africae, l. 1. p. 75. (d) Hist. Animal. l. 2. c. 1. (e) L. 11. c. 45. (f) Hist. Animal. l. 6. c. 26. (g) Nat. Hist. l. 11. c. 41. (h) Bibliothec. l. 2. p. 137. (i) Geograph. l. 16. p. 535. (k) Descriptio Africae, l. 1. p. 48. l. 6. 617, 620. Arab. Geogr. Clim. 1. par. 1. 3. (l) Pitts's Account of the Mahometans, c. 8. p. 106. Vid. Hieron, adv. Jovinian. l. 2."
+    },
+    {
+      "src": "GILL",
+      "ref": "Deuteronomy 14:5",
+      "note_ref": "GILL/5/14/5",
+      "cites": [
+        "Deuteronomy 14:7-8"
+      ],
+      "text": "And every beast that parted the hoof,.... In this and the two following verses two general rules are given, by which it might be known what beasts were fit for food and what not; one is if they parted the hoof, and the other if they chewed the cud, such might be eaten; but such that only chewed the cud, but did not divide the hoof, as the camel, hare, and coney, might not be eaten; and so if they divided the hoof, and did not chew the cud, as the swine, they were alike unlawful; See Gill on Lev 11:3; see Gill on Lev 11:4; see Gill on Lev 11:5; see Gill on Lev 11:6; see Gill on Lev 11:7; see Gill on Lev 11:8.\n.\nDeuteronomy 14:9\ndeu 14:9\ndeu 14:9\ndeu 14:9These ye shall eat of, all that are in the waters,.... The fishes there, even such as have fins and scales, but they that have not were not to be eaten: See Gill on Lev 11:9, Lev 11:10, Lev 11:11, Lev 11:12."
+    },
+    {
+      "src": "GILL",
+      "ref": "Deuteronomy 14:6",
+      "note_ref": "GILL/5/14/6",
+      "cites": [
+        "Deuteronomy 14:7-8"
+      ],
+      "text": "Of all clean birds ye shall eat. Which the Targum of Jonathan describes, everyone that has a craw, and whose crop is naked, and has a superfluous talon, and is not rapacious; but such as are unclean are expressed by name in the following verses, so that all except them might be reckoned clean and fit for food. Maimonides (p) observes, that only the number of the unclean are reckoned, so that all the rest are free.\n(p) Hilchot. Maacolot Asurot, c. 1. sect. 14."
+    },
+    {
+      "src": "GILL",
+      "ref": "Deuteronomy 14:9",
+      "note_ref": "GILL/5/14/9",
+      "cites": [
+        "Deuteronomy 14:7-8"
+      ],
+      "text": "But these are they of which they shall not eat,.... Jarchi observes, that the unclean birds are particularly mentioned, to teach that the clean sort are more than the unclean, and therefore the particulars of the fewest are given: these are all the same names as in Lev 11:13, excepting one, \"the glede\", Deu 14:13 which is a kind of kite or puttock; the Jerusalem Targum renders it the vulture, and the Targum of Jonathan the white \"dayetha\" or vulture; and Aristotle says (q) there are two sorts of vultures, the one small and whiter, the other larger and of many forms or colours; in Hebrew its name here is \"raah\", and is thought to be the same with \"daah\" in Lev 11:14 there translated the \"vulture\", which has its name there from flying, and here from seeing, for which it is remarkable; see Job 28:7 and the letters and are pretty much alike, and are sometimes changed, but there is another here, in Deu 14:13 mentioned, the \"dayah\", which is not mentioned in Lev 11:1, though some think it the same with the \"ayah\", rendered both here and there the \"kite\"; perhaps it means another sort of vulture, the black vulture, as the Targum of Jonathan.\n(q) Hist. Animal. l. 8. c. 3."
+    },
+    {
+      "src": "GILL",
+      "ref": "Matthew 15:9",
+      "note_ref": "GILL/40/15/9",
+      "cites": [
+        "Matthew 15:11"
+      ],
+      "text": "But in vain do they worship me,.... In the Hebrew text it is, \"their fear towards me\": which is rightly expressed here by \"worship\"; for the fear of God often intends the whole worship of God, both external and internal: here it only signifies external worship, which these men only attended to. They prayed in the synagogues, read, and, in their way, expounded the books of Moses, and the prophets, to the people, diligently observed the rituals of the ceremonial law, brought their offerings and sacrifices to the temple, and neglected nothing appertaining to the outward service of it; and yet it was all \"in vain\", and to no purpose; since the heart was wanting, no grace there, they acted from wrong principles, and with wrong views; their worship was merely outward, formal, and customary; and besides, they added doctrines and traditions of their own inventing and devising. The phrase, \"in vain\", is not in the text in Isaiah: some have thought that it was not originally in Matthew, but inserted by some other hand, to make the sense more complete. Grotius thinks there was a various reading, which is followed by the Septuagint, and the evangelist; and that instead of \"and is\", it was the same with \"in vain\": but there is no need to suppose either of these: Christ, who made this citation, either added it himself for the clearer illustration of the passage, and as being entirely agreeable to the sense of it, and which it required, for the true understanding of it; or he might have in his view another passage of the same prophet, speaking of the same people, and upon the same subject, Isa 1:11 and from thence take the phrase, and, for explanation sake, join it to the passage here. It follows,\nteaching for doctrines the commandments of men; that is, teaching the people to observe the traditions of the elders, the decrees and determinations of the doctors, as if they were doctrines delivered by God himself; or, instead of the doctrines contained in the Bible, which lay neglected by them, they obtruded on them the orders, and injunctions of men. In the text in Isaiah, are only these words, \"taught by the precept of men\": and which relate to their fear and worship of God; and which is here interpreted of their teachers teaching them it, and that explained of the commandments of men; as if, instead of \"taught\", it had been read, \"teaching\". The Jews have no reason to quarrel with this construction and sense, since their Targum paraphrases it thus; \"and their fear before me is, , according to the commandment of men that teach\": and a noted commentator (c) of their's has this remark on the text, \"their fear towards me is\" not with a perfect heart, but \"by the commandment , of the men that teach them\".\n(c) R. Sol. Jarchi in Isa. xxix. 13."
+    },
+    {
+      "src": "GILL",
+      "ref": "Matthew 15:10",
+      "note_ref": "GILL/40/15/10",
+      "cites": [
+        "Matthew 15:11"
+      ],
+      "text": "And he called the multitude,.... Having silenced the Scribes and Pharisees, and judging it not worth his while to say any more to men so obstinate and perverse; who were not open to conviction, nor would attend to any argument or reason, though ever so clear and strong, against their darling notions; he leaves them, as both disliking them, and despairing of them, and calls to the common people; who, through their great veneration for these men, upon their coming withdrew, and stood at a distance; nor indeed would they admit them very near unto them, lest they should be polluted by them: Christ, I say, calls to these to come nearer to him, hoping better of them, and knowing that they were more tractable, and teachable; and that there were some among them, that were to be brought off of their former principles and prejudices, to embrace him, and the truths delivered by him:\nand said unto them, hear and understand; this he said, partly, by way of reflection upon the learned Scribes and Pharisees, who, with all their learning, could not hear him so as to understand him; and partly to excite the attention of the multitude to what he had to say; as also to show, that barely to hear with the outward hearing of the ear, will be of no service, unless what is heard is understood; and that the way to understand, is to hear."
+    },
+    {
+      "src": "GILL",
+      "ref": "Matthew 15:11",
+      "note_ref": "GILL/40/15/11",
+      "cites": [
+        "Matthew 15:11"
+      ],
+      "text": "Not that which goeth into the mouth defileth the man,.... No sorts of meats, or drinks, or whatever is proper food for men, or manner of eating and drinking them, when moderately used, defile a man, or render him loathsome and odious in the sight God. This is directly opposite to the notions of the Jews, who say (d), that\n\"forbidden meats are unclean themselves, \"and defile both body and soul\".''\nThe first food of man was herbs; after the flood he had an allowance of the flesh of beasts, without distinction; under the Levitical dispensation, a difference of meats was enjoined to be observed; the laws respecting that distinction are now abolished, and not binding on us under the Gospel dispensation. Some scruples, about some of these things, did arise among the first Christians; but in process of time these difficulties were got over: nor is there any religion in abstinence from any sort of food; men, indeed, on a \"physical\" account, ought to be careful what they eat and drink, but not on a religious one; moderation in all ought to be used; and whatever is ate or drank, should be received with thankfulness, and done to the glory of God, and then no defilement can arise from hence:\nbut that which cometh out of the mouth, this defileth a man. It is sin, and that only, which takes its rise from the heart, lies in thought, and is either expressed by the mouth, or performed by some outward action, which defiles the man, and renders him loathsome, abominable, and odious in the sight of God. The heart is the source of all evil; the pollution of it is very early, and very general, reaching to all the powers and faculties of the soul; which shows the ignorance of some, and folly of others, that talk of, and trust to the goodness of their hearts; and also the necessity of new hearts and right spirits being formed and created; and that the sinful thoughts of the heart, and the lusts thereof, are defiling to men; and that they are sinful in God's account, and abominable in his sight; that they are loathsome to sensible sinners, and are to be repented of, and forsaken by them; and need the pardoning grace of God or otherwise will be brought into judgment. Sinful words, which, through the abundance of wickedness in the heart, come out of the mouth, have the same influence and effect: words are of a defiling nature; with these men pollute both themselves and others: the tongue, though a little member, defiles the whole body; and evil and corrupt communication proceeding out of the mouth, corrupts the best of manners, and renders men loathsome to God, and liable to his awful judgment. And this is the nature of all sinful actions; they are what God can take no pleasure in; they are disagreeable, to a sensible mind; they leave a stain, which can never be removed by any thing the creature can do; nothing short of the blood of Christ can cleanse from it; and inasmuch as they are frequently committed, there is need of continual application to it. These are now the things men should be concerned about, as of a defiling nature; and not about meats and drinks, and the manner of using them, whether with hands washed, or unwashed.\n(d) Tzeror Hammor, fol. 142. 1."
+    },
+    {
+      "src": "GILL",
+      "ref": "Matthew 15:12",
+      "note_ref": "GILL/40/15/12",
+      "cites": [
+        "Matthew 15:11"
+      ],
+      "text": "Then came his disciples, and said unto him,.... That is, after he had dismissed the people, and was come into a private house; see Mar 7:17 his disciples came to him, being alone, full of concern, for what he had said to the Pharisees, and before all the people; and not so well understanding it themselves.\nKnowest thou that the Pharisees were offended after they heard this saying?, that they set aside the commandments of God, by observing the traditions of the elders; or that they were hypocrites; and that the prophecy of Isaiah, which describes such persons, belonging to them; or that not what goes into, but what comes out of a man, defiles him: whichever it was they have respect unto, or it may be to the whole, they seem to wish Christ had not said it; because the Pharisees were, as they thought, grieved and troubled at it, as being contrary to true religion and piety; and lest they should be so stumbled, as no more to attend, and so all hopes of bringing them over to the faith of Christ be lost; and chiefly, because they perceived they were made exceeding angry, and were highly provoked; so that they might fear that both Christ, and they themselves, would feel the effects of their wrath and rage; and perhaps it was with some such view, that he would take some prudential step that he might not fall into their hands, that they acquaint him with it."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 7:17",
+      "note_ref": "GILL/41/7/17",
+      "cites": [
+        "Mark 7:18-20"
+      ],
+      "text": "And he saith unto them,.... With some warmth of spirit and resentment, at their stupidity:\nare ye so without understanding also? As well as others, and to such a degree; and \"yet\", as Matthew expresses it, Mat 15:16, so wretchedly stupid, and so long, and as much, as others:\ndo ye not perceive? common sense will tell you,\nthat whatsoever thing from, without entereth into the man, it cannot defile him; See Gill on Mat 15:16."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 7:18",
+      "note_ref": "GILL/41/7/18",
+      "cites": [
+        "Mark 7:18-20"
+      ],
+      "text": "Because it entereth not into his heart,.... Which is the seat and fountain of all moral pollution; and if that is not defiled, no other part can be; and that that is not defiled by eating and drinking, unless in case of intemperance, is clear; because food and drink do not go into it:\nbut into the belly; it is taken in at the mouth, goes down the throat, and is received into the stomach, and from thence it passes through the bowels:\nand goeth into the draught; , \"the private house\", as the Jews call it, without going into the heart at all:\npurging all meats; that which it leaves behind, is pure and nourishing; and whatever is gross and impure, is carried with it into the draught, so that nothing remains in the man that is defiling."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 7:19",
+      "note_ref": "GILL/41/7/19",
+      "cites": [
+        "Mark 7:18-20"
+      ],
+      "text": "And he said,.... Continued to say in his discourse; though this is left but in the Syriac version;\nthat which cometh out of the man, that defileth the man; meaning, not his excrements, which were unclean by the law, Deu 23:13 but what comes out of his heart, by his mouth; or is expressed in action, as appears by what follows; See Gill on Mat 15:18."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 7:20",
+      "note_ref": "GILL/41/7/20",
+      "cites": [
+        "Mark 7:18-20"
+      ],
+      "text": "For from within, out of the heart of man,.... The inside of man is very bad, his inward part is not only wicked, but wickedness itself, yea, very wickedness, Psa 5:9, in him dwells no good thing naturally, his heart is wicked, and desperately so; it is full of evil; and out of the abundance of it, proceed the evil things hereafter mentioned; all its powers and faculties are vitiated, there is no place clean; the understanding and judgment are dreadfully corrupted; the mind and conscience are defiled; the affections are inordinate; not only the thought, but every imagination of the thought of the heart is evil, and that continually: what good thing therefore, can come out of such a Nazareth as this? Nothing, but what follows: for from hence\nproceed evil thoughts, adulteries, fornications, murders; which several things are related in Mat_. 15:19 see the note on Mat 15:19; only the order here is a little different; \"murders\", which are here mentioned last, are there put after \"evil thoughts\"."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 1:28",
+      "note_ref": "JFB/1/1/28",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "Be fruitful, &c.--The human race in every country and age has been the offspring of the first pair. Amid all the varieties found among men, some black, some copper-colored, others white, the researches of modern science lead to a conclusion, fully accordant with the sacred history, that they are all of one species and of one family (Act 17:26). What power in the word of God! \"He spake and it was done. He commanded and all things stood fast\" [Psa 33:9]. \"Great and manifold are thy works, Lord God Almighty! in wisdom hast thou made them all\" [Psa 104:24]. We admire that wisdom, not only in the regular progress of creation, but in its perfect adaptation to the end. God is represented as pausing at every stage to look at His work. No wonder He contemplated it with complacency. Every object was in its right place, every vegetable process going on in season, every animal in its structure and instincts suited to its mode of life and its use in the economy of the world. He saw everything that He had made answering the plan which His eternal wisdom had conceived; and, \"Behold it was very good\" [Gen 1:31].\nNext: Genesis Chapter 2"
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 9:2",
+      "note_ref": "JFB/1/9/2",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "And the fear of you and the dread of you--The second part re-establishes man's dominion over the inferior animals; it was now founded not as at first in love and kindness, but in terror; this dread of man prevails among all the stronger as well as the weaker members of the animal tribes and keeps away from his haunts all but those employed in his service."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 9:3",
+      "note_ref": "JFB/1/9/3",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "Every moving thing that liveth shall be meat for you--The third part concerns the means of sustaining life; man was for the first time, it would seem, allowed the use of animal food, but the grant was accompanied with one restriction."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 9:4",
+      "note_ref": "JFB/1/9/4",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "But flesh . . . the blood . . . shall ye not eat--The sole intention of this prohibition was to prevent these excesses of cannibal ferocity in eating flesh of living animals, to which men in the earlier ages of the world were liable."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 9:5",
+      "note_ref": "JFB/1/9/5",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "surely your blood of your lives will I require--The fourth part establishes a new power for protecting life--the institution of the civil magistrate (Rom 13:4), armed with public and official authority to repress the commission of violence and crime. Such a power had not previously existed in patriarchal society."
+    },
+    {
+      "src": "JFB",
+      "ref": "Leviticus 11:3",
+      "note_ref": "JFB/3/11/3",
+      "cites": [
+        "Leviticus 11:2-4"
+      ],
+      "text": "Whatsoever parteth the hoof, and is cloven-footed, and cheweth the cud--Ruminating animals by the peculiar structure of their stomachs digest their food more fully than others. It is found that in the act of chewing the cud, a large portion of the poisonous properties of noxious plants eaten by them, passes off by the salivary glands. This power of secreting the poisonous effects of vegetables, is said to be particularly remarkable in cows and goats, whose mouths are often sore, and sometimes bleed, in consequence. Their flesh is therefore in a better state for food, as it contains more of the nutritious juices, is more easily digested in the human stomach, and is consequently more easily assimilated. Animals which do not chew the cud, convert their food less perfectly; their flesh is therefore unwholesome, from the gross animal juices with which they abound, and is apt to produce scorbutic and scrofulous disorders. But the animals that may be eaten are those which \"part the hoof as well as chew the cud,\" and this is another means of freeing the flesh of the animal from noxious substances. \"In the case of animals with parted hoofs, when feeding in unfavorable situations a prodigious amount of fÅ“tid matter is discharged, and passes off between the toes; while animals with undivided hoofs, feeding on the same ground, become severely affected in the legs, from the poisonous plants among the pasture\" [WHITLAW, Code of Health]. All experience attests this, and accordingly the use of ruminating animals (that is, those which both chew the cud and part the hoof) has always obtained in most countries though it was observed most carefully by the people who were favored with the promulgation of God's law."
+    },
+    {
+      "src": "JFB",
+      "ref": "Leviticus 11:4",
+      "note_ref": "JFB/3/11/4",
+      "cites": [
+        "Leviticus 11:2-4"
+      ],
+      "text": "the camel--It does to a certain extent divide the hoof, for the foot consists of two large parts, but the division is not complete; the toes rest upon an elastic pad on which the animal goes; as a beast of burden its flesh is tough. An additional reason for its prohibition might be to keep the Israelites apart from the descendants of Ishmael."
+    },
+    {
+      "src": "JFB",
+      "ref": "Leviticus 11:5",
+      "note_ref": "JFB/3/11/5",
+      "cites": [
+        "Leviticus 11:2-4"
+      ],
+      "text": "the coney--not the rabbit, for it is not found in Palestine or Arabia, but the hyrax, a little animal of the size and general shape of the rabbit, but differing from it in several essential features. It has no tail, singular, long hairs bristling like thorns among the fur on its back; its feet are bare, its nails flat and round, except those on each inner toe of the hind feet, which are sharp and project like an awl. It does not burrow in the ground but frequents the clefts of rocks."
+    },
+    {
+      "src": "JFB",
+      "ref": "Leviticus 11:6",
+      "note_ref": "JFB/3/11/6",
+      "cites": [
+        "Leviticus 11:2-4"
+      ],
+      "text": "the hare--Two species of hare must have been pointed at: the Sinai hare, the hare of the desert, small and generally brown; the other, the hare of Palestine and Syria, about the size and appearance of that known in our own country. Neither the hare nor the coney are really ruminating. They only appear to be so from working the jaws on the grasses they live on. They are not cloven-footed; and besides, it is said that from the great quantity of down upon them, they are very much subject to vermin--that in order to expel these, they eat poisonous plants, and if used as food while in that state, they are most deleterious [WHITLAW]."
+    },
+    {
+      "src": "JFB",
+      "ref": "Deuteronomy 14:5",
+      "note_ref": "JFB/5/14/5",
+      "cites": [
+        "Deuteronomy 14:7-8"
+      ],
+      "text": "OF BEASTS. (Deu 14:4-8)\nThe hart--(see on Deu 12:15).\nfallow deer--The Hebrew word (Jachmur) so rendered, does not represent the fallow deer, which is unknown in Western Asia, but an antelope (Oryx leucoryx), called by the Arabs, jazmar. It is of a white color, black at the extremities, and a bright red on the thighs. It was used at Solomon's table.\nwild goat--The word akko is different from that commonly used for a wild goat (Sa1 24:2; Psa 104:18; Pro 5:19), and it is supposed to be a goat-deer, having the body of a stag, but the head, horns, and beard of a goat. An animal of this sort is found in the East, and called Lerwee [SHAW, Travels].\npygarg--a species of antelope (Oryx addax) with white buttocks, wreathed horns two feet in length, and standing about three feet seven inches high at the shoulders. It is common in the tracks which the Israelites had frequented [SHAW].\nwild ox--supposed to be the Nubian Oryx, which differs from the Oryx leucoryx (formerly mentioned) by its black color; and it is, moreover, of larger stature and more slender frame, with longer and more curved horns. It is called Bekkar-El-Wash by the Arabs.\nchamois--rendered by the Septuagint Cameleopard; but, by others who rightly judge it must have been an animal more familiar to the Hebrews, it is thought to be the Kebsch (Ovis tragelaphus), rather larger than a common sheep, covered not with wool, but with reddish hair--a Syrian sheep-goat."
+    },
+    {
+      "src": "JFB",
+      "ref": "Matthew 15:10",
+      "note_ref": "JFB/40/15/10",
+      "cites": [
+        "Matthew 15:11"
+      ],
+      "text": "And he called the multitude, and said unto them--The foregoing dialogue, though in the people's hearing, was between Jesus and the pharisaic cavillers, whose object was to disparage Him with the people. But Jesus, having put them down, turns to the multitude, who at this time were prepared to drink in everything He said, and with admirable plainness, strength, and brevity, lays down the great principle of real pollution, by which a world of bondage and uneasiness of conscience would be dissipated in a moment, and the sense of sin be reserved for deviations from the holy and eternal law of God.\nHear and understand:"
+    },
+    {
+      "src": "JFB",
+      "ref": "Matthew 15:11",
+      "note_ref": "JFB/40/15/11",
+      "cites": [
+        "Matthew 15:11"
+      ],
+      "text": "Not that which goeth into the mouth defileth a man; but that which cometh out of the mouth, this defileth a man--This is expressed even more emphatically in Mark (Mar 7:15-16), and it is there added, \"If any man have ears to hear, let him hear.\" As in Mat 13:9, this so oft-repeated saying seems designed to call attention to the fundamental and universal character of the truth it refers to."
+    },
+    {
+      "src": "JFB",
+      "ref": "Matthew 15:12",
+      "note_ref": "JFB/40/15/12",
+      "cites": [
+        "Matthew 15:11"
+      ],
+      "text": "Then came his disciples, and said unto him, Knowest thou that the Pharisees were offended, after they heard this saying?--They had given vent to their irritation, and perhaps threats, not to our Lord Himself, from whom they seem to have slunk away, but to some of the disciples, who report it to their Master."
+    },
+    {
+      "src": "JFB",
+      "ref": "Matthew 15:13",
+      "note_ref": "JFB/40/15/13",
+      "cites": [
+        "Matthew 15:11"
+      ],
+      "text": "But he answered and said, Every plant, which my heavenly Father hath not planted, shall be rooted up--They are offended, are they? Heed it not: their corrupt teaching is already doomed: the garden of the Lord upon earth, too long cumbered with their presence, shall yet be purged of them and their accursed system: yea, and whatsoever is not of the planting of My heavenly Father, the great Husbandman (Joh 15:1), shall share the same fate."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 1:28",
+      "note_ref": "CLARKE/1/1/28",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "And God blessed them - Marked them as being under his especial protection, and gave them power to propagate and multiply their own kind on the earth. A large volume would be insufficient to contain what we know of the excellence and perfection of man, even in his present degraded fallen state. Both his body and soul are adapted with astonishing wisdom to their residence and occupations; and also the place of their residence, as well as the surrounding objects, in their diversity, color, and mutual relations, to the mind and body of this lord of the creation. The contrivance, arrangement, action, and re-action of the different parts of the body, show the admirable skill of the wondrous Creator; while the various powers and faculties of the mind, acting on and by the different organs of this body, proclaim the soul's Divine origin, and demonstrate that he who was made in the image and likeness of God, was a transcript of his own excellency, destined to know, love, and dwell with his Maker throughout eternity."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 1:29",
+      "note_ref": "CLARKE/1/1/29",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "I have given you every herb - for meat - It seems from this, says an eminent philosopher, that man was originally intended to live upon vegetables only; and as no change was made In the structure of men's bodies after the flood, it is not probable that any change was made in the articles of their food. It may also be inferred from this passage that no animal whatever was originally designed to prey on others; for nothing is here said to be given to any beast of the earth besides green herbs - Dr. Priestley. Before sin entered into the world, there could be, at least, no violent deaths, if any death at all. But by the particular structure of the teeth of animals God prepared them for that kind of aliment which they were to subsist on after the Fall."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 1:31",
+      "note_ref": "CLARKE/1/1/31",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "And, behold, it was very good - טוב מאד tob meod, Superlatively, or only good; as good as they could be. The plan wise, the work well executed, the different parts properly arranged; their nature, limits, mode of existence, manner of propagation, habits, mode of sustenance, etc., etc., properly and permanently established and secured; for every thing was formed to the utmost perfection of its nature, so that nothing could be added or diminished without encumbering the operations of matter and spirit on the one hand, or rendering them inefficient to the end proposed on the other; and God has so done all these marvellous works as to be glorified in all, by all, and through all.\nAnd the evening and the morning were the sixth day - The word ערב ereb, which we translate evening, comes from the root ערב arab, to mingle; and properly signifies that state in which neither absolute darkness nor full light prevails. It has nearly the same grammatical signification with our twilight, the time that elapses from the setting of the sun till he is eighteen degrees below the horizon and the last eighteen degrees before he arises. Thus we have the morning and evening twilight, or mixture of light and darkness, in which neither prevails, because, while the sun is within eighteen degrees of the horizon, either after his setting or before his rising, the atmosphere has power to refract the rays of light, and send them back on the earth. The Hebrews extended the meaning of this term to the whole duration of night, because it was ever a mingled state, the moon, the planets, or the stars, tempering the darkness with some rays of light. From the ereb of Moses came the Ερεβος Erebus, of Hesiod, Aristophanes, and other heathens, which they deified and made, with Nox or night, the parent of all things.\nThe morning - בקר boker; From בקר bakar, he looked out; a beautiful figure which represents the morning as looking out at the east, and illuminating the whole of the upper hemisphere. The evening and the morning were the sixth day - It is somewhat remarkable that through the whole of this chapter, whenever the division of days is made, the evening always precedes the morning. The reason of this may perhaps be, that darkness was pre-existent to light, (Gen 1:2, And darkness was upon the face of the deep), and therefore time is reckoned from the first act of God towards the creation of the world, which took place before light was called forth into existence. It is very likely for this same reason, that the Jews began their day at six o'clock in the evening in imitation of Moses's division of time in this chapter. Caesar in his Commentaries makes mention of the same peculiarity existing among the Gauls:\nGalli se omnes ab Dite patre prognatas praedicant: idque ab Druidibus proditum dicunt: ab eam causam spatia omnis temporis, non numero dierum, sed noctium, finiunt; et dies natales, et mensium et annorum initia sic observant, ut noctem dies subsequatur; De Bell. Gall. lib. vi.\nTacitus likewise records the same of the Germans:\nNec dierum numerum, ut nos, sed noctium computant: sic constituent, sic condicunt, nox ducere diem videtur; De Mor. Germ. sec. ii.\nAnd there are to this day some remains of the same custom in England, as for instance in the word se'nnight and fortnight. See also Aeschyl. Agamem. ver. 273, 287.\nThus ends a chapter containing the most extensive, most profound, and most sublime truths that can possibly come within the reach of the human intellect. How unspeakably are we indebted to God for giving us a revelation of his Will and of his Works! Is it possible to know the mind of God but from himself? It is impossible. Can those things and services which are worthy of and pleasing to an infinitely pure, perfect, and holy Spirit, be ever found out by reasoning and conjecture? Never! for the Spirit of God alone can know the mind of God; and by this Spirit he has revealed himself to man; and in this revelation has taught him, not only to know the glories and perfections of the Creator, but also his own origin, duty, and interest. Thus far it was essentially necessary that God should reveal his Will; but if he had not given a revelation of his Works, the origin, constitution, and nature of the universe could never have been adequately known. The world by wisdom knew not God; this is demonstrated by the writings of the most learned and intelligent heathens. They had no just, no rational notion of the origin and design of the universe. Moses alone, of all ancient writers, gives a consistent and rational account of the creation; an account which has been confirmed by the investigation of the most accurate philosophers. But where did he learn this? \"In Egypt.\" That is impossible; for the Egyptians themselves were destitute of this knowledge. The remains we have of their old historians, all posterior to the time of Moses, are egregious for their contradictions and absurdity; and the most learned of the Greeks who borrowed from them have not been able to make out, from their conjoint stock, any consistent and credible account. Moses has revealed the mystery that lay hid from all preceding ages, because he was taught it by the inspiration of the Almighty. Reader, thou hast now before thee the most ancient and most authentic history in the world; a history that contains the first written discovery that God has made of himself to man-kind; a discovery of his own being, in his wisdom, power, and goodness, in which thou and the whole human race are so intimately concerned. How much thou art indebted to him for this discovery he alone can teach thee, and cause thy heart to feel its obligations to his wisdom and mercy. Read so as to understand, for these things were written for thy learning; therefore mark what thou readest, and inwardly digest - deeply and seriously meditate on, what thou hast marked, and pray to the Father of lights that he may open thy understanding, that thou mayest know these holy Scriptures, which are able to make thee wise unto salvation.\nGod made thee and the universe, and governs all things according to the counsel of his will; that will is infinite goodness, that counsel is unerring wisdom. While under the direction of this counsel, thou canst not err; while under the influence of this will, thou canst not be wretched. Give thyself up to his teaching, and submit to his authority; and, after guiding thee here by his counsel, he will at last bring thee to his glory. Every object that meets thy eye should teach thee reverence, submission, and gratitude. The earth and its productions were made for thee; and the providence of thy heavenly Father, infinitely diversified in its operations, watches over and provides for thee. Behold the firmament of his power, the sun, moon, planets, and stars, which he has formed, not for himself, for he needs none of these things, but for his intelligent offspring. What endless gratification has he designed thee in placing within thy reach these astonishing effects of his wisdom and power, and in rendering thee capable of searching out their wonderful relations and connections, and of knowing himself, the source of all perfection, by having made thee in his own image, and in his own likeness! It is true thou art fallen; but he has found out a ransom. God so loved thee in conjunction with the world that he gave his only-begotten Son, that whosoever believeth on him should not perish, but have everlasting life. Believe on Him; through him alone cometh salvation; and the fair and holy image of God in which thou wast created shall be again restored; he will build thee up as at the first, restore thy judges and counsellors as at the beginning, and in thy second creation, as in thy first, will pronounce thee to be very good, and thou shalt show forth the virtues of him by whom thou art created anew in Christ Jesus. Amen."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 9:1",
+      "note_ref": "CLARKE/1/9/1",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "God blessed Noah - Even the increase of families, which appears to depend on merely natural means, and sometimes fortuitous circumstances, is all of God. It is by his power and wisdom that the human being is formed, and it is by his providence alone that man is supported and preserved."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 9:2",
+      "note_ref": "CLARKE/1/9/2",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "The fear of you and the dread, etc. - Prior to the fall, man ruled the inferior animals by love and kindness, for then gentleness and docility were their principal characteristics. After the fall, untractableness, with savage ferocity, prevailed among almost all orders of the brute creation; enmity to man seems particularly to prevail; and had not God in his mercy impressed their minds with the fear and terror of man, so that some submit to his will while others flee from his residence, the human race would long ere this have been totally destroyed by the beasts of the field. Did the horse know his own strength, and the weakness of the miserable wretch who unmercifully rides, drives, whips, goads, and oppresses him, would he not with one stroke of his hoof destroy his tyrant possessor? But while God hides these things from him he impresses his mind with the fear of his owner, so that either by cheerful or sullen submission he is trained up for, and employed in, the most useful and important purposes; and even willingly submits, when tortured for the sport and amusement of his more brutish oppressor. Tigers, wolves, lions, and hyenas, the determinate foes of man, incapable of being tamed or domesticated, flee, through the principle of terror, from the dwelling of man, and thus he is providentially safe. Hence, by fear and by dread man rules every beast of the earth, every fowl of the air, and every fish of the sea. How wise and gracious is this order of the Divine providence! and with what thankfulness should it be considered by every human being!"
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 9:3",
+      "note_ref": "CLARKE/1/9/3",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "Every moving thing - shall be meat - There is no positive evidence that animal food was ever used before the flood. Noah had the first grant of this kind, and it has been continued to all his posterity ever since. It is not likely that this grant would have been now made if some extraordinary alteration had not taken place in the vegetable world, so as to render its productions less nutritive than they were before; and probably such a change in the constitution of man as to render a grosser and higher diet necessary. We may therefore safely infer that the earth was less productive after the flood than it was before, and that the human constitution was greatly impaired by the alterations which had taken place through the whole economy of nature. Morbid debility, induced by an often unfriendly state of the atmosphere, with sore and long-continued labor, would necessarily require a higher nutriment than vegetables could supply. That this was the case appears sufficiently clear from the grant of animal food, which, had it not been indispensably necessary, had not been made. That the constitution of man was then much altered appears in the greatly contracted lives of the postdiluvians; yet from the deluge to the day of Abraham the lives of several of the patriarchs amounted to some hundreds of years; but this was the effect of a peculiar providence, that the new world might be the more speedily repeopled."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 9:4",
+      "note_ref": "CLARKE/1/9/4",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "But flesh with the life thereof, which is the blood - Though animal food was granted, yet the blood was most solemnly forbidden, because it was the life of the beast, and this life was to be offered to God as an atonement for sin. Hence the blood was ever held sacred, because it was the grand instrument of expiation, and because it was typical of that blood by which we enter into the holiest. 1. Before the deluge it was not eaten, because animal food was not in use. 2. After the deluge it was prohibited, as we find above; and, being one of the seven Noahic precepts, it was not eaten previously to the publication of the Mosaic law. 3. At the giving of the law, and at several times during the ministry of Moses, the prohibition was most solemnly, and with awful penalties renewed. Hence we may rest assured that no blood was eaten previously to the Christian era, nor indeed ever since by the Jewish people. 4. That the prohibition has been renewed under the Christian dispensation, can admit of little doubt by any man who dispassionately reads Act 15:20, Act 15:29; Act 21:25, where even the Gentile converts are charged to abstain from it on the authority, not only of the apostles, but of the Holy Ghost, who gave them there and then especial direction concerning this point; see Act 15:28; not for fear of stumbling the converted Jews, the gloss of theologians, but because it was one των επαναγκες τουτων, of those necessary points, from the burden (βαρος) of obedience to which they could not be excused. 5. This command is still scrupulously obeyed by the oriental Christians, and by the whole Greek Church; and why? because the reasons still subsist. No blood was eaten under the law, because it pointed out the blood that was to be shed for the sin of the world; and under the Gospel it should not be eaten, because it should ever be considered as representing the blood which has been shed for the remission of sins. If the eaters of blood in general knew that it affords a very crude, almost indigestible, and unwholesome ailment, they certainly would not on these physical reasons, leaving moral considerations out of the question, be so much attached to the consumption of that from which they could expect no wholesome nutriment, and which, to render it even pleasing to the palate, requires all the skill of the cook. See Lev 17:10."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Leviticus 11:1",
+      "note_ref": "CLARKE/3/11/1",
+      "cites": [
+        "Leviticus 11:2-4"
+      ],
+      "text": "And the Lord spake unto Moses - In the preceding chapter the priests are expressly forbidden to drink wine; and the reason for this law is given also, that they might be able at all times to distinguish between clean and unclean, and be qualified to teach the children of Israel all the statutes which the Lord had spoken, Lev 10:10, Lev 10:11; for as inebriation unfits a person for the regular performance of every function of life, it must be especially sinful in those who minister in holy things, and to whom the teaching of the ignorant, and the cure of souls in general, are entrusted. Scheuchzer has remarked that no Christian state has made any civil law against drunkenness, (he must only mean the German states, for we have several acts of parliament against it in England), and that it is only punished by contempt. \"Custom,\" says he, \"that tyrant of the human race, not only permits it, but in some sort authorizes the practice, insomuch that we see priests and ministers of the Church ascend the pulpit in a state of intoxication, judges seat themselves upon the benches, physicians attend their patients, and others attempt to perform the different avocations of life, in the same disgraceful state.\" - Physic. Sacr., vol. iii., p. 64. This is a horrible picture of German manners; and while we deplore the extensive ravages made by this vice, and the disgrace with which its votaries are overwhelmed, we have reason to thank God that it very rarely has ever appeared in the pulpit, and perhaps was never once seen upon the bench, in our own country. Having delivered the law against drinking wine, Moses proceeds to deliver a series of ordinances, all well calculated to prevent the Israelites from mixing with the surrounding nations, and consequently from being contaminated by their idolatry. In Leviticus 11 he treats of unclean Meats. In Lev 12:1-8, 13, 14, and 15, he treats of unclean Persons, Garments, and Dwellings. In Leviticus 16 he treats of the uncleanness of the Priests and the People, and prescribes the proper expiations and sacrifices for both. In Leviticus 17 he continues the subject, and gives particular directions concerning the mode of offering, etc. In Leviticus 18 he treats of unclean matrimonial connections. In Leviticus 19 he repeats sundry laws relative to these subjects, and introduces some new ones. In Leviticus 20 he mentions certain uncleannesses practiced among the idolatrous nations, and prohibits them on pain of death. In Leviticus 21 he treats of the mourning, marriages, and personal defects of the priests, which rendered them unclean. And in Leviticus 22 he speaks of unclean sacrifices, or such as should not be offered to the Lord. After this, to the close of the book, many important and excellent political and domestic regulations are enjoined, the whole forming an eccleslastico-political system superior to any thing the world ever saw. Bishop Wilson very properly observes that, \"by these laws of clean and unclean animals, etc., God did keep this people separated from the idolatrous world: and this is a standing proof, even to the present day, of the Divine authority of these Scriptures; for no power or art of man could have obliged so great and turbulent a nation to submit to such troublesome precepts as the Jews always have submitted to, had they not been fully convinced, from the very first, that the command was from God, and that it was to be obeyed at the peril of their souls.\""
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Leviticus 11:3",
+      "note_ref": "CLARKE/3/11/3",
+      "cites": [
+        "Leviticus 11:2-4"
+      ],
+      "text": "Whatsoever parteth the hoof, and is cloven-footed - These two words mean the same thing - a divided hoof, such as that of the ox, where the hoof is divided into two toes, and each toe is cased with horn.\nCheweth the cud - Ruminates; casts up the grass, etc., which had been taken into the stomach for the purpose of mastication. Animals which chew the cud, or ruminate, are provided with two, three or four stomachs. The ox has four: in the first or largest, called the ventriculus or paunch, the food is collected without being masticated, the grass, etc., being received into it as the beast crops it from the earth. The food, by the force of the muscular coats of this stomach, and the liquors poured in, is sufficiently macerated; after which, formed into small balls, it is thrown up by the esophagus into the mouth, where it is made very small by mastication or chewing, and then sent down into the second stomach, into which the esophagus or gullet opens, as well as into the first, ending exactly where the two stomachs meet. This is what is termed chewing the cud. The second stomach, which is called the reticulum, honeycomb, bonnet, or king's hood, has a great number of small shallow cells on its inward surface, of a pentagonal or five-sided form, exactly like the cells in a honey-comb; in this the food is farther macerated, and then pushed onward into the third stomach, called the omasum or many-plies, because its inward surface is covered with a great number of thin membranous partitions. From this the food passes into the fourth stomach, called the abomasum, or rede. In this stomach it is digested, and from the digested mass the chyle is formed, which, being absorbed by the lacteal vessels, is afterwards thrown into the mass of blood, and becomes the principle of nutrition to all the solids and fluids of the body. The intention of rumination, or chewing the cud, seems to be, that the food may be sufficiently comminuted, that, being more fully acted on by the stomachs, it may afford the greatest possible portion of nutritive juices. The word cud is probably not originally Saxon, though found in that language in the same signification in which it is still used. Junius, with great show of probability, derives it from the Cambro-British chwyd, a vomit, as it is the ball of food vomited, or thrown up, from the first stomach or paunch through the esophagus into the mouth, which is called by this name. Those who prefer a Saxon derivation may have it in the verb whence our word chew; and so cud might be considered a contraction of chewed, but this is not so likely as the preceding."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Leviticus 11:5",
+      "note_ref": "CLARKE/3/11/5",
+      "cites": [
+        "Leviticus 11:2-4"
+      ],
+      "text": "The coney - שפן shaphan, not the rabbit, but rather a creature nearly resembling it, which abounds in Judea, Palestine, and Arabia, and is called by Dr. Shaw daman Israel, and by Mr. Bruce ashkoko. As this creature nearly resembles the rabbit, with which Spain anciently abounded, Bochart supposes that the Phoenicians might have given it the name of שפניה spaniah, from the multitude of שפנים shephanim (or spanim, as others pronounce it) which were found there. Hence the emblem of Spain is a woman sitting with a rabbit at her feet. See a coin of Hadrian in Scheuchzer."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Leviticus 11:6",
+      "note_ref": "CLARKE/3/11/6",
+      "cites": [
+        "Leviticus 11:2-4"
+      ],
+      "text": "The hare - ארנבת arnebeth, as Bochart and others suppose, from ארה arah, to crop, and ניב nib, the produce of the ground, these animals being remarkable for destroying the fruits of the earth. That they are notorious for destroying the tender blade of the young corn, is well known. It is very likely that different species of these animals are included under the general terms שפן shaphan, and ארנבת arnebeth, for some travelers have observed that there are four or five sorts of these animals, which are used for food in the present day in those countries. See Harmer, vol. iii., p. 331, edit. 1808. Some think the mountain rat, marmot, squirrel, and hedgehog, may be intended under the word shaphan."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Mark 7:14",
+      "note_ref": "CLARKE/41/7/14",
+      "cites": [
+        "Mark 7:18-20"
+      ],
+      "text": "When he had called all the people - But instead of παντα, all, παλιν, again, is the reading of BDL, later Syriac in the margin, Coptic, Ethiopic, Saxon, Vulgate, all the Itala but one. Mill and Griesbach approve of this reading.",
+      "anchor": true
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Mark 7:19",
+      "note_ref": "CLARKE/41/7/19",
+      "cites": [
+        "Mark 7:18-20"
+      ],
+      "text": "Into the draught - See on Mat 15:17 (note).\nPurging all meats? - For what is separated from the different aliments taken into the stomach, and thrown out of the body, is the innutritious parts of all the meats that are eaten; and thus they are purged, nothing being left behind but what is proper for the support of the body."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 1:24",
+      "note_ref": "KD/1/1/24",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "The Sixth Day. - Sea and air are filled with living creatures; and the word of God now goes forth to the earth, to produce living beings after their kind. These are divided into three classes. בּהמה, cattle, from בהם, mutum, brutum esse, generally denotes the larger domesticated quadrupeds (e.g., Gen 47:18; Exo 13:12, etc.), but occasionally the larger land animals as a whole. רמשׂ (the creeping) embraces the smaller land animals, which move either without feet, or with feet that are scarcely perceptible, viz., reptiles, insects, and worms. In Gen 1:25 they are distinguished from the race of water reptiles by the term האדמה ארץ חיתו (the old form of the construct state, for הארץ חיּת), the beast of the earth, i.e., the freely roving wild animals.\n\"After its kind:\" this refers to all three classes of living creatures, each of which had its peculiar species; consequently in Gen 1:25, where the word of God is fulfilled, it is repeated with every class. This act of creation, too, like all that precede it, is shown by the divine word \"good\" to be in accordance with the will of God. But the blessing pronounced is omitted, the author hastening to the account of the creation of man, in which the work of creation culminated. The creation of man does not take place through a word addressed by God to the earth, but as the result of the divine decree, \"We will make man in Our image, after our likeness,\" which proclaims at the very outset the distinction and pre-eminence of man above all the other creatures of the earth. The plural \"We\" was regarded by the fathers and earlier theologians almost unanimously as indicative of the Trinity: modern commentators, on the contrary, regard it either as pluralis majestatis; or as an address by God to Himself, the subject and object being identical; or as communicative, an address to the spirits or angels who stand around the Deity and constitute His council. The last is Philo's explanation: διαλέγεται ὁ τῶν ὁ͂λων πατὴρ ταῖς ἑαυτο͂υ δυνάεσιν (δυνάμεις = angels). But although such passages as Kg1 22:19., Psa 89:8, and Dan 10, show that God, as King and Judge of the world, is surrounded by heavenly hosts, who stand around His throne and execute His commands, the last interpretation founders upon this rock: either it assumes without sufficient scriptural authority, and in fact in opposition to such distinct passages as Gen 2:7, Gen 2:22; Isa 40:13 seq., Gen 44:24, that the spirits took part in the creation of man; or it reduces the plural to an empty phrase, inasmuch as God is made to summon the angels to cooperate in the creation of man, and then, instead of employing them, is represented as carrying out the work alone. Moreover, this view is irreconcilable with the words \"in our image, after our likeness;\" since man was created in the image of God alone (Gen 1:27; Gen 5:1), and not in the image of either the angels, or God and the angels. A likeness to the angels cannot be inferred from Heb 2:7, or from Luk 20:36. Just as little ground is there for regarding the plural here and in other passages (Gen 3:22; Gen 11:7; Isa 6:8; Isa 41:22) as reflective, an appeal to self; since the singular is employed in such cases as these, even where God Himself is preparing for any particular work (cf. Gen 2:18; Psa 12:5; Isa 33:10). No other explanation is left, therefore, than to regard it as pluralis majestatis, - an interpretation which comprehends in its deepest and most intensive form (God speaking of Himself and with Himself in the plural number, not reverentiae causa, but with reference to the fullness of the divine powers and essences which He possesses) the truth that lies at the foundation of the trinitarian view, viz., that the potencies concentrated in the absolute Divine Being are something more than powers and attributes of God; that they are hypostases, which in the further course of the revelation of God in His kingdom appeared with more and more distinctness as persons of the Divine Being. On the words \"in our image, after our likeness\" modern commentators have correctly observed, that there is no foundation for the distinction drawn by the Greek, and after them by many of the Latin Fathers, between εἰκών (imago) and ὁμοίωσις (similitudo), the former of which they supposed to represent the physical aspect of the likeness to God, the latter the ethical; but that, on the contrary, the older Lutheran theologians were correct in stating that the two words are synonymous, and are merely combined to add intensity to the thought: \"an image which is like Us\" (Luther); since it is no more possible to discover a sharp or well-defined distinction in the ordinary use of the words between צלם and דּמוּת, than between בּ and כּ. צלם, from צל, lit., a shadow, hence sketch, outline, differs no more from דּמוּת, likeness, portrait, copy, than the German words Umriss or Abriss (outline or sketch) from Bild or Abbild (likeness, copy). בּ and כּ are also equally interchangeable, as we may see from a comparison of this verse with Gen 5:1 and Gen 5:3. (Compare also Lev 6:4 with Lev 27:12, and for the use of בּ to denote a norm, or sample, Exo 25:40; Exo 30:32, Exo 30:37, etc.) There is more difficulty in deciding in what the likeness to God consisted. Certainly not in the bodily form, the upright position, or commanding aspect of the man, since God has no bodily form, and the man's body was formed from the dust of the ground; nor in the dominion of man over nature, for this is unquestionably ascribed to man simply as the consequence or effluence of his likeness to God. Man is the image of God by virtue of his spiritual nature. of the breath of God by which the being, formed from the dust of the earth, became a living soul.\n(Note: \"The breath of God became the soul of man; the soul of man therefore is nothing but the breath of God. The rest of the world exists through the word of God; man through His own peculiar breath. This breath is the seal and pledge of our relation to God, of our godlike dignity; whereas the breath breathed into the animals is nothing but the common breath, the life-wind of nature, which is moving everywhere, and only appears in the animal fixed and bound into a certain independence and individuality, so that the animal soul is nothing but a nature-soul individualized into certain, though still material spirituality.\" - Ziegler.)\nThe image of God consists, therefore, in the spiritual personality of man, though not merely in unity of self-consciousness and self-determination, or in the fact that man was created a consciously free Ego; for personality is merely the basis and form of the divine likeness, not its real essence. This consists rather in the fact, that the man endowed with free self-conscious personality possesses, in his spiritual as well as corporeal nature, a creaturely copy of the holiness and blessedness of the divine life. This concrete essence of the divine likeness was shattered by sin; and it is only through Christ, the brightness of the glory of God and the expression of His essence (Heb 1:3), that our nature is transformed into the image of God again (Col 3:10; Eph 4:24).\n\"And they (אדם, a generic term for men) shall have dominion over the fish,\" etc. There is something striking in the introduction of the expression \"and over all the earth,\" after the different races of animals have been mentioned, especially as the list of races appears to be proceeded with afterwards. If this appearance were actually the fact, it would be impossible to escape the conclusion that the text is faulty, and that חיּת has fallen out; so that the reading should be, \"and over all the wild beasts of the earth,\" as the Syriac has it. But as the identity of \"every creeping thing that creepeth upon the earth\" (הארץ) with \"every thing that creepeth upon the ground\" (האדמה) in Gen 1:25 is not absolutely certain; on the contrary, the change in expression indicates a difference of meaning; and as the Masoretic text is supported by the oldest critical authorities (lxx, Sam., Onk.), the Syriac rendering must be dismissed as nothing more than a conjecture, and the Masoretic text be understood in the following manner. The author passes on from the cattle to the entire earth, and embraces all the animal creation in the expression, \"every moving thing (כל־הרמשׂ) that moveth upon the earth,\" just as in Gen 1:28, \"every living thing הרמשׂת upon the earth.\" According to this, God determined to give to the man about to be created in His likeness the supremacy, not only over the animal world, but over the earth itself; and this agrees with the blessing in Gen 1:28, where the newly created man is exhorted to replenish the earth and subdue it; whereas, according to the conjecture of the Syriac, the subjugation of the earth by man would be omitted from the divine decree. - Gen 1:27. In the account of the accomplishment of the divine purpose the words swell into a jubilant song, so that we meet here for the first time with a parallelismus membrorum, the creation of man being celebrated in three parallel clauses. The distinction drawn between אתו (in the image of God created He him) and אתם (as man and woman created He them) must not be overlooked. The word אתם, which indicates that God created the man and woman as two human beings, completely overthrows the idea that man was at first androgynous (cf. Gen 2:18.). By the blessing in Gen 1:28, God not only confers upon man the power to multiply and fill the earth, as upon the beasts in Gen 1:22, but also gives him dominion over the earth and every beast. In conclusion, the food of both man and beast is pointed out in Gen 1:29, Gen 1:30, exclusively from the vegetable kingdom. Man is to eat of \"every seed-bearing herb on the face of all the earth, and every tree on which there are fruits containing seed,\" consequently of the productions of both field and tree, in other words, of corn and fruit; the animals are to eat of \"every green herb,\" i.e., of vegetables or green plants, and grass.\nFrom this it follows, that, according to the creative will of God, men were not to slaughter animals for food, nor were animals to prey upon one another; consequently, that the fact which now prevails universally in nature and the order of the world, the violent and often painful destruction of life, is not a primary law of nature, nor a divine institution founded in the creation itself, but entered the world along with death at the fall of man, and became a necessity of nature through the curse of sin. It was not till after the flood, that men received authority from God to employ the flesh of animals as well as the green herb as food (Gen 9:3); and the fact that, according to the biblical view, no carnivorous animals existed at the first, may be inferred from the prophetic announcements in Isa 11:6-8; Isa 65:25, where the cessation of sin and the complete transformation of the world into the kingdom of God are described as being accompanied by the cessation of slaughter and the eating of flesh, even in the case of the animal kingdom. With this the legends of the heathen world respecting the golden age of the past, and its return at the end of time, also correspond (cf. Gesenius on Isa 11:6-8). It is true that objections have been raised by natural historians to this testimony of Scripture, but without scientific ground. For although at the present time man is fitted by his teeth and alimentary canal for the combination of vegetable and animal food; and although the law of mutual destruction so thoroughly pervades the whole animal kingdom, that not only is the life of one sustained by the death of another, but \"as the graminivorous animals check the overgrowth of the vegetable kingdom, so the excessive increase of the former is restricted by the beasts of prey, and of these again by the destructive implements of man;\" and although, again, not only beasts of prey, but evident symptoms of disease are met with among the fossil remains of the aboriginal animals: all these facts furnish no proof that the human and animal races were originally constituted for death and destruction, or that disease and slaughter are older than the fall. For, to reply to the last objection first, geology has offered no conclusive evidence of its doctrine, that the fossil remains of beasts of prey and bones with marks of disease belong to a pre-Adamite period, but has merely inferred it from the hypothesis already mentioned of successive periods of creation. Again, as even in the present order of nature the excessive increase of the vegetable kingdom is restrained, not merely by the graminivorous animals, but also by the death of the plants themselves through the exhaustion of their vital powers; so the wisdom of the Creator could easily have set bounds to the excessive increase of the animal world, without requiring the help of huntsmen and beasts of prey, since many animals even now lose their lives by natural means, without being slain by men or eaten by beasts of prey. The teaching of Scripture, that death entered the world through sin, merely proves that the human race was created for eternal life, but by no means necessitates the assumption that the animals were also created for endless existence. As the earth produced them at the creative word of God, the different individuals and generations would also have passed away and returned to the bosom of the earth, without violent destruction by the claws of animals or the hand of man, as soon as they had fulfilled the purpose of their existence. The decay of animals is a law of nature established in the creation itself, and not a consequence of sin, or an effect of the death brought into the world by the sin of man. At the same time, it was so far involved in the effects of the fall, that the natural decay of the different animals was changed into a painful death or violent end. Although in the animal kingdom, as it at present exists, many varieties are so organized that they live exclusively upon the flesh of other animals, which they kill and devour; this by no means necessitates the conclusion, that the carnivorous beasts of prey were created after the fall, or the assumption that they were originally intended to feed upon flesh, and organized accordingly. If, in consequence of the curse pronounced upon the earth after the sin of man, who was appointed head and lord of nature, the whole creation was subjected to vanity and the bondage of corruption (Rom 8:20.); this subjection might have been accompanied by a change in the organization of the animals, though natural science, which is based upon the observation and combination of things empirically discovered, could neither demonstrate the fact nor explain the process. And if natural science cannot boast that in any one of its many branches it has discovered all the phenomena connected with the animal and human organism of the existing world, how could it pretend to determine or limit the changes through which this organism may have passed in the course of thousands of years?\nThe creation of man and his installation as ruler on the earth brought the creation of all earthly beings to a close (Gen 1:31). God saw His work, and behold it was all very good; i.e., everything perfect in its kind, so that every creature might reach the goal appointed by the Creator, and accomplish the purpose of its existence. By the application of the term \"good\" to everything that God made, and the repetition of the word with the emphasis \"very\" at the close of the whole creation, the existence of anything evil in the creation of God is absolutely denied, and the hypothesis entirely refuted, that the six days' work merely subdued and fettered an ungodly, evil principle, which had already forced its way into it. The sixth day, as being the last, is distinguished above all the rest by the article - השּׁשּׁי יום \"a day, the sixth\" (Gesenius, 111, 2a).",
+      "anchor": true
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 9:3",
+      "note_ref": "KD/1/9/3",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "\"Every moving thing that liveth shall be food for you; even as the green of the herb have I given you all (את־כּל = חכּל).\" These words do not affirm that man then first began to eat animal food, but only that God then for the first time authorized, or allowed him to do, what probably he had previously done in opposition to His will. \"Only flesh in its soul, its blood (דמו in apposition to בּנפשׁו), shall ye not eat;\" i.e., flesh in which there is still blood, because the soul of the animal is in the blood. The prohibition applies to the eating of flesh with blood in it, whether of living animals, as is the barbarous custom in Abyssinia, or of slaughtered animals from which the blood has not been properly drained at death. This prohibition presented, on the one hand, a safeguard against harshness and cruelty; and contained, on the other, \"an undoubted reference to the sacrifice of animals, which was afterwards made the subject of command, and in which it was the blood especially that was offered, as the seat and soul of life (see note on Lev 17:11, Lev 17:14); so that from this point of view sacrifice denotes the surrender of one's own inmost life, of the very essence of life, to God\" (Ziegler). Allusion is made to the first again in the still further limitation given in Gen 9:5 : \"and only (ואך) your blood, with regard to your souls (ל indicative of reference to an individual object, Ewald, 310a), will I seek (demand or avenge, cf. Psa 9:13) from the hand of every beast, and from the hand of man, from the hand of every one, his brother;\" i.e., from every man, whoever he may be, because he is his (the slain man's) brother, inasmuch as all men are brethren. The life of man was thus made secure against animals as well as men. God would avenge or inflict punishment for every murder, - not directly, however, as He promised to do in the case of Cain, but indirectly by giving the command, \"Whoso sheddeth man's blood, by man shall his blood be shed,\" and thus placing in the hand of man His own judicial power. \"This was the first command,\" says Luther, \"having reference to the temporal sword. By these words temporal government was established, and the sword placed in its hand by God.\" It is true the punishment of the murderer is enjoined upon \"man\" universally; but as all the judicial relations and ordinances of the increasing race were rooted in those of the family, and grew by a natural process out of that, the family relations furnished of themselves the norm for the closer definition of the expression \"man.\" Hence the command does not sanction revenge, but lays the foundation for the judicial rights of the divinely appointed \"powers that be\" (Rom 13:1). This is evident from the reason appended: \"for in the image of God made He man.\" If murder was to be punished with death because it destroyed the image of God in man, it is evident that the infliction of the punishment was not to be left to the caprice of individuals, but belonged to those alone who represent the authority and majesty of God, i.e., the divinely appointed rulers, who for that very reason are called Elohim in Psa 82:6. This command then laid the foundation for all civil government,\n(Note: Hic igitur fons est, ex quo manat totum just civile et just gentium. Nam si Deus concedit homini potestatem super vitam et mortem, profecto etiam concedit potestatem super id, quod minus est, ut sunt fortunae, familia, uxor, liberi, servi, agri; Haec omnia vult certorum hominum potestati esse obnoxia Deus, ut reos puniant. Luther.)\nand formed a necessary complement to that unalterable continuance of the order of nature which had been promised to the human race for its further development. If God on account of the innate sinfulness of man would no more bring an exterminating judgment upon the earthly creation, it was necessary that by commands and authorities He should erect a barrier against the supremacy of evil, and thus lay the foundation for a well-ordered civil development of humanity, in accordance with the words of the blessing, which are repeated in Gen 9:7, as showing the intention and goal of this new historical beginning."
+    },
+    {
+      "src": "KD",
+      "ref": "Leviticus 11:1",
+      "note_ref": "KD/3/11/1",
+      "cites": [
+        "Leviticus 11:2-4"
+      ],
+      "text": "Lev 11:1\nThe laws which follow were given to Moses and Aaron (Lev 11:1; Lev 13:1; Lev 15:1), as Aaron had been sanctified through the anointing to expiate the sins and uncleannesses of the children of Israel.\nLev 11:2-3\n(cf. Deu 14:4-8). Of the larger quadrupeds, which are divided in Gen 1:24-25 into beasts of the earth (living wild) and tame cattle, only the cattle (behemah) are mentioned here, as denoting the larger land animals, some of which were reared by man as domesticated animals, and others used as food. Of these the Israelites might eat \"whatsoever parteth the hoof and is cloven-footed, and cheweth the cud among the cattle.\" פּרסת שׁסע שׁסעת, literally \"tearing (having) a rent in the hoofs,\" according to Deu 14:5 into \"two claws,\" i.e., with a hoof completely severed in two. גּרה, rumination, μηρυκισμός (lxx), from גּרר (cf. יגּר Lev 11:7), to draw (Hab 1:15), to draw to and fro; hence to bring up the food again, to ruminate. גּרה מעלת is connected with the preceding words with vav cop. to indicate the close connection of the two regulations, viz., that there was to be the perfectly cloven foot as well as the rumination (cf. Lev 11:4.). These marks are combined in the oxen, sheep, and goats, and also in the stag and gazelle. The latter are expressly mentioned in Deu 14:4-5, where - in addition to the common stag (איּל) and gazelle (צבי, δορκάς, lxx), or dorcas-antelope, which is most frequently met with in Palestine, Syria, and Arabia, of the size of a roebuck, with a reddish brown back and white body, horns sixteen inches long, and fine dark eyes, and the flesh of which, according to Avicenna, is the best of all the wild game-the following five are also selected, viz.: (1) יחמוּר, not βούβαλος, the buffalo (lxx, and Luther), but Damhirsch, a stag which is still much more common in Asia than in Europe and Palestine (see v. Schubert, R. iii. p. 118); (2) אקּו, probably, according to the Chaldee, Syriac, etc., the capricorn (Steinbock), which is very common in Palestine, not τραγέλαφος (lxx, Vulg.), the buck-stag (Bockhirsch), an animal lately discovered in Nubia (cf. Leyrer in Herzog's Cycl. vi. p. 143); (3) דּישׁן, according to the lxx and Vulg. πύραργος, a kind of antelope resembling the stag, which is met with in Africa (Herod. 4, 192), - according to the Chaldee and Syriac, the buffalo-antelope, - according to the Samar. and Arabic, the mountain-stag; (4) תּאו, according to the Chaldee the wild ox, which is also met with in Egypt and Arabia, probably the oryx (lxx, Vulg.), a species of antelope as large as a stag; and (5) זמר, according to the lxx and most of the ancient versions, the giraffe, but this is only found in the deserts of Africa, and would hardly be met with even in Egypt-it is more probably capreae sylvestris species, according to the Chaldee.\nLev 11:4-6\nAny animal which was wanting in either of these marks was to be unclean, or not to be eaten. This is the case with the camel, whose flesh is eaten by the Arabs; it ruminates, but it has not cloven hoofs. Its foot is severed, it is true, but not thoroughly cloven, as there is a ball behind, upon which it treads. The hare and hyrax (Klippdachs) were also unclean, because, although they ruminate, they have not cloven hoofs. It is true that modern naturalists affirm that the two latter do not ruminate at all, as they have not the four stomachs that are common to ruminant animals; but they move the jaw sometimes in a manner which looks like ruminating, so that even Linnaeus affirmed that the hare chewed the cud, and Moses followed the popular opinion. According to Bochart, Oedmann, and others, the shaphan is the jerboa, and according to the Rabbins and Luther, the rabbit or coney. But the more correct view is, that it is the wabr of the Arabs, which is still called tsofun in Southern Arabia (hyrax Syriacus), an animal which feeds on plants, a native of the countries of the Lebanon and Jordan, also of Arabia and Africa. They live in the natural caves and clefts of the rocks (Psa 104:18), are very gregarious, being often seen seated in troops before the openings to their caves, and extremely timid as they are quite defenceless (Pro 30:26). They are about the size of rabbits, of a brownish grey or brownish yellow colour, but white under the belly; they have bright eyes, round ears, and no tail. The Arabs eat them, but do not place them before their guests.\n(Note: See Shaw, iii. p. 301; Seetzen, ii. p. 228; Robinson's Biblical Researches, p. 387; and Roediger on Gesenius thesaurus, p. 1467.)\nLev 11:7\nThe swine has cloven hoofs, but does not ruminate; and many of the tribes of antiquity abstained from eating it, partly on account of its uncleanliness, and partly from fear of skin-diseases.\nLev 11:8\n\"Of their flesh shall ye not eat (i.e., not slay these animals as food), and their carcase (animals that had died) shall ye not touch.\" The latter applied to the clean or edible animals also, when they had died a natural death (Lev 11:39)."
+    },
+    {
+      "src": "KD",
+      "ref": "Deuteronomy 14:3",
+      "note_ref": "KD/5/14/3",
+      "cites": [
+        "Deuteronomy 14:7-8"
+      ],
+      "text": "With reference to food, the Israelites were to eat nothing whatever that was abominable. In explanation of this prohibition, the laws of Lev 11 relating to clean and unclean animals are repeated in all essential points in vv. 4-20 (for the exposition, see at Lev 11); also in Deu 14:21 the prohibition against eating any animal that had fallen down dead (as in Exo 32:30 and Lev 17:15), and against boiling a kid in its mother's milk (as in Exo 23:19).",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 1:29",
+      "note_ref": "MHC/1/1/29",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "We have here the third part of the sixth day's work, which was not any new creation, but a gracious provision of food for all flesh, Psa 136:25. He that made man and beast thus took care to preserve both, Psa 36:6. Here is,\nI. Food provided for man, Gen 1:29. Herbs and fruits must be his meat, including corn and all the products of the earth; these were allowed him, but (it should seem) not flesh, till after the flood, Gen 9:3. And before the earth was deluged, much more before it was cursed for man's sake, its fruits, no doubt, were more pleasing to the taste and more strengthening and nourishing to the body than marrow and fatness, and all the portion of the king's meat, are now. See here, 1. That which should make us humble. As we were made out of the earth, so we are maintained out of it. Once indeed men did eat angels' food, bread from heaven; but they died (Joh 6:49); it was to them but as food out of the earth, Psa 104:14. There is meat that endures to everlasting life; the Lord evermore give us this. 2. That which should make us thankful. The Lord is for the body; from him we receive all the supports and comforts of this life, and to him we must give thanks. He gives us all things richly to enjoy, not only for necessity, but plenty, plenty, dainties, and varieties, for ornament and delight. How much are we indebted! How careful should we be, as we live upon God's bounty, to live to his glory! 3. That which should make us temperate and content with our lot. Though Adam had dominion given him over fish and fowl, yet God confined him, in his food, to herbs and fruits; and he never complained of it. Though afterwards he coveted forbidden fruit, for the sake of the wisdom and knowledge he promised himself from it, yet we never read that he coveted forbidden flesh. If God give us food for our lives, let us not, with murmuring Israel, ask food for our lusts, Psa 78:18; see Dan 1:15.\nII. Food provided for the beasts, Gen 1:30. Doth God take care for oxen? Yes, certainly, he provides food convenient for them, and not for oxen only, which were used in his sacrifices and man's service, but even the young lions and the young ravens are the care of his providence; they ask and have their meat from God. Let us give to God the glory of his bounty to the inferior creatures, that all are fed, as it were, at his table, every day. He is a great housekeeper, a very rich and bountiful one, that satisfies the desire of every living thing. Let this encourage God's people to cast their care upon him, and not to be solicitous respecting what they shall eat and what they shall drink. He that provided for Adam without his care, and still provides for all the creatures without their care, will not let those that trust him want any good thing, Mat 6:26. He that feeds his birds will not starve his babes."
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 1:31",
+      "note_ref": "MHC/1/1/31",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "We have here the approbation and conclusion of the whole work of creation. As for God, his work is perfect; and if he begin he will also make an end, in providence and grace, as well as here in creation. Observe,\nI. The review God took of his work: He saw every thing that he had made. So he does still; all the works of his hands are under his eye. He that made all sees all; he that made us sees us, Ps. 139:1-16. Omniscience cannot be separated from omnipotence. Known unto God are all his works, Act 15:18. But this was the Eternal Mind's solemn reflection upon the copies of its own wisdom and the products of its own power. God has hereby set us an example of reviewing our works. Having given us a power of reflection, he expects we should use that power, see our way (Jer 2:23), and think of it, Psa 119:59. When we have finished a day's work, and are entering upon the rest of the night, we should commune with our own hearts about what we have been doing that day; so likewise when we have finished a week's work, and are entering upon the sabbath-rest, we should thus prepare to meet our God; and when we are finishing our life's work, and are entering upon our rest in the grave, that is a time to bring to remembrance, that we may die repenting, and so take leave of it.\nII. The complacency God took in his work. When we come to review our works we find, to our shame, that much has been very bad; but, when God reviewed his, all was very good. He did not pronounce it good till he had seen it so, to teach us not to answer a matter before we hear it. The work of creation was a very good work. All that God made was well-made, and there was no flaw nor defect in it. 1. It was good. Good, for it is all agreeable to the mind of the Creator, just as he would have it to be; when the transcript came to be compared with the great original, it was found to be exact, no errata in it, not one misplaced stroke. Good, for it answers the end of its creation, and is fit for the purpose for which it was designed. Good, for it is serviceable to man, whom God had appointed lord of the visible creation. Good, for it is all for God's glory; there is that in the whole visible creation which is a demonstration of God's being and perfections, and which tends to beget, in the soul of man, a religious regard to him and veneration of him. 2. It was very good. Of each day's work (except the second) it was said that it was good, but now, it is very good. For, (1.) Now man was made, who was the chief of the ways of God, who was designed to be the visible image of the Creator's glory and the mouth of the creation in his praises. (2.) Now all was made; every part was good, but all together very good. The glory and goodness, the beauty and harmony, of God's works, both of providence and grace, as this of creation, will best appear when they are perfected. When the top-stone is brought forth we shall cry, Grace, grace, unto it, Zac 4:7. Therefore judge nothing before the time.\nIII. The time when this work was concluded: The evening and the morning were the sixth day; so that in six days God made the world. We are not to think but that God could have made the world in an instant. He said that, Let there be light, and there was light, could have said, \"Let there be a world,\" and there would have been a world, in a moment, in the twinkling of an eye, as at the resurrection, Co1 15:52. But he did it in six days, that he might show himself a free-agent, doing his own work both in his own way and in his own time, - that his wisdom, power, and goodness, might appear to us, and be meditated upon by us, the more distinctly, - and that he might set us an example of working six days and resting the seventh; it is therefore made the reason of the fourth commandment. So much would the sabbath conduce to the keeping up of religion in the world that God had an eye to it in the timing of his creation. And now, as God reviewed his work, let us review our meditations upon it, and we shall find them very lame and defective, and our praises low and flat; let us therefore stir up ourselves, and all that is within us, to worship him that made the heaven, earth, and sea, and the fountains of waters, according to the tenour of the everlasting gospel, which is preached to every nation, Rev 14:6, Rev 14:7. All his works, in all places of his dominion, do bless him; and, therefore, bless thou the Lord, O my soul!"
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 9:1",
+      "note_ref": "MHC/1/9/1",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "We read, in the close of the foregoing chapter, the very kind things which God said in his heart, concerning the remnant of mankind which was now left to be the seed of a new world. Now here we have these kind things spoken to them. In general, God blessed Noah and his sons (Gen 9:1), that is, he assured them of his good-will to them and his gracious intentions concerning them. This follows from what he said in his heart. Note, All God's promises of good flow from his purposes of love and the counsels of his own will. See Eph 1:11, Eph 3:11, and compare Jer 29:11. I know the thoughts that I think towards you. We read (Gen 8:20) how Noah blessed God, by his altar and sacrifice. Now here we find God blessing Noah. Note, God will graciously bless (that is, do well for) those who sincerely bless (that is, speak well of) him. Those that are truly thankful for the mercies they have received take the readiest way to have them confirmed and continued to them.\nNow here we have the Magna Charta - the great charter of this new kingdom of nature which was now to be erected, and incorporated, the former charter having been forfeited and seized.\nI. The grants of this charter are kind and gracious to men. Here is,\n1. A grant of lands of vast extent, and a promise of a great increase of men to occupy and enjoy them,. The first blessing is here renewed: Be fruitful, and multiply, and replenish the earth (Gen 9:1), and repeated (Gen 9:7), for the race of mankind was, as it were, to begin again. Now, (1.) God sets the whole earth before them, tells them it is all their own, while it remains, to them and their heirs. Note, The earth God has given to the children of men, for a possession and habitation, Psa 115:16. Though it is not a paradise, but a wilderness rather; yet it is better than we deserve. Blessed be God, it is not hell. (2.) He gives them a blessing, by the force and virtue of which mankind should be both multiplied and perpetuated upon earth, so that in a little time all the habitable parts of the earth should be more or less inhabited; and, though one generation should pass away, yet another generation should come, while the world stands, so that the stream of the human race should be supplied with a constant succession, and run parallel with the current of time, till both should be delivered up together into the ocean of eternity. Though death should still reign, and the Lord would still be known by his judgments, yet the earth should never again be dispeopled as now it was, but still replenished, Act 17:24-26.\n2. A grant of power over the inferior creatures, Gen 9:2. He grants, (1.) A title to them: Into your hands they are delivered, for your use and benefit. (2.) A dominion over them, without which the title would avail little: The fear of you and the dread of you shall be upon every beast. This revives a former grant (Gen 1:28), only with this difference, that man in innocence ruled by love, fallen man rules by fear. Now this grant remains in force, and thus far we have still the benefit of it, [1.] That those creatures which are any way useful to us are reclaimed, and we use them either for service or food, or both, as they are capable. The horse and ox patiently submit to the bridle and yoke, and the sheep is dumb both before the shearer and before the butcher; for the fear and dread of man are upon them. [2.] Those creatures that are any way hurtful to us are restrained, so that, though now and then man may be hurt by some of them, they do not combine together to rise up in rebellion against man, else God could by these destroy the world as effectually as he did by a deluge; it is one of God's sore judgments, Eze 14:21. What is it that keeps wolves out of our towns, and lions out of our streets, and confines them to the wilderness, but this fear and dread? Nay, some have been tamed, Jam 3:7.\n3. A grant of maintenance and subsistence: Every moving thing that liveth shall be meat for you, Gen 9:3. Hitherto, most think, man had been confined to feed only upon the products of the earth, fruits, herbs, and roots, and all sorts of corn and milk; so was the first grant, Gen 1:29. But the flood having perhaps washed away much of the virtue of the earth, and so rendered its fruits less pleasing and less nourishing, God now enlarged the grant, and allowed man to eat flesh, which perhaps man himself never thought of, till now that God directed him to it, nor had any more desire to than a sheep has to suck blood like a wolf. But now man is allowed to feed upon flesh, as freely and safely as upon the green herb. Now here see, (1.) That God is a good master, and provides, not only that we may live, but that we may live comfortably, in his service; not for necessity only, but for delight. (2.) That every creature of God is good, and nothing to be refused, Ti1 4:4. Afterwards some meats that were proper enough for food were prohibited by the ceremonial law; but from the beginning, it seems, it was not so, and therefore is not so under the gospel.\nII. The precepts and provisos of this character are no less kind and gracious, and instances of God's good-will to man. The Jewish doctors speak so often of the seven precepts of Noah, or of the sons of Noah, which they say were to be observed by all nations, that it may not be amiss to set them down. The first against the worship of idols. The second against blasphemy, and requiring to bless the name of God. The third against murder. The fourth against incest and all uncleanness. The fifth against theft and rapine. The sixth requiring the administration of justice. The seventh against eating of flesh with the life. These the Jews required the observance of from the proselytes of the gate. But the precepts here given all concern the life of man.\n1. Man must not prejudice his own life by eating that food which is unwholesome and prejudicial to his health (Gen 9:4): \"Flesh with the life thereof, which is the blood thereof (that is, raw flesh), shall you not eat, as the beasts of prey do.\" It was necessary to add this limitation to the grant of liberty to eat flesh, lest, instead of nourishing their bodies by it, they should destroy them. God would hereby show, (1.) That though they were lords of the creatures, yet they were subjects to the Creator, and under the restraints of his law. That they must not be greedy and hasty in taking their food, but stay the preparing of it; not like Saul's soldiers (Sa1 14:32), nor riotous eaters of flesh, Pro 23:20. (3.) That they must not be barbarous and cruel to the inferior creatures. They must be lords, but not tyrants; they might kill them for their profit, but not torment them for their pleasure, nor tear away the member of a creature while it was yet alive, and eat that. (4.) That during the continuance of the law of sacrifices, in which the blood made atonement for the soul (Lev 17:11), signifying that the life of the sacrifice was accepted for the life of the sinner, blood must not be looked upon as a common thing, but must be poured out before the Lord (Sa2 23:16), either upon his altar or upon his earth. But, now that the great and true sacrifice has been offered, the obligation of the law ceases with the reason of it.\n2. Man must not take away his own life: Your blood of your lives will I require, Gen 9:5. Our lives are not so our own as that we may quit them at our own pleasure, but they are God's and we must resign them at his pleasure; if we in any way hasten our own deaths, we are accountable to God for it.\n3. The beasts must not be suffered to hurt the life of man: At the hand of every beast will I require it. To show how tender God was of the life of man, though he had lately made such destruction of lives, he will have the beast put to death that kills a man. This was confirmed by the law of Moses (Exo 21:28), and I think it would not be unsafe to observe it still. Thus God showed his hatred of the sin of murder, that men might hate it the more, and not only punish, but prevent it. And see Job 5:23.\n4. Wilful murderers must be put to death. This is the sin which is here designed to be restrained by the terror of punishment (1.) God will punish murderers: At the hand of every man's brother will I require the life of man, that is, \"I will avenge the blood of the murdered upon the murderer.\" Ch2 24:22. When God requires the life of a man at the hand of him that took it away unjustly, the murderer cannot render that, and therefore must render his own in lieu of it, which is the only way left of making restitution. Note, The righteous God will certainly make inquisition for blood, though men cannot or do not. One time or other, in this world or in the next, he will both discover concealed murders, which are hidden from man's eye, and punish avowed and justified murders, which are too great for man's hand. (2.) The magistrate must punish murderers (Gen 9:6): Whoso sheddeth man's blood, whether upon a sudden provocation or having premeditated it (for rash anger is heart-murder as well as malice prepense, Mat 5:21, Mat 5:22), by man shall his blood be shed, that is, by the magistrate, or whoever is appointed or allowed to be the avenger of blood. There are those who are ministers of God for this purpose, to be a protection to the innocent, by being a terror to the malicious and evildoers, and they must not bear the sword in vain, Rom 13:4. Before the flood, as it should seem by the story of Cain, God took the punishment of murder into his own hands; but now he committed this judgment to men, to masters of families at first, and afterwards to the heads of countries, who ought to be faithful to the trust reposed in them. Note, Wilful murder ought always to be punished with death. It is a sin which the Lord would not pardon in a prince (Kg2 24:3, Kg2 24:4), and which therefore a prince should not pardon in a subject. To this law there is a reason annexed: For in the image of God made he man at first. Man is a creature dear to his Creator, and therefore ought to be so to us. God put honour upon him, let not us then put contempt upon him. Such remains of God's image are still even upon fallen man as that he who unjustly kills a man defaces the image of God and does dishonour to him. When God allowed men to kill their beasts, yet he forbade them to kill their slaves; for these are of a much more noble and excellent nature, not only God's creatures, but his image, Jam 3:9. All men have something of the image of God upon them; but magistrates have, besides, the image of his power, and the saints the image of his holiness, and therefore those who shed the blood of princes or saints incur a double guilt."
+    },
+    {
+      "src": "MHC",
+      "ref": "Leviticus 11:1",
+      "note_ref": "MHC/3/11/1",
+      "cites": [
+        "Leviticus 11:2-4"
+      ],
+      "text": "Now that Aaron was consecrated a high priest over the house of God, God spoke to him with Moses, and appointed them both as joint-commissioners to deliver his will to the people. He spoke both to Moses and to Aaron about this matter; for it was particularly required of the priests that they should put a difference between clean and unclean, and teach the people to do so. After the flood, when God entered into covenant with Noah and his sons, he allowed them to eat flesh (Gen 9:13), whereas before they were confined to the productions of the earth. But the liberty allowed to the sons of Noah is here limited to the sons of Israel. They might eat flesh, but not all kinds of flesh; some they must look upon as unclean and forbidden to them, others as clean and allowed them. The law in this matter is both very particular and very strict. But what reason can be given for this law? Why may not God's people have as free a use of all the creatures as other people? 1. It is reason enough that God would have it so: his will, as it is law sufficient, so it is reason sufficient; for his will is his wisdom. He saw good thus to try and exercise the obedience of his people, not only in the solemnities of his altar, but in matters of daily occurrence at their own table, that they might remember they were under authority. Thus God had tried the obedience of man in innocency, by forbidding him to eat of one particular tree. 2. Most of the meats forbidden as unclean are such as were really unwholesome, and not fit to be eaten; and those of them that we think wholesome enough, and use accordingly, as the rabbit, the hare, and the swine, perhaps in those countries, and to their bodies, might be hurtful. And then God in this law did by them but as a wise and loving father does by his children, whom he restrains from eating that which he knows will make them sick. Note, The Lord is for the body, and it is not only folly, but sin against God, to prejudice our health for the pleasing of our appetite. 3. God would thus teach his people to distinguish themselves from other people, not only in their religious worship, but in the common actions of life. Thus he would show them that they must not be numbered among the nations. It should seem there had been, before this, some difference between the Hebrews and other nations in their food, kept up by tradition; for the Egyptians and they would not eat together, Gen 43:32. And even before the flood there was a distinction of beasts into clean and not clean (Gen 7:2), which distinction was quite lost, with many other instances of religion, among the Gentiles. But by this law it is reduced to a certainty, and ordered to be kept up among the Jews, that thus, by having a diet peculiar to themselves, they might be kept from familiar conversation with their idolatrous neighbours, and might typify God's spiritual Israel, who not in these little things, but in the temper of their spirits, and the course of their lives, should be governed by a sober singularity, and not be conformed to this world. The learned observe further, That most of the creatures which by this law were to be abominated as unclean were such as were had in high veneration among the heathen, not so much for food as for divination and sacrifice to their gods; and therefore those are here mentioned as unclean, and an abomination, which yet they would not be in any temptation to eat, that they might keep up a religious loathing of that for which the Gentiles had a superstitious value. The swine, with the later Gentiles, was sacred to Venus, the owl to Minerva, the eagle to Jupiter, the dog to Hecate, etc., and all these are here made unclean. As to the beasts, there is a general rule laid down, that those which both part the hoof and chew the cud were clean, and those only: these are particularly mentioned in the repetition of this law (Deu 14:4, Deu 14:5), where it appears that the Israelites had variety enough allowed them, and needed not to complain of the confinement they were under. Those beasts that did not both chew the cud and divide the hoof were unclean, by which rule the flesh of swine, and of hares, and of rabbits, was prohibited to them, though commonly used among us. Therefore, particularly at the eating of any of these, we should give thanks for the liberty granted us in this matter by the gospel, which teaches us that every creature of God is good, and we are to call nothing common or unclean. Some observe a significancy in the rule here laid down for them to distinguish by, or at least think it may be alluded to. Meditation, and other acts of devotion done by the hidden man of the heart, may be signified by the chewing of the cud, digesting our spiritual food; justice and charity towards men, and the acts of a good conversation, may be signified by the dividing of the hoof. Now either of these without the other will not serve to recommend us to God, but both must go together, good affections in the heart and good works in the life: if either be wanting, we are not clean, surely we are not clean. Of all the creatures here forbidden as unclean, none has been more dreaded and detested by the pious Jews than swine's flesh. Many were put to death by Antiochus because they would not eat it. This, probably, they were most in danger of being tempted to, and therefore possessed themselves and their children with a particular antipathy to it, calling it not by its proper name, but a strange thing. It should seem the Gentiles used it superstitiously (Isa 65:4), they eat swine's flesh; and therefore God forbids all use of it to his people, lest they should learn of their neighbours to make that ill use of it. Some suggest that the prohibition of these beasts as unclean was intended to be a caution to the people against the bad qualities of these creatures. We must not be filthy nor wallow in the mire as swine, nor be timorous and faint-hearted as hares, nor dwell in the earth as rabbits; let not man that is in honour make himself like these beasts that perish. The law forbade, not only the eating of them, but the very touching of them; for those that would be kept from any sin must be careful to avoid all temptations to it, and every thing that looks towards it or leads to it."
+    },
+    {
+      "src": "MHC",
+      "ref": "Deuteronomy 14:1",
+      "note_ref": "MHC/5/14/1",
+      "cites": [
+        "Deuteronomy 14:7-8"
+      ],
+      "text": "Moses here tells the people of Israel,\nI. How God had dignified them, as a peculiar people, with three distinguishing privileges, which were their honour, and figures of those spiritual blessings in heavenly things with which God has in Christ blessed us. 1. Here is election: The Lord hath chosen thee, v: 2. Not for their own merit, nor for any good works foreseen, but because he would magnify the riches of his power and grace among them. He did not choose them because they were by their own dedication and subjection a peculiar people to him above other nations, but he chose them that they might be so by his grace; and thus were believers chosen, Eph 1:4. 2. Here is adoption (Deu 14:1): \"You are the children of the Lord your God, formed by him into a people, owned by him as his people, nay, his family, a people near unto him, nearer than any other.\" Israel is my son, my first-born; not because he needed children, but because they were orphans, and needed a father. Every Israelite is indeed a child of God, a partaker of his nature and favour, his love and blessing Behold what manner of love the Father has bestowed upon us! 3. Here is sanctification (Deu 14:2): \"Thou art a holy people, separated and set apart for God, devoted to his service, designed for his praise, governed by a holy law, graced by a holy tabernacle, and the holy ordinances relating to it.\" God's people are under the strongest obligations to be holy, and, if they are holy, are indebted to the grace of God that makes them so. The Lord has set them apart for himself, and qualified them for his service and the enjoyment of him, and so has made them holy to himself.\nII. How they ought to distinguish themselves by a sober singularity from all the nations that were about them. And, God having thus advanced them, let not them debase themselves by admitting the superstitious customs of idolaters, and, by making themselves like them, put themselves upon the level with them. Be you the children of the Lord your God; so the Seventy read it, as a command, that is, \"Carry yourselves as becomes the children of God, and do nothing to disgrace the honour and forfeit the privileges of the relation.\" In two things particularly they must distinguish themselves: -\n1. In their mourning: You shall not cut yourselves, Deu 14:1. This forbids (as some think), not only their cutting themselves at their funerals, either to express their grief or with their own blood to appease the infernal deities, but their wounding and mangling themselves in the worship of their gods, as Baal's prophets did (Kg1 18:28), or their marking themselves by incisions in their flesh for such and such deities, which in them, above any, would be an inexcusable crime, who in the sign of circumcision bore about with them in their bodies the marks of the Lord Jehovah. So that, (1.) They are forbidden to deform or hurt their own bodies upon any account. Methinks this is like a parent's change to his little children, that are foolish, careless, and wilful, and are apt to play with knives: Children, you shall not cut yourselves. This is the intention of those commands which oblige us to deny ourselves; the true meaning of them, if we understood them aright, would appear to be, Do yourselves no harm. And this also is the design of those providences which most cross us, to remove from us those things by which we are in danger of doing ourselves harm. Knives are taken from us, lest we should cut ourselves. Those that are dedicated to God as a holy people must do nothing to disfigure themselves; the body is for the Lord, and is to be used accordingly. (2.) They are forbidden to disturb and afflict their own minds with inordinate grief for the loss of near and dear relations: \"You shall not express or exasperate you sorrow, even upon the most mournful occasions, by cutting yourselves, and making baldness between your eyes, like men enraged, or resolvedly hardened in sorrow for the dead, as those that have no hope,\" Th1 4:13. It is an excellent passage which Mr. Ainsworth here quotes from one of the Jewish writers, who understands this as a law against immoderate grief for the death of our relations. If your father (for instance) die, you shall not cut yourselves, that is, you shall not sorrow more than is meet, for you are not fatherless, you have a Father, who is great, living, and permanent, even the holy blessed God, whose children you are, Deu 14:1. But an infidel (says he), when his father dies, hath no father that can help him in time of need; for he hath said to a stock, Thou art my father, and to a stone, Thou hast brought me forth (Jer 2:27); therefore he weeps, cuts himself, and makes himself bald. We that have a God to hope in, and a heaven to hope for, must bear up ourselves with that hope under every burden of this kind.\n2. They must be singular in their meat. Observe,\n(1.) Many sorts of flesh which were wholesome enough, and which other people did commonly eat, they must religiously abstain from as unclean. This law we had before Lev 11:2, where it was largely opened. It seems plainly, by the connection here, to be intended as a mark of peculiarity; for their observance of it would cause them to be taken notice of in all mixed companies as a separate people, and would preserve them from mingling themselves with, and conforming themselves to, their idolatrous neighbours. [1.] Concerning beasts, here is a more particular enumeration of those which they were allowed to eat then was in Leviticus, to show that they had no reason to complain of their being restrained from eating swines' flesh, and hares, and rabbits (which were all that were then forbidden, but are now commonly used), when they were allowed so great a variety, not only of that which we call butcher's meat (Deu 14:4), which alone was offered in sacrifice, but of venison, which they had great plenty of in Canaan, the hart, and the roe-buck, and the fallow deer (Deu 14:5), which, though never brought to God's altar, was allowed them at their own table. See Deu 12:22. When of all these (as Adam of every tree of the garden) they might freely eat, those were inexcusable who, to gratify a perverse appetite, or (as should seem) in honour of their idols, and in participation of their idolatrous sacrifices, ate swines' flesh, and had broth of abominable things (made so by this law) in their vessels, Isa 65:4. [2.] Concerning fish there is only one general rule given, that whatsoever had not fins and scales (as shell-fish and eels, besides leeches and other animals in the water that are not proper food) was unclean and forbidden, Deu 14:9, Deu 14:10. [3.] No general rule is given concerning fowl, but those are particularly mentioned that were to be unclean to them, and there are few or none of them which are here forbidden that are now commonly eaten; and whatsoever is not expressly forbidden is allowed, Deu 14:11-20. Of all clean fowls you may eat. [4.] They are further forbidden, First, To eat the flesh of any creature that died of itself, because the blood was not separated from it, and, besides the ceremonial uncleanness which it lay under (from Lev 11:39), it is not wholesome food, nor ordinarily used among us, except by the poor. Secondly, To seethe a kid in its mother's milk, either to gratify their own luxury, supposing it a dainty bit, or in conformity to some superstitious custom of the heathen. The Chaldee paraphrasts read it, Thou shalt not eat flesh - meats and milk - meats together; and so it would forbid the use of butter as sauce to any flesh.\n(2.) Now as to all these precepts concerning their food, [1.] It is plain in the law itself that they belonged only to the Jews, and were not moral, nor of perpetual use, because not of universal obligation; for what they might not eat themselves they might give to a stranger, a proselyte of the gate, that had renounced idolatry, and therefore was permitted to live among them, though not circumcised; or they might sell it to an alien, a mere Gentile, that came into their country for trade, but might not settle it, Deu 14:21. They might feed upon that which an Israelite might not touch, which is a plain instance of their peculiarity, and their being a holy people. [2.] It is plain in the gospel that they are now antiquated and repealed. For every creature of God is good, and nothing now to be refused, or called common and unclean, Ti1 4:4.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Matthew 15:10",
+      "note_ref": "MHC/40/15/10",
+      "cites": [
+        "Matthew 15:11"
+      ],
+      "text": "Christ having proved that the disciples, in eating with unwashen hands, were not to be blamed, as transgressing the traditions and injunctions of the elders, comes here to show that they were not to be blamed, as having done any thing that was in itself evil. In the former part of his discourse he overturned the authority of the law, and in this the reason of it. Observe,\nI. The solemn introduction to this discourse (Mat 15:10); He called the multitude. They were withdrawn while Christ discoursed with the scribes and Pharisees; probably those proud men ordered them to withdraw, as not willing to talk with Christ in their hearing; Christ must favour them at their pleasure with a discourse in private. But Christ had a regard to the multitude; he soon despatched the scribes and Pharisees, and then turned them off, invited the mob, the multitude, to be his hearers: thus the poor are evangelized; and the foolish things of the world, and things that are despised hath Christ chosen. The humble Jesus embraced those whom the proud Pharisees looked upon with disdain, and to them he designed it for a mortification. He turns from them as wilful and unteachable, and turns to the multitude, who, though weak, were humble, and willing to be taught. To them he said, Hear and understand. Note, What we hear from the mouth of Christ, we must give all diligence to understand. Not only scholars, but even the multitude, the ordinary people, must apply their minds to understand the words of Christ. He therefore calls upon them to understand, because the lesson he was now about to teach them, was contrary to the notions which they had sucked in with their milk from their teachers; and overturned many of the customs and usages which they were wedded to, and laid stress upon. Note, There is need of a great attention of mind and clearness of understanding to free men from those corrupt principles and practices which they have been bred up in and long accustomed to; for in that case the understanding is commonly bribed and biassed by prejudice.\nII. The truth itself laid down (Mat 15:11), in two propositions, which were opposite to the vulgar errors of that time, and were therefore surprising.\n1. Not that which goes into the mouth defileth the man. It is not the kind or quality of our food, nor the condition of our hands, that affects the soul with any moral pollution or defilement. The kingdom of God is not meat and drink, Rom 14:17. That defiles the man, by which guilt is contracted before God, and the man is rendered offensive to him, and disfitted for communion with him; now what we eat, if we do not eat unreasonably and immoderately, does not this; for to the pure all things are pure, Tit 1:15. The Pharisees carried the ceremonial pollutions, by eating such and such meats, much further than the law intended, and burdened it with additions of their own, which our Saviour witnesses against; intending hereby to pave the way to a repeal of the ceremonial law in that matter. He was now beginning to teach his followers to call nothing common or unclean; and if Peter, when he was bid to kill and eat, had remembered this word, he would not have said, Not so, Lord, Act 10:13-15, Act 10:28.\n2. But that which comes out of the mouth, this defiles a man. We are polluted, not by the meat we eat with unwashen hands, but by the words we speak from an unsanctified heart; thus it is that the mouth causeth the flesh to sin, Ecc 5:6. Christ, in a former discourse, had laid a great stress upon our words (Mat 12:36, Mat 12:37); and that was intended for reproof and warning to those that cavilled at him; this here is intended for reproof and warning to those that cavilled at the disciples, and censured them. It is not the disciples that defile themselves with what they eat, but the Pharisees that defile themselves with what they speak spitefully and censoriously of them. Note, Those who charge guilt upon others for transgressing the commandments of men, many times bring greater guilt upon themselves, by transgressing the law of God against rash judging. Those most defile themselves, who are most forward to censure the defilements of others.\nIII. The offence that was taken at this truth and the account brought to Christ of that offence (Mat 15:12); \"The disciples said unto him, Knowest thou that the Pharisees were offended, and didst thou not foresee that they would be so, at this saying, and would think the worse of thee and of thy doctrine for it, and be the more enraged at thee?\"\n1. It was not strange that the Pharisees should be offended at this plain truth, for they were men made up of error and enmity, mistakes and malice. Sore eyes cannot bear clear light; and nothing is more provoking to proud imposers than the undeceiving of those whom they have first blindfolded, and then enslaved. It should seem that the Pharisees, who were strict observers of the traditions, were more offended than the scribes, who were the teachers of them; and perhaps they were as much galled with the latter part of Christ's doctrine, which taught a strictness in the government of our tongue, as with the former part, which taught an indifference about washing our hands; great contenders for the formalities of religion, being commonly as great contemners of the substantials of it.\n2. The disciples thought it strange that their Master should say that which he knew would give so much offence; he did not use to do so: surely, they think, if he had considered how provoking it would be, he would not have said it. But he knew what he said, and to whom he said it, and what would be the effect of it; and would teach us, that though in indifferent things we must be tender of giving offence, yet we must not, for fear of that, evade any truth or duty. Truth must be owned, and duty done; and if any be offended, it is his own fault; it is scandal, not given, but taken.\nPerhaps the disciples themselves stumbled at the word Christ said, which they thought bold, and scarcely reconcileable with the difference that was put by the law of God between clean and unclean meats; and therefore objected this to Christ, that they might themselves be better informed. They seem likewise to have a concern upon them for the Pharisees, though they had quarrelled with them; which teaches us to forgive, and seek the good, especially the spiritual good, of our enemies, persecutors, and slanderers. They would not have the Pharisees go away displeased at any thing Christ had said; and therefore, though they do not desire him to retract it, they hope he will explain, correct, and modify it. Weak hearers are sometimes more solicitous than they should be not to have wicked hearers offended. But if we please men with the concealment of truth, and the indulgence of their errors and corruptions, we are not the servants of Christ.\nIV. The doom passed upon the Pharisees and their corrupt traditions; which comes in as a reason why Christ cared not though he offended them, and therefore why the disciples should not care; because they were a generation of men that hated to be reformed, and were marked out for destruction. Two things Christ here foretels concerning them.\n1. The rooting out of them and their traditions (Mat 15:13); Every plant which my heavenly Father hath not planted, shall be rooted up. Not only the corrupt opinions and superstitious practices of the Pharisees, but their sect, and way, and constitution, were plants not of God's planting. The rules of their profession were no institutions of his, but owed their origin to pride and formality. The people of the Jews were planted a noble vine; but now that they are become the degenerate plant of a strange vine, God disowned them, as not of his planting. Note, (1.) In the visible church, it is no strange thing to find plants that our heavenly Father has not planted. It is implied, that whatever is good in the church is of God's planting, Isa 41:19. But let the husbandman be ever so careful, his ground will cast forth weeds of itself, more or less, and there is an enemy busy sowing tares. What is corrupt, though of God's permitting, is not of his planting; he sows nothing but good seed in his field. Let us not therefore be deceived, as if all must needs be right that we find in the church, and all those persons and things our Father's plants that we find in our Father's garden. Believe not every spirit, but try the spirits; see Jer 19:5; Jer 23:31, Jer 23:32. (2.) Those that are of the spirit of the Pharisees, proud, formal, and imposing, what figure soever they make, and of what denomination soever they be, God will not own them as of his planting. By their fruit you shall know them. (3.) Those plants that are not of God's planting, shall not be of his protecting, but shall undoubtedly be rooted up. What is not of God shall not stand, Act 5:38. What things are unscriptural, will wither and die of themselves, or be justly exploded by the churches; however in the great day these tares that offend will be bundled for the fire. What is become of the Pharisees and their traditions? They are long since abandoned; but the gospel of truth is great, and will remain. It cannot be rooted up.\n2. The ruin of them; and their followers, who had their persons and principles in admiration, Mat 15:14. Where,\n(1.) Christ bids his disciples let them alone. \"Have no converse with them or concern for them; neither court their favour, nor dread their displeasure; care not though they be offended, they will take their course, and let them take the issue of it. They are wedded to their own fancies, and will have every thing their own way; let them alone. Seek not to please a generation of men that please not God (Th1 2:15), and will be pleased with nothing less than absolute dominion over your consciences. They are joined to idols, as Ephraim (Hos 4:17), the idols of their own fancy; let them alone, let them be filthy still,\" Rev 22:11. The case of those sinners is sad indeed, whom Christ orders his ministers to let alone.\n(2.) He gives them two reasons for it. Let them alone; for,\n[1.] They are proud and ignorant; two bad qualities that often meet, and render a man incurable in his folly, Pro 26:12. They are blind leaders of the blind. They are grossly ignorant in the things of God, and strangers to the spiritual nature of the divine law; and yet so proud, that they think they see better and further than any, and therefore undertake to be leaders of others, to show others the way to heaven, when they themselves know not one step of the way; and, accordingly, they prescribe to all, and proscribe those who will not follow them. Though they were blind, if they had owned it, and come to Christ for eye-salve, they might have seen, but they disdained the intimation of such a thing (Joh 9:40); Are we blind also? They were confident that they themselves were guides of the blind (Rom 2:19, Rom 2:20), were appointed to be so, and fit to be so; that every thing they said was an oracle and a law; \"Therefore let them alone, their case is desperate; do not meddle with them; you may soon provoke them, but never convince them.\" How miserable was the case of the Jewish Church now when their leaders were blind, so self-conceitedly foolish, as to be peremptory in their conduct, while the people were so sottishly foolish as to follow them with an implicit faith and obedience, and willingly walk after the commandment, Hos 5:11. Now the prophecy was fulfilled, Isa 29:10, Isa 29:14. And it is easy to imagine what will be in the end hereof, when the prophets prophesy falsely, and the priests bear rule by their means, and the people love to have it so, Jer 5:31.\n[2.] They are posting to destruction, and will shortly be plunged into it; Both shall fall into the ditch. This must needs be the end of it, if both be so blind, and yet both so bold, venturing forward, and yet not aware of danger. Both will be involved in the general desolation coming upon the Jews, and both drowned in eternal destruction and perdition. The blind leaders and the blind followers will perish together. We find (Rev 22:15), that hell is the portion of those that make a lie, and of those that love it when it is made. The deceived and the deceiver are obnoxious to the judgment of God, Job 12:16. Note, First, Those that by their cunning craftiness draw others to sin and error, shall not, with all their craft and cunning, escape ruin themselves. If both fall together into the ditch, the blind leaders will fall undermost, and have the worst of it; see Jer 14:15, Jer 14:16. The prophets shall be consumed first, and then the people to whom they prophesy, Jer 20:6; Jer 27:15, Jer 27:16. Secondly, The sin and ruin of the deceivers will be no security to those that are deceived by them. Though the leaders of this people cause them to err, yet they that are led of them are destroyed (Isa 9:16), because they shut their eyes against the light which would have rectified their mistake. Seneca, complaining of most people's being led by common opinion and practice (Unusquisque mavult credere quam judicare - Things are taken upon trust, and never examined), concludes, Indeista tanta coacervatio aliorum super alios ruentium - Hence crowds fall upon crowds, in vast confusion. De Vit Beat. The falling of both together will aggravate the fall of both; for they that have thus mutually increased each other's sin, will mutually exasperate each other's ruin.\nV. Instruction given to the disciples concerning the truth Christ had laid down, Mat 15:10. Though Christ rejects the wilfully ignorant who care not to be taught, he can have compassion on the ignorant who are willing to learn, Heb 5:2. If the Pharisees, who made void the law, be offended, let them be offended: but this great peace have they who love the law, that nothing shall offend them, but, some way or other, the offence shall be taken off, Psa 119:165.\nHere is, 1. Their desire to be better instructed in this matter (Mat 15:15); in this request as in many others, Peter was their speaker; the rest, it is probable, putting him on to speak, or intimating their concurrence; Declare unto us this parable. What Christ said was plain, but, because it agreed not with the notions they had imbibed, though they would not contradict it, yet they call it a parable, and cannot understand it. Note, (1.) Weak understandings are apt to turn plain truths into parables, and to seek for a knot in a bulrush. The disciples often did so, as Joh 16:17. Even the grasshopper is a burthen to a weak stomach, and babes in understanding cannot bear and digest strong meat. (2.) Where a weak head doubts concerning any word of Christ, an upright heart and a willing mind will seek for instruction. The Pharisees were offended, but kept it to themselves; hating to be reformed, they hated to be informed; but the disciples, though offended, sought for satisfaction, imputing the offence, not to the doctrine delivered, but to the shallowness of their own capacity.\n2. The reproof Christ gave them for their weakness and ignorance (Mat 15:16); Are ye also yet without understanding? As many as Christ loves and teaches, he thus rebukes. Note, They are very ignorant indeed, who understand not that moral pollutions are abundantly worse and more dangerous than ceremonial ones. Two things aggravate their dulness and darkness.\n(1.) That they were the disciples of Christ; \"Are ye also without understanding? Ye whom I have admitted into so great a degree of familiarity with me, are ye so unskilful in the word of righteousness?\" Note, The ignorance and mistakes of those that profess religion, and enjoy the privileges of church-membership, are justly a grief to the Lord Jesus. \"No wonder that the Pharisees understand not this doctrine, who know nothing of the Messiah's kingdom: but ye that have heard of it, and embraced it yourselves, and preached it to others, are ye also such strangers to the spirit and genius of it?\"\n(2.) That they had been a great while Christ's scholars; \"Are ye yet so, after ye have been so long under my teaching?\" Had they been but of yesterday in Christ's school, it had been another matter, but to have been for so many months Christ's constant hearers, and yet to be without understanding, was a great reproach to them. Note, Christ expects from us some proportion of knowledge, and grace, and wisdom, according to the time and means we have had. See Joh 14:9; Heb 5:12; Ti2 3:7, Ti2 3:8.\n3. The explication Christ gave them of this doctrine of pollutions. Though he chid them for their dulness, he did not cast them off, but pitied them, and taught them, as Luk 24:25-27. He here shows us,\n(1.) What little danger we are in of pollution from that which entereth in at the mouth, Mat 15:17. An inordinate appetite, intemperance, and excess in eating, come out of the heart, and are defiling; but meat in itself is not so, as the Pharisees supposed. What there is of dregs and defilement in our meat, nature (or rather God of nature) has provided a way to clear us of it; it goes in at the belly, and is cast out into the draught, and nothing remains to us but pure nourishment. So fearfully and wonderfully are we made and preserved, and our souls held in life. The expulsive faculty is as necessary in the body as any other, for the discharge of that which is superfluous, or noxious; so happily is nature enabled to help itself, and shift for its own good: by this means nothing defiles; if we eat with unwashen hands, and so any thing unclean mix with our food, nature will separate it, and cast it out, and it will be no defilement to us. It may be a piece of cleanliness, but it is not point of conscience, to wash before meat; and we go upon a great mistake if we place religion in it. It is not the practice itself, but the opinion it is built upon, that Christ condemns, as if meat commended us to God (Co1 8:8); whereas Christianity stands not in such observances.\n(2.) What great danger we are in of pollution from that which proceeds out of the mouth (Mat 15:18), out of the abundance of the heart: compare Mat 12:34. There is no defilement in the products of God's bounty; the defilement arises from the products of out corruption. Now here we have,\n[1.] The corrupt fountain of that which proceeds out of the mouth; it comes from the heart; that is the spring and source of all sin, Jer 8:7. It is the heart that is so desperately wicked (Jer 17:9); for there is no sin in a word or deed, which was not first in the heart. There is the root of bitterness, which bears gall and wormwood. It is the inward part of a sinner, that is very wickedness, Psa 5:9. All evil speakings come forth from the heart, and are defiling; from the corrupt heart comes the corrupt communication.\n[2.] Some of the corrupt streams which flow from this fountain, specified; though they do not all come out of the mouth, yet they all come out of the man, and are the fruits of that wickedness which is in the heart, and is wrought there, Psa 58:2.\nFirst, Evil thoughts, sins against all the commandments. Therefore David puts vain thoughts in opposition to the whole law, Psa 119:113. These are the first-born of the corrupt nature, the beginning of its strength, and do most resemble it. These, as the son and heir, abide in the house, and lodge within us. There is a great deal of sin that begins and ends in the heart, and goes no further. Carnal fancies and imaginations are evil thoughts, wickedness in the contrivance (dialogismoi ponēroi), wicked plots, purposes, and devices of mischief to others, Mic 2:1.\nSecondly, Murders, sins against the sixth commandment; these come from a malice in the heart against our brother's life, or a contempt of it. Hence he that hates his brother, is said to be a murderer; he is so at God's bar, Jo1 3:15. War is in the heart, Psa 55:21; Jam 4:1\nThirdly, Adulteries and fornications, sins against the seventh commandment; these come from the wanton, unclean, carnal heart; and the lust that reigns there, is conceived there, and brings forth these sins, Jam 1:15. There is adultery in the heart first, and then in the act, Mat 5:28.\nFourthly, Thefts, sins against the eighth commandment; cheats, wrongs, rapines, and all injurious contracts; the fountain of all these is in the heart, that is it that is exercised in these covetous practices (Pe2 2:14), that is set upon riches, Psa 62:10. Achan coveted, and then took, Jos 7:20, Jos 7:21.\nFifthly, False witness, against the ninth commandment; this comes from a complication of falsehood and covetousness, or falsehood and covetousness, or falsehood and malice in the heart. If truth, holiness, and love, which God requires in the inward parts, reigned as they ought, there would be no false witness bearing, Psa 64:6 : Jer 9:8.\nSixthly, Blasphemies, speaking evil of God, against the third commandment; speaking evil of our neighbour, against the ninth commandment; these come from a contempt and disesteem of both in the heart; thence the blasphemy against the Holy Ghost proceeds (Mat 12:31, Mat 12:32); these are the overflowing of the gall within.\nNow these are the things which defile a man, Mat 15:20. Note, Sin is defiling to the soul, renders it unlovely and abominable in the eyes of a pure and holy God; unfit for communion with him, and for the enjoyment of him in the new Jerusalem, into which nothing shall enter that defileth or worketh iniquity. The mind and conscience are defiled by sin, and that makes every thing else so, Tit 1:15. This defilement by sin was signified by the ceremonial pollutions which the Jewish doctors added to, but understood not. See Heb 9:13, Heb 9:14; Jo1 1:7.\nThese therefore are the things we must carefully avoid, and all approaches toward them, and not lay stress upon the washing of the hands. Christ doth not yet repeal the law of the distinction of meats (that was not done till Acts 10), but the tradition of the elders, which was tacked to that law; and therefore he concludes, To eat with unwashen hands (which was the matter now in question), this defileth not a man. If he wash, he is not the better before God; if he wash not, he is not the worse."
+    },
+    {
+      "src": "MHC",
+      "ref": "Mark 7:1",
+      "note_ref": "MHC/41/7/1",
+      "cites": [
+        "Mark 7:18-20"
+      ],
+      "text": "One great design of Christ's coming, was, to set aside the ceremonial law which God made, and to put an end to it; to make way for which he begins with the ceremonial law which men had made, and added to the law of God's making, and discharges his disciples from the obligation of that; which here he doth fully, upon occasion of the offence which the Pharisees took at them for the violation of it. These Pharisees and scribes with whom he had this argument, are said to come from Jerusalem down to Galilee - fourscore or a hundred miles, to pick quarrels with our Saviour there, where they supposed him to have the greatest interest and reputation. Had they come so far to be taught by him, their zeal had been commendable; but to come so far to oppose him, and to check the progress of his gospel, was great wickedness. It should seem that the scribes and Pharisees at Jerusalem pretended not only to a pre-eminence above, but to an authority over, the country clergy, and therefore kept up their visitations and sent inquisitors among them, as they did to John when he appeared, Joh 1:19.\nNow in this passage we may observe,\nI. What the tradition of the elders was: by it all were enjoined to wash their hands before meat; a cleanly custom, and no harm in it; and yet as such to be over-nice in it discovers too great a care about the body, which is of the earth; but they placed religion in it, and would not leave it indifferent, as it was in its own nature; people were at their liberty to do it or not to do it; but they interposed their authority, and commanded all to do it upon pain of excommunication; this they kept up as a tradition of the elders. The Papists pretend to a zeal for the authority and antiquity of the church and its canons, and talk much of councils and fathers, when really it is nothing but a zeal for their own wealth, interest, and dominion, that governs them; and so it was with the Pharisees.\nWe have here an account of the practice of the Pharisees and all the Jews, Mar 7:3, Mar 7:4. 1. They washed their hands oft; they washed them, pugmē; the critics find a great deal of work about that word, some making it to denote the frequency of their washing (so we render it); others think it signifies the pains they took in washing their hands; they washed with great care, they washed their hands to their wrists (so some); they lifted up their hands when they were wet, that the water might run to their elbows. 2. They particularly washed before they ate bread; that is, before they sat down to a solemn meal; for that was the rule; they must be sure to wash before they ate the bread on which they begged a blessing. \"Whosoever eats the bread over which they recite the benediction, Blessed be he that produceth bread, must wash his hands before and after,\" or else he was thought to be defiled. 3. They took special care, when they came in from the markets, to wash their hands; from the judgment-halls, so some; it signifies any place of concourse where there were people of all sorts, and, it might be supposed, some heathen or Jews under a ceremonial pollution, by coming near to whom they thought themselves polluted; saying, Stand by thyself, come not near me, I am holier than thou, Isa 65:5. They say, The rule of the rabbies was - That, if they washed their hands well in the morning, the first thing they did, it would serve for all day, provided they kept alone; but, if they went into company, they must not, at their return, either eat or pray till they had washed their hands; thus the elders gained a reputation among the people for sanctity, and thus they exercised and kept up an authority over their consciences. 4. They added to this the washing of cups, and pots, and brazen vessels, which they suspected had been made use of by heathens, or persons polluted; nay, and the very tables on which they ate their meat. There were many cases in which, by the law of Moses, washings were appointed; but they added to them, and enforced the observation of their own impositions as much as of God's institutions.\nII. What the practice of Christ's disciples was; they knew what the law was, and the common usage; but they understood themselves so well that they would not be bound up by it: they ate bread with defiled, that is, with unwashen, hands, Mar 7:2. Eating with unwashen hands they called eating with defiled hands; thus men keep up their superstitious vanities by putting every thing into an ill name that contradicts them. The disciples knew (it is probable) that the Pharisees had their eye upon them, and yet they would not humour them by a compliance with their traditions, but took their liberty as at other times, and ate bread with unwashen hands; and herein their righteousness, however it might seem to come short, did really exceed, that of the scribes and Pharisees, Mat 5:20.\nIII. The offence which the Pharisees took at this; They found fault (Mar 7:2); they censured them as profane, and men of a loose conversation, or rather as men that would not submit to the power of the church, to decree rites and ceremonies, and were therefore rebellious, factious, and schismatical. They brought a complaint against them to their Master, expecting that he should check them, and order them to conform; for they that are fond of their own inventions and impositions, are commonly ready to appeal to Christ, as if he should countenance them, and as if his authority must interpose for the enforcing of them, and the rebuking of those that do not comply with them. They do not ask, Why do not thy disciples do as we do? (Though that was what they meant, coveting to make themselves the standard.) But, Why do not they walk according to the tradition of the elders? Mar 7:5. To which it was easy to answer, that, by receiving the doctrine of Christ, they had more understanding than all their teachers, yea more than the ancients, Psa 119:99, Psa 119:100.\nIV. Christ's vindication of them; in which,\n1. He argues with the Pharisees concerning the authority by which this ceremony was imposed; and they were the fittest to be discoursed with concerning that, who were the great sticklers for it: but this he did not speak of publicly to the multitude (as appears by his calling the people to him, Mar 7:14) lest he should have seemed to stir them up to faction and discontent at their governors; but addressed it as a reproof to the persons concerned: for the rule is, Suum cuique - Let every one have his own.\n(1.) He reproves them for their hypocrisy in pretending to honour God, when really they had no such design in their religious observances (Mar 7:6, Mar 7:7); They honour me with their lips, they pretend it is for the glory of God that they impose those things, to distinguish themselves from the heathen; but really their heart is far from God, and is governed by nothing but ambition and covetousness. They would be thought hereby to appropriate themselves as a holy people to the Lord their God, when really it is the furthest thing in their thought. They rested in the outside of all their religious exercises, and their hearts were not right with God in them, and this was worshipping God in vain; for neither was he pleased with such sham - devotions, nor were they profited by them.\n(2.) He reproves them for placing religion in the inventions and injunctions of their elders and rulers; They taught for doctrines the traditions of men. When they should have been pressing upon people the great principles of religion, they were enforcing the canons of their church, and judged of people's being Jews or no, according as they did, or did not, conform to them, without any consideration had, whether they lived in obedience to God's laws or no. It was true, there were divers washings imposed by the law of Moses (Heb 9:10), which were intended to signify that inward purification of the heart from worldly fleshly lusts, which God requires as absolutely necessary to our communion with him; but, instead of providing the substance, they presumptuously added to the ceremony, and were very nice in washing pots and cups; and observe, he adds, Many other such like things ye do, Mar 7:8. Note, Superstition is an endless thing. If one human invention and institution be admitted, though seemingly ever so innocent, as this of washing hands, behold, a troop comes, a door is opened for many other such things.\n(3.) He reproves them for laying aside the commandment of God, and overlooking that, not urging that in their preaching, and in their discipline conniving at the violation of that, as if that were no longer of force, Mar 7:8. Note, It is the mischief of impositions, that too often they who are zealous for them, have little zeal for the essential duties of religion, but can contentedly see them laid aside. Nay, they rejected the commandment of God, Mar 7:9. He do fairly disannul and abolish the commandment of God; and even by your traditions make the word of God of no effect, Mar 7:13. God's statutes shall not only lie forgotten, as antiquated obsolete laws, but they shall, in effect, stand repealed, that their traditions may take place. They were entrusted to expound the law, and to enforce it; and, under pretence of using that power, they violated the law, and dissolved the bonds of it; destroying the text with the comment.\nThis he gives them a particular instance of, and a flagrant one - God commanded children to honour their parents, not only by the law of Moses, but, antecedent to that, by the law of nature; and whoso revileth, or speaketh evil of, father or mother, let him die the death, Mar 7:10. Hence it is easy to infer, that it is the duty of children, if their parents be poor, to relieve them, according to their ability; and if those children are worthy to die, that curse their parents, much more those that starve them. But if a man will but conform himself in all points to the tradition of the elders, they will find him out an expedient by which he may be discharged from this obligation, Mar 7:11. If his parents be in want and he has wherewithal to help them, but has no mind to do it, let him swear by the Corban, that is, by the gold of the temple, and the gift upon the altar, that his parents shall not be profited by him, that he will not relieve them; and, if they ask any thing of him, let him tell them this, and it is enough; as if by the obligation of this wicked vow he had discharged himself from the obligation of God's holy law; thus Dr. Hammond understands it: and it is said to be an ancient canon of the rabbin, That vows take place in things commanded by the law, as well as in things indifferent; so that, if a man make a vow which cannot be ratified without breaking a commandment, the vow must be ratified, and the commandment violated; so Dr. Whitby. Such doctrine as this the Papists teach, discharging children from all obligation to their parents by their monastic vows, and their entrance into religion, as they call it. He concludes, Any many such like things do ye. Where will men stop, when once they have made the word of God give way to their tradition? These eager imposers of such ceremonies, at first only made light of God's commandments in comparison with their traditions, but afterward made void God's commandments, if they stood in competition with them. All this, in effect, Isaiah prophesied of them; what he said of the hypocrites of his own day, was applicable to the scribes and Pharisees, v. 6. Note, When we see, and complain of, the wickedness of the present times, yet we do not enquire wisely of that matter, if we say that all the former days were better than these, Ecc 7:10. The worst of hypocrites and evil doers have had their predecessors.\n2. He instructs the people concerning the principles upon which this ceremony was grounded. It was requisite that this part of his discourse should be public, for it related to daily practice, and was designed to rectify a great mistake which the people were led into by their elders; he therefore called the people unto him (Mar 7:14), and bid them hear and understand. Note, It is not enough for the common people to hear, but they must understand what they hear. When Christ would run down the tradition of the Pharisees about washing before meat, he strikes at the opinion which was the root of it. Note, Corrupt customs are best cured by rectifying corrupt notions.\nNow that which he goes about to set them right in, is, what the pollution is, which we are in danger of being damaged by, Mar 7:15. (1.) Not by the meat we eat, though it be eaten with unwashen hands; that is but from without, and goes through a man. But, (2.) It is by the breaking out of the corruption that is in our hearts; the mind and conscience are defiled, guilt is contracted, and we become odious in the sight of God by that which comes out of us; our wicked thoughts and affections, words and actions, these defile us, and these only. Our care must therefore be, to wash our heart from wickedness.\n3. He gives his disciples, in private, an explication of the instructions he gave the people. They asked him, when they had him by himself, concerning the parable (Mar 7:17); for to them, it seems, it was a parable. Now, in answer to their enquiry, (1.) He reproves their dulness; \"Are ye so without understanding also? Are ye dull also, as dull as the people that cannot understand, as dull as the Pharisees that will not? Are ye so dull?\" He doth not expect they should understand every thing; \"But are ye so weak as not to understand this?\" (2.) He explains this truth to them, that they might perceive it, and then they would believe it, for it carried its own evidence along with it. Some truths prove themselves, if they be but rightly explained and apprehended. If we understand the spiritual nature of God and of his law, and what it is that is offensive to him, and disfits us for communion with him, we shall soon perceive, [1.] That that which we eat and drink cannot defile us, so as to call for any religious washing; it goes into the stomach, and passes the several digestions and secretions that nature has appointed, and what there may be in it that is defiling is voided and gone; meats for the belly, and the belly for meats, but God shall destroy both it and them. But, [2.] It is that which comes out from the heart, the corrupt heart, that defiles us. As by the ceremonial law, whatsoever (almost) comes out of a man, defiles him (Lev 15:2; Deu 23:13), so what comes out from the mind of a man is that which defiles him before God, and calls for a religious washing (Mar 7:21); From within, out of the heart of men, which they boast of the goodness of, and think is the best part of them, thence that which defiles proceeds, thence comes all the mischief. As a corrupt fountain sends forth corrupt streams, so doth a corrupt heart send forth corrupt reasonings, corrupt appetites and passions, and all those wicked words and actions which are produced by them. Divers particulars are specified, as in Matthew; we had one there, which is not here, and that is, false witness-bearing; but seven are mentioned here, to be added to those we had there. First, Covetousnesses, for it is plural; pleonexiai - immoderate desires of more of the wealth of the world, and the gratifications of sense, and still more, still crying, Give, give. Hence we read of a heart exercised with covetous practices, Pe2 2:14. Secondly, Wickedness - ponēriai; malice, hatred, and ill-will, a desire to do mischief, and a delight in mischief done. Thirdly, Deceit; which is wickedness covered and disguised, that it may be the more securely and effectually committed. Fourthly, Lasciviousness; that filthiness and foolish talking which the apostle condemns; the eye full of adultery, and all wanton dalliances. Fifthly, The evil eye; the envious eye, and the covetous eye, grudging others the good we give them, or do for them (Pro 23:6), or grieving at the good they do or enjoy. Sixthly, Pride - huperēphania; exalting ourselves in our own conceit above others, and looking down with scorn and contempt upon others. Seventhly, Foolishness - aphrosunē; imprudence, inconsideration; some understand it especially of vainglorious boasting, which St. Paul calls foolishness (Co2 11:1, Co2 11:19), because it is here joined with pride; I rather take it for that rashness in speaking and acting, which is the cause of so much evil. Ill-thinking is put first, as that which is the spring of all our commissions, and unthinking put last, as that which is the spring of all our omissions. Of all these he concludes (Mar 7:23), 1. That they come from within, from the corrupt nature, the carnal mind, the evil treasure in the heart; justly is it said, that the inward part is very wickedness, it must needs be so, when all this comes from within. 2. That they defile the man; they render a man unfit for communion with God, they bring a stain upon the conscience; and, if not mortified and rooted out, will shut men out of the new Jerusalem, into which no unclean thing shall enter.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 1:27",
+      "note_ref": "TYN/1/1/27",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "1:27 The first poetry of Genesis reflectively celebrates God’s climactic feat in creating humankind. • human beings: This term (Hebrew ha-’adam, “the man”) is often used to denote humanity collectively (see 6:1, 5-7; 9:5-6). Though traditionally translated “man,” gender is not at issue here; both male and female are included."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 1:28",
+      "note_ref": "TYN/1/1/28",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "1:28 God blessed them: See study note on 1:22; see also 17:16; 48:16; Deut 7:13. • said: God’s message to humankind is direct and intimate; we are stewards of his delegated authority. • govern. . . . Reign: As God’s vice-regents, humans are entrusted with the care and management of the world God created (see also Gen 9:2; Ps 8:5-8)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 1:29",
+      "note_ref": "TYN/1/1/29",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "1:29-30 These verses highlight the extent (throughout the earth) and variety (every seed-bearing plant . . . all the fruit trees) of God’s provision for humans, animals, and birds."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 1:31",
+      "note_ref": "TYN/1/1/31",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "1:31 The Creator declares his work good seven times in ch 1; following the creation of human beings, God declares it all very good."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 9:1",
+      "note_ref": "TYN/1/9/1",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "9:1-7 God’s first post-flood speech opens and closes with blessing (9:1, 7). In it, human and animal relationships are again defined, with some modification of the original created order. The sanctity of life is given special focus.\n9:1 Be fruitful and multiply: The blessing and mandate first given to Adam (1:28) are now reissued to Noah, the “Adam” of the newly cleansed world in need of repopulation."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 9:2",
+      "note_ref": "TYN/1/9/2",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "9:2-3 There are two modifications to the original created order. (1) Previously, humans reigned over the animals (1:28), but now animals would live in terror of humans (similar military language is found in Exod 23:27-31; Deut 11:25; 31:8). (2) The animals’ terror was related to a change in human diet. Humans were now permitted to eat the meat of animals to supplement their subsistence on grains, fruits, and vegetables (Gen 1:29)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 9:4",
+      "note_ref": "TYN/1/9/4",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "9:4 A key restriction is imposed. Since blood was identified with life, it had to be drained from a slain animal before its meat could be eaten (see Lev 3:17; 7:26-27; 17:10-14; Deut 12:16, 23). The law of Moses prohibited eating animals that died naturally, since their blood had not been drained (Deut 14:21). God provided animal blood to atone for human sin (Lev 17:11; Heb 9:22)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 9:5",
+      "note_ref": "TYN/1/9/5",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "9:5-6 Violence, including murder, was a major factor in bringing about God’s judgment of the flood (4:8; 6:11, 13). At this new beginning for humans, God affirmed the sanctity of human life and established a system of retributive justice for the taking of human life (see also Ps 9:12; “Retribution” Theme Note). The function of law is to restrain human wickedness and preserve moral order. This law was further developed in the law of Moses (Exod 21:12-14; Lev 24:17-22; Num 35:16-34; Deut 17:6-7; 19:15)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Leviticus 11:1",
+      "note_ref": "TYN/3/11/1",
+      "cites": [
+        "Leviticus 11:2-4"
+      ],
+      "text": "11:1–15:33 These chapters detail the regulations pertaining to purity. The mixing of types of animals was forbidden (see Deut 22:9-11) because it represented a violation of the normal created order. “Abnormal” creatures—such as fish without fins and scales, carnivores, crawling insects, and animals without split hooves—cross boundaries between “normal” types and were unfit for food or offerings (see also Deut 14:1-21). The dietary laws were meant to distinguish Israel as a holy people from the surrounding nations (Lev 11:44-45)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Leviticus 11:2",
+      "note_ref": "TYN/3/11/2",
+      "cites": [
+        "Leviticus 11:2-4"
+      ],
+      "text": "11:2-8 Some scholars have suggested that unclean animals were to be avoided for reasons of public health, but the evidence does not support this. Horse meat, for example, is no less healthy than beef, yet it was considered unclean because the horse does not have a split hoof (see 11:2-3). The regulations existed because an unclean animal was unacceptable as an offering to God and, therefore, it was also unacceptable as food for God’s people. Jesus proclaimed all foods clean for Christians (Mark 7:14-19; Acts 10:9-16).\n11:2-3 these . . . you may use for food: Animals that have split hooves and chew the cud were considered “normal” and ceremonially clean (see also Deut 14:3-21)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Leviticus 11:5",
+      "note_ref": "TYN/3/11/5",
+      "cites": [
+        "Leviticus 11:2-4"
+      ],
+      "text": "11:5-6 Neither the hyrax nor the hare truly chews the cud, though both appear to. They are considered unclean because they do not have split hooves."
+    },
+    {
+      "src": "TYN",
+      "ref": "Deuteronomy 14:6",
+      "note_ref": "TYN/5/14/6",
+      "cites": [
+        "Deuteronomy 14:7-8"
+      ],
+      "text": "14:6 split hooves and chews the cud: These criteria distinguished edible animals listed in 14:4-5 from those listed in 14:7-8. Although the people experienced health benefits from observing these restrictions, a thing was actually clean or unclean only because God declared it to be such."
+    },
+    {
+      "src": "TYN",
+      "ref": "Deuteronomy 14:7",
+      "note_ref": "TYN/5/14/7",
+      "cites": [
+        "Deuteronomy 14:7-8"
+      ],
+      "text": "14:7 The hyrax is a rabbit-sized, hoofed mammal."
+    },
+    {
+      "src": "TYN",
+      "ref": "Deuteronomy 14:8",
+      "note_ref": "TYN/5/14/8",
+      "cites": [
+        "Deuteronomy 14:7-8"
+      ],
+      "text": "14:8 The instruction not to touch their carcasses was primarily to maintain ritual purity."
+    },
+    {
+      "src": "TYN",
+      "ref": "Matthew 15:11",
+      "note_ref": "TYN/40/15/11",
+      "cites": [
+        "Matthew 15:11"
+      ],
+      "text": "15:11 what goes into your mouth: Jesus was speaking here either of foods that were not permitted (e.g., pork or shellfish) or of food contaminated by unclean hands (15:20). • That which defiles makes a person unfit for communion with God. Jesus pressed the matter beyond ceremonial purity to true inner purity (see 15:18-19; 23:25-26; Acts 10:1-48; Rom 14:14). • One’s words are a measure of one’s character (see Matt 15:18-20; Jas 3:1-12)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Matthew 15:13",
+      "note_ref": "TYN/40/15/13",
+      "cites": [
+        "Matthew 15:11"
+      ],
+      "text": "15:13 not planted by my heavenly Father: These Pharisees did not belong to the true people of God (see 3:9-12; Isa 5:1-7; Jer 45:4). They will be uprooted at the final judgment (see Matt 3:10; 8:12)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Mark 7:14",
+      "note_ref": "TYN/41/7/14",
+      "cites": [
+        "Mark 7:18-20"
+      ],
+      "text": "7:14-23 Jesus’ second argument against the Pharisees was a proverb that Jesus told the crowd. Later, in the privacy of a home, Jesus explained it to his disciples (7:17-23). It concerns moral distinctions about eating. Eating affects the digestive system, but moral issues involve the heart. The heart is a metaphor for the seat of moral decision making. How a person eats (with clean or unclean hands) or what a person eats (clean or unclean food) affects only the digestive tract, so it has no bearing on the moral issues of the soul. To help his later readers understand the implications of Jesus’ teaching, Mark adds the interpretive comment By saying this, he declared that every kind of food is acceptable in God’s eyes. In the apostolic church, Peter and Paul were instrumental in bringing this implication to light (see Acts 10:1–11:18; Rom 14:14; 1 Cor 8:8; Gal 2:11-21).",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "Mark 7:20",
+      "note_ref": "TYN/41/7/20",
+      "cites": [
+        "Mark 7:18-20"
+      ],
+      "text": "7:20-22 These verses summarize thirteen things that truly defile a person. These actions and vices all come from the heart."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 1:28",
+      "note_ref": "GNV/1/1/28",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "The propagation of man is the blessing of God, Ps. 128."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 1:29",
+      "note_ref": "GNV/1/1/29",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "God’s great liberality to man, taketh away all excuse of his ingratitude."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 9:1",
+      "note_ref": "GNV/1/9/1",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "God increased them with fruit, and declared unto them his counsel as touching the replenishing of the earth."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 9:2",
+      "note_ref": "GNV/1/9/2",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "By the virtue of this commandment beasts rage not so much against man as they would, yea, and many serve to his use thereby."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 9:3",
+      "note_ref": "GNV/1/9/3",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "By this permission man may with a good conscience use the creatures of God for his necessity."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 9:4",
+      "note_ref": "GNV/1/9/4",
+      "cites": [
+        "Genesis 9:3"
+      ],
+      "text": "That is, living creatures, and the flesh of beasts that are strangled: and hereby all cruelty is forbidden."
+    },
+    {
+      "src": "GNV",
+      "ref": "Leviticus 11:2",
+      "note_ref": "GNV/3/11/2",
+      "cites": [
+        "Leviticus 11:2-4"
+      ],
+      "text": "Or, whereof ye may eat."
+    },
+    {
+      "src": "GNV",
+      "ref": "Leviticus 11:3",
+      "note_ref": "GNV/3/11/3",
+      "cites": [
+        "Leviticus 11:2-4"
+      ],
+      "text": "He noteth four sorts of beasts, some chew the cud only, and some have only the foot cleft: others neither chew the cud, nor have the hoof cleft: the fourth both chew the cud and have the hoof divided, which may be eaten."
+    },
+    {
+      "src": "GNV",
+      "ref": "Deuteronomy 14:4",
+      "note_ref": "GNV/5/14/4",
+      "cites": [
+        "Deuteronomy 14:7-8"
+      ],
+      "text": "This ceremonial Law instructed the Jews to seek a spiritual pureness, even in their meat and drink.",
+      "anchor": true
+    },
+    {
+      "src": "GNV",
+      "ref": "Matthew 15:10",
+      "note_ref": "GNV/40/15/10",
+      "cites": [
+        "Matthew 15:11"
+      ],
+      "text": "Christ teacheth us that hypocrisy of false teachers which deceive our soul, is not to be borne withall, no not in indifferent matters, and there is no reason why their ordinary vocation should blind our eyes: otherwise we are like to perish with them."
+    },
+    {
+      "src": "GNV",
+      "ref": "Mark 7:10",
+      "note_ref": "GNV/41/7/10",
+      "cites": [
+        "Mark 7:18-20"
+      ],
+      "text": "Without hope of pardon, he shall be put to death.",
+      "anchor": true
+    },
+    {
+      "src": "GNV",
+      "ref": "Mark 7:19",
+      "note_ref": "GNV/41/7/19",
+      "cites": [
+        "Mark 7:18-20"
+      ],
+      "text": "For that that goeth into the draught, purgeth all meats."
+    },
+    {
+      "src": "GNV",
+      "ref": "Mark 7:22",
+      "note_ref": "GNV/41/7/22",
+      "cites": [
+        "Mark 7:18-20"
+      ],
+      "text": "All kind of craftiness whereby men profit themselves by other men’s losses.\nCankered malice."
+    }
+  ]
+}

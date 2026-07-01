@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 110,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders resolve the count by reading Hebrews' \"in\" as locative: the manna and rod lay beside the ark, not within it.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the plain reading: 1 Kings says nothing but the tables, Hebrews lists three items, and the two flatly conflict.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), \"What was in the Ark of the Covenant?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Kings 8:9",
+      "excerpt_text": "Nothing else was ever in the ark, the articles mentioned (Heb 9:4) being not in, but by it, being laid in the most holy place before the testimony (Exo 16:33; Num 17:10).",
+      "full_note_ref": "JFB/11/8/9",
+      "on_tension_rationale": "Directly harmonizes all three texts: the manna pot and Aaron's rod were beside ('by it'), not inside the ark, so 'nothing in the ark save the tables' and Hebrews' list both stand. The single strongest, most pointed reconcile on the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Hebrews 9:4",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill states the difficulty explicitly ('how this pot... can be said to be in the ark, when it is asserted... there was nothing in it but two tables of stone, Kg1 8:9... is a difficulty') and works through the proposed harmonizations of this exact passage."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Hebrews_9.4.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Hebrews 9:4 — Were there three things in the ark or only the tables of stone?",
+        "note": "live apologetic treatment of this specific ark-contents discrepancy"
+      }
+    }
+  }
+}

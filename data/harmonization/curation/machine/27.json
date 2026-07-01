@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 27,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The commentators read the patriarchal and royal polygamy as a tolerated lapse from the one-flesh institution of Genesis 2, never a divine endorsement, and take the NT “husband of one wife” as restating a rule binding on all.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells juxtaposes the texts directly: the Bible records polygamy among its heroes — Solomon’s seven hundred wives and three hundred concubines, Gideon’s many wives, Jacob’s — without rebuke, then in the Pastorals limits a bishop to “one wife,” which he poses as an unresolved conflict over what marriage Scripture actually sanctions.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic’s Annotated Bible (“Is polygamy OK?”)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic’s Annotated Bible (“Is polygamy OK?”), skepticsannotatedbible.com (2013 print ed.; site ongoing)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Genesis 4:18",
+      "excerpt_text": "He was the first we read of that introduced polygamy, contrary to the first institution of marriage, whereby only one man and one woman were to be joined together, and become one flesh, Gen 2:24. This evil practice, though it began in the race of wicked Cain, was in later ages followed by some among the people of God, which was connived at because of the hardness of their hearts; otherwise it was not so from the beginning.",
+      "full_note_ref": "GILL/1/4/18",
+      "on_tension_rationale": "States the core harmonization: OT polygamy departs from the Gen 2:24 one-flesh institution and was merely tolerated (“connived at… hardness of their hearts… not so from the beginning”), echoing Jesus’ Matt 19 logic — directly answers the contradiction’s claim that the OT condones polygamy.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Timothy 3:2",
+      "excerpt_text": "…only if he marries or is married, that he should have but one wife at a time; so that this rule excludes all such persons from being elders, or pastors, or overseers of churches, that were “polygamists”; who had more wives than one at a time… And though they were not lawful nor to be allowed of in any; yet they were especially unbecoming and scandalous in officers of churches.",
+      "full_note_ref": "GILL/54/3/2",
+      "on_tension_rationale": "Directly rebuts the summary’s inference that “husband of one wife” implies laymen could be polygamous: Gill says polygamy was “not lawful nor to be allowed of in any,” only “especially” scandalous in officers — the NT half of the tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Genesis 4:19",
+      "excerpt_text": "This is the first transgression of the law of marriage on record, and the practice of polygamy, like all other breaches of God's institutions, has been a fruitful source of corruption and misery.",
+      "full_note_ref": "JFB/1/4/19",
+      "on_tension_rationale": "Concise distinct-voice verdict that polygamy is a “transgression of the law of marriage” and a “breach of God’s institutions,” not a sanctioned practice — reinforces the descriptive-not-prescriptive reading of OT polygamy.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Genesis 4:18-19 and 1 Timothy 3:2",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly: on Gen 4:18-19 he reads the patriarchal and royal polygamy as a tolerated departure from the Gen 2:24 one-flesh institution (“connived at because of the hardness of their hearts… not so from the beginning”), and on 1 Tim 3:2 he reads “husband of one wife” as an office qualification that excludes polygamists from being elders or pastors (paralleled to the high priest, the Egyptian priests, and the Roman Flamines), adding in passing that polygamy was “not lawful nor to be allowed of in any” but “especially” scandalous in church officers — his specific-passage coverage is confirmed on this row where Haley’s is not."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/polygamy.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why did God allow polygamy / bigamy in the Bible?",
+        "note": "Live apologetic treatment distinguishing God’s permissive toleration of polygamy from the Genesis 2:24 monogamy ideal restored in the NT."
+      }
+    }
+  }
+}

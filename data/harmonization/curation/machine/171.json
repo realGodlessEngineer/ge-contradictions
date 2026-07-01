@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 171,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read the texts by audience — God's anger toward His own people is brief, while His anger toward the unpardoned endures for ever.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells' Skeptic's Annotated Bible lines up the verses to show Scripture saying God's anger lasts a moment, not forever, forty years, and forever — irreconcilable as stated.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/anger.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 171,
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "verse_ref": "Micah 7:18",
+      "excerpt_text": "Though God may for a time lay his own people under the tokens of his displeasure, yet he will not retain his anger for ever, but though he cause grief he will have compassion; he is not implacable; yet against those that are not of the remnant of his heritage, that are unpardoned, he will keep his anger for ever.",
+      "full_note_ref": "MHC/33/7/14",
+      "license_code": "PD",
+      "on_tension_rationale": "States both poles explicitly and harmonizes them: anger is not retained for ever toward His own people, yet is kept for ever against the unpardoned.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Micah 7:18",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry harmonizes the brevity and permanence texts directly by distinguishing God's temporary anger toward His own people from His enduring anger toward the unpardoned."
+      },
+      "link": null
+    }
+  }
+}

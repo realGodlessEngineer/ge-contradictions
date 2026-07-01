@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 272,
+  "question": "How did Jeroboam die?",
+  "summary": "1 Kings 14:20 says Jeroboam I \"slept with his fathers\" — the standard Deuteronomistic idiom for peaceful death. 2 Chronicles 13:20 says the LORD struck him and he died, after he failed to recover strength following his defeat by Abijah. The two texts give incompatible accounts of the same king's manner of death.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Harmonizers read 2 Chronicles' \"the LORD struck him, and he died\" as a proleptic death-notice grouped with the defeat, since Jeroboam in fact outlived Abijah.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells, listing this under \"How did Jeroboam die?\", presses that 1 Kings 14:20 has Jeroboam die peacefully while 2 Chronicles 13:20 has God kill him.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "Skeptic's Annotated Bible",
+      "year": "2013",
+      "attribution": "Steve Wells, Skeptic's Annotated Bible (2013)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 2 Chronicles 13:20",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats this passage directly, reading 'the Lord struck him, and he died' as an anticipatory reference to threatened calamities issued in Jeroboam's death two years later, harmonizing it with 1 Kings 14:20."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page found on an allowlisted domain treating the Jeroboam death contradiction specifically; link omitted."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "272#0",
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "attribution": "Tyndale Open Bible Commentary",
+      "verse_ref": "2 Chronicles 13:20",
+      "full_note_ref": "TYN/14/13/20",
+      "excerpt_text": "Jeroboam outlived Abijah (see 1 Kgs 15:9). The report of his death is included with his defeat, which was typical of vanquished warriors (see 2 Kgs 19:37).",
+      "on_tension_rationale": "Directly resolves the manner/timing tension: Jeroboam outlived Abijah, so 2 Chronicles' death-notice is grouped with the defeat as a stylized report, not a claim he died in or right after the battle — compatible with the peaceful 'slept with his fathers' formula two years later in Kings.",
+      "source_note_text": "13:20 Jeroboam outlived Abijah (see 1 Kgs 15:9). The report of his death is included with his defeat, which was typical of vanquished warriors (see 2 Kgs 19:37)."
+    }
+  ]
+}

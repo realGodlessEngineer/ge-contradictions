@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 138,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders resolve the wording by ranking the two: the Levitical blood atoned only figuratively, as an imperfect type, while the real efficacy Hebrews demands belonged from the first to Christ alone.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed at this exact verse-set by Ryren Cadora of The Atheist Papers, who argues the Torah names blood sacrifice as the working means of atonement and Hebrews flatly declares that same blood powerless, so both cannot be true.",
+      "skeptic": {
+        "name": "Ryren Cadora",
+        "work": "Bible Contradictions #43: Does sacrificing an animal take away sins? (The Atheist Papers)",
+        "year": "2014",
+        "attribution": "Ryren Cadora, \"Bible Contradictions #43: Does sacrificing an animal take away sins?\", The Atheist Papers (2014)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Leviticus 17:11",
+      "excerpt_text": "the blood of Christ who has come (and we are to look for no other) is that alone which makes atonement for the soul, and of which the blood of the sacrifices was an imperfect type … The blood then made atonement figuratively, now the blood of Christ makes atonement really and effectually …",
+      "full_note_ref": "MHC/3/17/10",
+      "on_tension_rationale": "Names both poles of the tension and resolves it by ranking them: the Levitical blood made atonement only 'figuratively' as 'an imperfect type', while real/effectual atonement (what Heb 10:4 says the animal blood lacked) belongs to Christ's blood alone. Two non-adjacent sentences joined with a sense-preserving ellipsis; both truncated mid-sentence (source continues '; to this therefore...') so end with ' …'.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Leviticus 17:10-11",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Treats this exact tension: the Levitical blood 'made atonement figuratively', whereas 'the blood of Christ makes atonement really and effectually' — the type-vs-fulfilment reading that answers Hebrews 10:4. Haley's specific coverage of this Lev-17/Heb-10 pair could not be confirmed, so per spec the pd_work is anchored to a harmonizing commentator surfaced on the row and keyed to the passage."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/animal-sacrifices.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why did God require animal sacrifices in the Old Testament?",
+        "note": "Live apologetic treatment; harmonizes the OT blood-atonement command with the NT denial of its efficacy by reading the sacrifices as temporary coverings that 'illustrate and foreshadow' Christ, who alone provides the forgiveness they could not. Engages the core tension though it cites Heb 9:22 rather than 10:4 specifically."
+      }
+    }
+  }
+}

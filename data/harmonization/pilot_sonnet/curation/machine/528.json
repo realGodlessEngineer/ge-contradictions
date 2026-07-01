@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 528,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators resolve the tension by distinguishing the objects: Hebrews and John commend faith in revealed divine realities, while Colossians condemns self-invented visions of angels as fleshly presumption.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells (Skeptic's Annotated Bible) flags the surface tension: Hebrews praises belief in the unseen while Colossians condemns it, and the object-distinction harmonization depends on a theological classification the texts themselves do not articulate.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 528,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Colossians 2:18",
+      "excerpt_text": "intruding into those things which he hath not seen; thrusting himself in a bold and daring manner into an inquiry and search after, debate upon, and affirmation of things he could have no certain knowledge of; as of angels, whose nature, qualities, works, and ministrations, he had never seen with his bodily eyes; nor could ever discern with the eyes of his understanding any such things in the Scriptures, which he ascribed to them; but they were the birth of his own mind, the fruits of his own fancy and imagination, things devised in his own brain: being\nvainly puffed up by his fleshly mind; judging of things not according to the word of God, and with a spiritual judgment, and according to a spiritual sense and experience, but according to his own carnal reason, and the vanity of his mind",
+      "full_note_ref": "GILL/51/2/18",
+      "license_code": "PD",
+      "on_tension_rationale": "Gill distinguishes the Colossians condemnation from commended faith: the problem is self-invented, carnally-reasoned speculation about angels — not the scripturally-grounded faith in unseen divine realities that Hebrews and John 20:29 commend. This directly addresses the apparent contradiction.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 528,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "John 20:29",
+      "excerpt_text": "Faith without sight, in other respects, may be considered as opposed to the beatific vision in heaven; and as destitute of sensible communion with God; and as giving credit to doctrines and things above carnal sense and reason; such as the doctrines of the Trinity, the sonship of Christ, his incarnation, and the union of the two natures in him, and the resurrection of the dead; and as believing whatever is said in the word of God, upon the credit of his testimony",
+      "full_note_ref": "GILL/43/20/29",
+      "license_code": "PD",
+      "on_tension_rationale": "Gill defines commended 'belief in the unseen' as trust in Scripture's revealed testimony about divine realities — a categorically different act from the angel-speculation Colossians condemns, directly resolving the tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley addresses apparent contradictions between commended faith and condemned speculation, applying the standard harmonization that the objects and grounds of belief differ between the passages."
+      },
+      "link": null
+    }
+  }
+}

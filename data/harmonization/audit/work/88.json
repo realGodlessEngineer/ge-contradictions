@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 88,
+  "question": "Who brought Joseph into Egypt?",
+  "summary": "Genesis 37:28 says the Midianite merchants drew Joseph out of the pit, sold him to the Ishmaelites, and the Ishmaelites brought him to Egypt — a position Genesis 39:1 reinforces. Genesis 37:36, in the very same chapter, says \"the Midianites sold him into Egypt.\" The narrative can't decide which caravan delivered Joseph.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "The strongest harmonization denies a seam, reading Ishmaelite, Midianite, and Medanite as interchangeable names for one band of Abrahamic traders that strangers could not tell apart.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Critical scholarship treats this passage as a textbook source seam: E. A. Speiser argued that Genesis 37:28 alone — with Midianites drawing Joseph up where Ishmaelites had been named — exposes two independent, conflicting documents woven together.",
+    "skeptic": {
+      "name": "E. A. Speiser",
+      "work": "Genesis (The Anchor Bible, vol. 1)",
+      "year": "1964",
+      "attribution": "E. A. Speiser (d. 1965), Genesis (The Anchor Bible, vol. 1, 1964)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Genesis 37:25",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this exact passage, arguing the varying trader-names (Ishmaelites/Midianites/Medanites) reflect tribes commonly confounded, not separate source documents. Row-surfaced harmonizer keyed to the passage; Haley's specific-passage coverage could not be confirmed."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/who-purchased-joseph-the-ishmaelites-or-the-midianites/",
+        "domain": "carm.org",
+        "title": "CARM: Who purchased Joseph, the Ishmaelites or the Midianites?",
+        "note": "Live apologetic treatment of Genesis 37; harmonizes via Ishmaelite/Midianite as synonymous overlapping Abrahamic tribes."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "88#0",
+      "pole": "reconcile",
+      "source_code": "KD",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "verse_ref": "Genesis 37:25",
+      "full_note_ref": "KD/1/37/25",
+      "excerpt_text": "The different names given to the traders — viz., Ishmaelites (Gen 37:25, Gen 37:27, and Gen 37:28), Midianites (Gen 37:28), and Medanites (Gen 37:36) — do not show that the account has been drawn from different legends, but that these tribes were often confounded, from the fact that they resembled one another so closely, not only in their common descent from Abraham (Gen 16:15 and Gen 25:2), but also in the similarity of their mode of life and their constant change of abode, that strangers could hardly distinguish them, especially when they appeared not as tribes but as Arabian merchants, such as they are here described as being: \"Midianitish men, merchants.\"",
+      "on_tension_rationale": "Directly rebuts the documentary-source reading Speiser presses, naming the very 'different legends' objection and harmonizing the three trader-names as one confounded Abrahamic people. Strongest single reconcile excerpt; parity-capped to one on this discrepancy_first row.",
+      "source_note_text": "Reuben had saved Joseph's life indeed by his proposal; but his intention to send him back to his father was frustrated. For as soon as the brethren sat down to eat, after the deed was performed, they saw a company of Ishmaelites from Gilead coming along the road which leads from Beisan past Jenin (Rob. Pal. iii. 155) and through the plain of Dothan to the great caravan road that runs from Damascus by Lejun (Legio, Megiddo), Ramleh, and Gaza to Egypt (Rob. iii. 27, 178). The caravan drew near, laden with spices: viz., נכאת, gum-tragacanth; צרי, balsam, for which Gilead was celebrated (Gen 43:11; Jer 8:22; Jer 46:11); and לט, ladanum, the fragrant resin of the cistus-rose. Judah seized the opportunity to propose to his brethren to sell Joseph to the Ishmaelites. \"What profit have we,\" he said, \"that we slay our brother and conceal his blood? Come, let us sell him to the Ishmaelites; and our hand, let it not lay hold of him (sc., to slay him), for he is our brother, our flesh.\" Reuben wished to deliver Joseph entirely from his brothers' malice. Judah also wished to save his life, though not from brotherly love so much as from the feeling of horror, which was not quite extinct within him, at incurring the guilt of fratricide; but he would still like to get rid of him, that his dreams might not come true. Judah, like his brethren, was probably afraid that their father might confer upon Joseph the rights of the first-born, and so make him lord over them. His proposal was a welcome one. When the Arabs passed by, the brethren fetched Joseph out of the pit and sold him to the Ishmaelites, who took him into Egypt. The different names given to the traders - viz., Ishmaelites (Gen 37:25, Gen 37:27, and Gen 37:28), Midianites (Gen 37:28), and Medanites (Gen 37:36) - do not show that the account has been drawn from different legends, but that these tribes were often confounded, from the fact that they resembled one another so closely, not only in their common descent from Abraham (Gen 16:15 and Gen 25:2), but also in the similarity of their mode of life and their constant change of abode, that strangers could hardly distinguish them, especially when they appeared not as tribes but as Arabian merchants, such as they are here described as being: \"Midianitish men, merchants.\" That descendants of Abraham should already be met with in this capacity is by no means strange, if we consider that 150 years had passed by since Ishmael's dismissal from his father's house, - a period amply sufficient for his descendants to have grown through marriage into a respectable tribe. The price, \"twenty (sc., shekels) of silver,\" was the price which Moses afterwards fixed as the value of a boy between 5 and 20 (Lev 27:5), the average price of a slave being 30 shekels (Exo 21:32). But the Ishmaelites naturally wanted to make money by the transaction."
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 209,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read \"seventy\" as a round figure that excludes the concubine's son Abimelech and overlooks the one who escaped, so no real count is missing.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "empty",
+      "connective": null,
+      "skeptic": null,
+      "empty_note": "The numerical tension (70 named in 8:30 versus the 71-72 implied once Abimelech and the surviving Jotham are added) is real, but no specific named historical critic could be verified as having pressed THIS Gideon-numbers passage in a citable work; the skeptic tradition that lists it (e.g. the Skeptic's Annotated Bible) is anonymous. Per guardrail 4, the discrepancy pole is left empty with relabel_flag rather than co-opting a fabricated critic.",
+      "relabel_flag": true,
+      "relabel_reason": "consensus is only probable_contradiction (not genuine), the gathered commentators (JFB, Gill) treat it as a soluble round-number / separate-mother convention, and no real named skeptic who engaged this specific passage could be verified. Route to a human to decide whether 'probable_contradiction' overstates a row that may be better labeled a soluble number convention."
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Judges 9:5",
+      "excerpt_text": "threescore and ten persons—A round number is used, but it is evident that two are wanting to complete that number.",
+      "full_note_ref": "JFB/7/9/5",
+      "on_tension_rationale": "Directly addresses the numerical tension: JFB concedes the literal count falls short of seventy ('two are wanting') and explains 'threescore and ten' as a round number, which is the core harmonization of the 70-vs-71/72 discrepancy.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Judges 9:5",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treat this passage directly, explaining 'threescore and ten' as a round number and noting that two are wanting to complete it. Used as the PD anchor because Haley's specific coverage of this Gideon-numbers passage could not be confirmed and JFB is a harmonizing commentator already surfaced on this row keyed to the exact verse."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page treating this specific numerical discrepancy could be verified; the GotQuestions Abimelech page does not address the 70-vs-71/72 count. Link omitted rather than guessed."
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 63,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read \"only son\" as a status term — Isaac alone is the legitimate heir of the promise by Sarah — not a head-count of Abraham's offspring.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Documentary critics in the line of Julius Wellhausen read the Akedah's \"only son\" as the language of one narrative strand that did not reckon Ishmael as a co-heir, so the wording is a seam in a composite text rather than a harmonizable status term.",
+      "skeptic": {
+        "name": "Julius Wellhausen",
+        "work": "Prolegomena to the History of Israel",
+        "year": "1885",
+        "attribution": "Julius Wellhausen (d. 1918), Prolegomena to the History of Israel (Eng. trans. 1885)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Genesis 22:2",
+      "excerpt_text": "thine only son Isaac; for, though Ishmael was his son, he was a son by his maid, by his concubine, and not by his wife; Isaac was his only legitimate son, his only son by his lawful wife Sarah; the only son of the promise, his only son, in whom his seed was to be called …",
+      "full_note_ref": "GILL/1/22/2",
+      "on_tension_rationale": "Directly resolves the 'only son' label: distinguishes Isaac as the only legitimate son by Sarah / son of the promise, accounting for Ishmael (and implicitly Keturah's concubine-sons).",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Genesis 22:2",
+      "excerpt_text": "Only son - All that he had by Sarah his legal wife.",
+      "full_note_ref": "CLARKE/1/22/2",
+      "on_tension_rationale": "Terse, distinct second voice giving the same harmonization: 'only son' = only son by Sarah his legal wife, excluding Ishmael and the concubine-sons.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Genesis 22:2",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats the 'only son' phrase directly, glossing it 'All that he had by Sarah his legal wife' — the harmonizing status reading of this passage. Used in place of Haley, whose coverage of this specific pair could not be confirmed."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Genesis_22.2_(2).php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in Genesis 22:2?",
+        "note": "Live apologetic treatment of the 'only son' objection (timing, covenantal status, and the semantic range of yachid); verified on-topic."
+      }
+    }
+  }
+}

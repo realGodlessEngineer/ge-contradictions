@@ -1,0 +1,50 @@
+{
+  "contradiction_id": 209,
+  "question": "How many sons did Gideon have?",
+  "summary": "Judges 8:30 says Gideon had seventy sons. Judges 9:5 reports that Abimelech slew his seventy brothers on one stone, but the youngest, Jotham, escaped — leaving Gideon with seventy-one sons in total when Abimelech is counted, or seventy-two when Jotham survives the slaughter that supposedly killed all seventy. The math doesn't line up.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders read \"seventy\" as a round figure that excludes the concubine's son Abimelech and overlooks the one who escaped, so no real count is missing.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "empty",
+    "connective": null,
+    "skeptic": null,
+    "empty_note": "The numerical tension (70 named in 8:30 versus the 71-72 implied once Abimelech and the surviving Jotham are added) is real, but no specific named historical critic could be verified as having pressed THIS Gideon-numbers passage in a citable work; the skeptic tradition that lists it (e.g. the Skeptic's Annotated Bible) is anonymous. Per guardrail 4, the discrepancy pole is left empty with relabel_flag rather than co-opting a fabricated critic.",
+    "relabel_flag": true,
+    "relabel_reason": "consensus is only probable_contradiction (not genuine), the gathered commentators (JFB, Gill) treat it as a soluble round-number / separate-mother convention, and no real named skeptic who engaged this specific passage could be verified. Route to a human to decide whether 'probable_contradiction' overstates a row that may be better labeled a soluble number convention."
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Judges 9:5",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treat this passage directly, explaining 'threescore and ten' as a round number and noting that two are wanting to complete it. Used as the PD anchor because Haley's specific coverage of this Gideon-numbers passage could not be confirmed and JFB is a harmonizing commentator already surfaced on this row keyed to the exact verse."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page treating this specific numerical discrepancy could be verified; the GotQuestions Abimelech page does not address the 70-vs-71/72 count. Link omitted rather than guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "209#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Judges 9:5",
+      "full_note_ref": "JFB/7/9/5",
+      "excerpt_text": "threescore and ten persons—A round number is used, but it is evident that two are wanting to complete that number.",
+      "on_tension_rationale": "Directly addresses the numerical tension: JFB concedes the literal count falls short of seventy ('two are wanting') and explains 'threescore and ten' as a round number, which is the core harmonization of the 70-vs-71/72 discrepancy.",
+      "source_note_text": "went unto . . . Ophrah, and slew his brethren i. e., upon one stone--This is the first mention of a barbarous atrocity which has, with appalling frequency, been perpetrated in the despotic countries of the East--that of one son of the deceased monarch usurping the throne and hastening to confirm himself in the possession by the massacre of all the natural or legitimate competitors. Abimelech slew his brethren on one stone, either by dashing them from one rock, or sacrificing them on one stone altar, in revenge for the demolition of Baal's altar by their father. This latter view is the more probable, from the Shechemites (Jdg 9:24) aiding in it.\nthreescore and ten persons--A round number is used, but it is evident that two are wanting to complete that number."
+    }
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "contradiction_id": 201,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the wisdom literature's terminal-death language as describing only the loss of bodily, earthly life, not the soul's continued existence — so the OT texts and the resurrection hope can both stand.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Robert Martin-Achard argued that early Israel knew no resurrection: Sheol was a shadowy non-life from which none returned, and the conscious afterlife and bodily resurrection of Daniel, Isaiah 26, and the New Testament are a late development that broke with the older view.",
+      "skeptic": {
+        "name": "Robert Martin-Achard",
+        "work": "From Death to Life: A Study of the Development of the Doctrine of the Resurrection in the Old Testament",
+        "year": "1960",
+        "attribution": "Robert Martin-Achard (d. 1999), From Death to Life: A Study of the Development of the Doctrine of the Resurrection in the Old Testament, trans. J. P. Smith (Edinburgh: Oliver and Boyd, 1960)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Ecclesiastes 9:5",
+      "excerpt_text": "but the dead know not anything; this is not to be understood of their separate spirits, and of the things of the other world; for the righteous dead know much, their knowledge is greatly increased … but this is to be interpreted of their bodily senses now extinct, and of worldly things they have now nothing to do with; they know not any thing that is done in this world …",
+      "full_note_ref": "GILL/21/9/5",
+      "on_tension_rationale": "Eccl 9:5 ('the dead know not anything') is the single most-cited proof that the OT treats death as terminal/unconscious. Gill harmonizes the most contested verse directly, restricting its denial to bodily senses and worldly affairs while affirming the soul's continued, even increased, knowledge — the strongest both-true reading of this passage cluster.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Ecclesiastes 9:5; Psalm 6:5; Psalm 88:5; Psalm 115:17",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage cluster directly, repeatedly arguing that the wisdom literature's death-is-final language denies only bodily, earthly existence (not the soul's survival) and is compatible with conscious afterlife and resurrection. Haley's coverage of this specific death-finality discrepancy could not be confirmed, so a harmonizing commentator surfaced on this row is used.",
+        "link": null
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/dead-know-nothing.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does it mean that the dead know nothing (Ecclesiastes 9:5)?",
+        "note": "Live apologetic treatment of the most-cited proof text, harmonizing Eccl 9:5 with a conscious afterlife via the 'under the sun' earthly-perspective reading."
+      }
+    }
+  }
+}

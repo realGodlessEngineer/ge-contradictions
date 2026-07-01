@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 136,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read both as true: Moses ordered and directed the ark, while Bezalel did the actual fabrication under his oversight.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steven DiMattei presses the difference as a real source seam: the Deuteronomic (D) account has Moses himself make the ark, while the Priestly (P) account of Exodus 37 credits Bezalel, which he reads as textual evidence that P postdates D.",
+      "skeptic": {
+        "name": "Steven DiMattei",
+        "work": "Contradictions in the Bible (contradictionsinthebible.com)",
+        "year": "2014",
+        "attribution": "Steven DiMattei, Contradictions in the Bible (contradictionsinthebible.com, 2014)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Deuteronomy 10:1",
+      "excerpt_text": "Moses made an ark of shittim-wood (Deu 10:3), a plain chest, the same, I suppose, in which the tables were afterwards preserved: but Bezaleel is said to make it (Exo 37:1), because he afterwards finished it up and overlaid it with gold. Or Moses is said to make it because, when he went up the second time into the mount, he ordered it to be made by Bezaleel against he came down.",
+      "full_note_ref": "MHC/5/10/1",
+      "on_tension_rationale": "Henry names both verses and gives the standard both-true harmonization for the maker discrepancy: Bezalel did the fabrication, Moses ordered/directed it. Single strongest reconcile excerpt; parity-capped to 1 to match the discrepancy pole's one named-skeptic connective on this discrepancy_first row. JFB/5/10/3 ('he gave instructions to Bezaleel ... before he ascended the mount') and GILL/5/10/3 ('ordered it to be made, and it was made by Bezaleel') make the same point but are not emitted under the parity cap.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Deuteronomy 10:1-3",
+        "author": "Matthew Henry",
+        "year": "1706-14",
+        "note": "Henry treats the maker discrepancy directly, naming both Deut 10:3 and Exo 37:1 and harmonizing them by Moses ordering and Bezalel fabricating the ark."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Deuteronomy_10.1-3.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Deuteronomy 10:1-3 - When was the Ark made?",
+        "note": "live apologetic treatment of the Moses-vs-Bezalel ark-maker question"
+      }
+    }
+  }
+}

@@ -1,0 +1,501 @@
+{
+  "contradiction_id": 166,
+  "question": "Who was Zelophahad's father?",
+  "summary": "Numbers 27:1 and Joshua 17:3 give Zelophehad's genealogy as Hepher → Gilead → Machir → Manasseh, making Hepher his immediate father. 1 Chronicles 7:14-15 lists Zelophehad as a son of Manasseh directly, with a different intermediate genealogy entirely. The two genealogies disagree about who Zelophehad's father was.",
+  "consensus": "genuinely_disputed",
+  "consensus_id": 3,
+  "category": "Genealogy & Identity",
+  "contradiction_type": "genealogical",
+  "testament_scope": "OT_internal",
+  "books_in_tension": "Numbers, Joshua, 1 Chronicles",
+  "refs_raw": [
+    "Numbers 27:1",
+    "Joshua 17:3",
+    "1 Chronicles 7:14-15"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Numbers 27:1",
+      "book": "Numbers",
+      "bolls": 4,
+      "ranges": [
+        [
+          27,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "raw": "Joshua 17:3",
+      "book": "Joshua",
+      "bolls": 6,
+      "ranges": [
+        [
+          17,
+          3,
+          3
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 7:14-15",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          7,
+          14,
+          15
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 42,
+  "notes_raw_count": 47,
+  "notes_dropped": 5,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Numbers 27:1",
+      "note_ref": "GILL/4/27/1",
+      "cites": [
+        "Numbers 27:1"
+      ],
+      "text": "Then came the daughters of Zelophehad,.... Who are mentioned among the families of Manasseh, under that of the Hepherites, Num 26:33, their father being dead, and they having no brethren, when they heard the land was to be divided among those that were numbered, and who were only males of twenty years old and upwards, were concerned, lest they should have no share in the division of the land; and therefore came, according to the Targum of Jonathan, to the house of judgment, or court of judicature, where Moses, the princes, &c. were now sitting: the genealogy of Zelophehad is given:\nhe was the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, the son of Joseph; by which it appears he was of the tribe of Manasseh, and of the fourth generation from him:\nand these are the names of his daughters, Mahlah, Noah, ann Hoglah, and Milcah, and Tirzah; in the same order their names are given in Num 26:33, but in Num 36:11, it is a little altered, Noah and Tirzah change places, which Jarchi says shows they were upon an equality one with another."
+    },
+    {
+      "src": "GILL",
+      "ref": "Numbers 27:2",
+      "note_ref": "GILL/4/27/2",
+      "cites": [
+        "Numbers 27:1"
+      ],
+      "text": "And they stood before Moses, and before Eleazar the priest, and before the princes, and all the congregation,.... Who were now sitting in court, to hear and try causes brought before them; here were Moses the chief magistrate, Eleazar the high priest, the princes of the several tribes, and the representatives of the whole congregation, or it may be the seventy elders; a very grand and august assembly, before whom these ladies appeared, and from whom they might expect to have justice done them:\nby the door of the tabernacle of the congregation; near to which this court was held, both for the convenience of the people, to apply to in case of need, when they came thither to worship, and of Moses, to seek the Lord in case of any difficulty that might arise, as now did:\nsaying; as follows."
+    },
+    {
+      "src": "GILL",
+      "ref": "Numbers 27:3",
+      "note_ref": "GILL/4/27/3",
+      "cites": [
+        "Numbers 27:1"
+      ],
+      "text": "Our father died in the wilderness,.... As all the generation of the children of Israel did, that came out of Egypt, who were twenty years old and upwards, excepting Joshua and Caleb:\nand he was not in the company of them that gathered themselves together against the Lord in the company of Korah; which is observed, not so much to obtain the favour and good will of Moses as to clear the memory of their father from any reproach upon it, he dying in the wilderness; and chiefly to show that the claim of his posterity to a share in the land was not forfeited, he not being in that rebellion, nor in any other; so that he and his were never under any attainder:\nbut died in his own sin; which though common to all men, every man has his own peculiar way of sinning, and is himself only answerable for it, Isa 53:6 he sinned alone, had no partner or confederate, whom he had drawn into any notorious and public sin, as mutiny, &c. to the prejudice of the state, and the rulers in it; so the Targum of Jonathan adds,\"and he did not cause others to sin,''so Jarchi; some take him to be the sabbath breaker, Num 15:32, others that he was one of those that went up the hill, Num 14:44, most likely his sin was that of unbelief, disbelieving the spies that brought the good report of the land, and giving credit to those that brought an ill report of it; and so with the rest of the people murmured, for which his carcass, with others, fell in the wilderness, and entered not into the good land, through unbelief: a sin not punished in their children:\nand had no sons. which was the reason of this application."
+    },
+    {
+      "src": "GILL",
+      "ref": "Joshua 17:1",
+      "note_ref": "GILL/6/17/1",
+      "cites": [
+        "Joshua 17:3"
+      ],
+      "text": "There was also a lot for the tribe of Manasseh,.... As well as for the tribe of Ephraim:\nfor he was the firstborn of Joseph; and therefore ought to have his part and share in the lot of the children of Joseph, though Ephraim was preferred before him in the blessing of Jacob. Some think this is given as a reason why he had a double portion, one on the other side Jordan, and another in the land of Canaan:\nto wit, for Machir, the firstborn of Manasseh, the father of Gilead; who was the only son of Manasseh, and so through him, and by his son Gilead, the whole tribe sprung from that patriarch: and\nbecause he was a man of war, therefore he had Gilead and Bashan; which were given to his posterity by Moses, and lay on the other side Jordan, see Deu 3:13. This Machir very likely had shown his warlike disposition and courage in Egypt, and had fought under the kings there against the common enemy of that country; for it is highly probable he was dead before the children of Israel came out from thence, but the same warlike spirit continued in his posterity; they had their part assigned them on the other side Jordan, to defend that country, while the tribes of Reuben and Gad attended to the care of their flocks and herds."
+    },
+    {
+      "src": "GILL",
+      "ref": "Joshua 17:2",
+      "note_ref": "GILL/6/17/2",
+      "cites": [
+        "Joshua 17:3"
+      ],
+      "text": "There was also a lot for the rest of the children of Manasseh by their families,.... For such that had no part in Gilead and Bashan on the other side Jordan, even for the other half tribe, whose families are particularly mentioned, as follows:\nfor the children of Abiezer; who is called Jeezer in Num 26:30; and was a son of Gilead, the son of Machir, as the rest that follow were:\nand for the children of Helek, and for the children of Asriel, and for the children of Shechem, and for the children of Hepher, and for the children of Shemida; hence the families of the Jeezerites, Helekites, Asrielites, Shechemites, Hepherites, and Shemidaites, mentioned in Num 26:30; and for which families was the lot here spoken of:\nthese were the male children of Manasseh the son of Joseph by their families; which is observed for the sake of, and to lead unto what follows, otherwise in common none but males inherited; but the following is an excepted and remarkable case."
+    },
+    {
+      "src": "GILL",
+      "ref": "Joshua 17:3",
+      "note_ref": "GILL/6/17/3",
+      "cites": [
+        "Joshua 17:3"
+      ],
+      "text": "But Zelophehad, the son of Hepher, the son of Gilead, the son of Machir, the son of Manasseh, had no sons, but daughters,.... The descent of this man is particularly given, to show the truth and reality of it, upon which his daughters made their request, and that granted and now claimed:\nand these are the names of his daughters, Mahlah, and Noah, Hoglah,\nMilcah, and Tirzah; by the same names, and in the same order they are called in Num 26:33; the order is a little different in Num 36:11."
+    },
+    {
+      "src": "GILL",
+      "ref": "Joshua 17:4",
+      "note_ref": "GILL/6/17/4",
+      "cites": [
+        "Joshua 17:3"
+      ],
+      "text": "And they came near before Eleazar the priest, and before Joshua the son of Nun, and before the princes,.... The ten princes, who, with Eleazar and Joshua, were appointed to divide the land, Num 34:17; and were now met together for that purpose, Jos 14:1,\nsaying, the Lord commanded Moses to give us an inheritance among our brethren; those of the same tribe with them; for upon their application to Moses he inquired of the Lord, who ordered him to grant their request, Num 27:1,\ntherefore according to the commandment of the Lord he gave them an inheritance among the brethren of their fathers; that is, to the half tribe of Manasseh."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 7:13",
+      "note_ref": "GILL/13/7/13",
+      "cites": [
+        "1 Chronicles 7:14-15"
+      ],
+      "text": "And Maachah the wife of Machir bare a son, and she called his name Peresh; and the name of his brother was Sheresh,.... He had both these sons by her:\nand his sons were Ulam and Rakem, that is, either the sons of Peresh or Sheresh, the nearest, as Kimchi observes."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 7:14",
+      "note_ref": "GILL/13/7/14",
+      "cites": [
+        "1 Chronicles 7:14-15"
+      ],
+      "text": "And the sons of Ulam: Bedan,.... See Sa1 12:11.\nthese were the sons of Gilead, the son of Machir, the son of Manasseh; that is, were of his posterity, or belonged to his family; for Ulam and Rakem were sons of a brother of Gilead, Ch1 7:16."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 7:15",
+      "note_ref": "GILL/13/7/15",
+      "cites": [
+        "1 Chronicles 7:14-15"
+      ],
+      "text": "And his sister Hammoleketh,.... The sister of Gilead so named; though the Targum renders it \"that reigned\"; and so Kimchi, that reigned in some part of Gilead; and the Vulgate Latin version translates it, \"a queen bare Ishod, and Abiezer, and Mahalah\"; Abiezer is the same with Jeezer, from whom a family sprung of that name, Num 26:30, of which Gideon was, Jdg 6:11.\n.\n1 Chronicles 7:19\nch1 7:19\nch1 7:19\nch1 7:19And the sons of Shemida,.... Another son of Gilead's sister, unless the same with Ishod; from him sprung the family of the Shemidaites, Num 26:30.\nwere, Ahian, and Shechem, and Likhi, and Aniam; from Shechem came the family of the Shethemites, as from Likhi, if he is the same with Helek, as probably he may be, was the family of the Helekites, Num 26:30."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 7:16",
+      "note_ref": "GILL/13/7/16",
+      "cites": [
+        "1 Chronicles 7:14-15"
+      ],
+      "text": "And the sons of Ephraim,.... A son of Joseph, and father of a tribe of this name, whose genealogy through five generations follows: Shuthelah, Bered, Tahath, Eladah, Tahath; the second.\nAnd the sons of Ephraim,.... A son of Joseph, and father of a tribe of this name, whose genealogy through five generations follows: Shuthelah, Bered, Tahath, Eladah, Tahath; the second.\n1 Chronicles 7:21\nch1 7:21\nch1 7:21\nch1 7:21And Zabad his son,.... Not the son of Tahath the second last mentioned, but the son of Ephraim, a second son of his:\nand Shuthelah; his son, the son of Zabad, called after his uncle's name, Ch1 7:20.\nand Ezer, and Elead; two other sons of Zabad:\nwhom the men of Gath that were born in that land slew: that is, Zabad and his three sons; these the men of Gath slew, who were Philistines that dwelt there, and were originally of Egypt, and were born in that land, but had removed into Palestine, which had its name from them, of which Gath was one of its cities; and this bordering upon the land of Goshen, or being near it, where the Israelites dwelt, they made inroads upon them, and plundered them:\nbecause they came down to take away their cattle; and the sons, the grandsons of Ephraim, resisted them, and so were slain: and that the aggressors were not the Ephraimites, who went out of Egypt before their time, and fell upon the men of Gath, born in the land of the Philistines, in order to dispossess them of their land and substance, and were slain by them, which is the sense of the Targum and other writers, both Jewish and Christian; but the men of Gath, as is clear from this circumstance, that they\ncame down, as men did when they went from Palestine to Egypt, not when they went from Egypt to Palestine, then they \"went up\"; which would have been the phrase used, if this had been an expedition of the Ephraimites into Palestine; besides, it is not reasonable to think, that the Ephraimites, addicted to husbandry and cattle, and not used to war, should engage in such an enterprise; but rather the men of Gath, or the Philistines, who were a warlike people, and given to spoil and plunder; this, according to a learned chronologer (l), was seventy four years after Jacob went down to Egypt, and one hundred and forty years before the children of Israel came from thence.\n(l) Nic. Abrami Pharus, l. 9. c. 21. p. 242."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 7:12",
+      "note_ref": "JFB/13/7/12",
+      "cites": [
+        "1 Chronicles 7:14-15"
+      ],
+      "text": "Shuppim also, and Huppim--They are called Muppim and Huppim (Gen 46:21) and Hupham and Shupham (Num 26:39). They were the children of Ir, or Iri (Ch1 7:7).\nand Hushim, the sons--\"son.\"\nof Aher--\"Aher\" signifies \"another,\" and some eminent critics, taking \"Aher\" as a common noun, render the passage thus, \"and Hushim, another son.\" Shuppim, Muppim, and Hushim are plural words, and therefore denote not individuals, but the heads of their respective families; and as they were not comprised in the above enumeration (Ch1 7:7, Ch1 7:9) they are inserted here in the form of an appendix. Some render the passage, \"Hushim, the son of another,\" that is, tribe or family. The name occurs among the sons of Dan (Gen 46:23), and it is a presumption in favor of this being the true rendering, that after having recorded the genealogy of Naphtali (Ch1 7:13) the sacred historian adds, \"the sons of Bilhah, the handmaid, who was the mother of Dan and Naphtali.\" We naturally expect, therefore, that these two will be noticed together, but Dan is not mentioned at all, if not in this passage."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 7:13",
+      "note_ref": "JFB/13/7/13",
+      "cites": [
+        "1 Chronicles 7:14-15"
+      ],
+      "text": "OF NAPHTALI. (Ch1 7:13)\nShallum--or Shillem (Gen 46:24).\nsons of Bilhah--As Dan and Naphtali were her sons, Hushim, as well as these enumerated in Ch1 7:13, were her grandsons."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 7:14",
+      "note_ref": "JFB/13/7/14",
+      "cites": [
+        "1 Chronicles 7:14-15"
+      ],
+      "text": "OF MANASSEH. (1Ch. 7:14-40)\nThe sons of Manasseh--or descendants; for Ashriel was a grandson, and Zelophehad was a generation farther removed in descent (Num 26:33). The text, as it stands, is so confused and complicated that it is exceedingly difficult to trace the genealogical thread, and a great variety of conjectures have been made with a view to clear away the obscurity. The passage [Ch1 7:14-15] should probably be rendered thus: \"The sons of Manasseh were Ashriel, whom his Syrian concubine bare to him, and Machir, the father of Gilead (whom his wife bare to him). Machir took for a wife Maachah, sister to Huppim and Shuppim.\""
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Joshua 17:1",
+      "note_ref": "CLARKE/6/17/1",
+      "cites": [
+        "Joshua 17:3"
+      ],
+      "text": "There was also a lot for the tribe of Manasseh - It was necessary to mark this because Jacob, in his blessing, (Gen 48:19, Gen 48:20), did in a certain sense set Ephraim before Manasseh, though the latter was the first-born; but the place here shows that this preference did not affect the rights of primogeniture.\nFor Machir - because he was a man of war - It is not likely that Machir himself was now alive; if he were, he must have been nearly 200 years old: It is therefore probable that what is spoken here is spoken of his children, who now possessed the lot that was originally designed for their father, who it appears had signalized himself as a man of skill and valor in some of the former wars, though the circumstances are not marked. His descendants, being of a warlike, intrepid spirit, were well qualified to defend a frontier country, which would be naturally exposed to invasion."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Joshua 17:2",
+      "note_ref": "CLARKE/6/17/2",
+      "cites": [
+        "Joshua 17:3"
+      ],
+      "text": "The rest of the children of Manasseh - That is, his grandchildren; for it is contended that Manasseh had no other son than Machir; and these were very probably the children of Gilead, the son of Machir."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Joshua 17:3",
+      "note_ref": "CLARKE/6/17/3",
+      "cites": [
+        "Joshua 17:3"
+      ],
+      "text": "Zelophehad - had no sons, but daughters - See this case considered at large in the notes on Num 27:1-7 (note); Num 36:1 (note), etc."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Joshua 17:5",
+      "note_ref": "CLARKE/6/17/5",
+      "cites": [
+        "Joshua 17:3"
+      ],
+      "text": "There fell ten portions to Manasseh - The Hebrew word חבלי chabley, which we translate portions, signifies literally cords or cables, and intimates that by means of a cord, cable, or what we call a chain, the land was divided. We have but little account of the arts and sciences of the Hebrews, yet from the sketches which we find in different parts of the Old Testament it appears that their minds were in many respects well cultivated; nor could the division, which is mentioned in this book, have been made without such a measure of geographical knowledge, as we find it difficult to grant them. Suppose even in this case, the land was not measured with a chain, which in some cases would have been impracticable, because the ancient inhabitants still occupied the places which were allotted to certain tribes or families; yet the allusion to this mode of measurement shows that it was well known among them. As there were six sons and five daughters, among whom this division was to be made, there should be eleven portions; but Zelophehad, son of Hepher, having left five daughters in his place, neither he nor Hepher is reckoned. The lot of Manasseh therefore was divided into ten parts; five for the five sons of Gilead, who were Abiezer, Helek, Asriel, Shechem, and Shemida; and five for the five daughters of Zelophehad, viz., Mahlah, Noah, Hoglah, Milcah, and Tirzah. Calmet."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 7:6",
+      "note_ref": "CLARKE/13/7/6",
+      "cites": [
+        "1 Chronicles 7:14-15"
+      ],
+      "text": "The sons of Benjamin; Bela, and Becher and Jediael - In Gen 46:21, ten sons of Benjamin are reckoned; viz., Bela, Becher, Ashbel, Gera, Naaman, Eri, Rosh, Muppim, Huppim, and Ard. In Num 26:38, etc., five sons only of Benjamin are mentioned, Bela, Ashbel, Ahiram, Shupham, and Hupham: and Ard and Naaman are there said to be the sons of Bela; consequently grandsons of Benjamin. In the beginning of the following chapter, five sons of Benjamin are mentioned, viz., Bela, Ashbel, Aharah, Nohah, and Rapha; where also Addar, Gera, Abihud, Abishua, Naaman, Ahoah, a second Gera, Shephuphan, and Huram, are all represented as grandsons, not sons, of Benjamin: hence we see that in many cases grandsons are called sons, and both are often confounded in the genealogical tables. To attempt to reconcile such discrepancies would be a task as endless as it would be useless. The rabbins say that Ezra, who wrote this book, did not know whether some of these were sons or grandsons; and they intimate also that the tables from which he copied were often defective, and here we must leave all such matters.",
+      "anchor": true
+    },
+    {
+      "src": "KD",
+      "ref": "Joshua 17:1",
+      "note_ref": "KD/6/17/1",
+      "cites": [
+        "Joshua 17:3"
+      ],
+      "text": "The inheritance of Manasseh on this side of the Jordan was on the north of Ephraim.\nJos 17:1-6\nBefore proceeding to the more detailed description of the inheritance, the historian thinks it necessary to observe that the Manassites received a double inheritance. This remark is introduced with the words \"for he was the first-born of Joseph.\" On this account, in addition to the territory already given to him in Gilead and Bashan, he received a second allotment of territory in Canaan proper. With the word למכיר (for Machir) the more minute account of the division of the Manassites commences. וגו למכיר is first of all written absolutely at the beginning of the sentence, and then resumed in לו ויהי: \"to Machir, the first-born of Manasseh ... to him were Gilead and Bashan assigned, because he was a man of war,\" i.e., a warlike man, and had earned for himself a claim to the inheritance of Gilead and Bashan through the peculiar bravery which he had displayed in the conquest of those lands. By Machir, however, we are not to understand the actual son of Manasseh, but his family; and הגּלעד אבי does not mean \"father of Gilead,\" but lord (possessor) of Gilead, for Machir's son Gilead is always called גלעד without the article (vid., Jos 17:3; Num 26:29-30; Num 27:1; Num 36:1; Ch1 7:17), whereas the country of that name is just as constantly called הגּלעד (see Jos 17:1, the last clause, Jos 17:5; Jos 13:11, Jos 13:31; Num 32:40; Deu 3:10.). \"And there came, i.e., the lot fell (the lot is to be repeated from Jos 17:1), to the other descendants of Manasseh according to their families,\" which are then enumerated as in Num 26:30-32. \"These are the male descendants of Manasseh.\" הזּכרים must not be altered, notwithstanding the fact that it is preceded and followed by הגּותרים; it is evidently used deliberately as an antithesis to the female descendants of Manasseh mentioned in Jos 17:3.\nJos 17:3-6\nAmong the six families of Manasseh (Jos 17:2), Zelophehad, a descendant of Hepher, left no son; but he had five daughters, whose names are given in Jos 17:3 (as in Num 26:33; Num 27:1; Num 36:10). These daughters had petitioned Moses for a separate portion in the promised land, and their request had been granted (Num 27:2., compared with Josh 36). They therefore came before the committee appointed for dividing the land and repeated this promised, which as at once fulfilled. Consequently there were ten families of Manasseh who had received portions by the side of Ephraim, five male and five female. \"And (Jos 17:5) there fell the measurements of Manasseh (as) ten,\" i.e., ten portions were assigned to the Manassites (on the west of the Jordan), beside the land of Gilead, because (as is again observed in Jos 17:6) the daughters of Manasseh, i.e., of Zelophehad the Manassite, received an inheritance among his sons (i.e., the rest of the Manassites).\nJos 17:7-11\nBoundaries and extent of the inheritance of the ten families of Manasseh. - Jos 17:7-10, the southern boundary, which coincides with the northern boundary of Ephraim described in Jos 16:6-8, and is merely given here with greater precision in certain points. It went \"from Asher to Michmethah, before Shechem.\" Asher is not the territory of the tribe of Asher, but a distinct locality; according to the Onom. (s. v. Asher) a place on the high road from Neapolis to Scythopolis, fifteen Roman miles from the former. It is not to be found, however, in the ruins of Tell Um el Aschera (V. de Velde) or Tell Um Ajra (Rob. Bibl. Res. pp. 310, 327), an hour to the south of Beisan, as Knobel supposes, but in the village of Yasir, where there are magnificent ruins, about five hours and ten minutes from Nabulus on the road to Beisan (V. de Velde, Mem. pp. 237, 289; R. ii. p. 295). Michmethah, before Shechem, is still unknown (see Jos 16:6). Shechem was founded by the Hivite prince Shechem (Gen 33:18), and is frequently mentioned in the book of Genesis. It stood between Ebal and Gerizim, was given up by Ephraim to the Levites, and declared a free city (city of refuge: Jos 21:21; Jos 20:7). It was there that the ten tribes effected their separation from Judah Kg1 12:1.), and Jeroboam resided there (Kg1 12:25). In later times it was the chief city of the country of Samaria, and the capital of the Samaritans (Joh 4:5); and the name of Neapolis, or Flavia Neapolis, from which the present Nabulus or Nablus has come, was given to it in honour of Vespasian (see v. Raumer, Pal. pp. 161ff.). From this point the boundary went אל־היּמין (i.e., either \"to the right side,\" the south side, or to Yamin), \"To the inhabitants of En-tappuah.\" Whether Yamin is an appellative or a proper name is doubtful. But even if it be the name of a place, it is quite certain that it cannot be the village of Yamn, an hour to the south-east of Taanuk (Rob. iii. pp. 161, 167, etc.), as this is much too far north, and, judging from Jos 17:11, belonged to the territory of Asher. In the case of En-tappuah, the inhabitants are mentioned instead of the district, because the district belonged to Manasseh, whilst the town on the border of Manasseh was given to the Ephraimites. The situation of the town has not yet been discovered: see at Jos 16:8. From this point the boundary ran down to the Cane-brook (see Jos 16:8), namely to the south side of the brook.\n\"These towns were assigned to Ephraim in the midst of the towns of Manasseh, and (but) the territory of Manasseh was on the north of the brook.\" The only possible meaning of these words is the following: From Tappuah, the boundary went down to the Cane-brook and crossed it, so that the south side of the brook really belonged to the territory of Manasseh; nevertheless the towns on this south side were allotted to Ephraim, whilst only the territory to the north of the brook fell to the lot of the Manassites. This is expressed more plainly in Jos 17:10: \"To the south (of the brook the land came) to Ephraim, and to the north to Manasseh.\" In Jos 17:10 the northern and eastern boundaries are only briefly indicated: \"And they (the Manassites) touched Asher towards the north, and Issachar towards the east.\" The reason why this boundary was not described more minutely, was probably because it had not yet been fixed. For (Jos 17:11) Manasseh also received towns and districts in (within the territory of) Issachar and Asher, viz., Beth-shean, etc. Beth-shean, to the wall of which Saul's body was fastened (Sa1 31:10.; Sa2 21:12), was afterwards called Scythopolis. It was in the valley of the Jordan, where the plain of Jezreel slopes off into the valley; its present name is Beisan, a place where there are considerable ruins of great antiquity, about two hours from the Jordan (vid., Seetzen, ii. pp. 162ff.; Rob. iii. p. 174; Bibl. Res. p. 325; v. Raumer, Pal. pp. 150-1). This city, with its daughter towns, was in the territory of Issachar, which was on the east of Manasseh, and may have extended a considerable distance towards the south along the valley of the Jordan, as the territory of Manasseh and Ephraim did not run into the valley of the Jordan; but Asher (Yasir) is mentioned in Jos 17:7 as the most easterly place in Manasseh, and, according to Jos 16:6-7, the eastern boundary of Ephraim ran down along the eastern edge of the mountains as far as Jericho, without including the Jordan valley. At the same time, the Ghor on the western side of the Jordan below Beisan, as far as the plain of Jericho, was of no great value to any tribe, as this district, according to Josephus (de Bell. Jud. iv. 8, 2, and iii. 10, 7), was uninhabited because of its barrenness. The other towns, Ibleam, etc., with the exception of Endor perhaps, were in the territory of Asher, and almost all on the south-west border of the plain of Esdraelon. Ibleam, called Bileam in Ch1 6:55 (70), a Levitical town (see at Jos 21:25), was not very far from Megiddo (Kg2 9:27), and has probably been preserved in the ruins of Khirbet-Belameh, half an hour to the south of Jenin; according to Schultz, it is the same place as Belamon, Belmen, or Belthem (Judith 4:4; 7:3; 8:3). With דאר ואת־ישׁבי the construction changes, so that there is an anacolouthon, which can be explained, however, on the ground that ל היה may not only mean to be assigned to, but also to receive or to have. In this last sense ואת is attached. The inhabitants are mentioned instead of the towns, because the historian had already the thought present in his mind, that the Manassites were unable to exterminate the Canaanites from the towns allotted to them. Dor is the present Tortura (see at Jos 11:2). Endor, the home of the witch (Sa1 28:7), four Roman miles to the south of Tabor (Onom.), at present a village called Endr, on the northern shoulder of the Duhy or Little Hermon (see Rob. iii. p. 225; Bibl. Res. p. 340). Taanach and Megiddo, the present Taanuk and Lejun (see at Jos 12:21). The three last towns, with the places dependent upon them, are connected more closely together by הנּפת שׁלשׁת, the three-hill-country, probably because they formed a common league.\nJos 17:12-13\nThe Manassites were unable to exterminate the Canaanites from these six towns, and the districts round; but when they grew stronger, they made them tributary slaves (cf. Jos 16:10)."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 7:13",
+      "note_ref": "KD/13/7/13",
+      "cites": [
+        "1 Chronicles 7:14-15"
+      ],
+      "text": "And Maachah the wife of Machir bare a son, and she called his name Peresh; and the name of his brother was Sheresh,.... He had both these sons by her:\nand his sons were Ulam and Rakem, that is, either the sons of Peresh or Sheresh, the nearest, as Kimchi observes."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 7:14",
+      "note_ref": "KD/13/7/14",
+      "cites": [
+        "1 Chronicles 7:14-15"
+      ],
+      "text": "And the sons of Ulam: Bedan,.... See Sa1 12:11.\nthese were the sons of Gilead, the son of Machir, the son of Manasseh; that is, were of his posterity, or belonged to his family; for Ulam and Rakem were sons of a brother of Gilead, Ch1 7:16."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 7:15",
+      "note_ref": "KD/13/7/15",
+      "cites": [
+        "1 Chronicles 7:14-15"
+      ],
+      "text": "And his sister Hammoleketh,.... The sister of Gilead so named; though the Targum renders it \"that reigned\"; and so Kimchi, that reigned in some part of Gilead; and the Vulgate Latin version translates it, \"a queen bare Ishod, and Abiezer, and Mahalah\"; Abiezer is the same with Jeezer, from whom a family sprung of that name, Num 26:30, of which Gideon was, Jdg 6:11.\n.\n1 Chronicles 7:19\nch1 7:19\nch1 7:19\nch1 7:19And the sons of Shemida,.... Another son of Gilead's sister, unless the same with Ishod; from him sprung the family of the Shemidaites, Num 26:30.\nwere, Ahian, and Shechem, and Likhi, and Aniam; from Shechem came the family of the Shethemites, as from Likhi, if he is the same with Helek, as probably he may be, was the family of the Helekites, Num 26:30."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 7:16",
+      "note_ref": "KD/13/7/16",
+      "cites": [
+        "1 Chronicles 7:14-15"
+      ],
+      "text": "And the sons of Ephraim,.... A son of Joseph, and father of a tribe of this name, whose genealogy through five generations follows: Shuthelah, Bered, Tahath, Eladah, Tahath; the second.\nAnd the sons of Ephraim,.... A son of Joseph, and father of a tribe of this name, whose genealogy through five generations follows: Shuthelah, Bered, Tahath, Eladah, Tahath; the second.\n1 Chronicles 7:21\nch1 7:21\nch1 7:21\nch1 7:21And Zabad his son,.... Not the son of Tahath the second last mentioned, but the son of Ephraim, a second son of his:\nand Shuthelah; his son, the son of Zabad, called after his uncle's name, Ch1 7:20.\nand Ezer, and Elead; two other sons of Zabad:\nwhom the men of Gath that were born in that land slew: that is, Zabad and his three sons; these the men of Gath slew, who were Philistines that dwelt there, and were originally of Egypt, and were born in that land, but had removed into Palestine, which had its name from them, of which Gath was one of its cities; and this bordering upon the land of Goshen, or being near it, where the Israelites dwelt, they made inroads upon them, and plundered them:\nbecause they came down to take away their cattle; and the sons, the grandsons of Ephraim, resisted them, and so were slain: and that the aggressors were not the Ephraimites, who went out of Egypt before their time, and fell upon the men of Gath, born in the land of the Philistines, in order to dispossess them of their land and substance, and were slain by them, which is the sense of the Targum and other writers, both Jewish and Christian; but the men of Gath, as is clear from this circumstance, that they\ncame down, as men did when they went from Palestine to Egypt, not when they went from Egypt to Palestine, then they \"went up\"; which would have been the phrase used, if this had been an expedition of the Ephraimites into Palestine; besides, it is not reasonable to think, that the Ephraimites, addicted to husbandry and cattle, and not used to war, should engage in such an enterprise; but rather the men of Gath, or the Philistines, who were a warlike people, and given to spoil and plunder; this, according to a learned chronologer (l), was seventy four years after Jacob went down to Egypt, and one hundred and forty years before the children of Israel came from thence.\n(l) Nic. Abrami Pharus, l. 9. c. 21. p. 242."
+    },
+    {
+      "src": "MHC",
+      "ref": "Numbers 27:1",
+      "note_ref": "MHC/4/27/1",
+      "cites": [
+        "Numbers 27:1"
+      ],
+      "text": "Mention is made of the case of these daughters of Zelophehad in the chapter before, v. 33. It should seem, by the particular notice taken of it, that it was a singular case, and that the like did not at this time occur in all Israel, that the head of a family had no sons, but daughters only. Their case is again debated (Num 36:1-13) upon another article of it; and, according to the judgments given in their case, we find them put in possession, Jos 17:3, Jos 17:4. One would suppose that their personal character was such as added weight to their case, and caused it to be so often taken notice of.\nHere is, I. Their case stated by themselves, and their petition upon it presented to the highest court of judicature, which consisted of Moses as king, the princes as lords, and the congregation, or elders of the people who were chose their representatives, as the commons, Num 27:2. This august assembly sat near the door of the tabernacle, that in difficult cases they might consult the oracle. To them these young ladies made their application; for it is the duty of magistrates to defend the fatherless, Psa 82:3. We find not that the had any advocate to speak for them, but they managed their own cause ingeniously enough, which they could do the better because it was plain and honest, and spoke for itself. Now observe,\n1. What it is they petition for: That they might have a possession in the land of Canaan, among the brethren of their father, Num 27:4. What God had said to Moses (Num 26:53) he had faithfully made known to the people, that the land of Canaan was to be divided among those that were now numbered; these daughters knew that they were not numbered, and therefore by this rule must expect no inheritance, and the family of their father must be looked upon as extinct, and written childless, though he had all these daughters: this they thought hard, and therefore prayed to be admitted heirs to their father, and to have an inheritance in his right. If they had had a brother, they would not have applied to Moses (as one did to Christ, Luk 12:13) for an order to inherit with him. But, having no brother, they beg for a possession. Herein they discovered, (1.) A strong faith in the power and promise of God concerning the giving of the land of Canaan to Israel. Though it was yet unconquered, untouched, and in the full possession of the natives, yet they petition for their share in it as if it were all their own already. See Psa 60:6, Psa 60:7, God has spoken in his holiness, and the Gilead is mine, Manasseh is mane. (2.) An earnest desire of a place and name in the land of promise, which was a type of heaven; and if they had, as some think, an eye to that, and by this claim laid hold on eternal life, they were five wise virgins indeed; and their example should quicken us with all possible diligence to make sure our title to the heavenly inheritance, in the disposal of which, by the covenant of grace, no difference is made between male and female, Gal 3:28. (3.) A true respect and honour for their father, whose name was dear and precious to them now that he was gone, and they were therefore solicitous that it should not be done away from among his family. There is a debt which children owe to the memory of their parents, required by the fifth commandment: Honour thy father and mother.\n2. What their plea is: That their father did not die under any attainder which might be thought to have corrupted his blood and forfeited his estate, but he died in his own sin (Num 27:3), not engaged in any mutiny or rebellion against Moses, particularly not in that of Korah and his company, nor in any way concerned in the sins of others, but chargeable only with the common iniquities of mankind, for which to his own Master he was to stand or fall, but laid not himself open to any judicial process before Moses and the princes. He was never convicted of any thing that might be a bar to his children's claim. It is a comfort to parents, when they come to die, if, though they smart themselves for their own sin, yet they are not conscious to themselves of any of those iniquities which God visits upon the children.\nII. Their case determined by the divine oracle. Moses did not presume to give judgment himself, because, though their pretensions seemed just and reasonable, yet his express orders were to divide the land among those that were numbered, who were the males only; he therefore brings their cause before the Lord, and waits for his decision (Num 27:5), and God himself gives the judgment upon it. He takes cognizance of the affairs, not only of nations, but of private families, and orders them in judgment, according to the counsel of his own will. 1. The petition is granted (Num 27:7): They speak right, give them a possession. Those that seek an inheritance in the land of promise shall have what they seek, and other things shall be added to them. These are claims which God will countenance and crown. 2. The point is settled for all future occasions. These daughters of Zelophehad consulted, not only their own comfort and the credit of their family, but the honour and happiness of their sex likewise; for on this particular occasion a general law was made that, in case a man had no son, his estate should go to his daughters (Num 27:8); not to the eldest, as the eldest son, but to them all in copartnership, share and share alike. Those that in such a case deprive their daughters of their right, purely to keep up the name of their family, unless a valuable consideration be allowed them, may make the entail of their lands surer than the entail of a blessing with them. Further directions are given for the disposal of inheritances, Num 27:9-11. \"If a man have no issue at all, his estate shall go to his brethren; if no brethren, then to his father's brethren; and, if there be no such, then to his next kinsman.\" With this the rules of our law exactly agree: and though the Jewish doctors here will have it understood that if a man have no children his estate shall go to his father, if living, before his brethren, yet there is nothing of that in the law, and our common law has an express rule against it, That an estate cannot ascend lineally; so that if a person purchase lands in fee-simple, and die without issue in the life-time of his father, his father cannot be his heir. See how God makes heirs, and in his disposal we must acquiesce."
+    },
+    {
+      "src": "MHC",
+      "ref": "Joshua 17:1",
+      "note_ref": "MHC/6/17/1",
+      "cites": [
+        "Joshua 17:3"
+      ],
+      "text": "Manasseh was itself but one half of the tribe of Joseph, and yet was divided and subdivided. 1. It was divided into two parts, one already settled on the other side Jordan, consisting of those who were the posterity of Machir, Jos 17:1. This Machir was born to Manasseh in Egypt; there he had signalized himself as a man of war, probably in the contests between the Ephraimites and the men of Gath, Ch1 7:21. His warlike disposition descended to his posterity, and therefore Moses gave them Gileaxdand Bashan, on the other side Jordan, of which before, Jos 13:31. It is here said that the lot came to Manasseh, for he was the first-born of Joseph. Bishop Patrick thinks it should be translated, though he was the first-born of Joseph, and then the meaning is plain, that the second lot was for Manasseh, because, though he was the first-born, yet Jacob had preferred Ephraim before him. See the names of those heads of the families that settled on the other side Jordan, Ch1 5:24. 2. That part on this side Jordan as subdivided into ten families, Jos 17:5. There were six sons of Gilead here named (Jos 17:2), the same that are recorded Num 26:30-32, only that he who is there called Jezeer is here called Abiezer. Five of these sons had each of them their portion; the sixth, which was Hepher, had his male line cut off in his son Zelophehad, who left daughters only, five in number, of whom we have often read, and these five had each of them a portion; though perhaps, they claiming under Hepher, all their five portions were but equal to one of the portions of the five sons. Or if Hepher had other sons besides Zelophehad, in whom the name of his family was kept up, their posterity married to the daughters of Zelophehad the elder brother, and in their right had these portions assigned them. See Num 36:12. Here is, (1.) The claim which the daughters of Zelophehad made, grounded upon the command God gave to Moses concerning them, Jos 17:4. They had themselves, when they were young, pleaded their own cause before Moses, and obtained the grant of an inheritance with their brethren, and now they would not lose the benefit of that grant for want of speaking to Joshua, but seasonably put in their demand themselves, as it should seem, and not their husbands for them. (2.) The assignment of their portions according to their claim. Joshua knew very well what God had ordered in their case, and did not object that they having not served in the wars of Canaan there was no reason why they should share in the possessions of Canaan, but readily gave them as inheritance among the brethren of their father. And now they reaped the benefit of their own pious zeal and prudent forecast in this matter. Thus those who take care in the wilderness of this world to make sure to themselves a place in the inheritance of the saints in light will certainly have the comfort of it in the other world, while those that neglect it now will lose it for ever."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 7:1",
+      "note_ref": "MHC/13/7/1",
+      "cites": [
+        "1 Chronicles 7:14-15"
+      ],
+      "text": "We have here a short view given us,\nI. Of the tribe of Issachar, whom Jacob had compared to a strong ass, couching between two burdens (Gen 49:14), an industrious tribe, that minded their country business very closely and rejoiced in their tents, Deu 33:18. And here it appears, 1. That they were a numerous tribe; for they had many wives. So fruitful their country was that they saw no danger of over-stocking the pasture, and so ingenious the people were that they could find work for all hands. Let no people complain of their numbers, provided they suffer none to be idle. 2. That they were a valiant tribe, men of might (Ch1 7:2, Ch1 7:5), chief men, Ch1 7:3. Those that were inured to labour and business were of all men the fittest to serve their country when there was occasion, The number of the respective families, as taken in the days of David, is here set down, amounting in the whole to above 145,000 men fit for war. The account, some think, was taken when Joab numbered the people, 2 Sa. 24. But I rather think it refers to some other computation that was made, perhaps among themselves, because it is said (Ch1 27:24) that that account was not inserted in the chronicles of king David, it having offended God.\nII. Of the tribe of Benjamin. Some account is here given of this tribe, but much larger in the next chapter. The militia of this tribe scarcely reached to 60,000; but they are said to be mighty men of valour, Ch1 7:7, Ch1 7:9, Ch1 7:11. Benjamin shall ravin as a wolf, Gen 49:27. It was the honour of this tribe that it produced Saul the first king, and more its honour that it adhered to the rightful kings of the house of David when the other tribes revolted. Here is mention (Ch1 7:12) of Hushim the sons of Aher. The sons of Dan are said to be Hushim (Gen 46:23), and therefore some read Aher appellatively, Hushim - the sons of another (that is, another of Jacob's sons) or the sons of a stranger, which Israelites should not be, but such the Danites were when they set up Micah's graven and molten image among them.\nIII. Of the tribe of Naphtali, Ch1 7:13. The first fathers only of that tribe are named, the very same that we shall find, Gen 46:24, only that Shillem there is Shallum here. None of their descendents are named, perhaps because their genealogies were lost.\nIV. Of the tribe of Manasseh, that part of it which was seated within Jordan; for of the other part we had some account before, Ch1 5:23, etc. Of this tribe observe, 1. That one of them married an Aramitess, that is, a Syrian, Ch1 7:14. This was during their bondage in Egypt, so early did they begin to mingle with the nations. 2. That, though the father married a Syrian, Machir, the son of that marriage, perhaps seeing the inconvenience of it in his father's house, took to wife a daughter of Benjamin, Ch1 7:15. It is good for the children to take warning by their father's mistakes and not stumble at the same stone. 3. Here is mention of Bedan (Ch1 7:17), who perhaps is the same with that Bedan who is mentioned as one of Israel's deliverers, Sa1 12:11. Jair perhaps, who was of Manasseh (Jdg 10:3), was the man.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "Numbers 27:1",
+      "note_ref": "TYN/4/27/1",
+      "cites": [
+        "Numbers 27:1"
+      ],
+      "text": "27:1-11 Zelophehad’s lack of male heirs created an opportunity to refine the inheritance laws, which would later be refined even further (cp. 36:1-13)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Numbers 27:2",
+      "note_ref": "TYN/4/27/2",
+      "cites": [
+        "Numbers 27:1"
+      ],
+      "text": "27:2 The entrance of the Tabernacle was the most important public place, where significant decisions were made. The reference to this event in Josh 17:4 specifically mentions Eleazar, Joshua, and the Hebrew leaders, but omits Moses’ name. These women requested an exception to the law as it stood, and they brought their case to the highest tribal authorities."
+    },
+    {
+      "src": "TYN",
+      "ref": "Numbers 27:3",
+      "note_ref": "TYN/4/27/3",
+      "cites": [
+        "Numbers 27:1"
+      ],
+      "text": "27:3-4 Zelophehad had not been part of Korah’s rebellion (16:1-50); if he had been, his property rights would apparently have been voided (see 15:30; cp. 1 Kgs 21:7-16). Israelite society was patriarchal and patrilineal, tracing ancestry and property through the male line. Zelophehad had no sons, but his daughters wanted his family property rights to continue. Zelophehad’s daughters thus made a reasonable appeal for property rights equal to those of males."
+    },
+    {
+      "src": "TYN",
+      "ref": "Joshua 17:1",
+      "note_ref": "TYN/6/17/1",
+      "cites": [
+        "Joshua 17:3"
+      ],
+      "text": "17:1 See 13:29-33 and study note."
+    },
+    {
+      "src": "TYN",
+      "ref": "Joshua 17:3",
+      "note_ref": "TYN/6/17/3",
+      "cites": [
+        "Joshua 17:3"
+      ],
+      "text": "17:3-6 In ancient Israel, inheritance usually passed from a father to his sons. Without sons, a man’s name could pass into oblivion. However, Zelophehad’s daughters had petitioned Moses, Moses had inquired of God, and God had ruled that they should inherit their father’s portion (see Num 27:1-11). God’s ruling established a general principle, declaring that no family would be excluded from a portion of God’s material blessings."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 7:12",
+      "note_ref": "TYN/13/7/12",
+      "cites": [
+        "1 Chronicles 7:14-15"
+      ],
+      "text": "7:12 The Hebrew text of this verse appears to have been disrupted (something was apparently lost during scribal copying) because no introduction is given for either Ir or Hushim. The names Shuppim and Huppim have parallels in the tribe of Benjamin (8:8, 11; Gen 46:21; Num 26:39). If the Hebrew text was in fact damaged, Hushim might be a descendant of Dan (cp. Gen 46:23; Num 26:42)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 7:13",
+      "note_ref": "TYN/13/7/13",
+      "cites": [
+        "1 Chronicles 7:14-15"
+      ],
+      "text": "7:13 In contrast with other genealogies, this abrupt listing of the sons of Naphtali includes only the first generation (cp. Gen 46:24; Num 26:48-50). The manuscript of Chronicles might have suffered damage at an early stage of scribal copying, which could also account for the omission of Dan and Zebulun. It is also possible that the records for Zebulun, Dan, and Naphtali were lost when Tiglath-pileser attacked and exiled these tribes during Pekah’s reign (2 Kgs 15:29); in that case, the Chronicler had no records available to include."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 7:14",
+      "note_ref": "TYN/13/7/14",
+      "cites": [
+        "1 Chronicles 7:14-15"
+      ],
+      "text": "7:14-19 Several difficulties in these verses might indicate that the Hebrew text was damaged: (1) Maacah is listed as the sister of Makir as well as his wife (7:15-16). (2) Huppim and Shuppim were listed earlier with Benjamin (7:12), not Manasseh. (3) Those considered Gileadites (7:16-17) are rather ambiguously linked to Gilead, whose direct descendants are not listed (cp. Num 26:30-33). (4) The sons of Shemida are not connected to the genealogy (1 Chr 7:19); Shemida was one of Gilead’s descendants (Num 26:32)."
+    },
+    {
+      "src": "GNV",
+      "ref": "Numbers 27:3",
+      "note_ref": "GNV/4/27/3",
+      "cites": [
+        "Numbers 27:1"
+      ],
+      "text": "According as all men die, for as much as they are sinners."
+    },
+    {
+      "src": "GNV",
+      "ref": "Joshua 17:2",
+      "note_ref": "GNV/6/17/2",
+      "cites": [
+        "Joshua 17:3"
+      ],
+      "text": "For the other half tribe had their portion beyond Jordan."
+    },
+    {
+      "src": "GNV",
+      "ref": "Joshua 17:4",
+      "note_ref": "GNV/6/17/4",
+      "cites": [
+        "Joshua 17:3"
+      ],
+      "text": "Among them of our tribe."
+    },
+    {
+      "src": "GNV",
+      "ref": "Joshua 17:5",
+      "note_ref": "GNV/6/17/5",
+      "cites": [
+        "Joshua 17:3"
+      ],
+      "text": "In the land of Canaan: five to the males: and other five to the daughters of Zelophehad."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 7:12",
+      "note_ref": "GNV/13/7/12",
+      "cites": [
+        "1 Chronicles 7:14-15"
+      ],
+      "text": "Or, of Aher.\nOr, Iri.\nMeaning, that he was not the son of Benjamin but of Dan, Gen. 46:23."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 7:13",
+      "note_ref": "GNV/13/7/13",
+      "cites": [
+        "1 Chronicles 7:14-15"
+      ],
+      "text": "Or Shillem, Gen. 46:24.\nThese came of Dan, and Naphtali, which were the sons of Bilhah, Gen. 46:23, 24, 25."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 7:16",
+      "note_ref": "GNV/13/7/16",
+      "cites": [
+        "1 Chronicles 7:14-15"
+      ],
+      "text": "Or, Jeezer, Num. 26:30."
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 255,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The leading harmonization splits the transaction in two — the fifty silver shekels bought only the floor and oxen, the six hundred gold shekels the whole site bought afterward.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "filled",
+      "connective": "Even the harmonizing Keil & Delitzsch concede the figures cannot both stand — and credit the source-critic Otto Thenius with pressing the Chronicles number as exaggerated.",
+      "skeptic": {
+        "name": "Otto Thenius",
+        "work": "Die Bücher Samuels (Kurzgefasstes exegetisches Handbuch zum Alten Testament)",
+        "year": "1842",
+        "attribution": "Otto Thenius (d. 1876), Die Bücher Samuels (1842)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Chronicles 21:25",
+      "excerpt_text": "At first he bought only the cattle and the threshing instruments, for which he paid fifty shekels of silver (Sa2 24:24); afterwards he purchased the whole property, Mount Moriah, on which the future temple stood.",
+      "full_note_ref": "JFB/13/21/25",
+      "on_tension_rationale": "States the two-purchase harmonization that reconciles 50 silver with 600 gold, naming both amounts and both passages. Strongest single both-true reconcile; parity-capped to one on this discrepancy_first row.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "discrepancy",
+      "source_code": "KD",
+      "verse_ref": "2 Samuel 24:19",
+      "excerpt_text": "This difference cannot be reconciled by assuming that David paid his fifty shekels in gold coin, which would have been worth as much as six hundred shekels of silver, since gold was worth twelve times as much as silver. … No other course is left, therefore, than to assume that the number must be corrupt in one of the texts.",
+      "full_note_ref": "KD/10/24/19",
+      "on_tension_rationale": "Rare verbatim discrepancy concession from a gathered harmonizing note: K&D reject the gold-coin harmonization outright and conclude one text's number is corrupt — i.e. the two figures cannot both stand. Two non-adjacent verbatim sentences, sense-preserving ellipsis join, both end on real source periods. Block-anchored note (anchor: true).",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 1 Chronicles 21:25",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats this exact pair under the two-purchase harmonization (fifty silver for the floor and oxen, six hundred gold afterward for the whole site, Mount Moriah). Row-surfaced harmonizer used because Haley's coverage of this specific price-pair could not be confirmed."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/2_Samuel_24.24.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in 2 Samuel 24:24?",
+        "note": "Live, on-topic; cites both 2 Samuel 24:24 (fifty silver) and 1 Chronicles 21:25 (six hundred gold) and harmonizes via the two-purchase / larger-property reading."
+      }
+    }
+  }
+}

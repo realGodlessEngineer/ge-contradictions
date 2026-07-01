@@ -1,0 +1,75 @@
+{
+  "contradiction_id": 470,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "These expositors treat the four reports as naming one and the same placard, lining up the evangelists' varying terms and citing the fullest Johannine form.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Thomas Paine pressed the four wordings as proof the evangelists disagreed and so could not have been eyewitnesses to the scene.",
+      "skeptic": {
+        "name": "Thomas Paine",
+        "work": "The Age of Reason, Part II",
+        "year": "1795",
+        "attribution": "Thomas Paine (d. 1809), The Age of Reason, Part II (1795)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 470,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Matthew 27:36",
+      "excerpt_text": "The Evangelist John calls it a “title”, Joh 19:19, and Luke, a “superscription”, Luk 23:38, and Mark, the “superscription of his accusation”, Mar 15:26, it was what contained the sum and substance of what he was accused, and for which he was condemned, and suffered.",
+      "full_note_ref": "GILL/40/27/36",
+      "license_code": "PD",
+      "on_tension_rationale": "Gill harmonizes the four evangelists' differing labels for the placard by treating them as one inscription holding the same 'sum and substance' of the accusation, dissolving the wording difference.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 470,
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "verse_ref": "John 19:19",
+      "excerpt_text": "Matthew called it, aitia - the accusation; Mark and Luke called it epigraphē - the inscription; John calls it by the proper Latin name, titlos - the title: and it was this, Jesus of Nazareth, the King of the Jews,",
+      "full_note_ref": "MHC/43/19/19",
+      "license_code": "PD",
+      "on_tension_rationale": "Henry lines up the evangelists' varying terms for the same placard and gives the fullest Johannine form, treating the divergent reports as one title rather than conflicting wordings.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats the titulus among the gospel discrepancies, holding that the four evangelists give the inscription in varying terms and degrees of fullness while preserving one common charge."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Matthew_27.37_(cf._Mark_15.26;_Luke_23.38;_John_19.19).php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Why are all the Gospel accounts of the inscription on the cross different?",
+        "note": "Live apologetic treatment of this exact passage; argues the multilingual sign and partial-but-complementary quotations account for the four wordings."
+      }
+    }
+  }
+}

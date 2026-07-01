@@ -1,0 +1,939 @@
+{
+  "contradiction_id": 155,
+  "question": "How old did a Levite have to be to be counted?",
+  "summary": "Numbers 4:3 sets the age of Levitical service at thirty to fifty years old. Numbers 8:24 lowers it to twenty-five. Ezra 3:8, 1 Chronicles 23:24, 23:27, and 2 Chronicles 31:17 lower it again to twenty.",
+  "consensus": "probable_contradiction",
+  "consensus_id": 2,
+  "category": "Numbers & Measurements",
+  "contradiction_type": "numerical",
+  "testament_scope": "OT_internal",
+  "books_in_tension": "Numbers, 1 Chronicles, 2 Chronicles, Ezra",
+  "refs_raw": [
+    "Ezra 3:8",
+    "1 Chronicles 23:24",
+    "1 Chronicles 23:27",
+    "2 Chronicles 31:17",
+    "Numbers 8:24",
+    "Numbers 4:3",
+    "1 Chronicles 23:3"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Ezra 3:8",
+      "book": "Ezra",
+      "bolls": 15,
+      "ranges": [
+        [
+          3,
+          8,
+          8
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 23:24",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          23,
+          24,
+          24
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 23:27",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          23,
+          27,
+          27
+        ]
+      ]
+    },
+    {
+      "raw": "2 Chronicles 31:17",
+      "book": "2 Chronicles",
+      "bolls": 14,
+      "ranges": [
+        [
+          31,
+          17,
+          17
+        ]
+      ]
+    },
+    {
+      "raw": "Numbers 8:24",
+      "book": "Numbers",
+      "bolls": 4,
+      "ranges": [
+        [
+          8,
+          24,
+          24
+        ]
+      ]
+    },
+    {
+      "raw": "Numbers 4:3",
+      "book": "Numbers",
+      "bolls": 4,
+      "ranges": [
+        [
+          4,
+          3,
+          3
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 23:3",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          23,
+          3,
+          3
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 84,
+  "notes_raw_count": 110,
+  "notes_dropped": 26,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Numbers 4:1",
+      "note_ref": "GILL/4/4/1",
+      "cites": [
+        "Numbers 4:3"
+      ],
+      "text": "And the Lord spake unto Moses, and unto Aaron,.... After they had taken the number of the Levites, and made an exchange of the firstborn of Israel for them; and now they are ordered to number them a second time, and take out from them such as were fit for service:\nsaying; as follows."
+    },
+    {
+      "src": "GILL",
+      "ref": "Numbers 4:2",
+      "note_ref": "GILL/4/4/2",
+      "cites": [
+        "Numbers 4:3"
+      ],
+      "text": "Take the sum of the sons of Kohath from among the sons of Levi,.... They were to begin with them first, and number them:\nafter their families, by the house of their fathers; as many as were of the age after mentioned; and the reason why they began with Kohath, and not Gershon, the eldest son, as in the former numbering, was; not as Aben Ezra suggests, because of Moses and Aaron, who sprung from him, for that, if it had any strength in it, would have held good before; but rather, as Chaskuni and others, because the Kohathites carried the ark and other holy things; though the true reason seems to be, because of the order observed in taking down the tabernacle, and removing the parts of it, and the things in it; and it was most proper and reasonable, when they were about to take it down, first to take out the ark, table, &c. which was the business of the Kohathites to carry; next to take down the curtains, coverings, and hangings for the tabernacle and court, and the doors thereof, which were the charge of the Merarites; wherefore, in this order the sum out of each of them fit for business were ordered to be numbered."
+    },
+    {
+      "src": "GILL",
+      "ref": "Numbers 4:3",
+      "note_ref": "GILL/4/4/3",
+      "cites": [
+        "Numbers 4:3"
+      ],
+      "text": "From thirty years old and upward even until fifty years old,.... This is the full time of the Levites service, and the prime season of man's life for business; at thirty years of age he is at his full strength, and when fifty it begins to decline: it is said in the Misnah (x),\"a son of thirty years for strength,''upon which one of the commentators (y) makes this remark, that the Levites set up the tabernacle and took it down, and loaded the wagons, and carried on their shoulders from thirty years and upwards: thus both John the Baptist, the forerunner of Christ, and Christ himself, entered into their ministry at this age:\nall that enter into the host; army or warfare; for though the Levites were exempted from going forth to war, yet their service was a sort of warfare; they were a camp of themselves about the tabernacle, and part of their work was to watch and guard it, that it was neither defiled nor robbed; in allusion to this, the ministry of the word is called a warfare, and ministers of the Gospel good soldiers of Christ, and their doctrines weapons of warfare, Ti1 1:18; some interpret this of the troop, company, or congregation of the Levites, which a man of thirty years of age was admitted into for business:\nto do the work in the tabernacle of the congregation; not in the sanctuary, either in the holy place or in the most holy place, where they were never allowed to enter, or do any business in, such as sacrificing, burning incense, &c. but in that part of it which was called \"the tabernacle of the congregation\", or where the people assembled on occasion, and that was the court, which was so called, as Jarchi observes on Exo 29:32.\n(x) Pirke Abot, c. 5. sect. 21. (y) Bartenora in Pirke Abot, c. 5. sect. 21."
+    },
+    {
+      "src": "GILL",
+      "ref": "Numbers 4:4",
+      "note_ref": "GILL/4/4/4",
+      "cites": [
+        "Numbers 4:3"
+      ],
+      "text": "This shall be the service of the sons of Kohath, in the tabernacle of the congregation,.... What follows, Num 4:4,\nabout the most holy things; which Aben Ezra interprets only of the ark, which was indeed a most holy thing, and stood in the most holy place; but there were other holy things, in the care of which the service of the Kohathites lay; as the shewbread table, the candlestick, and the altars of incense and burnt offering, and the vail, and the ministering: vessels, which Jarchi reckons with it, as more holy than all other things."
+    },
+    {
+      "src": "GILL",
+      "ref": "Numbers 8:22",
+      "note_ref": "GILL/4/8/22",
+      "cites": [
+        "Numbers 8:24"
+      ],
+      "text": "And the Lord spake unto Moses,.... At the same time he gave the instructions about the consecration of the Levites, the time of their entrance on their service, and of leaving it, was fixed:\nsaying; as follows."
+    },
+    {
+      "src": "GILL",
+      "ref": "Numbers 8:23",
+      "note_ref": "GILL/4/8/23",
+      "cites": [
+        "Numbers 8:24"
+      ],
+      "text": "This is it that belongeth unto the Levites,.... The fixed and settled time for their service, as is after related:\nfrom twenty and five years old and upward, they shall go in to wait upon the service of the tabernacle of the congregation; in Num 4:3; the time for the Levites entering on the work of the tabernacle is fixed to thirty years and upward, which Jarchi reconciles thus; at twenty five years old the Levite goes in to learn the rites of service, and he learns five years, and when thirty years of age he services; the same is observed by others (w); but what Aben Ezra proposes seems much better; at thirty years of age a Levite entered into the service of bearing and carrying burdens; and at twenty five years of age he entered into the service of the tent or tabernacle, where he was employed in lighter service, such as opening and shutting the doors of the sanctuary, keeping out strangers and unclean persons, and singing the songs of the sanctuary; but was not concerned till thirty years of age in carrying the vessels of the sanctuary on the shoulders, as the Kohathites; or in taking down and setting up the tabernacle, loading and unloading the wagons, as the Gershonites and Merarites; which is the business assigned unto them, and spoken of in Num 4:22, where the age of thirty years, and upward, is mentioned, as the time of their entrance on it, Num 4:23.\n(w) Ben Gersom in loc. Bartenora in Pirke Abot, c. 5. sect. 21."
+    },
+    {
+      "src": "GILL",
+      "ref": "Numbers 8:24",
+      "note_ref": "GILL/4/8/24",
+      "cites": [
+        "Numbers 8:24"
+      ],
+      "text": "And from the age of fifty years they shall cease waiting upon the service thereof,.... The heavy service of it:\nand shall serve no more; by bearing and carrying the vessels of the sanctuary upon their shoulders, as Jarchi interprets it; this, according to the Jewish writers, was only in force while the tabernacle was in the wilderness, and was moved from place to place: but when it had a fixed habitation, and that laborious service of bearing and carrying the vessels of it ceased, years made no difference in the Levites, or disqualified them for service; for it is said (x), that the Levites were not bound by this law, but in the time of the tabernacle; but when it was at Shiloh, and at Jerusalem, where there was no bearing and carrying upon the shoulder, the Levites were not rejected on account of years, only for their voice, when they had lost that, and could not sing.\n(x) Maimon. & Bartenora in Misn. Cholin, c. 1. sect. 6."
+    },
+    {
+      "src": "GILL",
+      "ref": "Numbers 8:25",
+      "note_ref": "GILL/4/8/25",
+      "cites": [
+        "Numbers 8:24"
+      ],
+      "text": "But shall minister with their brethren in the tabernacle of the congregation,.... By giving advice, instructing younger Levites, and doing lighter service. Jarchi says, they shall return to shutting of doors, singing and loading wagons; but the last especially seems too burdensome: the ministry of such is explained by the next clause:\nto keep the charge; of the tabernacle, to watch and observe that no stranger or unclean person enter into it; and this they were capable of when at the age of fifty, and upwards:\nand shall do no service; heavy and laborious:\nthus thou shall do unto the Levites touching their charge; dismiss them from service when at such an age, or however make their service easier; for this respects ancient men, as Aben Ezra notes; though it may include both their entrance on their work, and their cessation from it.\nNext: Numbers Chapter 9"
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 23:2",
+      "note_ref": "GILL/13/23/2",
+      "cites": [
+        "1 Chronicles 23:3"
+      ],
+      "text": "And he gathered together all the princes of Israel,.... Ordered them to be assembled, partly to acquaint them with his will and pleasure, that Solomon should succeed him in the kingdom; and partly to settle the order of the work and service of the temple; and therefore these were convened\nwith the priests and Levites; to assign to them their respective places and offices."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 23:3",
+      "note_ref": "GILL/13/23/3",
+      "cites": [
+        "1 Chronicles 23:3"
+      ],
+      "text": "Now the Levites were numbered from the age of thirty years, and upward,.... So they were numbered in the days of Moses, and by his order, and so they were now at first; though afterwards there was a new reckoning of them, Ch1 23:24.\nand their number by their posts; or, according to their heads:\nman by man, was thirty and eight thousand; which vastly exceeds the number in the times of Moses; see Num 4:47, but then those above fifty years of age were not numbered, as they now might; since their work in the temple would be much more easy, no burdens to carry, as the ark, the vessels, &c."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 23:24",
+      "note_ref": "GILL/13/23/24",
+      "cites": [
+        "1 Chronicles 23:24"
+      ],
+      "text": "And also unto the Levites,.... Or with respect to them:\nthey shall no more carry the tabernacle: on their shoulders, from place to place, as they had done:\nnor any vessels of it for the service thereof; and so the service of it did not require men at their full strength, but such as were but twenty years of age might be employed in it."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 23:27",
+      "note_ref": "GILL/13/23/27",
+      "cites": [
+        "1 Chronicles 23:27"
+      ],
+      "text": "Both for the shewbread,.... Also to make and get that ready every week for the priests to set on the shewbread table, when they took off the other that had stood a week, see Ch1 9:32.\nand for the fine flour for meat offering, and for the unleavened cakes, and for that which is baked in the pan, and for that which is fried; to deliver out the flour of which these several things were made, see Ch1 9:31, and Lev 2:1,\nand for all manner of measures and size; as the hin and the ephah, and the several parts of them for things both liquid and dry, which were in their keeping, and according to which they gave out the proper quantity of oil, and wine, and fine flour, upon occasion."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Chronicles 31:15",
+      "note_ref": "GILL/14/31/15",
+      "cites": [
+        "2 Chronicles 31:17"
+      ],
+      "text": "Beside their genealogy of males, from three years old and upwards,.... Their office was not only to give to the priests, but to those of their males in their genealogy, who were three years old and upwards; for under that age, according to Kimchi, they were not fit to come into the temple; nor have they knowledge to keep what is put into their hands; nor fit to handle offerings, lest they should defile them; but at that age they might be taught how to hold them, and be used to it; but as for females, he says, they were not admitted at any age:\neven unto everyone that entereth into the house of the Lord; of the said age, and in the genealogy and register of the priests:\nhis daily portion for their service in their charges, according to their courses; food for every day, in consideration of their service in their several wards, according to their courses in turn."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Chronicles 31:16",
+      "note_ref": "GILL/14/31/16",
+      "cites": [
+        "2 Chronicles 31:17"
+      ],
+      "text": "Both to the genealogy of the priests by the house of their fathers,.... As to the priests registered according to their families from the age before observed, a portion was given: so to the Levites:\nfrom twenty years old and upward, in their charges, by their courses; for though originally they were not admitted into the tabernacle till twenty five years of age, nor to officiate till thirty, but in David's time they were allowed at twenty years of age and upwards, Ch1 23:24."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Chronicles 31:17",
+      "note_ref": "GILL/14/31/17",
+      "cites": [
+        "2 Chronicles 31:17"
+      ],
+      "text": "And to the genealogy of all their little ones, their wives, and their sons, and their daughters, through all the congregation,.... These were all genealogized and registered, wives and children, sons and daughters, whether small or grown up; and a portion was distributed to them according to their number, greater or lesser:\nfor in their set office they sanctified themselves in holiness; which is to be understood either of the overseers, who, in their set office, faithfully distributed the holy things to the persons before described; or else to the priests, and Levites, to whom, and to whose families, the distribution was made, because they wholly devoted themselves to the holy service of God."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Chronicles 31:18",
+      "note_ref": "GILL/14/31/18",
+      "cites": [
+        "2 Chronicles 31:17"
+      ],
+      "text": "Also of the sons of Aaron the priests, which were in the fields of the suburbs of their cities, in every several city,.... Which were allowed to them out of the several tribes, and where they dwelt, when it was not the turn of their course to officiate in the temple; now to these, as well as to those in Jerusalem, a portion was distributed for the support of them and their families:\nthe men that were expressed by name; before mentioned, Ch2 31:13, though some understand it of such as were nominated and appointed by them, and to act under them in the country:\nto give portions to all the males among the priests, and to all that were reckoned by genealogies among the Levites: as before declared."
+    },
+    {
+      "src": "GILL",
+      "ref": "Ezra 3:6",
+      "note_ref": "GILL/15/3/6",
+      "cites": [
+        "Ezra 3:8"
+      ],
+      "text": "From the first of the seventh month began they to offer burnt offerings unto the Lord,.... And which day was not only a new moon, but a grand festival, the feast of blowing of trumpets, Lev 23:24, and no doubt but they observed the tenth day of this month, with all the rites of it, which was the day of atonement, Lev 23:27,\nbut the foundation of the temple of the Lord was not yet laid; they began first with sacrifices, that having thereby given thanks to God for their return to their own land, and for all the benefits they enjoyed, and made atonement for their sins in a typical way, they might be the more prepared and fit for the work of building the temple; or, \"though the foundation\" of it was not laid (z), yet they offered the above sacrifices.\n(z) Etsi, Michaelis."
+    },
+    {
+      "src": "GILL",
+      "ref": "Ezra 3:7",
+      "note_ref": "GILL/15/3/7",
+      "cites": [
+        "Ezra 3:8"
+      ],
+      "text": "They gave money also to the masons, and to the carpenters,.... To buy stone and timber with for the building of the temple:\nand meat and drink and oil unto them of Zidon, and to them of Tyre; which were more agreeable to them than money, because there was not plenty of such things in their country, as in the land of Israel:\nto bring cedar trees from Lebanon to the sea of Joppa; as they did at the first building of the temple by Solomon; they cut down cedars at Lebanon, which belonged to them, and sent them by sea to Joppa, the nearest seaport to Jerusalem, about forty miles from it: see Ch2 2:16,\naccording to the grant that they had of Cyrus king of Persia; for Tyre and Zidon being under his dominion as well as Judea, he not only gave leave to the Jews to get cedar wood from Lebanon, but gave orders to the Zidonians and Tyrians to furnish them with it, paying a valuable consideration for it; and so some (a) render the word, \"according to the commandment of Cyrus\".\n(a) \"juxta praeceptum\", Vatablus; \"juxta quod praeceperat\", V. L. So Ben Melech."
+    },
+    {
+      "src": "GILL",
+      "ref": "Ezra 3:8",
+      "note_ref": "GILL/15/3/8",
+      "cites": [
+        "Ezra 3:8"
+      ],
+      "text": "Now in the second year of their coming unto the house of God at Jerusalem,.... The place where it formerly stood; the Jews seem to have set out from Babylon, in the spring of the preceding year, as it was now of this; which to Jerusalem was a journey of about four months, as Ezra performed it, Ezr 7:9, but might take up longer time for such a body of people to do it in, being larger than that with him; wherefore, after they had visited their respective cities, and settled their affairs there, they came to Jerusalem on the seventh month, or September, and kept the feast of tabernacles, and then they returned to their cities again, the winter season being an improper time to begin the building of the temple; having given money to workmen to purchase materials with, and no doubt left a sufficient number to clear away the rubbish, and get things ready by the returning spring to set about the work:\nin the second month; the mouth Ijar, as Jarchi observes, answering to part of April and May, having, as may be supposed, kept the passover the month before:\nbegan Zerubbabel the son of Shealtiel, and Jeshua the son of Jozadak: the prince, and the high priest:\nand the remnant of their brethren, the priests and Levites, and all they that were come out of the captivity unto Jerusalem; whose names and numbers are given in the preceding chapter:\nand appointed the Levites from twenty years old and upwards to set forward the work of the house of the Lord; to put men to work upon it, and direct them what to do, and urge them to attend closely to it; ever since David's time the Levites were employed at twenty years of age, when before not till thirty, or twenty five; see Ch1 23:24."
+    },
+    {
+      "src": "GILL",
+      "ref": "Ezra 3:9",
+      "note_ref": "GILL/15/3/9",
+      "cites": [
+        "Ezra 3:8"
+      ],
+      "text": "Then stood Jeshua, with his sons,.... Not Jeshua the high priest before mentioned, but Jeshua the Levite, Ezr 2:40,\nand his brethren, Kadmiel and his sons, the sons of Judah, together; the same with Hodaviah, Ezr 2:40\nto set forward the workmen in the house of God; to give them orders to begin and lay the foundation, and hasten and animate them to it:\nthe sons of Henadad, with their sons and their brethren the Levites: two of this man's sons are mentioned in Neh 3:18."
+    },
+    {
+      "src": "JFB",
+      "ref": "Numbers 4:4",
+      "note_ref": "JFB/4/4/4",
+      "cites": [
+        "Numbers 4:3"
+      ],
+      "text": "This shall be the service of the sons of Kohath, &c.--They are mentioned first, from their close connection with Aaron; and the special department of duty assigned to them during the journeyings of Israel accorded with the charge they had received of the precious contents of the tabernacle. But these were to be previously covered by the common priests, who, as well as the high priest, were admitted on such necessary occasions into the holy place. This was an exception to the general rule, which prohibited the entrance of any but the high priest. But when the cloud removed from the tabernacle, the sanctuary might be entered by the common priests, as to them was reserved the exclusive privilege of packing the sacred utensils; and it was not till the holy things were thus ready for carriage, that the Kohathites were allowed to approach."
+    },
+    {
+      "src": "JFB",
+      "ref": "Numbers 4:5",
+      "note_ref": "JFB/4/4/5",
+      "cites": [
+        "Numbers 4:3"
+      ],
+      "text": "covering veil--the inner veil, which separated the holy from the most holy place. (See on Exo 36:35)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Numbers 8:24",
+      "note_ref": "JFB/4/8/24",
+      "cites": [
+        "Numbers 8:24"
+      ],
+      "text": "from twenty and five years old, &c.--(Compare Num 4:3). They entered on their work in their twenty-fifth year, as pupils and probationers, under the superintendence and direction of their senior brethren; and at thirty they were admitted to the full discharge of their official functions."
+    },
+    {
+      "src": "JFB",
+      "ref": "Numbers 8:25",
+      "note_ref": "JFB/4/8/25",
+      "cites": [
+        "Numbers 8:24"
+      ],
+      "text": "from the age of fifty years they shall cease waiting upon the service thereof, &c.--that is, on the laborious and exhausting parts of their work."
+    },
+    {
+      "src": "JFB",
+      "ref": "Numbers 8:26",
+      "note_ref": "JFB/4/8/26",
+      "cites": [
+        "Numbers 8:24"
+      ],
+      "text": "But shall minister with their brethren--in the performance of easier and higher duties, instructing and directing the young, or superintending important trusts. \"They also serve who only wait\" [MILTON].\nNext: Numbers Chapter 9"
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 23:2",
+      "note_ref": "JFB/13/23/2",
+      "cites": [
+        "1 Chronicles 23:3"
+      ],
+      "text": "NUMBER AND DISTRIBUTION OF THE LEVITES. (Ch1 23:2-6)\nhe gathered together all the princes of Israel--All important measures relating to the public interest were submitted for consideration to a general assembly of the representatives of the tribes (Ch1 13:1; Ch1 15:25; Ch1 22:17; 1Ch. 26:1-32)."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 23:3",
+      "note_ref": "JFB/13/23/3",
+      "cites": [
+        "1 Chronicles 23:3"
+      ],
+      "text": "the Levites were numbered . . . thirty and eight thousand--Four times their number at the early census taken by Moses (see on Num. 4:1-49; Num. 26:1-51). It was, in all likelihood, this vast increase that suggested and rendered expedient that classification, made in the last year of David's reign, which the present and three subsequent chapters describe.\nby their polls, man by man--Women and children were not included."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 23:4",
+      "note_ref": "JFB/13/23/4",
+      "cites": [
+        "1 Chronicles 23:3"
+      ],
+      "text": "twenty and four thousand were to set forward the work of the house of the Lord--They were not to preside over all the services of the temple. The Levites were subject to the priests, and they were superior to the Nethinim and other servants, who were not of the race of Levi. But they had certain departments of duty assigned, some of which are here specified."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 23:24",
+      "note_ref": "JFB/13/23/24",
+      "cites": [
+        "1 Chronicles 23:24",
+        "1 Chronicles 23:27"
+      ],
+      "text": "OFFICE OF THE LEVITES. (Ch1 23:24-32)\nThese were the sons of Levi . . . that did the work . . . from the age of twenty years and upward--The enumeration of the Levites was made by David (Ch1 23:3) on the same rule as that followed by Moses (Num 4:3), namely, from thirty years. But he saw afterwards that this rule might be beneficially relaxed, and that the enrolment of Levites for their proper duties might be made from twenty years of age. The ark and tabernacle being now stationary at Jerusalem, the labor of the Levites was greatly diminished, as they were no longer obliged to transport its heavy furniture from place to place. The number of thirty-eight thousand Levites, exclusive of priests, was doubtless more than sufficient for the ordinary service of the tabernacle. But this pious king thought that it would contribute to the glory of the Lord to employ as many officers in his divine service as possible. These first rules, however, which David instituted, were temporary, as very different arrangements were made after the ark had been deposited in the tabernacle of Zion.\nNext: 1 Chronicles Chapter 24"
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Chronicles 31:11",
+      "note_ref": "JFB/14/31/11",
+      "cites": [
+        "2 Chronicles 31:17"
+      ],
+      "text": "HEZEKIAH APPOINTS OFFICERS TO DISPOSE OF THE TITHES. (Ch2 31:11-19)\nHezekiah commanded to prepare chambers in the house of the Lord--storehouses, granaries, or cellars; either the old ones, which had been allowed through neglect to fall into decay, were to be repaired, or additional ones built. Private individuals brought their own first-fruits to the temple; but the tithes were levied by the Levites, who kept a faithful account of them in their several places of abode and transmitted the allotted proportion to the priests. Officers were appointed to distribute equal rations to all in the cities of the priests who, from age or other reasons, could not repair to the temple. With the exception of children under three years of age--an exception made probably from their being considered too young to receive solid food--lists were kept of the number and age of every male; of priests according to their fathers' house, and Levites from twenty years (see Num 4:3; Num 28:24; Ch1 23:24). But, besides, provision was also made for their wives, daughters, and servants.",
+      "anchor": true
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Chronicles 31:18",
+      "note_ref": "JFB/14/31/18",
+      "cites": [
+        "2 Chronicles 31:17"
+      ],
+      "text": "for in their set office they sanctified themselves--This is the reason assigned for providing for the wives and children out of the revenues of the sanctuary, that priests, withdrawing from those secular pursuits by which they might have maintained their households, devoted themselves entirely to the functions of the ministry."
+    },
+    {
+      "src": "JFB",
+      "ref": "Ezra 3:7",
+      "note_ref": "JFB/15/3/7",
+      "cites": [
+        "Ezra 3:8"
+      ],
+      "text": "They gave . . . meat . . . drink, and oil, unto them of Zidon--They opened negotiations with the Tyrians for workmen, as well as for timber, on the same terms and with the same views as Solomon had done (Kg1 5:11; Ch2 2:15-16)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Ezra 3:8",
+      "note_ref": "JFB/15/3/8",
+      "cites": [
+        "Ezra 3:8"
+      ],
+      "text": "THE FOUNDATION OF THE TEMPLE LAID. (Ezr 3:8-13)\nappointed the Levites . . . to set forward the work--that is, to act as overseers of the workmen, and to direct and animate the laborers in the various departments."
+    },
+    {
+      "src": "JFB",
+      "ref": "Ezra 3:9",
+      "note_ref": "JFB/15/3/9",
+      "cites": [
+        "Ezra 3:8"
+      ],
+      "text": "Jeshua with his sons--not the high priest, but a Levite (Ezr 2:40). To these, as probably distinguished for their mechanical skill and taste, the duty of acting as overseers was particularly committed."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 23:1",
+      "note_ref": "CLARKE/13/23/1",
+      "cites": [
+        "1 Chronicles 23:3"
+      ],
+      "text": "David was old and full of days - On the phrase full of days, see the note on Gen 25:8."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 23:3",
+      "note_ref": "CLARKE/13/23/3",
+      "cites": [
+        "1 Chronicles 23:3"
+      ],
+      "text": "Thirty years and upward - The enumeration of the Levites made in the desert, Num 4:3, was from thirty years upwards to fifty years. In this place, the latter limit is not mentioned, probably because the service was not so laborious now; for the ark being fixed they had no longer any heavy burdens to carry, and therefore even an old man might continue to serve the tabernacle. David made another ordinance afterwards; see on Ch1 23:24-27 (note)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 23:24",
+      "note_ref": "CLARKE/13/23/24",
+      "cites": [
+        "1 Chronicles 23:24",
+        "1 Chronicles 23:27"
+      ],
+      "text": "Twenty years and upward - It appears that this was a different ordinance from that mentioned Ch1 23:3. At first he appointed the Levites to serve from thirty years and upward; now from twenty years. These were David's last orders; see Ch1 23:27. They should begin at an earlier age, and continue later.\nThis was not a very painful task; the ark being now fixed, and the Levites very numerous, there could be no drudgery."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 23:28",
+      "note_ref": "CLARKE/13/23/28",
+      "cites": [
+        "1 Chronicles 23:27"
+      ],
+      "text": "Purifying of all holy things - Keeping all the vessels and utensils belonging to the sacred service clean and neat."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Chronicles 31:15",
+      "note_ref": "CLARKE/14/31/15",
+      "cites": [
+        "2 Chronicles 31:17"
+      ],
+      "text": "And Miniamin - Instead of מנימן, Miniamin, בנימן, Benjamin, is the reading of three of Kennicott's and De Rossi's MSS.; and this is the reading of the Vulgate, Syriac, Septuagint, and Arabic."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Chronicles 31:17",
+      "note_ref": "CLARKE/14/31/17",
+      "cites": [
+        "2 Chronicles 31:17"
+      ],
+      "text": "From twenty years old - Moses had ordered that the Levites should not begin their labor till they were thirty years of age; but David changed this order, and obliged them to begin at twenty."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Ezra 3:7",
+      "note_ref": "CLARKE/15/3/7",
+      "cites": [
+        "Ezra 3:8"
+      ],
+      "text": "They gave money also - They copied the conduct of Solomon while he was building his temple; see Kg1 5:11. He employed the Tyrians, gave them meat and drink, etc.; and this permission they now had from Cyrus."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Ezra 3:8",
+      "note_ref": "CLARKE/15/3/8",
+      "cites": [
+        "Ezra 3:8"
+      ],
+      "text": "In the second year - The previous time had been employed in clearing the ground, felling timber, hewing stones, and transporting them to the place, and making other necessary preparations for the commencement of the building."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Ezra 3:10",
+      "note_ref": "CLARKE/15/3/10",
+      "cites": [
+        "Ezra 3:8"
+      ],
+      "text": "After the ordinance of David - With psalms which he composed, acting in the manner which he directed."
+    },
+    {
+      "src": "KD",
+      "ref": "Numbers 4:2",
+      "note_ref": "KD/4/4/2",
+      "cites": [
+        "Numbers 4:3"
+      ],
+      "text": "Service of the Kohathites, and the number qualified for service. - Num 4:2, Num 4:3. \"Take the sum of the sons of Kohath from among the sons of Levi:\" i.e., by raising them out of the sum total of the Levites, by numbering them first and specially, viz., the men from 30 to 50 years of age, \"every one who comes to the service,\" i.e., who has to enter upon service \"to do work at the tabernacle.\" צבא (Angl. 'host') signifies military service, and is used here with special reference to the service of the Levites as the militia sacra of Jehovah."
+    },
+    {
+      "src": "KD",
+      "ref": "Numbers 4:4",
+      "note_ref": "KD/4/4/4",
+      "cites": [
+        "Numbers 4:3"
+      ],
+      "text": "The service of the Kohathites at the tabernacle is (relates to) \"the most holy\" (see at Exo 30:10). This term includes, as is afterwards explained, the most holy things in the tabernacle, viz., the ark of the covenant, the table of shew-bread, the candlestick, the altar of incense and altar of burnt-offering, together with all the other things belonging to these. When the camp was broken up, the priests were to roll them up in wrappers, and hand them over in this state to the Kohathites, for them to carry (Num 4:5-15). First of all (Num 4:5, Num 4:6), Aaron and his sons were to take down the curtain between the holy place and the most holy (see Exo 26:31), and to cover the ark of testimony with it (Exo 25:10). Over this they were to place a wrapper of sea-cow skin (tachash, see Exo 25:5), and over this again another covering of cloth made entirely of hyacinth-coloured purple (as in Exo 28:31). The sea-cow skin as to protect the inner curtain, which was covered over the ark, from storm and rain; the hyacinth purple, to distinguish the ark of the covenant as the throne of the glory of Jehovah. Lastly, they were to place the staves into the rings again, that is to say, the bearing poles, which were always left in their places on the ark (Exo 25:15), but had necessarily to be taken out while it was being covered and wrapped up."
+    },
+    {
+      "src": "KD",
+      "ref": "Numbers 8:23",
+      "note_ref": "KD/4/8/23",
+      "cites": [
+        "Numbers 8:24"
+      ],
+      "text": "The Levitical period of service is fixed here at twenty-five years of age and upwards to the fiftieth year. \"This is what concerns the Levites,\" i.e., what follows applies to the Levites. \"From the age of twenty-five years shall he (the Levite) come to do service at the work of the tabernacle; and at fifty years of age shall he return from the service of the work, and not work any further, but only serve his brethren at the tabernacle in keeping charge,\" i.e., help them to look after the furniture of the tabernacle. \"Charge\" (mishmereth), as distinguished from \"work,\" signified the oversight of all the furniture of the tabernacle (see Num 3:8); \"work\" (service) applied to laborious service, e.g., the taking down and setting up of the tabernacle and cleaning it, carrying wood and water for the sacrificial worship, slaying the animals for the daily and festal sacrifices of the congregation, etc.\nNum 8:26\n\"So shalt thou do to the Levites (i.e., proceed with them) in their services.\" משׁמרת from משׁמרת, attendance upon an official post. Both the heading and final clause, by which this law relating to the Levites' period of service is bounded, and its position immediately after the induction of the Levites into their office, show unmistakeably that this law was binding for all time, and was intended to apply to the standing service of the Levites at the sanctuary; and consequently that it was not at variance with the instructions in ch. 4, to muster the Levites between thirty and fifty years of age, and organize them for the transport of the tabernacle on the journey through the wilderness (Num 4:3-49). The transport of the tabernacle required the strength of a full-grown man, and therefore the more advanced age of thirty years; whereas the duties connected with the tabernacle when standing were of a lighter description, and could easily be performed from the twenty-fifth year (see Hengstenberg's Dissertations, vol. ii. pp. 321ff.). At a later period, when the sanctuary was permanently established on Mount Zion, David employed the Levites from their twentieth year (Ch1 23:24-25), and expressly stated that he did so because the Levites had no longer to carry the dwelling and its furniture; and this regulation continued in force from that time forward (cf. Ch2 31:17; Ezr 3:8). But if the supposed discrepancy between the verses before us and Num 4:3, Num 4:47, is removed by this distinction, which is gathered in the most simple manner from the context, there is no ground whatever for critics to deny that the regulation before us could have proceeded from the pen of the Elohist."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 23:2",
+      "note_ref": "KD/13/23/2",
+      "cites": [
+        "1 Chronicles 23:3"
+      ],
+      "text": "And he gathered together all the princes of Israel,.... Ordered them to be assembled, partly to acquaint them with his will and pleasure, that Solomon should succeed him in the kingdom; and partly to settle the order of the work and service of the temple; and therefore these were convened\nwith the priests and Levites; to assign to them their respective places and offices."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 23:3",
+      "note_ref": "KD/13/23/3",
+      "cites": [
+        "1 Chronicles 23:3"
+      ],
+      "text": "Now the Levites were numbered from the age of thirty years, and upward,.... So they were numbered in the days of Moses, and by his order, and so they were now at first; though afterwards there was a new reckoning of them, Ch1 23:24.\nand their number by their posts; or, according to their heads:\nman by man, was thirty and eight thousand; which vastly exceeds the number in the times of Moses; see Num 4:47, but then those above fifty years of age were not numbered, as they now might; since their work in the temple would be much more easy, no burdens to carry, as the ark, the vessels, &c."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 23:24",
+      "note_ref": "KD/13/23/24",
+      "cites": [
+        "1 Chronicles 23:24"
+      ],
+      "text": "And also unto the Levites,.... Or with respect to them:\nthey shall no more carry the tabernacle: on their shoulders, from place to place, as they had done:\nnor any vessels of it for the service thereof; and so the service of it did not require men at their full strength, but such as were but twenty years of age might be employed in it."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 23:27",
+      "note_ref": "KD/13/23/27",
+      "cites": [
+        "1 Chronicles 23:27"
+      ],
+      "text": "Both for the shewbread,.... Also to make and get that ready every week for the priests to set on the shewbread table, when they took off the other that had stood a week, see Ch1 9:32.\nand for the fine flour for meat offering, and for the unleavened cakes, and for that which is baked in the pan, and for that which is fried; to deliver out the flour of which these several things were made, see Ch1 9:31, and Lev 2:1,\nand for all manner of measures and size; as the hin and the ephah, and the several parts of them for things both liquid and dry, which were in their keeping, and according to which they gave out the proper quantity of oil, and wine, and fine flour, upon occasion."
+    },
+    {
+      "src": "KD",
+      "ref": "2 Chronicles 31:2",
+      "note_ref": "KD/14/31/2",
+      "cites": [
+        "2 Chronicles 31:17"
+      ],
+      "text": "Restoration of order in the public worship, and of the temple revenues and those of the priests. - Ch2 31:2. Hezekiah appointed the courses of the priests and Levites according to their courses, each according to the measure of his service (cf. Num 7:5, Num 7:7), viz., the priests and Levites (ולל לכה are subordinated to אישׁ in apposition by ל), for burnt-offerings and thank-offerings, to serve (to wait upon the worship), and to praise and thank (by song and instrumental music) in the gates of the camp of Jahve, i.e., in the temple and court of the priests; see on Ch1 9:18.\nCh2 31:3\nAnd the portion of the king from his possession was for the burnt-offerings, etc.; that is, the material for the burnt-offerings which are commanded in Num 28 and 29 the king gave from his possessions, which are enumerated in Ch2 32:27-29.\nCh2 31:4-8\nThe priests and Levites received their maintenance from the first-fruits (Exo 23:19; Num 18:12; Deu 26:2) and the tithes, which the people had to pay from the produce of their cattle-breeding and their agriculture (Lev 27:30-33, cf. with Num 18:21-24). Hezekiah commanded the people, viz., the inhabitants of Jerusalem, to give this portion to the Levites and priests, that they might hold themselves firmly to the law of Jahve, i.e., might devote themselves to the duties laid upon them by the law, the attendance upon the worship, without being compelled to labour for their subsistence; cf. Neh 13:10.\nCh2 31:5-6\nWhen the word (the royal command) went forth (spread abroad), the Israelites brought in abundance the first-fruits which had been assigned to the priests (Ch2 18:12.), and the tithes, which were paid to the whole tribe of Levi (Num 18:21-24). ישׂראל בּני, Ch2 31:6, are not the inhabitants of the northern kingdom, but the Israelites who had emigrated from that kingdom into Judah (as Ch2 30:25; Ch2 11:16; Ch2 10:17). קדשׁים מעשׂר, the tenth from the holy gifts which were consecrated to Jahve, is surprising, since in the law, Num 18:8., it is not the tenth of the consecrated gifts which is spoken of, but only הקּדשׁים תרוּמות (Num 18:19). Proceeding upon the assumption that all קדשׁים which were consecrated to Jahve were given over to the tribe of Levi, Bertheau finds no correspondence between the law and the statement of our verse, that the tenth of the holy things was given, and points out that the lxx seem to have read והקּשׁים ועז instead of קדשׁים m`sr, without, however, himself deciding in favour of that reading. But the lxx have rendered the words hmqdsym קדשׁים קדשׁים by ἐπιδέκατα αἰγῶν, καὶ ἡγίασαν, and consequently cannot have read ועז for מעשׂר, since in their translation epide'kata corresponds to m`sr. But the deviation of the statement in our verse from the law, Num 18, arises partly from an incorrect or inexact interpretation of the provisions of the law, Num 18:8. In the law, קדשׁים as such were not assigned to the tribe of Levi, or more correctly to the priests (Aaron and his sons), but only the לכל־קדשׁים תּרוּמות, the heave-offerings of all the holy gifts of the sons of Israel, i.e., the pieces or parts of the sacrificial gifts of the Israelites which were not burnt upon the altar, consequently the greater part of the meal, and oil, and flesh of the oblations, the sin-offerings, the trespass-offerings, and of the peace-offerings, the wave-breast and wave-thigh, and whatever else was waved in wave-offerings; see on Num 18:8. These Therumoth of the consecrated gifts are in our verse designated קדשׁים מעשׂר, because they were only a fragment of that which was consecrated to the Lord, just as the tenth was a fragment of the whole herd, and of the field produce. The statement of our verse, therefore, differs only in expression from the prescription of the law, but in substance it completely agrees with it. ער ערמות ויּתּנוּ, and they made many heaps, i.e., they brought the first-fruits and tithes in heaps.\nCh2 31:7\nIn the third month, consequently immediately at the end of the grain harvest, they commenced to found the heaps (to lay the foundation of the heaps); and in the seventh month, i.e., at the end of the fruit and wine harvest, they completed them (the heaps). In the third month fell pentecost, or the harvest feast; in the seventh, the feast of tabernacles, after the gathering in of all the fruits. ליסּוד has Daghesh in ס, because this verb in the imperf. assimilates its י like נ to the second radical, and the infinitive is formed after the imperf.; cf. Ew. 245, a.\nCh2 31:8-10\nWhen Hezekiah and the priests saw these heaps, they praised the Lord and His people Israel.\nThe employment and storing of these gifts, Ch2 31:9-19. - Ch2 31:9. Hezekiah questioned (ידרשׁ) the priests and Levites concerning the heaps, i.e., not as to whether they were sufficient for the support of the priests and Levites, but as to how it happened that such masses had been heaped up. Thereupon Azariah the high priest (hardly the Azariah mentioned Ch2 26:17, who forty years before tried to prevent Uzziah from pressing into the holy place), of the house of Zadok, answered him: Since they began to bring (לביא for להביא) the heave-offerings into the house of the Lord, we have eaten and satisfied ourselves, and have left in plenty. The infin. absol. והותר ושׂבוע אכול stand in animated speech instead of the first pers. plur. perf. From the same animation arises the construction of את־ההמון with הנּותר; for \"that which is left\" signifies, and we have left this quantity here.\nCh2 31:11-12\nThen the king commanded to prepare cells in the house of God for the storing of the provisions. Whether new cells were built, or cells already existing were prepared for this purpose, cannot be decided, since הכין may signify either. Into these cells they brought the תּרוּמה, which here denotes the first-fruits (cf. Ch2 31:5), the tithes, and the dedicated things, בּאמוּנה, with fidelity, cf. Ch2 19:9. עליהם, over them (the first-fruits, etc.) the Levite Cononiah was set as ruler (inspector), and his brother Shimei as second ruler (משׁנה).\nCh2 31:13-14\nTo them at their hand, i.e., as subordinate overseers, were given ten Levites, who are enumerated by name. Of the names, Jehiel and Mahath occur in Ch2 29:12 and Ch2 29:14. בּמפקד is translated by the Vulg. ex imperio, better ex mandato Hizkiae. Azariah, the prince of the house of God, is the high priest mentioned in Ch2 31:10. - To the fourteen Levites named in Ch2 31:13 and Ch2 31:14 was committed the oversight and storing of the first-fruits, tithes, and consecrated gifts. Besides these, there were special officers appointed for the distribution of them. - In Ch2 31:14-19 these are treated of; Ch2 31:14 dealing with the distribution of the voluntary gifts of God, i.e., all which was offered to God of spontaneous impulse (Lev 23:38; Deu 12:17), to which the first-fruits and tithes did not belong, they being assessments prescribed by the law. Over the freewill offerings the Levite Kore, the doorkeeper towards the east (see on Ch1 9:18), was set. His duty was to give (distribute) \"the heave-offerings of Jahve,\" i.e., that portion of the thank-offerings which properly belonged to Jahve, and which was transferred by Him to the priests (Lev 7:14; Num 5:9), and the \"most holy,\" i.e., that part of the sin and trespass offerings (Lev 6:10, Lev 6:22; Lev 7:6) and of the oblations (Lev 2:3, Lev 2:10) which was to be eaten by the priests in the holy place.\nCh2 31:15-16",
+      "anchor": true
+    },
+    {
+      "src": "KD",
+      "ref": "Ezra 3:8",
+      "note_ref": "KD/15/3/8",
+      "cites": [
+        "Ezra 3:8"
+      ],
+      "text": "The foundation of the temple laid. - Ezr 3:8 In the second year of their coming to the house of God at Jerusalem, i.e., after their arrival at Jerusalem on their return from Babylon, in the second month, began Zerubbabel and Joshua to appoint the Levites from twenty years old and upwards to the oversight of the work (the building) of the house of the Lord. That is to say, the work of building was taken in hand. Whether this second year of the return coincides with the second year of the rule of Cyrus, so that the foundations of the temple were laid, as Theophil. Antioch. ad Autolic. lib. 3, according to Berosus, relates, in the second year of Cyrus, cannot be determined. For nothing more is said in this book than that Cyrus, in the first year of his reign, issued the decree concerning the return of the Jews from Babylon, whereupon those named in the list, Ezra 2, set out and returned, without any further notice as to whether this also took place in the first year of Cyrus, or whether the many necessary preparations delayed the departure of the first band till the following year. The former view is certainly a possible though not a very probable one, since it is obvious from Ezr 2:1 that they arrived at Jerusalem and betook themselves to their cities as early as the seventh month of the year. Now the period between the beginning of the year and the seventh month, i.e., at most six months, seems too short for the publication of the edict, the departure, and the arrival at Jerusalem, even supposing that the first year of Cyrus entirely coincided with a year of the Jewish calendar. The second view, however, would not make the difference between the year of the rule of Cyrus and the year of the return to Jerusalem a great one, since it would scarcely amount to half a year. ויּעמידוּ...החלּוּ, they began and appointed, etc., they began to appoint, i.e., they began the work of building the temple by appointing. Those enumerated are-1. Zerubbabel and Joshua, the two rulers: 2. The remnant of their brethren = their other brethren, viz., a, the priests and Levites as brethren of Joshua; b, all who had come out of captivity, i.e., the men of Israel, as brethren of Zerubbabel. These together formed the community who appointed the Levites to preside over, i.e., to conduct the building of the temple. For the expression, comp. 1 Chron 23:4-24.\nEzr 3:9\nThe Levites undertook this appointment, and executed the commission. The singular ויּעמד stands before a plural subject, as is frequently the case when the verb precedes its subject. Three classes or orders of Levites are named: 1. Jeshua with his sons and brethren; 2. Kadmiel with his sons, the sons of Hodaviah; 3. The sons of Henadad, their sons and brethren. Jeshua and Kadmiel are the two heads of orders of Levites already named (Ezr 2:40). From a comparison of these passages, we perceive that יהוּדה בּני is a clerical error for הודויה (or הודיּה) בּני. This more precise designation is not \"a comprehensive appellation for all hitherto enumerated\" (Bertheau), but, as is undoubtedly obvious from Ezr 2:40, only a more precise designation of the sons of Kadmiel. כּאחד, as one, i.e., all, without exception. The third class, the sons of Henadad, are not expressly named in Ezr 2:40 among those who returned from Babylon; but a son of Henadad appears, Neh 3:24 and Neh 10:10, as head of an order of Levites. The naming of this order after the predicate, in the form of a supplementary notice, and unconnected by a ו cop., is striking. Bertheau infers therefrom that the construction of the sentence is incorrect, and desires to alter it according to 1 Esdr. 5:56, where indeed this class is named immediately after the two first, but יהוּדה בּני is separated from what precedes; and of these בני יהודה is made a fourth class, υἱοὶ Ἰωδά τοῦ Ἡλιαδούδ. All this sufficiently shows that this text cannot be regarded as authoritative. The striking position or supplementary enumeration of the sons of Henadad may be explained by the fact to which the placing of כּאחד after בני יהודה points, viz., that the two classes, Jeshua with his sons and brethren, and Kadmiel with his sons, were more closely connected with each other than with the sons of Henadad, who formed a third class. The הלויּם at the end of the enumeration offers no argument for the transposition of the words, though this addition pertains not only to the sons of Henadad, but also to the two first classes. hm' עשׂה is plural, and only an unusual reading for עשׁי; see on Ch1 23:24.\nEzr 3:10-11\nWhen the builders laid the foundation of the temple of the Lord, they (Zerubbabel and Joshua, the heads of the community) set the priests in their apparel with trumpets, and the Levites the sons of Asaph with cymbals, to praise the Lord after the ordinance of David. The perf. ויסּדוּ, followed by an imperf. connected by a Vav consecutive, must be construed: When they laid the foundations, then. מלבּשׁים, clothed, sc. in their robes of office; comp. Ch2 5:12; Ch2 20:21. ידי על as Ch1 25:2. On Ezr 3:11, comp. remarks on Ch1 16:34, Ch1 16:41; Ch2 5:13; Ch2 7:3, and elsewhere. Older expositors (Clericus, J. H. Mich.), referring to Exo 15:21, understand בהלּל ויּענוּ of the alternative singing of two choirs, one of which sang, \"Praise the Lord, for He is good;\" and the other responded, \"And His mercy endureth for ever.\" In the present passage, however, there is no decided allusion to responsive singing; hence (with Bertheau) we take יענוּ in the sense of, \"They sang to the Lord with hymns of thanksgiving.\" Probably they sang such songs as Ps 106-107, or Ps 118, which commence with an invitation to praise the Lord because He is good, etc. All the people, moreover, raised a loud shout of joy. גּדולה תּרוּעה is repeated in Ezr 3:13 by השּׂמחה תּרוּעת. הוּסד על, on account of the founding, of the foundation-laying, of the house of the Lord. הוּסד as in Ch2 3:3.\nEzr 3:12\nBut many of the priests and Levites, and chief of the people, the old men who had seen (also) the former temple, at the foundation of this house before their eyes (i.e., when they saw the foundation of this house laid), wept with a loud voice. Solomon's temple was destroyed b.c. 588, and the foundation of the subsequent temple laid b.c. 535 or 534: hence the older men among those present at the latter event might possibly have seen the former house; indeed, some (according to Hagg. Ezr 2:2) were still living in the second year of Darius Hystaspis who had beheld the glory of the earlier building. Upon these aged men, the miserable circumstances under which the foundations of the new temple were laid produced so overwhelming an impression, that they broke into loud weeping. בּיסדו is connected by its accents with the words preceding: the former temple in its foundation, i.e., in its stability. But this can scarcely be correct. For not only does no noun יסד, foundation, occur further on; but even the following words, \"of this house before their eyes,\" if severed from בּיסדו, have no meaning. Hence (with Aben Ezra, Cler., Berth., and others) we connect בּיסדו with the parenthetical sentence following, \"when the foundation of this house was laid before their eyes;\" and then the suffix of the infinitive יסדו expressly refers to the object following, as is sometimes the case in Hebrew, e.g., Ch2 26:14; Ezr 9:1, and mostly in Chaldee; comp. Ew. 209, c, \"But many were in rejoicing and joy to raise their voice,\" i.e., many so joyed and rejoiced that they shouted aloud.\nEzr 3:13\nAnd the people could not discern (distinguish) the loud cry of joy in the midst of (beside) the loud weeping of the people; for the people rejoiced with loud rejoicings, and the sound was heard afar off. The meaning is not, that the people could not hear the loud weeping of the older priests, Levites, and heads of the people, because it was overpowered by the loud rejoicings of the multitude. The verse, on the contrary, contains a statement that among the people also (the assembly exclusive of priests, Levites, and chiefs) a shout of joy and a voice of weeping arose; but that the shouting for joy of the multitude was so loud, that the sounds of rejoicing and weeping could not be distinguished from each other. הכּיר, with the acc. and ל, to perceive something in the presence of (along with) another, i.e., to distinguish one thing from another. \"The people could not discern\" means: Among the multitude the cry of joy could not be distinguished from the noise of weeping. למרחוק עד as Ch2 26:15."
+    },
+    {
+      "src": "MHC",
+      "ref": "Numbers 4:1",
+      "note_ref": "MHC/4/4/1",
+      "cites": [
+        "Numbers 4:3"
+      ],
+      "text": "We have here a second muster of the tribe of Levi. As that tribe was taken out of all Israel to be God's peculiar, so the middle-aged men of that tribe were taken from among the rest to be actually employed in the service of the tabernacle. Now observe,\nI. Who were to be taken into this number. All the males from thirty years old to fifty. Of the other tribes, those that were numbered to go forth to war were from twenty years old and upward, but of the Levites only from thirty to fifty; for the service of God requires the best of our strength, and the prime of our time, which cannot be better spent than to the honour of him who is the first and best. And a man may make a good soldier much sooner than a good minister. Now,\n1. They were not to be employed till they were thirty years old, because till then they were in danger of retaining something childish and youthful and had not gravity enough to do the service, and wear the honour, of a Levite. They were entered as probationers at twenty-five years old, (Num 8:24), and in David's time, when there was more work to be done, at twenty (Ch1 23:24, and so Ezr 3:8); but they must be five years learning and waiting, and so fitting themselves for service; nay, in David's time they were ten years in preparation, from twenty to thirty. John Baptist began his public ministry, and Christ his, at thirty years old. This is not in the letter of it obligatory on gospel ministers now, as if they must either not begin their work till thirty years old or must leave off at fifty; but it gives us two good rules: - (1.) That ministers must not be novices, Ti1 3:6. It is a work that requires ripeness of judgment and great steadiness, and therefore those are very unfit for it who are but babes in knowledge and have not put away childish things. (2.) That they must learn before they teach, serve before they rule, and must first be proved, Ti1 3:10.\n2. They were discharged at fifty years old from the toilsome part of the service, particularly that of carrying the tabernacle; for that is the special service to which they are here ordained, and which there was most occasion for while they were in the wilderness. When they began to enter upon old age, they were dismissed, (1.) In favour to them, that they might no be over-toiled when their strength began to decay. Twenty years' good service was thought pretty well for one man. (2.) In honour to the work, that it might not be done by those who, through the infirmities of age, were slow and heavy. The service of God should be done when we are in the most lively active frame. Those do not consider this who put off their repentance to old age, and so leave the best work to be done in the worst time.\nII. How their work is described. They are said to enter into the host, or warfare, to do the work in the tabernacle. The ministry is a good work (Ti1 3:1): ministers are not ordained to the honour only, but to the labour, not only to have the wages, but to do the work. It is also a good warfare, Ti1 1:18. Those that enter into the ministry must look upon themselves as entered into the host, and approve themselves good soldiers, Ti2 2:3. Now, as to the sons of Kohath in particular, here is,\n1. Their service appointed them, in the removes of the tabernacle. Afterwards, when the tabernacle was fixed, they had other work assigned them; but this was the work of the day, which was to be done in its day. Observe, Wherever the camp of Israel went, the tabernacle of the Lord went with them, and care must be taken for the carriage of it. Note, Wherever we go, we must see to it that we take our religion along with us, and not forget that or any part of it. Now the Koliathites were to carry all the holy things of the tabernacle. They were charged with those things before (Num 3:31), but here they have more particular instructions given them. (1.) Aaron, and his sons the priests, must pack up the things which the Kohathites were to carry, as here directed, Num 4:5, etc. God had before appointed that none should come into the most holy place, but only Aaron once a year with a cloud of incense (Lev 16:2); and yet, the necessity of their unsettled state requiring it, that law is here dispensed with; for every time they removed Aaron and his sons went in to take down the ark, and make it up for carriage; for (as the learned bishop Patrick suggests) the shechinah, or display of the divine majesty, which was over the mercy-seat, removed for the present in the pillar of cloud, which was taken up, and then the ark was not dangerous to be approached. (2.) All the holy things must be covered, the ark and table with three coverings, all the rest with two. Even the ashes of the altar, in which the holy fire was carefully preserved and raked up, must have a purple cloth spread over them, Num 4:13. Even the brazen altar, though in the court of the sanctuary it stood open to the view of all, yet was covered in the carriage of it. All these coverings were designed, [1.] For safety, that these holy things might not be ruffled with the wind, sullied with the rain, nor tarnished with the sun, but that they might be preserved in their beauty; for on all the glory shall be a defence. The coverings of badgers' skins, being thick and strong, would keep out wet; and, while we are in our passage through the wilderness of this world, it concerns us to be fenced for all weathers, Isa 4:5, Isa 4:6. [2.] For decency and ornament. Most of these things had a cloth of blue, or purple, or scarlet, spread outmost; and the ark was covered with a cloth wholly of blue (Num 4:6), an emblem (say some) of the azure skies, which are spread like a curtain between us and the Majesty on high, Job 26:9. Those that are faithful to God should endeavour likewise to appear beautiful before men, that they may adorn the doctrine of God our Saviour. [3.] For concealment. It signified the darkness of that dispensation. That which is now brought to light by the gospel, and revealed to babes, was then hidden from the wise and prudent. They saw only the coverings, not the holy things themselves (Heb 10:1); but now Christ has destroyed the face of the covering, Isa 25:7. (3.) When all the holy things were covered, then the Kohathites were to carry them on their shoulders. These things that had staves were carried by their staves (Num 4:6, Num 4:8, Num 4:11, Num 4:14); those that had not were carried upon a bar, or bier, or bearing barrow, Num 4:10, Num 4:12. See how the tokens of God's presence in this world are movable things; but we look for a kingdom that cannot be moved.\n2. Eleazar, now the eldest son of Aaron, is appointed overseer of the Kohathites in this service (Num 4:16); he must take care that nothing was forgotten, left behind, or displaced. As a priest he had more honour than the Levites, but then he had more care; and that care was a heavier burden, no doubt, upon his heart, than all the burdens that were laid upon their shoulders. It is much easier to do the work of the tabernacle than to discharge the trusts of it, to obey than to rule.\n3. Great care must be taken to preserve the lives of these Levites, by preventing their unseasonable irreverent approach to the most holy things: Cut you not off the Kohathites, Num 4:18. Note, Those who do not what they can to keep others from sin do what they can to cut them off. [1.] The Kohathites must not see the holy things till the priests had covered them, Num 4:20. Even those that bore the vessels of the Lord saw not what they bore, so much were even those in the dark concerning the gospel whose office it was to expound the law. And, [2.] When the holy things were covered, they might not touch them, at least not the ark, called here the holy thing, upon pain of death, Num 4:15. Uzza was struck dead for the breach of this law. Thus were the Lord's ministers themselves then kept in fear, and that was a dispensation of terror, as well as darkness; but now, through Christ, the case is altered; we have seen with our eyes, and our hands have handles, the word of life (Jo1 1:1), and we are encouraged to come boldly to the throne of grace."
+    },
+    {
+      "src": "MHC",
+      "ref": "Numbers 8:5",
+      "note_ref": "MHC/4/8/5",
+      "cites": [
+        "Numbers 8:24"
+      ],
+      "text": "We read before of the separating of the Levites from among the children of Israel when they were numbered, and the numbering of them by themselves (Num 3:6, Num 3:15), that they might be employed in the service of the tabernacle. Now here we have directions given for their solemn ordination (Num 8:6), and the performance of it, Num 8:20. All Israel must know that they took not this honour to themselves, but were called of God to it; nor was it enough that they were distinguished from their neighbours, but they must be solemnly devoted to God. Note, All that are employed for God must be dedicated to him, according as the degree of employment is. Christian musts be baptized, ministers must be ordained; we must first give ourselves unto the Lord, and then our services. Observe in what method this was done:\nI. The Levites must be cleansed, and were so. The rites and ceremonies of their cleansing were to be performed, 1. By themselves. They must wash their clothes, and not only bathe, but shave all their flesh, as the leper was to do when he was cleansed, Lev 14:8. They must cause a razor to pass over all their flesh, to clear themselves from that defilement which would not wash off. Jacob, whom God loved, was a smooth man; it was Esau that was hairy. The great pains they were to take with themselves to make themselves clean teaches all Christians, and ministers particularly, by repentance and mortification, to cleanse themselves from all filthiness of flesh and spirit, that they may perfect holiness. Those must be clean that bear the vessels of the Lord. 2. By Moses. He must sprinkle the water of purifying upon them, which was prepared by divine direction. This signified the application of the blood of Christ to our souls by faith, to purify us from an evil conscience, that we may be fit to serve the living God. It is our duty to cleanse ourselves, and God's promise that he will cleanse us.\nII. The Levites, being thus prepared, must be brought before the Lord in a solemn assembly of all Israel, and the children of Israel must put their hands upon them (Num 8:10), so transferring their interest in them and in their service (to which, as a part, the whole body of the people was entitled) to God and to his sanctuary. They presented them to God as living sacrifices, holy and acceptable, to perform a reasonable service; and therefore, as the offerers in all other cases did, they laid their hands upon them, desiring that their service might be accepted in lieu of the attendance of the whole congregation, particularly the first-born, which they acknowledge God might have insisted on. This will not serve to prove a power in the people to ordain ministers; for this imposition of hands by the children of Israel upon the Levites did not make them ministers of the sanctuary, but only signified the people's parting with that tribe out of their militia, and civil incorporations, in order to their being made ministers by Aaron, who was to offer them before the Lord. All the congregation of the children of Israel could not lay hands on them, but it is probable that the rulers and elders did it as the representative body of the people. Some think that the first-born did it because in their stead the Levites were consecrated to God. Whatever God calls for from us to serve his own glory by, we must cheerfully resign it, lay our hands upon it, not to detain it but to surrender it, and let it go to him that is entitled to it.\nIII. Sacrifices were to be offered for them, a sin-offering first (Num 8:12), and then a burnt-offering, to make an atonement for the Levites, who, as the parties concerned, were to lay their hands upon the head of the sacrifices. See here, 1. That we are all utterly unworthy and unfit to be admitted into and employed in the service of God, till atonement be made for sin, and thereby our peace made with God. That interposing cloud must be scattered before there can be any comfortable communion settled between God and our souls. 2. That it is by sacrifice, by Christ the great sacrifice, that we are reconciled to God, and made fit to be offered to him. It is by him that Christians are sanctified to the work of their Christianity, and ministers to the work of their ministry. The learned bishop Patrick's notion of the sacrifice offered by the Levites is that the Levites were themselves considered as an expiatory sacrifice, for they were given to make atonement for the children of Israel, (Num 8:19), and yet not being devoted to death, any more than the first-born were, these two sacrifices were substituted in their stead, upon which therefore they were to lay their hands, that the sin which the children of Israel laid upon them (Num 8:10) might be transferred to these beasts.\nIV. The Levites themselves were offered before the Lord for an offering of the children of Israel, Num 8:11. Aaron gave them up to God, as being first given up by themselves, and by the children of Israel. The original word signifies a wave-offering, not that they were actually waved, but they were presented to God as the God of heaven, and the Lord of the whole earth, as the wave-offerings were. And in calling them wave-offerings it was intimated to them that they must continually lift up themselves towards God in his service, lift up their eyes, lift up their hearts, and must move to and fro with readiness in the business of their profession. They were not ordained to be idle, but to be active and stirring.\nV. God here declares his acceptance of them: The Levites shall be mine, Num 8:14. God took them instead of the first-born (Num 8:16-18), of which before, Num 3:41. Note, What is in sincerity offered to God shall be graciously owned and accepted by him. And his ministers who have obtained mercy of him to be faithful have particular marks of favour and honour put upon them: they shall be mine, and then (Num 8:15) they shall go in to do the service of the tabernacle. God takes them for his own, that they may serve him. All that expect to share in the privileges of the tabernacle must resolve to do the service of the tabernacle. As, on the one hand, none of God's creatures are his necessary servants (he needs not the service of any of them), so, on the other hand, none are taken merely as honorary servants, to do nothing. All whom God owns he employs; angels themselves have their services.\nVI. They are then given as a gift to Aaron and his sons (Num 8:19), yet so as that the benefit accrued to the children of Israel. 1. The Levites must act under the priests as attendants on them, and assistants to them, in the service of the sanctuary. Aaron offers them to God (Num 8:11), and then God gives them back to Aaron, Num 8:19. Note, Whatever we give up to God, he will give back to us unspeakably to our advantage. Our hearts, our children, our estates, are never more ours, more truly, more comfortably ours, than when we have offered them up to God. 2. They must act for the people. They were taken to do the service of the children of Israel, that is, not only to do the service which they should do, but to serve their interests, and do that which would really redound to the honour, safety, and prosperity of the whole nation. Note, Those that faithfully perform the service of God do one of the best services that can be done to the public; God's ministers, while they keep within the sphere of their office and conscientiously discharge the duty of it, must be looked upon as some of the most useful servants of their country. The children of Israel can as ill spare the tribe of Levi as any of their tribes. But what is the service they do the children of Israel? It follows, it is to make an atonement for them, that there be no plague among them. It was the priests' work to make atonement by sacrifice, but the Levites made atonement by attendance, and preserved the peace with heaven which was made by sacrifice. If the service of the priests in the tabernacle had been left to all the first-born of Israel promiscuously, it would have been either neglected or done unskillfully and irreverently, being done by those that were not so closely tied to it, nor so diligently trained to it, nor so constantly used to it, as the Levites were; and this would bring a plague among the children of Israel - meaning, perhaps, the death of the first-born themselves, which was the last and greatest of the plagues of Egypt. To prevent this, and to preserve the atonement, the Levites were appointed to do this service, who should be bred up to it under their parents from their infancy, and therefore would be well versed in it; and so the children of Israel, that is, the first-born, should not need to come nigh to the sanctuary; or, when any Israelites had occasion, the Levites would be ready to instruct them, and introduce them, and so prevent any fatal miscarriage or mistake. Note, It is a very great kindness to the church that ministers are appointed to go before the people in the things of God, as guides, overseers, and rulers, in religious worship, and to make that their business. When Christ ascended on high, he gave these gifts, Eph 4:8, Eph 4:11, Eph 4:12.\nVII. The time of their ministration is fixed. 1. They were to enter upon the service at twenty-five years old, Num 8:24. They were not charged with the carrying of the tabernacle and the utensils of it till they were thirty years old, Num 4:3. But they were entered to be otherwise serviceable at twenty-five years old, a very good age for ministers to begin their public work at. The work then required that strength of body and the work now requires that maturity of judgment and steadiness of behaviour which men rarely arrive at till about that age; and novices are in danger of being lifted up with pride. 2. They were to have a writ of ease at fifty years old; then they were to return from the warfare, as the phrase is (Num 8:25), not cashiered with disgrace, but preferred rather to the rest which their age required, to be loaded with the honours of their office, as hitherto they had been with the burdens of it. They shall minister with their brethren in the tabernacle, to direct the junior Levites, and set them in; and they shall keep the charge, as guards upon the avenues of the tabernacle, to see that no stranger intruded, nor any person in his uncleanness, but they shall not be put upon any service which may be a fatigue to them. If God's grace provide that men shall have ability according to their work, man's prudence should take care that men have work only according to their ability. The aged are most fit for trusts, and to keep the charge; the younger are most fit for work, and to do the service. Those that have used the office of a servant well purchase to themselves a good degree, Ti1 3:13. Yet indeed gifts are not tied to ages (Job 32:9), but all these worketh that one and the self-same Spirit. Thus was the affair of the Levites settled.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 23:1",
+      "note_ref": "MHC/13/23/1",
+      "cites": [
+        "1 Chronicles 23:3"
+      ],
+      "text": "Here we have, I. The crown entailed, according to the divine appointment, Ch1 23:1. David made Solomon king, not to reign with him, or reign under him, but only to reign after him. This he did, 1. When he was old and full of days. He was but seventy years old when he died, and yet he was full of days, satur dierum - satisfied with living in this world. When he found himself going off, he made provision for the welfare of the kingdom after his decease, and pleased himself with the hopeful prospect of a happy settlement both in church and state. 2. He did it in parliament, in a solemn assembly of all the princes of Israel, which made Adonijah's attempt to break in upon Solomon's title and set it aside, notwithstanding this public recognition and establishment of it, the more impudent, impious, and ridiculous. Note, The settling or securing of the crown in the interests of the temple is a great blessing to the people and a great satisfaction to those who are themselves leaving the world.\nII. The Levites numbered, according to the rule in Moses's time, from thirty years old to fifty, Num 4:2, Num 4:3. Their number in Moses's time. by this rule, was 8580 (Num 4:47, Num 4:48), but now it had increased above four-fold, much more in proportion than the rest of the tribes; for the serviceable men of Levi's tribe were now 38,000, unless we suppose that here those were reckoned who were above fifty, which was not the case there. Joab had not numbered the Levites (Ch1 21:6), but David now did, not in pride, but for a good purpose, and then he needed not fear wrath for it.\nIII. The Levites distributed to their respective posts (Ch1 23:4, Ch1 23:5), that every hand might be employed (for, of all men, an idle Levite makes the worst figure), and that every part of the work might be carefully done. Now it was for the honour of God that so great a number of servants attended his house and the business of it. Much of the state of great men consists in the greatness of their retinue. When God kept house in Israel see what a great household he had, and all well fed and well taught. But what were these to the attendants of his throne above, and the innumerable company of angels? It was the happiness of Israel that they had among them such a considerable body of men who were obliged by their office to promote and keep up religion among them. If the worship of God go to decay in Israel, let it not be said that it was for want of due provision for the support of it, but that those who should have done it were careless and false. The work assigned the Levites was four-fold: - 1. Some, and indeed far the greater number, were to set forward the work of the house of the Lord: 24,000, almost two-thirds, were appointed for this service, to attend the priests in killing the sacrifices, flaying them, washing them, cutting them up, burning them, to have the meat-offerings and drink-offerings ready, to carry out dirt, and keep all the vessels and utensils of the temple clean, and every thing in its place, that the service might be performed both with expedition and with exactness. These served 1000 a-week, and so went round in twenty-four courses. Perhaps while the temple was in building some of these were employed to set forward that work, to assist the builders, at least to quicken them, and keep good order among them, and the decorum which became temple-work. 2. Others were officers and judges, not in the affairs of the temple, and in the controversies that arose there (for there, we may suppose, the priests presided), but in the country. They were magistrates, to give the laws of God in charge, to resolves difficulties, and to determine controversies that arose upon them. Of these there were 6000, in the several parts of the kingdom, that assisted the princes and elders of every tribe in the administration of justice. 3. Others were porters, to guard all the avenues of the house of God, to examine those that desired entrance, and to resist those that would force an entrance. These were the life-guards of the temple, and probably were armed accordingly. 4. Others were singers and players on instruments, whose business it was to keep up that part of the service; this was a new-erected office.\nIV. The Levites mustered, and disposed of into their respective families and kindreds, that an account of them might the better be kept, and those that neglected their duty might be the more easily discovered, by calling over the roll, and obliging them to answer to their names, which each family might do for itself. When those of the same family were employed together it would engage them to love and assist one another. When Christ sent forth his disciples two and two he put together those that were brethren. Two families were here joined in one (Ch1 23:11) because they had not many sons. Those that are weak and little, separately, may be put together and appear considerable. That which is most observable in this account of the families of the Levites is that the posterity of Moses (that great man) stood upon the level with common Levites, and had no dignities or privileges at all peculiar to them; whilst the posterity of Aaron were advanced to the priest's office, to sanctify the most holy things, Ch1 23:13. It is said indeed of the grandson of Moses, Rehabiah, that his sons were highly multiplied, Ch1 23:17, margin. When God proposed to him that, if he would let fall his intercession for Israel, he would make of him a great nation, he generously refused it, in recompence for which his family is here greatly increased, and makes up in number what it wants in figure, in the tribe of Levi. Now, 1. The levelling of Moses' family with the rest is an evidence of his self-denial. Such an interest had he both with God and man that if he had aimed to raise his own family, to dignify and enrich that, he might easily have done so; but he was no self-seeking man, as appears from his leaving to his children no marks of distinction, which was a sign that he had the spirit of God and not the spirit of the world. 2. The elevation of Aaron's family above the rest was a recompence for his self-denial. When Moses (his younger brother) was made a god to Pharaoh, and he only his prophet or spokesman, to observe his orders and do as he was bidden, Aaron never disputed it, nor insisted upon his seniority, but readily took the inferior post God put him in, submitted to Moses, and, upon occasion, called him his lord; and because he thus submitted himself, in his own person, to his junior, in compliance with the will of God, God highly exalted his family, even above that of Moses himself. Those that are content to stoop are in the fairest way to rise. Before honour is humility."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 23:24",
+      "note_ref": "MHC/13/23/24",
+      "cites": [
+        "1 Chronicles 23:24",
+        "1 Chronicles 23:27"
+      ],
+      "text": "Here is, I. An alteration made in the computation of the effective men of the Levites - that whereas, in Moses's time, they were not enlisted, or taken into service, till they were thirty-years old, nor admitted as probationers till twenty-five (Num 8:24), David ordered, by direction from God, that they should be numbered for the service of the house of the Lord, from the age of twenty years and upwards, Ch1 23:24. This order he confirmed by his last words, Ch1 23:27. When he put his last hand to the draught of this establishment he expressly appointed this to be done for ever after; yet not he; but the Lord. 1. Perhaps the young Levites, having no work appointed them till twenty-five years old, had many of them got a habit of idleness, or grew addicted to their pleasures, which proved both a blemish to their reputation and a hindrance to their usefulness afterwards, to prevent which inconvenience they are set to work, and brought under discipline, at twenty-years old. Those that will be eminent must learn to take care and take care betimes. 2. When the work of the Levites was to carry burdens, heavy burdens, the tabernacle and the furniture of it, God would not call any to it till they had come to their full strength; for he considers our frame, and, in service as well as sufferings, will lay no more upon us than we are able to bear. But now God had given rest to his people, and made Jerusalem his dwelling-place for ever, so that there was no more occasion to carry the tabernacle and the vessels thereof, the service was much easier, and what would not over-work them nor over-load them if they entered upon it at twenty-years old. 3. Now the people of Israel were multiplied, and there was a more general resort to Jerusalem, and would be when the temple was built, than had ever been at Shiloh, or Nob, or Gibeon; it was therefore requisite there should be more hands employed in the temple-service, that every Israelite who brought an offering might find a Levite ready to assist him. When more work is to be done it is a pity but there should be more workmen fetched in for the doing of it. When the harvest is plenteous why should the labourers be few?\nII. A further account of the Levites' work. What the work of the priests was we are told (Ch1 23:13): To sanctify the most holy things, to burn incense before the Lord, and to bless in his name; that work the Levites were not to meddle with, and yet they had work enough, and good work, according to that to which they were appointed, Ch1 23:4, Ch1 23:5. 1. Those of them that were to set forward the work of the house of God (Ch1 23:4) were therein to wait on the sons of Aaron (Ch1 23:28), were to do the drudgery-work (if any work for God is to be called drudgery) of the house of God, to keep the courts and chambers clean, set things in their places, and have them ready when there was occasion to use them. They were to prepare the show-bread which the priests were to set on the table, to provide the flour and cakes for the meat-offerings, that the priests might have every thing ready to their hands. 2. Those of them that were judges and officers had an eye particularly upon all measure and size, Ch1 23:29. The standards of all weights and measures were kept in the sanctuary; and the Levites had the care of them, to see that they were exact, and to try other weights and measures by them when they were appealed to. 3. The work of the singers was to thank and praise the Lord (Ch1 23:30), at the offering of the morning and evening sacrifices, and other oblations on the sabbaths, new moons, etc., Ch1 23:31. Moses appointed that they should blow with trumpets over their burnt offerings and other sacrifices, and on their solemn days, Num 10:10. The sound of the trumpet was awful, and might be affecting to the worshippers, but was not articulate, nor such a reasonable service as this which David appointed, of singing psalms on those occasions. As the Jewish church grew up from its infancy, it grew more and more intelligent in its devotions, till it came at length, in the gospel, to put away childish things, Co1 13:11; Gal 4:3, Gal 4:9. 4. The work of the porters (Ch1 23:5) was to keep the charge of the tabernacle and of the holy place, that none might come nigh but such as were allowed, and those no nearer than was allowed them, Ch1 23:32. They were likewise to keep the charge of the sons of Aaron, to be at their beck and go on their errands, who are yet called their brethren, to be a memorandum to the priests that, though they were advanced to a high station, yet they were hewn out of the same rock with common Levites, and therefore must not lord it over them, but in all instances treat them as brethren."
+    },
+    {
+      "src": "MHC",
+      "ref": "2 Chronicles 31:11",
+      "note_ref": "MHC/14/31/11",
+      "cites": [
+        "2 Chronicles 31:17"
+      ],
+      "text": "Here we have,\nI. Two particular instances of the care of Hezekiah concerning church matters, having put them into good order, to keep them so. The tithes and other holy things being brought in, he provided, 1. That they should be carefully laid up, and not left exposed in loose heaps, liable to be wasted and embezzled. He ordered chambers to be made ready in some of the courts of the temple for store-chambers (Ch2 31:11), and into them the offerings were brought and there kept under lock and key, Ch2 31:12, Ch2 31:13. Treasures or store-keepers were appointed, who had the oversight of them, to see that moth and rust did not corrupt them nor thieves break through to steal. This wisdom of laying up the surplus in days of plenty we may learn from the ant, who provideth meat in summer. The laying up in store what was brought in was an encouragement to people to pay in their contributions. That will be given cheerfully by the public which appears to be well husbanded. 2. That they should be faithfully laid out, according to the uses they were intended for. Church treasures are not to be hoarded any longer than till there is occasion for them, lest even the rust should be a witness against those who hoard them. Officers were appointed, men (no doubt) of approved wisdom and faithfulness, to distribute the oblations of the Lord and the most holy things among the priests (Ch2 31:14), and to see that they all had a competent maintenance for themselves and their families. The law provided sufficient for them all, and therefore, if some had too little, it must be because others had too much; to prevent such inequality these officers were to go by some certain rule of proportion in the disposal of the incomes of the temple. It is said of the priests here (Ch2 31:18) that in their set office they sanctified themselves; in faith they sanctified themselves (so the word is), that is, as bishop Patrick explains it, they attended their ministry at the house of God, not doubting but they should be provided with all things necessary. Now, because they served God in that confidence, care was taken that they should not be made ashamed of their hope. Note, Those that sanctify themselves to God and his service in faith, believing that he will see them want for nothing that is good for them, shall certainly be fed. Out of the offerings of the Lord distribution was made, (1.) To the priests in the cities (Ch2 31:15), who staid at home while their brethren went to Jerusalem, and did good there in teaching the good knowledge of the Lord. The preaching priests were maintained as well as the sacrificing priests, and those that abode by the stuff as well as those that warred the warfare. (2.) To those that entered into the house of the Lord, all the males from three years old and upwards; for the male children even at that tender age, it seems, were allowed to come into the temple with their parents, and shared with them in this distribution, Ch2 31:16. (3.) Even the Levites from twenty years old and upwards had their share, Ch2 31:17. (4.) The wives and children of the priests and Levites had a comfortable maintenance out of those offerings, Ch2 31:18. In maintaining ministers, regard must be had to their families, that not they only, but theirs, may have food convenient. In some countries where ministers have their salary paid them by the state an addition is made to it upon the birth of a child. (5.) The priests in the country, that lived in the fields of the suburbs, were not overlooked in this ministration, Ch2 31:19. Those also had their share who were inhabitants of the villages, though they might be supposed to live at a less expense.\nII. A general character of Hezekiah's services for the support of religion, Ch2 31:20, Ch2 31:21. 1. His pious zeal reached to all the parts of his kingdom: Thus he did throughout all Judah; every part of the country, and not those only that lay next him, shared in the good fruits of his government. 2. He sincerely designed to please God, and approved himself to him in all he did: He wrought that which was good before the Lord his God; all his care was to do that which should be accepted of God, which was right (that is, agreeable to natural equity), and truth (that is, agreeable to divine revelation and his covenant with God), before the Lord; to do according to that law which is holy, just, and good. 3. What he began he went through with, prosecuted it with vigour, and did it with all his heart. 4. All his good intentions were brought to a good issue; whatever he did in the service of the house of God, and in the government of his kingdom, he prospered in it. Note, What is undertaken with a sincere regard to the glory of God will succeed to our own honour and comfort at last.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Ezra 3:8",
+      "note_ref": "MHC/15/3/8",
+      "cites": [
+        "Ezra 3:8"
+      ],
+      "text": "There was no dispute among the returned Jews whether they should build the temple or no; that was immediately resolved on, and that it should be done with all speed; what comfort could they take in their own land if they had not that token of God's presence with them and the record of his name among them? We have here therefore an account of the beginning of that good work. Observe,\nI. When it was begun-in the second month of the second year, as soon as ever the season of the year would permit (Ezr 3:8), and when they had ended the solemnities of the passover. They took little more than half a year for making preparation of the ground and materials; so much were their hearts upon it. Note, When any good work is to be done it will be our wisdom to set about it quickly, and not to lose time, yea, though we foresee difficulty and opposition in it. Thus we engage ourselves to it, and engage God for us. Well begun (we say) is half ended.\nII. Who began it - Zerubbabel, and Jeshua, and their brethren. Then the work of God is likely to go on well when magistrates, ministers, and people, are hearty for it, and agree in their places to promote it. It was God that gave them one heart for this service, and it boded well.\nIII. Who were employed to further it. They appointed the Levites to set forward the work (Ezr 3:8), and they did it by setting forward the workmen (Ezr 3:9), and strengthening their hands with good and comfortable words. Note, Those that do not work themselves may yet do good service by quickening and encouraging those that do work.\nIV. How God was praised at the laying of the foundation of the temple (Ezr 3:10, Ezr 3:11); the priests with the trumpets appointed by Moses, and the Levites with the cymbals appointed by David, made up a concert of music, not to please the ear, but to assist the singing of that everlasting hymn which will never be out of date, and to which our tongues should never be out of tune, God is good, and his mercy endureth for ever, the burden of Ps. 136. Let all the streams of mercy be traced up to the fountain. Whatever our condition is, how many soever our griefs and fears, let it be owned that God is good; and, whatever fails, that his mercy fails not. Let this be sung with application, as here; not only his mercy endures for ever, but it endures for ever towards Israel, Israel when captives in a strange land and strangers in their own land. However it be, yet God is good to Israel (Psa 73:1), good to us. Let the reviving of the church's interests, when they seemed dead, be ascribed to the continuance of God's mercy for ever, for therefore the church continues.\nV. How the people were affected. A remarkable mixture of various affections there was upon this occasion. Different sentiments there were among the people of God, and each expressed himself according to his sentiments, and yet there was no disagreement among them, their minds were not alienated from each other nor the common concern retarded by it. 1. Those that only knew the misery of having no temple at all praised the Lord with shouts of joy when they saw but the foundation of one laid, Ezr 3:11. To them even this foundation seemed great, and was as life from the dead; to their hungry souls even this was sweet. They shouted, so that the noise was heard afar off. Note, We ought to be thankful for the beginnings of mercy, though we have not yet come to the perfection of it; and the foundations of a temple, after long desolations, cannot but be fountains of joy to every faithful Israelite. 2. Those that remembered the glory of the first temple which Solomon built, and considered how far this was likely to be inferior to that, perhaps in dimensions, certainly in magnificence and sumptuousness, wept with a loud voice, Ezr 3:12. If we date the captivity with the first, from the fourth of Jehoiakim, it was about fifty-two years since the temple was burnt; if from Jeconiah's captivity, it was but fifty-nine. So that many now alive might remember it standing; and a great mercy it was to the captives that they had the lives of so many of their priests and Levites lengthened out, who could tell them what they themselves remembered of the glory of Jerusalem, to quicken them in their return. These lamented the disproportion between this temple and the former. And, (1.) There was some reason for it; and if they turned their tears into the right channel, and bewailed the sin that was the cause of this melancholy change, they did well. Sin sullies the glory of any church or people, and, when they find themselves diminished and brought low, that must bear the blame. (2.) Yet it was their infirmity to mingle those tears with the common joys and so to cast a damp upon them. They despised the day of small things, and were unthankful for the good they enjoyed, because it was not so much as their ancestors had, though it was much more than they deserved. In the harmony of public joys, let not us be jarring strings. It was an aggravation of the discouragement they hereby gave to the people that they were priests and Levites, who should have known and taught others how to be duly affected under various providences, and not to let the remembrance of former afflictions drown the sense of present mercies. This mixture of sorrow and joy here is a representation of this world. Some are bathing in rivers of joy, while others are drowned in floods of tears. In heaven all are singing, and none sighing; in hell all are weeping and wailing, and none rejoicing; but here on earth we can scarcely discern the shouts of joy from the noise of the weeping. Let us learn to rejoice with those that do rejoice and weep with those that weep, and ourselves to rejoice as though we rejoiced not, and weep as though we wept not."
+    },
+    {
+      "src": "TYN",
+      "ref": "Numbers 4:1",
+      "note_ref": "TYN/4/4/1",
+      "cites": [
+        "Numbers 4:3"
+      ],
+      "text": "4:1-49 This section expands the discussion begun in 3:21-37 on the duties of the three clans of Levites. The Levites—on the march and encamped—carried and cared for the Tabernacle and were always surrounded by the other tribes so that they and their precious cargo would be safe (2:17). The sacred things associated with God were placed in the middle of the tribes, and the role of the priests and their Levitical assistants was to keep them holy by keeping them separate. • God, in his holiness, is worthy of attention to the details of his will. His Tabernacle and its furnishings were sacred, and the tribe of Levi was responsible to maintain the distinction between holy and common, between clean and unclean. This explains why so much information is provided about the duties of the three clans of Levites.\n4:1 Moses and Aaron were mediators of God’s will regarding the care and transport of the Tabernacle, the primary charge of the three Levitical families."
+    },
+    {
+      "src": "TYN",
+      "ref": "Numbers 4:3",
+      "note_ref": "TYN/4/4/3",
+      "cites": [
+        "Numbers 4:3"
+      ],
+      "text": "4:3 Of the 22,000 Levites (3:39), only men between the ages of thirty and fifty, those in the prime of their life, were allowed to serve in the sanctuary. The summary of this registration (another “numbering”) found in 4:34-49 gives the total number of qualified males as 8,580."
+    },
+    {
+      "src": "TYN",
+      "ref": "Numbers 4:4",
+      "note_ref": "TYN/4/4/4",
+      "cites": [
+        "Numbers 4:3"
+      ],
+      "text": "4:4-20 The duties of the Kohathites (see 3:27-32) are listed first because they performed a special service related to the most sacred objects (perhaps because Aaron and the priests came from this clan; 1 Chr 6:2-3). The tasks of carrying, setting up, and disassembling these sacred coverings and furnishings were extremely important. All the things entrusted to Kohath’s descendants—the Ark of the Covenant, the table of the Bread of the Presence, the lampstand (Hebrew menorah), the gold incense altar, and the altar for sacrifices—held tremendous value. These objects are first described in Exod 25–30, but Numbers shows how they were integrated into Hebrew life. The Kohathites carried these items on poles or in frames, and they were not to touch them or enter the sanctuary to look at them on penalty of death."
+    },
+    {
+      "src": "TYN",
+      "ref": "Numbers 8:23",
+      "note_ref": "TYN/4/8/23",
+      "cites": [
+        "Numbers 8:24"
+      ],
+      "text": "8:23-26 Guidelines regarding the Levites’ length of service. • Whereas 4:3 states that their Tabernacle service began at age 30, 8:24 gives the age as 25. The discrepancy might reflect age requirements followed in different periods when the number of Levite men available for service varied, or those aged 25–29 may have been considered unofficial workers or apprentices. • Both passages establish the retirement age at 50; retired Levites could serve the Tabernacle as guards (cp. Ps 84:10)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 23:1",
+      "note_ref": "TYN/13/23/1",
+      "cites": [
+        "1 Chronicles 23:3"
+      ],
+      "text": "23:1-2 When David . . . appointed his son Solomon as Israel’s king (cp. 1 Kgs 1), David outlined the organizational structure of the kingdom and made all the necessary provisions for the Temple’s functioning. • The account of Solomon’s coronation continues in 1 Chr 28–29; the intervening chapters (23:3–27:24) record in detail the organization of the kingdom."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 23:3",
+      "note_ref": "TYN/13/23/3",
+      "cites": [
+        "1 Chronicles 23:3"
+      ],
+      "text": "23:3-5 The Levites are recorded according to their roles rather than their families."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 23:24",
+      "note_ref": "TYN/13/23/24",
+      "cites": [
+        "1 Chronicles 23:24",
+        "1 Chronicles 23:27"
+      ],
+      "text": "23:24-27 In the census of 23:3, individuals were counted at age thirty, but the actual registration of the divisions included those twenty years old or older (cp. Num 1:3). The age of entry into Levitical service apparently varied over time according to need."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 23:28",
+      "note_ref": "TYN/13/23/28",
+      "cites": [
+        "1 Chronicles 23:27"
+      ],
+      "text": "23:28-32 The work of the Levites was to assist the priests, which they accomplished in various ways: maintaining the Temple, setting out the sacred bread and other offerings, singing, and helping the priests with the sacrifices. These duties were allotted to different family divisions of Levites (23:4-6)."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Chronicles 31:14",
+      "note_ref": "TYN/14/31/14",
+      "cites": [
+        "2 Chronicles 31:17"
+      ],
+      "text": "31:14-19 A great number of Levites, most from provincial towns, were eligible for service. Small groups of them came to Jerusalem on a rotation system for short terms of office (see 1 Chr 24:1-19). All Levites were entitled to portions of the offerings given at the Temple.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "Ezra 3:7",
+      "note_ref": "TYN/15/3/7",
+      "cites": [
+        "Ezra 3:8"
+      ],
+      "text": "3:7 Tyre and Sidon: Few tall and straight trees grew in the dry climate of Judah, and those that had grown in Israel had already been cut down. Therefore, skilled laborers were hired in countries that had tall trees (see also 1 Chr 22:1-5; 2 Chr 2:7-16)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Ezra 3:8",
+      "note_ref": "TYN/15/3/8",
+      "cites": [
+        "Ezra 3:8"
+      ],
+      "text": "3:8 In midspring, the dry season was beginning and workers would not have to contend with mud. • The second year after they arrived was probably 536 BC. The delay in rebuilding reflects the time it took to get wood from Lebanon to Jerusalem. • The work force was made up of everyone: This showed the spirit of unity among the returned exiles. Putting the Levites . . . in charge ensured that the work was done according to God’s specifications."
+    },
+    {
+      "src": "TYN",
+      "ref": "Ezra 3:10",
+      "note_ref": "TYN/15/3/10",
+      "cites": [
+        "Ezra 3:8"
+      ],
+      "text": "3:10-11 The music at this dedication ceremony sounded similar to the singing when Solomon first brought the Ark into the Temple (2 Chr 5:12-13). Both events caused the worshipers to givesing praise and thanks . . . to the Lord for his faithful covenant love and goodness. • as King David had prescribed: See 1 Chr 25:1-7."
+    },
+    {
+      "src": "GNV",
+      "ref": "Numbers 4:3",
+      "note_ref": "GNV/4/4/3",
+      "cites": [
+        "Numbers 4:3"
+      ],
+      "text": "The Levites were numbered after three sorts, first at a month old when they were consecrated to the Lord, next at 25 years old when they were appointed to serve in the Tabernacle, and 30 years old to bear the burdens of the Tabernacle."
+    },
+    {
+      "src": "GNV",
+      "ref": "Numbers 4:5",
+      "note_ref": "GNV/4/4/5",
+      "cites": [
+        "Numbers 4:3"
+      ],
+      "text": "Which divided the Sanctuary from the holiest of all."
+    },
+    {
+      "src": "GNV",
+      "ref": "Numbers 8:22",
+      "note_ref": "GNV/4/8/22",
+      "cites": [
+        "Numbers 8:24"
+      ],
+      "text": "In their presence, to serve them."
+    },
+    {
+      "src": "GNV",
+      "ref": "Numbers 8:25",
+      "note_ref": "GNV/4/8/25",
+      "cites": [
+        "Numbers 8:24"
+      ],
+      "text": "Such office as was painful, as to bear burdens and such like."
+    },
+    {
+      "src": "GNV",
+      "ref": "Numbers 8:26",
+      "note_ref": "GNV/4/8/26",
+      "cites": [
+        "Numbers 8:24"
+      ],
+      "text": "In singing Psalms, instructing, counseling and keeping the things in order."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 23:4",
+      "note_ref": "GNV/13/23/4",
+      "cites": [
+        "1 Chronicles 23:3"
+      ],
+      "text": "Or, to have care over."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 23:5",
+      "note_ref": "GNV/13/23/5",
+      "cites": [
+        "1 Chronicles 23:3"
+      ],
+      "text": "Hebrew, I made, meaning David."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 23:24",
+      "note_ref": "GNV/13/23/24",
+      "cites": [
+        "1 Chronicles 23:24",
+        "1 Chronicles 23:27"
+      ],
+      "text": "David did choose the Levites twice, first at the age of thirty, as verse 3 and again afterward at 20, as the necessity of the office did require: at the beginning they had no charge in the Temple, before they were five and twenty years old, and had none after fifty, Num. 4:3."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 23:28",
+      "note_ref": "GNV/13/23/28",
+      "cites": [
+        "1 Chronicles 23:27"
+      ],
+      "text": "In washing and cleansing all the holy vessels."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Chronicles 31:16",
+      "note_ref": "GNV/14/31/16",
+      "cites": [
+        "2 Chronicles 31:17"
+      ],
+      "text": "Who had also a portion and allowance in this distribution."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Chronicles 31:18",
+      "note_ref": "GNV/14/31/18",
+      "cites": [
+        "2 Chronicles 31:17"
+      ],
+      "text": "Meaning, that either by the faithful distributions of the officers, everyone had their part in the things that were offered, or else that their wives and children were relieved, because the Levites were faithful in their office, and so depended on them."
+    },
+    {
+      "src": "GNV",
+      "ref": "Ezra 3:7",
+      "note_ref": "GNV/15/3/7",
+      "cites": [
+        "Ezra 3:8"
+      ],
+      "text": "Or, Joppa."
+    },
+    {
+      "src": "GNV",
+      "ref": "Ezra 3:8",
+      "note_ref": "GNV/15/3/8",
+      "cites": [
+        "Ezra 3:8"
+      ],
+      "text": "Which month contained part of April and part of May: for in the mean season they had provided for things necessary for the work."
+    },
+    {
+      "src": "GNV",
+      "ref": "Ezra 3:9",
+      "note_ref": "GNV/15/3/9",
+      "cites": [
+        "Ezra 3:8"
+      ],
+      "text": "They gave them exhortations, and encouraged every man forward in the work."
+    }
+  ]
+}

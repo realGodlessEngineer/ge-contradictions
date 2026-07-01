@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 199,
+  "question": "Who was Achan's father?",
+  "summary": "Joshua 7:1 names Achan as the son of Carmi, the son of Zabdi, the son of Zerah, but Joshua 7:24 and 22:20 call Achan \"the son of Zerah\" directly — collapsing what Joshua 7:1 presents as a four-generation lineage into a single father-son relationship.",
+  "consensus": "apparent_only",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Commentators read \"son of Zerah\" as a telescoped genealogy — ben naming a remote ancestor while Carmi remains Achan's immediate father.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The objection is catalogued by Steve Wells in the Skeptics Annotated Bible, who asks plainly whether Achan's father was Carmi (Josh 7:1) or Zerah (Josh 7:24; 22:20).",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); contradiction \"Who was Achan's father?\" (skepticsannotatedbible.com/contra/achan.html)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Joshua 7:1",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke spells out the genealogy (Zarah > Zabdi > Carmi > Achan) and the span between Achan and Zerah, treating this passage's father/ancestor question directly."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page treating this specific contradiction could be confirmed (GotQuestions' Achan/Zerah pages do not address the father-vs-ancestor discrepancy); link omitted rather than guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "199#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Joshua 22:19",
+      "full_note_ref": "GILL/6/22/19",
+      "excerpt_text": "Did not Achan the son of Zerah,.... One that descended from Zerah the son of Judah …",
+      "on_tension_rationale": "Directly glosses the bare \"son of Zerah\" of 22:20 as \"one that descended from Zerah,\" i.e. a remote ancestor, dissolving the apparent father conflict with 7:1.",
+      "source_note_text": "Did not Achan the son of Zerah,.... One that descended from Zerah the son of Judah, Jos 7:18,\ncommit a trespass in the accursed thing; in taking what was devoted to sacred uses:\nand wrath fell on all the congregation of Israel? and which was what was feared now; and this instance is brought to show that such fears were not groundless:\nand that man perished not alone in his iniquity: which seems to confirm the notion of those who think that his children suffered with him; though it may be observed, that it was through his sin that thirty six men were slain by the men of Ai, Jos 7:5."
+    }
+  ]
+}

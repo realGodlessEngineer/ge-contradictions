@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 29,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the universal-death verses as the standing rule for fallen humanity, with Enoch and Elijah granted a God-wrought change that does the work of death without the dying.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The Skeptics' Annotated Bible presses the point directly: the flat universal claims of Romans 5:12 and Hebrews 9:27 cannot stand once Scripture itself records Enoch and Elijah being taken without dying.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Must everyone die?\" (skepticsannotatedbible.com/contra/die.html)",
+        "year": "1999",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Must everyone die?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Hebrews 9:27",
+      "excerpt_text": "Unto men generally, during the course of the present world, not all men as some falsely quote; for Enoch and Elijah have not died, and those that shall be alive at the day of judgment shall not die, but be changed.",
+      "full_note_ref": "CLARKE/58/9/27",
+      "on_tension_rationale": "Clarke explicitly answers the contradiction: he restricts the 'appointed once to die' clause to men 'generally,' names Enoch and Elijah as the exceptions, and rebukes reading the verse as universal ('not all men as some falsely quote').",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Hebrews 9:27",
+      "excerpt_text": "and though there have been some exceptions, as Enoch and Elijah; and all will not sleep, or die, some will be found alive at Christ's appearing; yet such will undergo a change which is equivalent to death, as Enoch and Elijah have done",
+      "full_note_ref": "GILL/58/9/27",
+      "on_tension_rationale": "Gill concedes Enoch and Elijah as 'exceptions' to the appointed-to-die statute, then harmonizes by arguing they underwent 'a change which is equivalent to death' — the core both-true reading of the tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 5:24",
+      "excerpt_text": "This does not at all affect the truth of the statement in Rom 5:12, Rom 5:14. For the same God who has appointed death as the wages of sin, and given us, through Christ, the victory over death, possesses the power to glorify into eternal life an Enoch and an Elijah, and all who shall be alive at the coming of the Lord without chaining their glorification to death and resurrection.",
+      "full_note_ref": "KD/1/5/3",
+      "on_tension_rationale": "Keil & Delitzsch name Romans 5:12 directly and argue Enoch's and Elijah's translation 'does not at all affect' its truth, since God can glorify them 'without chaining' the change to death — an explicit reconciliation of the very verses in tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Hebrews 9:27",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, restricting 'appointed once to die' to men generally and naming Enoch and Elijah as the standing exceptions ('not all men as some falsely quote')."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Enoch-Elijah.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why did God miraculously take Enoch and Elijah to heaven?",
+        "note": "live apologetic treatment of the two figures taken to heaven without dying"
+      }
+    }
+  }
+}

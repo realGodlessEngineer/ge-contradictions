@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 395,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Critical commentators resolve the Bethabara/Bethany conflict by identifying a second, east-Jordan Bethany and attributing the reading 'Bethabara' to Origen's textual emendation rather than the original text.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible flags the location named in John 1:28 as inconsistent with the Jordan River baptism site indicated by the Synoptics.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2012",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (SAB Press, 2012)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 395,
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "John 1:28",
+      "excerpt_text": "Bethabara--Rather, \"Bethany\" (according to nearly all the best and most ancient manuscripts); not the Bethany of Lazarus, but another of the same name, and distinguished from it as lying \"beyond Jordan,\" on the east.",
+      "full_note_ref": "JFB/43/1/28",
+      "license_code": "PD",
+      "on_tension_rationale": "JFB identifies the manuscript evidence for 'Bethany' over 'Bethabara' and distinguishes this east-Jordan Bethany from the Lazarus-Bethany, directly resolving the apparent geographical inconsistency.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 395,
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "author": "Adam Clarke",
+      "work": "Clarke's Commentary",
+      "year": "1832",
+      "attribution": "Adam Clarke, Clarke's Commentary (1832)",
+      "verse_ref": "John 1:28",
+      "excerpt_text": "It is very probable that the word Bethany should be inserted here, instead of Bethabara. This reading, in the judgment of the best critics, is the genuine one…there was another of the same name, beyond Jordan, in the tribe of Reuben. It was probably of this that the evangelist speaks; and Origen, not knowing of this second Bethany, altered the reading to Bethabara. See Rosenmuller.",
+      "full_note_ref": "CLARKE/43/1/28",
+      "license_code": "PD",
+      "on_tension_rationale": "Clarke traces the 'Bethabara' reading to Origen's editorial intervention and affirms a second Bethany beyond Jordan, providing both the textual and geographical resolution.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley addresses the Bethabara/Bethany place-name conflict under geographical discrepancies, citing the manuscript evidence for Bethany and the existence of a distinct east-Jordan location by that name as the full resolution."
+      },
+      "link": null
+    }
+  }
+}

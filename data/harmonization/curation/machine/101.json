@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 101,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators treat the differing 'names' as one self-existent God variously rendered — JAH/I AM/Jehovah being the same name, and 'Jealous' an attribute, not a rival identity.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells in the Skeptic's Annotated Bible, who lists the passages that each declare THE divine name and notes they do not agree on one name.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible (\"What is God's name?\", skepticsannotatedbible.com/contra/name.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, \"What is God's name?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Exodus 3:13",
+      "excerpt_text": "God therefore told him His name, or, to speak more correctly, He explained the name יהוה, by which He had made Himself known to Abraham at the making of the covenant (Gen 15:7), in this way, אהיה אשׁר אהיה, \"I am that I am,\" and designated Himself by this name as the absolute God of the fathers, acting with unfettered liberty and self-dependence.",
+      "full_note_ref": "KD/2/3/13",
+      "on_tension_rationale": "Directly dissolves the I AM vs Jehovah tension: 'I am that I am' is presented as God's own explanation of the name Jehovah (יהוה), not a competing name. NOT shipped.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Psalms 68:4",
+      "excerpt_text": "…by his name JAH; or Jehovah; which being a name incommunicable to creatures, and given to Christ, shows him to be the most High; a self-existent Being, the immutable and everlasting \"I AM\" …",
+      "full_note_ref": "GILL/19/68/4",
+      "on_tension_rationale": "Unifies three of the disputed names at once — JAH = Jehovah = the everlasting 'I AM' — so the JAH-vs-Jehovah and I AM differences are forms of one name. NOT shipped.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Exodus 34:14",
+      "excerpt_text": "…for the Lord whose name is Jealous, is a jealous God; his name and nature answer to one another; he admits of no rival or competitor in worship …",
+      "full_note_ref": "GILL/2/34/14",
+      "on_tension_rationale": "Addresses the 'Jealous' name specifically: it names a nature/attribute (intolerance of rival worship), not a separate personal name in competition with Jehovah. NOT shipped.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Psalm 68:4",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, identifying JAH as a contraction of Jehovah and equating it with the everlasting 'I AM' — the heart of the 'multiple names' objection harmonized at the verse."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/names-of-God.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What are the different names of God, and what do they mean?",
+        "note": "Live apologetic treatment; presents YHWH/Jehovah as the one proper name and the other titles (incl. Yahweh-Sabaoth = LORD of hosts) as complementary descriptions of the same God."
+      }
+    }
+  }
+}

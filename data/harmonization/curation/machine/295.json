@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 295,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the two superlatives as praise in different respects — Hezekiah unequalled in trust, Josiah in law-keeping — so neither claim crowds out the other.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The critical commentator Otto Thenius pressed this as a real contradiction, holding that the same absolute formula — no king like him before or after — cannot be true of both Hezekiah and Josiah at once.",
+      "skeptic": {
+        "name": "Otto Thenius",
+        "work": "Die Bücher der Könige",
+        "year": "1849",
+        "attribution": "Otto Thenius (d. 1876), Die Bücher der Könige (1849)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "2 Kings 18:5",
+      "excerpt_text": "The verdict, \"after him was none like him among all the kings of Judah,\" refers to Hezekiah's confidence in God (בּטח), in which he had no equal, whereas in the case of Josiah his conscientious adherence to the Mosaic law is extolled in the same words (Kg2 23:25); so that there is no ground for saying that there is a contradiction between our verse and Kg2 23:25 (Thenius).",
+      "full_note_ref": "KD/12/18/1",
+      "on_tension_rationale": "K&D names BOTH verses, distinguishes the respect each superlative praises (Hezekiah's trust vs Josiah's law-keeping), and explicitly denies a contradiction while naming the critic (Thenius) who asserted one. Strongest single reconcile on the row; parity-capped to one on this discrepancy_first row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on 2 Kings 18:5 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this exact pair under the harmonizing tradition, reading the two superlatives as praise in different respects (trust vs. law) and naming Thenius as the critic who alleged a contradiction. Row-surfaced harmonizing commentator keyed to the passage; preferred over an unverifiable Haley specific-passage claim."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page squarely engages this pair: defendinginerrancy.com/bible-solutions/2_Kings_18.5.php and 2_Kings_23.25.php both 404; gotquestions.org has only general life-of-Hezekiah / Josiah-in-the-Bible pages that do not harmonize the contradiction. Link omitted rather than cite a topically-adjacent page that does not engage the tension."
+      }
+    }
+  }
+}

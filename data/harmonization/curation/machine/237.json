@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 237,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders treat 1 Samuel 31 as the inspired account and read the Amalekite's claim as a self-serving lie, with 1 Chronicles 10:14 ascribing the suicide to God as its ultimate cause.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells in The Skeptic's Annotated Bible, who lists four irreconcilable causes of Saul's death and quips that Saul was so hard to kill God had to do it four different ways.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How did Saul die?\" (skepticsannotatedbible.com/contra/saul.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; print ed. 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "2 Samuel 1:5",
+      "excerpt_text": "This statement is at variance with the account of the death of Saul in Sa1 31:3.; and even apart from this it has an air of improbability, or rather of untruth in it …The Amalekite invented this, in the hope of thereby obtaining the better recompense from David.",
+      "full_note_ref": "KD/10/1/1",
+      "on_tension_rationale": "K&D is the one gathered note that directly names the Amalekite-vs-suicide conflict and supplies the standard harmonization: the Amalekite lied for reward, so 1 Sam 31 stands as the true account. Two non-adjacent verbatim sentences from the block-anchored note, joined sense-preservingly (concession of the variance + resolution); first truncated mid-sentence (ellipsis), second ends on a real source period.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on 2 Samuel 1:5-10",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Row-surfaced harmonizer that treats this exact tension directly: it names the variance with 1 Samuel 31 and resolves it by reading the Amalekite's report as a fabrication invented to win David's reward, leaving 1 Samuel 31's suicide as the true account."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/death-of-Saul.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why are there contradictory accounts regarding the death of Saul in 1 and 2 Samuel?",
+        "note": "Live apologetic treatment; cites the suicide (1 Sam 31), Amalekite (2 Sam 1), and Philistine (2 Sam 21) accounts and harmonizes via the Amalekite-lied reading."
+      }
+    }
+  }
+}

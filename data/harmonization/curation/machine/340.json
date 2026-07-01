@@ -1,0 +1,90 @@
+{
+  "contradiction_id": 340,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers distinguish the wicked's present, temporary prosperity from their final ruin, so the observation that evil prospers and the assertion that it perishes describe different stages of one outcome.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells sets the texts that say the wicked prosper (Job 12:6; Ps 73; Jer 12:1) against those that say evil destroys them (Ps 34:21) as flatly contradictory answers.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 340,
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "verse_ref": "Psalm 34:21",
+      "excerpt_text": "The godly might suffer, but the Lord will reward them in the end. Similarly, the wicked might prosper for a time, but ultimately they will perish (1:6; 34:15-16).",
+      "full_note_ref": "TYN/19/34/19",
+      "license_code": "PD",
+      "on_tension_rationale": "The cleanest temporary-vs-final harmonization: the wicked prosper 'for a time' (Job/Ps 73/Jer) yet 'ultimately perish' (Ps 34:21), so both poles describe different stages of one outcome.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 340,
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "verse_ref": "Job 12:6",
+      "excerpt_text": "This principle Job here opposes, and maintains that God, in disposing men’s outward affairs, acts as a sovereign, reserving the exact distribution of rewards and punishments for the future state.",
+      "full_note_ref": "MHC/18/12/6",
+      "license_code": "PD",
+      "on_tension_rationale": "Concedes the wicked do prosper now (Job 12:6) but locates the corrective justice (Ps 34:21) in the future state, dissolving the conflict by separating present lot from final reckoning.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 340,
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "verse_ref": "Jeremiah 12:1",
+      "excerpt_text": "God for a while giveth prosperity, that afterward they should the more feel his heavy judgment when they lack their riches which were a sign of his mercy.",
+      "full_note_ref": "GNV/24/12/3",
+      "license_code": "PD",
+      "on_tension_rationale": "A distinct 1599 voice making the same temporary-vs-final move: present prosperity ('for a while') is itself a setup for the heavier judgment to come, so Jer 12:1 and Ps 34:21 are stages of one process.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "On Job 12:6 Henry grants that robbers' tents prosper now but argues God reserves the exact distribution of rewards and punishments for the future state, the standard harmonizing reading of the wisdom tension."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/why-do-the-wicked-prosper.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why do the wicked prosper?",
+        "note": "Engages Psalm 73, Job, and Jeremiah 12:1 directly, arguing the wicked's prosperity is fleeting against their eternal judgment, the temporary-vs-final reading."
+      }
+    }
+  }
+}

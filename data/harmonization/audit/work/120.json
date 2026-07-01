@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 120,
+  "question": "How should strangers be treated?",
+  "summary": "Leviticus 19:34 and Deuteronomy 10:19 command Israel to love the stranger (ger) as themselves, remembering that they were strangers in Egypt. Deuteronomy 7:2, however, commands utter destruction and no mercy for the Canaanite nations Israel is displacing. The contradiction is between two opposite imperatives toward outsiders — welcome/love vs. exterminate.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders distinguish the two targets: the resident stranger (ger) who has come under Israel's God is loved, while the Canaanite nations face herem as judicial punishment for incorrigible wickedness.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Thomas Paine pressed the moral incompatibility directly, holding that the divine command to exterminate the Canaanites — \"even to suckling infants\" — reads as the word of a demon, not of the God who elsewhere enjoins kindness to the stranger.",
+    "skeptic": {
+      "name": "Thomas Paine",
+      "work": "The Age of Reason",
+      "year": "1794-1807",
+      "attribution": "Thomas Paine (d. 1809), The Age of Reason (1794-1807)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Deuteronomy 7:2",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB engages this passage directly, arguing the extermination doom is consistent with the divine character only as judicial punishment of incorrigible idolatry — the harmonizing reading keyed to this contradiction."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Canaanites-extermination.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why did God command the extermination / genocide of the Canaanites?",
+        "note": "live apologetic treatment of the no-mercy command in Deuteronomy 7:2"
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "120#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Deuteronomy 7:2",
+      "full_note_ref": "JFB/5/7/2",
+      "excerpt_text": "This relentless doom of extermination which God denounced against those tribes of Canaan cannot be reconciled with the attributes of the divine character, except on the assumption that their gross idolatry and enormous wickedness left no reasonable hope of their repentance and amendment.",
+      "on_tension_rationale": "JFB names the exact tension (the extermination command vs. God's character, which elsewhere commands loving the stranger) and supplies the standard harmonization: the Canaanites are exempted from mercy as incorrigible idolaters under judicial sentence, not as ordinary outsiders.",
+      "source_note_text": "thou shalt smite them, and utterly destroy them; thou shalt make no covenant with them--This relentless doom of extermination which God denounced against those tribes of Canaan cannot be reconciled with the attributes of the divine character, except on the assumption that their gross idolatry and enormous wickedness left no reasonable hope of their repentance and amendment. If they were to be swept away like the antediluvians or the people of Sodom and Gomorrah, as incorrigible sinners who had filled up the measure of their iniquities, it mattered not to them in what way the judgment was inflicted; and God, as the Sovereign Disposer, had a right to employ any instruments that pleased Him for executing His judgments. Some think that they were to be exterminated as unprincipled usurpers of a country which God had assigned to the posterity of Eber and which had been occupied ages before by wandering shepherds of that race, till, on the migration of Jacob's family into Egypt through the pressure of famine, the Canaanites overspread the whole land, though they had no legitimate claim to it, and endeavored to retain possession of it by force. In this view their expulsion was just and proper. The strict prohibition against contracting any alliances with such infamous idolaters was a prudential rule, founded on the experience that \"evil communications corrupt good manners\" [Co1 15:33], and its importance or necessity was attested by the unhappy examples of Solomon and others in the subsequent history of Israel."
+    }
+  ]
+}

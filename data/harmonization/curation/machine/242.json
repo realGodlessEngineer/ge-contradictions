@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 242,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Nachon and Chidon as two names for one place — Gill takes them as alternate names for the same threshing-floor.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells in The Skeptic's Annotated Bible, who notes the two accounts of the same incident name the location differently — Nachon's threshing-floor in 2 Samuel but Chidon's in 1 Chronicles.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (\"Where did God kill Uzzah?\", skepticsannotatedbible.com/contra/uzza.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (\"Where did God kill Uzzah?\")"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "2 Samuel 6:5",
+      "excerpt_text": "Who is called Chidon, Ch1 13:9; he seems to have had two names; or it was a place that had two names, as say the Jews …",
+      "full_note_ref": "GILL/10/6/5",
+      "on_tension_rationale": "Directly harmonizes the exact place-name difference (Nachon vs Chidon) by treating them as two names for one place — the precise tension of this row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on 2 Samuel 6:6-7",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat the Nachon/Chidon difference at the verse, reading Chidon as an explanation of Nachon — the threshing-floor named from the incident, not its owner; harmonizing commentator surfaced on the row (Haley's coverage of this specific pair unconfirmed)."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) engages the Nachon-vs-Chidon place-name difference; on-topic treatments (ISBE, biblehub, christcreated) are off-allowlist. Link omitted rather than guessed."
+      }
+    }
+  }
+}

@@ -1,0 +1,390 @@
+{
+  "contradiction_id": 289,
+  "question": "Where was Joash buried?",
+  "summary": "2 Kings 12:21 says Joash was buried with his fathers in the city of David — the standard royal-burial formula. 2 Chronicles 24:25 says he was buried in the city of David but explicitly \"not in the sepulchres of the kings,\" because of his apostasy. The Chronicler is rewriting the Kings account to insert a posthumous demerit.",
+  "consensus": "probable_contradiction",
+  "consensus_id": 2,
+  "category": "History & Narrative Events",
+  "contradiction_type": "geographical",
+  "testament_scope": "OT_internal",
+  "books_in_tension": "2 Kings, 2 Chronicles",
+  "refs_raw": [
+    "2 Kings 12:20-21",
+    "2 Chronicles 24:24-25"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "2 Kings 12:20-21",
+      "book": "2 Kings",
+      "bolls": 12,
+      "ranges": [
+        [
+          12,
+          20,
+          21
+        ]
+      ]
+    },
+    {
+      "raw": "2 Chronicles 24:24-25",
+      "book": "2 Chronicles",
+      "bolls": 14,
+      "ranges": [
+        [
+          24,
+          24,
+          25
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 31,
+  "notes_raw_count": 31,
+  "notes_dropped": 0,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "2 Kings 12:17",
+      "note_ref": "GILL/12/12/17",
+      "cites": [
+        "2 Kings 12:20-21"
+      ],
+      "text": "For Jozachar the son of Shimeath,.... Said to be an Ammonitess, and this man's name Zabad, Ch2 24:26,\nand Jehozabad the son of Shomer, his servants; who is said in the same place to be the son of Shimrith a Moabitess:\nthese smote him, and he died; justly did he fall by the hands of such persons for his idolatry:\nand they buried him with his fathers in the city of David; but not in the sepulchres of the kings, because of his idolatry and murder of a priest of the Lord:\nand Amaziah his son reigned in his stead; the conspirators not seeking the kingdom, but vengeance on him for his sins, which, whether right in them to do, was suffered by the Lord.\nNext: 2 Kings Chapter 13",
+      "anchor": true
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Chronicles 24:22",
+      "note_ref": "GILL/14/24/22",
+      "cites": [
+        "2 Chronicles 24:24-25"
+      ],
+      "text": "For the army of the Syrians came with a small company of men,.... It consisted but of few:\nand the Lord delivered a very great host into their hand; which the king of Judah and his princes had got together to oppose them:\nbecause they had forsaken the Lord God of their fathers; therefore the Lord forsook them, and gave them up into the hand of their enemies:\nso they executed judgment against Joash; were the instruments God made use of to execute his vengeance on him for his idolatry and murder."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Chronicles 24:23",
+      "note_ref": "GILL/14/24/23",
+      "cites": [
+        "2 Chronicles 24:24-25"
+      ],
+      "text": "And when they were departed from him,.... Having got what wealth and spoil they could:\nfor they left him in great diseases; through the wounds they gave him, and the distress they brought him into:\nhis own servants conspired against him, for the blood of the sons of Jehoiada the priest; for perhaps more than one was slain at the same time; the rest vindicating the cause of their brother, shared the same fate; or the plural is put for the singular:\nand slew him on his bed; in the house of Millo, where he lay ill of his wounds, and sick of his diseases, and could not defend himself:\nand he died: of the wounds his servants gave him:\nand they buried him in the city of David, but they buried him not in the sepulchres of the kings; see Kg2 12:21."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Chronicles 24:24",
+      "note_ref": "GILL/14/24/24",
+      "cites": [
+        "2 Chronicles 24:24-25"
+      ],
+      "text": "And these are they that conspired against him, Zabad the son of Shimeah an Ammonitess,.... Called Jozachar, the son of Shimeah, Kg2 12:21,\nand Jehozabad the son of Shimrith a Moabitess; called in the same place the son of Shomer."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Chronicles 24:25",
+      "note_ref": "GILL/14/24/25",
+      "cites": [
+        "2 Chronicles 24:24-25"
+      ],
+      "text": "Now concerning his sons,.... The sons of Joash; how many they were, and what their names:\nand the greatness of the burdens laid upon him; which some understand of the hard and heavy prophecies of the Lord against him; and others of the heavy taxes and tribute imposed on him by the king of Syria; and others of the collection for the repairs of the temple, Ch2 24:6, where the word used signifies a burden; and it follows:\nand the repairing of the house of the Lord; the whole history of that:\nbehold, they are written in the story of the book of the kings; not in the canonical book so called, but in the history, commentaries, or annals of the kings of Judah now lost:\nand Amaziah his son reigned in his stead; see Kg2 12:21.\nNext: 2 Chronicles Chapter 25"
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Kings 12:20",
+      "note_ref": "JFB/12/12/20",
+      "cites": [
+        "2 Kings 12:20-21"
+      ],
+      "text": "HE IS SLAIN. (Kg2 12:19-21)\nhis servants arose . . . and slew Joash in the house of Millo--(See on Ch2 24:25).\nNext: 2 Kings Chapter 13"
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Chronicles 24:22",
+      "note_ref": "JFB/14/24/22",
+      "cites": [
+        "2 Chronicles 24:24-25"
+      ],
+      "text": "when he died, he said, The Lord look upon it and require it--These dying words, if they implied a vindictive imprecation, exhibit a striking contrast to the spirit of the first Christian martyr (Act 7:60). But, instead of being the expression of a personal wish, they might be the utterance of a prophetic doom."
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Chronicles 24:23",
+      "note_ref": "JFB/14/24/23",
+      "cites": [
+        "2 Chronicles 24:24-25"
+      ],
+      "text": "HE IS SLAIN BY HIS SERVANTS. (Ch2 24:23-27)\nat the end of the year the host of Syria came up--This invasion took place under the personal conduct of Hazael, whom Joash, to save the miseries of a siege, prevailed on to withdraw his forces by a large present of gold (Kg2 12:18). Most probably, also, he promised the payment of an annual tribute, on the neglect or refusal of which the Syrians returned the following year, and with a mere handful of men inflicted a total and humiliating defeat on the collected force of the Hebrews."
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Chronicles 24:25",
+      "note_ref": "JFB/14/24/25",
+      "cites": [
+        "2 Chronicles 24:24-25"
+      ],
+      "text": "they left him in great diseases--The close of his life was embittered by a painful malady, which long confined him to bed.\nhis own servants conspired against him--These two conspirators (whose fathers were Jews, but their mothers aliens) were probably courtiers, who, having constant access to the bedchamber, could the more easily execute their design.\nfor the blood of the sons--read \"the son\" of Jehoiada. Public opinion seems to have ascribed the disasters of his life and reign to that foul crime. And as the king had long lost the esteem and respect of his subjects, neither horror nor sorrow was expressed for his miserable end!\nNext: 2 Chronicles Chapter 25"
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Kings 12:18",
+      "note_ref": "CLARKE/12/12/18",
+      "cites": [
+        "2 Kings 12:20-21"
+      ],
+      "text": "Took all the hallowed things - He dearly bought a peace which was of short duration, for the next year Hazael returned, and Jehoash, having no more treasures, was obliged to hazard a battle, which he lost, with the principal part of his nobility, so that Judah was totally ruined, and Jehoash shortly after slain in his bed by his own servants; Ch2 24:23."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Kings 12:19",
+      "note_ref": "CLARKE/12/12/19",
+      "cites": [
+        "2 Kings 12:20-21"
+      ],
+      "text": "The rest of the acts of Joash - We have already seen that this man, so promising in the beginning of his reign, apostatized, became an idolater, encouraged idolatry among his subjects, and put the high priest Zechariah, the son of Jehoiada his benefactor, to death; and now God visited that blood upon him by the hands of the tyrannous king of Syria, and by his own servants."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Kings 12:20",
+      "note_ref": "CLARKE/12/12/20",
+      "cites": [
+        "2 Kings 12:20-21"
+      ],
+      "text": "The house of Millo - Was a royal palace, built by David; (see Sa2 5:9); and Silla is supposed to be the name of the road or causeway that led to it. Millo was situated between the old city of Jerusalem, and the city of David."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Kings 12:21",
+      "note_ref": "CLARKE/12/12/21",
+      "cites": [
+        "2 Kings 12:20-21"
+      ],
+      "text": "For Jozachar - This person is called Zabad in Ch2 24:26; and Shimeath his mother is said to be an Ammonitess, as Jehozabad is said to be the son, not of Shomer, but of Shimrith, a Moabitess.\nThey buried him with his fathers in the city of David - But they did not bury him in the sepulchres of the kings; this is supposed to express the popular disapprobation of his conduct. Thus ended a reign full of promise and hope in the beginning, but profligate, cruel, and ruinous in the end. Never was the hand of God's justice more signally stretched out against an apostate king and faithless people, than at this time. Now Hazael had a plenary commission; the king, the nobles, and the people, were food for his sword, and by a handful of Syrians the mighty armies of Israel were overthrown: For the army of the Syrians came with a small company of men, and the Lord delivered a very great host into their hand, because they had forsaken the Lord God, Ch2 24:24. Thus, as righteousness exalteth a nation, so sin is the disgrace and confusion of any people. Sin destroys both counsel and strength; and the wicked flee when none pursue."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Chronicles 24:22",
+      "note_ref": "CLARKE/14/24/22",
+      "cites": [
+        "2 Chronicles 24:24-25"
+      ],
+      "text": "The Lord look upon it, and require it - And so he did; for, at the end of that year, the Syrians came against Judah, destroyed all the princes of the people, sent their spoils to Damascus; and Joash, the murderer of the prophet, the son of his benefactor, was himself murdered by his own servants. Here was a most signal display of the Divine retribution.\nOn the subject of the death of this prophet the reader is requested to refer to the note on Mat 23:34, Mat 23:35."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Chronicles 24:26",
+      "note_ref": "CLARKE/14/24/26",
+      "cites": [
+        "2 Chronicles 24:24-25"
+      ],
+      "text": "These are they that conspired against him - The two persons here mentioned were certainly not Jews; the mother of one was an Ammonitess, and the mother of the other was a Moabitess. Who their fathers were we know not; they were probably foreigners and aliens. Some suppose that these persons were of the king's chamber, and therefore could have the easiest access to him. It has been, and is still, the folly of kings to have foreigners for their valets and most confidential servants, and they have often been the causes of murders and treacheries of different kinds. Foreigners should be banished from the person of the sovereign by strong and efficient laws: even in this country they have often been the cause of much political wo."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Chronicles 24:27",
+      "note_ref": "CLARKE/14/24/27",
+      "cites": [
+        "2 Chronicles 24:24-25"
+      ],
+      "text": "The greatness of the burdens laid upon him - Meaning, probably, the heavy tribute laid upon him by the Syrians; though some think the vast sums amassed for the repairs of the temple are here intended.\nWritten in the story - מדרש midrash, the commentary, of the book of Kings. We have met with this before; but these works are all lost, except the extracts found in Kings, Chronicles, and Ezra. These abridgments were the cause of the neglect, and finally of the destruction, of the originals. This has been often the case in works of great consequence. Trogus Pompeius wrote a general history of the world, which he brought down to the reign of Augustus, in forty-four volumes. Justin abridged them into one volume, and the original is lost."
+    },
+    {
+      "src": "KD",
+      "ref": "2 Kings 12:19",
+      "note_ref": "KD/12/12/19",
+      "cites": [
+        "2 Kings 12:20-21"
+      ],
+      "text": "Conspiracy against Joash. - Not long after the departure of the Syrians, who had left Joash, according to Ch2 24:25, with many wounds, his servants formed a conspiracy against him and slew him upon his bed in the house Millo, which goeth down to Silla. This description of the locality is perfectly obscure for us. The conjecture that בּית־מלּא was the house in the castle of Millo which is so frequently mentioned (see at Kg1 9:15 and Sa2 5:9), is precluded by the fact that this castle is always called המּלּא (with the article). סלּא is regarded by many as an abbreviation of מסלּה, \"which goes down by the road;\" and Thenius supposes that the reference is to the road which ran diagonally through the city from the Joppa gate to the Haram-area, corresponding to the present David's road. Others regard סלּא as the proper name of a place in the neighbourhood of Jerusalem. It is impossible to get any certain meaning out of it, unless we alter the text according to arbitrary assumptions, as Thenius has done. The conspirators were Jozachar the son of Shimeath, and Jehozabad the son of Shomer, according to Kg2 12:21; but according to the Chronicles (v. 26), they were Zabad the son of Shimeath the Ammonitess, and Jehozabad the son of Shimrith the Moabitess. The identity of the first names is perfectly obvious. זבד is a copyist's error for זכר, and this is the contracted form of יוזכר. The difference in the second: son of Shomer according to our text, and son of the Shimrith according to the Chronicles, has probably also arisen from a slip of the pen, since שׁמר might easily be occasioned by the dropping out of the ת from the defectively written שׁמרת, although it is also possible that Shomer may be the name of the grandfather. Joash was buried with his father sin the city of David; but according to v. 25 of the Chronicles he was not buried in the graves of the kings. The two statements are not irreconcilable; and there may be good historical ground for the account in the Chronicles, as Bertheau acknowledges with perfect justice, in spite of the suspicion which has been cast upon it by Thenius."
+    },
+    {
+      "src": "MHC",
+      "ref": "2 Kings 12:17",
+      "note_ref": "MHC/12/12/17",
+      "cites": [
+        "2 Kings 12:20-21"
+      ],
+      "text": "When Joash had revolted from God and become both an idolater and a persecutor the hand of the Lord went out against him, and his last state was worse than his first.\nI. His wealth and honour became an easy prey to his neighbours. Hazael, when he had chastised Israel (Kg2 10:32), threatened Judah and Jerusalem likewise, took Gath, a strong city (Kg2 12:17), and thence intended to march with his forces against Jerusalem, the royal city, the holy city, but whose defence, on account of its sinfulness, had departed. Joash had neither spirit nor strength to make head against him, but gave him all the hallowed things, and all the gold that was found both in his exchequer and in the treasures of the temple (Kg2 12:18), to bribe him to march another way. If it were lawful to do this for the public safety, better part with the gold of the temple than expose the temple itself; yet, 1. If he had not forsaken God, and forfeited his protection, his affairs would not have been brought to this extremity, but he might have forced Hazael to retire. 2. He diminished himself, and made himself very mean, lost the honour of a prince and a soldier, and of an Israelite too, in alienating the dedicated things. 3. He impoverished himself and his kingdom. And, 4. He tempted Hazael to come again, when he could carry home so rich a booty without striking a stroke. And it had this effect, for the next year the host of Syria came up against Jerusalem, destroyed the prince, and plundered the city, Ch2 24:23, Ch2 24:24.\nII. His life became an easy prey to his own servants. They conspired against him and slew him (Kg2 12:20, Kg2 12:21), not aiming at his kingdom, for they opposed not his son's succeeding him, but to be avenged on him for some crime he had committed; and we are told in Chronicles that his murdering the prophet, Jehoiada's son, was the provocation. In this, how unrighteous soever they were (vengeance was not theirs, nor did it belong to them to repay), God was righteous; and this was not the only time that he let even kings know that it was at their peril if they touched his anointed and did his prophets any harm, and that, when he comes to make inquisition for blood, the blood of prophets will run the account very high. Thus fell Joash, who began in the spirit and ended in the flesh. God usually sets marks of his displeasure upon apostates, even in this life; for they, of all sinners, do most reproach the Lord.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "2 Chronicles 24:15",
+      "note_ref": "MHC/14/24/15",
+      "cites": [
+        "2 Chronicles 24:24-25"
+      ],
+      "text": "We have here a sad account of the degeneracy and apostasy of Joash. God had done great things for him; he had done something for God; but now he proved ungrateful to his God and false to the engagements he had laid himself under to him. How has the gold become dim, and the most fine gold changed! Here we find,\nI. The occasions of his apostasy. When he did that which was right it was not with a perfect heart. He never was sincere, never acted from principle, but in compliance to Jehoiada, who had helped him to the crown, and because he had been protected in the temple and rose upon the ruins of idolatry; and therefore, when the wind turned, he turned with it. 1. His good counsellor left him, and was by death removed from him. It was a mercy to him and his kingdom that Jehoiada lived so long-130 years (Ch2 24:15), by which it appears that he was born in Solomon's time, and had lived six entire reigns before this. It was an encouragement to him to go on in that good way which Jehoiada had trained him up in to see what honour was done to Jehoiada at his death: They buried him among the kings, with this honourable encomium (perhaps it was part of the inscription on his grave-stone), that he had done good in Israel. Judah is called Israel, because, the other tribes having revolted from God, they only were Israelites indeed. Note, It is the greatest honour to do good in our generations, and those who do that which is good shall have praise of the same. He had done good towards God; not that any man's goodness can extend unto him, but he had done good towards his house, in reviving the temple service, Ch2 23:8. Note, Those do the greatest good to their country that lay out themselves in their places to promote religion. Well, Jehoiada finished his course with honour; but the little religion that Joash had was all buried in his grave, and, after his death, both king and kingdom miserably degenerated. See how much one head may sustain, and what a great judgment to any prince or people the death of godly, zealous, useful men is. See how necessary it is that, as our Saviour speaks, we have salt in ourselves, that we act in religion from an inward principle, which will carry us on through all changes. Then the loss of a parent, a minister, a friend, will not involve the loss of our religion. 2. Bad counsellors got about him, insinuated themselves into his affections, wheedled him, flattered him, made obeisance to him, and, instead of condoling, congratulated him upon the death of his old tutor, as his release from the discipline he had been so long under, unworthy a man, a king. They tell him he must be priest-ridden no longer, he is now discharged from grave lessons and restraints, he may do as he pleases: and (would you think it?) the princes of Judah were the men that were so industrious to debauch him, Ch2 24:17. His father and grandfather were corrupted by the house of Ahab, from whom no better could be expected. But that the princes of Judah should be seducers to their king was very sad. But those that incline to the counsels of the ungodly will never want ungodly counsellors. They made obeisance to the king, flattered him into an opinion of his absolute power, promised to stand by him in making his royal will and pleasure pass for a law, any divine precept or institution to the contrary in any wise notwithstanding. And he hearkened to them: their discourse pleased him, and was more agreeable than Jehoiada's dictates used to be. Princes and inferior people have been many a time thus flattered into their ruin by those who have promised them liberty and dignity, but who have really brought them into the greatest servitude and disgrace.\nII. The apostasy itself: They left the house of God, and served groves and idols, Ch2 24:18. The princes, it is likely, had a request to the king, which they tell him they durst not offer while Jehoiada lived; but now they hope it will give no offence: it is that they may set up the groves and idols again which were thrown down in the beginning of his reign, for they hate to be always confined to the dull old-fashioned service of the temple. And he not only gave them leave to do it themselves, but he joined with them. The king and princes, who, a little while ago, were repairing the temple, now forsook the temple; those who had pulled down groves and idols now themselves served them. So inconstant a thing is man and so little confidence is to be put in him!\nIII. The aggravations of this apostasy and the additions of guilt to it. God sent prophets to them (Ch2 24:19) to reprove them for their wickedness, and to tell them what would be in the end thereof, and so to bring them again unto the Lord. It is the work of ministers to bring people, not to themselves, but to God - to bring those again to him who have gone a whoring from him. In the most degenerate times God left not himself without witness; though they had dealt very disingenuously with God, yet he sent prophets to them to convince and instruct them, and to assure them that they should find favour with him if yet they would return; for he would rather sinners should turn and live than go on and die, and those that perish shall be left inexcusable. The prophets did their part: they testified against them; but, few or none received their testimony.\n1. They slighted all the prophets; they would not give ear, were so strangely wedded to their idols that no reproofs, warnings, threatenings, nor any of the various methods which the prophets took to convince them would reclaim them. Few would hear them, fewer would heed them, but fewest of all would believe them or be governed by them.\n2. They slew one of the most eminent, Zechariah the son of Jehoiada, and perhaps others. Concerning him observe,\n(1.) The message which he delivered to them in the name of God, Ch2 24:20. The people were assembled in the court of the temple (for they had not quite left it), probably on occasion of some solemn feast, when this Zechariah, being filled with the spirit of prophecy, and known (it is likely) to be a prophet, stood up in some of the desks that were in the court of the priests, and very plainly, but without any provoking language, told the people of their sin and what would be the consequences of it. He did not impeach any particular persons, nor predict any particular judgments, as sometimes the prophets did, but as inoffensively as possible reminded them of what was written in the law. Let them but look into their Bibles, and there they would find, [1.] The precept they broke: \"You transgress the commandments of the Lord, you know you do so, in serving groves and idols: and why will you so offend God and wrong yourselves?\" [2.] The penalty they incurred: \"You know, if the word of God be true, you cannot prosper in this evil way; never expect to do ill and fare well. Nay, you find already that because you have forsaken the Lord he hath forsaken you, as he told you he would,\" Deu 29:25; Deu 31:16, Deu 31:17. This is the work of ministers, by the word of God, as a lamp and a light, to expose the sin of men and expound the providences of God.\n(2.) The barbarous treatment they gave him for his kindness and faithfulness in delivering this message to them, Ch2 24:21. By the conspiracy of the princes, or some of their party, and by the commandment of the king, who thought himself affronted by this fair warning, they stoned him to death immediately, not under colour of law, accusing him as a blasphemer, a traitor, or a false prophet, but in a popular tumult, in the court of the house of the Lord - as horrid a piece of wickedness as perhaps any we read of in all the history of the kings. The person was sacred - a priest, the place sacred - the court of the temple (the inner court, between the porch and the altar), the message yet more sacred, and we have reason to think that they knew it came from the spirit of prophecy. The reproof was just, the warning fair, both backed with scripture, and the delivery very gentle and tender; and yet so impudently and daringly do they defy God himself that nothing less than the blood of the prophet can satisfy their indignation at the prophecy. Be astonished, O heavens! at this, and tremble, O earth! that ever such villany should be committed by men, by Israelites, in contempt and violation of every thing that is just, honourable, and sacred - that a king, a king in covenant with God, should command the murder of one whom it was his office to protect and countenance! The Jews say there were seven transgressions in this; for they killed a priest, a prophet, a judge, they shed innocent blood, and polluted the court of the temple, the sabbath, and the day of expiation: for on that day, their tradition says, this happened.\n(3.) The aggravation of this sin, that this Zechariah, who suffered martyrdom for his faithfulness to God and his country, was the son of Jehoiada, who had done so much good in Israel, and particularly had been as a father to Joash, Ch2 24:22. The affront done by it to God, and the contempt put on religion, are not so particularly taken notice of as the ingratitude there was in it to the memory of Jehoiada. He remembered not the kindness of the father, but slew the son for doing his duty, and what the father would have done if he had been there. Call a man ungrateful, and you can call him no worse.\n(4.) The dying martyr's prophetic imprecation of vengeance upon his murderers: The Lord look upon it, and require it! This came not from a spirit of revenge, but a spirit of prophecy: He will require it. This would be the continual cry of the blood they shed, as Abel's blood cried against Cain: \"Let the God to whom vengeance belongs demand blood for blood. He will do it, for he is righteous.\" This precious blood was quickly reckoned for in the judgments that came upon this apostate prince; it came into the account afterwards in the destruction of Jerusalem by the Chaldeans - their misusing the prophets was that which brought upon them ruin without remedy (Ch2 36:16); nay, our Saviour makes the persecutors of him and his gospel answerable for the blood of this Zechariah; so loud, so long, does the blood of the martyrs cry. See Mat 23:35. Such as this is the cry of the souls under the altar (Rev 6:10), How long ere thou avenge our blood? For it shall not always go unrevenged.\nIV. The judgments of God which came upon Joash for this aggravated wickedness of his. 1. A small army of Syrians made themselves masters of Jerusalem, destroyed the princes, plundered the city, and sent the spoil of it to Damascus, Ch2 24:23, Ch2 24:24. God's people, while they kept in with God, had often been conquerors when the enemy had the advantage of the greater number; but now, on the contrary, an inconsiderable handful of Syrians routed a very great host of Israelites, because they had forsaken the Lord God of their fathers, and then they were not only put upon the level with their enemies, but opposed them with the utmost disadvantage; for their God not only departed from them, but turned to be their enemy and fought against them. The Syrians were employed as instruments in God's hand to execute judgments against Joash, though they little thought so, Isa 10:6, Isa 10:7, and see Deu 32:30. 2. God smote him with great diseases, of body, or mind, or both, either like his grandfather (Ch2 21:18), or, like Saul, an evil spirit from God troubling him. While he was plagued with the Syrians he thought that, if he could but get clear of them, he should do well enough. But, before they departed from him, God smote him with diseases. If vengeance pursue men, the end of one trouble will but be the beginning of another. 3. His own servants conspired against him. Perhaps he began to hope his disease would be cured - he was but a middle-aged man and might recover it; but he that cometh up out of the pit shall fall into the snare. When he thought he should escape death by sickness he met it by the sword. They slew him in his bed for the blood of the sons of Jehoiada, by which it should seem that he did not only slay Zechariah, but others of the sons of Jehoiada for his sake. Perhaps those that slew him intended to take vengeance for that blood; but, whether they did or not, this was what God intended in permitting them to slay him. Those that drink the blood of the saints shall have their own blood given them to drink, for they are worthy. The regicides are here named (Ch2 24:26), and it is observable that the mothers of them both were foreigners, one an Ammonitess and the other a Moabitess. The idolatrous kings, it is likely, countenanced those marriages which the law prohibited for the prevention of idolatry; and see how they resulted in their own destruction. 4. His people would not bury him in the sepulchres of the kings because he had stained his honour by his mal-administration. Let him not be written with the righteous, Psa 69:28. These judgments are called the burdens laid upon him (Ch2 24:27), for the wrath of God is a heavy burden, too heavy for any man to bear. Or it may be meant of the threatenings denounced against him by the prophets, for those are called burdens. Usually God sets some special marks of his displeasure upon apostates in this life, for warning to all to remember Lot's wife.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Kings 12:18",
+      "note_ref": "TYN/12/12/18",
+      "cites": [
+        "2 Kings 12:20-21"
+      ],
+      "text": "12:18 Sacred objects . . . gold: Such treasures had been contributed to the Temple earlier by Solomon and Asa (1 Kgs 7:51; 15:15). • Hazael had already begun the attack against Jerusalem, and Joash was wounded during the battle (2 Chr 24:25). Paying tribute to Hazael may have prevented further destruction in the city."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Kings 12:20",
+      "note_ref": "TYN/12/12/20",
+      "cites": [
+        "2 Kings 12:20-21"
+      ],
+      "text": "12:20-21 The assassination of the king in 796 BC by some of his own officers was in reprisal for the murder of Jehoiada’s son Zechariah (2 Chr 24:21-22, 25).\n12:20 Beth-millo: This district lay on a ridge of the eastern hill of Jerusalem in an area known as the City of David, where Solomon installed a series of supporting terraces (1 Kgs 9:15). • The road to Silla is otherwise unknown."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Chronicles 24:23",
+      "note_ref": "TYN/14/24/23",
+      "cites": [
+        "2 Chronicles 24:24-25"
+      ],
+      "text": "24:23-26 God could use war to render judgment on Israel just as surely as on any other nation; one of the characteristics of a “holy war” was a small force’s defeat of a much larger army."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Chronicles 24:25",
+      "note_ref": "TYN/14/24/25",
+      "cites": [
+        "2 Chronicles 24:24-25"
+      ],
+      "text": "24:25-26 Jehoiada had received a royal burial (24:15-16), but Joash was buried in disgrace."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Chronicles 24:27",
+      "note_ref": "TYN/14/24/27",
+      "cites": [
+        "2 Chronicles 24:24-25"
+      ],
+      "text": "24:27 The Commentary on the Book of the Kings that the Chronicler used as a source is no longer available to us (see also 9:29)."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Kings 12:18",
+      "note_ref": "GNV/12/12/18",
+      "cites": [
+        "2 Kings 12:20-21"
+      ],
+      "text": "After the death of Jehoiada, Joash fell to idolatry: therefore God rejected him, and stirreth up his enemy against him, whom he pacified with the treasures of the Temple: for God would not be served with those gifts, seeing the king’s heart was wicked."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Kings 12:20",
+      "note_ref": "GNV/12/12/20",
+      "cites": [
+        "2 Kings 12:20-21"
+      ],
+      "text": "Because he had put Zechariah the son of Jehoiada to death, 2 Chron. 24:25.\nRead 2 Sam. 3:9."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Kings 12:21",
+      "note_ref": "GNV/12/12/21",
+      "cites": [
+        "2 Kings 12:20-21"
+      ],
+      "text": "Or, Jozahar."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Chronicles 24:22",
+      "note_ref": "GNV/14/24/22",
+      "cites": [
+        "2 Chronicles 24:24-25"
+      ],
+      "text": "Revenge my death and require my blood at your hands: or he speaketh this by prophecy, because he knew that God would do it. This Zechariah is also called the son of Berechiah, Matt. 23:35, because his progenitors were Iddo, Berechiah, Jehoiada, etc."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Chronicles 24:24",
+      "note_ref": "GNV/14/24/24",
+      "cites": [
+        "2 Chronicles 24:24-25"
+      ],
+      "text": "That is, reproved and checked him, and handled him rigorously."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Chronicles 24:25",
+      "note_ref": "GNV/14/24/25",
+      "cites": [
+        "2 Chronicles 24:24-25"
+      ],
+      "text": "Meaning, Zechariah, which was one of Jehoiada’s sons, and a Prophet of the Lord."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Chronicles 24:27",
+      "note_ref": "GNV/14/24/27",
+      "cites": [
+        "2 Chronicles 24:24-25"
+      ],
+      "text": "That is, concerning his sons, etc.\nThat is, the reparation."
+    }
+  ]
+}

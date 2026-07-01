@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 105,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Henry keeps the two lines distinct — Libni heading a Gershonite family, Mahli a Merarite one — so the shared name marks two different men in two branches.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Curtis and Madsen, in the standard critical commentary, read these Levitical lists as textually disturbed — treating the Merari-line Libni as scribal duplication, not a second real man.",
+      "skeptic": {
+        "name": "Edward L. Curtis and Albert A. Madsen",
+        "work": "A Critical and Exegetical Commentary on the Books of Chronicles (ICC)",
+        "year": "1910",
+        "attribution": "Edward L. Curtis (d. 1911) & Albert A. Madsen, A Critical and Exegetical Commentary on the Books of Chronicles, ICC (Edinburgh: T&T Clark, 1910)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "1 Chronicles 6:1",
+      "excerpt_text": "One of the families of Gershom (that of Libni) is here drawn down as far as Samuel, who had the honour of a prophet added to that of a Levite. One of the families of Merari (that of Mahli) is likewise drawn down for several descents …",
+      "full_note_ref": "MHC/13/6/1",
+      "on_tension_rationale": "Directly handles the two branches in tension: it assigns Libni to the Gershom line and names Mahli (not Libni) as the head of the drawn-out Merari family, supporting the harmonization that the Gershonite Libni and the Merari-line entry are distinct, keeping Libni's father as Gershon.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714), on 1 Chronicles 6",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this passage directly, distinguishing the Gershonite family of Libni from the Merarite family of Mahli and so reading the shared name as two different men in two branches."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page treats this specific Libni two-fathers tension; link omitted rather than guessed."
+      }
+    }
+  }
+}

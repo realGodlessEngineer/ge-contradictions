@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 70,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders argue \"fourth generation\" is not a literal four-link count but a flexible idiom standing for the same span as the \"four hundred years\" of the previous verse.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharpest objection is pressed by Bishop J. W. Colenso, who argues the named generations from Levi to Moses cannot be stretched to cover the very 430-year sojourn the text itself asserts.",
+      "skeptic": {
+        "name": "John William Colenso",
+        "work": "The Pentateuch and Book of Joshua Critically Examined",
+        "year": "1862",
+        "attribution": "John William Colenso (d. 1883), The Pentateuch and Book of Joshua Critically Examined (1862)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Genesis 15:16",
+      "excerpt_text": "In former times most people counted by generations, to each of which was assigned a term of years amounting to 20, 25, 30, 33, 100, 108, or 110; for the generation was of various lengths among various people, at different times. It is probable that the fourth generation here means the same as the four hundred years in the preceding verse.",
+      "full_note_ref": "CLARKE/1/15/16",
+      "on_tension_rationale": "Directly addresses the contradiction's hinge: it argues 'fourth generation' is an elastic idiom whose length varied, and equates it to the 400 years of v. 15 rather than a literal four-link genealogy from Levi to Moses.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Exodus 6:14",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly: ties the four-generation list (Levi, Kohath, Amram, Moses) to Genesis 15:16 and argues, with Tiele, that the genealogy omits an 'indefinitely long list of generations' between Amram son of Kohath and the later Amram who fathered Moses, so the four names are not a literal four-step count."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Exodus_6.16-20.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in Exodus 6:16-20?",
+        "note": "Live apologetic treatment of the Levi-Kohath-Amram-Moses genealogy against the 430-year sojourn, arguing telescoped (gapped) genealogies and 'son' as 'descendant.'"
+      }
+    }
+  }
+}

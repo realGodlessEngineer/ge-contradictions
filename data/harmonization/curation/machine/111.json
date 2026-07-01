@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 111,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The harmonizing tradition reads two separate murmuring episodes — one early at Rephidim/Horeb, one near the end at Kadesh in Zin — each independently named Meribah for the same chiding.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Source critics such as Martin Noth read Numbers 20 as a Priestly variant of the older Exodus 17 tradition — one water-from-the-rock story told twice and relocated, not two genuine events at two wildernesses.",
+      "skeptic": {
+        "name": "Martin Noth",
+        "work": "Numbers: A Commentary (Old Testament Library)",
+        "year": "1968",
+        "attribution": "Martin Noth (d. 1968), Numbers: A Commentary, OTL (Eng. trans. 1968; German Das vierte Buch Mose: Numeri, 1966)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Numbers 27:13",
+      "excerpt_text": "that is the water of Meribah in Kadesh, in the wilderness of Zin; so called to distinguish it from another Meribah, or water of strife, at Rephidim, Exo 17:7.",
+      "full_note_ref": "GILL/4/27/13",
+      "on_tension_rationale": "Gill explicitly distinguishes the Kadesh/Zin Meribah from the earlier Rephidim Meribah — the core two-location harmonization.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Numbers 20:2",
+      "excerpt_text": "Another rebellion was in Raphidim, Exod. 17, and this was in Kadesh.",
+      "full_note_ref": "GNV/4/20/2",
+      "on_tension_rationale": "The Geneva annotators state plainly that these are two distinct rebellions at two distinct places (Rephidim vs. Kadesh), the heart of the disputed tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Numbers 20:1",
+      "excerpt_text": "And now we have another place, at the latter end of their march, which bears the same name for the same reason … It is called Meribah-Kadesh (Deu 32:51), to distinguish it from the other Meribah.",
+      "full_note_ref": "MHC/4/20/1",
+      "on_tension_rationale": "Henry harmonizes by timing and naming: a different place late in the march, separately named Meribah-Kadesh to set it apart from the first Meribah at Rephidim.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Numbers 27:13",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, distinguishing the water of Meribah in Kadesh (wilderness of Zin) from the earlier Meribah at Rephidim, and elsewhere distinguishing the desert of Zin from the wilderness of Sin."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Meribah-in-the-Bible.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What is the significance of Meribah in the Bible?",
+        "note": "Live apologetic treatment arguing for two distinct Meribah sites/events (Rephidim/Massah vs. Meribah-Kadesh)."
+      }
+    }
+  }
+}

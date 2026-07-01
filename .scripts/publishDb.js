@@ -80,7 +80,7 @@ function buildCombinedSql(db) {
 
     const counts = {};
     for (const name of tables) {
-        const res = db.exec(`SELECT * FROM ${name} ORDER BY id`);
+        const res = db.exec(`SELECT * FROM ${name} ORDER BY rowid`);
         if (!res.length) { counts[name] = 0; continue; }
         const { columns, values } = res[0];
         counts[name] = values.length;

@@ -1,0 +1,22 @@
+{
+  "contradiction_id": 214,
+  "excerpts": [
+    {
+      "excerpt_uid": "214#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "pass",
+      "action": null,
+      "reason": "Verbatim within the embedded JFB note on 1 Chr 6:28 (only curly->straight quotes on 'and the second' is an allowed normalization). Directly resolves the Joel/Vashni conflict by treating 'Vashni' as not a name but a copyist's corruption of the Hebrew for 'and the second,' with the firstborn Joel's name dropped a textual-emendation harmonization squarely on this tension. Correctly labeled reconcile and the single strongest harmonization."
+    }
+  ],
+  "guardrails": {
+    "parity": "ok",
+    "connectives": "ok",
+    "named_skeptic": "ok",
+    "discrepancy_integrity": "ok",
+    "deeper_learning": "ok",
+    "reason": "PRIOR FLAG CLEARED. The discrepancy connective was rewritten and no longer attributes any concession to the skeptic. It now reads: 'The Skeptic's Annotated Bible presses it flatly: 1 Samuel names Joel as Samuel's firstborn, while 1 Chronicles 6:28 lists \"Vashni\" first, as if a different son.' I re-verified the live SAB page (contra/sams_son.html): it lists 1 Sam 8:2 (Joel) against 1 Chr 6:28 (Vashni) as a FLAT contradiction and nowhere acknowledges, grants, or discusses the scribal-corruption reply (only a bare external Christian-responses link, no concession). The rewritten connective fairly and accurately represents the SAB pole, concedes nothing, and is on-tension -> named_skeptic=ok, connectives=ok. Steve Wells / SAB is a real critic who genuinely engages this passage. The scribal-corruption harmonization correctly lives only on the reconcile connective. parity ok: reconcile_first row, reconcile = 1 verbatim excerpt + filled connective >= discrepancy = 1 named-skeptic connective. discrepancy_integrity ok: pole is named_skeptic (non-empty). deeper_learning ok: JFB (1871) on 1 Chr 6:28 is a real PD work treating this exact passage (its note is the very source of the surfaced excerpt); no link, none required."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 294,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the two notices as complementary: Ahaz was buried in the city of David, but pointedly excluded from the royal sepulchres as a mark of disgrace.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, cataloguing the passage in the Skeptic's Annotated Bible, presses the plain wording: 2 Chronicles 28:27 contradicts 2 Kings 16:20 over where Ahaz was laid — buried 'with his fathers' versus kept out of the kings' tombs.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"Was Ahaz buried with his fathers?\"",
+        "year": null,
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, \"Was Ahaz buried with his fathers?\" (skepticsannotatedbible.com/contra/ahaz.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "2 Kings 16:20",
+      "excerpt_text": "Was buried with his fathers in the city of David — But it is expressly declared, Ch2 28:27, that he was not buried in the sepulchres of the kings of Israel; and this was undoubtedly intended as a mark of degradation.",
+      "full_note_ref": "CLARKE/12/16/20",
+      "on_tension_rationale": "Clarke reads both verses together — 2 Kings 16:20 'buried with his fathers in the city of David' and 2 Chronicles 28:27 'not buried in the sepulchres of the kings' — and harmonizes the difference as a deliberate posthumous mark of degradation rather than a conflict. The single strongest reconcile naming both passages.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on 2 Kings 16:20",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact pair, reconciling 2 Kings 16:20 with the 2 Chronicles 28:27 qualifier as one consistent burial-in-Jerusalem-minus-royal-tombs notice. Used in place of Haley, whose specific coverage of this passage could not be confirmed."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/King-Ahaz.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who was King Ahaz in the Bible?",
+        "note": "Live apologetic treatment citing both 2 Kings 16:20 and 2 Chronicles 28:27, harmonizing them as buried with his ancestors in Jerusalem yet denied a place in the royal tombs."
+      }
+    }
+  }
+}

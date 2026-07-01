@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 128,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Every commentator treats Exodus 30:37 as a narrow prohibition on one specific sacred recipe, leaving common perfume entirely untouched — Proverbs 27:9 and the Exodus prohibition address wholly different objects.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells (Skeptic's Annotated Bible) lists this pair as a contradiction, treating Exodus 30:37 as a blanket prohibition on perfume that conflicts with Proverbs 27:9's endorsement of it.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 128,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Proverbs 27:9",
+      "excerpt_text": "Meaning not the holy anointing oil for sacred use, or the perfume or incense offered on the altar of incense; but common oil or ointment used at entertainments, poured on the heads of the guests; and incense in censing of rooms, which were very delightful, pleased the senses, and so exhilarated the heart",
+      "full_note_ref": "GILL/20/27/8",
+      "license_code": "PD",
+      "on_tension_rationale": "Gill explicitly distinguishes the 'holy anointing oil' and altar incense (the subject of Exod 30:37's ban) from the common perfume and oil endorsed by Proverbs 27:9 — directly resolving the apparent contradiction.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 128,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Exodus 30:37",
+      "excerpt_text": "ye shall not make to yourselves according to the composition thereof; that is, for their own use, for the scenting of their rooms, or to snuff up, or smell to, as in the next verse: it shall be unto thee holy for the Lord; separated entirely for his service, to be burned upon his altar, and to be no otherwise used.",
+      "full_note_ref": "GILL/2/30/37",
+      "license_code": "PD",
+      "on_tension_rationale": "Gill's note on Exod 30:37 itself confirms the prohibition is specifically on duplicating this one sacred formula for private enjoyment — not on perfume in general — making the scope of the ban clear and the apparent conflict with Prov 27:9 non-existent.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley addresses this class of apparent contradiction by showing that Exodus ceremonial restrictions on sacred recipes do not constitute general moral prohibitions on the items in question — a distinction that resolves the Exod 30:37 vs. Prov 27:9 pairing directly."
+      },
+      "link": null
+    }
+  }
+}

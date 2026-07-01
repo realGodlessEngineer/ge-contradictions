@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 297,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read \"in peace\" not as a manner of death but as a time of death — Josiah was spared from living to see Judah's ruin, and \"gathered to his fathers\" can cover a battlefield death.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, cataloguing the passage among the Bible's failed prophecies, presses that Huldah's promise of a death \"in peace\" is flatly broken by Josiah's killing in battle at Megiddo.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (\"How did King Josiah die?\", contra/josiah_death.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), \"How did King Josiah die?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "2 Kings 22:20",
+      "excerpt_text": "…it is also applied to a violent death by being slain in battle (Kg1 22:40 and Kg1 22:34), so that there is no difficulty in reconciling this comforting assurance with the slaying of Josiah in battle (Kg2 23:29). בּשׁלום, in peace, i.e., without living to witness the devastation of Jerusalem, as is evident from the words, \"thine eyes will not see,\" etc.",
+      "full_note_ref": "KD/12/22/20",
+      "on_tension_rationale": "K&D directly names the tension and resolves both halves: 'gather to fathers' covers a violent battle death, and 'in peace' means not living to see Jerusalem's devastation — the single strongest, most explicit harmonization on the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this passage directly, harmonizing the 'die in peace' oracle with the Megiddo death (the Hebrew meeth as 'in a dying state' — wounded at Megiddo, dying at Jerusalem, buried in peace before Judah's ruin)."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page squarely engages the die-in-peace prophecy-failure tension; the live gotquestions/defendinginerrancy pages address only the where-he-died (Megiddo vs. Jerusalem) question, so link omitted rather than overclaimed."
+      }
+    }
+  }
+}

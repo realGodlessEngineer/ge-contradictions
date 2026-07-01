@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 246,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators converge on a scribal-corruption explanation: the Hebrew letters for 'Israelite' and 'Ishmaelite' are nearly identical, and Chronicles preserves the more plausible reading.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Dennis McKinsey (Biblical Errancy) catalogued Ithra/Jether and Israelite/Ishmaelite as a straightforward genealogical discrepancy that harmonization by scribal error concedes the text is corrupt, which itself undermines inerrancy claims.",
+      "skeptic": {
+        "name": "Dennis McKinsey",
+        "work": "Biblical Errancy",
+        "year": "1983-2000",
+        "attribution": "Dennis McKinsey, Biblical Errancy newsletter (1983–2000)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 246,
+      "pole": "reconcile",
+      "source_code": "KD",
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "verse_ref": "2 Samuel 17:25",
+      "excerpt_text": "The description given of Jithra as ישׂראלי is very striking, since there was no reason whatever why it should be stated that Amasa's father was an Israelite. The Seventy have therefore given ὁ Ἰεζραηλίτης, i.e., sprung from Jezreel … but they have done so apparently from mere conjecture. The true reading is evidently היּשׁמעאלי, an Ishmaelite, according to Ch1 2:17, where the name is written Jether, a contracted form of Jithra.",
+      "full_note_ref": "KD/10/17/25",
+      "license_code": "PD",
+      "on_tension_rationale": "Directly addresses the Israelite/Ishmaelite discrepancy by identifying a scribal corruption (shin-yod-resh-alef-lamed-yod → shin-mem-ayin-lamed-yod) and arguing Chronicles preserves the correct reading, with Samuel's 'Israelite' making no contextual sense.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 246,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "2 Samuel 17:24",
+      "excerpt_text": "he is called Jether the Ishmaelite, Ch1 2:17; either because he was an Ishmaelite by birth, and being proselyted to the Jewish religion, was called an Israelite; or rather he was an Israelite by birth, and having sojourned in the land of Ishmael some time, was called an Ishmaelite, as Uriah the Hittite, and others",
+      "full_note_ref": "GILL/10/17/24",
+      "license_code": "PD",
+      "on_tension_rationale": "Directly addresses the ethnic label discrepancy with two alternative harmonizations: proselyte explanation (born Ishmaelite, naturalized Israelite) or sojourner explanation (born Israelite, called Ishmaelite after long residence among them), comparing the pattern to Uriah the Hittite.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats Ithra/Jether and the Israelite/Ishmaelite variant under his section on genealogical discrepancies, arguing that the nearly identical Hebrew consonants explain the textual divergence and that both designations (sojourner among Ishmaelites, naturalized Israelite) could apply to the same man."
+      },
+      "link": null
+    }
+  }
+}

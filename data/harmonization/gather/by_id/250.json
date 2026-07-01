@@ -1,0 +1,670 @@
+{
+  "contradiction_id": 250,
+  "question": "Did David sin?",
+  "summary": "2 Samuel 22:21-25 has David claiming the LORD rewarded him according to his righteousness and the cleanness of his hands. 1 Kings 15:5 says David did right \"all the days of his life, save only in the matter of Uriah.\" 2 Samuel 24:10 and 1 Chronicles 21:8 have David confessing he sinned greatly in numbering the people. So at least three answers exist within the canon: none, one (Uriah), and at least two (Uriah plus the census).",
+  "consensus": "genuinely_disputed",
+  "consensus_id": 3,
+  "category": "History & Narrative Events",
+  "contradiction_type": "factual_historical",
+  "testament_scope": "OT_internal",
+  "books_in_tension": "2 Samuel, 1 Kings, 1 Chronicles",
+  "refs_raw": [
+    "1 Kings 15:5",
+    "2 Samuel 24:10",
+    "1 Chronicles 21:8",
+    "2 Samuel 22:21",
+    "2 Samuel 22:25"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "1 Kings 15:5",
+      "book": "1 Kings",
+      "bolls": 11,
+      "ranges": [
+        [
+          15,
+          5,
+          5
+        ]
+      ]
+    },
+    {
+      "raw": "2 Samuel 24:10",
+      "book": "2 Samuel",
+      "bolls": 10,
+      "ranges": [
+        [
+          24,
+          10,
+          10
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 21:8",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          21,
+          8,
+          8
+        ]
+      ]
+    },
+    {
+      "raw": "2 Samuel 22:21",
+      "book": "2 Samuel",
+      "bolls": 10,
+      "ranges": [
+        [
+          22,
+          21,
+          21
+        ]
+      ]
+    },
+    {
+      "raw": "2 Samuel 22:25",
+      "book": "2 Samuel",
+      "bolls": 10,
+      "ranges": [
+        [
+          22,
+          25,
+          25
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 57,
+  "notes_raw_count": 64,
+  "notes_dropped": 7,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 22:20",
+      "note_ref": "GILL/10/22/20",
+      "cites": [
+        "2 Samuel 22:21"
+      ],
+      "text": "Thou hast enlarged my steps under me; so that my feet did not slip. See Gill on Psa 18:36.\n.\n2 Samuel 22:38\nsa2 22:38\nsa2 22:38\nsa2 22:38I have pursued mine enemies, and destroyed them; and turned not again until I had consumed them. See Gill on Psa 18:37."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 22:21",
+      "note_ref": "GILL/10/22/21",
+      "cites": [
+        "2 Samuel 22:21"
+      ],
+      "text": "And I have consumed them, and wounded them, that they could not arise: yea, they are fallen under my feet. See Gill on Psa 18:38.\n.\n2 Samuel 22:40\nsa2 22:40\nsa2 22:40\nsa2 22:40For thou hast girded me with strength to battle: them that rose up against me hast thou subdued under me. See Gill on Psa 18:39."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 22:22",
+      "note_ref": "GILL/10/22/22",
+      "cites": [
+        "2 Samuel 22:21"
+      ],
+      "text": "Thou hast also given me the necks of mine enemies, that I might destroy them that hate me. See Gill on Psa 18:40.\n.\n2 Samuel 22:42\nsa2 22:42\nsa2 22:42\nsa2 22:42They looked, but there was none to save; even unto the Lord, but he answered them not. See Gill on Psa 18:41."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 22:25",
+      "note_ref": "GILL/10/22/25",
+      "cites": [
+        "2 Samuel 22:25"
+      ],
+      "text": "The Lord liveth; and blessed be my rock; and exalted be the God of the rock of my salvation. See Gill on Psa 18:46.\n.\n2 Samuel 22:48\nsa2 22:48\nsa2 22:48\nsa2 22:48It is God that avengeth me, and that bringeth down the people under me. See Gill on Psa 18:47."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 24:8",
+      "note_ref": "GILL/10/24/8",
+      "cites": [
+        "2 Samuel 24:10"
+      ],
+      "text": "So when they had gone through all the land,.... Beginning at the east, and from thence to the north, and then going about to the west, came to the south, which finished their circuit:\nthey came to Jerusalem, at the end of nine months and twenty days: they were ten months wanting ten days in numbering the people; in which they seem to have been very expeditious."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 24:9",
+      "note_ref": "GILL/10/24/9",
+      "cites": [
+        "2 Samuel 24:10"
+      ],
+      "text": "And Joab gave up the sum of the number of the people unto the king,.... Having collected from the several captains employed in this work their several particular numbers, he put them together, and gave in the sum total to David:\nand there were in Israel eight hundred thousand valiant men that drew the sword; though many of them might be under the age of twenty, yet being robust and tall, and fit to bear arms, though but sixteen, seventeen, eighteen, or nineteen years of age, were mustered, contrary to the law; which, according to Cornelius Bertram (z) was David's sin, see Ch1 27:23. In Ch1 21:5, they are said to be a million and an hundred thousand, which is three hundred thousand more than the sum here given; several methods are taken to reconcile this; but what seems to be the best solution of the difficulty is what is observed by a Jew (a), that here the number of the people in the several parts of the land of Israel was given, which were eight hundred thousand, there along with them, the numbers of the standing army which waited on the king in their courses, which were twenty four thousand every, month, and amounted in the twelve months to 288,000, and reckoning lo thousand officers to them, they make the sum of three hundred thousand wanted, see Ch1 27:1, &c.\nand the men of Judah were five hundred thousand men. In Ch1 21:5, they are said to be only 470,000, thirty thousand less than here; which may be accounted for by making use of a round number, though something wanting, as is often done; or else the thirty companies, consisting of a thousand each, under the eighty captains mentioned in Sa2 23:8, are taken into the account here, but left out in the book of Chronicles; or there were so many in the sum total of the men of Judah before the plague, but thirty thousand being consumed thereby, are left out in the latter accounts, so Kimchi; but the other solutions seem best: Levi and Benjamin were not counted; it being abominable to Joab, he did not finish it, and especially being displeasing to God, who smote Israel for it, Ch1 21:6.\n(z) Lucubrat. Frauktall, c. 2. (a) R. Eliezer in Halicot Olam, tract. 4. c. 3. p. 181."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 24:10",
+      "note_ref": "GILL/10/24/10",
+      "cites": [
+        "2 Samuel 24:10"
+      ],
+      "text": "And David's heart smote him, after that had numbered the people,.... For nine or ten months his conscience lay asleep, but now the thing was done, it is awakened, and accuses him for it, and he repents of it; now he began to see the pride and haughtiness of his heart; his vanity and confidence in the creature, which led him to it; aggravated by doing it without seeking to know the mind of God, and without giving him his due, the half shekel, according to the law, Exo 30:12; intent only upon increasing his own revenue, as some think, intending to impose a poll tax upon the people when he had numbered them; and attempting to number a people who were not to be numbered; and numbering those who were under the age of twenty, and therefore the plague began before it was finished, Ch1 27:23,\nand David said unto the Lord, I have sinned greatly in that I have done; he saw and owned his sin to be exceeding sinful, attended with very aggravating circumstances:\nand now I beseech thee, Lord, take away the iniquity of thy servant; the guilt of it from his conscience, which lay heavy there, and suffer not the punishment it deserves to take place on him, but grant an application of pardon to him:\nfor I have done very foolishly; all sin is folly, and some sins are exceeding foolish, and so this appeared to David; or, \"though I have done very foolishly\" (b), yet forgive my sin, see Psa 38:5.\n(b) \"quamvis\", so Goassius notes it may be rendered; so Pool."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 24:11",
+      "note_ref": "GILL/10/24/11",
+      "cites": [
+        "2 Samuel 24:10"
+      ],
+      "text": "For when David was up in the morning,.... Which it is probable was very early, he not being able to sleep through the distress of mind he was in; for the words should be rendered, \"and David arose in the morning\" (c), for, as we render them, they seem to imply as if he had no sense of his sin before the prophet came to him next mentioned; whereas it was in the night he had been under the conviction of it, and had acknowledged it, and prayed for the pardon of it; upon which the prophet was sent to acquaint him what was the will of God concerning him:\nthe word of the Lord came unto the prophet Gad, David's seer; with whom he had used to advise about the will of God on various occasions, though in this he had neglected to consult him; the Targum calls it the word of prophecy from the Lord:\nsaying; as follows.\n(c) \"et surrexit\", Pagninus, Montanus, &c."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Kings 15:3",
+      "note_ref": "GILL/11/15/3",
+      "cites": [
+        "1 Kings 15:5"
+      ],
+      "text": "Nevertheless, for David's sake did the Lord his God give him a lamp in Jerusalem,.... A kingdom there, as the Targum, splendid and glorious, to be continued in his posterity: to set up his son after him; in it:\nand to establish Jerusalem: to continue that in which the temple was, for the sake of which, and the worship of God in it, there was a succession of David's posterity on the throne of Judah."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Kings 15:4",
+      "note_ref": "GILL/11/15/4",
+      "cites": [
+        "1 Kings 15:5"
+      ],
+      "text": "Because David did that which was right in the eyes of the Lord,.... With respect to worship: and turned not aside from anything that he commanded him all the days of his life; especially in matters of religion, nor even in his moral walk and conversation, deliberately, studiously, and with design:\nsave only in the matter of Uriah the Hittite; the killing of him, and other sins which led on to it, and were in connection with it; Abarbinel thinks, because the affair of Bathsheba is not mentioned, that was not reckoned to David as a sin; but no doubt it was, and is included here."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Kings 15:5",
+      "note_ref": "GILL/11/15/5",
+      "cites": [
+        "1 Kings 15:5"
+      ],
+      "text": "And there was war between Rehoboam and Jeroboam all the days of his life. Not the days of Rehoboam, though that was true, and is observed, Kg1 14:30, but all the days of Abijam, before he came to the throne, and in which, when a young man, he was concerned, and which still continued between him and Jeroboam; though some think he is called by his father's name, as Rehoboam is called David, Kg1 12:16.\n.\n1 Kings 15:7\nkg1 15:7\nkg1 15:7\nkg1 15:7Now the rest of the acts of Abijam, and all that he did, are they not written in the book of the chronicles of the kings of Judah?.... Which seem to be written by Iddo the prophet, see Ch2 13:22,\nand there was war between Abijam and Jeroboam; and a famous pitched battle between them we read of in Ch2 13:3."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Kings 15:6",
+      "note_ref": "GILL/11/15/6",
+      "cites": [
+        "1 Kings 15:5"
+      ],
+      "text": "And Abijam slept with his fathers,.... That is, died as they did:\nand they buried him in the city of David, in the sepulchre of his royal ancestors, David, Solomon, and Rehoboam:\nand Asa his son reigned in his stead; who perhaps was the eldest of his twenty two sons, Ch2 13:21."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 21:1",
+      "note_ref": "GILL/13/21/1",
+      "cites": [
+        "1 Chronicles 21:8"
+      ],
+      "text": "See Chapter Introduction\nSee Chapter Introduction\n1 Chronicles 21:28\nch1 21:28\nch1 21:28\nch1 21:28At that time when David saw that the Lord had answered him in the threshing floor Of Ornan the Jebusite,.... The same with Araunah, Sa2 24:16, with some small variation of the letters, and are of the same signification; both signifying the \"ornus\", as Hillerus (m) observes, the pine tree or ash; see Isa 44:14, in whose threshingfloor David now was, and where he had been praying and sacrificing; and God had accepted his prayer, as the Targum, and had answered him, by causing fire to come down on the sacrifice and consume it, and by ordering the angel to put up his sword in its sheath:\nthen he sacrificed there; again by the priests, and continued to do so, for he had sacrificed there before, Ch1 21:26 and finding his sacrifices in that place were acceptable, he repeated them, and did not go to Gibeon, as follows.\n(m) Onomastic. Sacr. p. 529, 530.",
+      "anchor": true
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Samuel 24:9",
+      "note_ref": "JFB/10/24/9",
+      "cites": [
+        "2 Samuel 24:10"
+      ],
+      "text": "Joab gave up the sum of the number of the people unto the king--The amount here stated, compared with Ch1 21:5, gives a difference of three hundred thousand. The discrepancy is only apparent, and admits of an easy reconciliation; thus (see Ch1 27:1-15), there were twelve divisions of generals, who commanded monthly, and whose duty was to keep guard on the royal person, each having a body of troops consisting of twenty-four thousand men, which, together, formed an army of two hundred eighty-eight thousand; and as a separate detachment of twelve thousand was attendant on the twelve princes of the twelve tribes mentioned in the same chapter, so both are equal to three hundred thousand. These were not reckoned in this book, because they were in the actual service of the king as a regular militia. But Ch1 21:5 joins them to the rest, saying, \"all those of Israel were one million, one hundred thousand\"; whereas the author of Samuel, who reckons only the eight hundred thousand, does not say, \"all those of Israel,\" but barely \"and Israel were,\" &c. It must also be observed that, exclusive of the troops before mentioned, there was an army of observation on the frontiers of the Philistines' country, composed of thirty thousand men, as appears from Sa2 6:1; which, it seems, were included in the number of five hundred thousand of the people of Judah by the author of Samuel. But the author of Chronicles, who mentions only four hundred seventy thousand, gives the number of that tribe exclusive of those thirty thousand men, because they were not all of the tribe of Judah, and therefore he does not say, \"all those of Judah,\" as he had said, \"all those of Israel,\" but only, \"and those of Judah.\" Thus both accounts may be reconciled [DAVIDSON]."
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Samuel 24:10",
+      "note_ref": "JFB/10/24/10",
+      "cites": [
+        "2 Samuel 24:10"
+      ],
+      "text": "HE, HAVING THREE PLAGUES PROPOUNDED BY GAD, REPENTS, AND CHOOSES THREE DAYS' PESTILENCE. (Sa2 24:10-14)\nDavid's heart smote him after that he had numbered the people. And David said unto the Lord, I have sinned--The act of numbering the people was not in itself sinful; for Moses did it by the express authority of God. But David acted not only independently of such order or sanction, but from motives unworthy of the delegated king of Israel; from pride and vainglory; from self-confidence and distrust of God; and, above all, from ambitious designs of conquest, in furtherance of which he was determined to force the people into military service, and to ascertain whether he could muster an army sufficient for the magnitude of the enterprises he contemplated. It was a breach of the constitution, an infringement of the liberties of the people, and opposed to that divine policy which required that Israel should continue a separate people. His eyes were not opened to the heinousness of his sin till God had spoken unto him by His commissioned prophet."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Kings 15:3",
+      "note_ref": "JFB/11/15/3",
+      "cites": [
+        "1 Kings 15:5"
+      ],
+      "text": "his heart was not perfect with the Lord . . . , as the heart of David his father--(Compare Kg1 11:4; Kg1 14:22). He was not positively bad at first, for it appears that he had done something to restore the pillaged treasures of the temple (Kg1 15:15). This phrase contains a comparative reference to David's heart. His doing that which was right in the eyes of the Lord (Kg1 15:5) is frequently used in speaking of the kings of Judah, and means only that they did or did not do that which, in the general course and tendency of their government, was acceptable to God. It furnishes no evidence as to the lawfulness or piety of one specific act."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Kings 15:4",
+      "note_ref": "JFB/11/15/4",
+      "cites": [
+        "1 Kings 15:5"
+      ],
+      "text": "for David's sake did the Lord his God give him a lamp--\"A lamp\" in one's house is an Oriental phrase for continuance of family name and prosperity. Abijam was not rejected only in consequence of the divine promise to David (see on 1Ki. 11:13-36)."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 21:6",
+      "note_ref": "JFB/13/21/6",
+      "cites": [
+        "1 Chronicles 21:8"
+      ],
+      "text": "Levi and Benjamin counted he not--If this census was ordered with a view to the imposition of taxes, this alone would account for Levi, who were not warriors (Ch1 21:5), not being numbered (see on Num 1:47-54). The population of Benjamin had been taken (see on Ch1 7:6-11), and the register preserved in the archives of that tribe. This, however, was taken on another occasion, and by other agency than that of Joab. The non-numbering of these two tribes might have originated in the special and gracious providence of God, partly because Levi was devoted to His service, and Benjamin had become the least of all the tribes (Jdg. 21:1-25); and partly because God foresaw that they would remain faithful to the house of David in the division of the tribes, and therefore He would not have them diminished [POOLE]. From the course followed in this survey (see on Sa2 24:4-8), it would appear that Judah and Benjamin were the last tribes that were to be visited; and that, after the census in Judah had been finished, Joab, before entering on that of Benjamin, had to return to Jerusalem, where the king, now sensible of his great error, gave orders to stop all further proceedings in the business. Not only the remonstrance of Joab at the first, but his slow progress in the survey (Sa2 24:8) showed the strong repugnance and even horror of the old general at this unconstitutional measure."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 21:9",
+      "note_ref": "JFB/13/21/9",
+      "cites": [
+        "1 Chronicles 21:8"
+      ],
+      "text": "the Lord spake unto Gad, David's seer--Although David was himself endowed with a prophetic gift, yet, in matters relating to himself or his kingdom, he was in the habit of consulting the Lord through the medium of the priests; and when he failed to do so, a prophet was sent on extraordinary occasions to admonish or chastise him. Gad, a private friend, was occasionally employed as the bearer of these prophetic messages."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Samuel 22:11",
+      "note_ref": "CLARKE/10/22/11",
+      "cites": [
+        "2 Samuel 22:21",
+        "2 Samuel 22:25"
+      ],
+      "text": "He rode upon a cherub, and did fly - he was seen upon the things of the wind - In the original of this sublime passage, sense and sound are astonishingly well connected. I shall insert the Hebrew, represent it in English letters for the sake of the unlearned reader, and have only to observe, he must read from the right to the left.\nרוח כנפי על וירא ויעף כרוב על וירכב ruach canphey al vaiyera vaiyaoph kerub al vayirkab wind the of wings the upon seen was he and; fly did and cherub upon rode he\nThe clap of the wing, the agitation and rush through the air are expressed here in a very extraordinary manner.\nOther beauties of this kind will be noted in the exposition of the Psalm alluded to above.\nI now subjoin Dr. Kennicott's remarks on this chapter: -\n\"The very sublime poetry contained in this chapter is universally admired, and yet it cannot be perfectly understood, till it is known Who is the speaker, who the person thus triumphant over mighty enemies, whose Sufferings occasioned such a dreadful convulsion of nature, and, who, upon his deliverance, inflicted such vengeance on his own people, and also became thus a king over the heathen. Should we be told that this person was David, it will be very difficult to show how this description can possibly agree with that character: but if it did in fact agree, yet would it contradict St. Paul, who quotes part of it as predicting the conversion of the Gentiles under Christ the Messiah. Rom 15:9; Heb 2:13; and see Peirce's Commentary, p. 50. Now if the person represented as speaking through this Divine ode be David only, the Messiah is excluded. In consequence of the difficulties resulting from each of these suppositions, the general idea has been that it relates both to David and to the Messiah as a prophecy of a double sense; first, as spoken by David of himself, and yet to be understood in a secondary sense, of the Messiah. But it must be remarked here, that if spoken only of David, it is not a prediction of any thing future, but a thanksgiving for favors past, and therefore is no prophecy at all. And farther, it could not be a prophecy descriptive of David unless the particulars agreed to David, which they evidently do not. If then David be here necessarily excluded from the single sense, he must be excluded also from the double sense, because nothing can be intended by any sacred writer, to relate to two persons, unless it be True of both; but it not being the case here as to David, we must conclude that this song relates only to the Messiah; and on this subject an excellent Dissertation, by the late Mr. Peirce, is subjoined to his comment on the Epistle to the Hebrews. It may be necessary to add here two remarks: the twenty-fourth verse now ends with, I have kept myself from mine iniquity, which words, it is objected, are not proper, if applied to the Messiah. But this difficulty is removed, in part, by the context, which represents the speaker as perfectly innocent and righteous; and this exactly agrees with the proof arising from the Syriac and Arabic versions, and also the Chaldee paraphrase, that this word was anciently מעונים ab iniquitatibus; consequently, this is one of the many instances where the ם final mem is improperly omitted by the Jewish transcribers. See my General Dissertation. Lastly, the difficulty arising from the title, which ascribes the Psalm to David, and which seems to make him the speaker in it, may be removed, either by supposing that the title here, like those now prefixed to several Psalms, is of no sufficient authority; or rather, by considering this title as only meant to describe the time when David composed this prophetic hymn, that when delivered from all his other enemies as well as from the hand of Saul, he then consecrated his leisure by composing this sublime prophecy concerning Messiah, his son, whom he represents here as speaking, (just as in Psalm 22, 40, and other places), and as describing,\n1. His triumph over death and hell;\n2. The manifestations of Omnipotence in his favor, earth and heaven, trembling at God's awful presence;\n3. The speaker's innocence thus divinely attested;\n4. The vengeance he was to take on his own people the Jews, in the destruction of Jerusalem; and,\n5. The adoption of the heathen, over whom he was to be the head and ruler.\n\"Another instance of a title denoting only the time of a prophecy, occurs in the very next chapter; where a prophecy concerning the Messiah is entitled, The Last words of David; i.e., a hymn which he composed a little before his death, after all his other prophecies. And perhaps this ode in2 Samuel 22, which immediately precedes that in2 Samuel 23, was composed but a little while before; namely, when all his wars were over. Let it be added, that Josephus, immediately before he speaks of David's mighty men, which follow in this same chapter of Samuel, considers the two hymns in2 Samuel 22 and 23, as both written after his wars were over - Jam Davides, bellis et periculis perfunctus, pacemque deinceps profundam agitans, odas in Deum hymnosque composuit. Tom. i., page 401.\"",
+      "anchor": true
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Samuel 24:8",
+      "note_ref": "CLARKE/10/24/8",
+      "cites": [
+        "2 Samuel 24:10"
+      ],
+      "text": "Nine months and twenty days - This was a considerable time; but they had much work to do, nor did they complete the work, as appears from Ch1 21:6; Ch1 27:24. William the Conqueror made a survey of all England, particularizing \"how many hides or carucates the land is taxed at; whose it was in the time of his predecessor Edward; who the present owners and sub-tenants; what and how much arable land, meadow, pasture, and wood there is, how much in demesne, i.e., held and cultivated by the landowners; how much in tenantcy, and what number of ploughs it will keep; what mills and fisheries; how many sockmen, freemen, co-liberti, cotarii, bordarii, radmanni, radchenisters, villains, maid-servants, and bondmen, there are; how many hogs the woods would support; how many churches, priests, or parsons; what customary rents, prestations, and services, are to be paid and rendered out of the lands; what has been added to the manor; what has been withheld from it, and by whom; what land is waste, and what the whole was let for in the time of King Edward; and what the nett rent, and whether it was too dear rented, and whether it might be improved.\" This survey was begun in the year 1080, and was finished in the year 1086, six years having been employed in the work. This most important document is still preserved; it is in the Chapter House, Westminster, in two volumes, one in folio, on three hundred and eighty-two leaves of vellum. the other in quarto, on four hundred and fifty leaves; and is in as good preservation as it was seven hundred years ago. This work was much more difficult than that which was performed by Joab and his fellows. The work itself is known by the name Domesday Book."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Samuel 24:9",
+      "note_ref": "CLARKE/10/24/9",
+      "cites": [
+        "2 Samuel 24:10"
+      ],
+      "text": "In Israel eight hundred thousand - the men of Judah were five hundred thousand - In the parallel place, Ch1 21:5, the sums are widely different: in Israel one million one hundred thousand, in Judah four hundred and seventy thousand. Neither of these sums is too great, but they cannot be both correct; and which is the true number is difficult to say. The former seems the most likely; but more corruptions have taken place in the numbers of the historical books of the Old Testament, than in any other part of the sacred records. To attempt to reconcile them in every part is lost labor; better at once acknowledge what cannot be successfully denied, that although the original writers of the Old Testament wrote under the influence of the Divine Spirit, yet we are not told that the same influence descended on all copiers of their words, so as absolutely to prevent them from making mistakes. They might mistake, and they did mistake; but a careful collation of the different historical books serves to correct all essential errors of the scribes. See the Dissertations of Dr. Kennicott mentioned at the conclusion of the preceding chapter."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Samuel 24:10",
+      "note_ref": "CLARKE/10/24/10",
+      "cites": [
+        "2 Samuel 24:10"
+      ],
+      "text": "David said - I have sinned greatly - We know not exactly in what this sin consisted. I have already hinted, Sa2 24:1, that probably David now began to covet an extension of empire, and purposed to unite some of the neighboring states with his own; and having, through the suggestions of Satan or some other adversary, (for so the word implies), given way to this covetous disposition, he could not well look to God for help, and therefore wished to know whether the thousands of Israel and Judah might be deemed equal to the conquests which he meditated. When God is offended and refuses assistance, vain is the help of man."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Samuel 24:11",
+      "note_ref": "CLARKE/10/24/11",
+      "cites": [
+        "2 Samuel 24:10"
+      ],
+      "text": "For when David was up - It is supposed that David's contrition arose from the reproof given by Gad, and that in the order of time the reproof came before the confession stated in the 10th verse.\nDavid's seer - A holy man of God, under the Divine influence, whom David had as a domestic chaplain."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Kings 15:3",
+      "note_ref": "CLARKE/11/15/3",
+      "cites": [
+        "1 Kings 15:5"
+      ],
+      "text": "His heart was not perfect - He was an idolater, or did not support the worship of the true God. This appears to be the general meaning of the heart not being perfect with God."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Kings 15:4",
+      "note_ref": "CLARKE/11/15/4",
+      "cites": [
+        "1 Kings 15:5"
+      ],
+      "text": "The Lord - give him a lamp - That is, a son to succeed him; see Kg1 11:36."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Kings 15:5",
+      "note_ref": "CLARKE/11/15/5",
+      "cites": [
+        "1 Kings 15:5"
+      ],
+      "text": "Save only in the matter of Uriah - Properly speaking, this is the only flagrant fault or crime in the life of David. It was a horrible offense, or rather a whole system of offenses. See the notes on 2 Samuel 11 (note), and 2 Samuel 12 (note)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Kings 15:6",
+      "note_ref": "CLARKE/11/15/6",
+      "cites": [
+        "1 Kings 15:5"
+      ],
+      "text": "There was war between Rehoboam and Jeroboam - This was mentioned in the preceding chapter, Kg1 14:30, and it can mean no more than this: there was a continual spirit of hostility kept up between the two kingdoms, and no doubt frequent skirmishing between bordering parties; but it never broke out into open war, for this was particularly forbidden. See Kg1 12:24. Hostility did exist, and no doubt frequent skirmishes; but open war and pitched battles there were none.\nBut why is this circumstance repeated, and the history of Abijam interrupted by the repetition? There is some reason to believe that Rehoboam is not the true reading, and that it should be Abijam: \"Now there was war between Abijam and Jeroboam all the days of his life.\" And this is the reading of fourteen of Kennicott's and De Rossi's MSS. The Syriac has Abia the son of Rehoboam; the Arabic has Abijam. In the Septuagint the whole verse is omitted in the London Polyglot, but it is extant in those of Complutum and Antwerp. Some copies of the Targum have Abijam also, and the Editio Princeps of the Vulgate has Abia. This is doubtless the true reading, as we know there was a very memorable war between Abia and Jeroboam; see it particularly described Ch2 13:3 (note), etc."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 21:6",
+      "note_ref": "CLARKE/13/21/6",
+      "cites": [
+        "1 Chronicles 21:8"
+      ],
+      "text": "Levi and Benjamin counted he not - The rabbins give the following reason for this: Joab, seeing that this would bring down destruction upon the people, purposed to save two tribes. Should David ask, Why have you not numbered the Levites? Joab purposed to say, Because the Levites are not reckoned among the children of Israel. Should he ask, Why have you not numbered Benjamin? he would answer, Benjamin has been already sufficiently punished, on account of the treatment of the woman at Gibeah: if, therefore, this tribe were to be again punished, who would remain?"
+    },
+    {
+      "src": "KD",
+      "ref": "2 Samuel 22:21",
+      "note_ref": "KD/10/22/21",
+      "cites": [
+        "2 Samuel 22:21"
+      ],
+      "text": "21 Jehovah rendered to me according to my righteousness,\nAccording to the cleanness of my hands He recompensed me.\n22 For I have observed the ways of Jehovah,\nAnd have not wickedly departed from my God.\n23 For all His rights are before my eyes;\nAnd His statutes,-I do not depart from them.\n24 And I was innocent towards Him,\nAnd kept myself from mine iniquity.\nגּמל signifies to do to a person good or evil, like the Greek εὖ and κακῶς πράττειν τινά. The righteousness and cleanness of hands, i.e., the innocence, which David attributed to himself, were not perfect righteousness or holiness before God, but the righteousness of his endeavours and deeds as contrasted with the unrighteousness and wickedness of his adversaries and pursuers, and consisted in the fact that he endeavoured earnestly and sincerely to walk in the ways of God and to keep the divine commandments. מן רשׁע, to be wicked from, is a pregnant expression, signifying to depart wickedly from God. לנגדּי, i.e., as a standard before my eye. In the psalm we find עמּו תמים, innocent in intercourse with the Lord, instead of לו תמים (see Deu 18:13); and for the fact itself, David's own testimony in Sa1 26:23-24, the testimony of God concerning him in Kg1 14:8, and the testimony of history in Kg1 15:5. מעוני, from mine iniquity, i.e., from the iniquity which I might have committed."
+    },
+    {
+      "src": "KD",
+      "ref": "2 Samuel 22:25",
+      "note_ref": "KD/10/22/25",
+      "cites": [
+        "2 Samuel 22:25"
+      ],
+      "text": "25 Thus Jehovah repaid me according to my righteousness,\nAccording to my cleanness before His eyes.\n26 Towards the pious Thou showest thyself pious,\nTowards the perfectly innocent Thou showest thyself innocent.\n27 Towards the genuine Thou showest thyself genuine,\nAnd towards the perverse Thou showest thyself crooked.\n28 And afflicted people Thou helpest,\nAnd Thine eyes are against the haughty; them Thou humblest.\nThe motive for deliverance, which was expounded in Sa2 22:21-24, is summed up briefly in Sa2 22:25; and then in Sa2 22:26 and Sa2 22:27 it is carried back to the general truth, that the conduct of God towards men is regulated according to the conduct of men towards God. The vav cons. in ויּשׁב expresses the logical consequence. כּברי is used instead of ידי כּבר in Sa2 22:21, which is repeated in the psalm simply for the sake of variation. The truth that God treats every man in accordance with his conduct towards Him, is expounded in four parallel clauses, in which the conduct of God is expressed in verbs in the Hithpael, formed from the adjectives used to describe the conduct of men towards God. To the חסיד, the pious or devoted to God, He also shows himself pious; and innocent, blameless, to the תמים גּבּור, the man strong in innocence, who walks in perfect innocence. נבר, a Niphal participle, from בּרר, he who keeps himself pure, strives after purity of walk. תּתּבר, an anomalous contraction of תּתבּרר (Ps.), analogous to the formation of נבר for נברר. The form תּתּפּל for תּתפּתּל, to show one's self perverse of crooked, is still more anomalous. God shows himself so towards the perverse, by giving him up to his perverseness (Rom 1:28). This general truth is applied in Sa2 22:28 to the congregation of God, in the contrast which it presents of humble and haughty, and is expounded from the conduct of God, as displayed in the history of Israel, towards these two classes of men, into which the nation was divided. In the psalm, therefore, we find אתּה כּי, for which the simple ו is substituted here, because the verse does not contain any actual reason for what goes before. עני עם, afflicted people, is used to denote the pious and depressed in the nation; רמים, the high, i.e., the haughty, or godless rich and mighty in the nation. תּשׁפּיל is to be taken as a relative: whom Thou humblest (see Ewald, 332, b.; and for the thought, Isa 2:11). In the psalm the unusual mode of expression in the second clause is changed into the more common phrase, \"Thou bringest down high, i.e., proud looks\" (cf. Pro 6:17; Pro 21:4; Pro 30:13; Psa 131:1, etc.)."
+    },
+    {
+      "src": "KD",
+      "ref": "2 Samuel 24:10",
+      "note_ref": "KD/10/24/10",
+      "cites": [
+        "2 Samuel 24:10"
+      ],
+      "text": "David's heart, i.e., his conscience, smote him, after he had numbered the people, or had given orders for the census to be taken. Having now come to a knowledge of his sin, he prayed to the Lord for forgiveness, because he had acted foolishly. The sin consisted chiefly in the self-exaltation which had led to this step (see the introductory remarks).\nSa2 24:11-13\nWhen he rose up in the morning, after he had calmly reflected upon the matter during the night upon his bed, and had been brought to see the folly of his determination, the prophet Gad came to him by the command of God, pointed out to him his fault, and foretold the punishment that would come from God. \"Shall seven years of famine come upon thy land, or three months of flight before thine oppressors that they may pursue thee, or shall there be three days of pestilence in thy land? Now mark and see what answer I shall bring to Him that sendeth me.\" These three verses form one period, in which גד ויּבא (Sa2 24:13) answers as the consequent to וגו דּוד ויּקם in Sa2 24:11, and the words from יהוה וּדבר (Sa2 24:11) to ואעשׂה־לּך) (Sa2 24:12) form a circumstantial clause inserted between. וגו יהוה וּדבר י: \"and the word of the Lord had taken place (gone forth) to Gad, David's seer, saying, Go ... thus saith Jehovah, I lay upon thee three (things or evils); choose thee one of them that I may do it to thee.\" Instead of על נטל, to lay upon, we find נטה in the Chronicles, \"to turn upon thee.\" The three things are mentioned first of all in connection with the execution of Gad's commission to the king. Instead of seven years of famine, we find three years in the Chronicles; the Septuagint has also the number three in the passage before us, and apparently it is more in harmony with the connection, viz., three evils to choose from, and each lasting through three divisions of time. But this agreement favours the seven rather than the three, which is open to the suspicion of being intentionally made to conform to the rest. נסך is an infinitive: \"thy fleeing,\" for that thou fliest before thine enemies. In the Chronicles the last two evils are described more fully, but the thought is not altered in consequence.\nSa2 24:14\nDavid replied, \"I am in great trouble. Let us fall into the hand of the Lord, for His mercy is great; but let me not fall into the hand of men.\" Thus David chose the third judgment, since pestilence comes directly from God. On the other hand, in flight from the enemy, he would have fallen into the hands of men. It is not easy to see, however, how far this could apply to famine; probably inasmuch as it tends more or less to create dependence upon those who are still in possession of the means of life.\nSa2 24:15\nGod then gave (sent) a pestilence into (upon) Israel, \"from the morning till the time of the assembly;\" and there died of the people in the whole land (from Dan to Beersheba) seventy thousand men. \"From the morning:\" on which Gad had foretold the punishment. The meaning of מועד ועד־עת is doubtful. The rendering \"to the time appointed,\" i.e., \"till the expiration of the three days,\" in support of which the Vulgate (ad tempus constitutum) is wrongly appealed to, is precluded not only by the circumstance that, according to Sa2 24:16, the plague was stayed earlier because God repented Him of the evil, so that it did not last so long as was at first appointed, but also by the grammatical difficulty that מועד עת has no article, and can only be rendered \"for an (not for the) appointed time.\" We meet with two different explanations in the ancient versions: one in the Septuagint, ἕως ὥρας ἀρίστου, \"till the hour of breakfast,\" i.e., till the sixth hour of the day, which is the rendering also adopted by the Syriac and Arabic as well as by Kimchi and several of the Rabbins; the other in the Chaldee (Jonathan), \"from the time at which the sacrifice is commonly slain until it is consumed.\" Accordingly Bochart explains מועד את as signifying \"the time at which the people came together for evening prayers, about the ninth hour of the day, i.e., the third hour in the afternoon\" (vid., Act 3:1). The same view also lies at the foundation of the Vulgate rendering, according to the express statement of Jerome (traditt. Hebr. in 2 libr. Regum): \"He calls that the time appointed, in which the evening sacrifice was offered.\" It is true that this meaning of מועד cannot be established by precisely analogous passages, but it may be very easily deduced from the frequent employment of the word to denote the meetings and festivals connected with the worship of God, when it generally stands without an article, as for example in the perfectly analogous מועד יום (Hos 9:5; Lam 2:7, Lam 2:22); whereas it is always written with the article when it is sued in the general sense of a fixed time, and some definite period is referred to.\n(Note: The objections brought against this have no force in them, viz., that, according to this view, the section must have been written a long time after the captivity (Clericus and Thenius), and that \"the perfectly general expression 'the time of meeting' could not stand for the time of the afternoon or evening meeting\" (Thenius): for the former rests upon the assumption that the daily sacrifice was introduced after the captivity, - an assumption quite at variance with the historical facts; and the latter is overthrown by the simple remark, that the indefinite expression derived its more precise meaning from the legal appointment of the morning and evening sacrifice as times of meeting for the worship of God, inasmuch as the evening meeting was the only one that could be placed in contrast with the morning.)\nWe must therefore decide in favour of the latter. But if the pestilence did not last a whole day, the number of persons carried off by it (70,000 men) exceeded very considerably the number destroyed by the most violent pestilential epidemics on record, although they have not unfrequently swept off hundreds of thousands in a very brief space of time. But the pestilence burst upon the people in this instance with supernatural strength and violence, that it might be seen at once to be a direct judgment from God.\nSa2 24:16\nThe general statement as to the divine judgment and its terrible effects is followed by a more minute description of the judgment itself, and the arrest of the plague. \"When the destroying angel ('the angel' is defined immediately afterwards as 'the angel that destroyed the people') stretched out his hand towards Jerusalem to destroy it, Jehovah repented of the evil (for this expression, see Exo 32:14; Jer 26:13, Jer 26:19, etc.; and for the repentance of God, the remarks on Gen 6:6), and He commanded the angel, Enough! stay now thine hand.\" This implies that the progress of the pestilence was stayed before Jerusalem, and therefore that Jerusalem itself was spared. \"And the angel of Jehovah was at the threshing-floor of Aravnah the Jebusite.\" These words affirm most distinctly that the destroying angel was visible. According to Sa2 24:17, David saw him there. The visible appearance of the angel was to exclude every thought of a natural land plague. The appearance of the angel is described more minutely in the Chronicles: David saw him standing by the threshing-floor of Aravnah between heaven and earth with a drawn sword in his hand, stretched out over Jerusalem. The drawn sword was a symbolical representation of the purpose of his coming (see at Num 22:23 and Jos 5:13). The threshing-floor of Aravnah was situated, like all other threshing-floors, outside the city, and upon an eminence, or, according to the more precise statement which follows, to the north-east of Zion, upon Mount Moriah (see at Sa2 24:25). According to the Chethib of Sa2 24:16, the name of the owner of the floor was האורנה, of Sa2 24:18 ארניה, and of Sa2 24:20 (twice) ארונה. This last form also occurs in Sa2 24:22, Sa2 24:23, and Sa2 24:24, and has been substituted by the Masoretes as the Keri in Sa2 24:16 and Sa2 24:18. In the Chronicles, on the other hand, the name is always written ארנן (Ornan), and hence in the Septuagint we find Ὄρνα in both texts. \"The form ארונה (Aravnah) has not a Hebrew stamp, whereas Orna and Ornan are true Hebrew formations. But for this very reason Aravnah appears to be derived from an ancient tradition\" (Bertheau).\nSa2 24:17\nWhen David saw the angel, he prayed to the Lord (he and the elders being clothed in mourning costume: Chron.): \"Behold, I have sinned, and I have acted perversely; but these, the flock, what have they done? Let Thy hand come upon me and my house.\" The meaning is: I the shepherd of Thy people have sinned and transgressed, but the nation is innocent; i.e., not indeed free from every kind of blame, but only from the sin which God was punishing by the pestilence. It belongs to the very nature of truly penitential prayer, that the person praying takes all the blame upon himself, acknowledges before God that he alone is deserving of punishment, and does not dwell upon the complicity of others for the sake of palliating his own sin in the sight of God. We must not infer, therefore, from this confession on the part of David, that the people, whilst innocent themselves, had had to atone only for an act of transgression on the part of their king.\nSa2 24:18\nDavid's prayer was heard. The prophet Gad came and said to him by command of Jehovah, \"Go up, and erect an altar to the Lord upon the floor of Aravnah the Jebusite.\" This is all that is communicated here of the word of Jehovah which Gad was to convey to the king; the rest is given afterwards, as is frequently the case, in the course of the subsequent account of the fulfilment of the divine command (Sa2 24:21). David was to build the altar and offer burnt-offerings and supplicatory-offerings upon it, to appease the wrath of Jehovah. The plague would then be averted from Israel."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Kings 15:3",
+      "note_ref": "KD/11/15/3",
+      "cites": [
+        "1 Kings 15:5"
+      ],
+      "text": "Abijam walked as king in the footsteps of his father. Although he made presents to the temple (Kg1 15:15), his heart was not שׁלם, wholly or undividedly given to the Lord, like the heart of David (cf., Kg1 11:4); but (כּי, after a previous negative) for David's sake Jehovah had left him a light in Jerusalem, to set up his son after him and to let Jerusalem stand, because (אשׁר) David had done right in the eyes of God, etc., i.e., so that it was only for David's sake that Jehovah did not reject him, and allowed the throne to pass to his son. For the fact itself compare Kg1 11:13, Kg1 11:36; and for the words, \"except in the matter of Uriah the Hittite,\" see 2 Sam 11 and 12."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Kings 15:6",
+      "note_ref": "KD/11/15/6",
+      "cites": [
+        "1 Kings 15:5"
+      ],
+      "text": "\"And there was war between Rehoboam and Jeroboam all his life;\" i.e., the state of hostility which had already existed between Rehoboam and Jeroboam continued \"all the days of his life,\" or so long as Abijam lived and reigned. If we take חיּיו כּל־ימי in this manner (not כּל־ימיהם, Kg1 15:16), the statement loses the strangeness which it has at first sight, and harmonizes very well with that in Kg1 15:7, that there was also war between Abijam and Jeroboam. Under Abijam it assumed the form of a serious war, in which Jeroboam sustained a great defeat (see 2 Chron 13:3-20). - The other notices concerning Abijam in Kg1 15:7, Kg1 15:8 are the same as in the case of Rehoboam in Kg1 14:29, Kg1 14:31."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 21:1",
+      "note_ref": "KD/13/21/1",
+      "cites": [
+        "1 Chronicles 21:8"
+      ],
+      "text": "See Chapter Introduction\nSee Chapter Introduction\n1 Chronicles 21:28\nch1 21:28\nch1 21:28\nch1 21:28At that time when David saw that the Lord had answered him in the threshing floor Of Ornan the Jebusite,.... The same with Araunah, Sa2 24:16, with some small variation of the letters, and are of the same signification; both signifying the \"ornus\", as Hillerus (m) observes, the pine tree or ash; see Isa 44:14, in whose threshingfloor David now was, and where he had been praying and sacrificing; and God had accepted his prayer, as the Targum, and had answered him, by causing fire to come down on the sacrifice and consume it, and by ordering the angel to put up his sword in its sheath:\nthen he sacrificed there; again by the priests, and continued to do so, for he had sacrificed there before, Ch1 21:26 and finding his sacrifices in that place were acceptable, he repeated them, and did not go to Gibeon, as follows.\n(m) Onomastic. Sacr. p. 529, 530.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "2 Samuel 22:2",
+      "note_ref": "MHC/10/22/2",
+      "cites": [
+        "2 Samuel 22:21",
+        "2 Samuel 22:25"
+      ],
+      "text": "Let us observe, in this song of praise,\nI. How David adores God, and gives him the glory of his infinite perfections. There is none like him, nor any to be compared with him (Sa2 22:32): Who is God, save the Lord? All others that are adored as deities are counterfeits and pretenders. None is to be relied on but he. Who is a rock, save our God? They are dead, but the Lord liveth, Sa2 22:47. They disappoint their worshippers when they most need them. But as for God his way is perfect, Sa2 22:31. Men begin in kindness, but end not - promise, but perform not; but God will finish his work, and his word is tried, and what we may trust.\nII. How he triumphs in the interest he has in this God, and his relation to him, which he lays down as the foundation of all the benefits he has received from him: He is my God; as such he cries to him (Sa2 22:7), and cleaves to him (Sa2 22:22); \"and, if my God, then my rock\" (Sa2 22:2), that is, \"my strength and my power (Sa2 22:33), the rock under which I take shelter (he who is to me as the shadow of a great rock in a weary land), the rock on which I build my hope,\" Sa2 22:3. Whatever is my strength and support, it is the God of my rock that makes it so; nay, he is the God of the rock of my salvation (Sa2 22:47): my saving strength is in him and from him. David often hid himself in a rock (Sa1 24:2), but God was his chief hiding-place. \"He is my fortress, in which I am safe and think myself so - my high tower, or stronghold, in which I am out of the reach of real evils - the tower of salvation (Sa2 22:51), which can never be sealed nor battered, nor undermined. Salvation itself saves me. Am I in distress? he is my deliverer - struck at, shot at? he is my shield - pursued? he is my refuge - oppressed? he is my saviour, that rescues me out of the hand of those that seek my ruin. Nay, he is the horn of my salvation, by which I am strongly protected, and my enemies are strongly pushed.\" Christ is spoken of as the horn of salvation in the house of David, Luk 1:69. \"Am I burdened, and ready to sink? The Lord is my stay (Sa2 22:19), by whom I am supported. Am I in the dark, benighted, at a loss? Thou art my lamp, O Lord! to show me my way, and thou wilt dispel my darkness,\" Sa2 22:29. If we sincerely take the Lord for our God, all this, and much more, he will be to us, all we need and can desire.\nIII. What improvement he makes of his interest in God. If he be mine, 1. In him will I trust (Sa2 22:3), that is, \"I will resign myself to his direction, and then depend upon his power, and wisdom, and goodness, to conduct me well.\" 2. On him I will call (Sa2 22:4), for he is worthy to be praised. What we have found in God that is worthy to be praised should engage us to pray to him and give glory to him. 3. To him will I give thanks (Sa2 22:50), and that publicly. When he was among the heathen he would neither be afraid nor ashamed to own his obligations to the God of Israel.\nIV. The full and large account he keeps for himself, and gives to others, of the great and kind things God had done for him. This takes up most of the song. He gives God the glory both of his deliverances and of his successes, showing both the perils he was delivered from and the power he was advanced to.\n1. He magnifies the great salvations God had wrought for him. God sometimes brings his people into very great difficulties and dangers, that he may have the honour of saving them and they the comfort of being saved by him. He owns, Thou hast saved me from violence (Sa2 22:3), from my enemies (Sa2 22:4), from my strong enemy, meaning Saul, who, if God had not succoured him, would have been too hard for him, Sa2 22:18. Thou hast given me the shield of thy salvation, Sa2 22:36. To magnify the salvation, he observes,\n(1.) That the danger was very great and threatening out of which he was delivered. Men rose up against him (Sa2 22:40, Sa2 22:49) that hated him (Sa2 22:41), a violent man (Sa2 22:49) namely, Saul, who was malicious in his designs against him and vigorous in his pursuit. This is expressed figuratively, Sa2 22:5, Sa2 22:6. He was surrounded with death on every side, threatened to be overwhelmed, and saw no way of escape. So violently did the waves of death beat upon him, so strongly did the cords and snares of death hold him, that he could not help himself, any more than a man in the grave can. The floods of Belial, the wicked one, and his wicked instruments, made him afraid; he trembled to see not only earth, but death and hell, in arms against him.\n(2.) That his deliverance was an answer to prayer, Sa2 22:7. He has here left us a good example, when we are in distress, to cry unto God with importunity, as children in a fright cry to their parents; and great encouragement to do so, in that he found God ready to answer prayer out of his temple in heaven, where he is continually served and adored.\n(3.) That God appeared in a singular and extraordinary manner for him and against his enemies. The expressions are borrowed from the descent of the divine Majesty upon Mount Sinai, Sa2 22:8, Sa2 22:9, etc. We do not find that in any of David's battles God fought for him with thunder (as in Samuel's time), or with hail (as in Joshua's time), or with the stars in their courses (as in Deborah's time); but these lofty metaphors are used, [1.] To set forth the glory of God, which was manifested in his deliverance. God's wisdom and power, his goodness and faithfulness, his justice and holiness, and his sovereign dominion over all the creatures and all the counsels of men, which appeared in favour of David, were as clear and bright a discovery of God's glory to an eye of faith as such miraculous interpositions would have been to an eye of sense. [2.] To set forth God's displeasure against his enemies, God so espoused his cause that he showed himself an enemy to all his enemies; his anger is set forth by a smoke out of his nostrils, and fire out of his mouth (Sa2 22:9), coals kindled (Sa2 22:13), arrows, Sa2 22:15. Who knows the power and terror of his wrath? [3.] To set forth the extraordinary confusion which his enemies were put into, and the consternation that seized them; as if the earth had trembled and the foundations of the world had been discovered, Sa2 22:8, Sa2 22:16. Who can stand before God when he is angry? [4.] To show how ready God was to help him: He rode upon a cherub and did fly, Sa2 22:11. God hastened to his succour, and came to him with seasonable relief, though he had seemed at a distance; yet he was a God hiding himself (Isa 14:15), for he made darkness his pavilion (Sa2 22:12), for the amazement of his enemies and the protection of his own people.\n(4.) That God manifested his particular favour and kindness to him in these deliverances (Sa2 22:20): He delivered me, because he delighted in me. The deliverance came not from common providence, but covenant-love; he was herein treated as a favourite: so he perceived by the communications of divine grace and comfort to his soul with these deliverances, and the communion he had with God in them. Herein he was a type of Christ, whom God upheld because he delighted in him, Isa 42:1, Isa 42:2.\n2. He magnifies the great successes God had crowned him with. He had not only preserved but prospered him. He was blessed, (1.) With liberty and enlargement. He was brought into a large place (Sa2 22:20), where he had room to thrive, and his steps were enlarged under him, so that he had room to stir (Sa2 22:37), being no longer straitened and confined. (2.) With military skill, and strength, and swiftness. Though he was bred up to the crook, he was well instructed in the arts of war and qualified for the toils and perils of it. God, having called him to fight his battles, qualified him for the service. He made him very ingenious (He teacheth my hands to war, Sa2 22:35. And this ingenuity was as good as strength, for it follows, \"so that a bow of steel is broken by my arms,\" not so much by main force as by dexterity), and very vigorous and valiant. (Thou hast girded me with strength to battle, Sa2 22:40. He gives God the glory of all his courage and ability for service), and very expeditious: He maketh my feet swift like hinds feet (Sa2 22:34), which is of great advantage both in charging and retreating. (3.) With victory over his enemies, not only Saul and Absalom, but the Philistines, Moabites, Ammonites, Syrians, and other neighbouring nations, whom he subdued and made tributaries to Israel. His wonderful victories are here described, Sa2 22:38-43. They were speedy victories (I turned not again till I had consumed them, Sa2 22:38) and complete victories. The enemies of Israel were wounded, destroyed, consumed, fell under his feet, trampled upon, and disabled to rise, and their necks lay at his mercy. They cried both to earth and heaven for help, but in vain. There was none to save, none that durst appear for them. God answered them, not for they were not on his side, nor did they cry unto him till they were brought to the last extremity. Being thus abandoned, they became an easy prey to David's righteous and victorious sword, so that he beat them as small as the dust of the earth, which is scattered by the wind and trodden on by every foot. (4.) With advancement to honour and power. To this he was anointed before his troubles began, and at length, post tot discrimina rerum - after all his dangers and disasters, he gained his point. God made his way perfect (Sa2 22:33), gave him success in all his undertakings, set him upon his high places (Sa2 22:34), denoting both safety and dignity. God's gentleness, his grace and tender mercy, made him great (Sa2 22:36), gave him great wealth, and great authority, and a name like that of the great men of the earth. He was kept to be the head of the heathen (Sa2 22:44); his signal preservations evinced that he was designed and reserved for something great - to rule over all Israel, notwithstanding the strivings of the people, and so that those whom he had not known should serve him, many of the nations that lay remote. Thus he was lifted up on high, as high as the throne, above those that rose up against him, Sa2 22:49.\nV. The comfortable reflections he makes upon his own integrity, which God, by those wonderful deliverances, had graciously owned and witnessed to, Sa2 22:21-25. He means especially his integrity with reference to Saul and Ishbosheth, Absalom and Sheba, and those who either opposed his coming to the crown or endeavoured to dethrone him. They falsely accused him and misrepresented him, but he had the testimony of this conscience for him that he was not an ambitious aspiring man, a false and bloody man, as they called him, - that he had never taken any indirect unlawful courses to secure or raise himself, but in his whole conduct had kept in the way of his duty, - and that in the whole course of his conversation he had, for the main, made religion his business, so that he could take God's favours to him as the rewards of his righteousness, not of debt, but of grace. God had recompensed him, though not for his righteousness, as if that had merited any thing at the hand of God, yet according to his righteousness, which he was well pleased with, and had an eye to. His conscience witnessed for him, 1. That he had made the word of God his rule, and had kept to it, Sa2 22:23. Wherever he was, God's judgments were before him as his guide; whithersoever he went, he took his religion along with him, and though he was forced to depart from his country, and sent, as it were, to serve other gods, yet as for God's statutes, he did not depart from them, but kept the way of the Lord and walked in it. 2. That he had carefully avoided the bye-paths of sin. He had not wickedly departed from his God. He could not say but that he had taken some false steps, but he had not deserted God, nor forsaken his way. Sins of infirmity he could not acquit himself from, but the grace of God had kept him from presumptuous sins. Though he had sometimes weakly departed from his God. By this it appeared that he was upright before God, or to God (in his sight, and with an eye to him), that he kept himself from his own iniquity, not only from that particular sin of killing Saul when it was in the power of his hand to do it, but, in general, he was afraid of sin and watchful against it, and made conscience of what he said and did. The matter of Uriah is an exception (Kg1 15:5), like that in Hezekiah's character, Ch2 32:31. Note, A careful abstaining from our own iniquity is one of the best evidences of our own integrity; and the testimony of our conscience for us that we have done so will be such a rejoicing as will not only lessen the griefs of an afflicted state, but increase the comforts of a prosperous state. David reflected with more comfort upon his victories over his own iniquity than upon his conquest of Goliath and all the hosts of the uncircumcised Philistines; and the witness of his own heart to his uprightness was sweeter though more silent music than theirs that sang, David has slain his ten thousands. If a great man be a good man, his goodness will be much more his satisfaction than his greatness. Let favour be shown to the upright and his uprightness will sweeten it, will double it.\nVI. The comfortable prospects he has of God's further favour. As he looks back, so he looks forward, with pleasure, and assures himself of the kindness God has in store for all the saints, for himself, and also for his seed.\n1. For all good people, Sa2 22:26-28. As God had dealt with him according to his uprightness, so he will with all others. He takes occasion here to lay down the established rules of God's procedure with the children of men: -\n(1.) That he will do good to those that are upright in their hearts. As we are found towards God, he will be found towards us. [1.] God's mercy and grace will be the joy of those that are merciful and gracious. Even the merciful need mercy; and they shall obtain it. [2.] God's uprightness, his justice and faithfulness, will be the joy of those that are upright, just, and faithful, both towards God and man. [3.] God's purity and holiness will be the joy of those that are pure and holy, who therefore give thanks at the remembrance thereof. And, if any of these good people be afflicted people, he will save them, either out of their afflictions or by and after them. On the other hand,\n(2.) That those who turn aside to crooked ways he will lead forth with the workers of iniquity, as he says in another psalm. With the froward he will wrestle; and those with whom God wrestles are sure to be foiled. Woe unto him that strives with his Maker! God will walk contrary to those that walk contrary to him and be displeased with those that are displeased with him. As for the haughty, his eyes are upon them, marking them out, as it were, to be brought down; for he resists the proud.\n2. For himself. He foresaw that his conquests and kingdom would be yet further enlarged, Sa2 22:45, Sa2 22:46. Even the sons of the stranger, that would hear the report of his victories and the tokens of God's presence with him, would be possessed with a fear of him, would be forced to submit to him, though feignedly, and would be obedient to him. The successes which he had had he looked upon as earnests of more and means of more. Who durst oppose him by whom so many had been overcome? Thus the Son of David goes on conquering and to conquer, Rev 6:2. His gospel, which has been victorious, shall be so more and more.\n3. For his seed: He showeth mercy to his Messiah (Sa2 22:51), not only to David himself, but to that seed of his for evermore. David was himself anointed of God, not a usurper, but duly called to the government and qualified for it; therefore he doubted not but God would show mercy to him, that mercy which he had promised not to take from him nor from his posterity (Sa2 7:15, Sa2 7:16); on that promise he depends, with an eye to Christ, who alone is his seed for evermore, whose throne and kingdom still continue, and will to the end, whereas the seed and lineage of David are long since extinct. See Psa 89:28, Psa 89:29. Thus all his joys and all his hopes terminate, as ours should, in the great Redeemer.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Kings 15:1",
+      "note_ref": "MHC/11/15/1",
+      "cites": [
+        "1 Kings 15:5"
+      ],
+      "text": "We have here a short account of the short reign of Abijam the son of Rehoboam king of Judah. He makes a better figure, 2 Chr. 13, where we have an account of his war with Jeroboam, the speech which he made before the armies engaged, and the wonderful victory he obtained by the help of God. There he is called Abijah - My father is the Lord, because no wickedness is there laid to his charge. But here, where we are told of his faults, Jah, the name of God, is, in disgrace to him, taken away from his name, and he is called Abijam. See Jer 22:24.\nI. Few particulars are related concerning him. 1. Here began his reign in the beginning of Jeroboam's eighteenth year; for Rehoboam reigned but seventeen, Kg1 14:21. Jeroboam indeed survived Rehoboam, but Rehoboam's Abijah lived to succeed him and to be a terror to Jeroboam, while Jeroboam's Abijah (whom we read of Kg1 14:1) died before him. 2. He reigned scarcely three years, for he died before the end of Jeroboam's twentieth year, Kg1 15:9. Being made proud and secure by his great victory over Jeroboam (Ch2 13:21), God cut him off, to make way for his son Asa, who would be a better man. 3. His mother's name was Maachah, the daughter of Abishalom, that is, Absalom, David's son, as I am the rather inclined to think because two other of Rehoboam's wives were his near relations (Ch2 11:18), one the daughter of Jerimoth, David's son, and another the daughter of Eliab, David's brother. He took warning by his father not to marry strangers; yet thought it below him to marry his subjects, except they were of the royal family. 4. He carried on his father's wars with Jeroboam. As there was continual war between Rehoboam and Jeroboam, not set battles (these were forbidden, Kg1 12:24), but frequent encounters, especially upon the borders, one making incursions and reprisals on the other, so there was between Abijam and Jeroboam (Kg1 15:7), till Jeroboam, with a great army, invaded him, and then Abijam, not being forbidden to act in his own defence, routed him, and weakened him, so that he compelled him to be quiet during the rest of his reign, Ch2 13:20.\nII. But, in general, we are told, 1. That he was not like David, had no hearty affection for the ordinances of God, though, to serve his purpose against Jeroboam, he pleaded his possession of the temple and priesthood, as that upon which he valued himself, Ch2 13:10-12. Many boast of their profession of godliness who are strangers to the power of it, and plead the truth of their religion who yet are not true to it. His heart was not perfect with the Lord his God. He seemed to have zeal, but he wanted sincerity; he began pretty well, but he fell off, and walked in all the sins of his father, followed his bad example, though he had seen the bad consequences of it. He that was all his days in war ought to have been so wise as to make and keep his peace with God, and not to make him his enemy, especially having found him so good a friend in his war with Jeroboam, Ch2 13:18. Let favour be shown to the wicked, yet will he not learn righteousness, Isa 26:10. 2. That yet it was for David's sake that he was advanced, and continued upon the throne; it was for his sake (Kg1 15:4, Kg1 15:5) that God thus set up his son after him; not for his own sake, nor for the sake of his father, in whose steps he trod, but for the sake of David, whose example he would not follow. Note, It aggravates the sin of a degenerate seed that they fare the better for the piety of their ancestors and owe their blessings to it, and yet will not imitate it. They stand upon that ground, and yet despise it, and trample upon it, and unreasonably ridicule and oppose that which they enjoy the benefit of. The kingdom of Judah was supported, (1.) That David might have a lamp, pursuant to the divine ordination of a lamp for his anointed, Psa 132:17. (2.) That Jerusalem might be established, not only that the honours put upon it in David's and Solomon's time might be preserved to it, but that it might be reserved to the honours designed for it in after-times. The character here given of David is very great - that he did that which was right in the eyes of the Lord; but the exception is very remarkable - save only in the matter of Uriah, including both his murder and the debauching of his wife. That was a bad matter; it was a remaining blot upon his name, a bar in his escutcheon, and the reproach of it was not wiped away, though the guilt was. David was guilty of other faults, but they were nothing in comparison of that; yet even that being repented of, though it be mentioned for warning to others, did not prevail to throw him out of the covenant, nor to cut off the entail of the promise upon his seed.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 21:7",
+      "note_ref": "MHC/13/21/7",
+      "cites": [
+        "1 Chronicles 21:8"
+      ],
+      "text": "David is here under the rod for numbering the people, that rod of correction which drives out the foolishness that is bound up in the heart, the foolishness of pride. Let us briefly observe,\nI. How he was corrected. If God's dearest children do amiss, they must expect to smart for it. 1. He is given to understand that God is displeased; and that it is no small uneasiness to so good a man as David, Ch1 21:7. God takes notice of, and is displeased with, the sins of his people; and no sin is more displeasing to him than pride of heart: nor is anything more humbling, and grieving, and mortifying to a gracious soul, than to see itself under God's displeasure. 2. He is put to his choice whether he will be punished by war, famine, or pestilence; for punished he must be, and by one of these. Thus, for his further humiliation, he is put into a strait, a great strait, and has the terror of all the three judgments impressed upon his mind, no doubt to his great amazement, while he is considering which he shall choose. 3. He hears of 70,000 of his subjects who in a few hours were struck dead by the pestilence, Ch1 21:14. He was proud of the multitude of his people, but divine Justice took a course to make them fewer. Justly is that taken from us, weakened, or embittered to us, which we are proud of. David must have the people numbered: Bring me the number of them, says he, that I may know it. But now God numbers them after another manner, numbers to the sword, Isa 65:12. And David had another number of them brought, more to his confusion than was to his satisfaction, namely, the number of the slain - a black bill of mortality, which is a drawback to his muster-roll. 4. He sees the destroying angel, with his sword drawn against Jerusalem, Ch1 21:16. This could not but be very terrible to him, as it was a visible indication of the anger of Heaven, and threatened the utter destruction of that beloved city. Pestilences make the greatest devastations in the most populous places. The sight of an angel, though coming peaceably and on a friendly errand, has made even mighty men to tremble; how dreadful then must this sight be of an angel with a drawn sword in his hand, a flaming sword, like that of the cherubim, which turned every way to keep the way of the tree of life! While we lie under the wrath of God the holy angels are armed against us, though we see them not as David did.\nII. How he bore the correction. 1. He made a very penitent confession of his sin, and prayed earnestly for the pardon of it, Ch1 21:8. Now he owned that he had sinned, had sinned greatly, had done foolishly, very foolishly; and he entreated that, however he might be corrected for it, the iniquity of it might be done away. 2. He accepted the punishment of his iniquity: \"Let thy hand be on me, and on my father's house, Ch1 21:17. I submit to the rod, only let me be the sufferer, for I am the sinner; mine is the guilty head at which the sword should be pointed.\" 3. He cast himself upon the mercy of God (though he knew he was angry with him) and did not entertain any hard thoughts of him. However it be, Let us fall into the hands of the Lord, for his mercies are great, Ch1 21:13. Good men, even when God frowns upon them, think well of him. Though he slay me, yet will I trust in him. 4. He expressed a very tender concern for the people, and it went to his heart to see them plagued for his transgression: These sheep, what have they done?"
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Samuel 22:21",
+      "note_ref": "TYN/10/22/21",
+      "cites": [
+        "2 Samuel 22:21"
+      ],
+      "text": "22:21-30 David’s divine rescue and success were related to his own obedient walk with God. God honors those who order their lives in a way that pleases him (see also Lev 26:1-13; Deut 28:1-14; Ps 1)."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Samuel 22:22",
+      "note_ref": "TYN/10/22/22",
+      "cites": [
+        "2 Samuel 22:21",
+        "2 Samuel 22:25"
+      ],
+      "text": "22:22-24 David composed these words much earlier (22:1), before his sin with Bathsheba. Still, his claim to being blameless should not be construed as a claim to perfection. David was simply noting that he had kept the covenant and followed its law."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Samuel 24:9",
+      "note_ref": "TYN/10/24/9",
+      "cites": [
+        "2 Samuel 24:10"
+      ],
+      "text": "24:9 The phrase capable warriors shows that the census focused largely on those fit for military service. The total for Judah here might be rounded up from the total in 1 Chr 21:5; the different number for Israel in 1 Chr 21:5 (1,100,000) might come from combining a regular standing army of 300,000 (elsewhere unrecorded) with the 800,000 discovered through the census."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Samuel 24:10",
+      "note_ref": "TYN/10/24/10",
+      "cites": [
+        "2 Samuel 24:10"
+      ],
+      "text": "24:10 I have sinned: See study note on 24:1. David believed his sin was the cause of the plague and that the removal of his sin would make things right (see also 24:17). It is clear, however, that Israel rather than David was the true object of God’s wrath (24:1)."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Samuel 24:11",
+      "note_ref": "TYN/10/24/11",
+      "cites": [
+        "2 Samuel 24:10"
+      ],
+      "text": "24:11 Gad . . . David’s seer appears only here and in 1 Sam 22:5. Seer is an early name for a prophet (1 Sam 9:9, 19). Unlike pagan magicians or sorcerers, biblical seers had divinely inspired visions (see also 2 Kgs 17:13; Isa 29:10; 30:9-10; Amos 7:12; Mic 3:7) and functioned as God’s messengers."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Kings 15:3",
+      "note_ref": "TYN/11/15/3",
+      "cites": [
+        "1 Kings 15:5"
+      ],
+      "text": "15:3-5 Despite Abijam’s unfaithfulness, God remained faithful to his covenant with David (2 Sam 7:12-16; Ps 89:19-29) and preserved David’s line on Judah’s throne. Each king that followed David was to be a lamp, dispensing the light of God’s grace (1 Kgs 11:36)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Kings 15:6",
+      "note_ref": "TYN/11/15/6",
+      "cites": [
+        "1 Kings 15:5"
+      ],
+      "text": "15:6 Abijam inherited the hostility between the northern and southern kingdoms. Like Rehoboam (14:30), he faced war with Jeroboam. During one notable battle (2 Chr 13:2-20), when Abijam and his outnumbered forces were surrounded by northern troops, they cried out to the Lord; God delivered them and enabled them to inflict a severe defeat on Jeroboam."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Kings 15:7",
+      "note_ref": "TYN/11/15/7",
+      "cites": [
+        "1 Kings 15:5"
+      ],
+      "text": "15:7 rest of the events: Among other details of Abijam’s reign, the Chronicler tells us that he married fourteen wives and had thirty-eight children (2 Chr 13:21)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 21:7",
+      "note_ref": "TYN/13/21/7",
+      "cites": [
+        "1 Chronicles 21:8"
+      ],
+      "text": "21:7 The study note on 2 Sam 24:1 discusses possible reasons why God was very displeased with the census."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 21:9",
+      "note_ref": "TYN/13/21/9",
+      "cites": [
+        "1 Chronicles 21:8"
+      ],
+      "text": "21:9 Gad is later mentioned as having compiled a list of “the events of King David’s reign” (29:29)."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Samuel 22:19",
+      "note_ref": "GNV/10/22/19",
+      "cites": [
+        "2 Samuel 22:21"
+      ],
+      "text": "I was so beset, that all means seemed to fail."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Samuel 22:21",
+      "note_ref": "GNV/10/22/21",
+      "cites": [
+        "2 Samuel 22:21"
+      ],
+      "text": "Toward Saul and mine enemies."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Samuel 22:22",
+      "note_ref": "GNV/10/22/22",
+      "cites": [
+        "2 Samuel 22:21",
+        "2 Samuel 22:25"
+      ],
+      "text": "I attempted nothing without his commandment."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Samuel 22:27",
+      "note_ref": "GNV/10/22/27",
+      "cites": [
+        "2 Samuel 22:25"
+      ],
+      "text": "Their wickedness is cause that thou seemest to forget thy wonted mercy."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Samuel 24:9",
+      "note_ref": "GNV/10/24/9",
+      "cites": [
+        "2 Samuel 24:10"
+      ],
+      "text": "According to Joab’s count: for in all there were eleven hundred thousand, 1 Chron. 21:5.\nConcluding under them the Benjamites: for else they had but four hundred and seventy thousand, 1 Chron. 21:5."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Samuel 24:11",
+      "note_ref": "GNV/10/24/11",
+      "cites": [
+        "2 Samuel 24:10"
+      ],
+      "text": "Whom God had appointed for David and his time."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Kings 15:4",
+      "note_ref": "GNV/11/15/4",
+      "cites": [
+        "1 Kings 15:5"
+      ],
+      "text": "Meaning, a son to reign over Judah."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 21:5",
+      "note_ref": "GNV/13/21/5",
+      "cites": [
+        "1 Chronicles 21:8"
+      ],
+      "text": "Joab partly for grief, and partly through negligence, gathered not the whole sum as it is here declared.\nIn Samuel is mention of thirty thousand more, which was either by joining to them some of the Benjamites which were mixed with Judah, or as the Hebrews write, here the chief and princes are left out.",
+      "anchor": true
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 21:9",
+      "note_ref": "GNV/13/21/9",
+      "cites": [
+        "1 Chronicles 21:8"
+      ],
+      "text": "Or, Prophet."
+    }
+  ]
+}

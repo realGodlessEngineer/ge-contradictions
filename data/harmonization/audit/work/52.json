@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 52,
+  "question": "Who was the father of Uz, Hul, and Gether?",
+  "summary": "Genesis 10:23 lists Uz, Hul, and Gether as sons of Aram (making them Aram's generation, great-grandsons of Shem). 1 Chronicles 1:17, however, lists the same three names as direct sons of Shem — skipping Aram entirely.",
+  "consensus": "probable_harmonization",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Commentators read the Chronicles list as a compressed genealogy: the three are grandsons of Shem through Aram, with \"sons\" used loosely for descendants.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The objection is catalogued by Steve Wells in the Skeptic's Annotated Bible, which lists Genesis 10:23 (sons of Aram) against 1 Chronicles 1:17 (sons of Shem) as giving two different fathers for Uz, Hul, and Gether.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible, \"Who was the father of Uz, Hul, and Gether?\"",
+      "year": "1999",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (1999-), contradiction \"Who was the father of Uz, Hul, and Gether?\" (skepticsannotatedbible.com/contra/uz-hul-gether.html)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Genesis 10:23",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact pair, noting the four are 'called the sons of Shem, Ch1 1:17 being his grandsons, which is not unusual in Scripture.' Used in place of Haley, whose specific coverage of this passage could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted (gotquestions.org / carm.org / defendinginerrancy.com) page treating this specific genealogical pair could be verified; link omitted rather than guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "52#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Genesis 10:23",
+      "full_note_ref": "GILL/1/10/23",
+      "excerpt_text": "The four following persons are called the sons of Shem, Ch1 1:17 being his grandsons, which is not unusual in Scripture …",
+      "on_tension_rationale": "Names both passages and resolves the tension directly: the Chronicles 'sons of Shem' are really Aram's sons, i.e. Shem's grandsons, a normal genealogical compression.",
+      "source_note_text": "And the children of Aram,.... The four following persons are called the sons of Shem, Ch1 1:17 being his grandsons, which is not unusual in Scripture:\nUz, and Hul, and Gether, and Mash: the first of these sons of Aram, Uz, is generally thought to be the founder of Damascus; so Josephus (t) says. Usus founded Trachonitis and Damascus, which lies between Palestine and Coelesyria: there was a place called Uz in Idumea, Lam 4:21 and another in Arabia, where Job dwelt, Job 1:1 but neither of them seems to be the seat of this man and his posterity, who, in all probability, settled in Syria: his second son Hul, whom Josephus (u) calls Ulus, according to him, founded Armenia; which notion may be strengthened by observing that Cholobotene is reckoned a part of Armenia by Stephanus (w); which is no other than Cholbeth, that is, the house or seat of Chol, the same with Hul; and there are several places in Armenia, as appears from Ptolemy (x), which begin with Chol or Col, as Cholus, Cholua, Choluata, Cholima, Colsa, Colana, Colchis: but perhaps it may be better to place him in Syria, in the deserts of Palmyrene, as Junius and Grotius; since among the cities of Palmyrene, there is one called Cholle, according to Ptolemy (y). Gether, the third son, is made by Josephus (z) to be the father of the Bactrians; but these were too far off to come from this man, and were not in the lot of Shem: Bochart (a) finds the river Getri, which the Greeks call Centrites, between Armenia and the Carduchi, whereabout, he conjectures, might be the seat of this man; but perhaps it may be more probable, with Grotius and Junius, to place him in Coelesyria, where are the city Gindarus of Ptolemy (b), and a people called Gindareni, by Pliny (c); though Bishop Patrick thinks it probable that Gadara, the chief city of Peraea, placed by Ptolemy (d) in the Decapolis of Coelesyria, had its name from this man: Mr. Broughton derives Atergate and Derceto, names of a Syrian goddess, from him, which was worshipped at Hierapolis in Coelesyria, as Pliny says (e). The last of the sons of Aram, Mash, is called Meshech, in Ch1 1:17 and here the Septuagint version calls him Masoch; his posterity are supposed to settle in Armenia, about the mountain Masius, thought to be the same with Ararat, and which the Armenians call Masis; perhaps the people named Moscheni, mentioned by Pliny (f), as dwelling near Armenia and Adiabene, might spring from this man.\n(t) Ut supra. (Antiqu. l. 1. c. 6. sect. 4.) (u) Ibid. (w) Apud Bochart. Phaleg. l. 2. c. 9. col. 81. (x) Geograph. l. 5. c. 13. (y) Geograph. l. 5. c. 15. (z) Ut supra. (Antiqu. l. 1. c. 6. sect. 4.) (a) Phaleg. l. 2. c. 10. (b) Geograph. l. 5. c. 15. (c) Nat. Hist. l. 5. c. 23. (d) Ut supra. (Geograph. l. 5. c. 15.) (e) Nat. Hist. l. 5. c. 23. (f) Ib. l. 6. c. 9."
+    }
+  ]
+}

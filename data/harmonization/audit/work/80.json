@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 80,
+  "question": "Is it okay to marry your wife's sister, while your wife is still alive?",
+  "summary": "Genesis 29:24-28 has Jacob married to Leah and Rachel simultaneously, and the narrative treats it as legitimate — these two sister-wives become the mothers of the twelve tribes. Leviticus 18:18 explicitly forbids marrying \"a wife to her sister\" during her lifetime. Either the foundational marriage of the nation was Torah-illegal, or Torah is retroactively criminalizing patriarchal practice.",
+  "consensus": "genuinely_disputed",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Harmonizers read the conflict diachronically: Jacob's double marriage predates Sinai, so no law yet existed to break, and Leviticus 18:18 legislates against precisely the rivalry his case produced.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Source critic Steven DiMattei presses the sharpest objection: the conflict is not a timing gap but two authors — the Yahwist's Genesis 29, where marrying sisters is unremarked, against the Priestly Leviticus centuries later, which condemns it.",
+    "skeptic": {
+      "name": "Steven DiMattei",
+      "work": "Contradictions in the Bible #50, \"Is it lawful to marry your wife's sister OR not? (Gen 29:28 vs Lev 18:18)\"",
+      "year": "2013",
+      "attribution": "Dr. Steven DiMattei, Contradictions in the Bible #50 (contradictionsinthebible.com, 2013)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Genesis 29:27 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this exact pair: argues Jacob's marriage to two sisters cannot be judged by Lev 18:18 because no positive law existed then, and that the case prepared the way for the later prohibition. Row-surfaced harmonizing commentator used per spec because Haley's coverage of this specific pair could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted (gotquestions.org / carm.org / defendinginerrancy.com) page squarely engages the Jacob-vs-Lev-18:18 tension on verification: gotquestions Jacob-Leah-Rachel.html and close-relative-relationship.html mention the verses but do not address the apparent conflict, and defendinginerrancy Genesis_29.21-30.php covers a different difficulty. Link omitted rather than attaching an off-topic page."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "80#0",
+      "pole": "reconcile",
+      "source_code": "KD",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "verse_ref": "Genesis 29:27",
+      "full_note_ref": "KD/1/29/27",
+      "excerpt_text": "This bigamy of Jacob must not be judged directly by the Mosaic law, which prohibits marriage with two sisters at the same time (Lev 18:18), or set down as incest (Calvin, etc.), since there was no positive law on the point in existence then.",
+      "on_tension_rationale": "Directly names Lev 18:18 and resolves the tension by chronology — no positive law existed when Jacob married, so the patriarchal marriage cannot be Torah-illegal. The strongest single reconcile on the row.",
+      "source_note_text": "\"Fulfil her week;\" i.e., let Leah's marriage-week pass over. The wedding feast generally lasted a week (cf. Jdg 14:12; Job 11:19). After this week had passed, he received Rachel also: two wives in eight days. To each of these Laban gave one maid-servant to wait upon her; less, therefore, than Bethuel gave to his daughter (Gen 24:61). - This bigamy of Jacob must not be judged directly by the Mosaic law, which prohibits marriage with two sisters at the same time (Lev 18:18), or set down as incest (Calvin, etc.), since there was no positive law on the point in existence then. At the same time, it is not to be justified on the ground, that the blessing of God made it the means of the fulfilment of His promise, viz., the multiplication of the seed of Abraham into a great nation. Just as it had arisen from Laban's deception and Jacob's love, which regarded outward beauty alone, and therefore from sinful infirmities, so did it become in its results a true school of affliction to Jacob, in which God showed to him, by many a humiliation, that such conduct as his was quite unfitted to accomplish the divine counsels, and thus condemned the ungodliness of such a marriage, and prepared the way for the subsequent prohibition in the law."
+    }
+  ]
+}

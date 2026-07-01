@@ -1,0 +1,22 @@
+{
+  "contradiction_id": 221,
+  "excerpts": [
+    {
+      "excerpt_uid": "221#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "pass",
+      "action": null,
+      "reason": "Verbatim in source_note_text (contiguous two-sentence run, no ellipsis; Hebrew/Latin glyphs preserved). Directly addresses the Agagite identification by arguing 'Agag' is a dynastic title (like Pharaoh/Abimelech), not a unique personal name, so Haman's designation need not imply biological descent from Samuel's Agag. Reconcile pole is correct."
+    }
+  ],
+  "guardrails": {
+    "parity": "ok",
+    "connectives": "ok",
+    "named_skeptic": "not_real",
+    "discrepancy_integrity": "co_opted",
+    "deeper_learning": "flag",
+    "reason": "named_skeptic NOT_REAL: Dennis McKinsey is a real critic (Biblical Errancy newsletter 1983-2000; Encyclopedia of Biblical Errancy), but I could NOT positively confirm he engaged THIS Haman-Agagite-vs-Amalekite-extermination tension. The Tektonics chapter-by-chapter rebuttal index of his Encyclopedia (tektonics.org/af/ebestart.php) lists his documented entries (Jesus existence, genealogies, resurrection, Sabbath day's journey, Ezra temple counts, bat classification, etc.) and does NOT include this contradiction; targeted searches of his newsletter turned up no treatment. The modern critic who actually lists this is Steve Wells / SAB (skepticsannotatedbible.com/contra/agagite.html), not McKinsey. Per the spec's skeptic-default, this is an unconfirmed real-critic-attached-to-an-untreated-passage. discrepancy_integrity CO_OPTED: with the named skeptic unverified, the discrepancy pole reduces to a harmonizer-framed objection with no confirmed real skeptic and no relabel_flag -> recommend either substitute a verifiable skeptic (Steve Wells/SAB) or set relabel_flag. parity ok and connectives accurate AS WRITTEN, but the discrepancy connective rests on the unverified McKinsey attribution. deeper_learning FLAG: Haley (1874) is a real PD discrepancy catalog and plausibly covers the Amalekite-survival problem (cf. 1 Sam 27:8; 30:1), but I could not confirm Haley's specific 'hyperbolic utter-destruction / scattered survivors expected' argument is in his text as attributed; no link supplied. Recommend human confirmation of both the skeptic and the Haley treatment."
+  }
+}

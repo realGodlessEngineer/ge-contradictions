@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 66,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Genesis and Hebrews as two stages of one story — Sarah doubts and laughs at first, then comes to believe, and it is that later faith Hebrews 11:11 credits.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible, the upstream source of this entry, presses the pair directly: Hebrews 11:11 lists Sarah for faith, yet Genesis 18 shows her laughing in disbelief and then lying about it.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (\"Did Sarah have faith that she would conceive?\", skepticsannotatedbible.com/contra/sarah.html)",
+        "year": "1999",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online, 1999– ), contra/sarah.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Hebrews 11:11",
+      "excerpt_text": "Sarah at first treated the Divine message with ridicule, judging it to be absolutely impossible, not knowing then that it was from God … but, when she knew that it was God who said this, it does not appear that she doubted any more, but implicitly believed that what God had promised he was able to perform.",
+      "full_note_ref": "CLARKE/58/11/11",
+      "on_tension_rationale": "Directly resolves the tension: initial ridicule/unbelief in Gen 18 gives way to belief once Sarah knows the promise is God's — the staged-faith harmonization. Sense-preserving ellipsis drops the parenthetical about her age/circumstances; ends on a real source period.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Hebrews 11:11",
+      "excerpt_text": "also Sara herself--though being the weaker vessel, and though at first she doubted. … she judged him faithful who had promised--after she had ceased to doubt, being instructed by the angel that it was no jest, but a matter in serious earnest.",
+      "full_note_ref": "JFB/58/11/11",
+      "on_tension_rationale": "Concise staged-faith reading tied to Heb 11:11's own words: 'at first she doubted' (Gen 18) but 'after she had ceased to doubt' she judged God faithful. Sense-preserving ellipsis skips the intervening textual-variant note; ends on a real source period.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 18:9",
+      "excerpt_text": "For his laughing was the joyous outburst of astonishment; Sarah's, on the contrary, the result of doubt and unbelief, which had to be broken down by reproof, and, as the result showed, really was broken down, inasmuch as she conceived and bore a son, whom she could only have conceived in faith (Heb 11:11).",
+      "full_note_ref": "KD/1/18/9",
+      "on_tension_rationale": "Block-anchored sentence that explicitly links the two passages: Sarah's Gen 18 doubt/unbelief was 'broken down,' so that her conception is itself ascribed to faith (Heb 11:11) — the most direct verbatim harmonization on the row. Verbatim substring ending on a real period.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Hebrews 11:11",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Treats this exact passage: Sarah first met the promise with ridicule judging it impossible, but once she knew it was God's word 'it does not appear that she doubted any more,' so Hebrews 11:11 credits her later faith. Used in place of Haley, whose coverage of this specific pair could not be confirmed."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/life-Sarah.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who was Sarah in the Bible?",
+        "note": "Live apologetic treatment that cites both Sarah's Gen 18:12 laughter of disbelief and her Heb 11:11 faith and reconciles them as a journey from doubt to faith (verified on-topic)."
+      }
+    }
+  }
+}

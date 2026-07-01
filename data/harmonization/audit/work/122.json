@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 122,
+  "question": "How should we treat our enemies?",
+  "summary": "Exodus 23:4 commands an Israelite to return an enemy's stray ox or donkey — active kindness toward the enemy. Psalm 35:6-8 prays for God's angel to persecute enemies and for sudden destruction to come upon them. One text legislates benevolence; the other prays for their ruin.",
+  "consensus": "genuinely_disputed",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders read Psalm 35's curses not as private vengeance but as a plea for God's justice and glory, leaving the love-command of Exodus 23 intact.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells presses the row directly: one text orders active kindness to an enemy while the other prays God's angel hound them to ruin, and he sets these against Jesus' \"love your enemies\" as flatly inconsistent.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible, \"How should we treat our enemies?\"",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"How should we treat our enemies?\" (skepticsannotatedbible.com/contra/enemies.html)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Psalm 35:7",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Treats this passage directly, defending the imprecations as appeals to God's justice against the impenitent rather than personal vengeance, harmonizing them with the duty of kindness to enemies."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/imprecatory-psalms.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What are imprecatory psalms?",
+        "note": "Live apologetic treatment harmonizing the imprecatory psalms with Jesus' command to love enemies (Matt 5:44); lists Psalm 35 and resolves via divine justice / spiritual enemies."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "122#0",
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "attribution": "Tyndale Open Bible Commentary",
+      "verse_ref": "Psalms 35:4",
+      "full_note_ref": "TYN/19/35/4",
+      "excerpt_text": "The language seems vindictive, but it arises from a desire for justice and for the Lord to care for the needy and oppressed.",
+      "on_tension_rationale": "Directly re-reads the imprecation of Ps 35 as a desire for justice rather than vindictiveness, dissolving the tension with the love-enemy command of Exod 23:4.",
+      "source_note_text": "35:4-10 The psalmist longs for the Lord’s salvation. The language seems vindictive, but it arises from a desire for justice and for the Lord to care for the needy and oppressed."
+    }
+  ]
+}

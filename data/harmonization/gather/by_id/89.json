@@ -1,0 +1,480 @@
+{
+  "contradiction_id": 89,
+  "question": "Where did Joseph's brothers find the missing money?",
+  "summary": "Genesis 42:27 says one brother opened his sack at the lodging place (\"the inn\") and found the returned money right there. Genesis 43:21 has Judah retelling the story and saying all the brothers found their money at the inn. But Genesis 42:35 shows them emptying their sacks at home in Canaan and being terrified when every bundle of money appears. Money discovery at two different locations.",
+  "consensus": "probable_contradiction",
+  "consensus_id": 2,
+  "category": "History & Narrative Events",
+  "contradiction_type": "compositional",
+  "testament_scope": "OT_internal",
+  "books_in_tension": "Genesis",
+  "refs_raw": [
+    "Genesis 42:29-35",
+    "Genesis 42:27",
+    "Genesis 43:21"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Genesis 42:29-35",
+      "book": "Genesis",
+      "bolls": 1,
+      "ranges": [
+        [
+          42,
+          29,
+          35
+        ]
+      ]
+    },
+    {
+      "raw": "Genesis 42:27",
+      "book": "Genesis",
+      "bolls": 1,
+      "ranges": [
+        [
+          42,
+          27,
+          27
+        ]
+      ]
+    },
+    {
+      "raw": "Genesis 43:21",
+      "book": "Genesis",
+      "bolls": 1,
+      "ranges": [
+        [
+          43,
+          21,
+          21
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 38,
+  "notes_raw_count": 51,
+  "notes_dropped": 13,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Genesis 42:27",
+      "note_ref": "GILL/1/42/27",
+      "cites": [
+        "Genesis 42:29-35",
+        "Genesis 42:27"
+      ],
+      "text": "And we said unto him, we are true men,.... Honest, upright men, not given to treacherous and treasonable practices, either in the country where they lived, or any other; they came to Egypt with no ill design upon the country, only to buy corn for the relief of their families in necessity:\nwe are no spies; or never were (e): they had never been guilty of such practices, and never charged with anything of that kind; they denied the charge, and detested the character.\n(e) \"non fuimus\", Montanus; \"nunquam fuimus\", Junius & Tremellius, Piscator, Schmidt."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 42:29",
+      "note_ref": "GILL/1/42/29",
+      "cites": [
+        "Genesis 42:29-35",
+        "Genesis 42:27"
+      ],
+      "text": "And the man, the lord of the country, said unto us, hereby shall I know that you are true men,.... This will be a proof and demonstration of it:\nleave one of your brethren here with me; as an hostage; they do not say \"bound in the prison\", Gen 42:19, as Joseph did, because they would not grieve their father, at least would not tell him of it at once, lest it should too much affect him:\nand take food for the famine of your household, and be gone; that is, corn for the relief of their families, being distressed with a famine."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 42:30",
+      "note_ref": "GILL/1/42/30",
+      "cites": [
+        "Genesis 42:29-35"
+      ],
+      "text": "And, bring your youngest brother unto me,.... Their brother Benjamin:\nthen shall I know that you are no spies, but that you are true men; he knew they were no spies now, but true, honest, upright men, with respect to any designs upon the country; but then he should own and acknowledge them to be such, having such plain proof that what they said was true:\nso will I deliver your brother; their brother Simeon, who was left bound; though this circumstance they also here studiously conceal from their father:\nand ye shall traffic in the land; not only for corn, but for any other commodity Egypt furnished its neighbours with."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 42:31",
+      "note_ref": "GILL/1/42/31",
+      "cites": [
+        "Genesis 42:29-35"
+      ],
+      "text": "And it came to pass, as they emptied their sacks,.... Both those in which were the corn they had bought, and those in which were their provender for their cattle, and provision for themselves:\nthat, behold, every man's bundle of money was in his sack; the same purse, and the same pieces of money, gold or silver, they had paid to the steward:\nand when both they and their father saw the bundles of money, they were afraid; the Targum of Jonathan adds,\"because of Simeon, whom they had left there;''fearing that they should he charged with theft or fraud, and that Simeon would be put to death; they had opened their sacks before, and found their money in them, but put it up again as it was, in order to open them in their father's presence, from whom they thought proper to conceal this circumstance, lest he should blame them for not returning to the governor with their money upon the first notice of it, when they had travelled but one day's journey; wherefore they make no mention of it in the account of things that befell them, and express their surprise and fear upon finding it when they opened their sacks, as if they had known, nothing of it before; though it may be their fears were renewed and increased by what Jacob might observe to them, as the consequence of it, which they had not so thoroughly considered before."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 43:19",
+      "note_ref": "GILL/1/43/19",
+      "cites": [
+        "Genesis 43:21"
+      ],
+      "text": "And said, O sir,.... Or, \"on me, my lord\" (a), one said in the name of the rest, perhaps Judah, on me let the blame lie, if guilty of rudeness in making our address to thee; or as the Vulgate Latin version, \"we pray, sir, that thou wouldest hear us\"; and so Jarchi and Aben Ezra say the phrase is expressive of beseeching, entreating, and supplicating:\nwe came indeed down at the first time to buy food; not to spy the land but to buy corn, and not to get it by fraud or tricking but by paying for it the price that was required.\n(a) \"in me Domine mi\", Montanus."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 43:20",
+      "note_ref": "GILL/1/43/20",
+      "cites": [
+        "Genesis 43:21"
+      ],
+      "text": "And it came to pass when we came to the inn,.... Upon the road, on the first day's journey, to refresh themselves and their cattle:\nthat we opened our sacks; to give provender to our cattle; by which it appears that they all did this, though it is only said of one of them at the inn, and of all of them when they came home, Gen 42:27,\nand, behold, every man's money was in the mouth of his sack, our money in full weight; nothing wanting of it; it being usual in those times to pay money by weight, and not by the tale of pieces:\nand we have brought it again in our hand; in order to pay it for the corn we have had, having no design to defraud."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 43:21",
+      "note_ref": "GILL/1/43/21",
+      "cites": [
+        "Genesis 43:21"
+      ],
+      "text": "And other money have we brought down in our hands to buy food,.... Double money for a double quantity, or because the price of corn was now doubled; and their bringing this besides the other showed their honest and upright intentions:\nwe cannot tell who put our money in our sacks; we are quite ignorant of it, and can by no means account for it, and therefore hope no blame will be laid on us."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 43:22",
+      "note_ref": "GILL/1/43/22",
+      "cites": [
+        "Genesis 43:21"
+      ],
+      "text": "And he said, peace be unto you, fear not,.... Do not be uneasy and disturbed, you have nothing to fear, you are in no danger:\nyour God, and the God of your father, hath given you treasure in your sacks; the hidden treasure, as the word signifies, found in their sacks; was there by the providence of God, so disposing the heart of Joseph to order it to be put there, as the steward interpreted it; who by being Joseph's family had got some knowledge of the true God, and of his all wise and disposing Providence:\nI had your money; he received it of them, which he acknowledges, and that was sufficient to acquit them from guile and theft, though he does not say that he put the money into their sacks, or by whose order it was done:\nand he brought Simeon out unto them; either out of prison, or out of some other room to them, which was, no doubt, done by the direction of Joseph."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 42:25",
+      "note_ref": "JFB/1/42/25",
+      "cites": [
+        "Genesis 42:27"
+      ],
+      "text": "Joseph commanded to fill their sacks with corn, and to restore every man's money--This private generosity was not an infringement of his duty--a defrauding of the revenue. He would have a discretionary power--he was daily enriching the king's exchequer--and he might have paid the sum from his own purse."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 42:27",
+      "note_ref": "JFB/1/42/27",
+      "cites": [
+        "Genesis 42:29-35",
+        "Genesis 42:27"
+      ],
+      "text": "inn--a mere station for baiting beasts of burden.\nhe espied his money--The discovery threw them into greater perplexity than ever. If they had been congratulating themselves on escaping from the ruthless governor, they perceived that now he would have a handle against them; and it is observable that they looked upon this as a judgment of heaven. Thus one leading design of Joseph was gained in their consciences being roused to a sense of guilt."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 42:35",
+      "note_ref": "JFB/1/42/35",
+      "cites": [
+        "Genesis 42:29-35"
+      ],
+      "text": "as they emptied their sacks, that, behold, every man's . . . money was in his sack--It appears that they had been silent about the money discovery at the resting-place, as their father might have blamed them for not instantly returning. However innocent they knew themselves to be, it was universally felt to be an unhappy circumstance, which might bring them into new and greater perils."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 42:36",
+      "note_ref": "JFB/1/42/36",
+      "cites": [
+        "Genesis 42:29-35"
+      ],
+      "text": "Me have ye bereaved--This exclamation indicates a painfully excited state of feeling, and it shows how difficult it is for even a good man to yield implicit submission to the course of Providence. The language does not imply that his missing sons had got foul play from the hands of the rest, but he looks upon Simeon as lost, as well as Joseph, and he insinuates it was by some imprudent statements of theirs that he was exposed to the risk of losing Benjamin also."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 43:18",
+      "note_ref": "JFB/1/43/18",
+      "cites": [
+        "Genesis 43:21"
+      ],
+      "text": "the men were afraid--Their feelings of awe on entering the stately mansion, unaccustomed as they were to houses at all, their anxiety at the reasons of their being taken there, their solicitude about the restored money, their honest simplicity in communicating their distress to the steward and his assurances of having received their money in \"full weight,\" the offering of their fruit present, which would, as usual, be done with some parade, and the Oriental salutations that passed between their host and them--are all described in a graphic and animated manner.",
+      "anchor": true
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 42:26",
+      "note_ref": "CLARKE/1/42/26",
+      "cites": [
+        "Genesis 42:27"
+      ],
+      "text": "They laded their asses - Amounting, no doubt, to several scores, if not hundreds, else they could not have brought a sufficiency of corn for the support of so large a family as that of Jacob."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 42:27",
+      "note_ref": "CLARKE/1/42/27",
+      "cites": [
+        "Genesis 42:29-35",
+        "Genesis 42:27"
+      ],
+      "text": "One of them opened his sack - From Gen 42:35 we learn that each of the ten brethren on emptying his sack when he returned found his money in it; can we suppose that this was not discovered by them all before? It seems not; and the reason was probably this: the money was put in the mouth of the sack of one only, in the sacks of the others it was placed at or near to the bottom; hence only one discovered it on the road, the rest found it when they came to empty their sacks at their father's house.\nIn the inn - במלון bammalon, from לן lan, to lodge, stay, remain, etc. The place at which they stopped to bait or rest themselves and their asses. Our word inn gives us a false idea here; there were no such places of entertainment at that time in the desert over which they had to pass, nor are there any to the present day. Travellers generally endeavor to reach a well, where they fill their girbahs, or leather bottles, with fresh water, and having clogged their camels, asses, etc., permit them to crop any little verdure there may be in the place, keeping watch over them by turns. This is all we are to understand by the malon or inn in the text, for even caravansaries were not then in use, which are generally no more than four walls perfectly exposed, the place being open at the top."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 42:28",
+      "note_ref": "CLARKE/1/42/28",
+      "cites": [
+        "Genesis 42:29-35",
+        "Genesis 42:27"
+      ],
+      "text": "Their heart failed them - ויצא לבם valyetse libbam, their heart went out. This refers to that spasmodic affection which is felt in the breast at any sudden alarm or fright. Among the common people in our own country we find an expression exactly similar, \"My heart was ready to leap out at my mouth,\" used on similar occasions.\nWhat is this that God hath done unto us? - Their guilty consciences, now thoroughly awakened, were in continual alarms; they felt that they deserved God's curse, and every occurrence served to confirm and increase their suspicions."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 42:35",
+      "note_ref": "CLARKE/1/42/35",
+      "cites": [
+        "Genesis 42:29-35"
+      ],
+      "text": "As they emptied their sacks - See Clarke on Gen 42:27 (note)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 43:20",
+      "note_ref": "CLARKE/1/43/20",
+      "cites": [
+        "Genesis 43:21"
+      ],
+      "text": "O sir, we came indeed - to buy food - There is a frankness now in the conduct of Joseph's brethren that did not exist before; they simply and honestly relate the whole circumstance of the money being found in their sacks on their return from their last journey. Afflictions from the hand of God, and under his direction, have a wonderful tendency to humble the soul. Did men know how gracious his designs are in sending such, no murmur would ever be heard against the dispensations of Divine Providence."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 43:23",
+      "note_ref": "CLARKE/1/43/23",
+      "cites": [
+        "Genesis 43:21"
+      ],
+      "text": "And he said - The address of the steward in this verse plainly proves that the knowledge of the true God was in Egypt. It is probable that the steward himself was a Hebrew, and that Joseph had given him intimation of the whole affair; and though he was not at liberty to reveal it, yet he gives them assurances that the whole business would issue happily.\nI had your money - כספכם בא אלי caspechem ba elai, your money comes to me. As I am the steward, the cash for the corn belongs to me. Ye have no reason to be apprehensive of any evil; the whole transaction is between myself and you; receive therefore the money as a present from the God of your father, no matter whose hands he makes use of to convey it. The conduct of the steward, as well as his words, had a great tendency to relieve their burdened minds."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 42:26",
+      "note_ref": "KD/1/42/26",
+      "cites": [
+        "Genesis 42:27"
+      ],
+      "text": "Thus they started with their asses laden with the corn. On the way, when they had reached their halting-place for the night, one of them opened his sack to feed the ass, and found his money in it. מלון, camping-place for the night, is merely a resting-place, not an inn, both here and in Exo 4:24; for there can hardly have been caravanserais at that time, either in the desert or by the desert road. אמתחת: an antiquated word for a corn-sack, occurring only in these chapters, and used even here interchangeably with שׂק."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 42:28",
+      "note_ref": "KD/1/42/28",
+      "cites": [
+        "Genesis 42:29-35",
+        "Genesis 42:27"
+      ],
+      "text": "When this discovery was made known to the brethren, their hearts sank within them. They turned trembling to one another, and said, \"What is this that God hath done to us!\" Joseph had no doubt had the money returned, \"merely because it was against his nature to trade with his father and brethren for bread;\" just as he had caused them to be supplied with food for the journey, for no other reason than to give them a proof of his good-will. And even if he may have thought it possible that the brothers would be alarmed when they found the money, and thrown into a state of much greater anxiety from the fear of being still further accused by the stern lord of Egypt of cheating or of theft, there was no reason why he should spare them this anxiety, since it could only help to break their hard hearts still more. At any rate, this salutary effect was really produced, even if Joseph had no such intention. The brothers looked upon this incomprehensible affair as a punishment from God, and neglected in their alarm to examine the rest of the sacks."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 42:29",
+      "note_ref": "KD/1/42/29",
+      "cites": [
+        "Genesis 42:29-35",
+        "Genesis 42:27"
+      ],
+      "text": "On their arrival at home, they told their father all that had occurred."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 42:35",
+      "note_ref": "KD/1/42/35",
+      "cites": [
+        "Genesis 42:29-35"
+      ],
+      "text": "But when they emptied their sacks, and, to their own and their father's terror, found their bundles of money in their separate sacks, Jacob burst out with the complaint, \"Ye are making me childless! Joseph is gone, and Simeon is gone, and will ye take Benjamin! All this falls upon me\" (כּלּנה for כּלּן as in Pro 31:29)."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 43:16",
+      "note_ref": "KD/1/43/16",
+      "cites": [
+        "Genesis 43:21"
+      ],
+      "text": "When the brethren appeared before Joseph, he ordered his steward to take them into the house, and prepare a dinner for them and for him. טבה the original form of the imperative for טבח. But the brethren were alarmed, thinking that they were taken into the house because of the money which returned the first time (השּׁב which came back, they could not imagine how), that he might take them unawares (lit., roll upon them), and fall upon them, and keep them as salves, along with their asses. For the purpose of averting what they dreaded, they approached (Gen 43:19) the steward and told him, \"at the door of the house,\" before they entered therefore, how, at the first purchase of corn, on opening their sacks, they found the money that had been paid, \"every one's money in the mouth of his sack, our money according to its weight,\" i.e., in full, and had now brought it back, together with some more money to buy corn, and they did not know who had put their money in their sacks (Gen 43:20-22). The steward, who was initiated into Joseph's plans, replied in a pacifying tone, \"Peace be to you (לכם שׁלום is not a form of salutation here, but of encouragement, as in Jdg 6:23): fear not; your God and the God of your father has given you a treasure in your sacks; your money came to me;\" and at the same time, to banish all their fear, he brought Simeon out to them. He then conducted them into Joseph's house, and received them in Oriental fashion as the guests of his lord. But, previous to Joseph's arrival, they arranged the present which they had brought with them, as they heard that they were to dine with him.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 42:21",
+      "note_ref": "MHC/1/42/21",
+      "cites": [
+        "Genesis 42:27"
+      ],
+      "text": "Here is, I. The penitent reflection Joseph's brethren made upon the wrong they had formerly done to him, Gen 42:21. They talked the matter over in the Hebrew tongue, not suspecting that Joseph, whom they took for a native of Egypt, understood them, much less that he was the person they spoke of.\n1. They remembered with regret the barbarous cruelty wherewith they persecuted him: We are verily guilty concerning our brother. We do not read that they said this during their three days' imprisonment; but now, when the matter had come to some issue and they saw themselves still embarrassed, now they began to relent. Perhaps Joseph's mention of the fear of God (Gen 42:18) put them upon consideration and extorted this reflection. Now see here, (1.) The office of conscience; it is a remembrancer, to bring to mind things long since said and done, to show us wherein we have erred, though it was long ago, as the reflection here mentioned was above twenty years after the sin was committed. As time will not wear out the guilt of sin, so it will not blot out the records of conscience; when the guilt of this sin of Joseph's brethren was fresh they made light of it, and sat down to eat bread; but now, long afterwards, their consciences reminded them of it. (2.) The benefit of affliction; they often prove the happy and effectual means of awakening conscience, and bringing sin to our remembrance, Job 13:26. (3.) The evil of guilt concerning our brethren; of all their sins, it was this that conscience now reproached them for. Whenever we think we have wrong done us, we ought to remember the wrong we have done to others, Ecc 7:21, Ecc 7:22.\n2. Reuben alone remembered, with comfort, that he had been an advocate for his brother, and had done what he could to prevent the mischief they did him (Gen 42:22): Spoke I not unto you, saying, Do not sin against the child? Note, (1.) It is an aggravation of any sin that it was committed against admonitions. (2.) When we come to share with others in their calamities, it will be a comfort to us if we have the testimony of our consciences for us that we did not share with them in their iniquities, but, in our places, witnessed against them. This shall be our rejoicing in the day of evil, and shall take out the sting.\nII. Joseph's tenderness towards them upon this occasion. He retired from them to weep, Gen 42:24. Though his reason directed that he should still carry himself as a stranger to them, because they were not as yet humbled enough, yet natural affection could not but work, for he was a man of a tender spirit. This represents the tender mercies of our God towards repenting sinners. See Jer 31:20, Since I spoke against him I do earnestly remember him still. See Jdg 10:16.\nIII. The imprisonment of Simeon, Gen 42:24. He chose him for the hostage probably because he remembered him to have been his most bitter enemy, or because he observed him now to be least humbled and concerned; he bound him before their eyes to affect them all; or perhaps it is intimated that, though he bound him with some severity before them, yet afterwards, when they were gone, he took off his bonds.\nIV. The dismission of the rest of them. They came for corn, and corn they had; and not only so, but every man had his money restored in his sack's mouth. Thus Christ, our Joseph, gives out supplies without money and without price. Therefore the poor are invited to buy, Rev 3:17, Rev 3:18. This put them into great consternation (Gen 42:28): Their heart failed them, and they were afraid, saying one to another, What is this that God hath done to us?\n1. It was really a merciful event; for I hope they had no wrong done to them when they had their money given them back, but a kindness; yet they were thus terrified by it. Note, (1.) Guilty consciences are apt to take good providences in a bad sense, and to put wrong constructions even upon those things that make for them. They flee when none pursues. (2.) Wealth sometimes brings as much care along with it as want does, and more too. If they had been robbed of their money, they could not have been worse frightened than they were now when they found their money in their sacks. Thus he whose ground brought forth plentifully said, What shall I do? Luk 12:17.\n2. Yet in their circumstances it was very amazing. They knew that the Egyptians abhorred a Hebrew (Gen 43:32), and therefore, since they could not expect to receive any kindness from them, they concluded that this was done with a design to pick a quarrel with them, and the rather because the man, the lord of the land, had charged them as spies. Their own consciences also were awake, and their sins set in order before them; and this put them into confusion. Note, (1.) When men's spirits are sinking every thing helps to sink them. (2.) When the events of Providence concerning us are surprising it is good to enquire what it is that God has done and is doing with us, and to consider the operation of his hands.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 42:29",
+      "note_ref": "MHC/1/42/29",
+      "cites": [
+        "Genesis 42:29-35",
+        "Genesis 42:27"
+      ],
+      "text": "Here is, 1. The report which Jacob's sons made to their father of the great distress they had been in in Egypt; how they had been suspected, and threatened, and obliged to leave Simeon a prisoner there, till they should bring Benjamin with them thither. Who would have thought of this when they left home? When we go abroad we should consider how many sad accidents, that we little think of, may befall us before we return home. We know not what a day may bring forth; we ought therefore to be always ready for the worst. 2. The deep impression this made upon the good man. The very bundles of money which Joseph returned, in kindness to his father, frightened him (Gen 42:35); for he concluded it was done with some mischievous design, or perhaps suspected his own sons to have committed some offence, and so to have run themselves into a praemunire - a penalty, which is intimated in what he says (Gen 42:36): Me have you bereaved. He seems to lay the fault upon them; knowing their characters, he feared they had provoked the Egyptians, and perhaps forcibly, or fraudulently, brought home their money. Jacob is here much out of temper. (1.) He has very melancholy apprehensions concerning the present state of his family: Joseph is not, and Simeon is not; whereas Joseph was in honour and Simeon in the way to it. Note, We often perplex ourselves with our own mistakes, even in matters of fact. True griefs may arise from false intelligence and suppositions, Sa2 13:31. Jacob gives up Joseph for gone, and Simeon and Benjamin as being in danger; and he concludes, All these things are against me. It proved otherwise, that all these were for him, were working together for his good and the good of his family: yet here he thinks them all against him. Note, Through our ignorance and mistake, and the weakness of our faith, we often apprehend that to be against us which is really for us. We are afflicted in body, estate, name, and relations; and we think all these things are against us, whereas these are really working for us the weight of glory. (2.) He is at present resolved that Benjamin shall not go down. Reuben will undertake to bring him back in safety (Gen 42:37), not so much as putting in, If the Lord will, nor expecting the common disasters of travellers; but he foolishly bids Jacob slay his two sons (which, it is likely, he was very proud of) if he brought him not back; as if the death of two grandsons could satisfy Jacob for the death of a son. No, Jacob's present thoughts are, My son shall not go down with you. He plainly intimates a distrust of them, remembering that he never saw Joseph since he had been with them; therefore, \"Benjamin shall not go with you, by the way in which you go, for you will bring down my gray hairs with sorrow to the grave.\" Note, It is bad with a family when children conduct themselves so ill that their parents know not how to trust them."
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 43:15",
+      "note_ref": "MHC/1/43/15",
+      "cites": [
+        "Genesis 43:21"
+      ],
+      "text": "Jacob's sons, having got leave to take Benjamin with them, were observant of the orders their father had given them, and went down the second time into Egypt to buy corn. If we should ever know what a famine of the word means, let us not think it much to travel as far for spiritual food as they did for corporal food. Now here we have an account of what passed between them and Joseph's steward, who, some conjecture, was in the secret, and knew them to be Joseph's brethren, and helped to humour the thing; I rather think not, because no man was permitted to be present when Joseph afterwards made himself known to them, Gen 45:1. Observe, 1. Joseph's steward has orders from his master (who was busy selling corn, and receiving money) to take them to his house, and make ready for their entertainment. Though Joseph saw Benjamin there, he would not leave his work at working-time, nor trust another with it. Note, Business must take place of civility in its season. Our needful employments must not be neglected, no, not to pay respect to our friends. 2. Even this frightened them: They were afraid, because they were brought into Joseph's house, Gen 43:18. The just challenges of their own consciences, and Joseph's violent suspicions of them, forbade them to expect any favour, and suggested to them that this was done with a bad design upon them. Note, Those that are guilty and timorous are apt to make the worst of every thing. Now they thought they should be reckoned with about the money in the sacks' mouths, and should be charged as cheats, and men not fit to be dealt with, who had taken advantage of the hurry of the market to carry off their corn unpaid for. They therefore laid the case before the steward, that he, being apprized of it, might stand between them and danger; and, as a substantial proof of their honesty, before they were charged with taking back their money they produced it. Note, Integrity and uprightness will preserve us, and will clear themselves as the light of the morning. 3. The steward encouraged them (Gen 43:23): Peace be to you, fear not; though he knew not what his master drove at, yet he was aware these were men whom he meant no harm to, while he thus amused them; and therefore he directs them to look at the divine Providence in the return of their money: Your God, and the God of your father, has given you treasure in your sacks. Observe, (1.) Hereby he shows that he had no suspicion at all of dishonesty in them: for of what we get by deceit we cannot say, \"God gives it to us.\" (2.) Hereby he silences their further enquiry about it. \"Ask not how it came thither; Providence brought it to you, and let that satisfy you.\" (3.) It appears by what he said that, by his good master's instructions, he was brought to the knowledge of the true God, the God of the Hebrews. It may justly be expected that those who are servants in religious families should take all fit occasions to speak of God and his providence with reverence and seriousness. (4.) He directs them to look up to God, and acknowledge his providence in the good bargain they had. We must own ourselves indebted to God, as our God and the God of our fathers (a God in covenant with us and them) for all our successes and advantages, and the kindnesses of our friends; for every creature is that to us, and no more, which God makes it to be. The steward encouraged them, not only in words but in deeds; for he made very much of them till his master came, Gen 43:24.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 42:25",
+      "note_ref": "TYN/1/42/25",
+      "cites": [
+        "Genesis 42:27"
+      ],
+      "text": "42:25-28 Joseph cared for his brothers’ needs; he had forgiven them (see study note on 42:24) and was fulfilling his role to provide for them. God used Joseph’s care to convict the brothers even more fully of their sin.\n42:25 return each brother’s payment: He was now testing them to awaken their conscience and make them face their past guilt; once again, they were going home with silver instead of a brother (37:28-35)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 42:28",
+      "note_ref": "TYN/1/42/28",
+      "cites": [
+        "Genesis 42:29-35",
+        "Genesis 42:27"
+      ],
+      "text": "42:28 What has God done to us? They knew that God was behind everything that had been happening, so they faced a day of reckoning for their sins."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 42:29",
+      "note_ref": "TYN/1/42/29",
+      "cites": [
+        "Genesis 42:29-35",
+        "Genesis 42:27"
+      ],
+      "text": "42:29-34 The brothers’ account focused on the accusation that they were spies and on the need to take Benjamin back to Egypt with them. They omitted their growing realization of divine retribution for their crime against Joseph."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 42:36",
+      "note_ref": "TYN/1/42/36",
+      "cites": [
+        "Genesis 42:29-35"
+      ],
+      "text": "42:36 Filled with grief over two sons lost already, Jacob feared that he would also lose Benjamin if he went to Egypt. • You are robbing me of my children! He did not realize the full truth of his words, but they must have stung his sons’ guilty consciences."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 43:19",
+      "note_ref": "TYN/1/43/19",
+      "cites": [
+        "Genesis 43:21"
+      ],
+      "text": "43:19-22 The brothers, completely vulnerable and feeling the weight of God’s judgment on their consciences, approached the manager in desperation."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 42:24",
+      "note_ref": "GNV/1/42/24",
+      "cites": [
+        "Genesis 42:27"
+      ],
+      "text": "Though he showed himself rigorous, yet his brotherly affection remained.",
+      "anchor": true
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 42:28",
+      "note_ref": "GNV/1/42/28",
+      "cites": [
+        "Genesis 42:29-35",
+        "Genesis 42:27"
+      ],
+      "text": "Hebrew, went out.\nBecause their conscience accused them of their sin, they thought God would have brought them to trouble by this money."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 42:32",
+      "note_ref": "GNV/1/42/32",
+      "cites": [
+        "Genesis 42:29-35"
+      ],
+      "text": "Or, cannot be found."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 42:36",
+      "note_ref": "GNV/1/42/36",
+      "cites": [
+        "Genesis 42:29-35"
+      ],
+      "text": "For they seemed not to be touched with any love toward their brethren which increased his sorrow: and partly as appeareth he suspected them for Joseph.\nOr, light upon me."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 43:18",
+      "note_ref": "GNV/1/43/18",
+      "cites": [
+        "Genesis 43:21"
+      ],
+      "text": "Hebrew, roll himself upon us.\nHebrew, cast himself upon us.\nSo the judgment of God pressed their conscience.",
+      "anchor": true
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 43:23",
+      "note_ref": "GNV/1/43/23",
+      "cites": [
+        "Genesis 43:21"
+      ],
+      "text": "Notwithstanding the corruptions of Egypt, yet Joseph taught his family to fear God.\nOr, you are well."
+    }
+  ]
+}

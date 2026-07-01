@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 12,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read Chronicles' bare 'Timna' not as a son but as a compressed note of the same woman Genesis names — Eliphaz's concubine and Amalek's mother.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells sets Genesis' Timna the concubine (Gen 36:12) against the 'sons of Eliphaz' list that includes Timnah (1 Chr 1:36), pressing the same name as both a woman and a man.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Chronicles 1:28",
+      "excerpt_text": "…it should be observed, that Timna, Ch1 1:36 is not the name of a man, but was the concubine of Eliphaz, the eldest son of Esau, and the mother of Amalek, Gen 36:12 …",
+      "full_note_ref": "GILL/13/1/28",
+      "on_tension_rationale": "Directly resolves the gender/relationship conflict by stating Chronicles' 'Timna' is not a son but the same concubine Genesis 36:12 names — the squarest harmonization, naming both passages.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63)",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "On 1 Chronicles 1:28-36 Gill treats this passage directly, arguing Timna in 1 Chr 1:36 is not a man's name but the concubine of Eliphaz and mother of Amalek of Gen 36:12, citing the Arabic version and Alexandrian Septuagint in support."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic live page treating the Timna son-vs-concubine tension was confirmed on an allowlisted domain (gotquestions.org, carm.org, defendinginerrancy.com); link omitted rather than guessed."
+      }
+    }
+  }
+}

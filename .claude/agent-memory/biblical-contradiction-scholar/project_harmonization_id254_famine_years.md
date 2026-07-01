@@ -1,0 +1,19 @@
+---
+name: harmonization-id254-famine-years
+description: TRANSFORM id 254 (seven vs three years of famine, 2 Sam 24:13 vs 1 Chr 21:11-12) — numerical/textual-variant row, reconcile_first, two harmonization strategies
+metadata:
+  type: project
+---
+
+Row id 254, "How many years of famine?" (2 Sam 24:13 SEVEN vs 1 Chr 21:11-12 THREE), consensus `probable_harmonization` → **reconcile_first** (per spec field rule: discrepancy_first ONLY for genuine/probable_contradiction). Thin pole = DISCREPANCY → named_skeptic; reconcile_first ⇒ NO parity cap. Part of [[harmonization-transform]].
+
+**Why:** classic numerical SAB row that doubles as a textbook TEXTUAL-VARIANT case (the seven/three difference is a known MT-vs-LXX divergence in 2 Sam 24:13).
+
+**How to apply (reusable for numerical/textual-variant rows):**
+- **Named skeptic = Steve Wells / SAB, page famine.html** (skepticsannotatedbible.com/contra/famine.html) — VERIFIED live via WebFetch as the EXACT upstream (title verbatim "How many years of famine?", cites 2 Sam 24:13 seven vs 1 Chr 21:11-12 three). **DiMattei has NO numbered entry** on the famine-years pair (search returned no contradictionsinthebible.com hit); the giants (Paine/Strauss) never built a numbered argument on this minor, textually-resolvable numerical pair → Wells is the honest fit, same family as ids 13/52/86/100/103/112/122/129/137/147/153/160/170/192/213.
+- **Two DISTINCT reconcile strategies surfaced in the gathered notes — surface both** (reconcile_first, no parity cap, so up to 3 distinct voices):
+  1. **Arithmetic harmonization** (seven = 3 famine years already elapsed for Saul/Gibeonites [2 Sam 21:1] + the current barren year + 3 more proposed). Voices: GILL/10/24/13 (the fullest — two verbatim spans ellipsis-joined, truncated → " …"), JFB/10/24/13 (the most CONCISE on-tension sentence on the whole row, attaches the harmonization right to the "seven years" wording, "--"→"—", real source period; drop nothing — the lemma IS the substantive wording), GNV/10/24/13 (same strategy, not needed).
+  2. **Textual emendation** (seven is a scribal corruption of three: ז zayin mistaken for ג gimel; LXX preserves three). Voice: CLARKE/10/24/13 (full verbatim sentences, real source periods, Hebrew letters preserved verbatim, no truncation marker). Gill also cites this via "Dr. Kennicott's Dissert. 1. p. 474" ("a mistake of the copier"). **Benjamin Kennicott** is the underlying textual-critic authority (cited verbatim in the Gill note) but he is a harmonizer-by-emendation, NOT a skeptic asserting the texts conflict → do NOT put Kennicott on the discrepancy pole.
+- **K&D nuance trap:** KD/10/24/10 (anchor block) engages the tension but argues AGAINST the emendation — it favors RETAINING "seven" as the harder reading ("this agreement favours the seven rather than the three, which is open to the suspicion of being intentionally made to conform to the rest"). A reconcile-by-defending-the-MT stance, distinct from Clarke's emendation. Not used (Gill+JFB+Clarke already cover two cleaner strategies) but available.
+- **pd_work** anchored to **Gill on 2 Sam 24:13** (Haley's specific coverage of this pair unconfirmed by search — though Answers in Genesis + Apologetics Press both treat it; per id-13 lesson, row-surfaced commentator over an unverifiable Haley page). Gill is ideal here because his note runs BOTH strategies (arithmetic + the Kennicott copyist-error).
+- **defendinginerrancy.com allowlist HIT: defendinginerrancy.com/bible-solutions/2_Samuel_24.13.php** — VERIFIED live + on-topic (title "2 Samuel 24:13 — Why are the numbers of the years of the famine different from those in 1 Chronicles 21?"), cites BOTH verses, offers the two-encounters + textual-error harmonizations. gotquestions famine-three-seven-years.html is a 404 (didn't chase further — defendinginerrancy sufficient).

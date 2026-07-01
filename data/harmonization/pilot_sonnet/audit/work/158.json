@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 158,
+  "question": "Who argued in favor of occupying Canaan during the Exodus?",
+  "summary": "Numbers 13:30 says only Caleb stilled the people and argued for going up to take the land. Numbers 14:6-9, just one chapter later, says both Joshua and Caleb tore their clothes and argued for occupying the good land YHWH had promised.",
+  "consensus": "genuinely_disputed",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Traditional commentators explain the silence about Joshua in Numbers 13:30 as a matter of sequencing: Caleb spoke first and alone, with Joshua joining only in chapter 14.",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells (Skeptic's Annotated Bible) treats the omission of Joshua in Numbers 13:30 as a direct factual contradiction with 14:6-9, where both men speak.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "Skeptic's Annotated Bible",
+      "year": "2013",
+      "attribution": "Steve Wells, Skeptic's Annotated Bible (2013)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats the Caleb/Joshua spies narrative under his section on factual discrepancies, noting that the partial naming of one spokesman where both are later mentioned is a common biblical idiom."
+      },
+      "link": null
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "158#0",
+      "pole": "reconcile",
+      "source_code": "KD",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "verse_ref": "Numbers 13:30",
+      "full_note_ref": "KD/4/13/30",
+      "excerpt_text": "The fact that Caleb only is mentioned, though, according to Num 14:6, Joshua also stood by his side, may be explained on the simple ground, that at first Caleb was the only one to speak and maintain the possibility of conquering Canaan.",
+      "on_tension_rationale": "Directly addresses the named tension: explains why Num 13:30 mentions only Caleb while Num 14:6 adds Joshua, by appealing to the sequence of events.",
+      "source_note_text": "As these tidings respecting the towns and inhabitants of Canaan were of a character to excite the people, Caleb calmed them before Moses by saying, \"We will go up and take it; for we shall overcome it.\" The fact that Caleb only is mentioned, though, according to Num 14:6, Joshua also stood by his side, may be explained on the simple ground, that at first Caleb was the only one to speak and maintain the possibility of conquering Canaan."
+    }
+  ]
+}

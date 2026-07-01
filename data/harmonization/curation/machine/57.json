@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 57,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read Stephen and Genesis as one journey under two callings — an initial summons in Ur/Mesopotamia and a renewed call in Haran.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection, pressed by the Skeptic's Annotated Bible, is that Acts 7:2-3 puts God's call in Mesopotamia before Haran while Genesis 12 issues it only after the family had settled in Haran.",
+      "skeptic": {
+        "name": "Steve Wells (Skeptic's Annotated Bible)",
+        "work": "Skeptic's Annotated Bible, \"Did God call Abraham before or after he moved to Haran?\" (skepticsannotatedbible.com/contra/haran.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (online; the upstream source of this contradiction)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Acts 7:2",
+      "excerpt_text": "It seems most probable that Abraham had two calls, one in Ur, and the other in Haran. He left Ur at the first call, and came to Haran; he left Haran at the second call, and came into the promised land.",
+      "full_note_ref": "CLARKE/44/7/2",
+      "on_tension_rationale": "The classic 'two calls' harmonization: an Ur/Mesopotamia call (matching Stephen) and a Haran call (matching Gen 12), so both placements are true of distinct moments.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Acts 7:3",
+      "excerpt_text": "Not the words in Gen 12:1 for they were said in Haran, these in Mesopotamia, before he dwelt there, and besides, these are different from them …",
+      "full_note_ref": "GILL/44/7/3",
+      "on_tension_rationale": "Gill distinguishes two distinct divine speeches — the Mesopotamia words (Acts 7:3) from the Haran words (Gen 12:1) — directly resolving the before/after-Haran tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Genesis 11:31",
+      "excerpt_text": "The text is clear that Abram's departure from Ur was prompted by God's calling (see study note on 11:28), but the event is described from Terah's perspective, in keeping with the patriarchy of ancient Near Eastern culture. … This cultural deference to the oldest male is evidently why Abram did not continue on to Canaan by himself at this time (see Acts 7:2-4).",
+      "full_note_ref": "TYN/1/11/31",
+      "on_tension_rationale": "Tyndale grants Stephen's point that the Ur departure was God's call, explaining Genesis's Terah-centered framing as cultural perspective rather than a competing chronology.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on Acts 7:2",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact tension, arguing Abraham received two calls — one in Ur and one in Haran — so Stephen and Genesis describe successive stages of one journey rather than rival timings."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions/carm/defendinginerrancy) was confirmed to engage the Acts 7 vs Genesis 12 before/after-Haran timing directly; link omitted rather than fabricated."
+      }
+    }
+  }
+}

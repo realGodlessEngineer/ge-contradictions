@@ -1,0 +1,472 @@
+{
+  "contradiction_id": 549,
+  "question": "Is all Scripture inspired by God?",
+  "summary": "2 Timothy 3:16 claims all scripture is God-breathed. But Paul himself in 1 Corinthians 7:12 distinguishes his teaching from the Lord's (\"to the rest speak I, not the Lord\") and in 7:25 admits he has no commandment from the Lord on virgins, only his own judgment. 2 Maccabees 15:39 has its author apologizing for any imperfections in his writing. Three counter-examples where authors disclaim divine inspiration in their own texts.",
+  "consensus": "probable_contradiction",
+  "consensus_id": 2,
+  "category": "God: Nature & Character",
+  "contradiction_type": "theological",
+  "testament_scope": "OT_vs_NT",
+  "books_in_tension": "2 Maccabees, 1 Corinthians, 2 Timothy",
+  "refs_raw": [
+    "2 Timothy 3:16",
+    "1 Corinthians 7:12",
+    "1 Corinthians 7:25",
+    "2 Machabees 15:39"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "2 Timothy 3:16",
+      "book": "2 Timothy",
+      "bolls": 55,
+      "ranges": [
+        [
+          3,
+          16,
+          16
+        ]
+      ]
+    },
+    {
+      "raw": "1 Corinthians 7:12",
+      "book": "1 Corinthians",
+      "bolls": 46,
+      "ranges": [
+        [
+          7,
+          12,
+          12
+        ]
+      ]
+    },
+    {
+      "raw": "1 Corinthians 7:25",
+      "book": "1 Corinthians",
+      "bolls": 46,
+      "ranges": [
+        [
+          7,
+          25,
+          25
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [
+    {
+      "contradiction_id": 549,
+      "reference": "2 Machabees 15:39",
+      "reason": "unknown book '2 Machabees'"
+    }
+  ],
+  "note_count": 39,
+  "notes_raw_count": 60,
+  "notes_dropped": 21,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "1 Corinthians 7:11",
+      "note_ref": "GILL/46/7/11",
+      "cites": [
+        "1 Corinthians 7:12"
+      ],
+      "text": "But and if she depart,.... This is said, not as allowing of such a departure, which only in case of fornication is lawful; but supposing it a fact, that a woman cannot be prevailed upon to stay with her husband, but actually forsakes him upon some difference arising between them,\nlet her remain unmarried: she ought not to marry another man; her departure does not make the marriage void; nor is it to be made void by any difference between them, either on religious or civil accounts, only in case of adultery; and therefore, if upon such separation she marries, she is guilty of adultery:\nor be reconciled to her husband; which is rather to be chosen, than to remain separate, though unmarried; if she has given the offence, and is the cause of the separation, she ought to acknowledge it, and ask forgiveness of her husband, and return to him and live in peace with him; and if the fault is on his side, she ought to make use of all proper methods to convince him of it, bring him into good temper, forgive any injury done her, and live peaceably and comfortably together:\nand let not the husband put away his wife; as the Jews were wont to do, upon every trifling occasion; See Gill on Mat 5:31, Mat 5:32"
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Corinthians 7:12",
+      "note_ref": "GILL/46/7/12",
+      "cites": [
+        "1 Corinthians 7:12"
+      ],
+      "text": "But to the rest speak I, not the Lord,.... He had spoken before to married persons in general, and had delivered not his own sentiments barely, but the commandment of the Lord, that such should never separate from, or put away each other; in which he has respect to such as were upon equal foot in matters of religion, who were both of them believers in Christ; but now he speaks to the rest, to such as were unequally yoked, the one a believer, the other an unbeliever; and what he delivers on this head, concerning their living together, there being no express determination of this matter by the Lord himself, he under divine inspiration gives his sense of it; as that such marriages were valid, and that such persons ought to live together, and not separate on account of difference in religion: or the sense is, that as \"to the rest\" of the things they had wrote to him about, besides what he had given answer to already, he should speak to under divine illumination; though he had not an express law of Christ to point unto them, as the rule of their conduct: and particularly, whereas they had desired his judgment and advice upon this head, whether one who before conversion had married an unbeliever, ought to live with such an one, or whether it would not be advisable to leave, or put such away, to it he answers,\nif any brother hath a wife that believeth not; that is, if any man who is now a brother, one called by the grace of God, and is in church fellowship, has a wife to whom he was married whilst in a state of unregeneracy and infidelity; who is as she was when he married her, entirely destitute of faith in Christ; not one that is weak in the faith, or only makes an outward profession, but that has no faith at all in Christ, nor in his Gospel, not so much as an historical one; who disbelieves, denies, and rejects, the truths of the Gospel:\nand she be pleased to dwell with him; loves her husband, chooses to continue with him, notwithstanding their different sentiments of religion:\nlet him not put her away; infidelity is no reason for a divorce. The Gospel revelation does not dissolve the natural obligations men and women are in to one another. The Jews had a law prohibiting marriages with Heathens and idolaters; and such marriages were dissolved, and such wives put away, Exo 34:16 but this was a law peculiar to that people, and was not obligatory on other nations, and especially has no place under the Gospel dispensation."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Corinthians 7:13",
+      "note_ref": "GILL/46/7/13",
+      "cites": [
+        "1 Corinthians 7:12"
+      ],
+      "text": "And the woman which hath an husband that believeth,.... The apostle puts the case both ways, there being the same reason for one as for another; that if she that was a sister, who was partaker of the grace of God, and a member of the church, had a husband to whom she was married before her conversion; who was an unbeliever, had no faith in Christ, nor any notion of the Gospel, but an infidel to both:\nand if he be pleased to dwell with her; loves her, and is willing to continue with her; neither puts her away from him, nor departs from her on account of her Christianity:\nlet her not leave him; but continue, and cohabit with him as man and wife; this is the advice the apostle gives, as agreeably to the light of nature and reason; as becoming the Gospel of Christ, and as what might serve to recommend it, and spread the knowledge of it."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Corinthians 7:25",
+      "note_ref": "GILL/46/7/25",
+      "cites": [
+        "1 Corinthians 7:25"
+      ],
+      "text": "Now concerning virgins,.... Whether they should continue in the same state or not, whether they should marry or not, was one of the cases put to the apostle, and which the Corinthians wrote to him about, and to which he returns this answer:\nI have no commandment of the Lord: neither in the Old Testament, in the law of Moses, or writings of the prophets; nothing is therein enjoined concerning celibacy, or commanding persons to live a single life; but on the contrary there are many things directing and exciting to a marriage state; nor had the apostle any command from the Lord Jesus Christ, under the Gospel dispensation, obliging to virginity; nor any special orders, or peculiar revelation from the Spirit of God, fixing and settling this point:\nyet I give my judgment, what will be most advisable, convenient, and prudent to be done, considering persons, times, and circumstances. The apostle does not make use of his power and authority, as such, to make decrees, and prescribe rules, binding on the consciences of men; only humbly and modestly gives his opinion, which if thought well of, might be followed by them: and the more to engage them to take his advice, he adds,\nas one that hath obtained mercy of the Lord to be faithful; the meaning of which is, not that he, through the goodness and mercy of the Lord, had with great integrity preserved his virginity, and so proposes himself, as an instance and example of retaining it; for it is not certain, that though the apostle was now single, that he had never been married; it seems rather that he had, and therefore this cannot be his sense; nor does he refer to his faithfulness, to the Gospel committed to his trust, and the faithful discharge of his whole ministerial service, and which was owing to divine grace and mercy; but to that plainness, honesty, and integrity, which appeared in the whole course and conduct of his life, and in all his conversation with men; and particularly in giving advice about any matter, or declaring his sentiments on any subject: and when a man is free and faithful, and openly and honestly tells his mind, it greatly recommends him, and commands attention and regard to what he says; and faithfulness, it may be observed, considered in this sense, is not of nature, but of grace; it is obtained not by a man's own power and strength, but by the grace and mercy of God; to which it is here ascribed."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Timothy 3:14",
+      "note_ref": "GILL/55/3/14",
+      "cites": [
+        "2 Timothy 3:16"
+      ],
+      "text": "And that from a child thou hast known the holy Scriptures,.... And therefore must know that the doctrines he had learned were agreeable to them; and so is another reason why he should continue in them. The Jews very early learned their children the holy Scripture. Philo the Jew says (w), \"from their very infancy\"; a phrase pretty much the same with this here used. It is a maxim with the Jews (x), that when a child was five years of age, it was proper to teach him the Scriptures. Timothy's mother being a Jewess, trained him up early in the knowledge of these writings, with which he became very conversant, and under divine influence and assistance, arrived to a large understanding of them; and it is a practice that highly becomes Christian parents; it is one part of the nurture and admonition of the Lord they should bring up their children in: the wise man's advice in Pro 22:6 is very good. From hence the apostle takes occasion to enter into a commendation of the sacred writings; and here, from the nature and character of them, calls them the\nholy Scriptures; to distinguish them from profane writings; and that because the author of them is the Holy Spirit of God; and even the amanuenses of him, and the penmen of them, were holy men of God; the matter of them is holy, both law and Gospel; and the end of writing them is to promote holiness; the precepts, promises, and doctrines contained in them are calculated for that purpose; and even the account they give of the sins and failings of others, are for the admonition of men: and next these Scriptures are commended from the efficacy of them:\nwhich are able to make thee wise unto salvation. Men are not wise of themselves; they are naturally without an understanding of spiritual things; and the things of the Spirit of God cannot be known by natural men, because they are spiritually discerned; particularly they are not wise in the business of salvation, of which either they are insensible themselves, and negligent; or foolishly build their hopes of it upon their civility, morality, legal righteousness, or an outward profession of religion: but the Scriptures are able to make men wise and knowing in this respect; for the Gospel is one part of the Scriptures, which is the Gospel of salvation, and shows unto men the way of salvation. The Scriptures testify largely of Christ, the Saviour; and give an ample account both of him, who is the able, willing, suitable, complete, and only Saviour, and of the salvation which is wrought by him; and describe the persons who do, and shall enjoy it: not that the bare reading of the Scriptures, or the hearing of them expounded, are able to make men wise in this way; but these, when accompanied with the spirit of wisdom and revelation in the knowledge of Christ, are; when he who endited the Scriptures removes the veil from their eyes, opens their understandings, and gives them light and knowledge in them: and then may persons be said to be wise unto salvation, when they not only have a scheme of it in their heads, but are in their hearts sensible of their need of it, and know that there is salvation in no other but in Christ; and when they look to him for it, to his righteousness for justification, to his blood for peace, pardon, and cleansing, to his sacrifice for atonement, and to his fulness of grace for a continual supply, and to him for eternal life and glory; when they rejoice in him and his salvation, and give him all the glory of it: the apostle adds,\nthrough faith which is in Christ Jesus: wisdom to salvation lies not in the knowledge of the law the Jew boasted of; nor in the works of it, at least not in a trust and confidence in them for salvation; for by them there is no justification before God, nor acceptance with him, nor salvation: but true wisdom to salvation lies in faith, which is a spiritual knowledge of Christ, and a holy confidence in him; and that salvation which the Scriptures make men wise unto, is received and enjoyed through that faith, which has Christ for its author and object; which comes from him, and centres in him, and is a looking to him for eternal life.\n(w) De Legat. ad Caium, p. 1022. (x) Pirke Abot, c. 5. sect. 21."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Timothy 3:15",
+      "note_ref": "GILL/55/3/15",
+      "cites": [
+        "2 Timothy 3:16"
+      ],
+      "text": "All Scripture is given by inspiration of God,.... That is, all holy Scripture; for of that only the apostle is speaking; and he means the whole of it; not only the books of the Old Testament, but of the New, the greatest part of which was now written; for this second epistle to Timothy is by some thought to be the last of Paul's epistles; and this also will hold good of what was to be written; for all is inspired by God, or breathed by him: the Scriptures are the breath of God, the word of God and not men; they are \"written by the Spirit\", as the Syriac version renders it; or \"by the Spirit of God\", as the Ethiopic version. The Scriptures are here commended, from the divine authority of them; and which is attested and confirmed by various arguments; as the majesty and loftiness of their style, which in many places is inimitable by men; the sublimity of the matter contained in them, which transcends all human understanding and capacity ever to have attained unto and discovered; as the trinity of persons in the Godhead, the incarnation of Christ, the resurrection of the dead, &c. The purity and holiness of them before observed, show them to be the word of him that is of purer eyes than to behold iniquity; as also their harmony and agreement, though wrote by different persons, in different places, and ages, and at sundry times, and in divers manners; what seeming inconsistencies are observed in them may, with labour and industry, by divine assistance, be reconciled. The predictions of future events in them, as particularly concerning Josiah and Cyrus, by name, long before they were born, and especially concerning Jesus Christ, and which have had their accomplishment, and many others in the New Testament both by Christ and his apostles, are a proof that they could not be the writings of men, but must have the omniscient God for their author; the impartiality of the writers of them, in not concealing the mean extract of some of them, the sins of others before conversion, and even their sins and failings afterwards, as well as those of their nearest relations and dearest friends, strengthens the proof of their divine authority; to which may be added, the wonderful preservation of them, through all the changes and declensions of the Jewish church and state, to whom the books of the Old Testament were committed; and notwithstanding the violence and malice of Heathen persecutors, particularly Dioclesian, who sought to destroy every copy of the Scriptures, and published an edict for that purpose, and notwithstanding the numbers of heretics, and who have been in power, as also the apostasy of the church of Rome; and yet these writings have been preserved, and kept pure and incorrupt, which is not the case of other writings; nor are there any of such antiquity as the oldest of these: to which may be subjoined the testimony of God himself; his outward testimony by miracles, wrought by Moses and the prophets, concerned in the writings of the Old Testament, and by the apostles in the New; and his internal testimony, which is the efficacy of these Scriptures on the hearts of men; the reading and hearing of which, having been owned for the conversion, comfort and edification of thousands and thousands, and ten thousand times ten thousand: and\nis profitable for doctrine; for the discovering, illustrating, and confirming any doctrine concerning God, the being, persons, and perfections of God; concerning the creation and fall of man; concerning the person and offices of Christ, redemption by him, justification by his righteousness, pardon by his blood, reconciliation and atonement by his sacrifice, and eternal life through him, with many others. The Scripture is profitable for ministers to fetch doctrine from, and establish it by; and for hearers to try and prove it by:\nfor reproof; of errors and heresies; this is the sword of the Spirit, which cuts all down. There never was, nor is, nor can be any error or heresy broached in the world, but there is a sufficient refutation of it in the Scriptures; which may be profitably used for that purpose, as it often has been by Christ and his apostles, and others since in all ages:\nfor correction; of vice; there being no sin, but the evil nature of it is shown, its wicked tendency is exposed, and the sad effects and consequences of it are pointed out in these writings: for instruction in righteousness; in every branch of duty incumbent upon men; whether with respect to God, or one another; for there is no duty men are obliged unto, but the nature, use, and excellency of it, are here shown: the Scriptures are a perfect rule of faith and practice; and thus they are commended from the usefulness and profitableness of them."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Timothy 3:16",
+      "note_ref": "GILL/55/3/16",
+      "cites": [
+        "2 Timothy 3:16"
+      ],
+      "text": "That the man of God may be perfect,.... By the man of God may be meant everyone that in a special relation belongs to God; who is chosen by God the Father, redeemed by the Son, and called by the Spirit; but more especially a minister of the Gospel; for as it was usual to call a prophet under the Old Testament by this name, it seems to be transferred from thence to a minister of the New Testament, see Ti1 6:11 and the design of the Scriptures and the end of writing them are, that both preachers of the word, and hearers of it, might have a perfect knowledge of the will of God; that the former might be a complete minister of the Gospel, and that nothing might be wanting for the information of the latter:\nthoroughly furnished unto all good works, or \"every good work\"; particularly to the work of the ministry, which is a good one; and to every part and branch of it, a thorough furniture for which lies in the holy Scriptures; from whence, as scribes well instructed in the kingdom of heaven, do Gospel ministers bring forth things new and old, both for delight and profit: though this may be also applied to all good works in common, which the Scriptures point unto, give directions about, as well as show where strength is to be had to perform them.\nNext: 2 Timothy Chapter 4"
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Corinthians 7:11",
+      "note_ref": "JFB/46/7/11",
+      "cites": [
+        "1 Corinthians 7:12"
+      ],
+      "text": "But and if she depart--or \"be separated.\" If the sin of separation has been committed, that of a new marriage is not to be added (Mat 5:32).\nbe reconciled--by appeasing her husband's displeasure, and recovering his good will.\nlet not . . . husband put away . . . wife--In Mat 5:32 the only exception allowed is, \"saving for the cause of fornication.\""
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Corinthians 7:12",
+      "note_ref": "JFB/46/7/12",
+      "cites": [
+        "1 Corinthians 7:12"
+      ],
+      "text": "to the rest--the other classes (besides \"the married,\" Co1 7:10, where both husband and wife are believers) about whom the Corinthians had inquired, namely, those involved in mixed marriages with unbelievers.\nnot the Lord--by any direct command spoken by Him.\nshe be pleased--Greek, \"consents\": implying his wish in the first instance, with which hers concurs."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Corinthians 7:13",
+      "note_ref": "JFB/46/7/13",
+      "cites": [
+        "1 Corinthians 7:12"
+      ],
+      "text": "the woman--a believer.\nlet her not leave him--\"her husband,\" instead of \"him,\" is the reading of the oldest manuscripts The Greek for \"leave\" is the same as in Co1 7:12, \"put away\"; translate, \"Let her not put away [that is, part with] her husband.\" The wife had the power of effecting a divorce by Greek and Roman law."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Corinthians 7:25",
+      "note_ref": "JFB/46/7/25",
+      "cites": [
+        "1 Corinthians 7:25"
+      ],
+      "text": "no commandment of the Lord: yet . . . my judgment--I have no express revelation from the Lord commanding it, but I give my judgment (opinion); namely, under the ordinary inspiration which accompanied the apostles in all their canonical writings (compare Co1 7:40; Co1 14:37; Th1 4:15). The Lord inspires me in this case to give you only a recommendation, which you are free to adopt or reject--not a positive command. In the second case (Co1 7:10-11) it was a positive command; for the Lord had already made known His will (Mal 2:14-15; Mat 5:31-32). In the third case (Co1 7:12), the Old Testament commandment of God to put away strange wives (Ezr 10:3), Paul by the Spirit revokes.\nmercy of the Lord-- (Ti1 1:13). He attributes his apostleship and the gifts accompanying it (including inspiration) to God's grace alone.\nfaithful--in dispensing to you the inspired directions received by me from the Lord."
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Timothy 3:14",
+      "note_ref": "JFB/55/3/14",
+      "cites": [
+        "2 Timothy 3:16"
+      ],
+      "text": "But . . . thou--Whatever they may do. Resuming the thread begun at Ti2 3:10.\nlearned--from me and thy mother and grandmother (Ti2 1:5; Ti2 2:2).\nassured of--from Scripture (Ti2 3:15).\nof whom--plural, not singular, in the oldest manuscripts, \"from what teachers.\" Not only from me, but from Lois and Eunice."
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Timothy 3:15",
+      "note_ref": "JFB/55/3/15",
+      "cites": [
+        "2 Timothy 3:16"
+      ],
+      "text": "from a child--literally, \"from an infant.\" The tender age of the first dawn of reason is that wherein the most lasting impressions of faith may be made.\nholy scriptures--The Old Testament taught by his Jewish mother. An undesigned coincidence with Ti2 1:5; Act 16:1-3.\nable--in themselves: though through men's own fault they often do not in fact make men savingly alive.\nwise unto salvation--that is, wise unto the attainment of salvation. Contrast \"folly\" (Ti2 3:9). Wise also in extending it to others.\nthrough faith--as the instrument of this wisdom. Each knows divine things only as far as his own experience in himself extends. He who has not faith, has not wisdom or salvation.\nwhich is in--that is, rests on Christ Jesus."
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Timothy 3:16",
+      "note_ref": "JFB/55/3/16",
+      "cites": [
+        "2 Timothy 3:16"
+      ],
+      "text": "All scripture--Greek, \"Every Scripture,\" that is, Scripture in its every part. However, English Version is sustained, though the Greek article be wanting, by the technical use of the term \"Scripture\" being so well known as not to need the article (compare Greek, Eph 3:15; Eph 2:21). The Greek is never used of writings in general, but only of the sacred Scriptures. The position of the two Greek adjectives closely united by \"and,\" forbids our taking the one as an epithet, the other as predicated and translated as ALFORD and ELLICOTT. \"Every Scripture given by inspiration of God is also profitable.\" Vulgate and the best manuscripts, favor English Version. Clearly the adjectives are so closely connected that as surely as one is a predicate, the other must be so too. ALFORD admits his translation to be harsh, though legitimate. It is better with English Version to take it in a construction legitimate, and at the same time not harsh. The Greek, \"God-inspired,\" is found nowhere else. Most of the New Testament books were written when Paul wrote this his latest Epistle: so he includes in the clause \"All Scripture is God-inspired,\" not only the Old Testament, in which alone Timothy was taught when a child (Ti2 3:15), but the New Testament books according as they were recognized in the churches which had men gifted with \"discerning of spirits,\" and so able to distinguish really inspired utterances, persons, and so their writings from spurious. Paul means, \"All Scripture is God-inspired and therefore useful\"; because we see no utility in any words or portion of it, it does not follow it is not God-inspired. It is useful, because God-inspired; not God-inspired, because useful. One reason for the article not being before the Greek, \"Scripture,\" may be that, if it had, it might be supposed that it limited the sense to the hiera grammata, \"Holy Scriptures\" (Ti2 3:15) of the Old Testament, whereas here the assertion is more general: \"all Scripture\" (compare Greek, Pe2 1:20). The translation, \"all Scripture that is God-inspired is also useful,\" would imply that there is some Scripture which is not God-inspired. But this would exclude the appropriated sense of the word \"Scripture\"; and who would need to be told that \"all divine Scripture is useful ('profitable')?\" Heb 4:13 would, in ALFORD'S view, have to be rendered, \"All naked things are also open to the eyes of Him,\" &c.: so also Ti1 4:4, which would be absurd [TREGELLES, Remarks on the Prophetic Visions of the Book of Daniel]. Knapp well defines inspiration, \"An extraordinary divine agency upon teachers while giving instruction, whether oral or written, by which they were taught how and what they should speak or write\" (compare Sa2 23:1; Act 4:25; Pe2 1:21). The inspiration gives the divine sanction to all the words of Scripture, though those words be the utterances of the individual writer, and only in special cases revealed directly by God (Co1 2:13). Inspiration is here predicated of the writings, \"all Scripture,\" not of the persons. The question is not how God has done it; it is as to the word, not the men who wrote it. What we must believe is that He has done it, and that all the sacred writings are every where inspired, though not all alike matter of special revelation: and that even the very words are stamped with divine sanction, as Jesus used them (for example in the temptation and Joh 10:34-35), for deciding all questions of doctrine and practice. There are degrees of revelation in Scripture, but not of inspiration. The sacred writers did not even always know the full significancy of their own God-inspired words (Pe1 1:10-12). Verbal inspiration does not mean mechanical dictation, but all \"Scripture is (so) inspired by God,\" that everything in it, its narratives, prophecies, citations, the whole--ideas, phrases, and words--are such as He saw fit to be there. The present condition of the text is no ground for concluding against the original text being inspired, but is a reason why we should use all critical diligence to restore the original inspired text. Again, inspiration may be accompanied by revelation or not, but it is as much needed for writing known doctrines or facts authoritatively, as for communicating new truths [TREGELLES]. The omission here of the substantive verb is,' I think, designed to mark that, not only the Scripture then existing, but what was still to be written till the canon should be completed, is included as God-inspired. The Old Testament law was the schoolmaster to bring us to Christ; so it is appropriately said to be \"able to make wise unto salvation through faith in Jesus Christ\": the term wisdom being appropriated to a knowledge of the relations between the Old and New Testaments, and opposed to the pretended wisdom of the false teachers (Ti1 1:7-8).\ndoctrine--Greek, \"teaching,\" that is, teaching the ignorant dogmatic truths which they cannot otherwise know. He so uses the Old Testament, Rom 1:17.\nreproof--\"refutation,\" convicting the erring of their error. Including polemical divinity. As an example of this use of the Old Testament, compare Gal 3:6, Gal 3:13, Gal 3:16. \"Doctrine and reproof\" comprehend the speculative parts of divinity. Next follow the practical: Scripture is profitable for: (1) correction (Greek, \"setting one right\"; compare an example, Co1 10:1-10) and instruction (Greek, \"disciplining,\" as a father does his child, see on Ti2 2:25; Eph 6:4; Heb 12:5, Heb 12:11, or \"training\" by instruction, warning, example, kindnesses, promises, and chastisements; compare an example, Co1 5:13). Thus the whole science of theology is complete in Scripture. Since Paul is speaking of Scripture in general and in the notion of it, the only general reason why, in order to perfecting the godly (Ti2 3:17), it should extend to every department of revealed truth, must be that it was intended to be the complete and sufficient rule in all things touching perfection. See Article VI, Common Prayer Book.\nin--Greek, \"instruction which is in righteousness,\" as contrasted with the \"instruction\" in worldly rudiments (Col 2:20, Col 2:22)."
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Timothy 3:17",
+      "note_ref": "JFB/55/3/17",
+      "cites": [
+        "2 Timothy 3:16"
+      ],
+      "text": "man of God--(See on Ti1 6:11).\nperfect, throughly furnished--Greek, \"thoroughly perfected,\" and so \"perfect.\" The man of God is perfectly accoutred out of Scripture for his work, whether he be a minister (compare Ti2 4:2 with Ti2 3:16) or a spiritual layman. No oral tradition is needed to be added.\nNext: 2 Timothy Chapter 4"
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Corinthians 7:11",
+      "note_ref": "CLARKE/46/7/11",
+      "cites": [
+        "1 Corinthians 7:12"
+      ],
+      "text": "But, and if she depart - He puts the case as probable, because it was frequent, but lays it under restrictions.\nLet her remain unmarried - She departs at her own peril; but she must not marry another: she must either continue unmarried, or be reconciled to her husband.\nAnd let not the husband put away his wife - Divorces cannot be allowed but in the case of fornication: an act of this kind dissolves the marriage vow; but nothing else can. It is a fact that, among the Jews, the wife had just as much right to put away her husband as the husband had to put away his wife. As divorces were granted, it was right that each should have an equal power; for this served as a mutual check."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Corinthians 7:12",
+      "note_ref": "CLARKE/46/7/12",
+      "cites": [
+        "1 Corinthians 7:12"
+      ],
+      "text": "But to the rest speak I, not the Lord - As if he had said: For what I have already spoken I have the testimony of the Lord by Moses, and of my own Lord and Master, Christ; but for the directions which I am now about to give there is no written testimony, and I deliver them now for the first time. These words do not intimate that the apostle was not now under the influences of the Divine Spirit; but, that there was nothing in the sacred writings which bore directly on this point.\nIf any brother - A Christian man, have a wife that believeth not, i.e. who is a heathen, not yet converted to the Christian faith, and she be pleased to dwell with him, notwithstanding his turning Christian since their marriage, let him not put her away because she still continues in her heathen superstition."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Corinthians 7:13",
+      "note_ref": "CLARKE/46/7/13",
+      "cites": [
+        "1 Corinthians 7:12"
+      ],
+      "text": "And the woman - Converted from heathenism to the Christian faith; which hath a husband, who still abides in heathenism; if he be pleased to dwell with her, notwithstanding she has become a Christian since their marriage; let her not leave him because he still continues a heathen."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Corinthians 7:25",
+      "note_ref": "CLARKE/46/7/25",
+      "cites": [
+        "1 Corinthians 7:25"
+      ],
+      "text": "Now concerning virgins - This was another subject on which the Church at Corinth had asked the advice of the apostle. The word παρθενος, virgin, we take to signify a pure, unmarried young woman; but it is evident that the word in this place means young unmarried persons of either sex, as appears from Co1 7:26, Co1 7:27, Co1 7:32-34, and from Rev 14:4. The word παρθενος, virgin, is frequently applied to men as well as to women. See Suidas, under the word Αβελ· οὑτος παρθενος και δι καιος ὑπηρχε, He (Abel) was a virgin, and a righteous man. In Co1 7:36 the word is supposed to mean the state of virginity or celibacy, and very probable reasons are assigned for it; and it is evident that persons of either sex in a state of celibacy are the persons intended.\nI have no commandment of the Lord - There is nothing in the sacred writings that directly touches this point.\nYet I give my judgment - As every way equal to such commandments had there been any, seeing I have received the teaching of his own Spirit, and have obtained mercy of the Lord to be faithful to this heavenly gift, so that it abides with me to lead me into all truth. In this way I think the apostle's words may be safely understood."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Timothy 3:14",
+      "note_ref": "CLARKE/55/3/14",
+      "cites": [
+        "2 Timothy 3:16"
+      ],
+      "text": "But continue thou - No man, however well instructed in the things of God, or grounded in Divine grace, is out of the reach of temptation, apostasy, and final ruin; hence the necessity of watching unto prayer, depending upon God, continuing in the faith, and persevering unto the end."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Timothy 3:15",
+      "note_ref": "CLARKE/55/3/15",
+      "cites": [
+        "2 Timothy 3:16"
+      ],
+      "text": "From a child thou hast known the Holy Scriptures - The early religious education of Timothy has been already sufficiently noticed; see Ti2 1:5, and the preface to the first epistle. St. Paul introduces this circumstance again here for the confirmation of Timothy's faith. He had learned the doctrines of Christianity from a genuine apostle; and, as Christianity is founded on the law and the prophets, Timothy was able to compare its doctrines with all that had been typified and predicted, and consequently was assured that the Christian religion was true.\nAble to make thee wise unto salvation - The apostle is here evidently speaking of the Jewish Scriptures; and he tells us that they are able to make us wise unto salvation provided we have faith in Jesus Christ. This is the simple use of the Old Testament. No soul of man can be made wise unto salvation by it, but as he refers all to Christ Jesus. The Jews are unsaved though they know these Scriptures, because they believe not in Christ; for Christ is the end of the law for the justification of all that believe."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Timothy 3:16",
+      "note_ref": "CLARKE/55/3/16",
+      "cites": [
+        "2 Timothy 3:16"
+      ],
+      "text": "All Scripture is given by inspiration of God - This sentence is not well translated; the original πασα γραφη θεοκνευστος ωφιλιμος προς διδασκαλιαν, κ. τ. λ. should be rendered: Every writing Divinely inspired is profitable for doctrine, etc. The particle και, and, is omitted by almost all the versions and many of the fathers, and certainly does not agree well with the text. The apostle is here, beyond all controversy, speaking of the writings of the Old Testament, which, because they came by Divine inspiration, he terms the Holy Scriptures, Ti2 3:15; and it is of them alone that this passage is to be understood; and although all the New Testament came by as direct an inspiration as the Old, yet, as it was not collected at that time, not indeed complete, the apostle could have no reference to it.\nThe doctrine of the inspiration of the sacred writings has been a subject of much discussion, and even controversy, among Christians. There are two principal opinions on the subject:\n1. That every thought and word were inspired by God, and that the writer did nothing but merely write as the Spirit dictated.\n2. That God gave the whole matter, leaving the inspired writers to their own language; and hence the great variety of style and different modes of expression.\nBut as I have treated this subject at large in my Introduction to the Four Gospels and Acts of the Apostles, I must refer the reader to that work.\nIs profitable for doctrine - To teach the will of God, and to point out Jesus Christ till he should come.\nFor reproof - To convince men of the truth; and to confound those who should deny it, particularly the Jews.\nFor correction - Προς επανορθωσιν· For restoring things to their proper uses and places, correcting false notions and mistaken views.\nInstruction in righteousness - Προς παιδειαν την εν δικαιοσυνῃ. For communicating all initiatory religious knowledge; for schooling mankind. All this is perfectly true of the Jewish Scriptures; and let faith in Christ Jesus be added, see Ti2 3:15, and then all that is spoken in the following verse will be literally accomplished."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Timothy 3:17",
+      "note_ref": "CLARKE/55/3/17",
+      "cites": [
+        "2 Timothy 3:16"
+      ],
+      "text": "That the man of God - The preacher of righteousness, the minister of the Gospel, the person who derives his commission from God, and always appears as his herald and servant.\nMay be perfect - Αρτιος· From αρω, to fit or adapt. It properly signifies an integer or whole number in arithmetic, to which nothing needs to be added to make it complete.\nThroughly furnished - Εξηρτισμενος· From εξ, intensive, and αρτιος, complete; see above. Not only complete in himself as to his integrity, religious knowledge, faith in Jesus, and love to God and man, but that he should have all those qualifications which are necessary to complete the character, and insure the success of a preacher, of the Gospel. Timothy was to teach, reprove, correct, and instruct others; and was to be to them a pattern of good works.\nFrom what the apostle says here concerning the qualifications of a Christian minister, we may well exclaim: Who is capable of these things? Is it such a person as has not intellect sufficient for a common trade or calling? No. A preacher of the Gospel should be a man of the soundest sense, the most cultivated mind, the most extensive experience, one who is deeply taught of God, and who has deeply studied man; one who has prayed much, read much, and studied much; one who takes up his work as from God, does it as before God, and refers all to the glory of God; one who abides under the inspiration of the Almighty, and who has hidden the word of God in his heart, that he might not sin against him. No minister formed by man can ever be such as is required here. The school of Christ, and that alone, can ever form such a preacher."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Corinthians 7:10",
+      "note_ref": "MHC/46/7/10",
+      "cites": [
+        "1 Corinthians 7:12"
+      ],
+      "text": "In this paragraph the apostle gives them direction in a case which must be very frequent in that age of the world, especially among the Jewish converts; I mean whether they were to live with heathen relatives in a married state. Moses's law permitted divorce; and there was a famous instance in the Jewish state, when the people were obliged to put away their idolatrous wives, Ezr 10:3. This might move a scruple in many minds, whether converts to Christianity were not bound to put away or desert their mates, continuing infidels. Concerning this matter the apostle here gives direction. And,\nI. In general, he tells them that marriage, by Christ's command, is for life; and therefore those who are married must not think of separation. The wife must not depart from the husband (Co1 7:10), nor the husband put away his wife, Co1 7:11. This I command, says the apostle; yet not I, but the Lord. Not that he commanded any thing of his own head, or upon his own authority. Whatever he commanded was the Lord's command, dictated by his Spirit and enjoined by his authority. But his meaning is that the Lord himself, with his own mouth, had forbidden such separations, Mat 5:32; Mat 19:9; Mar 10:11; Luk 16:18. Note, Man and wife cannot separate at pleasure, nor dissolve, when they will, their matrimonial bonds and relation. They must not separate for any other cause than what Christ allows. And therefore the apostle advises that if any woman had been separated, either by a voluntary act of her own or by an act of her husband, she should continue unmarried, and seek reconciliation with her husband, that they might cohabit again. Note, Husbands and wives should not quarrel at all, or should be quickly reconciled. They are bound to each other for life. The divine law allows of no separation. They cannot throw off the burden, and therefore should set their shoulders to it, and endeavour to make it as light to each other as they can.\nII. He brings the general advice home to the case of such as had an unbelieving mate (Co1 7:12): But to the rest speak I, not the Lord; that is, the Lord had not so expressly spoken to this case as to the former divorce. It does not mean that the apostle spoke without authority from the Lord, or decided this case by his own wisdom, without the inspiration of the Holy Ghost. He closes this subject with a declaration to the contrary (Co1 7:40), I think also that I have the Spirit of God. But, having thus prefaced his advice, we may attend,\n1. To the advice itself, which is that if an unbelieving husband or wife were pleased to dwell with a Christian relative, the other should not separate. The husband should not put away an unbelieving wife, nor the wife leave an unbelieving husband, Co1 7:12, Co1 7:13. The Christian calling did not dissolve the marriage covenant, but bind it the faster, by bringing it back to the original institution, limiting it to two persons, and binding them together for life. The believer is not by faith in Christ loosed from matrimonial bonds to an unbeliever, but is at once bound and made apt to be a better relative. But, though a believing wife or husband should not separate from an unbelieving mate, yet if the unbelieving relative desert the believer, and no means can reconcile to a cohabitation, in such a case a brother or sister is not in bondage (Co1 7:15), not tied up to the unreasonable humour, and bound servilely to follow or cleave to the malicious deserter, or not bound to live unmarried after all proper means for reconciliation have been tried, at least of the deserter contract another marriage or be guilty of adultery, which was a very easy supposition, because a very common instance among the heathen inhabitants of Corinth. In such a case the deserted person must be free to marry again, and it is granted on all hands. And some think that such a malicious desertion is as much a dissolution of the marriage-covenant as death itself. For how is it possible that the two shall be one flesh when the one is maliciously bent to part from or put away the other? Indeed, the deserter seems still bound by the matrimonial contract; and therefore the apostle says (Co1 7:11), If the woman depart from her husband upon the account of his infidelity, let her remain unmarried. But the deserted party seems to be left more at liberty (I mean supposing all the proper means have been used to reclaim the deserter, and other circumstances make it necessary) to marry another person. It does not seem reasonable that they should be still bound, when it is rendered impossible to perform conjugal duties or enjoy conjugal comforts, through the mere fault of their mate: in such a case marriage would be a state of servitude indeed. But, whatever liberty be indulged Christians in such a case as this, they are not allowed, for the mere infidelity of a husband or wife, to separate; but, if the unbeliever be willing, they should continue in the relation, and cohabit as those who are thus related. This is the apostle's general direction.\n2. We have here the reasons of this advice. (1.) Because the relation or state is sanctified by the holiness of either party: For the unbelieving husband is sanctified by the wife, and the unbelieving wife by the husband (Co1 7:14), or hath been sanctified. The relation itself, and the conjugal use of each other, are sanctified to the believer. To the pure all things are pure, Tit 1:15. Marriage is a divine institution; it is a compact for life, by God's appointment. Had converse and congress with unbelievers in that relation defiled the believer, or rendered him or her offensive to God, the ends of marriage would have been defeated, and the comforts of it in a manner destroyed, in the circumstances in which Christians then were. But the apostle tells them that, though they were yoked with unbelievers, yet, if they themselves were holy, marriage was to them a holy state, and marriage comforts, even with an unbelieving relative, were sanctified enjoyments. It was no more displeasing to God for them to continue to live as they did before, with their unbelieving or heathen relation, than if they had become converts together. If one of the relatives had become holy, nothing of the duties or lawful comforts of the married state could defile them, and render them displeasing to God, though the other were a heathen. He is sanctified for the wife's sake. She is sanctified for the husband's sake. Both are one flesh. He is to be reputed clean who is one flesh with her that is holy, and vice vers: Else were your children unclean, but now are they holy (Co1 7:14), that is, they would be heathen, out of the pale of the church and covenant of God. They would not be of the holy seed (as the Jews are called, Isa 6:13), but common and unclean, in the same sense as heathens in general were styled in the apostle's vision, Act 10:28. This way of speaking is according to the dialect of the Jews, among whom a child begotten by parents yet heathens, was said to be begotten out of holiness; and a child begotten by parents made proselytes was said to be begotten intra sanctitatem - within the holy enclosure. Thus Christians are called commonly saints; such they are by profession, separated to be a peculiar people of God, and as such distinguished from the world; and therefore the children born to Christians, though married to unbelievers, are not to be reckoned as part of the world, but of the church, a holy, not a common and unclean seed. \"Continue therefore to live even with unbelieving relatives; for, if you are holy, the relation is so, the state is so, you may make a holy use even of an unbelieving relative, in conjugal duties, and your seed will be holy too.\" What a comfort is this, where both relatives are believers! (2.) Another reason is that God hath called Christians to peace, Co1 7:15. The Christian religion obliges us to act peaceably in all relations, natural and civil. We are bound, as much as in us lies, to live peaceably with all men (Rom 12:18), and therefore surely to promote the peace and comfort of our nearest relatives, those with whom we are one flesh, nay, though they should be infidels. Note, It should be the labour and study of those who are married to make each other as easy and happy as possible. (3.) A third reason is that it is possible for the believing relative to be an instrument of the other's salvation (Co1 7:16): What knowest thou, O wife, whether thou shalt save thy husband? Note, It is the plain duty of those in so near a relation to seek the salvation of those to whom they are related. \"Do not separate. There is other duty now called for. The conjugal relation calls for the most close and endeared affection; it is a contract for life. And should a Christian desert a mate, when an opportunity offers to give the most glorious proof of love? Stay, and labour heartily for the conversion of thy relative. Endeavour to save a soul. Who knows but this may be the event? It is not impossible. And, though there be no great probability, saving a soul is so good and glorious a service that the bare possibility should put one on exerting one's self.\" Note, Mere possibility of success should be a sufficient motive with us to use our diligent endeavours for saving the souls of our relations. \"What know I but I may save his soul? should move me to attempt it.\""
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Corinthians 7:25",
+      "note_ref": "MHC/46/7/25",
+      "cites": [
+        "1 Corinthians 7:25"
+      ],
+      "text": "The apostle here resumes his discourse, and gives directions to virgins how to act, concerning which we may take notice,\nI. Of the manner wherein he introduces them: \"Now concerning virgins I have no commandment of the Lord, Co1 7:25. I have no express and universal law delivered by the Lord himself concerning celibacy; but I give my judgment, as one who hath obtained mercy of the Lord to be faithful,\" namely, in the apostleship. He acted faithfully, and therefore his direction was to be regarded as a rule of Christ: for he gave judgment as one who was a faithful apostle of Christ. Though Christ had before delivered no universal law about that matter, he now gives direction by an inspired apostle, one who had obtained mercy of the Lord to be faithful. Note, Faithfulness in the ministry is owing to the grace and mercy of Christ. It is what Paul was ready to acknowledge upon all occasions: I laboured more abundantly than they all; yet not I, but the grace of God which was with me, Co1 15:10. And it is a great mercy which those obtain from God who prove faithful in the ministry of his word, either ordinary or extraordinary.\nII. The determination he gives, which, considering the present distress, was that a state of celibacy was preferable: It is good for a man so to be, that is, to be single. I suppose, says the apostle, or it is my opinion. It is worded with modesty, but delivered, notwithstanding, with apostolic authority. It is not the mere opinion of a private man, but the very determination of the Spirit of God in an apostle, though it be thus spoken. And it was thus delivered to give it the more weight. Those that were prejudiced against the apostle might have rejected this advice had it been given with a mere authoritative air. Note, Ministers do not lose their authority by prudent condescensions. They must become all things to all men, that they may do them the more good. This is good, says he, for the present distress. Christians, at the first planting of their religion, were grievously persecuted. Their enemies were very bitter against them, and treated them very cruelly. They were continually liable to be tossed and hurried by persecution. This being the then state of things, he did not think it so advisable for Christians that were single to change conditions. The married state would bring more care and cumber along with it (Co1 15:33, Co1 15:34), and would therefore make persecution more terrible, and render them less able to bear it. Note, Christians, in regulating their conduct, should not barely consider what is lawful in itself, but what may be expedient for them.\nIII. Notwithstanding he thus determines, he is very careful to satisfy them that he does not condemn marriage in the gross, nor declare it unlawful. And therefore, though he says, \"If thou art loosed from a wife (in a single state, whether bachelor or widower, virgin or widow) do not seek a wife, do not hastily change conditions;\" yet he adds, \"If thou art bound to a wife, do not seek to be loosed. It is thy duty to continue in the married relation, and do the duties of it.\" And though such, if they were called to suffer persecution, would find peculiar difficulties in it; yet, to avoid these difficulties, they must not cast off nor break through the bonds of duty. Duty must be done, and God trusted with events. But to neglect duty is the way to put ourselves out of the divine protection. He adds therefore, I thou marry thou hast not sinned; or if a virgin marry she hath not sinned: but such shall have trouble in the flesh. Marrying is not in itself a sin, but marrying at that time was likely to bring inconvenience upon them, and add to the calamities of the times; and therefore he thought it advisable and expedient that such as could contain should refrain from it; but adds that he would not lay celibacy on them as a yoke, nor, by seeming to urge it too far, draw them into any snare; and therefore says, But I spare you. Note, How opposite in this are the papist casuists to the apostle Paul! They forbid many to marry, and entangle them with vows of celibacy, whether they can bear the yoke or no.\nIV. He takes this occasion to give general rules to all Christians to carry themselves with a holy indifferency towards the world, and every thing in it. 1. As to relations: Those that had wives must be as though they had none; that is, they must not set their hearts too much on the comforts of the relation; they must be as though they had none. They know not how soon they shall have none. This advice must be carried into every other relation. Those that have children should be as though they had none. Those that are their comfort now may prove their greatest cross. And soon may the flower of all comforts be cut down. 2. As to afflictions: Those that weep must be as though they wept not; that is, we must not be dejected too much with any of our afflictions, nor indulge ourselves in the sorrow of the world, but keep up a holy joy in God in the midst of all our troubles, so that even in sorrow the heart may be joyful, and the end of our grief may be gladness. Weeping may endure for a night, but joy will come in the morning. If we can but get to heaven at last, all tears shall be wiped from our eyes; and the prospect of it now should make us moderate our sorrows and refrain our tears. 3. As to worldly enjoyments: Those that rejoice should be as though they rejoiced not; that is, they should not take too great a complacency in any of their comforts. They must be moderate in their mirth, and sit loose to the enjoyments they most value. Here is not their rest, nor are these things their portion; and therefore their hearts should not be set on them, nor should they place their solace or satisfaction in them. 4. As to worldly traffic and employment: Those that buy must be as though they possessed not. Those that prosper in trade, increase in wealth, and purchase estates, should hold these possessions as though they held them not. It is but setting their hearts on that which is not (Pro 23:5) to do otherwise. Buying and possessing should not too much engage our minds. They hinder many people altogether from minding the better part. Purchasing land and trying oxen kept the guests invited from the wedding-supper, Luk 14:18, Luk 14:19. And, when they do not altogether hinder men from minding their chief business, they do very much divert them from a close pursuit. Those are most likely to run so as to obtain the prize who ease their minds of all foreign cares and cumbrances. 5. As to all worldly concerns: Those that use this world as not abusing it, Co1 7:31. The world may be used, but must not be abused. It is abused when it is not used to those purposes for which it is given, to honour God and do good to men - when, instead of being oil to the wheels of our obedience, it is made fuel to lust - when, instead of being a servant, it is made our master, our idol, and has that room in our affections which should be reserved for God. And there is great danger of abusing it in all these respects, if our hearts are too much set upon it. We must keep the world as much as may be out of our hearts, that we may not abuse it when we have it in our hands.\nV. He enforces these advices with two reasons: - 1. The time is short, Co1 7:29. We have but little time to continue in this world; but a short season for possessing and enjoying worldly things; kairos sunestalmenos. It is contracted, reduced to a narrow compass. It will soon be gone. It is just ready to be wrapped up in eternity. Therefore do not set your hearts on worldly enjoyments. Do not be overwhelmed with worldly cares and troubles. Possess what you must shortly leave without suffering yourselves to be possessed by it. Why should your hearts be much set on what you must quickly resign? 2. The fashion of this world passeth away (Co1 7:31), schēma - the habit, figure, appearance, of the world, passeth away. It is daily changing countenance. It is in a continual flux. It is not so much a world as the appearance of one. All is show, nothing solid in it; and it is transient show too, and will quickly be gone. How proper and powerful an argument is this to enforce the former advice! How irrational is it to be affected with the images, the fading and transient images, of a dream! Surely man walketh in a vain show (Psa 39:6), in an image, amidst the faint and vanishing appearances of things. And should he be deeply affected, or grievously afflicted, with such a scene?\nVI. He presses his general advice by warning them against the embarrassment of worldly cares: But I would have you without carefulness, Co1 7:32. Indeed to be careless is a fault; a wise concern about worldly interests is a duty; but to be careful, full of care, to have an anxious and perplexing care about them, is a sin. All that care which disquiets the mind, and distracts it in the worship of God, is evil; for God must be attended upon without distraction, Co1 7:35. The whole mind should be engaged when God is worshipped. The work ceases while it diverts to any thing else, or is hurried and drawn hither and thither by foreign affairs and concerns. Those who are engaged in divine worship should attend to this very thing, should make it their whole business. But how is this possible when the mind is swallowed up of the cares of this life? Note, It is the wisdom of a Christian so to order his outward affairs, and choose such a condition in life, as to be without distracting cares, that he may attend upon the Lord with a mind at leisure and disengaged. This is the general maxim by which the apostle would have Christians govern themselves. In the application of it Christian prudence must direct. That condition of life is best for every man which is best for his soul, and keeps him most clear of the cares and snares of the world. By this maxim the apostle solves the case put to him by the Corinthians, whether it were advisable to marry? To this he says, That, by reason of the present distress, and it may be in general, at that time, when Christians were married to infidels, and perhaps under a necessity of being so, if married at all: I say, in these circumstances, to continue unmarried would be the way to free themselves from any cares and incumbrances, and allow them more vacation for the service of God. Ordinarily, the less care we have about the world the more freedom we have for the service of God. Now the married state at that time (if not at all times) did bring most worldly care along with it. He that is married careth for the things of the world, that he may please his wife, Co1 7:33. And she that is married careth for the things of the world, how she may please her husband. But the unmarried man and woman mind the things of the Lord, that they may please the Lord, and be holy both in body and spirit, Co1 7:32, Co1 7:34. Not but the married person may be holy both in body and spirit too. Celibacy is not in itself a state of greater purity and sanctity than marriage; but the unmarried would be able to make religion more their business at that juncture, because they would have less distraction from worldly cares. Marriage is that condition of life that brings care along with it, though sometimes it brings more than at others. It is the constant care of those in that relation to please each other; though this is more difficult to do at some reasons, and in some cases, than in others. At that season, therefore, the apostle advises that those who were single should abstain from marriage, if they were under no necessity to change conditions. And, where the same reason is plain at other times, the rule is as fit to be observed. And the very same rule must determine persons for marriage where there is the same reason, that is, if in the unmarried state persons are likely to be more distracted in the service of God than if they were married, which is a case supposable in many respects. This is the general rule, which every one's discretion must apply to his own particular case; and by it should he endeavour to determine, whether it be for marriage or against. That condition of life should be chosen by the Christian in which it is most likely he will have the best helps, and the fewest hindrances, in the service of God and the affairs of his own salvation."
+    },
+    {
+      "src": "MHC",
+      "ref": "2 Timothy 3:10",
+      "note_ref": "MHC/55/3/10",
+      "cites": [
+        "2 Timothy 3:16"
+      ],
+      "text": "Here the apostle, to confirm Timothy in that way wherein he walked,\nI. Sets before him his own example, which Timothy had been an eye-witness of, having long attended Paul (Ti2 3:10): Thou hast fully known my doctrine. The more fully we know the doctrine of Christ and the apostles, the more closely we shall cleave to it; the reason why many sit loose to it is because they do not fully know it. Christ's apostles had no enemies but those who did not know them, or not know them fully; those who knew them best loved and honoured them the most. Now what is it that Timothy had so fully known in Paul? 1. The doctrine that he preached. Paul kept back nothing from his hearers, but declared to them the whole counsel of God (Act 20:27), so that if it were not their own fault they might fully know it. Timothy had a great advantage in being trained up under such a tutor, and being apprised of the doctrine he preached. 2. He had fully known his conversation: Thou hast fully know my doctrine, and manner of life; his manner of life was of a piece with his doctrine, and did not contradict it. He did not pull down by his living what he built up by his preaching. Those ministers are likely to do good, and leave lasting fruits of their labours, whose manner of life agrees with their doctrine; as, on the contrary, those cannot expect to profit the people at all that preach well and live ill. 3. Timothy fully knew what was the great thing that Paul had in view, both in his preaching and in his conversation: \"Thou hast known my purpose, what I drive at, how far it is from any worldly, carnal, secular design, and how sincerely I aim at the glory of God and the good of the souls of men.\" 4. Timothy fully knew Paul's good character, which he might gather from his doctrine, manner of life, and purpose; for he gave proofs of his faith (that is, of his integrity and fidelity, or his faith in Christ, his faith concerning another world, by which Paul lived), his long-suffering towards the churches to which he preached and over which he presided, his charity towards all men, and his patience. These were graces that Paul was eminent for, and Timothy knew it. 5. He knew that he had suffered ill for doing well (Ti2 3:11): \"Thou hast fully known the persecutions and afflictions that came unto me\" (he mentions those only which happened to him while Timothy was with him, at Antioch, at Iconium, at Lystra); \"and therefore let it be no surprise to thee if thou suffer hard things, it is no more than I have endured before.\" 6. He knew what care God had taken of him: Notwithstanding out of them all the Lord delivered me; as he never failed his cause, so his God never failed him. Thou hast fully known my afflictions. When we know the afflictions of good people but in part, they are a temptation to us to decline that cause which they suffer for; when we know only the hardships they undergo for Christ, we may be ready to say, \"We will renounce that cause that is likely to cost us so dear in the owning of it;\" but when we fully know the afflictions, not only how they suffer, but how they are supported and comforted under their sufferings, then, instead of being discouraged, we shall be animated by them, especially considering that we are told before that we must count upon such things (Ti2 3:12): All that will live godly in Christ Jesus shall suffer persecution: not always alike; at that time those who professed the faith of Christ were more exposed to persecution than at other times; but at all times, more or less, those who will live godly in Christ Jesus shall suffer persecution. They must expect to be despised, and that their religion will stand in the way of their preferment; those who will live godly must expect it, especially those who will live godly in Christ Jesus, that is, according to the strict rules of the Christian religion, those who will wear the livery and bear the name of the crucified Redeemer. All who will show their religion in their conversation, who will not only be godly, but live godly, let them expect persecution, especially when they are resolute in it. Observe, (1.) The apostle's life was very exemplary for three things: for his doctrine, which was according to the will of God; for his life, which was agreeable to his doctrine; and for his persecutions and sufferings. (2.) Though his life was a life of great usefulness, yet it was a life of great sufferings; and none, I believe, came nearer to their great Master for eminent services and great sufferings than Paul: he suffered almost in every place; the Holy Ghost witnessed that bonds and afflictions did abide him, Act 20:23. Here he mentions his persecutions and afflictions at Antioch, at Iconium, at Lystra, besides what he suffered elsewhere. (3.) The apostle mentions the Lord's delivering him out of them all, for Timothy's and our encouragement under sufferings. (4.) We have the practice and treatment of true Christians: they live godly in Jesus Christ - this is their practice; and they shall suffer persecution - this is the usage they must expect in this world.\nII. He warns Timothy of the fatal end of seducers, as a reason why he should stick closely to the truth as it is in Jesus: But evil men and seducers shall wax worse and worse, etc., Ti2 3:13. Observe, As good men, by the grace of God, grow better and better, so bad men, through the subtlety of Satan and the power of their own corruptions, grow worse and worse. The way of sin is down-hill; for such proceed from bad to worse, deceiving and being deceived. Those who deceive others do but deceive themselves; those who draw others into error run themselves into more and more mistakes, and they will find it so at last, to their cost.\nIII. He directs him to keep close to a good education, and particularly to what he had learned out of the holy scriptures (Ti2 3:14, Ti2 3:15): Continue thou in the things which thou hast learned. Note, It is not enough to learn that which is good, but we must continue in it, and persevere in it unto the end. Then are we Christ's disciples indeed, Joh 8:31. We should not be any more children, tossed to and fro, and carried about with every wind of doctrine, by the sleight of men and cunning craftiness, whereby they lie in wait to deceive, Eph 4:14. Be not carried about with divers and strange doctrines; for it is a good thing that the heart be established with grace, Heb 13:9. And for this reason we should continue in the things we have learned from the holy scriptures; not that we ought to continue in any errors and mistakes which we may have been led into, in the time of our childhood and youth (for these, upon an impartial enquiry and full conviction, we should forsake); but this makes nothing against our continuing in those things which the holy scriptures plainly assert, and which he that runs may read. If Timothy would adhere to the truth as he had been taught it, this would arm him against the snares and insinuations of seducers. Observe, Timothy must continue in the things which he had learned and had been assured of.\n1. It is a great happiness to know the certainty of the things wherein we have been instructed (Luk 1:4); not only to know what the truths are, but to know that they are of undoubted certainty. What we have learned we must labour to be more and more assured of, that, being grounded in the truth, we may be guarded against error, for certainty in religion is of great importance and advantage: Knowing, (1.) \"That thou hast had good teachers. Consider of whom thou hast learned them; not of evil men and seducers, but good men, who had themselves experienced the power of the truths they taught thee, and been ready to suffer for them, and thereby would give the fullest evidence of their belief of these truths.\" (2.) \"Knowing especially the firm foundation upon which thou hast built, namely, that of the scripture (Ti2 3:15): That from a child thou hast known the holy scriptures.\"\n2. Those who would acquaint themselves with the things of God, and be assured of them, must know the holy scriptures, for these are the summary of divine revelation.\n3. It is a great happiness to know the holy scriptures from our childhood; and children should betimes get the knowledge of the scriptures. The age of children is the learning age; and those who would get true learning must get it out of the scriptures.\n4. The scriptures we are to know are the holy scriptures; they come from the holy God, were delivered by holy men, contain holy precepts, treat of holy things, and were designed to make us holy and to lead us in the way of holiness to happiness; being called the holy scriptures, they are by this distinguished from profane writings of all sorts, and from those that only treat morality, and common justice and honesty, but do not meddle with holiness. If we would know the holy scriptures, we must read and search them daily, as the noble Bereans did, Act 17:11. They must not lie by us neglected, and seldom or never looked into. Now here observe,\n(1.) What is the excellency of the scripture. It is given by inspiration of God (Ti2 3:16), and therefore is his word. It is a divine revelation, which we may depend upon as infallibly true. The same Spirit that breathed reason into us breathes revelation among us: For the prophecy came not in old time by the will of man, but holy men spoke as they were moved or carried forth by the Holy Ghost, Pe2 1:21. The prophets and apostles did not speak from themselves, but what they received of the Lord that they delivered unto us. That the scripture was given by inspiration of God appears from the majesty of its style, - from the truth, purity, and sublimity, of the doctrines contained in it, - from the harmony of its several parts, - from its power and efficacy on the minds of multitudes that converse with it, - from the accomplishment of many prophecies relating to things beyond all human foresight, - and from the uncontrollable miracles that were wrought in proof of its divine original: God also bearing them witness, both with signs and wonders, and with divers miracles and gifts of the Holy Ghost, according to his own will, Heb 2:4.\n(2.) What use it will be of to us. [1.] It is able to make us wise to salvation; that is, it is a sure guide in our way to eternal life. Note, Those are wise indeed who are wise to salvation. The scriptures are able to make us truly wise, wise for our souls and another world. \"To make thee wise to salvation through faith.\" Observe, The scriptures will make us wise to salvation, if they be mixed with faith, and not otherwise, Heb 4:2. For, if we do not believe their truth and goodness, they will do us no good. [2.] It is profitable to us for all the purposes of the Christian life, for doctrine, for reproof, for correction, for instruction in righteousness. It answers all the ends of divine revelation. It instructs us in that which is true, reproves us for that which is amiss, directs us in that which is good. It is of use to all, for we all need to be instructed, corrected, and reproved: it is of special use to ministers, who are to give instruction, correction, and reproof; and whence can they fetch it better than from the scripture? [3.] That the man of God may be perfect, Ti2 3:17. The Christian, the minister, is the man of God. That which finishes a man of God in this world is the scripture. By it we are thoroughly furnished for every good work. There is that in the scripture which suits every case. Whatever duty we have to do, whatever service is required from us, we may find enough in the scriptures to furnish us for it.\n(3.) On the whole we here see, [1.] That the scripture has various uses, and answers divers ends and purposes: It is profitable for doctrine, for reproof, for correction of all errors in judgment and practice, and for instruction in righteousness. [2.] The scripture is a perfect rule of faith and practice, and was designed for the man of God, the minister as well as the Christian who is devoted to God, for it is profitable for doctrine, etc. [3.] If we consult the scripture, which was given by inspiration of God, and follow its directions, we shall be made men of God, perfect, and thoroughly furnished to every good work. [4.] There is no occasion for the writings of the philosopher, nor for rabbinical fables, nor popish legends, nor unwritten traditions, to make us perfect men of God, since the scripture answers all these ends and purposes. O that we may love our Bibles more, and keep closer to them than ever! and then shall we find the benefit and advantage designed thereby, and shall at last attain the happiness therein promised and assured to us.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Corinthians 7:10",
+      "note_ref": "TYN/46/7/10",
+      "cites": [
+        "1 Corinthians 7:12"
+      ],
+      "text": "7:10-11 Paul advises Christian couples contemplating divorce. • a command that comes . . . from the Lord: This doesn’t mean that Paul’s other instructions (see 7:12, 25, 40) have less authority. It means this particular counsel is grounded in known sayings of Jesus (see Matt 5:32; 19:9; Mark 10:11-12; Luke 16:18). • But if she does leave him: Paul acknowledges that some couples have great difficulty in living together, but even in that case they must honor their marriage vows to be faithful to their spouse alone (see 1 Cor 7:27; Rom 7:2)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Corinthians 7:12",
+      "note_ref": "TYN/46/7/12",
+      "cites": [
+        "1 Corinthians 7:12"
+      ],
+      "text": "7:12-13 Paul now turns to the case of a Christian married to an unbeliever. • I do not have a direct command from the Lord: Paul knew of no saying of Jesus that was directly applicable, but his counsel is consistent: Believers must be faithful and honor their marriage commitment."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Corinthians 7:14",
+      "note_ref": "TYN/46/7/14",
+      "cites": [
+        "1 Corinthians 7:12"
+      ],
+      "text": "7:14 By remaining committed to the marriage, the Christian brings holiness to the unbelieving spouse. Such holiness extends to the children, who also benefit from the holiness of a Christian parent (cp. Mal 2:15)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Corinthians 7:25",
+      "note_ref": "TYN/46/7/25",
+      "cites": [
+        "1 Corinthians 7:25"
+      ],
+      "text": "7:25-35 Paul gives three reasons why it is generally preferable for single people to remain unmarried. First, single people have fewer everyday problems than married people. Second, because the end is near, Christians ought not let marriage and the things of the world be their dominant concerns. Their primary concern should be Christ and eternity. Third, because marriage brings earthly responsibilities and divided interests, those who choose to remain single can devote their lives more fully to serving Christ."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Timothy 3:14",
+      "note_ref": "TYN/55/3/14",
+      "cites": [
+        "2 Timothy 3:16"
+      ],
+      "text": "3:14-15 from childhood: Timothy’s Jewish grandmother and mother, Lois and Eunice (see Acts 16:1-3), provided his education in the Old Testament Scriptures (see 2 Tim 1:5), and their lives reinforced their teaching. • The Old Testament Scriptures give the wisdom to receive . . . Christ Jesus. In turn, Jesus Christ is needed to understand the Old Testament Scriptures fully."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Timothy 3:16",
+      "note_ref": "TYN/55/3/16",
+      "cites": [
+        "2 Timothy 3:16"
+      ],
+      "text": "3:16-17 These verses elaborate on 3:15 by explaining Scripture’s effectiveness, its source, and the ways that it gives wisdom to live out our salvation. Paul was speaking of the Hebrew Scriptures (the Old Testament), but his statement can now apply to all Scripture, including the New Testament (see, e.g., 2 Pet 3:15-16).\n3:16 The fact that Scripture is inspired by God (literally God-breathed, breathed out by God’s own speech; see also Heb 4:12-13; 2 Pet 1:20-21) does not negate the active involvement of the human authors. But it does affirm that God is fully responsible for his word. Scripture is true, reliable, authoritative, permanent, and powerful because it comes from God himself. Its message is coherent, and it is consistent in its testimony about Jesus Christ (see Luke 24:25-27, 44; John 5:39-40; Acts 3:24; 1 Cor 15:3-4). Thus it has the power to bring salvation and elicit faith. It must not be abused, as the false teachers had been doing (2 Tim 4:2-4; 1 Tim 1:4-7; cp. 2 Pet 3:16), but must be taught properly (2 Tim 2:2, 15). • As a consequence of inspiration, all Scripture is useful. Both the Old Testament and the New Testament are together our guide and teacher in life."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Timothy 3:17",
+      "note_ref": "TYN/55/3/17",
+      "cites": [
+        "2 Timothy 3:16"
+      ],
+      "text": "3:17 Paul makes it clear that salvation (3:15) results in godliness (see Gal 1:4; 5:16-26; Eph 2:8-10)."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Corinthians 7:12",
+      "note_ref": "GNV/46/7/12",
+      "cites": [
+        "1 Corinthians 7:12"
+      ],
+      "text": "Eighthly, he affirmeth that those marriages which are already contracted between a faithful and an unfaithful or infidel, are firm, so that the faithful may not forsake the unfaithful."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Corinthians 7:24",
+      "note_ref": "GNV/46/7/24",
+      "cites": [
+        "1 Corinthians 7:25"
+      ],
+      "text": "So purely and from the heart, that your doings may be approved before God.\nA repetition of the general doctrine."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Corinthians 7:25",
+      "note_ref": "GNV/46/7/25",
+      "cites": [
+        "1 Corinthians 7:25"
+      ],
+      "text": "It is I that speak this which I am minded to speak: and the truth is, I am a man, but yet worthy credit, for I have obtained of the Lord to be such an one.\nHe enjoineth virginity to no man, yet he persuadeth and praiseth it for another respect, to wit, both for the necessity of the present time, because the faithful could scarce abide in any place, and use the commodities of this present life, and therefore such as were not troubled with families, might be the readier: and also for the cares of this life, which marriage draweth with it necessity, so that they cannot but have their minds distracteth: and this hath place in women especially.\nThe circumstances considered, this I counsel you."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Corinthians 7:26",
+      "note_ref": "GNV/46/7/26",
+      "cites": [
+        "1 Corinthians 7:25"
+      ],
+      "text": "To remain a virgin.\nFor the necessity which the Saints are daily subject unto, who are continually tossed up and down, so that their estate may seem most unfit for marriage, were it not that the weakness of the flesh enforced them to it."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Timothy 3:16",
+      "note_ref": "GNV/55/3/16",
+      "cites": [
+        "2 Timothy 3:16"
+      ],
+      "text": "The eighth admonition, which is most precious: A Pastor must be wise by the word of God only: wherein we have perfectly delivered unto us, whatsoever pertaineth either to discern, know and establish true opinions, and to confute false, and furthermore, to correct evil manners, and to frame good."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Timothy 3:17",
+      "note_ref": "GNV/55/3/17",
+      "cites": [
+        "2 Timothy 3:16"
+      ],
+      "text": "The Prophets and expounders of God’s will, are properly and peculiarly called, Men of God."
+    }
+  ]
+}

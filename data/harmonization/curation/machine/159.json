@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 159,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators dissolve the tension by reading Qoheleth's 'walk in the ways of thy heart' as irony or as a call qualified by judgment, so it never licenses the self-trusting heart Numbers and Proverbs condemn.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Thomas Krüger presses the sharpest reading, calling Ecclesiastes 11:9 a 'provocative allusion' to Numbers 15:39 that blatantly inverts and contradicts the older command.",
+      "skeptic": {
+        "name": "Thomas Krüger",
+        "work": "Qoheleth: A Commentary (Hermeneia)",
+        "year": "2004",
+        "attribution": "Thomas Krüger, Qoheleth: A Commentary, Hermeneia (Fortress Press, 2004), 196"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Ecclesiastes 11:9",
+      "excerpt_text": "Rejoice—not advice, but warning. So Kg1 22:15, is irony …",
+      "full_note_ref": "JFB/21/11/9",
+      "on_tension_rationale": "Reads the 'follow your heart' verse as a warning/irony rather than a command, removing the conflict with Numbers 15:39 and Proverbs 28:26.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Ecclesiastes 11:9",
+      "excerpt_text": "But this moralizing of the text is superfluous, since the call to the youthful enjoyment of life is accompanied with the nota bene: but know that God will bring thee to an account for all this; and thus it excludes sinful sensual desire.",
+      "full_note_ref": "KD/21/11/9",
+      "on_tension_rationale": "K&D explicitly note the Num 15:39-driven negative gloss is unnecessary because the judgment clause already qualifies the heart-following, so it excludes the sinful desire Numbers forbids.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Numbers 15:37",
+      "excerpt_text": "Yet it may extend also to the whole conversation, for nothing is more contrary to God's honour, and our own true interest, than to walk in the way of our heart and in the sight of our eyes; for the imagination of the heart is evil, and so is the lust of the eyes.",
+      "full_note_ref": "MHC/4/15/37",
+      "on_tension_rationale": "Henry, on the Numbers command, frames why following the unrenewed heart and eyes is condemned, distinguishing it from Qoheleth's qualified call and supporting the both-true reading.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Numbers 15:37-41",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this passage directly, reading the Numbers command against walking 'in the way of our heart and in the sight of our eyes' as compatible with Ecclesiastes' qualified, judgment-bounded call to rejoice."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Ecclesiastes_11.9.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Ecclesiastes 11:9 — Should a young man follow his own way or God's way?",
+        "note": "Live apologetic treatment of this exact Ecclesiastes 11:9 vs Numbers 15:39 tension (irony reading + judgment-qualified reading)."
+      }
+    }
+  }
+}

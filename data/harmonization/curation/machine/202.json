@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 202,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Joshua's flat \"he will not forgive\" as aimed at persistent idolaters and the self-justified, while God pardons all who seek and confess.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells catalogs these texts under \"Does God forgive sins?\", arraying the pardoning verses as \"Yes,\" Joshua 24:19 as \"No,\" and Matthew 6:15 as \"Only if you forgive others\" — three answers he holds cannot all be true.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Does God forgive sins?\" (contra/forgive.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), \"Does God forgive sins?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Joshua 24:19",
+      "excerpt_text": "he will not forgive your transgressions nor your sins; even the transgressions and sins of such that forsake the worship and service of him, and fall into idolatry, or who seek for justification by their own services, these are both abominable to him; otherwise he is a God pardoning the iniquity, transgression, and sin, of all those who seek unto him and serve him, confess their sins, and renounce their own righteousness …",
+      "full_note_ref": "GILL/6/24/19",
+      "on_tension_rationale": "Directly harmonizes Joshua 24:19's 'he will not forgive' with the pardoning texts (2 Chr 7:14; Jer 31:34; 1 John 1:9) by restricting the refusal to obstinate idolaters / the self-justified while affirming God pardons all who seek and confess. Strongest single reconciliation on the row; parity-capped to one because the discrepancy pole carries one named-skeptic connective.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Joshua 24:19",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, reconciling Joshua's 'he will not forgive' with the pardoning texts by distinguishing whose sins are refused (obstinate idolaters / the self-justified) from those God pardons on repentance. Used as the row's PD harmonization anchor because Haley's specific coverage of this passage could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No live, on-topic page treating this specific contradiction could be confirmed on an allowlisted domain (gotquestions.org, carm.org, defendinginerrancy.com); link omitted rather than guessed."
+      }
+    }
+  }
+}

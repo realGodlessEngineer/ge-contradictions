@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 43,
+  "question": "How long was the ark afloat?",
+  "summary": "Genesis 8:4 has the ark resting on Ararat in the seventh month, while Genesis 8:5 says the mountaintops only became visible in the tenth month. An ark cannot be resting on a mountain three months before the mountain pokes above the water.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders invoke Lightfoot's draft-of-the-ark calculation: the keel grounded on a submerged peak while the visible tops were still about eleven cubits underwater.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The objection is pressed by the Skeptic's Annotated Bible, which argues the ark cannot rest on a mountain in the seventh month if the mountaintops were not yet visible until the tenth.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible, \"How long was the ark afloat?\"",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (\"How long was the ark afloat?\", skepticsannotatedbible.com/contra/float.html)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Genesis 8:4",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke applies Lightfoot's draft-of-the-ark calculation directly to this passage, explaining how the ark could rest in the seventh month while the mountaintops were not seen until the tenth: the vessel drew about eleven cubits, so its keel grounded on a submerged peak before the tops cleared the water."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted live page (gotquestions.org / carm.org / defendinginerrancy.com) was found that actually reconciles the Gen 8:4-vs-8:5 timing; the GotQuestions Noah-on-the-ark page states both dates but offers no reconciliation, so no link is supplied."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "43#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Genesis 8:4",
+      "full_note_ref": "CLARKE/1/8/4",
+      "excerpt_text": "On the 16th of Sivan they had abated but four cubits; and yet on the next day the ark rested on one of the hills, when the waters must have been as yet eleven cubits above it. Thus it appears that the ark drew eleven cubits of water.",
+      "on_tension_rationale": "Directly resolves the 8:4-vs-8:5 timing: the ark could 'rest' (keel grounded) while the waters — and therefore the visible tops — were still about eleven cubits above it, so resting precedes seeing without contradiction.",
+      "source_note_text": "The mountains of Ararat - That Ararat was a mountain of Armenia is almost universally agreed. What is commonly thought to be the Ararat of the Scriptures, has been visited by many travelers, and on it there are several monasteries. For a long time the world has been amused with reports that the remains of the ark were still visible there; but Mr. Tournefort, a famous French naturalist, who was on the spot, assures us that nothing of the kind is there to be seen. As there is a great chain of mountains which are called by this name, it is impossible to determine on what part of them the ark rested; but the highest part, called by some the finger mountain, has been fixed on as the most likely place. These things we must leave, and they are certainly of very little consequence.\nFrom the circumstance of the resting of the ark on the 17th of the seventh month, Dr. Lightfoot draws this curious conclusion: That the ark drew exactly eleven cubits of water. On the first day of the month Ab the mountain tops were first seen, and then the waters had fallen fifteen cubits; for so high had they prevailed above the tops of the mountains. This decrease in the waters took up sixty days, namely, from the first of Sivan; so that they appear to have abated in the proportion of one cubit in four days. On the 16th of Sivan they had abated but four cubits; and yet on the next day the ark rested on one of the hills, when the waters must have been as yet eleven cubits above it. Thus it appears that the ark drew eleven cubits of water."
+    }
+  ]
+}

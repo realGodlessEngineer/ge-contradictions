@@ -1,0 +1,896 @@
+{
+  "contradiction_id": 141,
+  "question": "Who may offer sacrifices to God?",
+  "summary": "The Priestly legislation in Numbers 18 and Leviticus 17 restricts sacrifice to Aaronide priests at the tabernacle door, threatening death for any layperson who slaughters away from that one altar. But 1 Samuel happily reports Samuel — an Ephraimite, not a Levite — offering a burnt offering at Mizpah, and YHWH answers him without complaint.",
+  "consensus": "genuine_contradiction",
+  "consensus_id": 1,
+  "category": "Law, Morality & Ethics",
+  "contradiction_type": "ethical_legal",
+  "testament_scope": "OT_internal",
+  "books_in_tension": "Leviticus, Numbers, 1 Samuel",
+  "refs_raw": [
+    "Numbers 18:6-8",
+    "Leviticus 17:1-5",
+    "Ephrathite",
+    "1 Samuel 1:1-2, 20",
+    "1 Samuel 7:7-9"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Numbers 18:6-8",
+      "book": "Numbers",
+      "bolls": 4,
+      "ranges": [
+        [
+          18,
+          6,
+          8
+        ]
+      ]
+    },
+    {
+      "raw": "Leviticus 17:1-5",
+      "book": "Leviticus",
+      "bolls": 3,
+      "ranges": [
+        [
+          17,
+          1,
+          5
+        ]
+      ]
+    },
+    {
+      "raw": "1 Samuel 1:1-2, 20",
+      "book": "1 Samuel",
+      "bolls": 9,
+      "ranges": [
+        [
+          1,
+          1,
+          2
+        ],
+        [
+          1,
+          20,
+          20
+        ]
+      ]
+    },
+    {
+      "raw": "1 Samuel 7:7-9",
+      "book": "1 Samuel",
+      "bolls": 9,
+      "ranges": [
+        [
+          7,
+          7,
+          9
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [
+    {
+      "contradiction_id": 141,
+      "reference": "Ephrathite",
+      "reason": "no locator"
+    }
+  ],
+  "note_count": 83,
+  "notes_raw_count": 110,
+  "notes_dropped": 27,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Leviticus 17:1",
+      "note_ref": "GILL/3/17/1",
+      "cites": [
+        "Leviticus 17:1-5"
+      ],
+      "text": "And the Lord spake unto Moses,.... After he had given him the law about the day of atonement, and the rites belonging to it:\nsaying; as follows."
+    },
+    {
+      "src": "GILL",
+      "ref": "Leviticus 17:2",
+      "note_ref": "GILL/3/17/2",
+      "cites": [
+        "Leviticus 17:1-5"
+      ],
+      "text": "Speak unto Aaron, and unto his sons,.... Who were now constituted priests, the business of whose office it was to offer the sacrifices of the people, ordinary and extraordinary:\nand to all the children of Israel; who were all under obligation to sacrifices at certain times; under whom may be comprehended the Levites, who were not priests, and the strangers that sojourned in Israel, for these are concerned in the following law:\nand say unto them; which is spoken to Moses, who was to say what follows to Aaron, and by him to his sons, and by his sons to the people of Israel, and by them to the strangers:\nthis is the thing which the Lord hath commanded; ordered to be observed as his will and pleasure by everyone of them:\nsaying; namely, what follows."
+    },
+    {
+      "src": "GILL",
+      "ref": "Leviticus 17:3",
+      "note_ref": "GILL/3/17/3",
+      "cites": [
+        "Leviticus 17:1-5"
+      ],
+      "text": "What man soever there be of the house of Israel,.... Whether high or low, rich or poor:\nthat killeth an ox, or lamb, or goat in the camp; which are particularly mentioned, as Gersom observes, because of these the offerings were; for the law respects the killing of them not for common food, but for sacrifice, as appears from the following verses; for this law was to be a statute for ever, whereas in that sense it was not, and could not be observed, especially when they were come into the land of Canaan; nor would it have been decent or convenient to have brought such vast numbers of cattle every day to be killed at the door of the tabernacle, and must have made the service of the priests extremely laborious to kill them, or even to see that they were killed aright:\nor that killeth it out of the camp; which furnishes out another reason against the same notion, since it was not usual to kill for common food without the camp, but in their own tents within it; whereas to sacrifice without the camp was commonly done."
+    },
+    {
+      "src": "GILL",
+      "ref": "Leviticus 17:4",
+      "note_ref": "GILL/3/17/4",
+      "cites": [
+        "Leviticus 17:1-5"
+      ],
+      "text": "And bringeth it not unto the door of the tabernacle of the congregation,.... Near to which stood the altar of burnt offering to offer it upon, and the priests ready for such service: now the Lord would have every sacrifice brought thither\nto offer an offering to the Lord before the tabernacle of the Lord; that it might be offered publicly, and be known to be offered to the Lord, and not to idols or devils, as in Lev 17:7; and so to prevent private idolatry, and private persons from intruding into the priest's office; and this was typical of the acceptance of all spiritual sacrifices in the church of God, through Christ the minister of the tabernacle, which God pitched, and not man; and who is the door into the house of God, where such sacrifices are publicly to be offered up:\nblood shall be imputed unto that man, he hath shed blood; which though it was only the blood of a beast, yet being shed as a sacrifice for man, and typical of the blood of Christ to be shed for man, was sacred and precious to God; and therefore he resented the shedding of it to any but himself, or by any person, or in any place but by his appointment; such a man was to be punished as a murderer, idolatry being equally heinous in the sight of God as murder, see Isa 66:3,\nand that man shall be cut off from among his people; not merely excommunicated from the church of God, deprived of the privileges of his house, but even put to death; for such a man was guilty of blood, that is, of death, and therefore to be put to death either by the hand of the civil magistrate, if his case was known and came under their cognizance, or by the immediate hand of God by a premature death, which seems to be chiefly intended; also see Lev 17:10."
+    },
+    {
+      "src": "GILL",
+      "ref": "Numbers 18:5",
+      "note_ref": "GILL/4/18/5",
+      "cites": [
+        "Numbers 18:6-8"
+      ],
+      "text": "And ye shall keep the charge of the sanctuary,.... That is, the priests, Aaron and his sons; the high priest was to keep the charge of the most holy place particularly, and do what was to be done in that on the day of atonement; and the common priests to keep the charge of the holy place, and do everything relating to the altar of incense, the shewbread table, and candlestick:\nand the charge of the altar; of burnt offering, which stood in the court of the tabernacle:\nthat there be no wrath any more upon the children of Israel: as had been upon Korah and his company, Num 16:32, and as afterwards came on Uzziah, Ch2 26:19."
+    },
+    {
+      "src": "GILL",
+      "ref": "Numbers 18:6",
+      "note_ref": "GILL/4/18/6",
+      "cites": [
+        "Numbers 18:6-8"
+      ],
+      "text": "And I, behold, I have taken your brethren the Levites, from among the children of Israel,.... See Gill on Num 3:12; where the same is said, only they, are here called the brethren of the priests for the reason given, Num 18:2,\nto you they are given as a gift for the Lord, to do the service of the tabernacle of the congregation; See Gill on Num 3:7, Num 3:8, and See Gill on Num 3:9."
+    },
+    {
+      "src": "GILL",
+      "ref": "Numbers 18:7",
+      "note_ref": "GILL/4/18/7",
+      "cites": [
+        "Numbers 18:6-8"
+      ],
+      "text": "Therefore thou and thy sons with thee shall keep your priest's office,.... Observe all the duties of it, and keep out others from intruding into it:\nfor everything of the altar: both of incense and of burnt offering with respect to burning incense on the one, and offering sacrifices on the other; both were to be done by priests, and by no other:\nand within the vail; in the most holy place, where the high priest entered but once a year, and he only with incense, and the blood of sacrifices, see Heb 9:7,\nand ye shall serve; do all the business that is to be done at either altar, whether in the court, or in the holy place, and whatsoever is to be done in the most holy place within the vail:\nI have given your priest's office unto you as a service of gift; it was not what they had taken to themselves of their own will, or had thrust themselves into, but what the Lord had called them to, and had freely invested them with, see Heb 5:4,\nand the stranger that cometh nigh shall be put to death; any common person, as the Targums of Onkelos and Jonathan; any Israelite, one that is a stranger from the priests, though a Levite, as Aben Ezra; such an one might not come either to the altar of burnt offering to offer any sacrifice upon it, or the altar of incense, to burn incense on that, or trim the lamps, or put the shewbread in order, or to do anything peculiar to the priest's office."
+    },
+    {
+      "src": "GILL",
+      "ref": "Numbers 18:8",
+      "note_ref": "GILL/4/18/8",
+      "cites": [
+        "Numbers 18:6-8"
+      ],
+      "text": "And the Lord spake unto Aaron,.... Having pointed out to him the duty of his office, he now informs him of the perquisites of it; or having told him what was his work, now what his wages, or what was his service, and now his maintenance:\nbehold, I also have given thee the charge of my heave offerings, of all the hallowed things of the children of Israel; such as the heave shoulder and wave breast, and firstfruits, and all other holy things in general, such as were the most holy things; as in Num 18:9; and the lighter holy things, as the Jews call them, Num 18:11; the charge of these was given to keep for themselves, and for their families:\nunto thee have I given them by reason of the anointing: because of his office as a priest, to which he was consecrated by anointing:\nand to thy sons by an ordinance for ever; see Lev 7:34."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 1:1",
+      "note_ref": "GILL/9/1/1",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "Now there was a man of Ramathaimzophim, of Mount Ephraim,.... Ramathaim is a word of the dual number, and signifies two Ramahs; the city consisted of two parts, being built perhaps on two hills, and were called Zophim; because, as the Rabbins say, they looked one to another; or rather, because situated on eminences, there were watchtowers in them, where watchmen were placed; or because they were inhabited by prophets, who were sometimes called watchmen, Eze 3:17 and here is thought to be a school of the prophets, see Sa1 19:19 and which seems to be countenanced by the Targum, in which the words are paraphrased thus, \"and there was one\" man of Ramatha, of the disciples of the prophets; or, as others think, the sense is this, this man was one of the Ramathites, the inhabitants of Ramah, and of the family of Zuph, or the Zuphites, which gave the name to the land of Zuph, and the grand ancestor of Elkanah is in this verse called Zuph, see Sa1 9:5. According to Jerom (e), this is the same with Arimathaea, of which Joseph was, Mat 27:57 for thus he writes,\"Armatha Sophim, the city of Helcanah and Samuel, in the Thamnitic region near Diospolis (or Lydda), from whence was Joseph, who in the Gospels is said to be of Arimathaea;''but Reland (f) thinks it cannot be the same that was about Lydda, which was all a champaign country; whereas this was in the mountains of Ephraim, which must be sought to the north of Jerusalem, and not the west, and so it follows:\nof Mount Ephraim: which is added to distinguish it from other Ramahs in several tribes, as in Benjamin, Naphtali, &c. though this may refer not to the situation of Ramathaim, but to the country of this man, who was originally of Mount Ephraim, as was the Levite in Jdg 19:1 who was the cause of much evil to Israel, as this was of great good, as Kimchi observes:\nand his name was Elkanah; which signifies \"God hath possessed\"; that is, possessed him, or he was in possession of God; he had an ancestor of the same name, Ch1 6:23. This man was a Levite, one of the Kohathites, and a descendant of Korah; so that the famous prophet Samuel was of the sons of Korah:\nthe son of Jeroham, the son of Elihu, the son of Tohu, the son of Zuph; the three last of these names are somewhat differently read in Ch1 6:26, where they are Eliab, Nahath, Zophai; and in Ch1 6:34. Eliel, Toah, Zuph:\nan Ephrathite; which appellation is to be connected, according to Kimchi, not with Elkanah, but with Zuph; though neither of them were so called from Bethlehemjudah, the inhabitants of which were indeed called Ephrathites from Ephratah, another name of it; so Elimelech, and his sons Mahlon and Chilion, being of that city, were so called, Rut 1:2 not from their being of the tribe of Ephraim, as Jeroboam of that tribe is called an Ephrathite, Kg1 11:26, see Jdg 12:5 for these were Levites, the descendants of Kohath, in the line of Korah; but because they sojourned in Mount Ephraim, or dwelt there, as Elkanah did; and it is well known that the Kohathites had cities given them in the tribe of Ephraim, Jos 21:5.\n(e) De loc. Heb. fol. 88. K. (f) Palestin. Illustrat. tom. 2. p. 581."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 1:2",
+      "note_ref": "GILL/9/1/2",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "And he had two wives,.... Which, though connived at in those times, was contrary to the original law of marriage; and for which, though a good man, he was chastised, and had a great deal of vexation and trouble, the two wives not agreeing with each other; perhaps not having children by the one so soon as he hoped and wished for, he took another:\nthe name of the one was Hannah, and the name of the other Peninnah; the first name signifies \"grace\" or \"gracious\", and she was a woman who had the grace of God, and very probably was also very comely, beautiful, and acceptable, as she was in the sight of her husband; the other signifies a cornered gem, a precious stone or jewel, as the pearl, ruby, amethyst, &c. Very likely Hannah was his first wife, and having no children by her, he took Peninnah, who proved to be a rough diamond: and Peninnah had children, but Hannah had no children; how many Peninnah had is not said, perhaps ten; see Sa1 1:8 and that Hannah had none was not because she was naturally barren, but because the Lord had shut up her womb, or restrained her from bearing children, to put her upon praying for one, and that the birth of Samuel might be the more remarkable: see Sa1 1:5."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 1:3",
+      "note_ref": "GILL/9/1/3",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "This man went up out of his city yearly,.... From year to year; or, as the Targum, from the time of the solemn appointed feast to the solemn appointed feast, from one to another; there were three of them in the year, at which all the males in Israel were to appear at the tabernacle; and being a Levite, this man was the more careful to observe this rule. He is said to \"go up\" out of his city, which was Ramathaim or Ramah; for though it was built on an eminence, from whence it had its name, yet Shiloh, whither he went, was higher; that being, as Adrichomius says (a), on the highest mountain of all round about Jerusalem, and the highest of all the mountains of the holy land. So that as he first went down the hill from Ramah, he went up an high ascent to Shiloh, which is the place he went up to as follows:\nto worship and to sacrifice unto the Lord of hosts in Shiloh; where the tabernacle was, the place of worship, and the altar of burnt offerings, on which sacrifices were offered. This place, according to Bunting (b), was twelve miles from Ramah, though others say it was not more than seven miles from it; hither he went to worship, or bow before the Lord; to pray unto him, as it is commonly interpreted; and being put before sacrifice, is said to be preferable to that, and more acceptable to God, and more eligible to be done in the tabernacle or temple than at home; see Luk 18:10 and though he is said to go up to sacrifice, it is not to be understood of his performing it himself, but by others, by the priest; for he himself was a Levite and could not offer sacrifices. This is the first time that mention is made of this title of Jehovah, Lord of hosts, of all the hosts and armies in heaven and in earth, the Lord of Sabaoth, as in Jam 5:4 from an \"host\", or army; and from hence the Heathens called some of their deities by the name of Sabazius, as Jupiter Sabazius (c); and the Phrygians and Thracians used to call Bacchus Sabazius, and other Grecians following them did the same (d):\nand the two sons of Eli, Hophni and Phinehas the priests of the Lord, were there; Eli was the next judge of Israel after Samson, and who also was the high priest, as is generally supposed; but when and how the high priesthood came into his family is nowhere said, who was a descendant of Ithamar, the younger son of Aaron, in whose line it continued to the time of Solomon; and Josephus (e) places three between Phinehas and Eli, who were all of the line of Eleazar, whom he calls Abiezer, Bouci, and Ozis; but their Scripture names are Abishua, Bukki, and Uzzi, Ch1 6:50. And according to him, after Uzzi came Eli to be high priest, and therefore must be the first of the line of Ithamar that was in that office. His two sons are mentioned as officiating as priests in Shiloh, at the time Elkanah used to go yearly thither to worship and sacrifice; who were very wicked men, as appears by an after account of them; and it is generally thought that this is observed here, to show that the wickedness of these priests did not hinder this good man from doing his duty; nor did he make use of it as an excuse for not attending the worship of the sanctuary.\n(a) Theatrum Terrae Sanct. p. 30. So Sandys's Travels, l. 3. p. 157. (b) Travels of the Patriarchs, &c. p. 122. (c) Valer. Maxim. l. 1. c. 3. Vid. D. Herbert de Cherbury de Relig. Gent. c. 3. p. 22. (d) Diodor. Sicul. Bibliothec. l. 3. p. 212. Harpocration in voce Lucian. Concil. deor. sect. 4. Cicero de legibus. l. 2. Aristophan vespae, v. 9, 10. Aves, 582. & Scholia in ib. Lysistrate, p. 860. & Scholia in ib. (e) Antiqu. l. 5. c. 11. sect. 5."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 1:20",
+      "note_ref": "GILL/9/1/20",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "Wherefore it came to pass, when the time was come about, after Hannah had conceived,.... Or, \"at the revolutions of days\" (b); at the end of a year, of a complete year, as Ben Melech, from their return from Shiloh; for it might be some time after their return that she conceived; or rather the sense is, that at nine months' end, the usual time of a woman's going with child from her conception, which is the date here given:\nthat she bare a son: was brought to bed of a son:\nand called his name Samuel, saying, because I have asked him of the Lord; one would think rather his name should have been Saul, for the reason given; but, as Ben Gersom observes, givers of names are not always grammatically strict and critical in them, or in the etymology of them, as in the names of Reuben and Noah, in which he instances; and this may be the rather overlooked in a woman, than in a man of learning. According to Kimchi, it is as if it was Saulmeel; that is, \"asked of God\", and by contraction Samuel; but Hillerus (c) gives a better account of this name, and takes it to be composed of Saul-mul-el, \"asked before God\", \"in the sight of God\", \"before the ark of God\". This name Hannah gave her son (for sometimes the father, and sometimes the mother, gave the name) in memory of the wonderful favour and goodness of God in granting her request; and to impress her own mind with a sense of the obligation she lay under, to perform her vow, and to engage her son the more readily to give up himself to the service of God, when he reflected on his name, and the reason of it.\n(b) \"in revolutionibus dierum\", Montanus; so Piscator. (c) Onomastic. Sacr. p. 418, 419, 487."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 7:6",
+      "note_ref": "GILL/9/7/6",
+      "cites": [
+        "1 Samuel 7:7-9"
+      ],
+      "text": "And they gathered together to Mizpeh,.... Even all Israel, at least the heads of the people, and representatives of them:\nand drew water, and poured it out before the Lord; drew it from some fountain near at hand, and poured it out as in the presence of God, who was where his people were met together. Jerom (k) relates it as tradition of the Jews, that curses were cast into this water, as in the water of jealousy, and that idolaters were tried by it; and that whatever idolater, who denied he worshipped idols, and tasted of it, his lips so stuck together that they could not be separated, and by this means was known and put to death; and therefore it is said Samuel judged now at this place: but it should be observed, this water was not drank, but poured out; and that as a token of their humiliation, as Jarchi, that they were before the Lord, as water poured out; and of the sincerity of their repentance, as the Targum, which is,\"they poured out their heart in repentance, as water;''and of the atonement and expiation of their sins, which passed away as water to be remembered no more, as Kimchi, or rather signifying hereby that they thoroughly renounced idolatry, that nothing of it should remain; as water entirely poured out, there remains not so much as any smell of it in the cask, as does of honey or oil, or such kind of liquor; for what a learned writer (l) says, that this was in token of joy, like that at the feast of tabernacles, when they drew water out of the fountain of Siloah, seems not so agreeable, since this was a day of humiliation, fasting, and prayer, as follows:\nand fasted on that day, and said there, we have sinned against the Lord; Samuel prayed in public for them, with whom they joined; and they fasted in a literal sense, abstaining from food, and made a confession of their sins; this was the work of that day:\nand Samuel judged the children of Israel in Mizpeh; not that he now began to judge them, but went on in a more public and vigorous manner to judge them; he sat, and heard, and tried causes that came before him; explained the laws of God to them, and enforced the obedience of them; reformed abuses that were among them, and punished idolaters.\n(k) Trad. Heb. in lib. Reg. fol. 75. F. (l) L'Empereur, annot. in Misn. Middot, c. 2. sect. 5. No. 7."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 7:7",
+      "note_ref": "GILL/9/7/7",
+      "cites": [
+        "1 Samuel 7:7-9"
+      ],
+      "text": "And when the Philistines heard that the children of Israel were gathered together to Mizpeh,.... Not knowing it was upon a religious account; but supposing they met to form schemes and measures to cast off their yoke, and deliver themselves out of their hands; and were preparing to take up arms, and fall upon them:\nthe lords of the Philistines went up against Israel; with forces out of their several principalities united to fight with them; judging it advisable to lose no time, but attack them before they were well prepared and provided to defend themselves:\nand when the children of Israel heard it, they were afraid of the Philistines; because they were unarmed, and not at all prepared for war, and having no expectation of it."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 7:8",
+      "note_ref": "GILL/9/7/8",
+      "cites": [
+        "1 Samuel 7:7-9"
+      ],
+      "text": "And the children of Israel said to Samuel,.... To whom they applied, not as the general of their forces, but as the prophet of the Lord; believing his prayers for them would be of more avail to them than an army of men ever so numerous, or so well accoutred:\ncease not to cry unto the Lord our God for us: he had been praying for them that day, and they desired he would continue praying for them, well knowing that the effectual fervent prayer of a righteous man avails much; they knew their salvation was of the Lord, and that he only could save them, and that he must be sought unto for it; and as Samuel had an interest in him, they beg he would continue to make use of it on their behalf; in which they expressed their trust in God, their regard to means, the duty of prayer, and the high esteem they had of the prophet of the Lord, whom they entreat to pray for them:\nthat he will save us out of the hands of the Philistines; who were now coming up against them, and who had for a long time tyrannised over them."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 7:9",
+      "note_ref": "GILL/9/7/9",
+      "cites": [
+        "1 Samuel 7:7-9"
+      ],
+      "text": "And Samuel took a sucking lamb,.... Which it might be, and yet more than eight days old, for under that it might not be sacrificed, Exo 22:30.\nand offered it for a burnt offering wholly unto the Lord; the whole of it was burnt, skin and all, whereas the skin was the priest's in other burnt offerings; and this is remarked (m) as one of the three things in which it differed from other offerings; the word being feminine, the Jews gather from hence, as Jarchi notes, that females might be offered at a private altar:\nand Samuel cried unto the Lord for Israel; not only offered a sacrifice for them, but prayed for them:\nand the Lord heard him; and answered him, either by causing fire to come down on the sacrifice, by which it was consumed, or by the voice of thunder, which frightened and discomfited the Philistines; and the event of things manifestly showed it.\n(m) Midrash Schemuel apud Abarbinel in loc."
+    },
+    {
+      "src": "JFB",
+      "ref": "Leviticus 17:5",
+      "note_ref": "JFB/3/17/5",
+      "cites": [
+        "Leviticus 17:1-5"
+      ],
+      "text": "To the end that the children of Israel may bring their sacrifices, which they offer in the open field--\"They\" is supposed by some commentators to refer to the Egyptians, so that the verse will stand thus: \"the children of Israel may bring their sacrifices which they (the Egyptians) offer in the open field.\" The law is thought to have been directed against those whose Egyptian habits led them to imitate this idolatrous practice."
+    },
+    {
+      "src": "JFB",
+      "ref": "Leviticus 17:7",
+      "note_ref": "JFB/3/17/7",
+      "cites": [
+        "Leviticus 17:1-5"
+      ],
+      "text": "they shall no more offer their sacrifices unto devils--literally, \"goats.\" The prohibition evidently alludes to the worship of the hirei-footed kind, such as Pan, Faunus, and Saturn, whose recognized symbol was a goat. This was a form of idolatry enthusiastically practised by the Egyptians, particularly in the nome or province of Mendes. Pan was supposed especially to preside over mountainous and desert regions, and it was while they were in the wilderness that the Israelites seem to have been powerfully influenced by a feeling to propitiate this idol. Moreover, the ceremonies observed in this idolatrous worship were extremely licentious and obscene, and the gross impurity of the rites gives great point and significance to the expression of Moses, \"they have gone a-whoring.\""
+    },
+    {
+      "src": "JFB",
+      "ref": "Numbers 18:2",
+      "note_ref": "JFB/4/18/2",
+      "cites": [
+        "Numbers 18:6-8"
+      ],
+      "text": "thy brethren also of the tribe of Levi--The departments of the sacred office, to be filled respectively by the priests and Levites, are here assigned to each. To the priests was committed the charge of the sanctuary and the altar, while the Levites were to take care of everything else about the tabernacle. The Levites were to attend the priests as servants--bestowed on them as \"gifts\" to aid in the service of the tabernacle--while the high and dignified office of the priesthood was a \"service of gift.\" \"A stranger,\" that is, one, neither a priest nor a Levite, who should intrude into any departments of the sacred office, should incur the penalty of death.",
+      "anchor": true
+    },
+    {
+      "src": "JFB",
+      "ref": "Numbers 18:8",
+      "note_ref": "JFB/4/18/8",
+      "cites": [
+        "Numbers 18:6-8"
+      ],
+      "text": "THE PRIESTS' PORTION. (Num 18:8-20)\nthe Lord spake unto Aaron, Behold, I also have given thee the charge of my heave offerings--A recapitulation is made in this passage of certain perquisites specially appropriated to the maintenance of the priests. They were parts of the votive and freewill offerings, including both meat and bread, wine and oil, and the first-fruits, which formed a large and valuable item."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 1:3",
+      "note_ref": "JFB/9/1/3",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "this man went up out of his city yearly to worship in Shiloh--In that place was the \"earth's one sanctuary,\" and thither he repaired at the three solemn feasts, accompanied by his family at one of them--probably the passover. Although a Levite, he could not personally offer a sacrifice--that was exclusively the office of the priests; and his piety in maintaining a regular attendance on the divine ordinances is the more worthy of notice because the character of the two priests who administered them was notoriously bad. But doubtless he believed, and acted on the belief, that the ordinances were \"effectual means of salvation, not from any virtue in them, or in those who administered them, but from the grace of God being communicated through them.\""
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 1:4",
+      "note_ref": "JFB/9/1/4",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "when . . . Elkanah offered, he gave to Peninnah . . . portions--The offerer received back the greater part of the peace offerings, which he and his family or friends were accustomed to eat at a social feast before the Lord. (See on Lev 3:3; Deu 12:12). It was out of these consecrated viands Elkanah gave portions to all the members of his family; but \"unto Hannah he gave a worthy portion\"; that is, a larger choice, according to the Eastern fashion of showing regard to beloved or distinguished guests. (See on Sa1 9:24; also see on Gen 43:34)."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 1:20",
+      "note_ref": "JFB/9/1/20",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "SAMUEL BORN. (Sa1 1:20)\ncalled his name Samuel--doubtless with her husband's consent. The names of children were given sometimes by the fathers, and sometimes by the mothers (see Gen 4:1, Gen 4:26; Gen 5:29; Gen 19:37; Gen 21:3); and among the early Hebrews, they were commonly compound names, one part including the name of God."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 1:21",
+      "note_ref": "JFB/9/1/21",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "the man Elkanah . . . went up to offer . . . his vow--The solemn expression of his concurrence in Hannah's vow was necessary to make it obligatory. (See on Num 30:3)."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 7:6",
+      "note_ref": "JFB/9/7/6",
+      "cites": [
+        "1 Samuel 7:7-9"
+      ],
+      "text": "Samuel judged . . . Israel in Mizpeh--At the time of Eli's death he could not have much exceeded twenty years of age; and although his character and position must have given him great influence, it does not appear that hitherto he had done more than prophets were wont to do. Now he entered on the duties of a civil magistrate."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 7:7",
+      "note_ref": "JFB/9/7/7",
+      "cites": [
+        "1 Samuel 7:7-9"
+      ],
+      "text": "WHILE SAMUEL PRAYS, THE PHILISTINES ARE DISCOMFITED. (Sa1 7:7-14)\nwhen the Philistines heard, &c.--The character and importance of the national convention at Mizpeh were fully appreciated by the Philistines. They discerned in it the rising spirit of religious patriotism among the Israelites that was prepared to throw off the yoke of their domination. Anxious to crush it at the first, they made a sudden incursion while the Israelites were in the midst of their solemn celebration. Unprepared for resistance, they besought Samuel to supplicate the divine interposition to save them from their enemies. The prophet's prayers and sacrifice were answered by such a tremendous storm of thunder and lightning that the assailants, panic-struck, were disordered and fled. The Israelites, recognizing the hand of God, rushed courageously on the foe they had so much dreaded and committed such immense havoc, that the Philistines did not for long recover from this disastrous blow. This brilliant victory secured peace and independence to Israel for twenty years, as well as the restitution of the usurped territory."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Leviticus 17:4",
+      "note_ref": "CLARKE/3/17/4",
+      "cites": [
+        "Leviticus 17:1-5"
+      ],
+      "text": "And bringeth it not unto the door - As sacrifice was ever deemed essential to true religion, it was necessary that it should be performed in such a way as to secure the great purpose of its institution. God alone could show how this should be done so as to be pleasing in his sight, and therefore he has given the most plain and particular directions concerning it. The Israelites, from their long residence in Egypt, an idolatrous country, had doubtless adopted many of their usages; and many portions of the Pentateuch seem to have been written merely to correct and bring them back to the purity of the Divine worship. That no blood should be offered to idols, God commands every animal used for food or sacrifice to be slain at the door of the tabernacle. While every animal was slain in this sacrificial way, even the daily food of the people must put them in mind of the necessity of a sacrifice for sin. Perhaps St. Paul had this circumstance in view when he said, Whether therefore ye eat or drink, or whatsoever ye do, do all to the glory of God, Co1 10:31; and, Whatsoever ye do in word or deed, do all in the name of the Lord Jesus, giving thanks to God and the Father by him. While the Israelites were encamped in the wilderness, it was comparatively easy to prevent all abuses of this Divine institution; and therefore they were all commanded to bring the oxen, sheep, and goats to the door of the tabernacle of the congregation, that they might be slain there, and their blood sprinkled upon the altar of the Lord. But when they became settled in the promised land, and the distance, in many cases, rendered it impossible for them to bring the animals to be slain for domestic uses to the temple, they were permitted to pour out the blood in a sacrificial way unto God at their respective dwellings, and to cover it with the dust; see Lev 17:13, and Deu 12:20, Deu 12:21.\nBlood shall be imputed unto that man - Having poured out the blood improperly, he shall be considered as guilty of murder, because that blood, had it been properly and sacrificially employed, might have made atonement for the life of a man."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Leviticus 17:7",
+      "note_ref": "CLARKE/3/17/7",
+      "cites": [
+        "Leviticus 17:1-5"
+      ],
+      "text": "They shall no more offer their sacrifices unto devils - They shall not sacrifice לשעירים lasseirim, to the hairy ones, to goats. The famous heathen god, Pan, was represented as having the posteriors, horns, and ears of a goat; and the Mendesians, a people of Egypt, had a deity which they worshipped under this form. Herodotus says that all goats were worshipped in Egypt, but the he-goat particularly. It appears also that the different ape and monkey species were objects of superstitious worship; and from these sprang, not only Mendes and Jupiter Ammon, who was worshipped under the figure of a ram, but also Pan and the Sileni, with the innumerable herd of those imaginary beings, satyrs, dryads, hamadryads, etc. etc., all woodland gods, and held in veneration among the Egyptians, Greeks, and Romans.\nAfter whom they have gone a whoring - Though this term is frequently used to express idolatry, yet we are not to suppose that it is not to be taken in a literal sense in many places in Scripture, even where it is used in connection with idolatrous acts of worship. It is well known that Baal-Peor and Ashtaroth were worshipped with unclean rites; and that public prostitution formed a grand part of the worship of many deities among the Egyptians, Moabites, Canaanites, Greeks, and Romans. The great god of the two latter nations, Jupiter, was represented as the general corrupter of women; and of Venus, Flora, Priapus, and others, it is needless to speak. That there was public prostitution in the patriarchal times, see Clarke on Gen 38:21 (note). And that there was public prostitution of women to goats in Egypt, see Herodotus, lib. ii., c. 46, p. 108, edit. Gale, who gives a case of this abominable kind that took place in Egypt while he was in that country. See also many examples in Bochart, vol. ii., col. 641; and see Clarke's note on Lev 20:16."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 1:1",
+      "note_ref": "CLARKE/9/1/1",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "Ramathaim-zophim - Literally, the two high places of the watchman; these were, no doubt, two contiguous hills, on which watchtowers were built, and in which watchmen kept continual guard for the safety of the country and which afterwards gave name to the place."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 1:2",
+      "note_ref": "CLARKE/9/1/2",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "He had two wives - The custom of those times permitted polygamy; but wherever there was more than one wife, we find the peace of the family greatly disturbed by it.\nThe name of the one was Hannah - חנה Channah, which signifies fixed or settled, and the other פננה Peninnah, which signifies a jewel or pearl."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 1:3",
+      "note_ref": "CLARKE/9/1/3",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "Went up out of his city yearly to worship - As the ark was at Shiloh, there was the temple of God, and thither all the males were bound by the law to go once a year, on each of the great national festivals: viz., the passover, pentecost, and feast of tabernacles.\nThe Lord of hosts - יהוה צבאות Yehovah tsebaoth, Jehovah of armies. As all the heavenly bodies were called the hosts of heaven, צבא השמים tseba hashshamayim, Jehovah being called Lord of this host showed that he was their Maker and Governor; and consequently He, not they, was the proper object of religious worship. The sun, moon, planets, and stars, were the highest objects of religious worship to the heathens in general. The Jewish religion, teaching the knowledge of a Being who was the Lord of all these, showed at once its superiority to all that heathenism could boast. This is the first place where Lord of hosts is mentioned in the Bible; and this is so much in the style of the prophets Isaiah, Jeremiah, etc., that it gives some weight to the supposition that this book was written by a person who lived in or after the times of these prophets. See the preface."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 1:20",
+      "note_ref": "CLARKE/9/1/20",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "Called his name Samuel - As she gave this name to her son because she had asked him of the Lord, the word שמואל Shemuel must be here considerably contracted; if it express this sentiment, the component parts of it are the following: שאול מאל shaul meEl, \"asked of God.\" This name would put both the mother and the son in continual remembrance of the Divine interposition at his birth. See on Sa1 1:28 (note)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 7:6",
+      "note_ref": "CLARKE/9/7/6",
+      "cites": [
+        "1 Samuel 7:7-9"
+      ],
+      "text": "Drew water, and poured it out - It is not easy to know what is meant by this; it is true that pouring out water, in the way of libation, was a religious ordinance among the Hebrews, (Isa 12:3), and among most other nations, particularly the Greeks and Romans, who used, not only water, but wine, milk, honey, and blood, as we find by Homer, Virgil, Euripides, Sophocles, Porphyry, and Lucian. Our Lord seems to allude to this ceremony, Joh 7:37-38 (note), where see the note.\nThe Chaldee Paraphrast understands the place differently, for he translates: \"And they poured out their hearts in penitence, as Waters, before the Lord.\" That deep penitential sorrow was represented under the notion of pouring out water, we have a direct proof in the case of David, who says, Psa 22:14, I am Poured Out like Water, my heart is like wax; it is Melted in the midst of my bowels. And to repentance, under this very similitude, the prophet exhorts fallen Jerusalem: Arise, cry out in the night; in the beginning of the watches Pour Out thine Heart Like Water before the face of the Lord; Lam 2:19. David uses the same image, Psa 62:8 : Trust in him at all times, ye people; Pour Out your hearts before him. The same figure is used by Hannah in Sa1 1:15 of this book; I am a woman of a sorrowful spirit; I have Poured Out my soul before the Lord. Perhaps the drawing and pouring out of water mentioned in the text was done emblematically, to represent the contrition of their hearts.\nAnd Samuel judged - He gave them ordinances, heard and redressed grievances, and taught them how to get reconciled to God. The assembly, therefore, was held for religio-politico-military purposes."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 7:7",
+      "note_ref": "CLARKE/9/7/7",
+      "cites": [
+        "1 Samuel 7:7-9"
+      ],
+      "text": "The Philistines went up against Israel - They went to give them battle before that, by continual accessions of numbers, they should become too powerful."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 7:8",
+      "note_ref": "CLARKE/9/7/8",
+      "cites": [
+        "1 Samuel 7:7-9"
+      ],
+      "text": "Cease not to cry unto the Lord - They had strong confidence in the intercession of Samuel, because they knew he was a holy man of God."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 7:9",
+      "note_ref": "CLARKE/9/7/9",
+      "cites": [
+        "1 Samuel 7:7-9"
+      ],
+      "text": "Samuel took a sucking lamb - This sucking lamb must have been eight days under its mother before it could be offered, as the law says, Lev 22:27.\nThough Samuel was not a priest, yet he offered this sacrifice; or he might have ordered Eleazar to offer it, and still be said to have done it himself: Qui facit per alterum, facit per se; \"He who procures a thing to be done, may be said to do it himself.\" His not sacrificing at the tabernacle was justified by the necessity of the case; neither tabernacle nor ark was at hand."
+    },
+    {
+      "src": "KD",
+      "ref": "Leviticus 17:1",
+      "note_ref": "KD/3/17/1",
+      "cites": [
+        "Leviticus 17:1-5"
+      ],
+      "text": "The directions are given to \"Aaron and his sons, and all the children of Israel,\" because they were not only binding upon the nation generally, but upon the priesthood also; whereas the instructions in ch. 18-20 are addressed to \"the children of Israel,\" or \"the whole congregation\" (Lev 18:2; Lev 19:2; Lev 20:2), just as special laws are laid down for the priests in ch. 20 and 21 with reference to the circumstances mentioned there."
+    },
+    {
+      "src": "KD",
+      "ref": "Leviticus 17:3",
+      "note_ref": "KD/3/17/3",
+      "cites": [
+        "Leviticus 17:1-5"
+      ],
+      "text": "Whoever of the house of Israel slaughtered an ox, sheep, or goat, either within or outside the camp, without bringing the animal to the tabernacle, to offer a sacrifice therefrom to the Lord, \"blood was to be reckoned to him;\" that is to say, as the following expression, \"he hath shed blood,\" shows, such slaughtering was to be reckoned as the shedding of blood, or blood-guiltiness, and punished with extermination (see Gen 17:14). The severity of this prohibition required some explanation, and this is given in the reason assigned in Lev 17:5-7, viz., \"that the Israelites may bring their slain-offerings, which they slay in the open field, before the door of the tabernacle, as peace-offerings to Jehovah,\" and \"no more offer their sacrifices to the שׂעירים, after whom they go a whoring\" (Lev 17:7). This reason presupposes that the custom of dedicating the slain animals as sacrifices to some deity, to which a portion of them was offered, was then widely spread among the Israelites. It had probably been adopted from the Egyptians; though this is not expressly stated by ancient writers: Herodotus (i. 132) and Strabo (xv. 732) simply mentioning it as a Persian custom, whilst the law book of Manu ascribes it to the Indians. To root out this idolatrous custom from among the Israelites, they were commanded to slay every animal before the tabernacle, as a sacrificial gift to Jehovah, and to bring the slain-offerings, which they would have slain in the open field, to the priest at the tabernacle, as shelamim (praise-offerings and thank-offerings), that he might sprinkle the blood upon the altar, and burn the fat as a sweet-smelling savour for Jehovah (see Lev 3:2-5). \"The face of the field\" (Lev 17:5, as in Lev 14:7, Lev 14:53): the open field, in distinction from the enclosed space of the court of Jehovah's dwelling. \"The altar of Jehovah\" is spoken of in Lev 17:6 instead of \"the altar\" only (Lev 1:5; Lev 11:15, etc.), on account of the contrast drawn between it and the altars upon which they offered sacrifice to Seirim. שׂעירים, literally goats, is here used to signify daemones (Vulg.), \"field-devils\" (Luther), demons, like the שׂדים in Deu 32:17, who were supposed to inhabit the desert (Isa 13:21; Isa 34:14), and whose pernicious influence they sought to avert by sacrifices. The Israelites had brought this superstition, and the idolatry to which it gave rise, from Egypt. The Seirim were the gods whom the Israelites worshipped and went a whoring after in Egypt (Jos 24:14; Eze 20:7; Eze 23:3, Eze 23:8, Eze 23:19, Eze 23:21, Eze 23:27). Both the thing and the name were derived from the Egyptians, who worshipped goats as gods (Josephus c. Ap. 2, 7), particularly Pan, who was represented in the form of a goat, a personification of the male and fertilizing principle in nature, whom they called Mendes and reckoned among the eight leading gods, and to whom they had built a splendid and celebrated temple in Thmuis, the capital of the Mendesian Nomos in Lower Egypt, and erected statues in the temples in all directions (cf. Herod. 2, 42, 46; Strabo, xvii. 802; Diod. Sic. i. 18). The expression \"a statute for ever\" refers to the principle of the law, that sacrifices were to be offered to Jehovah alone, and not to the law that every animal was to be slain before the tabernacle, which was afterwards repealed by Moses, when they were about to enter Canaan, where it could no longer be carried out (Deu 12:15)."
+    },
+    {
+      "src": "KD",
+      "ref": "Numbers 18:1",
+      "note_ref": "KD/4/18/1",
+      "cites": [
+        "Numbers 18:6-8"
+      ],
+      "text": "The Official Duties and Rights of the Priests and Levites. - Num 18:1. To impress upon the minds of the priests and Levites the holiness and responsibility of their office, the service of Aaron, of his sons, and of his father's house, i.e., of the family of the Kohathites, is described as \"bearing the iniquity of the sanctuary,\" and the service which was peculiar to the Aaronides, as \"bearing the iniquity of their priesthood.\" \"To bear the iniquity of the sanctuary\" signifies not only \"to have to make expiation for all that offended against the laws of the priests and the holy things, i.e., the desecration of these\" (Knobel), but \"iniquity or transgression at the sanctuary,\" i.e., the defilement of it by the sin of those who drew near to the sanctuary; not only of the priests and Levites, but of the whole people who defiled the sanctuary in the midst of them with its holy vessels, not only by their sins (Lev 16:6), but even by their holy gifts (Exo 28:38), and thus brought guilt upon the whole congregation, which the priests were to bear, i.e., to take upon themselves and expunge, by virtue of the holiness and sanctifying power communicated to their office (see at Exo 28:38). The \"iniquity of the priesthood,\" however, not only embraced every offence against the priesthood, every neglect of the most scrupulous and conscientious fulfilment of duty in connection with their office, but extended to all the sin which attached to the official acts of the priests, on account of the sinfulness of their nature. It was to wipe out these sins and defilements, that the annual expiation of the holy things on the day of atonement had been appointed (Lev 16:16.). The father's house of Aaron, i.e., the Levitical family of Kohath, was also to join in bearing the iniquity of the sanctuary, because the oversight of the holy vessels of the sanctuary devolved upon it (Num 4:4.).\nNum 18:2-4\nAaron was also to bring his (other) brethren (sc., to the sanctuary), viz., the tribe of Levi, that is to say, the Gershonites and Merarites, that they might attach themselves to him and serve him, both him (ואתּה) and his sons, before the tent of testimony, and discharge the duties that were binding upon them, according to Num 4:24., Num 4:31. (cf. Num 3:6-7; Num 8:26). Only they were not to come near to the holy vessels and the altar, for that would bring death both upon them and the priests (see at Num 4:15). On Num 18:4, cf. Num 1:53 and Num 3:7.\nNum 18:5-7\nThe charge of the sanctuary (i.e., the dwelling) and the altar (of burnt-offering) devolved upon Aaron and his sons, that the wrath of God might not come again upon the children of Israel (see Num 8:19), - namely, through such illegal acts as Nadab and Abihu (Lev 10:2), and the company of Korah (Num 16:35), had committed. To this end God had handed over the Levites to them as a gift, to be their assistants (see at Num 3:9 and Num 8:16, Num 8:19). But Aaron and his sons were to attend to the priesthood \"with regard to everything of the altar and within the vail\" (i.e., of the most holy place, see Lev 16:12). The allusion is to all the priestly duties from the altar of burnt-offering to the most holy place, including the holy place which lay between. This office, which brought them into the closest fellowship with the Lord, was a favour accorded to them by the grace of God. This is expressed in the words, \"as a service of gift (a service with which I present you) I give you the priesthood.\" The last words in Num 18:7 are the same as in Num 1:51; and \"stranger\" (zar), as in Lev 22:10.",
+      "anchor": true
+    },
+    {
+      "src": "KD",
+      "ref": "Numbers 18:8",
+      "note_ref": "KD/4/18/8",
+      "cites": [
+        "Numbers 18:6-8"
+      ],
+      "text": "The Revenues of the Priests. - These are summed up in Num 18:8 in these words, \"I give thee the keeping of My heave-offerings in all holy gifts for a portion, as an eternal statute.\" The notion of משׁמרת, keeping, as in Exo 12:6; Exo 16:23, Exo 16:32, is defined in the second parallel clause as משׁחה, a portion (see at Lev 7:35). The priests were to keep all the heave-offerings, as the portion which belonged to them, out of the sacrificial gifts that the children of Israel offered to the Lord. תּרוּמת, heave-offerings (see at Exo 25:2, and Lev 2:9), is used here in the broadest sense, as including all the holy gifts (kodashim, see Lev 21:22) which the Israelites lifted off from their possessions and presented to the Lord (as in Num 5:9). Among these, for example, were, first of all, the most holy gifts in the meat-offerings, sin-offerings, and trespass-offerings (Num 18:9, Num 18:10; see at Lev 2:3). The burnt-offerings are not mentioned, because the whole of the flesh of these was burned upon the altar, and the skin alone fell to the portion of the priest (Lev 7:8). \"From the fire,\" sc., of the altar. אשׁ, fire, is equivalent to אשּׁה ot , firing (see Lev 1:9). These gifts they were to eat, as most holy, in a most holy place, i.e., in the court of the tabernacle (see Lev 6:9, Lev 6:19; Lev 7:6), which is called \"most holy\" here, to lay a stronger emphasis upon the precept. In the second place, these gifts included also \"the holy gifts;\" viz., (a) (Num 18:11) the heave-offering of their gifts in all wave-offerings (tenuphoth), i.e., the wave-breast and heave-leg of the peace-offerings, and whatever else was waved in connection with the sacrifices (see at Lev 7:33): these might be eaten by both the male and female members of the priestly families, provided they were legally clean (Lev 22:3.); (b) (Num 18:12) the gifts of first-fruits: \"all the fat (i.e., the best, as in Gen 45:18) of oil, new wine, and corn,\" viz., ראשׁיתם, \"the first of them,\" the בּכּוּרים, \"the first-grown fruits\" of the land, and that of all the fruit of the ground (Deu 26:2, Deu 26:10; Pro 3:9; Eze 44:30), corn, wine, oil, honey, and tree-fruit (Deu 8:8, compared with Lev 19:23-24), which were offered, according to Ch2 31:5; Neh 10:36, Neh 10:38, Tob. 1:6, as first-fruits every year (see Mishnah, Bikkur, i. 3, 10, where the first-fruits are specified according to the productions mentioned in Deu 8:8; the law prescribed nothing in relation to the quantity of the different first-fruits, but left this entirely to the offerer himself); (c) (Num 18:14) everything placed under a ban (see at Lev 27:28); and (d) (Num 18:15-18) the first-born of man and beast. The first-born of men and of unclean beasts were redeemed according to Num 3:47; Exo 13:12-13, and Lev 27:6, Lev 27:27; but such as were fit for sacrifice were actually offered, the blood being swung against the altar, and the fat portions burned upon it, whilst the whole of the flesh fell to the portion of the priests. So far as the redemption of human beings was concerned (Num 18:16), they were \"to redeem from the monthly child,\" i.e., the first-born child as soon as it was a month old."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Samuel 1:1",
+      "note_ref": "KD/9/1/1",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "Samuel's pedigree. - Sa1 1:1. His father was a man of Ramathaim-Zophim, on the mountains of Ephraim, and named Elkanah. Ramathaim-Zophim, which is only mentioned here, is the same place, according to Sa1 1:3 (comp. with Sa1 1:19 and Sa1 2:11), which is afterwards called briefly ha-Ramah, i.e., the height. For since Elkanah of Ramathaim-Zophim went year by year out of his city to Shiloh, to worship and sacrifice there, and after he had done this, returned to his house to Ramah (Sa1 1:19; Sa1 2:11), there can be no doubt that he was not only a native of Ramathaim-Zophim, but still had his home there; so that Ramah, where his house was situated, is only an abbreviated name for Ramathaim-Zophim.\n(Note: The argument lately adduced by Valentiner in favour of the difference between these two names, viz., that \"examples are not wanting of a person being described according to his original descent, although his dwelling-place had been already changed,\" and the instance which he cites, viz., Jdg 19:16, show that he has overlooked the fact, that in the very passage which he quotes the temporary dwelling-place is actually mentioned along with the native town. In the case before us, on the contrary Ramathaim-Zophim is designated, by the use of the expression \"from his city,\" in Sa1 1:3, as the place where Elkanah lived, and where \"his house\" (Sa1 1:19) was still standing.)\nThis Ramah (which is invariably written with the article, ha-Ramah), where Samuel was not only born (Sa1 1:19.), but lived, laboured, died (Sa1 7:17; Sa1 15:34; Sa1 16:13; Sa1 19:18-19, Sa1 19:22-23), and was buried (Sa1 25:1; Sa1 28:3), is not a different place, as has been frequently assumed,\n(Note: For the different views which have been held upon this point, see the article \"Ramah,\" by Pressel, in Herzog's Cyclopaedia.)\nfrom the Ramah in Benjamin (Jos 18:25), and is not to be sought for in Ramleh near Joppa (v. Schubert, etc.), nor in Soba on the north-west of Jerusalem (Robinson, Pal. ii. p. 329), nor three-quarters of an hour to the north of Hebron (Wolcott, v. de Velde), nor anywhere else in the tribe of Ephraim, but is identical with Ramah of Benjamin, and was situated upon the site of the present village of er-Rm, two hours to the north-west of Jerusalem, upon a conical mountain to the east of the Nablus road (see at Jos 18:25). This supposition is neither at variance with the account in 1 Samuel 9-10 (see the commentary upon these chapters), nor with the statement that Ramathaim-Zophim was upon the mountains of Ephraim, since the mountains of Ephraim extended into the tribe-territory of Benjamin, as is indisputably evident from Jdg 4:5, where Deborah the prophetess is said to have dwelt between Ramah and Bethel in the mountains of Ephraim. The name Ramathaim-Zophim, i.e., \"the two heights (of the) Zophites\" appear to have been given to the town to distinguish it from other Ramah's, and to have been derived from the Levitical family of Zuph or Zophai (see Ch1 6:26, Ch1 6:35), which emigrated thither from the tribe of Ephraim, and from which Elkanah was descended. The full name, therefore, is given here, in the account of the descent of Samuel's father; whereas in the further history of Samuel, where there was no longer the same reason for giving it, the simple name Ramah is invariably used.\n(Note: The fuller and more exact name, however, appears to have been still retained, and the use of it to have been revived after the captivity, in the Ῥαμαθέμ of 1 Macc. 11:34, for which the Codd. have Ῥαθαμεΐ́ν and Ῥαμαθαΐ́μ, and Josephus Ῥαμαθά, and in the Arimathaea of the gospel history (Mat 27:57). \"For the opinion that this Ramathaim is a different place from the city of Samuel, and is to be sought for in the neighbourhood of Lydda, which Robinson advocates (Pal. iii. p. 41ff.), is a hasty conclusion, drawn from the association of Ramathaim with Lydda in 1 Macc. 11:34, - the very same conclusion which led the author of the Onomasticon to transfer the city of Samuel to the neighbourhood of Lydda\" (Grimm on 1 Macc. 11:34).\nThe connection between Zophim and Zuph is confirmed by the fact that Elkanah's ancestor, Zuph, is called Zophai in Ch1 6:26, and Zuph or Ziph in Ch1 6:35. Zophim therefore signifies the descendants of Zuph or Zophai, from which the name \"land of Zuph,\" in Sa1 9:5, was also derived (see the commentary on this passage). The tracing back of Elkanah's family through four generations to Zuph agrees with the family registers in 1 Chron 6, where the ancestors of Elkanah are mentioned twice, - first of all in the genealogy of the Kohathites (Ch1 6:26), and then in that of Heman, the leader of the singers, a grandson of Samuel (Ch1 6:33), - except that the name Elihu, Tohu, and Zuph, are given as Eliab, Nahath, and Zophai in the first instance, and Eliel, Toah, and Ziph (according to the Chethibh) in the second, - various readings, such as often occur in the different genealogies, and are to be explained partly from the use of different forms for the same name, and partly from their synonymous meanings. Tohu and Toah, which occur in Arabic, with the meaning to press or sink in, are related in meaning to nachath or nuach, to sink or settle down.\nFrom these genealogies in the Chronicles, we learn that Samuel was descended from Kohath, the son of Levi, and therefore was a Levite. It is no valid objection to the correctness of this view, that his Levitical descent is never mentioned, or that Elkanah is called an Ephrathite. The former of these can very easily be explained from the fact, that Samuel's work as a reformer, which is described in this book, did not rest upon his Levitical descent, but simply upon the call which he had received from God, as the prophetic office was not confined to any particular class, like that of priest, but was founded exclusively upon the divine calling and endowment with the Spirit of God. And the difficulty which Ngelsbach expresses in Herzog's Cycl., viz., that \"as it was stated of those two Levites (Jdg 17:7; Jdg 19:1), that they lived in Bethlehem and Ephraim, but only after they had been expressly described as Levites, we should have expected to find the same in the case of Samuel's father,\" is removed by the simple fact, that in the case of both those Levites it was of great importance, so far as the accounts which are given of them are concerned, that their Levitical standing should be distinctly mentioned, as is clearly shown by Jdg 17:10, Jdg 17:13, and Jdg 19:18; whereas in the case of Samuel, as we have already observed, his Levitical descent had no bearing upon the call which he received from the Lord. The word Ephrathite does not belong, so far as the grammatical construction is concerned, either to Zuph or Elkanah, but to \"a certain man,\" the subject of the principal clause, and signifies an Ephraimite, as in Jdg 12:5 and Kg1 11:26, and not an inhabitant of Ephratah, i.e., a Bethlehemite, as in Sa1 17:12 and Rut 1:2; for in both these passages the word is more precisely defined by the addition of the expression \"of Bethlehem-Judah,\" whereas in this verse the explanation is to be found in the expression \"of Mount Ephraim.\" Elkanah the Levite is called an Ephraimite, because, so far as his civil standing was concerned, he belonged to the tribe of Ephraim, just as the Levite in Jdg 17:7 is described as belonging to the family of Judah. The Levites were reckoned as belonging to those tribes in the midst of which they lived, so that there were Judaean Levites, Ephraimitish Levites, and so on (see Hengstenberg, Diss. vol. ii. p. 50). It by no means follows, however, from the application of this term to Elkanah, that Ramathaim-Zophim formed part of the tribe-territory of Ephraim, but simply that Elkanah's family was incorporated in this tribe, and did not remove till afterwards to Ramah in the tribe of Benjamin. On the division of the land, dwelling-places were allotted to the Levites of the family of Kohath, in the tribes of Ephraim, Dan, and Manasseh (Jos 21:5, Jos 21:21.). Still less is there anything at variance with the Levitical descent of Samuel, as Thenius maintains, in the fact that he was dedicated to the Lord by his mother's vow, for he was not dedicated to the service of Jehovah generally through this view, but was set apart to a lifelong service at the house of God as a Nazarite (Sa1 1:11, Sa1 1:22); whereas other Levites were not required to serve till their twenty-fifth year, and even then had not to perform an uninterrupted service at the sanctuary. On the other hand, the Levitical descent of Samuel receives a very strong confirmation from his father's name. All the Elkanahs that we meet with in the Old Testament, with the exception of the one mentioned in Ch2 28:7, whose genealogy is unknown, can be proved to have been Levites; and most of them belong to the family of Korah, from which Samuel was also descended (see Simonis, Onomast. p. 493). This is no doubt connected in some way with the meaning of the name Elkanah, the man whom God has bought or acquired; since such a name was peculiarly suitable to the Levites, whom the Lord had set apart for service at the sanctuary, in the place of the first-born of Israel, whom He had sanctified to himself when He smote the first-born of Egypt (Num 3:13., Num 3:44.; see Hengstenberg, ut sup.).\nSa1 1:2-3\nElkanah had two wives, Hannah (grace or gracefulness) and Peninnah (coral), the latter of whom was blessed with children, whereas the first was childless. He went with his wives year by year (ימימה מיּמים, as in Exo 13:10; Jdg 11:40), according to the instructions of the law (Exo 34:23; Deu 16:16), to the tabernacle at Shiloh (Jos 18:1), to worship and sacrifice to the Lord of hosts. \"Jehovah Zebaoth\" is an abbreviation of \"Jehovah Elohe Zebaoth,\" or הצּבאות אלהי יהוה; and the connection of Zebaoth with Jehovah is not to be regarded as the construct state, nor is Zebaoth to be taken as a genitive dependent upon Jehovah. This is not only confirmed by the occurrence of such expressions as \"Elohim Zebaoth\" (Psa 59:6; Psa 80:5, Psa 80:8,Psa 80:15, 20; Psa 84:9) and \"Adonai Zebaoth\" (Isa 10:16), but also by the circumstance that Jehovah, as a proper name, cannot be construed with a genitive. The combination \"Jehovah Zebaoth\" is rather to be taken as an ellipsis, where the general term Elohe (God of), which is implied in the word Jehovah, is to be supplied in thought (see Hengstenberg, Christol. i. p. 375, English translation); for frequently as this expression occurs, especially in the case of the prophets, Zebaoth is never used alone in the Old Testament as one of the names of God. It is in the Septuagint that the word is first met with occasionally as a proper name (Σαβαώθ), viz., throughout the whole of the first book of Samuel, very frequently in Isaiah, and also in Zac 13:2. In other passages, the word is translated either κύριος, or θεὸς τῶν δυνάμεων, or παντοκράτωρ; whilst the other Greek versions use the more definite phrase κύριος στρατιῶν instead.\nThis expression, which was not used as a divine name until the age of Samuel, had its roots in Gen 2:1, although the title itself was unknown in the Mosaic period, and during the times of the judges. It represented Jehovah as ruler over the heavenly hosts (i.e., the angels, according to Gen 32:2, and the stars, according to Isa 40:26), who are called the \"armies\" of Jehovah in Psa 103:21; Psa 148:2; but we are not to understand it as implying that the stars were supposed to be inhabited by angels, as Gesenius (Thes. s. v.) maintains, since there is not the slightest trace of any such notion in the whole of the Old Testament. It is simply applied to Jehovah as the God of the universe, who governs all the powers of heaven, both visible and invisible, as He rules in heaven and on earth. It cannot even be proved that the epithet Lord, or God of Zebaoth, refers chiefly and generally to the sun, moon, and stars, on account of their being so peculiarly adapted, through their visible splendour, to keep alive the consciousness of the omnipotence and glory of God (Hengstenberg on Psa 24:10). For even though the expression צבאם (their host), in Gen 2:1, refers to the heavens only, since it is only to the heavens (vid., Isa 40:26), and never to the earth, that a \"host\" is ascribed, and in this particular passage it is probably only the stars that are to be thought of, the creation of which had already been mentioned in Gen 1:14.; yet we find the idea of an army of angels introduced in the history of Jacob (Gen 32:2-3), where Jacob calls the angels of God who appeared to him the \"camp of God,\" and also in the blessing of Moses (Deu 33:2), where the \"ten thousands of saints\" (Kodesh) are not stars, but angels, or heavenly spirits; whereas the fighting of the stars against Sisera in the song of Deborah probably refers to a natural phenomenon, by which God had thrown the enemy into confusion, and smitten them before the Israelites (see at Jdg 5:20). We must also bear in mind, that whilst on the one hand the tribes of Israel, as they came out of Egypt, are called Zebaoth Jehovah, \"the hosts of Jehovah\" (Exo 7:4; Exo 12:41), on the other hand the angel of the Lord, when appearing in front of Jericho in the form of a warrior, made himself known to Joshua as \"the prince of the army of Jehovah,\" i.e., of the angelic hosts. And it is in this appearance of the heavenly leader of the people of God to the earthly leader of the hosts of Israel, as the prince of the angelic hosts, not only promising him the conquest of Jericho, but through the miraculous overthrow of the walls of this strong bulwark of the Canaanitish power, actually giving him at the same time a practical proof that the prince of the angelic hosts was fighting for Israel, that we have the material basis upon which the divine epithet \"Jehovah God of hosts\" was founded, even though it was not introduced immediately, but only at a later period, when the Lord began to form His people Israel into a kingdom, by which all the kingdoms of the heathen were to be overcome. It is certainly not without significance that this title is given to God for the first time in these books, which contain an account of the founding of the kingdom, and (as Auberlen has observed) that it was by Samuel's mother, the pious Hannah, when dedicating her son to the Lord, and prophesying of the king and anointed of the Lord in her song of praise (Sa1 2:10), that this name was employed for the first time, and that God was addressed in prayer as \"Jehovah of hosts\" (Sa1 1:11). Consequently, if this name of God goes hand in hand with the prophetic announcement and the actual establishment of the monarchy in Israel, its origin cannot be attributed to any antagonism to Sabaeism, or to the hostility of pious Israelites to the worship of the stars, which was gaining increasing ground in the age of David, as Hengstenberg (on Psa 24:10) and Strauss (on Zep 2:9) maintain; to say nothing of the fact, that there is no historical foundation for such an assumption at all. It is a much more natural supposition, that when the invisible sovereignty of Jehovah received a visible manifestation in the establishment of the earthly monarchy, the sovereignty of Jehovah, if it did possess and was to possess any reality at all, necessarily claimed to be recognised in its all-embracing power and glory, and that in the title \"God of (the heavenly hosts\" the fitting expression was formed for the universal government of the God-king of Israel, - a title which not only serves as a bulwark against any eclipsing of the invisible sovereignty of God by the earthly monarchy in Israel, but overthrew the vain delusion of the heathen, that the God of Israel was simply the national deity of that particular nation.\n(Note: This name of God was therefore held up before the people of the Lord even in their war-songs and paeans of victory, but still more by the prophets, as a banner under which Israel was to fight and to conquer the world. Ezekiel is the only prophet who does not use it, simply because he follows the Pentateuch so strictly in his style. And it is not met with in the book of Job, just because the theocratic constitution of the Israelitish nation is never referred to in the problem of that book.)\nThe remark introduced in Sa1 1:3, \"and there were the two sons of Eli, Hophni and Phinehas, priests of the Lord,\" i.e., performing the duties of the priesthood, serves as a preparation for what follows. This reason for the remark sufficiently explains why the sons of Eli only are mentioned here, and not Eli himself, since, although the latter still presided over the sanctuary as high priest, he was too old to perform the duties connected with the offering of sacrifice. The addition made by the lxx, Ἡλὶ καὶ, is an arbitrary interpolation, occasioned by a misapprehension of the reason for mentioning the sons of Eli.\nSa1 1:4-5\n\"And it came to pass, the day, and he offered sacrifice\" (for, \"on which he offered sacrifice\"), that he gave to Peninnah and her children portions of the flesh of the sacrifice at the sacrificial meal; but to Hannah he gave אפּים אחת מגה, \"one portion for two persons,\" i.e., a double portion, because he loved her, but Jehovah had shut up her womb: i.e., he gave it as an expression of his love to her, to indicate by a sign, \"thou art as dear to me as if thou hadst born me a child\" (O. v. Gerlach). This explanation of the difficult word אפּים, of which very different interpretations have been given, is the one adopted by Tanchum Hieros., and is the only one which can be grammatically sustained, or yields an appropriate sense. The meaning face (facies) is placed beyond all doubt by Gen 3:19 and other passages; and the use of לאפּי as a synonym for לפני in Sa1 25:23, also establishes the meaning \"person,\" since פּנים is used in this sense in Sa2 17:11. It is true that there are no other passages that can be adduced to prove that the singular אף was also used in this sense; but as the word was employed promiscuously in both singular and plural in the derivative sense of anger, there is no reason for denying that the singular may also have been employed in the sense of face (πρόσωπον). The combination of אפּים with אחת מגה in the absolute state is supported by many other examples of the same kind (see Ewald, 287, h). The meaning double has been correctly adopted in the Syriac, whereas Luther follows the tristis of the Vulgate, and renders the word traurig, or sad. But this meaning, which Fr. Bttcher has lately taken under his protection, cannot be philologically sustained either by the expression פניך נפלוּ (Gen 4:6), or by Dan 11:20, or in any other way. אף and אפּים do indeed signify anger, but anger and sadness are two very different ideas. But when Bttcher substitutes \"angrily or unwillingly\" for sadly, the incongruity strikes you at once: \"he gave her a portion unwillingly, because he loved her!\" For the custom of singling out a person by giving double or even large portions, see the remarks on Gen 43:34.\nSa1 1:6\n\"And her adversary (Peninnah) also provoked her with provocation, to irritate her.\" The גּם is placed before the noun belonging to the verb, to add force to the meaning. רעם (Hiphil), to excite, put into (inward) commotion, not exactly to make angry.\nSa1 1:7\n\"So did he (Elkanah) from year to year (namely give to Hannah a double portion at the sacrificial meal), as often as she went up to the house of the Lord. So did she (Peninnah) provoke her (Hannah), so that she wept, and did not eat.\" The two כּן correspond to one another. Just as Elkanah showed his love to Hannah at every sacrificial festival, so did Peninnah repeat her provocation, the effect of which was that Hannah gave vent to her grief in tears, and did not eat.\nSa1 1:8\nElkanah sought to comfort her in her grief by the affectionate appeal: \"Am I not better to thee (טּוב, i.e., dearer) than ten children?\" Ten is a found number for a large number."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Samuel 1:18",
+      "note_ref": "KD/9/1/18",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "Hannah then went her way, saying, \"Let thine handmaid find grace in thine eyes,\" i.e., let me be honoured with thy favour and thine intercession, and was strengthened and comforted by the word of the high priest, which assured her that her prayer would be heard by God; and she did eat, \"and her countenance was no more,\" sc., troubled and sad, as it had been before. This may be readily supplied from the context, through which the word countenance (פּנים) acquires the sense of a troubled countenance, as in Job 9:27."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Samuel 1:19",
+      "note_ref": "KD/9/1/19",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "Samuel's birth, and dedication to the Lord. - Sa1 1:19, Sa1 1:20. The next morning Elkanah returned home to Ramah (see at Sa1 1:1) with his two wives, having first of all worshipped before the Lord; after which he knew his wife Hannah, and Jehovah remembered her, i.e., heard her prayer. \"In the revolution of the days,\" i.e., of the period of her conception and pregnancy, Hannah conceived and bare a son, whom she called Samuel; \"for (she said) I have asked him of the Lord.\" The name שׁמוּאל (Σαμουήλ, lxx) is not formed from שׁמוּ = שׁם and אל, name of God (Ges. Thes. p. 1434), but from אל שׁמוּע, heard of God, a Deo exauditus, with an elision of the ע (see Ewald, 275, a., Not. 3); and the words \"because I have asked him of the Lord\" are not an etymological explanation of the name, but an exposition founded upon the facts. Because Hannah had asked him of Jehovah, she gave him the name, \"the God-heard,\" as a memorial of the hearing of her prayer."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Samuel 1:21",
+      "note_ref": "KD/9/1/21",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "When Elkanah went up again with his family to Shiloh, to present his yearly sacrifice and his vow to the Lord, Hannah said to her husband that she would not go up till she had weaned the boy, and could present him to the Lord, that he might remain there for ever. הימים זבח, the sacrifice of the days, i.e., which he was accustomed to offer on the days when he went up to the sanctuary; really, therefore, the annual sacrifice. It follows from the expression \"and his vow,\" that Elkanah had also vowed a vow to the Lord, in case the beloved Hannah should have a son. The vow referred to the presentation of a sacrifice. And this explains the combination of את־נדרו with לזבּח.\n(Note: The lxx add to τὰς εὐχὰς αὐτοῦ the clause καὶ πάσας τὰς δεκάτας τῆς γῆς αὐτοῦ (\"and all the tithes of his land\"). This addition is just as arbitrary as the alteration of the singular נדרו into the plural τὰς εὐχὰς αὐτοῦ. The translator overlooked the special reference of the word נדרו to the child desired by Elkanah, and imagined - probably with Deu 12:26-27 in his mind, where vows are ordered to be paid at the sanctuary in connection with slain offerings and sacrificial meals - that when Elkanah made his annual journey to the tabernacle he would discharge all his obligations to God, and consequently would pay his tithes. The genuineness of this additional clause cannot be sustained by an appeal to Josephus (Ant. v. 10, 3), who also has δεκάτας τε ἔφερον, for Josephus wrote his work upon the basis of the Alexandrian version. This statement of Josephus is only worthy of notice, inasmuch as it proves the incorrectness of the conjecture of Thenius, that the allusion to the tithes was intentionally dropped out of the Hebrew text by copyists, who regarded Samuel's Levitical descent as clearly established by Ch1 6:7-13 and Ch1 6:19-21. For Josephus (l. c. 2) expressly describes Elkanah as a Levite, and takes no offence at the offering of tithes attributed to him in the Septuagint, simply because he was well acquainted with the law, and knew that the Levites had to pay to the priests a tenth of the tithes that they received from the other tribes, as a heave-offering of Jehovah (Num 18:26.; cf. Neh 10:38). Consequently the presentation of tithe on the part of Elkanah, if it were really well founded in the biblical text, would not furnish any argument against his Levitical descent.)\nWeaning took place very late among the Israelites. According to 2 Macc. 7:28, the Hebrew mothers were in the habit of suckling their children for three years. When the weaning had taken place, Hannah would bring her son up to the sanctuary, to appear before the face of the Lord, and remain there for ever, i.e., his whole life long. The Levites generally were only required to perform service at the sanctuary from their twenty-fifth to their fiftieth year (Num 8:24-25); but Samuel was to be presented to the Lord immediately after his weaning had taken place, and to remain at the sanctuary for ever, i.e., to belong entirely to the Lord. To this end he was to receive his training at the sanctuary, that at the very earliest waking up of his spiritual susceptibilities he might receive the impressions of the sacred presence of God. There is no necessity, therefore, to understand the word גּמל (wean) as including what followed the weaning, namely, the training of the child up to his thirteenth year (Seb. Schmidt), on the ground that a child of three years old could only have been a burden to Eli: for the word never has this meaning, not even in Kg1 11:20; and, as O. v. Gerlach has observed, his earliest training might have been superintended by one of the women who worshipped at the door of the tabernacle (Sa1 2:22)."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Samuel 7:5",
+      "note_ref": "KD/9/7/5",
+      "cites": [
+        "1 Samuel 7:7-9"
+      ],
+      "text": "Victory obtained over the Philistines through Samuel's prayer. - Sa1 7:5, Sa1 7:6. When Israel had turned to the Lord with all its heart, and had put away all its idols, Samuel gathered together all the people at Mizpeh, to prepare them for fighting against the Philistines by a solemn day for penitence and prayer. For it is very evident that the object of calling all the people to Mizpeh was that the religious act performed there might serve as a consecration for battle, not only from the circumstance that, according to Sa1 7:7, when the Philistines heard of the meeting, they drew near to make war upon Israel, but also from the contents of Sa1 7:5 : \"Samuel said (sc., to the heads or representatives of the nation), Gather all Israel to Mizpeh, and I will pray for you unto the Lord.\" His intention could not possibly have been any other than to put the people into the right relation to their God, and thus to prepare the way for their deliverance out of the bondage of the Philistines. Samuel appointed Mizpeh, i.e., Nebi Samwil, on the western boundary of the tribe of Benjamin (see at Jos 18:26), as the place of meeting, partly no doubt on historical grounds, viz., because it was there that the tribes had formerly held their consultations respecting the wickedness of the inhabitants of Gibeah, and had resolved to make war upon Benjamin (Jdg 20:1.), but still more no doubt, because Mizpeh, on the western border of the mountains, was the most suitable place for commencing the conflict with the Philistines.\nSa1 7:6-9\nWhen they had assembled together here, \"they drew water and poured it out before Jehovah, and fasted on that day, and said there, We have sinned against the Lord.\" Drawing water and pouring it out before Jehovah was a symbolical act, which has been thus correctly explained by the Chaldee, on the whole: \"They poured out their heart like water in penitence before the Lord.\" This is evident from the figurative expressions, \"poured out like water,\" in Psa 22:15, and \"pour out thy heart like water,\" in Lam 2:19, which are used to denote inward dissolution through pain, misery, and distress (see Sa2 14:14). Hence the pouring out of water before God was a symbolical representation of the temporal and spiritual distress in which they were at the time, - a practical confession before God, \"Behold, we are before Thee like water that has been poured out;\" and as it was their own sin and rebellion against God that had brought this distress upon them, it was at the same time a confession of their misery, and an act of the deepest humiliation before the Lord. They gave a still further practical expression to this humiliation by fasting (צוּם), as a sign of their inward distress of mind on account of their sin, and an oral confession of their sin against the Lord. By the word שׁם, which is added to ויּאמרוּ, \"they said \"there,\" i.e., at Mizpeh, the oral confession of their sin is formally separated from the two symbolical acts of humiliation before God, though by this very separation it is practically placed on a par with them. What they did symbolically by the pouring out of water and fasting, they explained and confirmed by their verbal confession. שׁם is never an adverb of time signifying \"then;\" neither in Psa 14:5; Psa 132:17, nor Jdg 5:11. \"And thus Samuel judged the children of Israel at Mizpeh.\" ויּשׁפּט does not mean \"he became judge\" (Mich. and others), any more than \"he punished every one according to his iniquity\" (Thenius, after David Kimchi). Judging the people neither consisted in a censure pronounced by Samuel afterwards, nor in absolution granted to the penitent after they had made a confession of their sin, but in the fact that Samuel summoned the nation to Mizpeh to humble itself before Jehovah, and there secured for it, through his intercession, the forgiveness of its sin, and a renewal of the favour of its God, and thus restored the proper relation between Israel and its God, so that the Lord could proceed to vindicate His people's rights against their foes.\nWhen the Philistines heard of the gathering of the Israelites at Mizpeh (Sa1 7:7, Sa1 7:8), their princes went up against Israel to make war upon it; and the Israelites, in their fear of the Philistines, entreated Samuel, \"Do not cease to cry for us to the Lord our God, that He may save us out of the hand of the Philistines.\" Sa1 7:9. \"And Samuel took a milk-lamb (a lamb that was still sucking, probably, according to Lev 22:27, a lamb seven days old), and offered it whole as a burnt-offering to the Lord.\" כּליל is used adverbially, according to its original meaning as an adverb, \"whole.\" The Chaldee has not given the word at all, probably because the translators regarded it as pleonastic, since every burnt-offering was consumed upon the altar whole, and consequently the word כּליל was sometimes used in a substantive sense, as synonymous with עולה (Deu 33:10; Ps. 51:21). But in the passage before us, כּליל is not synonymous with עולה, but simply affirms that the lamb was offered upon the altar without being cut up or divided. Samuel selected a young lamb for the burnt-offering, not \"as being the purest and most innocent kind of sacrificial animal,\" - for it cannot possibly be shown that very young animals were regarded as purer than those that were full-grown, - but as being the most suitable to represent the nation that had wakened up to new life through its conversion to the Lord, and was, as it were, new-born. For the burnt-offering represented the man, who consecrated therein his life and labour to the Lord. The sacrifice was the substratum for prayer. When Samuel offered it, he cried to the Lord for the children of Israel; and the Lord \"answered,\" i.e., granted, his prayer.\nSa1 7:10\nWhen the Philistines advanced during the offering of the sacrifice to fight against Israel, \"Jehovah thundered with a great noise,\" i.e., with loud peals, against the Philistines, and threw them into confusion, so that they were smitten before Israel. The thunder, which alarmed the Philistines and threw them into confusion (יהמּם, as in Jos 10:10), was the answer of God to Samuel's crying to the Lord.\nSa1 7:11\nAs soon as they took to flight, the Israelites advanced from Mizpeh, and pursued and smote them to below Beth-car. The situation of this town or locality, which is only mentioned here, has not yet been discovered. Josephus (Ant. vi. 2, 2) has μέχρι Κοῤῥαίων.\nSa1 7:12\nAs a memorial of this victory, Samuel placed a stone between Mizpeh and Shen, to which he gave the name of Eben-ha-ezer, i.e., stone of help, as a standing memorial that the Lord had thus far helped His people. The situation of Shen is also not known. The name Shen (i.e., tooth) seems to indicate a projecting point of rock (see Sa1 14:4), but may also signify a place situated upon such a point.\nSa1 7:13\nThrough this victory which was obtained by the miraculous help of God, the Philistines were so humbled, that they no more invaded the territory of Israel, i.e., with lasting success, as they had done before. This limitation of the words \"they came no more\" (lit. \"they did not add again to come into the border of Israel\"), is implied in the context; for the words which immediately follow, \"and the hand of Jehovah was against the Philistines all the days of Samuel,\" show that they made attempts to recover their lost supremacy, but that so long as Samuel lived they were unable to effect anything against Israel. This is also manifest from the successful battles fought by Saul (1 Samuel 13 and 14), when the Philistines had made fresh attempts to subjugate Israel during his reign. The defeats inflicted upon them by Saul also belong to the days of Samuel, who died but a very few years before Saul himself. Because of these battles which Saul fought with the Philistines, Lyra and Brentius understand the expression \"all the days of Samuel\" as referring not to the lifetime of Samuel, but simply to the duration of his official life as judge, viz., till the commencement of Saul's reign. But this is at variance with Sa1 7:15, where Samuel is said to have judged Israel all the days of his life. Seb. Schmidt has given, on the whole, the correct explanation of Sa1 7:13 : \"They came no more so as to obtain a victory and subdue the Israelites as before; yet they did return, so that the hand of the Lord was against them, i.e., so that they were repulsed with great slaughter, although they were not actually expelled, or the Israelites delivered from tribute and the presence of military garrisons, and that all the days that the judicial life of Samuel lasted, in fact all his life, since they were also smitten by Saul.\"\nSa1 7:14\nIn consequence of the defeat at Ebenezer, the Philistines were obliged to restore to the Israelites the cities which they had taken from them, \"from Ekron to Gath.\" This definition of the limits is probably to be understood as exclusive, i.e., as signifying that the Israelites received back their cities up to the very borders of the Philistines, measuring these borders from Ekron to Gath, and not that the Israelites received Ekron and Gath also. For although these chief cities of the Philistines had been allotted to the tribes of Judah and Dan in the time of Joshua (Jos 13:3-4; Jos 15:45-46), yet, notwithstanding the fact that Judah and Simeon conquered Ekron, together with Gaza and Askelon, after the death of Joshua (Jdg 1:18), the Israelites did not obtain any permanent possession. \"And their territory\" (coasts), i.e., the territory of the towns that were given back to Israel, not that of Ekron and Gath, \"did Israel deliver out of the hands of the Philistines. And there was peace between Israel and the Amorites;\" i.e., the Canaanitish tribes also kept peace with Israel after this victory of the Israelites over the Philistines, and during the time of Samuel. The Amorites are mentioned, as in Jos 10:6, as being the most powerful of the Canaanitish tribes, who had forced the Danites out of the plain into the mountains (Jdg 1:34-35)."
+    },
+    {
+      "src": "MHC",
+      "ref": "Leviticus 17:1",
+      "note_ref": "MHC/3/17/1",
+      "cites": [
+        "Leviticus 17:1-5"
+      ],
+      "text": "This statute obliged all the people of Israel to bring all their sacrifices to God's altar, to be offered there. And as to this matter we must consider,\nI. How it stood before. 1. It was allowed to all people to build altars, and offer sacrifices to God, where they pleased. Wherever Abraham had a tent he built an altar, and every master of a family was a priest to his own family, as Job 1:5. 2. This liberty had been an occasion of idolatry. When every man was his own priest, and had an altar of his own, by degrees, as they became vain in their imaginations, they invented gods of their own, and offered their sacrifices unto demons, Lev 17:7. The word signifies rough or hairy goats, because it is probable that in the shape the evil spirits often appeared to them, to invite their sacrifices and to signify their acceptance of them. For the devil, ever since he became a revolter from God and a rebel against him, has set up for a rival with him, and coveted to have divine honours paid him: he had the impudence to solicit our blessed Saviour to fall down and worship him. The Israelites themselves had learned in Egypt to sacrifice to demons. And some of them, it should seem, practised it even since the God of Israel had so gloriously appeared for them, and with them. They are said to go a whoring after these demons; for it was such a breach of their covenant with God as adultery is of the marriage covenant: and they were as strongly addicted to their idolatrous worships, and as hard to be reclaimed from them, as those that have given themselves over to fornication, to work all uncleanness with greediness; and therefore it is with reference to this that God calls himself a jealous God.\nII. How this law settled it. 1. Some think that the children of Israel were by this law forbidden, while they were in the wilderness, to kill any beef, or mutton, or veal, or lamb, or goat, even for their common eating, but at the door of the tabernacle, where the blood and the fat were to be offered to God upon the altar, and the flesh to be returned back to the offerer to be eaten as a peace-offering, according to the law. And the statute is so worded (Lev 17:3, Lev 17:4) as to favour this opinion, for it speaks generally of killing any ox, or lamb, or goat. The learned Dr. Cudworth puts this sense upon it, and thinks that while they had their tabernacle so near them in the midst of their camp they ate no flesh but what had first been offered to God, but that when they were entering Canaan this constitution was altered (Deu 12:21), and they were allowed to kill their beasts of the flock and herd at home, as well as the roebuck and the hart; only thrice a year they were to see God at his tabernacle, and to eat and drink before him there. And it is probable that in the wilderness they did not eat much flesh but that of their peace-offerings, preserving what cattle they had, for breed, against they came to Canaan; therefore they murmured for flesh, being weary of manna; and Moses on that occasion speaks as if they were very sparing of the flocks and the herds, Num 11:4, Num 11:22. Yet it is hard to construe this as a temporary law, when it is expressly said to be a statute for ever (Lev 17:7); and therefore, 2. It should seem rather to forbid only the killing of beasts for sacrifice any where but at God's altar. They must not offer sacrifice, as they had done, in the open field (Lev 17:5), no, not to the true God, but it must be brought to the priest, to be offered on the altar of the Lord: and the solemnity they had lately witnessed, of consecrating both the priests and the altar, would serve for a good reason why they should confine themselves to both these that God had so signally appointed and owned. This law obliged not only the Israelites themselves, but the proselytes or strangers that were circumcised and sojourned among them, who were in danger of retaining an affection to their old ways of worship. If any should transgress this law, and offer sacrifice any where but at the tabernacle, (1.) The guilt was great: Blood shall be imputed to that man; he hath shed blood, Lev 17:4. Though it was but a beast he had killed, yet, killing it otherwise than God had appointed, he was looked upon as a murderer. It is by the divine grant that we have the liberty to kill the inferior creatures, to the benefit of which we are not entitled, unless we submit to the limitations of it, which are that it be not done either with cruelty or with superstition, Gen 9:3, Gen 9:4. Nor was there ever any greater abuse done to the inferior creatures than when they were made either false gods or sacrifices to false gods, to which the apostle perhaps has special reference when he speaks of the vanity and bondage of corruption to which the creature was made subject, Rom 8:20, Rom 8:21, and compare Rom 1:23, Rom 1:25. Idolatrous sacrifices were looked upon, not only as adultery, but as murder: he that offereth them is as if he slew a man, Isa 66:3. (2.) The punishment should be severe: That man shall be cut off from among his people. Either the magistrate must do it if it were manifest and notorious, or, if not, God would take the work into his own hands, and the offender should be cut off by some immediate stroke of divine justice. The reasons why God thus strictly ordered all their sacrifices to be offered at one place were, [1.] For the preventing of idolatry and superstition. That sacrifices might be offered to God, and according to the rule, and without innovations, they must always be offered by the hands of the priests, who were servants in God's house, and under the eye of the high priest, who was ruler of the house, and took care to see every thing done according to God's ordinance. [2.] For the securing of the honour of God's temple and altar, the peculiar dignity of which would be endangered if they might offer their sacrifices any where else as well as there. [3.] For the preserving of unity and brotherly love among the Israelites, that meeting all at one altar, as all the children of the family meet daily at one table, they might live and love as brethren, and be as one man, of one mind in the Lord.\nIII. How this law was observed. 1. While the Israelites kept their integrity they had a tender and very jealous regard to this law, as appears by their zeal against the altar which was erected by the two tribes and a half, which they would by no means have left standing if they had not been satisfied that it was never designed, nor should ever be used, for sacrifice or offering, Jos 22:12, etc. 2. The breach of this law was for many ages the scandalous and incurable corruption of the Jewish church, witness that complaint which so often occurs in the history even of the good kings, Howbeit the high places were not taken away; and it was an inlet to the grossest idolatries. 3. Yet this law was, in extraordinary cases, dispensed with. Gideon's sacrifice (Jdg 6:26), Manoah's (Jdg 13:19), Samuel's (Sa1 7:9; Sa1 9:13; Sa1 11:15), David's (Sa2 24:18), and Elijah's (Kg1 18:23), were accepted, though not offered at the usual place: but these were all either ordered by angels or offered by prophets; and some think that after the desolation of Shiloh, and before the building of the temple, while the ark and altar were unsettled, it was more allowable to offer sacrifice elsewhere.\nIV. How the matter stands now, and what use we are to make of this law. 1. It is certain that the spiritual sacrifices we are now to offer are not confined to any one place. Our Saviour has made this clear (Joh 4:21), and the apostle (Ti1 2:8), according to the prophecy, that in every place incense should be offered, Mal 1:11. We have now no temple nor altar that sanctifies the gift, nor does the gospel unity lie in one place, but in one heart, and the unity of the spirit. 2. Christ is our altar, and the true tabernacle (Heb 8:2; Heb 13:10); in him God dwells among us, and it is in him that our sacrifices are acceptable to God, and in him only, Pe1 2:5. To set up other mediators, or other altars, or other expiatory sacrifices, is, in effect, to set up other gods. He is the centre of unity, in whom all God's Israel meet. 3. Yet we are to have respect to the public worship of God, not forsaking the assemblies of his people, Heb 10:25. The Lord loves the gates of Zion more than all the dwellings of Jacob, and so should we; see Eze 20:40. Though God will graciously accept our family offerings, we must not therefore neglect the door of the tabernacle."
+    },
+    {
+      "src": "MHC",
+      "ref": "Numbers 18:1",
+      "note_ref": "MHC/4/18/1",
+      "cites": [
+        "Numbers 18:6-8"
+      ],
+      "text": "The coherence of this chapter with that foregoing is very observable.\nI. The people, in the close of that chapter, had complained of the difficulty and peril that there were in drawing near to God, which put them under some dreadful apprehensions that the tabernacle in the midst of them, which they hoped would have been their joy and glory, would rather be their terror and ruin. Now, in answer to this complaint, God here gives them to understand by Aaron that the priests should come near for them as their representatives; so that, though the people were obliged to keep their distance, yet that should not at all redound to their disgrace or prejudice, but their comfortable communion with God should be kept up by the interposition of the priests.\nII. A great deal of honour God had now lately put upon Aaron; his rod had budded and blossomed, when the rods of the rest of the princes remained dry, and destitute both of fruit and ornament. Now lest Aaron should be puffed up with the abundance of the favours that were done him, and the miracles that were wrought for the support of him in his high station, God comes to him to remind him of the burden that was laid upon him, and the duty required from him as a priest. He would see reason not to be proud of his preferment, but to receive the honours of his office with reverence and holy trembling, when he considered how great was the charge committed to him, and how hard it would be for him to give a good account of it. Be not high-minded, but fear.\n1. God tells him of the danger that attended his dignity, Num 18:1. (1.) That both the priests and Levites (thou, and thy sons, and thy father's house) should bear the iniquity of the sanctuary; that is, if the sanctuary were profaned by the intrusion of strangers, or persons in their uncleanness, the blame should lie upon the Levites and priests, who ought to have kept them off. Though the sinner that thrust in presumptuously should die in his iniquity, yet his blood should be required at the hands of the watchmen. Or it may be taken more generally: \"If any of the duties or offices of the sanctuary be neglected, if any service be not done in its season or not according to the law, if any thing be lost or misplaced in the removal of the sanctuary, you shall be accountable for it, and answer it at your peril.\" (2.) That the priests should themselves bear the iniquity of the priesthood; that is, if they either neglected any part of their work or permitted any other persons to invade their office, and take their work out of their hands, they should bear the blame of it. Note, The greater the trust is of work and power that is committed to us the greater is our danger of contracting guilt, by falsifying and betraying that trust. This is a good reason why we should neither be envious at others' honours nor ambitious ourselves of high places, because great dignity exposes us to great iniquity. Those that are entrusted with the charge of the sanctuary will have a great deal to answer for. Who would covet the care of souls who considers the account that must be given of that care?\n2. He tells him of the duty that attended his dignity. (1.) That he and his sons must minister before the tabernacle of witness (Num 18:2); that is (as bishop Patrick explains it), before the most holy place, in which the ark was, on the outside of the veil of that tabernacle, but within the door of the tabernacle, of the congregation. They were to attend the golden altar, the table, and candlestick, which no Levite might approach to. You shall serve, Num 18:7. Not, \"You shall rule\" (it was never intended that they should lord it over God's heritage), but \"You shall serve God and the congregation.\" Note, The priesthood is a service. If any desire the office of a bishop he desires a good work. Ministers must remember that they are ministers, that is, servants, of whom it is required that they be humble, diligent, and faithful. (2.) That the Levites must assist him and his sons, and minister to them in all the service of the tabernacle (Num 18:2-4), though they must by no means come nigh the vessels of the sanctuary, nor at the altar meddle with the great services of burning the fat and sprinkling the blood. Aaron's family was very small, and, as it increased, the rest of the families of Israel would increase likewise, so that the hands of the priests neither were now nor were likely to be sufficient for all the service of the tabernacle; therefore (says God) the Levites shall be joined to thee, Num 18:2, and again Num 18:4, where there seems to be an allusion to the name of Levi, which signifies joined. Many of the Levites had of late set themselves against Aaron, but henceforward God promises that they should be heartily joined to him in interest and affection, and should no more contest with him. It was a good sign to Aaron that God owned him when he inclined the hearts of those concerned to own him too. The Levites are said to be given as a gift to the priests, Num 18:6. Note, We are to value it as a great gift of the divine bounty to have those joined to us that will be helpful and serviceable to us in the service of God. (3.) That both priests and Levites must carefully watch against the profanation of sacred things. The Levites must keep the charge of the tabernacle, that no stranger (that is, none who upon any account was forbidden to come) might come nigh (Num 18:4), and that upon pain of death, Num 18:7. And the priests must keep the charge of the sanctuary (Num 18:5), must instruct the people, and admonish them concerning the due distance they were to keep, and not suffer them to break the bounds set them, as Korah's company had done, that there be no wrath any more upon the children of Israel. Note, The preventing of sin is the preventing of wrath; and the mischief sin has done should be a warning to us for the future to watch against it both in ourselves and others.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Numbers 18:8",
+      "note_ref": "MHC/4/18/8",
+      "cites": [
+        "Numbers 18:6-8"
+      ],
+      "text": "The priest's service is called a warfare; and who goes a warfare at his own charges? As they were well employed, so they were well provided for, and well paid. None shall serve God for nought. All believers are spiritual priests, and God has promised to take care of them; they shall dwell in the land, and verily they shall be fed, and shall not want any good thing. Godliness has the promise of the life that now is. And from this plentiful provision here made for the priests the apostle infers that it is the duty of Christian churches to maintain their ministers; those that served at the altar lived upon the altar. So those that preach the gospel should live upon the gospel, and live comfortably, Co1 9:13, Co1 9:14. Scandalous maintenance makes scandalous ministers. Now observe, 1. That much of the provision that was made for them arose out of the sacrifices which they themselves were employed to offer. They had the skins of almost all the sacrifices, which they might sell, and they had a considerable share out of the meat-offerings, sin-offerings, etc. Those that had the charge of the offerings had the benefit, Num 18:8. Note, God's work is its own wages, and his service carries its recompence along with it. Even in keeping God's commandments there is great reward. The present pleasures of religion are part of its pay. 2. That they had not only a good table kept for them, but money likewise in their pockets for the redemption of the first-born, and those firstlings of cattle which might not be offered in sacrifice. Thus their maintenance was such as left them altogether disentangled from the affairs of this life; they had no grounds to occupy, no land to till, no vineyards to dress, no cattle to tend, no visible estate to take care of, and yet had a more plentiful income than any other families whatsoever. Thus God ordered it that they might be the more entirely addicted to their ministry, and not diverted from it, nor disturbed in it, by any worldly care or business (the ministry requires a whole man); and that they might be examples of living by faith, not only in God's providence, but in his ordinance. They lived from hand to mouth, that they might learn to take no thought for the morrow; sufficient for the day would be the provision thereof: and they had no estates to leave their children, that they might by faith leave their children, that they might by faith leave them to the care of that God who had fed them all their lives long. 3. Of the provision that was made for their tables some is said to be most holy (Num 18:9, Num 18:10), which was to be eaten by the priests themselves, and in the court of the tabernacle only; but other perquisites were less holy, of which their families might eat, at their own houses, provided they were clean, Num 18:11-13. See Lev 21:10, etc. 4. It is commanded that the best of the oil, and the best of the wine and wheat, should be offered for the first-fruits unto the Lord, which the priest were to have, Num 18:12. Note, We must always serve and honour God with the best we have, for he is the best, and best deserves it; he is the first, and therefore must have the first ripe. Those that think to save charges by putting God off with the refuse do but deceive themselves, for God is not mocked. 5. All this is given to the priests by reason of the anointing, Num 18:8. It was not for the sake of their personal merits above other Israelites that they had these tributes paid to them, be it known unto them; but purely for the sake of the office to which they were anointed. Thus all the comforts that are given to the Lord's people are given them by reason of the anointing which they have received. It is said to be given them by an ordinance for ever (Num 18:8), and it is a covenant of salt for ever, Num 18:19. As long as the priesthood should continue this should continue to be the maintenance of it, that this lamp might not go out for want of oil to keep it burning. Thus provision is made that a gospel ministry should continue till Christ comes, by an ordinance for ever. Lo, I am with you (that is their maintenance and support) always, even to the end of the world. Thanks be to the Redeemer, it is the word which he has commanded to a thousand generations."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Samuel 1:1",
+      "note_ref": "MHC/9/1/1",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "We have here an account of the state of the family into which Samuel the prophet was born. His father's name was Elkanah, a Levite, and of the family of the Kohathites (the most honourable house of that tribe) as appears, Ch1 6:33, Ch1 6:34. His ancestor Zuph was an Ephrathite, that is, of Bethlehem-Judah, which was called Ephrathah, Ruth, Rut 1:2. There this family of the Levites was first seated, but one branch of it, in process of time, removed to Mount Ephraim, from which Elkanah descended. Micah's Levite came from Bethlehem to Mount Ephraim, Jdg 17:8. Perhaps notice is taken of their being originally Ephrathites to show their alliance to David. This Elkanah lived at Ramah, or Ramathaim, which signifies the double Ramah, the higher and lower town, the same with Arimathea of which Joseph was, here called Ramathaim-zophim. Zophim signifies watchmen; probably they had one of the schools of the prophets there, for prophets are called watchmen: the Chaldee paraphrase calls Elkanah a disciple of the prophets. But it seems to me that it was in Samuel that prophecy revived, before his time there being, for a great while, no open vision, Sa1 3:1. Nor is there any mention of a prophet of the Lord from Moses to Samuel, except Jdg 6:8. So that we have no reason to think that there was any nursery or college of prophets here till Samuel himself founded one, Jdg 19:19, Jdg 19:20. This is the account of Samuel's parentage, and the place of his nativity. Let us now take notice of the state of the family.\nI. It was a devout family. All the families of Israel should be so, but Levites' families in a particular manner. Ministers should be patterns of family religion. Elkanah went up at the solemn feasts to the tabernacle at Shiloh, to worship and to sacrifice to the Lord of hosts. I think this is the first time in scripture that God is called the Lord of hosts - Jehovah Sabaoth, a name by which he was afterwards very much called and known. Probably Samuel the prophet was the first that used this title of God, for the comfort of Israel, when in his time their hosts were few and feeble and those of their enemies many and mighty; then it would be a support to them to think that the God they served was Lord of hosts, of all the hosts both of heaven and earth; of them he has a sovereign command, and makes what use he pleases of them. Elkanah was a country Levite, and, for aught that appears, had not any place or office which required his attendance at the tabernacle, but he went up as a common Israelite, with his own sacrifices, to encourage his neighbours and set them a good example. When he sacrificed he worshipped, joining prayers and thanksgivings with his sacrifices. In this course of religion he was constant, for he went up yearly. And that which made it the more commendable in him was, 1. That there was a general decay and neglect of religion in the nations. Some among them worshipped other gods, and the generality were remiss in the service of the God of Israel, and yet Elkanah kept his integrity; whatever others did, his resolution was that he and his house should serve the Lord. 2. That Hophni and Phinehas, the sons of Eli, were the men that were now chiefly employed in the service of the house of God; and they were men that conducted themselves very ill in their place, as we shall find afterwards; yet Elkanah went up to sacrifice. God had then tied his people to one place and one altar, and forbidden them, under any pretence whatsoever, to worship elsewhere, and therefore, in pure obedience to that command, he attended at Shiloh. If the priests did not do their duty, he would do his. Thanks be to God, we, under the gospel, are not tied to any one place or family; but the pastors and teachers whom the exalted Redeemer has given to his church are those only whose ministration tends to the perfecting of the saints and the edifying of the body of Christ, Eph 4:11, Eph 4:12. None have dominion over our faith; but our obligation is to those that are the helpers of our holiness and joy, not to any that by their scandalous immoralities, like Hophni and Phinehas, make the sacrifices of the Lord to be abhorred, though still the validity and efficacy of the sacraments depend not on the purity of him that administers them.\nII. Yet it was a divided family, and the divisions of it carried with them both guilt and grief. Where there is piety, it is a pity but there should be unity. The joint-devotions of a family should put an end to divisions in it.\n1. The original cause of this division was Elkanah's marrying two wives, which was a transgression of the original institution of marriage, to which our Saviour reduces it. Mat 19:5, Mat 19:8, From the beginning it was not so. It made mischief in Abraham's family, and Jacob's, and here in Elkanah's. How much better does the law of God provide for our comfort and ease in this world than we should, if we were left to ourselves! It is probable that Elkanah married Hannah first, and, because he had not children by her so soon as he hoped, he married Peninnah, who bore him children indeed, but was in other things a vexation to him. Thus are men often beaten with rods of their own making.\n2. That which followed upon this error was that the two wives could not agree. They had different blessings: Peninnah, like Leah, was fruitful and had many children, which should have made her easy and thankful, though she was but a second wife, and was less beloved; Hannah, like Rachel, was childless indeed, but she was very dear to her husband, and he took all occasions to let both her and others know that she was so, and many a worthy portion he gave her (Sa1 1:5), and this should have made her easy and thankful. But they were of different tempers: Peninnah could not bear the blessing of fruitfulness, but she grew haughty and insolent; Hannah could not bear the affliction of barrenness, but she grew melancholy and discontented: and Elkanah had a difficult part to act between them.\n(1.) Elkanah kept up his attendance at God's altar notwithstanding this unhappy difference in his family, and took his wives and children with him, that, if they could not agree in other things, they might agree to worship God together. If the devotions of a family prevail not to put an end to its divisions, yet let not the divisions put a stop to the devotions.\n(2.) He did all he could to encourage Hannah, and to keep up her spirits under her affliction, Sa1 1:4, Sa1 1:5. At the feast he offered peace-offerings, to supplicate for peace in his family; and when he and his family were to eat their share of the sacrifice, in token of their communion with God and his altar, though he carved to Peninnah and her children competent portions, yet to Hannah he gave a worthy portion, the choicest piece that came to the table, the piece (whatever it was) that used to be given on such occasions to those that were most valued; this he did in token of his love to her, and to give all possible assurances of it. Observe, [1.] Elkanah loved his wife never the less for her being barren. Christ loves his church, notwithstanding her infirmities, her barrenness; and so ought men to love their wives, Eph 5:25. To abate our just love to any relation for the sake of any infirmity which they cannot help, and which is not their sin but their affliction, is to make God's providence quarrel with his precept, and very unkindly to add affliction to the afflicted. [2.] He studied to show his love so much the more because she was afflicted, insulted, and low-spirited. It is wisdom and duty to support the weakest, and to hold up those that are run down. [3.] He showed his great love to her by the share he gave her of his peace-offerings. Thus we should testify our affection to our friends and relations, by abounding in prayer for them. The better we love them the more room let us give them in our prayers.\n(3.) Peninnah was extremely peevish and provoking. [1.] She upbraided Hannah with her affliction, despised her because she was barren, and gave her taunting language, as one whom Heaven did not favour. [2.] She envied the interest she had in the love of Elkanah, and the more kind he was to her the more was she exasperated against her, which was all over base and barbarous. [3.] She did this most when they went up to the house of the Lord, perhaps because then they were more together than at other times, or because then Elkanah showed his affection most to Hannah. But it was very sinful at such a time to show her malice, when pure hands were to be lifted up at God's altar without wrath and quarrelling. It was likewise very unkind at that time to vex Hannah, not only because then they were in company, and others would take notice of it, but then Hannah was to mind her devotions, and desired to be most calm and composed, and free from disturbance. The great adversary to our purity and peace is then most industrious to ruffle us when we should be most composed. When the sons of God come to present themselves before the Lord Satan will be sure to come among them, Job 1:6. [4.] She continued to do this from year to year, not once or twice, but it was her constant practice; neither deference to her husband nor compassion to Hannah could break her of it. [5.] That which she designed was to make her fret, perhaps in hopes to break her heart, that she might possess her husband's heart solely, or because she took a pleasure in her uneasiness, nor could Hannah gratify her more than by fretting. Note, It is an evidence of a base disposition to delight in grieving those that are melancholy and of a sorrowful spirit, and in putting those out of humour that are apt to fret and be uneasy. We ought to bear one another's burdens, not add to them.\n(4.) Hannah (poor woman) could not hear the provocation: She wept, and did not eat, Sa1 1:7. It made her uneasy to herself and to all her relations. She did not eat of the feast; her trouble took away her appetite, made her unfit for any company, and a jar in the harmony of family-joy. It was of the feast upon the sacrifice that she did not eat, for they were not to eat of the holy things in their mourning, Deu 26:14; Lev 10:19. Yet it was her infirmity so far to give way to the sorrow of the world as to unfit herself for holy joy in God. Those that are of a fretful spirit, and are apt to lay provocations too much to heart, are enemies to themselves, and strip themselves very much of the comforts both of life and godliness. We find that God took notice of this ill effect of discontents and disagreements in the conjugal relation, that the parties aggrieved covered the altar of the Lord with tears, insomuch that he regarded not the offering, Mal 2:13.\n(5.) Elkanah said what he could to her to comfort her. She did not upbraid him with his unkindness in marrying another wife as Sarah did, nor did she render to Peninnah railing for railing, but took the trouble wholly to herself, which made her an object of much compassion. Elkanah showed himself extremely grieved at her grief (Sa1 1:8): Hannah, why weepest thou? [1.] He is much disquieted to see her thus overwhelmed with sorrow. Those that by marriage are made one flesh ought thus far to be of one spirit too, to share in each other's troubles, so that one cannot be easy while the other is uneasy. [2.] He gives her a loving reproof for it: Why weepest thou? And why is thy heart grieved? As many as God loves he rebukes, and so should we. He puts her upon enquiring into the cause of her grief. Though she had just reason to be troubled, yet let her consider whether she had reason to be troubled to such a degree, especially so much as to be taken off by it from eating of the holy things. Note, Our sorrow upon any account is sinful and inordinate when it diverts us from our duty to God and embitters our comfort in him, when it makes us unthankful for the mercies we enjoy and distrustful of the goodness of God to us in further mercies, when it casts a damp upon our joy in Christ, and hinders us from doing the duty and taking the comfort of our particular relations. [3.] He intimates that nothing should be wanting on his part to balance her grief: \"Am not I better to thee than ten sons? Thou knowest thou hast my entire affection, and let that comfort thee.\" Note, We ought to take notice of our comforts, to keep us from grieving excessively for our crosses; for our crosses we deserve, but our comforts we have forfeited. If we would keep the balance even, we must look at that which is for us, as well as at that which is against us, else we are unjust to Providence and unkind to ourselves. God hath set the one over-against the other (Ecc 7:14) and so should we."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Samuel 1:19",
+      "note_ref": "MHC/9/1/19",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "Here is, I. The return of Elkanah and his family to their own habitation, when the days appointed for the feast were over, Sa1 1:19. Observe how they improved their time at the tabernacle. Every day they were there, even that which was fixed for their journey home, they worshipped God; and they rose up early to do it. It is good to begin the day with God. Let him that is the first have the first. They had a journey before them, and a family of children to take with them, and yet they would not stir till they had worshipped God together. Prayer and provender do not hinder a journey. They had spent several days now in religious worship, and yet they attended once more. We should not be weary of well-doing.\nII. The birth and name of this desired son. At length the Lord remembered Hannah, the very thing she desired (Sa1 1:11), and more she needed not desire, that was enough, for then she conceived and bore a son. Though God seem long to forget his people's burdens, troubles, cares, and prayers, yet he will at length make it to appear that they are not out of his mind. This son the mother called Samuel, Sa1 1:20. Some make the etymology of this name to be much the same with that of Ishmael - heard of God, because the mother's prayers were remarkably heard, and he was an answer to them. Others, because of the reason she gives for the name, make it to signify asked of God. It comes nearly to the same; she designed by it to perpetuate the remembrance of God's favour to her in answering her prayers. Thus she designed, upon every mention of his name, to take the comfort to herself and to give God the glory of that gracious condescension. Note, Mercies in answer to prayer are to be remembered with peculiar expressions of thankfulness, as Psa 116:1, Psa 116:2. How many seasonable deliverances and supplies may we call Samuels, asked of God; and whatever is so we are in a special manner engaged to devote to him. Hannah intended by this name to put her son in mind of the obligation he was under to be the Lord's, in consideration of this, that he was asked of God and was at the same time dedicated to him. A child of prayer is in a special manner bound to be a good child. Lemuel's mother reminds him that he was the son of her vows, Pro 31:2.\nIII. The close attendance Hannah gave to the nursing of him, not only because he was dear to her, but because he was devoted to God, and for him she nursed him herself, and did not hang him on another's breast. We ought to take care of our children, not only with an eye to the law of nature as they are ours, but with an eye to the covenant of grace as they are given up to God. See Eze 16:20, Eze 16:21. This sanctifies the nursing of them, when it is done as unto the Lord. Elkanah went up every year to worship at the tabernacle, and particularly to perform his vow, perhaps some vow he had made distinct from Hannah's if God would give him a son by her, Sa1 1:21. But Hannah, though she felt a warm regard for the courts of God's house, begged leave of her husband to stay at home; for the women were not under any obligation to go up to the three yearly feasts, as the men were. However Hannah had been accustomed to go, but now desired to be excused, 1. Because she would not be so long absent from her nursery. Can a woman forget her sucking child? We may suppose she kept constantly at home, for, if she had gone any where, she would have gone to Shiloh. Note, God will have mercy and not sacrifice. Those that are detained from public ordinances by the nursing and tending of little children may take comfort from this instance, and believe that, if they do that with an eye to God, he will graciously accept them therein, and though they tarry at home they shall divide the spoil. 2. Because she would not go up to Shiloh till her son was big enough, not only to be taken thither, but to be left there; for, if once she took him thither, she thought she could never find in her heart to bring him back again. Note, Those who are stedfastly resolved to pay their vows may yet see good cause to defer the payment of them. Every thing is beautiful in its season. No animal was accepted in sacrifice till it had been for some time under the dam, Lev 22:27. Fruit is best when it is ripe. Elkanah agrees to what she proposes (Sa1 1:23): Do what seemeth thee good. So far was he from delighting to cross her that he referred it entirely to her. Behold how good and pleasant a thing it is, when yoke-fellows thus draw even in the yoke, and accommodate themselves to one another, each thinking well of what the other does, especially in works of piety and charity. He adds a prayer: Only the Lord establish his word, that is, \"God preserve the child through the perils of his infancy, that the solemn vow which God signified his acceptance of, by giving us the child, may be performed in its season, and so the whole matter may be accomplished.\" Note, Those that have in sincerity devoted their children to God may with comfort pray for them, that God will establish the word sealed to them at the same time that they were sealed for him.\nIV. The solemn entering of this child into the service of the sanctuary. We may take it for granted that he was presented to the Lord at forty days old, as all the first-born were (Luk 2:22, Luk 2:23): but this is not mentioned, because there was nothing in it singular; but now that he was weaned he was presented, not to be redeemed. Some think it was as soon as he was weaned from the breast, which, the Jews say, was not till he was three years old; it is said she gave him suck till she had weaned him, Sa1 1:23. Others think it was not till he was weaned from childish things, at eight or ten years old. But I see no inconvenience in admitting such an extraordinary child as this into the tabernacle at three years old, to be educated among the children of the priests. It is said (Sa1 1:24), The child was young, but, being intelligent above his years, he was no trouble. None can begin too soon to be religious. The child was a child, so the Hebrew reads it, in his learning-age. For whom shall he teach knowledge but those that are newly weaned from the milk and drawn from the breasts? Isa 28:9. Observe how she presented her child, 1. With a sacrifice; no less than three bullocks, with a meat-offering for each, Sa1 1:24. A bullock, perhaps, for each year of the child's life. Or one for a burnt-offering, another for a sin-offering, and the third of a peace-offering. So far was she from thinking that, by presenting her son to God, she made God her debtor, that she thought it requisite by these slain offerings to seek God's acceptance of her living sacrifice. All our covenants with God for ourselves and ours must be made by sacrifice, the great sacrifice. 2. With a grateful acknowledgement of God's goodness in answer to prayer. This she makes to Eli, because he had encouraged her to hope for an answer of peace (Sa1 1:26, Sa1 1:27): \"For this child I prayed. Here it was obtained by prayer, and here it is resigned to the prayer-hearing God. You have forgotten me, my lord, but I who now appear so cheerful am the woman, the very same, that three years ago stood by thee here weeping and praying, and this was the child I prayed for.\" Answers of prayer may thus be humbly triumphed in, to the glory of God. Here is a living testimony for God. \"I am his witness that he is gracious (see Psa 66:16-19); for this mercy, this comfort, I prayed, and the Lord has given me my petition.\" See Psa 34:2, Psa 34:4, Psa 34:6. Hannah does not remind Eli of it by adverting to the suspicion he had formerly expressed; she does not say, \"I am the woman whom you passed that severe censure upon; what do you think of me now?\" Good men ought not to be upbraided with their infirmities and oversights. They have themselves repented of them; let them hear no more of them. 3. With a full surrender of all her interest in this child unto the Lord (Sa1 1:28): I have lent him to the Lord as long as he liveth. And she repeats it, because she will never revoke it: He shall be (a deodand) lent or given to the Lord. Not that she designed to call for him back, as we do what we lend, but she uses this word Shaol, lent, because it is the same word that she had used before (Sa1 1:20, I asked him of the Lord), only in another conjugation. And (Sa1 1:27) the Lord gave me the petition which I asked (Shaalti, in Kal), therefore I have lent him (Hishilti, the same word in Hiphil), and so it gives another etymology of his name Samuel, not only asked of God, but lent to God. And observe, (1.) Whatever we give to God, it is what we have first asked and received from him. All our gifts to him were first his gifts to us. Of thy own, Lord, have we given thee, Ch1 29:14, Ch1 29:16. (2.) Whatever we give to God may upon this account be said to be lent to him, that though we may not recall it, as a thing lent, yet he will certainly repay it, with interest, to our unspeakable advantage, particularly what is given to his poor, Pro 19:17. When by baptism we dedicate our children to God, let us remember that they were his before by a sovereign right, and that they are ours still so much the more to our comfort. Hannah resigns him to the Lord, not for a certain term of years, as children are sent apprentices, but durante vita - as long as he liveth, he shall be lent unto the Lord, a Nazarite for life. Such must our covenant with God be, a marriage-covenant; as long as live we must be his, and never forsake him.\nLastly, The child Samuel did his part beyond what could have been expected from one of his years; for of him that seems to be spoken, He worshipped the Lord there, that is he said his prayers. He was no doubt extraordinarily forward (we have known children that have discovered some sense of religion very young), and his mother, designing him for the sanctuary, took particular care to train him up to that which was to be his work in the sanctuary. Note, Little children should learn betimes to worship God. Their parents should instruct them in his worship and bring them to it, put them upon engaging in it as well as they can, and God will graciously accept them and teach them to do better."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Samuel 7:7",
+      "note_ref": "MHC/9/7/7",
+      "cites": [
+        "1 Samuel 7:7-9"
+      ],
+      "text": "Here, I. The Philistines invade Israel (Sa1 7:7), taking umbrage from that general meeting for repentance and prayer as if it had been a rendezvous for war, and, if so, they thought it prudent to keep the war out of their own country. They had no just cause for this suspicion; but those that seek to do mischief to others will be forward to imagine that others design mischief to them. Now see here, 1. How evil sometimes seems to come out of good. The religious meeting of the Israelites at Mizpeh brought trouble upon them from the Philistines, which perhaps tempted them to wish they had staid at home and to blame Samuel for calling them together. But we may be in God's way and yet meet with distress; nay, when sinners begin to repent and reform, they must expect that Satan will muster all his force against them, and set his instruments on work to the utmost to oppose and discourage them. But, 2. How good is, at length, brought out of that evil. Israel could never be threatened more seasonably than at this time, when they were repenting and praying, nor could they have been better prepared to receive the enemy; nor could the Philistines have acted more impolitely for themselves than to make war upon Israel at this time, when they were making their peace with God. But God permitted them to do it, that he might have an opportunity immediately of crowning his people's reformation with tokens of his favour, and of confirming the words of his messenger, who had assured them that if they repented God would deliver them out of the hand of the Philistines. Thus he makes man's wrath to praise him, and serves the purposes of his grace to his people even by the malicious designs of their enemies against them, Mic 4:11, Mic 4:12.\nII. Israel cleaves closely to Samuel, as their best friend, under God, in this distress; though he was no military man, nor ever celebrated as a mighty man of valour, yet, being afraid of the Philistines, for whom they thought themselves an unequal match, they engaged Samuel's prayers for them: Cease not to cry unto the Lord our God for us, Sa1 7:8. They were here unarmed, unprepared for war, come together to fast and pray, not to fight; prayers and tears therefore being all the weapons many of them are now furnished with, to these they have recourse. And, knowing Samuel to have a great interest in heaven, they earnestly beg of him to improve it for them. They had reason to expect it, because he had promised to pray for them (Sa1 7:5), had promised them deliverance from the Philistines (Sa1 7:3), and they had been observant of him in all that which he had spoken to them from the Lord. Thus those who sincerely submit to Christ, as their lawgiver and judge, need not doubt of their interest in his intercession. They were very solicitous that Samuel should not cease to pray for them: what military preparations were to be made they would undertake them, but let him continue instant in prayer, perhaps remembering that when Moses did but let down his hand ever so little Amalek prevailed. O what a comfort is it to all believers that our great intercessor above never ceases, is never silent, for he always appears in the presence of God for us!\nIII. Samuel intercedes with God for them, and does it by sacrifice, Sa1 7:9. He took a sucking lamb, and offered it for a burnt-offering, a whole burnt-offering, to the Lord, and, while the sacrifice was in burning, with the smoke of it his prayers ascended up to heaven for Israel. Observe, 1. He made intercession with a sacrifice. Christ intercedes in the virtue of his satisfaction, and in all our prayers we must have an eye to his great oblation, depending upon that for audience and acceptance. Samuel's sacrifice without his prayer would have been an empty shadow, his prayer without the sacrifice would not have been so prevalent, but both together teach us what great things we may expect from God in answer to those prayers which are made with faith in Christ's sacrifice. 2. It was a burnt-offering, which was offered purely for the glory of God, so intimating that the great plea he relied on in his prayer was taken from the honour of God. \"Lord, help thy people now for thy name's sake.\" When we endeavour to give glory to God we may hope he will, in answer to our prayers, work for his own glory. 3. It was but one sucking lamb that he offered; for it is the integrity and intention of the heart that God looks at, more than the bulk or number of the offerings. This one lamb (typifying the Lamb of God) was more acceptable than thousands of rams or bullocks would have been without faith and prayer. Samuel was no priest, but he was a Levite and a prophet; the case was extraordinary, and what he did was by special direction, and therefore was accepted of God. And justly was this reproach put upon the priests because they had corrupted themselves.\nIV. God gave a gracious answer to Samuel's prayer (Sa1 7:9): The Lord heard him. He was himself a Samuel, asked of God, and many a Samuel, many a mercy in answer to prayer, God gave him. Sons of prayer should be famous for praying, as Samuel was among those that call upon his name, Psa 99:6. The answer was a real answer: the Philistines were discomfited (Sa1 7:10, Sa1 7:11), totally routed, and that in such a manner as highly magnified the prayer of Samuel, the power of God, and the valour of Israel. 1. The prayer of Samuel was honoured; for at the very time when he was offering up his sacrifice, and his prayer with it, the battle began, and turned immediately against the Philistines. Thus while he was yet speaking God heard, and answered in thunder, Isa 65:24. God showed that it was Samuel's prayer and sacrifice that he had respect to, and hereby let Israel know that as in a former engagement with the Philistines he had justly chastised their presumptuous confidence in the presence of the ark, on the shoulders of two profane priests, so now he graciously accepted their humble dependence upon the prayer of faith from the mouth and heart of a pious prophet. 2. The power of God was greatly honoured; for he took the work into his own hand, and discomfited them, not with great hail-stones, which would kill them (as Jos 10:11), but with a great thunder, which frightened them and put them into such terror and consternation that they fainted away, and became a very easy prey to the sword of Israel, before whom, being thus confounded, they were smitten. Josephus adds that the earth quaked under them when first they made the onset and in many places opened and swallowed them up, and that, besides the terror of the thunder, their faces and hands were burnt with lightning, which obliged them to shift for themselves by flight. And, being thus driven to their heels by the immediate hand of God (whom they feared not so much as they had feared his ark, Sa1 4:7), then, 3. Honour was put upon the hosts of Israel; they were made use of for the completing of the victory, and had the pleasure of triumphing over their oppressors: They pursued the Philistines, and smote them. How soon did they find the benefit of their repentance, and reformation, and return to God! Now that they have thus engaged him for them none of their enemies can stand before them.\nV. Samuel erected a thankful memorial of this victory, to the glory of God and for the encouragement of Israel, Sa1 7:12. He set up an Eben-ezer, the stone of help. If ever the people's hard hearts should lose the impressions of this providence, this stone would either revive the remembrance of it, and make them thankful, or remain a standing witness against them for their unthankfulness. 1. The place where this memorial was set up was the same where, twenty years before, the Israelites were smitten before the Philistines, for that was beside Eben-ezer, Sa1 4:1. The sin which procured that defeat formerly being pardoned upon their repentance, the pardon was sealed by this glorious victory in the very same place where they then suffered loss; see Hos 1:10. 2. Samuel himself took care to set up this monument. He had been instrumental by prayer to obtain the mercy, and therefore he thought himself in a special manner obliged to make this grateful acknowledgement of it. 3. The reason he gives for the name is, Hitherto the Lord hath helped us, in which he speaks thankfully of what was past, giving the glory of the victory to God only, who had added this to all his former favours; and yet he speaks somewhat doubtfully for the future: \"Hitherto things have done well, but what God may yet do with us we know not, that we refer to him; but let us praise him for what he has done.\" Note, The beginnings of mercy and deliverance are to be acknowledged by us with thankfulness so far as they go, though they be not completely finished, nay, though the issue seem uncertain. Having obtained help from God, I continue hitherto, says blessed Paul, Act 26:22."
+    },
+    {
+      "src": "TYN",
+      "ref": "Leviticus 17:1",
+      "note_ref": "TYN/3/17/1",
+      "cites": [
+        "Leviticus 17:1-5"
+      ],
+      "text": "17:1–26:46 This section deals with how the community of Israel was to observe holiness. Holiness does not describe one attribute of God among many. Rather, it is the sum of all attributes of his person, nature, and character (see study note on Exod 3:5). His “glory” is the manifestation of his perfect person, nature, and character (see Lev 9:6). God’s covenant with Israel meant that the people and the nation participated in God’s holiness. This holiness depended on Israel’s relationship with God. This relationship brought certain ethical and ritual expectations for Israel to uphold."
+    },
+    {
+      "src": "TYN",
+      "ref": "Leviticus 17:3",
+      "note_ref": "TYN/3/17/3",
+      "cites": [
+        "Leviticus 17:1-5"
+      ],
+      "text": "17:3-9 These regulations (see also Deut 12:15-21) indicate that unsupervised sacrifice could easily lead to the integration of pagan elements into the true worship of the Lord (Lev 17:7). Israel was camped around the Tabernacle (Num 2:2-34), so it was not inconvenient to bring an animal to the sanctuary for slaughter. Deuteronomy 12:20-24 anticipates Israel’s settlement in the land and the hardship imposed by this regulation. It permitted slaughtering and eating meat without bringing it to the sanctuary, as long as the blood was not consumed."
+    },
+    {
+      "src": "TYN",
+      "ref": "Leviticus 17:4",
+      "note_ref": "TYN/3/17/4",
+      "cites": [
+        "Leviticus 17:1-5"
+      ],
+      "text": "17:4 will be as guilty as a murderer: The person had shed an animal’s blood in an unlawful manner. The life of the animal had been given by God; it had to be returned to him in the blood of the sacrificed animal. • cut off: See study note on 7:20-21."
+    },
+    {
+      "src": "TYN",
+      "ref": "Leviticus 17:7",
+      "note_ref": "TYN/3/17/7",
+      "cites": [
+        "Leviticus 17:1-5"
+      ],
+      "text": "17:7 be unfaithful (Hebrew zanah, “commit fornication”): Israel was not to worship any god but the Lord (Exod 20:3). Israel’s covenant relationship to the Lord was even compared to a marriage (see Hos 1:2), and worshiping other gods could be described as spiritual adultery. In addition, many of the Canaanite religions were fertility cults. This verb reflects the prostitution conducted at Canaanite shrines to induce fertility in the land through rites of magic involving sexual intercourse. • The Hebrew word translated goat idols is the plural for a male goat. In the ancient world, the male goat was often a symbol of fertility or of a god of the underworld. During the reign of Jeroboam I, many Levites from the northern kingdom moved south to Jerusalem; they had been appalled by the use of goats and bulls in the northern kingdom’s worship (2 Chr 11:15-16)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Numbers 18:5",
+      "note_ref": "TYN/4/18/5",
+      "cites": [
+        "Numbers 18:6-8"
+      ],
+      "text": "18:5-7 Only the priests (Aaron and his descendants) could perform sacred duties inside the sanctuary proper or approach the altar, a sacred space that deserved special reverence. Only the high priest could serve in the Most Holy Place. The Levites were to serve only in the courtyard, away from the altar, except when it was time to assemble or disassemble the Tabernacle (ch 4).\n18:5 Aaron and the priests were the people’s representatives before the Lord, so their actions had consequences for all of Israel (cp. 16:18-21)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Numbers 18:6",
+      "note_ref": "TYN/4/18/6",
+      "cites": [
+        "Numbers 18:6-8"
+      ],
+      "text": "18:6-7 Levites . . . your special assistants: As explained in Num 3–4; see also 3:9; 8:16, 19."
+    },
+    {
+      "src": "TYN",
+      "ref": "Numbers 18:7",
+      "note_ref": "TYN/4/18/7",
+      "cites": [
+        "Numbers 18:6-8"
+      ],
+      "text": "18:7 Any unauthorized person . . . will be put to death: This verse warned Israelites at all levels in the sacred hierarchy to avoid areas where they were not allowed. Certain sacred places were off limits to those not qualified in a technical religious sense. Access to the most sacred areas was restricted, set apart for the holiest members of the religious community. Those who broke that taboo violated God’s holiness at the cost of their lives (see also 1:51, 53; 3:10, 29-38; 4:1-20)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Numbers 18:8",
+      "note_ref": "TYN/4/18/8",
+      "cites": [
+        "Numbers 18:6-8"
+      ],
+      "text": "18:8-14 The priests and Levites were to be supported by the sacrificial system (see, e.g., Lev 7:28-36). God’s appointed representatives deserve compensation for their efforts (cp. Matt 10:9-10; 1 Cor 9:3-10)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 1:1",
+      "note_ref": "TYN/9/1/1",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "1:1 Elkanah was a Levite (1 Chr 6:22-27). After the conquest of the Promised Land, the Levites were given towns in the territories of the other Israelite tribes, including Ephraim (Josh 21:20). • Elkanah’s hometown was Ramah (1 Sam 2:11). This location should not be confused with the Ramah in the tribal area of Benjamin (see Josh 18:25; Judg 19:13; Matt 2:18). • The region of Zuph was named after one of Elkanah’s ancestors, a Levite of the clan of Kohath (1 Chr 6:35). Saul first met Samuel in Zuph while searching for his father’s donkeys (1 Sam 9:5). • Elkanah’s lengthy genealogy suggests he was socially prominent."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 1:2",
+      "note_ref": "TYN/9/1/2",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "1:2 Hardly an instance exists in Scripture where a man’s simultaneous marriage to two wives did not produce serious friction (1:6-7; Gen 16; 21; 29)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 1:3",
+      "note_ref": "TYN/9/1/3",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "1:3 Elkanah made this trip each year; the law required that people attend three annual festivals (Exod 23:14-17). • According to God’s law, Israelites were to sacrifice at God’s chosen sanctuary (Deut 12:1-28). From the days of Joshua (Josh 18:1) through Samuel’s era, God’s sanctuary—the Tabernacle—was at Shiloh, a town in Ephraim some 8.5 miles north of Bethel en route to Shechem. King David eventually moved it to Jerusalem (2 Sam 6). • the Lord of Heaven’s Armies: Throughout the Hebrew Old Testament, God is often referred to as Yahweh Tseba’oth or ’Elohim Tseba’oth. Traditionally, these titles have been translated “Lord of hosts” and “God of hosts.” The term “hosts” (Hebrew tseba’oth, traditionally “sabaoth”) usually means “armies.” It can refer to human armies, such as the armies of Israel (e.g., 1 Sam 17:45), or foreign armies sent to fulfill the Lord’s purposes (e.g., Isa 9:11-13). However, most often it refers to God’s angelic armies sent from heaven to do his bidding and wage war on earth (e.g., 2 Kgs 6:17). This designation anticipates God’s role as a mighty warrior in the episode involving the Ark of the Covenant and the Philistines (1 Sam 4–6)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 1:4",
+      "note_ref": "TYN/9/1/4",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "1:4 sacrifice . . . portions of the meat: Certain sacrifices involved sharing part of the sacrificial animal in a communal meal (see Lev 7:11-34)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 7:5",
+      "note_ref": "TYN/9/7/5",
+      "cites": [
+        "1 Samuel 7:7-9"
+      ],
+      "text": "7:5 Mizpah was an administrative center and rallying point for the nation (see 7:16; 10:17; Judg 20:1). • I will pray . . . for you: Eli’s question in 1 Sam 2:25 is answered here; Samuel was the intercessor Israel needed."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 7:6",
+      "note_ref": "TYN/9/7/6",
+      "cites": [
+        "1 Samuel 7:7-9"
+      ],
+      "text": "7:6 drew water . . . poured it out: This type of ceremony is not mentioned elsewhere in the Old Testament. • At times Israelites went without food to express grief or to seek the Lord’s favor (2 Sam 1:12; 12:22-23; 1 Kgs 21:27; Ezra 8:21-23; Neh 9:1; Esth 4:3, 16; Joel 2:12; cp. Luke 2:37; Acts 13:2-3; 14:23). • To have Samuel as Israel’s judge was refreshing compared to Eli’s failed leadership (see 1 Sam 4:18 and corresponding study note) and the leadership of some other judges (e.g., Gideon, Judg 8:22-27; Jephthah, Judg 11:30–12:7; and Samson, Judg 13:1–16:21)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 7:9",
+      "note_ref": "TYN/9/7/9",
+      "cites": [
+        "1 Samuel 7:7-9"
+      ],
+      "text": "7:9 The whole burnt offering was probably for forgiveness of sin (see Lev 1:1-4). • The Lord answered with a forceful thunderclap (1 Sam 7:10)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 7:10",
+      "note_ref": "TYN/9/7/10",
+      "cites": [
+        "1 Samuel 7:7-9"
+      ],
+      "text": "7:10 voice of thunder: See 2:10. God often used similar tactics to throw Israel’s enemies into confusion and defeat them (e.g., Exod 14:24; 23:27; Josh 10:10; Judg 4:15)."
+    },
+    {
+      "src": "GNV",
+      "ref": "Leviticus 17:2",
+      "note_ref": "GNV/3/17/2",
+      "cites": [
+        "Leviticus 17:1-5"
+      ],
+      "text": "Lest they should practice that idolatry, which they had learned among the Egyptians."
+    },
+    {
+      "src": "GNV",
+      "ref": "Leviticus 17:3",
+      "note_ref": "GNV/3/17/3",
+      "cites": [
+        "Leviticus 17:1-5"
+      ],
+      "text": "To make a sacrifice of offering thereof."
+    },
+    {
+      "src": "GNV",
+      "ref": "Leviticus 17:4",
+      "note_ref": "GNV/3/17/4",
+      "cites": [
+        "Leviticus 17:1-5"
+      ],
+      "text": "I do as much abhor it as though he had killed a man, as Isa. 66:3."
+    },
+    {
+      "src": "GNV",
+      "ref": "Leviticus 17:5",
+      "note_ref": "GNV/3/17/5",
+      "cites": [
+        "Leviticus 17:1-5"
+      ],
+      "text": "Wheresoever they were moved with foolish devotion to offer it."
+    },
+    {
+      "src": "GNV",
+      "ref": "Numbers 18:4",
+      "note_ref": "GNV/4/18/4",
+      "cites": [
+        "Numbers 18:6-8"
+      ],
+      "text": "Which was not of the tribe of Levi."
+    },
+    {
+      "src": "GNV",
+      "ref": "Numbers 18:7",
+      "note_ref": "GNV/4/18/7",
+      "cites": [
+        "Numbers 18:6-8"
+      ],
+      "text": "Or, gift."
+    },
+    {
+      "src": "GNV",
+      "ref": "Numbers 18:8",
+      "note_ref": "GNV/4/18/8",
+      "cites": [
+        "Numbers 18:6-8"
+      ],
+      "text": "As the firstfruit, firstborn, and the tenths."
+    },
+    {
+      "src": "GNV",
+      "ref": "Numbers 18:9",
+      "note_ref": "GNV/4/18/9",
+      "cites": [
+        "Numbers 18:6-8"
+      ],
+      "text": "That which was not burned should be the Priest’s."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 1:1",
+      "note_ref": "GNV/9/1/1",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "There were two Ramatus, so that in this city in mount Ephraim were Zophim, that is, the learned men and Prophets."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 1:3",
+      "note_ref": "GNV/9/1/3",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "For the Ark was there at that time."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 1:19",
+      "note_ref": "GNV/9/1/19",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "According to her petition."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 1:21",
+      "note_ref": "GNV/9/1/21",
+      "cites": [
+        "1 Samuel 1:1-2, 20"
+      ],
+      "text": "This Elkanah was a Levite, 1 Chron. 6:27, and as some write once a year they accustomed to appear before the Lord with their families."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 7:5",
+      "note_ref": "GNV/9/7/5",
+      "cites": [
+        "1 Samuel 7:7-9"
+      ],
+      "text": "For Shiloh was now desolate, because the Philistines had taken thence the Ark."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 7:6",
+      "note_ref": "GNV/9/7/6",
+      "cites": [
+        "1 Samuel 7:7-9"
+      ],
+      "text": "The Chaldea text hath, that they drew water out of their heart: that is, wept abundantly for their sins."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 7:8",
+      "note_ref": "GNV/9/7/8",
+      "cites": [
+        "1 Samuel 7:7-9"
+      ],
+      "text": "Signifying, that in the prayers of the godly, there ought to be a vehement zeal."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 7:10",
+      "note_ref": "GNV/9/7/10",
+      "cites": [
+        "1 Samuel 7:7-9"
+      ],
+      "text": "According to the prophecy of Hannah Samuel’s mother, 1 Sam. 2:10."
+    }
+  ]
+}

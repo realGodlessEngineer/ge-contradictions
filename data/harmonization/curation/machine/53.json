@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 53,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Genesis 10 as proleptic: its language-divided nations describe the outcome of the Babel confusion that chapter 11 only narrates afterward.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steven DiMattei presses the conflict as a seam between sources, arguing the Priestly table of nations (Gen 10) treats distinct languages as a natural genealogical given, while the Yahwist Babel story (Gen 11) makes one original tongue divinely confused only later.",
+      "skeptic": {
+        "name": "Steven DiMattei",
+        "work": "Contradictions in the Bible, #22 (contradictionsinthebible.com)",
+        "year": "2013",
+        "attribution": "Steven DiMattei, Contradictions in the Bible, no. 22, \"One Language From Many, or Many From One?\" (2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Genesis 10:5",
+      "excerpt_text": "Every one after his tongue - This refers to the time posterior to the confusion of tongues and dispersion from Babel.",
+      "full_note_ref": "CLARKE/1/10/5",
+      "on_tension_rationale": "Directly answers the tension: it reads Gen 10:5's 'every one after his tongue' as describing a time AFTER the Babel confusion of ch. 11, i.e. ch. 10 is proleptic, so the 'many languages before one language' ordering is only apparent.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Genesis 10:5",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill harmonizes this exact pair, holding that the division of nations in Gen 10 'is by way of anticipation; and that, though thus related, was not done till after the confusion of languages' at Babel in Gen 11."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/does-genesis-contradict-itself-regarding-when-human-languages-divided/",
+        "domain": "carm.org",
+        "title": "CARM: Does Genesis contradict itself regarding when human languages divided?",
+        "note": "live apologetic treatment of the Gen 10 vs Gen 11:1 languages ordering, citing Gen 10:5/20/31"
+      }
+    }
+  }
+}

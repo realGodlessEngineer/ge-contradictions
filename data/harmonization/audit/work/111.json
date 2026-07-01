@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 111,
+  "question": "Where did Moses get water from a rock?",
+  "summary": "Exodus 17:1-7 locates the water-from-rock miracle at Rephidim in the wilderness of Sin (\"the rock in Horeb\"), with Moses naming the place Massah and Meribah. Numbers 20:1-8 (with Num 27:14 and Deut 32:51 confirming) locates it at Kadesh in the wilderness of Zin, at the waters of \"Meribah-Kadesh.\" Two different wildernesses, two different locations, same miracle (or so it appears).",
+  "consensus": "genuinely_disputed",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "The harmonizing tradition reads two separate murmuring episodes — one early at Rephidim/Horeb, one near the end at Kadesh in Zin — each independently named Meribah for the same chiding.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Source critics such as Martin Noth read Numbers 20 as a Priestly variant of the older Exodus 17 tradition — one water-from-the-rock story told twice and relocated, not two genuine events at two wildernesses.",
+    "skeptic": {
+      "name": "Martin Noth",
+      "work": "Numbers: A Commentary (Old Testament Library)",
+      "year": "1968",
+      "attribution": "Martin Noth (d. 1968), Numbers: A Commentary, OTL (Eng. trans. 1968; German Das vierte Buch Mose: Numeri, 1966)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Numbers 27:13",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, distinguishing the water of Meribah in Kadesh (wilderness of Zin) from the earlier Meribah at Rephidim, and elsewhere distinguishing the desert of Zin from the wilderness of Sin."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Meribah-in-the-Bible.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What is the significance of Meribah in the Bible?",
+        "note": "Live apologetic treatment arguing for two distinct Meribah sites/events (Rephidim/Massah vs. Meribah-Kadesh)."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "111#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Numbers 27:13",
+      "full_note_ref": "GILL/4/27/13",
+      "excerpt_text": "that is the water of Meribah in Kadesh, in the wilderness of Zin; so called to distinguish it from another Meribah, or water of strife, at Rephidim, Exo 17:7.",
+      "on_tension_rationale": "Gill explicitly distinguishes the Kadesh/Zin Meribah from the earlier Rephidim Meribah — the core two-location harmonization.",
+      "source_note_text": "For ye rebelled against my commandment the desert of Zin,.... Both Moses and Aaron, which was the reason why they were not suffered to go into the land of Canaan, but died a little before the children of Israel came into it: what their sin was, called here a rebelling against the commandment of the Lord; See Gill on Num 20:12, and is next suggested:\nin the strife of the congregation, to sanctify me before their eyes; when the congregation of Israel strove against the Lord for want of water, they did not sanctify the Lord by believing in him; but expressed some degree of diffidence before the congregation about fetching water out of the rock, or questioning whether the Lord would give it to such a rebellious people, though they had his order for it:\nthat is the water of Meribah in Kadesh, in the wilderness of Zin; so called to distinguish it from another Meribah, or water of strife, at Rephidim, Exo 17:7."
+    }
+  ]
+}

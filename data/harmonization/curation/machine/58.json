@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 58,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders distinguish kinds of seeing — God's symbolic or partial manifestation, and \"seen\" used for \"known\" — from a literal sight of his invisible essence.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, compiler of the Skeptic's Annotated Bible, presses that Scripture both narrates God being seen face to face and flatly states no one can see God and live.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Can God be seen?\" (skepticsannotatedbible.com/contra/seen.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (print ed. 2013; \"Can God be seen?\", contra/seen.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "John 1:18",
+      "excerpt_text": "No man hath seen God at any time — Moses and others heard his voice, and saw the cloud and the fire, which were the symbols of his presence; but such a manifestation of God as had now taken place, in the person of Jesus Christ, had never before been exhibited to the world. It is likely that the word seen, here, is put for known …",
+      "full_note_ref": "CLARKE/43/1/18",
+      "on_tension_rationale": "Directly reconciles the seeing/not-seeing tension: prior figures perceived only symbols of God's presence (cloud, fire, voice), not God himself, and 'seen' carries the sense 'fully known' — so John 1:18 does not contradict the theophanies. Single strongest harmonization, parity-capped against the lone named skeptic.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Exodus 33:20",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact tension on Exod 33:20: the unveiled glory cannot be seen in the present mortal state, while 'men have, in a sense, seen the face of God in this life, and have lived' — distinguishing the senses against the death-on-seeing notion (citing Gen 32:30)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/God-Moses-face-to-face.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: If Moses met face to face with God, why, later, was he not allowed to see God's face?",
+        "note": "Live apologetic treatment of Exod 33:11 (face to face) vs 33:20 (cannot see and live), plus the Jesus-as-exception thread (John 14:9)."
+      }
+    }
+  }
+}

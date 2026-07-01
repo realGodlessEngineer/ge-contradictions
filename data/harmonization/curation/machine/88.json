@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 88,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The strongest harmonization denies a seam, reading Ishmaelite, Midianite, and Medanite as interchangeable names for one band of Abrahamic traders that strangers could not tell apart.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Critical scholarship treats this passage as a textbook source seam: E. A. Speiser argued that Genesis 37:28 alone — with Midianites drawing Joseph up where Ishmaelites had been named — exposes two independent, conflicting documents woven together.",
+      "skeptic": {
+        "name": "E. A. Speiser",
+        "work": "Genesis (The Anchor Bible, vol. 1)",
+        "year": "1964",
+        "attribution": "E. A. Speiser (d. 1965), Genesis (The Anchor Bible, vol. 1, 1964)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 37:25",
+      "excerpt_text": "The different names given to the traders — viz., Ishmaelites (Gen 37:25, Gen 37:27, and Gen 37:28), Midianites (Gen 37:28), and Medanites (Gen 37:36) — do not show that the account has been drawn from different legends, but that these tribes were often confounded, from the fact that they resembled one another so closely, not only in their common descent from Abraham (Gen 16:15 and Gen 25:2), but also in the similarity of their mode of life and their constant change of abode, that strangers could hardly distinguish them, especially when they appeared not as tribes but as Arabian merchants, such as they are here described as being: \"Midianitish men, merchants.\"",
+      "full_note_ref": "KD/1/37/25",
+      "on_tension_rationale": "Directly rebuts the documentary-source reading Speiser presses, naming the very 'different legends' objection and harmonizing the three trader-names as one confounded Abrahamic people. Strongest single reconcile excerpt; parity-capped to one on this discrepancy_first row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Genesis 37:25",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this exact passage, arguing the varying trader-names (Ishmaelites/Midianites/Medanites) reflect tribes commonly confounded, not separate source documents. Row-surfaced harmonizer keyed to the passage; Haley's specific-passage coverage could not be confirmed."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/who-purchased-joseph-the-ishmaelites-or-the-midianites/",
+        "domain": "carm.org",
+        "title": "CARM: Who purchased Joseph, the Ishmaelites or the Midianites?",
+        "note": "Live apologetic treatment of Genesis 37; harmonizes via Ishmaelite/Midianite as synonymous overlapping Abrahamic tribes."
+      }
+    }
+  }
+}

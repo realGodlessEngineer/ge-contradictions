@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 90,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the migration roster not as a literal headcount of who had been born, but as a forward-looking list in which Benjamin's later-born sons are reckoned as having come down \"in their father's loins.\"",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bishop J. W. Colenso pressed the numbers of Genesis 46 as a literal census and argued the compressed chronology makes the listed grandsons and great-grandsons — Benjamin's ten sons among them — impossible to have been born before the descent into Egypt.",
+      "skeptic": {
+        "name": "John William Colenso",
+        "work": "The Pentateuch and Book of Joshua Critically Examined",
+        "year": "1862",
+        "attribution": "J. W. Colenso (d. 1883), Bishop of Natal, The Pentateuch and Book of Joshua Critically Examined (1862)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 46:8",
+      "excerpt_text": "Still less could Benjamin, who was only 23 or 24 years old at the time (vid., pp. 200f. and 204f.), have had 10 sons already, or, as Num 26:38-40 shows, eight sons and two grandsons. From all this it necessarily follows, that in the list before us grandsons and great-grandsons of Jacob are named who were born afterwards in Egypt, and who, therefore, according to a view which we frequently meet with in the Old Testament, though strange to our modes of thought, came into Egypt in lumbis patrum.",
+      "full_note_ref": "KD/1/46/8",
+      "on_tension_rationale": "Directly names the exact tension (Benjamin too young to have 10 sons) and gives the strongest harmonization: the roster proleptically counts grandsons/great-grandsons born later in Egypt as present 'in their fathers' loins.'",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Genesis 46:8",
+      "excerpt_text": "it is probable that some names in this list are brought in by prolepsis or anticipation, as the persons were born (probably) during the seventeen years which Jacob sojourned in Egypt, see Gen 46:12.",
+      "full_note_ref": "CLARKE/1/46/8",
+      "on_tension_rationale": "Distinct voice stating the prolepsis/anticipation reading — names later born in Egypt are listed by anticipation — which is precisely what dissolves the infant-vs-father-of-ten tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Genesis 46:8",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly and at length, arguing Benjamin was only 23 or 24 and that the list proleptically includes grandsons and great-grandsons born later in Egypt; the canonical harmonizing commentator surfaced on this row, used in place of Haley because Haley's specific coverage of the Benjamin-age problem could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) was found that engages THIS specific Benjamin age-vs-ten-sons tension on-topic; the defendinginerrancy.com Genesis 46:8-27 page addresses the twelve-vs-fourteen tribes question, not this one, so no link is supplied."
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 193,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read Joshua's long day as poetic and optical — light prolonged, not the celestial order itself broken — so Genesis 8:22's standing promise is untouched.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Spinoza presses that the text asserts the sun and moon literally halted — a real suspension of the natural order — and that this reflects the Hebrews' false geocentric cosmology, not what occurred.",
+      "skeptic": {
+        "name": "Baruch Spinoza",
+        "work": "Theological-Political Treatise (Tractatus Theologico-Politicus), ch. VI \"Of Miracles\"",
+        "year": "1670",
+        "attribution": "Baruch Spinoza (d. 1677), Theological-Political Treatise (1670), ch. VI"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Joshua 10:12",
+      "excerpt_text": "The language of a poem is not to be literally interpreted; and therefore, when the sun and moon are personified, addressed as intelligent beings, and represented as standing still, the explanation is that the light of the sun and moon was supernaturally prolonged by the same laws of refraction and reflection that ordinarily cause the sun to appear above the horizon, when it is in reality below it …",
+      "full_note_ref": "JFB/6/10/12",
+      "on_tension_rationale": "Directly answers the conflict with Gen 8:22's unbroken cycle: the celestial bodies did not actually stop; only the light was prolonged (poetic + refraction), so the regular order was not suspended.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Joshua 10:12",
+      "excerpt_text": "Moreover, the omnipotence of God might produce such an optical stoppage of the sun, or rather a continuance of the visibility of the sun above the horizon, by celestial phenomena which are altogether unknown to us or to naturalists in general, without interfering with the general laws affecting the revolution of the heavenly bodies.",
+      "full_note_ref": "KD/6/10/12",
+      "on_tension_rationale": "Explicitly an 'optical stoppage' that leaves 'the general laws affecting the revolution of the heavenly bodies' intact — i.e., the regular celestial order promised in Gen 8:22 was not broken.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Joshua 10:12",
+      "excerpt_text": "That no evil was done by this miraculous interference, nor any law or property of nature ultimately changed …",
+      "full_note_ref": "CLARKE/6/10/12",
+      "on_tension_rationale": "States the harmonizing claim that the miracle changed no natural law or property 'ultimately,' so the standing celestial cycle of Gen 8:22 remains intact; truncated mid-sentence at a sense-preserving point with the elision marker.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on Joshua 10:12",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke's note on Joshua 10:12 is a dedicated dissertation harmonizing the sun-standing-still miracle with the order of the universe, arguing no law of nature was ultimately changed. Used in place of Haley, whose specific coverage of this passage could not be confirmed."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/sun-stood-still.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Is it true that the sun stood still?",
+        "note": "Live apologetic treatment of Joshua 10 that also addresses the natural-order objection (the earth's rotation not stopping permanently)."
+      }
+    }
+  }
+}

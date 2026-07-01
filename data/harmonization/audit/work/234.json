@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 234,
+  "question": "Did Saul inquire of the Lord?",
+  "summary": "1 Samuel 28:6 says explicitly that Saul inquired of the Lord and the Lord refused to answer. 1 Chronicles 10:13-14 says Saul died because he \"inquired not of the Lord.\" The two texts disagree about whether Saul's failure was that he tried and got no answer, or that he never tried.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Harmonizers read the two texts on different planes: Saul went through the outward form of inquiry, but its insincerity let Chronicles say he inquired not at all.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The objection is pressed by Steve Wells in The Skeptic's Annotated Bible, who reads 1 Samuel 28:6 (Saul inquired) and 1 Chronicles 10:13-14 (Saul inquired not) as a flat factual contradiction the texts state in opposite terms.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible (\"Did Saul inquire of the Lord?\", skepticsannotatedbible.com/contra/inquired.html)",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (SAB Books, 2013)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 1 Chronicles 10:14",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats this exact pair, harmonizing 1 Chronicles 10:14's 'inquired not' with 1 Samuel 28:6's inquiry as a distinction between formal inquiry and sincere seeking. Used as the passage-keyed anchor because Haley's coverage of this specific pair is unconfirmed."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/1_Chronicles_10.14.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: 1 Chronicles 10:14 — Did Saul inquire of the Lord or not?",
+        "note": "Live apologetic page that engages 1 Sam 28:6 vs 1 Chr 10:13-14 directly, harmonizing via the Hebrew shaal (casual asking) vs darash (earnest seeking) distinction."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "234#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "1 Chronicles 10:14",
+      "full_note_ref": "JFB/13/10/14",
+      "excerpt_text": "He had done so in form (Sa1 28:6), but not in the spirit of a humble penitent, nor with the believing confidence of a sincere worshipper. His enquiry was, in fact, a mere mockery, and his total want of all right religious impressions was manifested by his rushing from God to a wretched impostor in the service of the devil …",
+      "on_tension_rationale": "Directly reconciles the two verses by name: Saul inquired 'in form' (1 Sam 28:6) but it was 'a mere mockery,' so Chronicles can say he inquired not. Names both poles of the tension and supplies the mechanism (form vs. sincerity).",
+      "source_note_text": "And inquired not of the Lord--He had done so in form (Sa1 28:6), but not in the spirit of a humble penitent, nor with the believing confidence of a sincere worshipper. His enquiry was, in fact, a mere mockery, and his total want of all right religious impressions was manifested by his rushing from God to a wretched impostor in the service of the devil [Sa1 28:7].\nNext: 1 Chronicles Chapter 11"
+    }
+  ]
+}

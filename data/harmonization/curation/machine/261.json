@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 261,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The standard harmonization, after J. H. Michaelis, treats the two totals as the same workforce counted on different principles, so the sum-totals match.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, cataloguing this as a numbered Kings–Chronicles discrepancy, presses the plain reading: the same tier of overseers over the same project is given as 3,300 in one account and 3,600 in the other.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); cf. skepticsannotatedbible.com, contradiction “How many overseers did Solomon have?”"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "1 Kings 5:16",
+      "excerpt_text": "The accounts in the Chronicles differ from these in a very peculiar manner, the number of overseers being given in Ch2 2:17 and 3600 … the sum-total of the overseers is the same in both accounts (3300 + 550 = 3850 in the books of Kings, and 3600 + 250 = 3850 in the Chronicles); and we must therefore follow J. H. Michaelis, an explain the differences as resulting from a different method of classification, namely, from the fact that in the Chronicles. the Canaanitish overseers are distinguished from the Israelitish (viz., 3600 Canaanites and 250 Israelites), whereas in the books of Kings the inferiores et superiores praefecti are distinguished.",
+      "full_note_ref": "KD/11/5/16",
+      "on_tension_rationale": "Directly addresses the 3,300 vs 3,600 difference, harmonizing it as one workforce classified two ways so the totals (3850) match.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on 1 Kings 5:16",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this exact discrepancy directly, following J. H. Michaelis: the same overseers are classified differently in Kings and Chronicles, yielding identical sum-totals (3850)."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No confirmed on-topic page on an allowlisted domain (gotquestions.org/carm.org/defendinginerrancy.com); link omitted rather than guessed."
+      }
+    }
+  }
+}

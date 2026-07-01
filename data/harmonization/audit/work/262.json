@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 262,
+  "question": "When did Solomon's reign begin?",
+  "summary": "1 Kings 6:1 places Solomon's fourth regnal year — when temple construction begins — 480 years after the Exodus. Paul's speech in Acts 13:17-22, combined with the regnal data from 1 Chronicles 29:26-27, produces a total of roughly 570+ years between the Exodus and Solomon's accession, contradicting the Kings figure by about 90 years.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders concede the apparent clash and reconcile it by re-totalling Josephus's 592 years from Exodus to temple, subtracting the wilderness, Joshua, Saul, David and Solomon's first four years down to roughly the Kings figure.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The Jewish polemicist Isaac of Troki pressed this very chronology against Paul, arguing that the regnal and judges spans Acts 13 presupposes cannot be squeezed into the Old Testament's own reckoning.",
+    "skeptic": {
+      "name": "Isaac of Troki",
+      "work": "Chizzuk Emunah (Faith Strengthened), Part 2, ch. 67",
+      "year": "c. 1593",
+      "attribution": "Isaac ben Abraham of Troki (d. 1594), Chizzuk Emunah (Faith Strengthened), Part 2, ch. 67"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Acts 13:20",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats this passage directly: it names the apparent contradiction with 1 Kings 6:1 and works the Exodus-to-temple total down to the Kings figure, the standard harmonizing line for this discrepancy."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page squarely treats the 480-years-vs-Acts-13 total; the nearest gotquestions material addresses the date of the Exodus, a different question, so no link is asserted."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "262#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Acts 13:20",
+      "full_note_ref": "JFB/44/13/20",
+      "excerpt_text": "As this appears to contradict Kg1 6:1, various solutions have been proposed. … Thus, from the Exodus to the building of the temple were five hundred ninety-two years [JOSEPHUS, Antiquities, 8.3.1]; deduct forty years in the wilderness; twenty-five years of Joshua's rule [JOSEPHUS, Antiquities, 5.1.29]; forty years of Saul's reign (Act 13:2); forty of David's and the first four years of Solomon's reign (Kg1 6:1), and there remain, just four hundred forty-three years; or, in round numbers, \"about four hundred fifty years.\"",
+      "on_tension_rationale": "JFB explicitly names the contradiction with 1 Kings 6:1 and supplies the harmonizing arithmetic — Josephus's 592 years from Exodus to temple, reduced by the wilderness/Joshua/Saul/David/Solomon spans — which is exactly the long-total-vs-480 tension the summary describes.",
+      "source_note_text": "after that he gave . . . judges . . . about the space of four hundred and fifty years--As this appears to contradict Kg1 6:1, various solutions have been proposed. Taking the words as they stand in the Greek, thus, \"after that, by the space of four hundred fifty years, He gave judges,\" the meaning may be, that about four hundred fifty years elapsed from the time of the covenant with Abraham until the period of the judges; which is historically correct, the word \"about\" showing that chronological exactness was not aimed at. But taking the sense to be as in our version, that it was the period of the judges itself which lasted about four hundred fifty years, this statement also will appear historically correct, if we include in it the interval of subjection to foreign powers which occurred during the period of the judges, and understand it to describe the whole period from the settlement of the tribes in Canaan to the establishment of royalty. Thus, from the Exodus to the building of the temple were five hundred ninety-two years [JOSEPHUS, Antiquities, 8.3.1]; deduct forty years in the wilderness; twenty-five years of Joshua's rule [JOSEPHUS, Antiquities, 5.1.29]; forty years of Saul's reign (Act 13:2); forty of David's and the first four years of Solomon's reign (Kg1 6:1), and there remain, just four hundred forty-three years; or, in round numbers, \"about four hundred fifty years.\""
+    }
+  ]
+}

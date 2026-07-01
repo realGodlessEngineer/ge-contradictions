@@ -1,0 +1,674 @@
+{
+  "contradiction_id": 51,
+  "question": "Who was Dedan's father?",
+  "summary": "Genesis 10:7 and 1 Chronicles 1:9 list Dedan as the son of Raamah in the Cushite/Hamite line, while Genesis 25:3 and 1 Chronicles 1:32 list Dedan as the son of Jokshan in the Abrahamic/Keturite line. The genealogies give two fathers for the same ethnonym.",
+  "consensus": "genuinely_disputed",
+  "consensus_id": 3,
+  "category": "Genealogy & Identity",
+  "contradiction_type": "genealogical",
+  "testament_scope": "OT_internal",
+  "books_in_tension": "Genesis, 1 Chronicles",
+  "refs_raw": [
+    "Genesis 10:7",
+    "1 Chronicles 1:9",
+    "Genesis 25:3",
+    "1 Chronicles 1:32"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Genesis 10:7",
+      "book": "Genesis",
+      "bolls": 1,
+      "ranges": [
+        [
+          10,
+          7,
+          7
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 1:9",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          1,
+          9,
+          9
+        ]
+      ]
+    },
+    {
+      "raw": "Genesis 25:3",
+      "book": "Genesis",
+      "bolls": 1,
+      "ranges": [
+        [
+          25,
+          3,
+          3
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 1:32",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          1,
+          32,
+          32
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 59,
+  "notes_raw_count": 65,
+  "notes_dropped": 6,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Genesis 10:5",
+      "note_ref": "GILL/1/10/5",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "By these were the isles of the Gentiles divided in their lands,.... That is, by those sons of Japheth before mentioned; and by \"isles\" are meant, not countries surrounded with water, for the isles in this sense would not have been sufficient for the posterity of Japheth; nor can it be thought they would leave the continent, where there was room enough for them, and go into islands; and besides must have found it difficult to get there, when shipping and navigation were little known: but it is usual with the Hebrews, of whom Moses, the writer of this history, was, to call all places beyond the Mediterranean sea, or whatsoever they went to by sea, or that were upon the sea coasts, islands, as Greece, Italy, &c. Moreover, the word sometimes signifies countries, as it does in Job 22:30 and so should be rendered here, as it is by some (y), \"the countries of the Gentiles\"; so called, because in the times of Moses, and at the writing of this history, those countries were inhabited by Heathens and idolaters, strangers to the true religion: and this division was not made at random, and at the pleasure of a rude company of men, but in an orderly regular manner, with the consent, and by the advice and direction of the principal men of those times; and especially it was directed by the wise providence of the most High, who divided to the nations their inheritance, and set the bounds of the people, Deu 32:8.\neveryone after his tongue, after their families, in their nations; this shows, that what is said concerning the division of countries to the sons of Japheth is by way of anticipation; and that, though thus related, was not done till after the confusion of languages, since the partition was made according to the different languages of men; those that were of the same language went and dwelt together, the several nations of them, and the several families in those nations; by which it appears that this was done by consultation, with great care and wisdom, ranging the people according to their tongues; of which nations were formed, and with them were taken the several families they consisted of.\n(y) \"regiones gentium\", Junius & Tremellius, Piscator, Patrick."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 10:6",
+      "note_ref": "GILL/1/10/6",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "And the sons of Ham,.... Next to the sons of Japheth, the sons of Ham are reckoned; these, Josephus (z) says, possessed the land from Syria, and the mountains of Amanus and Lebanon; laying hold on whatever was towards the sea, claiming to themselves the countries unto the ocean, whose names, some of them, are entirely lost, and others so greatly changed and deflected into other tongues, that they can scarcely be known, and few whose names are preserved entire; and the same observation will hold good of others. Four of the sons of Ham are mentioned:\nCush, and Mizraim, and Phut, and Canaan; the first of these, Cush, Josephus (a) says, has suffered no loss by time; for the Ethiopians, whose prince he was, are to this day by themselves, and all in Asia, called Chusaeans: but though this word Cush, as used in Scripture, is generally rendered by us Ethiopia, this must not be understood of Ethiopia in Africa, but in Arabia; and indeed is always to be understood of one part of Arabia, and which was near to the land of Judea; so Moses's wife is called an Ethiopian, when she was an Arabian, or of Midian, Num 12:1 and Chusan and Midian are mentioned together, Hab 3:7 see Kg2 19:9, Ch2 14:9 and Bochart (b) has shown, by various arguments, that the land of Cush was Arabia; and so the Targum of Jonathan interprets it here Arabia. There was a city called Cutha in Erac, a province in the country of Babylon (c), where Nimrod the son of Cush settled, which probably was called so from his father's name. Here the eastern writers say (d) Abraham was born, and is the same place mentioned in Kg2 17:24. The second son of Ham was Mizraim, the same with the Misor of Sanchoniatho (e), and the Menes of Herodotus (f), the first king of Egypt, and the builder of the city of Memphis in Egypt, called by the Turks to this day Mitzir (g). Mitzraim is a name by which Egypt is frequently called in Scripture, and this man was the father of the Egyptians; and because Egypt was inhabited by a son of Ham, it is sometimes called the land of Ham, Psa 105:23. The word is of the dual number, and serves to express Egypt by, which was divided into two parts, lower and upper Egypt. Josephus says (h), we call Egypt, Mestres, and all the Egyptians that inhabit it, Mestraeans; so the country is called by Cedrenus (i), Mestre; and Kairo, a principal city in it, is to this day by the Arabians called Al-messer, as Dr. Shaw (k) relates. The third son of Ham is Phut; of whom Josephus (l) says, that he founded Libya, calling the inhabitants of it after his name, Phuteans; and observes, that there is a river in the country of the Moors of his name; and that many of the Greek historians, who make mention of this river, also make mention of a country adjacent to it, called Phute: mention is made of this river as in Mauritania, both by Pliny (m) and Ptolemy (n) and by the latter of a city called Putea: this Phut is the Apollo Pythius of the Heathens, as some think. The last son of Ham is Canaan, the father of the Canaanites, a people well known in Scripture. Concerning these sons of Ham, there is a famous fragment of Eupolemus preserved in Eusebius (o); and is this;\"the Babylonians say, that the first was Belus, called Cronus or Saturn (that is, Noah), and of him was begotten another Belus and Chanaan (it should be read Cham), and he (i.e. Ham) begat Chanaan, the father of the Phoenicians; and of him another son, Chus, was begotten, whom the Greeks call Asbolos, the father of the Ethiopians, and the brother of Mestraim, the father of the Egyptians.''\n(z) Ut supra. (Antiqu. l. 1. c. 6. sect 1.) (a) Ibid. (b) Phaleg. l. 4. c. 2. (c) Vid. Hyde Hist. Relig. Pers. c. 2. p. 39, 40. (d) Vid. Hyde Hist. Relig. Pers. c. 2. p. 72. (e) Apud Euseb. Evangel. Praepar. l. 1. p. 36. (f) Enterpe sive, l. 2. c. 4. 99. (g) See Cumberland's Sanchoniatho, p. 59. (h) Ut supra. (Antiqu. l. 1. c. 6. sect 1.) (i) Apud Grotium de vera Christ. Relig. l. 1. p. 8. & Ainsworth in loc. (k) Travels, ch. 3. p. 294. Ed. 2. (l) Ut supra. (Antiqu. l. 1. c. 6. sect 1.) (m) Nat. Hist. l. 5. c. 1. (n) Geograph. l. 4. c. 1, 3. (o) Praepar. Evangel. l. 9. c. 17. p. 419."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 10:7",
+      "note_ref": "GILL/1/10/7",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "And the sons of Cush,.... The first born of Ham, who had five sons, next mentioned, besides Nimrod, spoken of afterwards by himself:\nSeba, and Havilah, and Sabtah, and Raamah, and Sabtecha; the first of these is Seba, the founder of the Sabaeans, according to Josephus (p), a people seated in Arabia Deserta, which seem to be the Sabaeans brought from the wilderness, Eze 23:42 and very probably the same that plundered Job of his cattle, Job 1:14. The second son is Havilah, who, as Josephus (q) says, was the father of the Evilaeans, now called Getuli; but the posterity of Havilah seem to be the same whom Strabo (r) calls Chaulotaeans, and whom he speaks of along with the Nabataeans and Agraeans, a people near Arabia Felix; and by Pliny (s) they are called Chavelaeans, and whom he speaks of as Arabians, and places them to the east of the Arabian Scenites. The third son is Sabtah; from him, Josephus (t) says, came the Sabathenes, who, by the Greeks, are called Astabari; the posterity of this man seemed to have settled in some part of Arabia Felix, since Ptolemy (u) makes mention of Sabbatha as the metropolis of that country, called by Pliny (w) Sabotale, or rather Sabota, as it should be read; Ptolemy places another city in this country he calls Saphtha, which seems to have its name from this man. The fourth son is Raamah or Ragmas, as Josephus calls (x) him, from whom sprung the Ragmaeans he says; and most of the ancients call him Rhegmah, the letter being pronounced as a \"G\", as in Gaza and Gomorrah: his posterity were also seated in Arabia Felix, near the Persian Gulf, where Ptolemy (y) places the city Rhegama, or as it is in the Greek text, Regma. The fifth son is Sabtecha, whom some make to be the father of a people in the same country, Arabia Felix, near the Persian Gulf, called Sachalitae; but Dr. Wells (z) thinks, that the descendants of this man might be from him regularly enough styled at first by the Greeks, Sabtaceni, which name might be afterwards softened into Saraceni, by which name it is well known the people of the northern parts of Arabia, where he places the descendants of this man, were formerly denominated; though Bochart (a) carries them into Carmania in Persia, there being a short cut over the straits of the Persian Gulf, out of Arabia thither, where he finds a city called Samydace, and a river, Samydachus, which he thinks may come from Sabtecha, the letters \"B\" and \"M\" being frequently changed, as Berodach is called Merodach, and Abana, Amana, and so in other names.\nAnd the sons of Raamah; Sheba, and Dedan; no account is given of any of the posterity of the other sons of Cush, only of this his fourth son Raamah, who is said to have two sons; the first is called Sheba, from whom came the Sabaeans, according to Josephus (b); not the Sabaeans before mentioned in Arabia Deserta, but those in Arabia Felix, where Pomponius Mela (c) and Strabo (d) seat a people called Sabaeans, and whose country abounded with frankincense, myrrh, and cinnamon; the latter makes mention of a city of theirs called Mariaba, and seems to be the same that is now called Mareb, and formerly Saba (e), very likely from this man. The other son, Dedan, is called by Josephus (f) Judadas, whom he makes to be founder of the Judadaeans, a nation of the western Ethiopians; but the posterity of this man most probably settled in Arabia, and yet are to be distinguished from the Dedanim in Isa 21:13 who were Arabians also, but descended from Dedan the son of Jokshan, a son of Abraham by Keturah, Gen 25:3 as well as from the inhabitants of Dedan in Edom, Jer 25:23 it is observed, that near the city Regma before mentioned, on the same coast eastward, was another city called Dedan; and to this day Daden, from which the neighbouring country also takes its name, as Bochart (g) has observed, from Barboza, an Italian writer, in his description of the kingdom of Ormus: so that we need not doubt, says Dr. Wells (h), but that here was the settlement of Dedan the son of Raamah or Rhegma, and brother of Sheba.\n(p) Ut supra. (Antiqu. l. 1. c. 6. sect. 1.) (q) Ibid. (r) Geograph. l. 16. p. 528. (s) Nat. Hist. l. 5. c. 11. (t) Ut supra. (Antiqu. l. 1. c. 6. sect. 1.) (u) Geograph. l. 6. c. 7. (w) Nat. Hist. l. 6. c. 28. (x) Ut supra. (Antiqu. l. 1. c. 6. sect. 1.) (y) Ut supra. (Geograph. l. 6. c. 7.) (z) Geography of the Old Testament, vol. 1. p. 198. (a) Phaleg l. 4. c. 4. col. 218. (b) Ut supra. (Antiqu. l. 1. c. 6. sect. 1.) (c) De Situ Orbis, l. 3. c. 8. (d) Geograph. l. 16. p. 536. (e) Via. Pocock. Specimen Arab. Hist p. 57. (f) Ut supra. (Antiqu. l. 1. c. 6. sect. 1.) (g) Phaleg. l. 4. c. 6. col. 219. (h) Ut supra, (Geography of the Old Testament, vol. 1.) p. 197."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 10:8",
+      "note_ref": "GILL/1/10/8",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "And Cush begat Nimrod,.... Besides the other five sons before mentioned; and probably this was his youngest son, being mentioned last; or however he is reserved to this place, because more was to be spoken of him than of any of the rest. Sir Walter Raleigh (i) thinks that Nimrod was begotten by Cush after his other children were become fathers, and of a later time than some of his grandchildren and nephews: and indeed the sons of Raamah, the fourth son of Cush, are taken notice of before him: however, the Arabic writers (k) must be wrong, who make him to be the son of Canaan, whereas it is so clear and express from hence that he was the son of Cush. In the Greek version he is called Nebrod, and by Josephus, Nebrodes, which is a name of Bacchus; and indeed Nimrod is the same with the Bacchus of the Heathens, for Bacchus is no other than Barchus, the son of Cush; and Jacchus, which is another of his names in Jah of Cush, or the god the son of Cush; and it is with respect to his original name Nebrod, or Nebrodes, that Bacchus is represented as clothed with the skin of \"nebris\", or a young hind, as were also his priests; and so in his name Nimrod there may be an allusion to \"Nimra\", which, in the Chaldee language, signifies a tiger, and which kind of creatures, with others, he might hunt; tigers drew in the chariot of Bacchus, and he was sometimes clothed with the skin of one; though the name of Nimrod is usually derived from \"to rebel\", because he was a rebel against God, as is generally said; and because, as Jarchi observes, he caused all the world to rebel against God, by the advice he gave to the generation of the division, or confusion of languages, the builders of Babel: he seems to be the same with Belus, the founder of Babel and of the Babylonian empire, whom Diodorus Siculus (l) confounds with Ninus his son:\nhe began to be a mighty man in the earth: that is, he was the first that formed a plan of government, and brought men into subjection to it; and so the Jews (m) make him to be the first king after God; for of the ten kings they speak of in the world, God is the first, and Nimrod the second; and so the Arabic writers (n) say, he was the first of the kings that were in the land of Babylon; and that, seeing the figure of a crown in the heaven, he got a golden one made like it, and put it on his head; hence it was commonly reported, that the crown descended to him from heaven; for this refers not to his gigantic stature, as if he was a giant, as the Septuagint render it; or a strong robust man, as Onkelos; nor to his moral character, as the Targum of Jonathan, which is,\"he began to be mighty in sin, and to rebel before the Lord in the earth;''but to his civil character, as a ruler and governor: he was the first that reduced bodies of people and various cities into one form of government, and became the head of them; either by force and usurpation, or it may be with the consent of the people, through his persuasion of them, and on account of the mighty and heroic actions done by him.\n(i) History of the World, B. 1. ch. 10. sect. 1. p. 109. (k) Elmacinus, p. 29. apud Hottinger. Smegma, p. 270. See the Universal History, vol. 1. p. 276. (l) Bibliothec. l. 2. p. 90. (m) Pirke Eliezer, c. 11. (n) Elmacinus, p. 29. Patricides, p. 16. apud Hottinger. Smegma, p. 271, 272. Abulpharag. Hist. Dynast. p. 18."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 25:1",
+      "note_ref": "GILL/1/25/1",
+      "cites": [
+        "Genesis 25:3"
+      ],
+      "text": "Then again Abraham took a wife,.... Three years after the death of Sarah, and when his son Isaac was married, and he alone, and now one hundred and forty years of age:\nand her name was Keturah; who she was, or of what family, is not said. An Arabic writer (z) says she was a daughter of the king of the Turks; another (a) of them calls her the daughter of King Rama; and another (b) the daughter of Pactor, king of Rabbah; but there were then no such people in being. Very probably she was one of Abraham's handmaids born in his house, or bought with his money, perhaps the chief and principal of them. The Targums of Jonathan and Jerusalem say she is the same with Hagar, and so, Jarchi; but this is rejected by Aben Ezra, since mention is made of Abraham's concubines, Gen 25:6; whereas it does not appear he ever had any other than Hagar and Keturah, and therefore could not be the same; and besides, the children of Hagar and Keturah are in this chapter reckoned as distinct. Cleodemus (c), a Heathen writer, makes mention of Keturah as a wife of Abraham's, by whom he had many children, and names three of them. Sir Walter Raleigh (d) thinks, that the Kenites, of whom Jethro, the father- in-law of Moses, was, had their name from Keturah, being a nation of the Midianites that descended from her.\n(z) Abul. Pharag. Hist. Dynast. p. 14. (a) Elmacinus, p. 34. apud Hottinger. Smegma, p. 309. (b) Patricides, p. 19. in ib. (c) Apud Euseb. Praepar. Evangel. l. 9. c. 20. p. 422. (d) History of the World, l. 2. c. 4. sect. 2. p. 157."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 25:2",
+      "note_ref": "GILL/1/25/2",
+      "cites": [
+        "Genesis 25:3"
+      ],
+      "text": "And she bare him Zimran,.... That Keturah should bear children who probably, was a young woman, is not strange; but that Abraham, whose body forty years before this was dead should now have any bore to him, may seem difficult to account for, and only can be attributed to the fresh vigour his body was endued with at the generation of Isaac; and which still continued for the fulfilment of the promise to him of the multiplication of his seed. But if the notion of a late learned bishop (e) is right, there will be no need to have recourse to any thing extraordinary; which is, that Abraham took Keturah for his concubine, about twenty years after his marriage with Sarah, she being barren, and long before he took Hagar; though not mentioned till after the death of Sarah, that the thread of the history might not be broken in upon; and there are various things which make it probable, as that she is called his concubine, Ch1 1:32, which one would think she should not be, if married to him after the death of Sarah, and when he had no other wife, and seeing before he died he had great grandchildren by her, and the children of her are reckoned down to the third generation; whereas there are only mention of two generations of Hagar, as in Gen 25:1; and therefore seems to have been taken by him before Hagar, and even when he was in Haran, and the children by her are thought to be the souls gotten there; nor does it seem very probable that he should take a wife after the death of Sarah, when he was one hundred and forty years of age, and was reckoned an old man forty years before this; and Dr. Lightfoot (f) is of opinion, that Abraham married her long before Isaac's marriage, or Sarah's death; and if this was the case, the difficulty of accounting for Abraham's fitness for generation vanishes. The first son of Keturah, born to him, was called Zimran, from whence came the Zamareni, a people in Arabia Felix mentioned by Pliny (g); and hereabout the sons of Keturah settled, being sent by Abraham into the east country, even into Arabia, which lay east of the place where he then was; and very probably Zabram; or it may be rather Zamram, a royal city in the country of the Cinaedocolpites, a part of Arabia Felix, as placed by Ptolemy (h), may have its name from this man: five more of Abraham's sons by Keturah follow:\nand Jokshan, and Medan, and Midian, and Ishbak, and Shuah: some think that the first of these is the same with Cahtan, whom the Arabs call the father of their nation; but that Cahtan rather seems to be Joktan the son of Eber, see Gen 10:25. Philostorgius (i) speaks of a nation in his time, called Homerites, who were a people that sprung from Keturah, and inhabited Arabia Felix, and who used circumcision on the eighth day: and Bishop Patrick observes from Theophanes, a chronologer of the ninth century, that the Homerites, who lived in the interior parts of Arabia, descended from Jectan, which he conjectures should be read Jocshan, though perhaps he is no other than the Joktan before mentioned. From Medan and Midian sprung the Midianites, so often mentioned in Scripture; their posterity seem to be confounded together, for the same people are called Medanites and Midianites, Gen 37:28; from these men the towns in Arabia might have their names, as the Modiana and Madiana of Ptolemy (k): as for Ishbak, there is no tracing of his name anywhere, unless, as Bishop Patrick observes, some footsteps of it are to be found in Bacascami, a town of the Zamareni, who descended from his brother Zimran, and in the people Backliltae, both mentioned by Pliny (l); though Junius think that Scabiosa Laodicea, in Laodicene of Syria, has its name from him; which seems not likely. The name of Shuah or Shuach may be traced in Socacia, Soaca, and Socheher, cities placed by Ptolemy (m) in Arabia Felix: though some think the posterity of this man are those whom the geographers call Sauchites, Sauchaeans, and Saccaeans, who settled in Arabia Deserta, and from whom Bildad the Shuhite, Job 2:11, descended; which is not improbable. But others have been of opinion, that the town of Suez, which Pliny calls Suaza, had its name from this Shuah, situate at the extremity of the Red sea (n).\n(e) Dr. Clayton's Chronology of the Hebrew Bible, p. 83, &c. (f) Observations on the Book of Genesis in his Works, vol. 1. p. 695. (g) Nat. Hist. l. 6. c. 28. (h) Geograph. l. 6. c. 7. (i) Eccl. Hist. l. 3. sect. 4. p. 477. (k) Ut supra. (h)) (l) Ut supra. (g)) (m) Ut supra. (h)) (n) See Egmont and Heyman's Travels, vol. 2. p. 184."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 25:3",
+      "note_ref": "GILL/1/25/3",
+      "cites": [
+        "Genesis 25:3"
+      ],
+      "text": "And Jokshan begat Sheba and Dedan,.... Bochart (o) is of opinion, that the posterity of this Sheba are the same with the Sabeans who inhabited at the entrance of Arabia Felix, not far from the Nabathaeans; and who, by Strabo (p), are mentioned together as near to Syria, and used to make excursions on their neighbours; and not without some colour of reason thought to be the same that plundered Job of his cattle, Job 1:15. From Dedan came the Dedanim or Dedanites, spoken of with the Arabians in Isa 21:13; Junius thinks Adada in Palmyrene of Syria had its name from this man, and in which country is the mountain Aladan or Alladadan. Bochart (q) more probably takes Dedan, a city in Idumea, to derive its name from him. There is a village called Adedi in the country of the Cassanites, a people of Arabia Felix, which Ptolemy (r) makes mention of, and seems to have some appearance of this man's name:\nand the sons of Dedan were Asshurim, and Letushim, and Leummim; these names being plural are thought not to be proper names of men, but appellatives, descriptive of their places of abode, or of their business: hence the Targum of Onkelos represents them as such that dwelt in camps, in tents, and in islands; and the Targums of Jonathan and Jerusalem call them merchants, artificers and heads of the people: however, Cleodemus (s) the Heathen historian is wrong in deriving Assyria from Asshurim, whom he calls Ashur; since Assyria and Assyrians are so called from Ashur, the son of Shem, Gen 10:22.\n(o) Phaleg. l. 2. c. 9. col. 227. (p) Geograph. l. 16. p. 536. (q) Phaleg. l. 4. c. 6. col. 219. (r) Ut supra. (Geograph. l. 6. c. 7.) (s) Apud Euseb. ut supra. (Praepar. Evangel. 9. c. 20. p. 432.)"
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 25:4",
+      "note_ref": "GILL/1/25/4",
+      "cites": [
+        "Genesis 25:3"
+      ],
+      "text": "And the sons of Midian,.... The fourth son of Abraham by Keturah; he had five sons next mentioned, who were heads of so many tribes or families in Midian: hence we read of five kings of Midian; Num 31:8; their names follow:\nEphah, and Epher, and Hanoch, and Abidah, and Eldaah: the two first of these, whom Cleodemus (t) calls Aphra and Apher, and makes them to be sons of Abraham by Keturah, when they were his grandsons, he says, from them the city Aphra, and all Africa, had their names, and that these accompanied Hercules into Lybia, he having married a daughter of Aphra. Ephah is mentioned along with Midian in Isa 60:6; but of the rest no notice is taken in Scripture. Ptolemy (u) makes mention both of a mountain, and of a village, near Madiana in Arabia Felix, called Hippos, which perhaps had their name from this man. Some trace of Epher is thought to be in Taphuron which Philostorgius says (w) was the metropolis of the Homerites, before mentioned; and Arrianus, as Bishop Patrick observes, expressly says, the metropolis of the Homerites, is called Aphar: to which may be added, that Ptolemy (x) speaks of a people called Tappharites, near the Homerites. Hanoch, the next son, is thought to have some footsteps of his name in Cane, a mart, which Ptolemy (y) places in the country of the Adramites in Arabia Felix, and also in the country of Canauna in Arabia, mentioned by, Pliny (z): near Cananua is placed, by the same writer, the island Devadae, called by Philostorgius (a) \"Divus\", in which it is supposed there is some trace of the name of Abidah, by an inversion of the two last syllables; and perhaps also in Abissa, which Ptolemy (b) places in the country of the Sachalites in Arabia Felix. As for Eldaah, Bishop Patrick thinks there are no remains of this name, unless in the city of Elana, from whence there was a gulf called Elanites, and a people that lived there Elanitae; but one would think there are some traces of it in the cities Alata, Lattha, and Leaththa, all, according to Ptolemy (c), in Arabia Felix:\nall these were the children of Keturah; her children and grandchildren.\n(t) Apud Euseb. ut supra. (Praepar. Evangel. l. 9. c. 20. p. 432.) (u) Ut supra. (Geograph. l. 6. c. 7.) (w) Eccl. Hist. l. 3. sect. 4. 478. (x) Ut supra. (u)) (y) lb. (z) Nat. Hist. l. 6. c. 28. (a) Ut supra, (w)) sect. 3. (b) Ut supra. (u)) (c) lb."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 1:1",
+      "note_ref": "GILL/13/1/1",
+      "cites": [
+        "1 Chronicles 1:9"
+      ],
+      "text": "Adam, Seth,.... These first four verses exactly agree with the account of the antediluvian patriarchs in Gen 5:1, the first letter in Adam is larger than usual, as a memorial, as Buxtorf (m) observes, of the first and only man, from whence mankind had their beginning, and whose history the author had undertaken to write.\n, the first letter in Adam is larger than usual, as a memorial, as Buxtorf (m) observes, of the first and only man, from whence mankind had their beginning, and whose history the author had undertaken to write.\n1 Chronicles 1:5\nch1 1:5\nch1 1:5\nch1 1:5The sons of Japheth, Gomer,.... Here begins the genealogy of the sons of Noah after the flood; of the sons of Japheth the elder, in this and the two following verses; next of the sons of Ham, the younger brother, Ch1 1:8, then of Shem, whose posterity are mentioned last, because from him, in the line of Heber, sprang Abraham, the ancestor of the Jewish nation, of whom the Messiah was to come, for whose sake this genealogy is given, Ch1 1:17. The whole is the same with the account in",
+      "anchor": true
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 1:28",
+      "note_ref": "GILL/13/1/28",
+      "cites": [
+        "1 Chronicles 1:32"
+      ],
+      "text": "The sons of Abraham,.... The famous and well known ancestor of the Jews; of Ishmael his firstborn, and his posterity; of his sons by Keturah; and of Isaac and his sons, an account is given from hence to the end of Ch1 1:34 entirely agreeing with that in Gen 25:1.\n.\n1 Chronicles 1:35\nch1 1:35\nch1 1:35\nch1 1:35The sons of Esau,.... The firstborn of Isaac; his posterity are named in this and the two following verses, as in Gen 36:1 only it should be observed, that Timna, Ch1 1:36 is not the name of a man, but was the concubine of Eliphaz, the eldest son of Esau, and the mother of Amalek, Gen 36:12, and so in the Arabic version it is read,\"and Timna, which was the concubine of Eliphaz, the son of Esau, bare him Amalek;''and so the Alexandrian copy of the Septuagint.",
+      "anchor": true
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 10:5",
+      "note_ref": "JFB/1/10/5",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "the isles of the Gentiles--a phrase by which the Hebrews described all countries which were accessible by sea (Isa 11:11; Isa 20:6; Jer 25:22). Such in relation to them were the countries of Europe, the peninsula of Lesser Asia, and the region lying on the east of the Euxine. Accordingly, it was in these quarters the early descendants of Japheth had their settlements."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 10:6",
+      "note_ref": "JFB/1/10/6",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "sons of Ham--emigrated southward, and their settlements were: Cush in Arabia, Canaan in the country known by his name, and Mizraim in Egypt, Upper and Lower. It is generally thought that his father accompanied him and personally superintended the formation of the settlement, whence Egypt was called \"the land of Ham\" [Psa 105:23, Psa 105:27; Psa 106:22]."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 10:8",
+      "note_ref": "JFB/1/10/8",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "Nimrod--mentioned as eclipsing all his family in renown. He early distinguished himself by his daring and successful prowess in hunting wild beasts. By those useful services he earned a title to public gratitude; and, having established a permanent ascendancy over the people, he founded the first kingdom in the world [Gen 10:10]."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 25:5",
+      "note_ref": "JFB/1/25/5",
+      "cites": [
+        "Genesis 25:3"
+      ],
+      "text": "Abraham gave all that he had unto Isaac . . . unto the sons of the concubines . . . Abraham gave gifts--While the chief part of the inheritance went to Isaac; the other sons (Ishmael included) migrated to \"the East country,\" that is, Arabia, but received each a portion of the patrimony, perhaps in cattle and other things; and this settlement of Abraham's must have given satisfaction, since it is still the rule followed among the pastoral tribes."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 1:4",
+      "note_ref": "JFB/13/1/4",
+      "cites": [
+        "1 Chronicles 1:9"
+      ],
+      "text": "Noah, Shem, Ham, and Japheth--The three sons of this patriarch are enumerated, partly because they were the founders of the new world, and partly because the fulfilment of Noah's prophecy (Gen 9:25-27) could not otherwise appear to have been verified.",
+      "anchor": true
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 1:30",
+      "note_ref": "JFB/13/1/30",
+      "cites": [
+        "1 Chronicles 1:32"
+      ],
+      "text": "Dumah--Dumah and Tema, the great Arab tribes of Beni Teman. Thus this writer [Historical Geography of Arabia] traces the names of all the heads of the twelve tribes of Ishmael as perpetuated in the clans or tribes of the Arabs in the present day."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 1:32",
+      "note_ref": "JFB/13/1/32",
+      "cites": [
+        "1 Chronicles 1:32"
+      ],
+      "text": "SONS OF KETURAH. (Ch1 1:32-33)\nsons of Keturah--These became founders of nomadic tribes in the north of Arabia and Syria, as Midian of the Midianites (Gen 36:35; Jdg 6:2).\nand Shuah--from whom Bildad sprang (Job 2:11)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 10:5",
+      "note_ref": "CLARKE/1/10/5",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "Isles of the Gentiles - Europe, of which this is allowed to be a general epithet. Calmet supposes that it comprehends all those countries to which the Hebrews were obliged to go by sea, such as Spain, Gaul, Italy, Greece, and Asia Minor.\nEvery one after his tongue - This refers to the time posterior to the confusion of tongues and dispersion from Babel."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 10:6",
+      "note_ref": "CLARKE/1/10/6",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "Cush - Who peopled the Arabic nome near the Red Sea in Lower Egypt. Some think the Ethiopians descended from him.\nMizraim - This family certainly peopled Egypt; and both in the East and in the West, Egypt is called Mezr and Mezraim.\nPhut - Who first peopled an Egyptian nome or district, bordering on Libya.\nCanaan - He who first peopled the land so called, known also by the name of the Promised Land."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 10:7",
+      "note_ref": "CLARKE/1/10/7",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "Seba - The founder of the Sabaeans. There seem to be three different people of this name mentioned in this chapter, and a fourth in Gen 25:3.\nHavilah - Supposed by some to mean the inhabitants of the country included within that branch of the river Pison which ran out of the Euphrates into the bay of Persia, and bounded Arabia Felix on the east.\nSabtah - Supposed by some to have first peopled an isle or peninsula called Saphta, in the Persian Gulf.\nRaamah - Or Ragmah, for the word is pronounced both ways, because of the ע ain, which some make a vowel, and some a consonant. Ptolemy mentions a city called Regma near the Persian Gulf; it probably received its name from the person in the text.\nSabtechah - From the river called Samidochus, in Caramanla; Bochart conjectures that the person in the text fixed his residence in that part.\nSheba - Supposed to have had his residence beyond the Euphrates, in the environs of Charran, Eden, etc.\nDedan - Supposed to have peopled a part of Arabia, on the confines of Idumea."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 10:8",
+      "note_ref": "CLARKE/1/10/8",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "Nimrod - Of this person little is known, as he is not mentioned except here and in Ch1 1:10, which is evidently a copy of the text in Genesis. He is called a mighty hunter before the Lord; and from Gen 10:10, we learn that he founded a kingdom which included the cities Babel, Erech, Accad, and Calneh, in the land of Shinar. Though the words are not definite, it is very likely he was a very bad man. His name Nimrod comes from מרד, marad, he rebelled; and the Targum, on Ch1 1:10, says: Nimrod began to be a mighty man in sin, a murderer of innocent men, and a rebel before the Lord. The Jerusalem Targum says: \"He was mighty in hunting (or in prey) and in sin before God, for he was a hunter of the children of men in their languages; and he said unto them, Depart from the religion of Shem, and cleave to the institutes of Nimrod.\" The Targum of Jonathan ben Uzziel says: \"From the foundation of the world none was ever found like Nimrod, powerful in hunting, and in rebellions against the Lord.\" The Syriac calls him a warlike giant. The word ציד tsayid, which we render hunter, signifies prey; and is applied in the Scriptures to the hunting of men by persecution, oppression, and tyranny. Hence it is likely that Nimrod, having acquired power, used it in tyranny and oppression; and by rapine and violence founded that domination which was the first distinguished by the name of a kingdom on the face of the earth. How many kingdoms have been founded in the same way, in various ages and nations from that time to the present! From the Nimrods of the earth, God deliver the world!\nMr. Bryant, in his Mythology, considers Nimrod as the principal instrument of the idolatry that afterwards prevailed in the family of Cush, and treats him as an arch rebel and apostate. Mr. Richardson, who was the determined foe of Mr. Bryant's whole system, asks, Dissertation, p. 405, \"Where is the authority for these aspersions? They are nowhere to be discovered in the originals, in the versions, nor in the paraphrases of the sacred writings.\" If they are not to be found either in versions or paraphrases of the sacred writings, the above quotations are all false."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 25:1",
+      "note_ref": "CLARKE/1/25/1",
+      "cites": [
+        "Genesis 25:3"
+      ],
+      "text": "Then again Abraham took a wife - When Abraham took Keturah we are not informed; it might have been in the lifetime of Sarah; and the original ויסף vaiyoseph, and he added, etc., seems to give some countenance to this opinion. Indeed it is not very likely that he had the children mentioned here after the death of Sarah; and from the circumstances of his age, feebleness, etc., at the birth of Isaac, it is still more improbable. Even at that age, forty years before the marriage of Isaac, the birth of his son is considered as not less miraculous on his part than on the part of Sarah; for the apostle expressly says, Rom 4:19, that Abraham considered not his own body Now Dead, when he was about a hundred years old, nor the Deadness of Sarah's womb; hence we learn that they were both past the procreation of children, insomuch that the birth of Isaac is ever represented as supernatural. It is therefore very improbable that he had any child after the birth of Isaac; and therefore we may well suppose that Moses had related this transaction out of its chronological order, which is not infrequent in the sacred writings, when a variety of important facts relative to the accomplishment of some grand design are thought necessary to be produced in a connected series. On this account intervening matters of a different complexion are referred to a future time. Perhaps we may be justified in reading the verse: \"And Abraham had added, and had taken a wife (besides Hagar) whose name was Keturah,\" etc. The chronology in the margin dates this marriage with Keturah A. M. 2154, nine years after the death of Sarah, A. M. 2145. Jonathan ben Uzziel and the Jerusalem Targum both assert that Keturah was the same as Hagar. Some rabbins, and with them Dr. Hammond, are of the same opinion; but both Hagar and Keturah are so distinguished in the Scriptures, that the opinion seems destitute of probability."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 25:2",
+      "note_ref": "CLARKE/1/25/2",
+      "cites": [
+        "Genesis 25:3"
+      ],
+      "text": "Zimran - Stephanus Byzantinus mentions a city in Arabia Felix called Zadram, which some suppose to have been named from this son of Keturah; but it is more likely, as Calmet observes, that all these sons of Abraham resided in Arabia Deserta; and Pliny, Hist. Nat., lib. vi., c. 28, mentions a people in that country called Zamarenians, who were probably the descendants of this person.\nJokshan - Several learned men have been of opinion that this Jokshan was the same as Kachtan, the father of the Arabs. The testimonies in favor of this opinion see in Dr. Hunt's Oration, De Antiquitate, etc., Linguae Arabicae, p. 4. Calmet supposes that the Cataneans, who inhabited a part of Arabia Deserta, sprang from this Jokshan.\nMedan, and Midian - Probably those who peopled that part of Arabia Petraea contiguous to the land of Moab eastward of the Dead Sea. St. Jerome terms the people of this country Madinaeans; and Ptolemy mentions a people called Madianites, who dwelt in the same place.\nIshbak - From this person Calmet supposes the brook Jabbok, which has its source in the mountains of Gilead, and falls into the sea of Tiberias, took its name.\nShuah - Or Shuach. From this man the Sacceans, near to Batanla, at the extremity of Arabia Deserta, towards Syria, are supposed to have sprung. Bildad the Shuhite, one of Job's friends, is supposed to have descended from this son of Abraham."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 25:3",
+      "note_ref": "CLARKE/1/25/3",
+      "cites": [
+        "Genesis 25:3"
+      ],
+      "text": "Sheba - From whom sprang the Sabeans, who robbed Job of his cattle. See Bochart and Calmet.\nAsshurim, and Letushim, and Leummim - We know not who these were, but as each name is plural they must have been tribes or families, and not individuals. Onkelos interprets these words of persons dwelling in camps, tents, and islands; and Jonathan ben Uzziel calls them merchants, artificers, and heads or chiefs of people."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 25:4",
+      "note_ref": "CLARKE/1/25/4",
+      "cites": [
+        "Genesis 25:3"
+      ],
+      "text": "Ephah, and Epher, etc. - Of these we know no more than of the preceding; an abundance of conjectures is already furnished by the commentators."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 1:8",
+      "note_ref": "CLARKE/13/1/8",
+      "cites": [
+        "1 Chronicles 1:9"
+      ],
+      "text": "The sons of Ham; Cush, and Mizraim - \"Arabia and Egypt.\" - T."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 1:9",
+      "note_ref": "CLARKE/13/1/9",
+      "cites": [
+        "1 Chronicles 1:9"
+      ],
+      "text": "Seba, and Havilah - \"Sindi and Hindi, and Semadaei, and Libyes and the Zingitae; but the sons of the Mauritanians, Demargad and Mesag.\" - T."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 1:10",
+      "note_ref": "CLARKE/13/1/10",
+      "cites": [
+        "1 Chronicles 1:9"
+      ],
+      "text": "He began to be mighty upon the earth - \"He began to be bold in sin, a murderer of the innocent, and a rebel before the Lord.\" - T."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 1:32",
+      "note_ref": "CLARKE/13/1/32",
+      "cites": [
+        "1 Chronicles 1:32"
+      ],
+      "text": "Keturah, Abraham's concubine - Abraham's pilegesh, or wife of the second rank; she was neither whore, harlot, nor concubine, in our sense of these words."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 10:6",
+      "note_ref": "KD/1/10/6",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "Descendants of Ham. - Cush: the Ethiopians of the ancients, who not only dwelt in Africa, but were scattered over the whole of Southern Asia, and originally, in all probability, settled in Arabia, where the tribes that still remained, mingled with Shemites, and adopted a Shemitic language. Mizraim is Egypt: the dual form was probably transferred from the land to the people, referring, however, not to the double strip, i.e., the two strips of land into which the country is divided by the Nile, but to the two Egypts, Upper and Lower, two portions of the country which differ considerably in their climate and general condition. The name is obscure, and not traceable to any Semitic derivation; for the term מצור in Isa 19:6, etc., is not to be regarded as an etymological interpretation, but as a significant play upon the word. The old Egyptian name is Kemi (Copt. Chmi, Kme), which, Plutarch says, is derived from the dark ash-grey colour of the soil covered by the slime of the Nile, but which it is much more correct to trace to Ham, and to regard as indicative of the Hamitic descent of its first inhabitants. Put denotes the Libyans in the wider sense of the term (old Egypt. Phet; Copt. Phaiat), who were spread over Northern Africa as far as Mauritania, where even in the time of Jerome a river with the neighbouring district still bore the name of Phut; cf. Bochart, Phal. iv. 33. On Canaan, see Gen 9:25.\nGen 10:7\nDescendants of Cush. Seba: the inhabitants of Mero; according to Knobel, the northern Ethiopians, the ancient Blemmyer, and modern Bisharin. Havilah: the Αὐαλῖται or Ἀβαλῖται of the ancients, the Macrobian Ethiopians in modern Habesh. Sabtah: the Ethiopians inhabiting Hadhramaut, whose chief city was called Sabatha or Sabota. Raamah: Ῥεγμά, the inhabitants of a city and bay of that name in south-eastern Arabia (Oman). Sabtecah: the Ethiopians of Caramania, dwelling to the east of the Persian Gulf, where the ancients mention a seaport town and a river Σαμυδάκη. The descendants of Raamah, Sheba and Dedan, are to be sought in the neighbourhood of the Persian Gulf, \"from which the Sabaean and Dedanitic Cushites spread to the north-west, where they formed mixed tribes with descendants of Joktan and Abraham.\" See notes on Gen 10:28 and Gen 25:3.\nGen 10:8-9\nBesides the tribes already named, there sprang from Cush Nimrod, the founder of the first imperial kingdom, the origin of which is introduced as a memorable event into the genealogy of the tribes, just as on other occasions memorable events are interwoven with the genealogical tables (cf. Ch1 2:7, Ch1 2:23; Ch1 4:22-23, Ch1 4:39-41).\n(Note: These analogies overthrow the assertion that the verses before us have been interpolated by the Jehovist into the Elohistic document; since the use of the name Jehovah is no proof of difference of authorship, nor the use of ילד for הוליד, as the former also occurs in Gen 10:13, Gen 10:15, Gen 10:24, and Gen 10:26.)\nNimrod \"began to be a mighty one in the earth.\" גּבּר is used here, as in Gen 6:4, to denote a man who makes himself renowned for bold and daring deeds. Nimrod was mighty in hunting, and that in opposition to Jehovah (ἐναντίον κυρίον, lxx); not before Jehovah in the sense of, according to the purpose and will of Jehovah, still less, like לאלהים in Jon 3:3, or τῷ Θεῷ in Act 7:20, in a simply superlative sense. The last explanation is not allowed by the usage of the language, the second is irreconcilable with the context. The name itself, Nimrod from מרד, \"we will revolt,\" points to some violent resistance to God. It is so characteristic that it can only have been given by his contemporaries, and thus have become a proper name.\n(Note: This was seen even by Perizonius (Origg. Babyl. p. 183), who says, \"Crediderim hominem hunc utpote venatorem ferocem et sodalium comitatu succinctum semper in ore habuisse et ingeminasse, ad reliquos in rebellionem excitandos, illud nimrod, nimrod, h.e. rebellemus, rebellemus, atque inde postea ab aliis, etiam ab ipso Mose, hoc vocabalo tanquam proprio nomine designatium,\" and who supports his opinion by other similar instances in history.)\nIn addition to this, Nimrod as a mighty hunter founded a powerful kingdom; and the founding of this kingdom is shown by the verb ותּהי with ו consec. to have been the consequence or result of his strength in hunting, so that the hunting was most intimately connected with the establishment of the kingdom. Hence, if the expression \"a mighty hunter\" relates primarily to hunting in the literal sense, we must add to the literal meaning the figurative signification of a \"hunter of men\" (\"trapper of men by stratagem and force,\" Herder); Nimrod the hunter became a tyrant, a powerful hunter of men. This course of life gave occasion to the proverb, \"like Nimrod, a mighty hunter against the Lord,\" which immortalized not his skill in hunting beasts, but the success of his hunting of men in the establishment of an imperial kingdom by tyranny and power. But if this be the meaning of the proverb, יהוה לפני \"in the face of Jehovah\" can only mean in defiance of Jehovah, as Josephus and the Targums understand it. And the proverb must have arisen when other daring and rebellious men followed in Nimrod's footsteps, and must have originated with those who saw in such conduct an act of rebellion against the God of salvation, in other words, with the possessors of the divine promises of grace.\n(Note: This view of Nimrod and his deeds is favoured by the Eastern legend, which not only makes him the builder of the tower of Babel, which was to reach to heaven, but has also placed him among the constellations of heaven as a heaven-storming giant, who was chained by God in consequence. Vid., Herzog's Real-Encycl. Art. Nimrod.)\nGen 10:10\n\"And the beginning of his kingdom was Babel,\" the well-known city of Babylon on the Euphrates, which from the time of Nimrod downwards has been the symbol of the power of the world in its hostility to God; - \"and Erech\" (Ὀρέχ, lxx), one of the seats of the Cutheans (Samaritans), Ezr 4:9, no doubt Orcho, situated, according to Rawlinson, on the site of the present ruins of Warka, thirty hours' journey to the south-east of Babel; - and Accad (Ἀρχάδ, lxx), a place not yet determined, though, judging from its situation between Erech and Calneh, it was not far from either, and Pressel is probably right in identifying it with the ruins of Niffer, to the south of Hillah; - \"and Calneh:\" this is found by early writers on the cite of Ctesiphon, now a great heap of ruins, twenty hours north-east of Babel. These four cities were in the land of Shinar, i.e., of the province of Babylon, on the Lower Euphrates and Tigris.\nGen 10:11-12\nFrom Shinar Nimrod went to Assyria אשּׁוּר is the accusative of direction), the country on the east of the Tigris, and there built four cities, or probably a large imperial city composed of the four cities, or probably a large imperial city composed of the four cities named. As three of these cities - Rehoboth-Ir, i.e., city markets (not \"street-city,\" as Bunsen interprets it), Chelach, and Resen - are not met with again, whereas Nineveh was renowned in antiquity for its remarkable size (vid., Jon 3:3), the words \"this is the great city\" must apply not to Resen, but to Nineveh. This is grammatically admissible, if we regard the last three names as subordinate to the first, taking as the sign of subordination (Ewald, 339a), and render the passage thus: \"he built Nineveh, with Rehoboth-Ir, Cheloch, and Resen between Nineveh and Chelach, this is the great city.\" From this it follows that the four places formed a large composite city, a large range of towns, to which the name of the (well-known) great city of Nineveh was applied, in distinction from Nineveh in the more restricted sense, with which Nimrod probably connected the other three places so as to form one great capital, possibly also the chief fortress of his kingdom on the Tigris. These four cities most likely correspond to the ruins on the east of the Tigris, which Layard has so fully explored, viz., Nebbi Ynus and Kouyunjik opposite to Mosul, Khorsabad five hours to the north, and Nimrud eight hours to the south of Mosul.\n(Note: This supposition of Rawlinson, Grote, M. v. Niebuhr, Knobel, Delitzsch and others, has recently been adopted by Ewald also.)\nGen 10:13-14\nFrom Mizraim descended Ludim: not the Semitic Ludim (Gen 10:22), but, according to Movers, the old tribe of the Lewtah dwelling on the Syrtea, according to others, the Moorish tribes collectively. Whether the name is connected with the Laud flumen (Plin. v. 1) is uncertain; in any case Knobel is wrong in thinking of Ludian Shemites, whether Hyksos, who forced their way to Egypt, or Egyptianized Arabians. Anamim: inhabitants of the Delta, according to Knobel. He associates the Enemetiei'm of the lxx with Sanemhit, or Northern Egypt: \"tsanemhit, i.e., pars, regio septentrionis.\" Lehabim (= Lubim, Nah 3:9) are, according to Josephus, the Δἰβνες or Δύβιες, not the great Libyan tribe (Phut, v. 6), which Nahum distinguishes from them, but the Libyaegyptii of the ancients. Naphtuchim: in Knobel's opinion, the Middle Egyptians, as the nation of Pthah, the god of Memphis: but Bochart is more probably correct in associating the name with Νέφθυς in Plut. de Is., the northern coast line of Egypt. Pathrusim: inhabitants of Pathros, Παθούρης, Egypt. Petrs, land of the south; i.e., Upper Egypt, the Thebais of the ancients. Casluchim: according to general admission the Colchians, who descended from the Egyptians (Herod. ii. 104), though the connection of the name with Cassiotis is uncertain. \"From thence (i.e., from Casluchim, which is the name of both people and country) proceeded the Philistines.\" Philistim, lxx Φυλιστιείμ or Ἀλλόφλοι, lit., emigrants or immigrants from the Ethiopic fallâsa. This is not at variance with Amo 9:7 and Jer 47:4, according to which the Philistines came from Caphtor, so that there is no necessity to transpose the relative clause after Philistim. The two statements may be reconciled on the simple supposition that the Philistian nation was primarily a Casluchian colony, which settled on the south-eastern coast line of the Mediterranean between Gaza (Gen 10:19) and Pelusium, but was afterwards strengthened by immigrants from Caphtor, and extended its territory by pressing out the Avim (Deu 2:23, cf. Jos 13:3). Caphtorim: according to the old Jewish explanation, the Cappadocians; but according to Lakemacher's opinion, which has been revived by Ewald, etc., the Cretans. This is not decisively proved, however, either by the name Cherethites, given to the Philistines in Sa1 30:14; Zep 2:5, and Eze 25:16, or by the expression \"isle of Caphtor\" in Jer 47:4.\nGen 10:15-20\nFrom Canaan descended \"Zidon his first-born, and Heth.\" Although Zidon occurs in Gen 10:19 and throughout the Old Testament as the name of the oldest capital of the Phoenicians, here it must be regarded as the name of a person, not only because of the apposition \"his first-born,\" and the verb ילד, \"begat,\" but also because the name of a city does not harmonize with the names of the other descendants of Canaan, the analogy of which would lead us to expect the nomen gentile \"Sidonian\" (Jdg 3:3, etc.); and lastly, because the word Zidon, from צוּד to hunt, to catch, is not directly applicable to a sea-port and commercial town, and there are serious objections upon philological grounds to Justin's derivation, \"quam a piscium ubertate Sidona appellaverunt, nam piscem Phoenices Sidon vocant\" (var. hist. 18, 3). Heth is also the name of a person, from which the term Hittite (Gen 25:9; Num 13:29), equivalent to \"sons of Heth\" (Gen 23:5), is derived. \"The Jebusite:\" inhabitants of Jebus, afterwards called Jerusalem. \"The Amorite:\" not the inhabitants of the mountain or heights, for the derivation from אמיר, \"summit,\" is not established, but a branch of the Canaanites, descended from Emor (Amor), which was spread far and wide over the mountains of Judah and beyond the Jordan in the time of Moses, so that in Gen 15:16; Gen 48:22, all the Canaanites are comprehended by the name. \"The Girgashites,\" Γεργεσαῖος (lxx), are also mentioned in Gen 15:21; Deu 7:1, and Jos 24:11; but their dwelling-place is unknown, as the reading Γεργεσηνοί in Mat 8:28 is critically suspicious. \"The Hivites\" dwelt in Sichem (Gen 34:2), at Gibeon (Jos 9:7), and at the foot of Hermon (Jos 11:3); the meaning of the word is uncertain. \"The Arkites:\" inhabitants of Ἀρκή, to the north of Tripolis at the foot of Lebanon, the ruins of which still exist (vid., Robinson). \"The Sinite:\" the inhabitants of Sin or Sinna, a place in Lebanon not yet discovered. \"The Arvadite,\" or Aradians, occupied from the eighth century before Christ, the small rocky island of Arados to the north of Tripolis. \"The Zemarite:\" the inhabitants of Simyra in Eleutherus. \"The Hamathite:\" the inhabitants or rather founders of Hamath on the most northerly border of Palestine (Num 13:21; Num 34:8), afterwards called Epiphania, on the river Orontes, the present Hamh, with 100,000 inhabitants. The words in Gen 10:18, \"and afterward were the families of the Canaanites spread abroad,\" mean that they all proceeded from one local centre as branches of the same tribe, and spread themselves over the country, the limits of which are given in two directions, with evident reference to the fact that it was afterwards promised to the seed of Abraham for its inheritance, viz., from north to south, - \"from Sidon, in the direction (lit., as thou comest) towards Gerar (see Gen 20:1), unto Gaza,\" the primitive Avvite city of the Philistines (Deu 2:23), now called Guzzeh, at the S.W. corner of Palestine, - and thence from west to east, in the direction towards Sodom, Gomorrah, Admah, and Zeboim (see Gen 19:24) to Lesha,\" i.e., Calirrhoe, a place with sulphur baths, on the eastern side of the Dead Sea, in Wady Serka Maein (Seetzen and Ritter)."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 25:3",
+      "note_ref": "KD/1/25/3",
+      "cites": [
+        "Genesis 25:3"
+      ],
+      "text": "Of the sons of Jokshan, Sheba was probably connected with the Sabaeans, who are associated in Job 6:19 with Tema, are mentioned in Job 1:15 as having stolen Job's oxen and asses, and, according to Strabo (xvi. 779), were neighbours of the Nabataeans in the vicinity of Syria. Dedan was probably the trading people mentioned in Jer 25:23 along with Tema and Bus (Isa 21:13; Jer 49:8), in the neighbourhood of Edom (Eze 24:15), with whom the tribe of Banu Dudan, in Hejas, has been compared. On their relation to the Cushites of the same name, vid., Gen 10:7 and Gen 10:28, - Of the sons of Dedan, the Asshurim have been associated with the warlike tribe of the Asir to the south of Hejas, the Letushim with the Banu Leits in Hejas, and the Leummim with the tribe of the Banu Lm, which extended even to Babylon and Mesopotamia. Of the descendants of Midian, Ephah is mentioned in Isa 60:6, in connection with Midian, as a people trading in gold and incense. Epher has been compared with the Banu Gifar in Hejas; Hanoch, with the place called Hanakye, three days' journey to the north of Medinah; Abidah and el-daah, with the tribes of Abide and Vadaa in the neighbourhood of Asir. But all this is very uncertain."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 25:5",
+      "note_ref": "KD/1/25/5",
+      "cites": [
+        "Genesis 25:3"
+      ],
+      "text": "Before his death, Abraham made a final disposition of his property. Isaac, the only son of his marriage with Sarah, received all his possessions. The sons of the concubines (Hagar and Keturah) were sent away with presents from their father's house into the east country, i.e., Arabia in the widest sense, to the east and south-east of Palestine."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 1:1",
+      "note_ref": "KD/13/1/1",
+      "cites": [
+        "1 Chronicles 1:9"
+      ],
+      "text": "Adam, Seth,.... These first four verses exactly agree with the account of the antediluvian patriarchs in Gen 5:1, the first letter in Adam is larger than usual, as a memorial, as Buxtorf (m) observes, of the first and only man, from whence mankind had their beginning, and whose history the author had undertaken to write.\n, the first letter in Adam is larger than usual, as a memorial, as Buxtorf (m) observes, of the first and only man, from whence mankind had their beginning, and whose history the author had undertaken to write.\n1 Chronicles 1:5\nch1 1:5\nch1 1:5\nch1 1:5The sons of Japheth, Gomer,.... Here begins the genealogy of the sons of Noah after the flood; of the sons of Japheth the elder, in this and the two following verses; next of the sons of Ham, the younger brother, Ch1 1:8, then of Shem, whose posterity are mentioned last, because from him, in the line of Heber, sprang Abraham, the ancestor of the Jewish nation, of whom the Messiah was to come, for whose sake this genealogy is given, Ch1 1:17. The whole is the same with the account in",
+      "anchor": true
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 1:28",
+      "note_ref": "KD/13/1/28",
+      "cites": [
+        "1 Chronicles 1:32"
+      ],
+      "text": "The sons of Abraham,.... The famous and well known ancestor of the Jews; of Ishmael his firstborn, and his posterity; of his sons by Keturah; and of Isaac and his sons, an account is given from hence to the end of Ch1 1:34 entirely agreeing with that in Gen 25:1.\n.\n1 Chronicles 1:35\nch1 1:35\nch1 1:35\nch1 1:35The sons of Esau,.... The firstborn of Isaac; his posterity are named in this and the two following verses, as in Gen 36:1 only it should be observed, that Timna, Ch1 1:36 is not the name of a man, but was the concubine of Eliphaz, the eldest son of Esau, and the mother of Amalek, Gen 36:12, and so in the Arabic version it is read,\"and Timna, which was the concubine of Eliphaz, the son of Esau, bare him Amalek;''and so the Alexandrian copy of the Septuagint.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 10:6",
+      "note_ref": "MHC/1/10/6",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "That which is observable and improvable in these verses is the account here given of Nimrod, Gen 10:8-10. He is here represented as a great man in his day: He began to be a mighty one in the earth, that is, whereas those that went before him were content to stand upon the same level with their neighbours, and though every man bore rule in his own house yet no man pretended any further, Nimrod's aspiring mind could not rest here; he was resolved to tower above his neighbours, not only to be eminent among them, but to lord it over them. The same spirit that actuated the giants before the flood (who became mighty men, and men of renown, Gen 6:4), now revived in him, so soon was that tremendous judgment which the pride and tyranny of those mighty men brought upon the world forgotten. Note, There are some in whom ambition and affectation of dominion seem to be bred in the bone; such there have been and will be, notwithstanding the wrath of God often revealed from heaven against them. Nothing on this side hell will humble and break the proud spirits of some men, in this like Lucifer, Isa 14:14, Isa 14:15. Now,\nI. Nimrod was a great hunter; with this he began, and for this became famous to a proverb. Every great hunter is, in remembrance of him, called a Nimrod. 1. Some think he did good with his hunting, served his country by ridding it of the wild beasts which infested it, and so insinuated himself into the affections of his neighbours, and got to be their prince. Those that exercise authority either are, or at least would be called, benefactors, Luk 22:25. 2. Others think that under pretence of hunting he gathered men under his command, in pursuit of another game he had to play, which was to make himself master of the country and to bring them into subjection. He was a mighty hunter, that is, he was a violent invader of his neighbours' rights and properties, and a persecutor of innocent men, carrying all before him, and endeavouring to make all his own by force and violence. He thought himself a mighty prince, but before the Lord (that is, in God's account) he was but a mighty hunter. Note, Great conquerors are but great hunters. Alexander and Caesar would not make such a figure in scripture-history as they do in common history; the former is represented in prophecy but as a he-goat pushing, Dan 8:5. Nimrod was a mighty hunter against the Lord, so the Septuagint; that is, (1.) He set up idolatry, as Jeroboam did, for the confirming of his usurped dominion. That he might set up a new government, he set up a new religion upon the ruin of the primitive constitution of both. Babel was the mother of harlots. Or, (2.) He carried on his oppression and violence in defiance of God himself, daring Heaven with his impieties, as if he and his huntsmen could out-brave the Almighty, and were a match for the Lord of hosts and all his armies. As if it were a small thing to weary men, he thinks to weary my God also, Isa 7:13.\nII. Nimrod was a great ruler: The beginning of his kingdom was Babel, Gen 10:10. Some way or other, by arts or arms, he got into power, either being chosen to it or forcing his way to it; and so laid the foundations of a monarchy, which was afterwards a head of gold, and the terror of the mighty, and bade fair to be universal. It does not appear that he had any right to rule by birth; but either his fitness for government recommended him, as some think, to an election, or by power and policy he advanced gradually, and perhaps insensibly, into the throne. See the antiquity of civil government, and particularly that form of it which lodges the sovereignty in a single person. If Nimrod and his neighbours began, other nations soon learned to incorporate under one head for their common safety and welfare, which, however it began, proved so great a blessing to the world that things were reckoned to go ill indeed when there was no king in Israel.\nIII. Nimrod was a great builder. Probably he was architect in the building of Babel, and there he began his kingdom; but, when his project to rule all the sons of Noah was baffled by the confusion of tongues, out of that land he went forth into Assyria (so the margin reads it, Gen 10:11) and built Nineveh, etc., that, having built these cities, he might command them and rule over them. Observe, in Nimrod, the nature of ambition. 1. It is boundless. Much would have more, and still cries, Give, give. 2. It is restless. Nimrod, when he had four cities under his command, could not be content till he had four more. 3. It is expensive. Nimrod will rather be at the charge of rearing cities than not have the honour of ruling them. The spirit of building is the common effect of a spirit of pride. 4. It is daring, and will stick at nothing. Nimrod's name signifies rebellion, which (if indeed he did abuse his power to the oppression of his neighbours) teaches us that tyrants to men are rebels to God, and their rebellion is as the sin of witchcraft."
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 25:1",
+      "note_ref": "MHC/1/25/1",
+      "cites": [
+        "Genesis 25:3"
+      ],
+      "text": "Abraham lived, after the marriage of Isaac, thirty-five years, and all that is recorded concerning him during the time lies here in a very few verses. We hear no more of God's extraordinary appearances to him or trials of him; for all the days, even of the best and greatest saints, are not eminent days, some slide on silently, and neither come nor go with observation; such were these last days of Abraham. We have here,\nI. An account of his children by Keturah, another wife whom he married after the death of Sarah. He had buried Sarah and married Isaac, the two dear companions of his life, and was now solitary. He wanted a nurse, his family wanted a governess, and it was not good for him to be thus alone. He therefore marries Keturah, probably the chief of his maid-servants, born in his house or bought with money. Marriage is not forbidden to old age. By her he had six sons, in whom the promise made to Abraham concerning the great increase of his posterity was in part fulfilled, which, it is likely, he had an eye to this marriage. The strength he received by the promise still remained in him, to show how much the virtue of the promise exceeds the power of nature.\nII. The disposition which Abraham made of his estate, Gen 25:5, Gen 25:6. After the birth of these sons, he set his house in order, with prudence and justice. 1. He made Isaac his heir, as he was bound to do, in justice to Sarah his first and principal wife, and to Rebekah who married Isaac upon the assurance of it, Gen 24:36. In this all, which he settled upon Isaac, are perhaps included the promise of the land of Canaan, and the entail of the covenant. Or, God having already made him the heir of the promise, Abraham therefore made him heir of his estate. Our affection and gifts should attend God's. 2. He gave portions to the rest of his children, both to Ishmael, though at first he was sent empty away, and to his sons by Keturah. It was justice to provide for them; parents that do not imitate him in this are worse than infidels. It was prudence to settle them in places distant from Isaac, that they might not pretend to divide the inheritance with him, nor be in any way a care or expense to him. Observe, He did this while he yet lived, lest it should not be done, or not so well done, afterwards. Note, In many cases it is wisdom for men to make their own hands their executors, and what they find to do to do it while they live, as far as they can. These sons of the concubines were sent into the country that lay east from Canaan, and their posterity were called the children of the east, famous for their numbers, Jdg 6:5, Jdg 6:33. Their great increase was the fruit of the promise made to Abraham, that God would multiply his seed. God, in dispensing his blessings, does as Abraham did; common blessings he gives to the children of this world, as to the sons of the bond-woman, but covenant-blessings he reserves for the heirs of promise. All that he has is theirs, for they are his Isaacs, from whom the rest shall be for ever separated.\nIII. The age and death of Abraham, Gen 25:7, Gen 25:8. He lived 175 years, just 100 years after he came to Canaan; so long he was a sojourner in a strange country. Though he lived long and lived well, though he did good and could ill be spared, yet he died at last. Observe how his death is here described. 1. He gave up the ghost. Hes life was not extorted from him, but he cheerfully resigned it; into the hands of the Father of spirits he committed his spirit. 2. He died in a good old age, an old man; so God had promised him. His death was his discharge from the burdens of his age: an old man would not so live always. It was also the crown of the glory of his old age. 3. He was full of years, or full of life (as it might be supplied), including all the conveniences and comforts of life. He did not live till the world was weary of him, but till he was weary of the world; he had had enough of it, and desired no more. Vixi quantum satis est - I have lived long enough. A good man, though he should not die old, dies full of days, satisfied with living here, and longing to live in a better place. 4. He was gathered to his people. His body was gathered to the congregation of the dead, and his soul to the congregation of the blessed. Note, Death gathers us to our people. Those that are our people while we live, whether the people of God or the children of this world, are the people to whom death will gather us.\nIV. His burial, Gen 25:9, Gen 25:10. Here is nothing recorded of the pomp or ceremony of his funeral; only we are told, 1. Who buried him: His sons Isaac and Ishmael. It was the last office of respect they had to pay to their good father. Some distance there had formerly been between Isaac and Ishmael; but it seems either that Abraham had himself brought them together while he lived, or at least that his death reconciled them. 2. Where they buried him: in his own burying-place, which he had purchased, and in which he had buried Sarah. Note, Those that in life have been very dear to each other may not only innocently, but laudably, desire to be buried together, that in their deaths they may not be divided, and in token of their hopes of rising together."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 1:1",
+      "note_ref": "MHC/13/1/1",
+      "cites": [
+        "1 Chronicles 1:9"
+      ],
+      "text": "This paragraph has Adam for its first word and Abraham for its last. Between the creation of the former and the birth of the latter were 2000 years, almost the one-half of which time Adam himself lived. Adam was the common father of our flesh, Abraham the common father of the faithful. By the breach which the former made of the covenant of innocency, we were all made miserable; by the covenant of grace made with the latter, we all are, or may be, made happy. We all are, by nature, the seed of Adam, branches of that wild olive. Let us see to it that, by faith, we become the seed of Abraham (Rom 4:11, Rom 4:12), that we be grafted into the good olive and partake of its root and fatness.\nI. The first four verses of this paragraph, and the last four, which are linked together by Shem (Ch1 1:4, Ch1 1:24), contain the sacred line of Christ from Adam to Abraham, and are inserted in his pedigree, Luk 3:34-38, the order ascending as here it descends. This genealogy proves the falsehood of that reproach, As for this man, we know not whence he is. Bishop Patrick well observes here that, a genealogy being to be drawn of the families of the Jews, this appears as the peculiar glory of the Jewish nation, that they alone were able to derive their pedigree from the first man that God created, which no other nation pretended to, but abused themselves and their posterity with fabulous accounts of their originals, the Arcadians fancying that they were before the moon, the people of Thessaly that they sprang from stones, the Athenians that they grew out of the earth, much like the vain imaginations which some of the philosophers had of the origin of the universe. The account which the holy scripture gives both of the creation of the world and of the rise of nations carries with it as clear evidences of its own truth as those idle traditions do of their own vanity and falsehood.\nII. All the verses between repeat the account of the replenishing of the earth by the sons of Noah after the flood. 1. The historian begins with those who were strangers to the church, the sons of Japhet, who were planted in the isles of the Gentiles, those western parts of the world, the countries of Europe. Of these he gives a short account (Ch1 1:5-7), because with these the Jews had hitherto had little or no dealings. 2. He proceeds to those who had many of them been enemies to the church, the sons of Ham, who moved southward towards Africa and those parts of Asia which lay that way. Nimrod the son of Cush began to be an oppressor, probably to the people of God in his time. But Mizraim, from whom came the Egyptians, and Canaan, from whom came the Canaanites, are both of them names of great note in the Jewish story; for with their descendants the Israel of God had severe struggles to get out of the land of Egypt and into the land of Canaan; and therefore the branches of Mizraim are particularly recorded (Ch1 1:11, Ch1 1:12), and of Canaan, Ch1 1:13-16. See at what a rate God valued Israel when he gave Egypt for their ransom (Isa 43:3), and cast out all these nations before them, Psa 80:8. 3. He then gives an account of those that were the ancestors and allies of the church, the posterity of Shem, Ch1 1:17-23. These peopled Asia, and spread themselves eastward. The Assyrians, Syrians, Chaldeans, Persians, and Arabians, descended from these. At first the originals of the respective nations were known; but at this day, we have reason to think, the nations are so mingled with one another, by the enlargement of commerce and dominion, the transplanting of colonies, the carrying away of captives, and many other circumstances, that no one nation, no, nor the greatest part of any, is descended entire from any one of these fountains. Only this we are sure of, that God has created of one blood all nations of men; they have all descended from one Adam, one Noah. Have we not all one father? Has not one God created us? Mal 2:10. Our register hastens to the line of Abraham, breaking off abruptly from all the other families of the sons of Noah but that of Arphaxad, from whom Christ was to come. The great promise of the Messiah (says bishop Patrick) was translated from Adam to Seth, from him to Shem, from him to Eber, and so to the Hebrew nation, who were entrusted, above all nations, with that sacred treasure, till the promise was performed and the Messiah had come, and then that nation was made not a people.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 1:28",
+      "note_ref": "MHC/13/1/28",
+      "cites": [
+        "1 Chronicles 1:32"
+      ],
+      "text": "All nations but the seed of Abraham are already shaken off from this genealogy: they have no part nor lot in this matter. The Lord's portion is his people. Of them he keeps an account, knows them by name; but those who are strangers to him he beholds afar off. Not that we are to conclude that therefore no particular persons of any other nation but the seed of Abraham found favour with God. It was a truth, before Peter perceived it, that in every nation he that feared God and wrought righteousness was accepted of him. Multitudes will be brought to heaven out of all nations (Rev 7:9), and we are willing to hope there were many, very many, good people in the world, that lay out of the pale of God's covenant of peculiarity with Abraham, whose names were in the book of life, though not descended from any of the following families written in this book. The Lord knows those that are his. But Israel was a chosen nation, elect in type; and no other nation, in its national capacity, was so dignified and privileged as the Jewish nation was. That is the holy nation which is the subject of the sacred story; and therefore we are next to shake off all the seed of Abraham but the posterity of Jacob only, which were all incorporated into one nation and joined to the Lord, while the other descendants from Abraham, for aught that appears, were estranged both from God and from one another.\nI. We shall have little to say of the Ishmaelites. They were the sons of the bondwoman, that were to be cast out and not to be heirs with the child of the promise; and their case was to represent that of the unbelieving Jews, who were rejected (Gal 4:22, etc.), and therefore there is little notice taken of that nation. Ishmael's twelve sons are just named here (Ch1 1:29-31), to show the performance of the promise God made to Abraham, in answer to his prayer for him, that, for Abraham's sake, he should become a great nation, and particularly that he should beget twelve princes, Gen 17:20.\nII. We shall have little to say of the Midianites, who descended from Abraham's children by Keturah. They were children of the east (probably Job was one of them), and were separated from Isaac, the heir of the promise (Gen 25:6), and therefore they are only named here, Ch1 1:32. The sons of Jokshan, the son of Keturah, are named also, and the sons of Midian (Ch1 1:32, Ch1 1:33), who became most eminent, and perhaps gave denomination to all these families, as Judah to the Jews.\nIII. We shall not have much to say of the Edomites. They had an inveterate enmity to God's Israel; yet because they descended from Esau, the son of Isaac, we have here an account of their families, and the names of some of their famous men, Ch1 1:35 to the end. Some slight differences there are between some of the names here, and as we had them in Gen. 36, whence this whole account is taken. Three of four names that were written with a Vau there are written with a Jod here, probably the pronunciation being altered, as is usual in other languages. we now write many words very differently from what they were written but 200 years ago. Let us take occasion, from the reading of these genealogies, to think, 1. Of the multitudes that have gone through this world, have acted their part in it, and then quitted it. Job, even in his early day, saw not only every man drawing after him, but innumerable before him, Job 21:33. All these, and all theirs, had their day; many of them made a mighty noise and figure in the world; but their day came to fall, and their place knew them no more. The paths of death are trodden paths, but vestigia nulla retrorsum - none can retrace their steps. 2. Of the providence of God, which keeps up the generations of men, and so preserves that degenerate race, though guilty and obnoxious, in being upon earth. How easily could he cut it off without either a deluge or a conflagration! Write but all the children of men childless, as some are, and in a few years the earth will be eased of the burden under which it groans; but the divine patience lets the trees that cumber the ground not only grow, but propagate. As one generation, even of sinful men, passes away, another comes (Ecc 1:4; Num 32:14), and will do so while the earth remains. Destroy it not, for a blessing is in it.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 10:5",
+      "note_ref": "TYN/1/10/5",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "10:5 seafaring peoples . . . various lands: They settled around the Mediterranean and on various islands. • language: This occurred after the Tower of Babel episode (11:1-9; see study note on 10:1–11:9)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 10:6",
+      "note_ref": "TYN/1/10/6",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "10:6 The peoples descended from Ham’s four sons (Egyptians, Babylonians, Assyrians, Canaanites) were Israel’s most hostile neighbors. • Cush was possibly in Ethiopia or ancient Nubia (northern Sudan). • Mizraim was the ancient name for Egypt (50:11). • Put was in Libya. • Canaan encompassed southern Syria, Phoenicia, and Palestine west of the Jordan River. In Moses’ time, Egypt and Canaan were provinces of the same empire. Ham’s descendants were excluded from the blessing of Shem’s line (9:20-28)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 10:7",
+      "note_ref": "TYN/1/10/7",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "10:7 The sons of Cush and Raamah together total seven. • Seba was in northern Africa (see Isa 43:3; 45:14). • Havilah was in southwest Arabia. • Sabtah was in southern Arabia, in ancient Hadramaut, near the Persian Gulf. • Raamah was in southwest Arabia near Najran. • Sabteca was in ancient Samudake near the Persian Gulf. • Sheba was a kingdom in southwest Arabia with commercial colonies (see 1 Kgs 10:1-29). • Dedan was in northern Arabia."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 10:8",
+      "note_ref": "TYN/1/10/8",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "10:8-12 Special attention is given to the early history of Babylonia and Assyria, the Mesopotamian empires that would conquer and exile Israel and Judah."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 25:1",
+      "note_ref": "TYN/1/25/1",
+      "cites": [
+        "Genesis 25:3"
+      ],
+      "text": "25:1-11 Though Abraham had sons by another wife, he safeguarded Isaac’s inheritance and blessing.\n25:1 Exactly when Abraham married . . . Keturah is unknown. It was probably, but not necessarily, after Sarah’s death."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 25:2",
+      "note_ref": "TYN/1/25/2",
+      "cites": [
+        "Genesis 25:3"
+      ],
+      "text": "25:2-4 The birth of these nations from Abraham partially fulfilled God’s promise to him (12:2; 17:4)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 25:3",
+      "note_ref": "TYN/1/25/3",
+      "cites": [
+        "Genesis 25:3"
+      ],
+      "text": "25:3 Sheba and Dedan: Cp. 10:7. Abraham’s descendants probably settled in these regions and became identified by their names, along with people of other lineage."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 25:5",
+      "note_ref": "TYN/1/25/5",
+      "cites": [
+        "Genesis 25:3"
+      ],
+      "text": "25:5-6 Abraham loved all his sons, so before he died, he gave them gifts and sent them away as he had sent Ishmael (21:8-14). In this way, he preserved Isaac’s position as his heir."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 1:5",
+      "note_ref": "TYN/13/1/5",
+      "cites": [
+        "1 Chronicles 1:9"
+      ],
+      "text": "1:5-23 The record of Noah’s descendants establishes Abraham’s place in history. The ethnic backdrop of the seventy nations of the world provides the context for Israel’s history (cp. Gen 10).",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 1:28",
+      "note_ref": "TYN/13/1/28",
+      "cites": [
+        "1 Chronicles 1:32"
+      ],
+      "text": "1:28-33 Using the same pattern as the author of Genesis, the Chronicler traces separately the descendants of Abraham apart from Isaac, listing the sons of Ishmael (1:29-31; cp. Gen 25:12-15) and the sons of Keturah (1 Chr 1:32-33; cp. Gen 25:1-3) before detailing the descendants in the chosen family line.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 1:34",
+      "note_ref": "TYN/13/1/34",
+      "cites": [
+        "1 Chronicles 1:32"
+      ],
+      "text": "1:34–2:2 Isaac’s genealogy first lists the descendants of Esau (1:35-54) and continues with Israel. The history of Edom is given in three components: the sons of Esau (1:35-37), the descendants of Seir (1:38-42), and the kings who ruled in the land of Edom (1:43-54). This arrangement follows Gen 36."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 10:5",
+      "note_ref": "GNV/1/10/5",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "The Jews so call all countries which are separated from them by sea, as Greece, Italy, etc, which were given to the children of Japheth, of whom came the Gentiles."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 10:6",
+      "note_ref": "GNV/1/10/6",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "Of Cush and Mizraim came the Ethiopians and Egyptians."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 10:8",
+      "note_ref": "GNV/1/10/8",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "Meaning, a cruel oppressor and tyrant."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 10:9",
+      "note_ref": "GNV/1/10/9",
+      "cites": [
+        "Genesis 10:7"
+      ],
+      "text": "His tyranny came into a proverb as hated both of God and man: for he passed not to commit cruelty even in God’s presence."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 25:1",
+      "note_ref": "GNV/1/25/1",
+      "cites": [
+        "Genesis 25:3"
+      ],
+      "text": "While Sarah was yet alive."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 25:5",
+      "note_ref": "GNV/1/25/5",
+      "cites": [
+        "Genesis 25:3"
+      ],
+      "text": "Hebrew, all that he had."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 1:7",
+      "note_ref": "GNV/13/1/7",
+      "cites": [
+        "1 Chronicles 1:9"
+      ],
+      "text": "Or, Rodanim."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 1:10",
+      "note_ref": "GNV/13/1/10",
+      "cites": [
+        "1 Chronicles 1:9"
+      ],
+      "text": "Who did first lift up himself above others."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 1:30",
+      "note_ref": "GNV/13/1/30",
+      "cites": [
+        "1 Chronicles 1:32"
+      ],
+      "text": "Or, Hadar."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 1:32",
+      "note_ref": "GNV/13/1/32",
+      "cites": [
+        "1 Chronicles 1:32"
+      ],
+      "text": "Read Gen. 25:4."
+    }
+  ]
+}

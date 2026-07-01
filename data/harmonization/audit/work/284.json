@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 284,
+  "question": "Did God give Gehazi leprosy?",
+  "summary": "2 Kings 5:27 has Elisha curse Gehazi with leprosy permanently — \"unto thee and unto thy seed forever\" — and the narrator says Gehazi went out \"a leper as white as snow.\" 2 Kings 8:4 then has Gehazi conversing face-to-face with the king of Israel, which the Levitical purity laws would have made impossible for an actual leper.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders answer that leprosy was conveyed by contact alone, so the king could converse with the excluded Gehazi at a distance, at the gate or in a garden.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells, who catalogued this pairing, presses that a man cursed with permanent leprosy 'as white as snow' in 2 Kings 5:27 should not be found recounting Elisha's deeds to the king in 2 Kings 8:4.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "Skeptic's Annotated Bible, \"Did God give Gehazi (Elisha's servant) leprosy?\" (skepticsannotatedbible.com/contra/gehazi.html)",
+      "year": "2013",
+      "attribution": "Steve Wells, Skeptic's Annotated Bible, \"Did God give Gehazi (Elisha's servant) leprosy?\""
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 2 Kings 8:4",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Treats this exact pairing, harmonizing via contact-only contagion and a conference held at a distance from the town-excluded Gehazi. (Haley's specific coverage of this pair unconfirmed; row-surfaced harmonizing commentator anchored per spec.)"
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) engages this pair on verification: gotquestions Gehazi-in-the-Bible.html mentions 2 Kings 8:1-6 but does not address the leprosy-vs-court tension; gotquestions Gehazi-leprosy.html and defendinginerrancy 2_Kings_8.4.php / 2_Kings_5.27.php all 404; the only carm.org hit is a forum thread, not an article. Link omitted rather than guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "284#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "2 Kings 8:4",
+      "full_note_ref": "JFB/12/8/4",
+      "excerpt_text": "Ceremonial pollution being conveyed by contact alone, there was nothing to prevent a conference being held with this leper at a distance; and although he was excluded from the town of Samaria, this reported conversation may have taken place at the gate or in one of the royal gardens.",
+      "on_tension_rationale": "Directly answers the Levitical-purity objection: leprosy spreads only by contact, so a distant conference with the town-excluded Gehazi was possible at the gate or a garden. The single strongest on-tension harmonization on the row.",
+      "source_note_text": "the king talked with Gehazi--Ceremonial pollution being conveyed by contact alone, there was nothing to prevent a conference being held with this leper at a distance; and although he was excluded from the town of Samaria, this reported conversation may have taken place at the gate or in one of the royal gardens. The providence of God so ordained that King Jehoram had been led to inquire, with great interest, into the miraculous deeds of Elisha, and that the prophet's servant was in the act of relating the marvellous incident of the restoration of the Shunammite's son when she made her appearance to prefer her request. The king was pleased to grant it; and a state officer was charged to afford her every facility in the recovery of her family possession out of the hands of the occupier."
+    }
+  ]
+}

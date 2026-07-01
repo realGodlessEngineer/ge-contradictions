@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 97,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders keep the verse intact by reading it as a compressed double reference — Abraham's Hebron purchase and Jacob's Shechem purchase folded into one summary.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Ernst Haenchen presses the standard critical reading: the author has simply conflated Abraham's purchase at Hebron (Gen 23) with Jacob's at Shechem (Gen 33:19), a genuine inaccuracy in the speech rather than a copyist's slip.",
+      "skeptic": {
+        "name": "Ernst Haenchen",
+        "work": "The Acts of the Apostles: A Commentary",
+        "year": "1971",
+        "attribution": "Ernst Haenchen (d. 1975), The Acts of the Apostles: A Commentary (ET 1971)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Acts 7:16",
+      "excerpt_text": "but the great difficulty is, how the sepulchre in which the fathers were laid at Sichem, can be said to be bought by Abraham of the sons of Emmor, when what Abraham bought was the field and cave of Machpelah… what best seems to remove the difficulty is, that the words refer to both places and purchases; to the field of Machpelah bought by Abraham, and to the parcel of field is Sichem bought by Jacob, of the sons of Emmor …",
+      "full_note_ref": "GILL/44/7/16",
+      "on_tension_rationale": "Names the exact tension (sepulchre at Shechem said to be bought by Abraham vs. Abraham actually buying Machpelah) and offers the strongest both-true reading — the verse compresses two distinct purchases/locations — which keeps the text as written rather than emending it. Verbatim from the note, sense-preserving ellipsis joins of non-adjacent on-tension sentences; final clause truncated mid-sentence so closes with the elision marker.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Acts 7:16",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact pair directly: he states the buyer/location difficulty (sepulchre at Shechem said bought by Abraham vs. Abraham's Machpelah) and harmonizes it as a double reference to both purchases. Used as the PD anchor because Haley's coverage of this specific Genesis 50:13 / Acts 7:16 pair could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page found on the allowlist (gotquestions.org / carm.org / defendinginerrancy.com). defendinginerrancy.com/bible-solutions/Acts_7.14.php treats only the 70-vs-75 souls difficulty, not the burial/buyer tension; Acts_7.16.php 404s; carm has only a forum thread, not an article. Link omitted rather than use an off-topic page."
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 264,
+  "question": "How high were the pillars?",
+  "summary": "1 Kings 7:15 (paralleled by 2 Kings 25:17 and Jeremiah 52:21) gives the bronze pillars Jachin and Boaz a height of 18 cubits each. 2 Chronicles 3:15 reports them as 35 cubits high. The Chronicler's figure nearly doubles the Kings figure for the same two pillars.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders read the Chronicler's 35 as the two pillars' combined length, so each is about 17½ cubits, rounded to 18 in Kings.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells, in the Skeptic's Annotated Bible, presses the figures at face value: Kings gives each pillar as eighteen cubits, Chronicles as thirty-five, and the same two pillars cannot be both.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "Skeptic's Annotated Bible (\"How high were the pillars?\", skepticsannotatedbible.com/contra/pillars.html)",
+      "year": "2013",
+      "attribution": "Steve Wells, Skeptic's Annotated Bible (online), \"How high were the pillars?\""
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 1 Kings 7:15",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Treats this exact pair, harmonizing 2 Chronicles 3:15's thirty-five cubits as the two pillars' joint length (each seventeen and a half, rounded to eighteen). Haley's specific-passage coverage could not be confirmed, so a row-surfaced harmonizing commentator keyed to the passage is used per spec."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) squarely engages the 18-vs-35 pillar-height tension: GotQuestions' Jachin-and-Boaz page cites only 1 Kings and never 2 Chronicles 3:15 or the discrepancy; defendinginerrancy 1_Kings_7.15 / 2_Chronicles_3.15 both 404; CARM's only on-point article is the molten-sea (1 Kings 7:23) circumference, a different difficulty. Link omitted rather than guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "264#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "1 Kings 7:15",
+      "full_note_ref": "JFB/11/7/15",
+      "excerpt_text": "In Ch2 3:15 they are said to have been thirty-five cubits high. There, however, their joint lengths are given; whereas here the length of the pillars is given separately. Each pillar was seventeen and a half cubits long, which is stated, in round numbers, as eighteen.",
+      "on_tension_rationale": "Names both verses and states the dominant joint-length harmonization in full: 35 = combined, ~17.5 each, rounded to 18. Strongest single reconcile; parity-capped to one on a discrepancy_first row.",
+      "source_note_text": "two pillars of brass of eighteen cubits high--They were made of the brass (bronze) which was taken from the king of Zobah (Ch1 18:8). In Ch2 3:15 they are said to have been thirty-five cubits high. There, however, their joint lengths are given; whereas here the length of the pillars is given separately. Each pillar was seventeen and a half cubits long, which is stated, in round numbers, as eighteen. Their dimensions in English measure are as follows: The pillars without the capitals measured thirty-two and a half feet long, and seven feet diameter; and if hollow, as WHISTON, in his translation of JOSEPHUS, thinks (Jer 52:21), the metal would be about three and a half inches thick; so that the whole casting of one pillar must have been from sixteen to twenty tons. The height of the capitals was eight and three-fourths feet; and, at the same thickness of metal, would not weigh less than seven or eight tons each. The nature of the workmanship in the finishing of these capitals is described (Kg1 7:17-22). The pillars, when set up, would stand forty feet in height [NAPIER, Metal]."
+    }
+  ]
+}

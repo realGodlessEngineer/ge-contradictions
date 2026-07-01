@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 18,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Paul's preference as relative to the \"present distress\" and the gift of continency, not a denial of marriage's God-given good.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart D. Ehrman presses the tension, arguing Paul treats marriage as a mere concession and the celibate state as superior — a valuation that diverges from the Genesis ideal and mainstream Jewish esteem for marriage.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "The New Testament: A Historical Introduction to the Early Christian Writings",
+        "year": "1997",
+        "attribution": "Bart D. Ehrman, The New Testament: A Historical Introduction to the Early Christian Writings (1997)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "1 Corinthians 7:1",
+      "excerpt_text": "by good here not understanding what is so conformable to the mind and will of God as if to do otherwise were sin, an extreme into which many of the ancients have run in favour of celibacy and virginity. … But it is good, that is, either abstracting from circumstances there are many things in which the state of celibacy has the advantage above the marriage state; or else at this juncture, by reason of the distress of the Christian church, it would be a convenience for Christians to keep themselves single, provided they have the gift of continency",
+      "full_note_ref": "MHC/46/7/1",
+      "on_tension_rationale": "Directly denies that Paul's 'it is good not to touch a woman' means celibacy is God's will and marriage sinful (the very reading that would conflict with Genesis 2:18), recasting it as situational ('this juncture') and conditioned on the gift of continency.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "1 Corinthians 7:7",
+      "excerpt_text": "He wished that all that were then in the Church were, like him self, unmarried; but this was in reference to the necessities of the Church, or what he calls, Co1 7:26, the present distress: for it never could be his wish that marriage should cease among men, and that human beings should no longer be propagated upon earth",
+      "full_note_ref": "CLARKE/46/7/7",
+      "on_tension_rationale": "Limits Paul's wish that all be unmarried to the church's contemporary distress and denies he could mean marriage should cease — defusing the apparent clash with the Genesis valuation of marriage.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Corinthians 7:7",
+      "excerpt_text": "This wish does not hold good absolutely, else the extension of mankind and of the Church would cease; but relatively to \"the present distress\" (Co1 7:26).",
+      "full_note_ref": "JFB/46/7/7",
+      "on_tension_rationale": "States Paul's wish is relative, not absolute, since universal celibacy would end the human race — directly addressing the tension with Genesis's 'be fruitful' / 'not good to be alone' ideal.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on 1 Corinthians 7:1",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this passage directly, denying that Paul's praise of singleness makes celibacy God's will or marriage a sin, and reading 'it is good' as situational and tied to the gift of continency."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/marriage-relationship-God.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Does marriage hinder your relationship with God?",
+        "note": "Live apologetic treatment engaging Paul's preference for singleness in 1 Corinthians 7 and arguing marriage is not an obstacle to one's walk with God."
+      }
+    }
+  }
+}

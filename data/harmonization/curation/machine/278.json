@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 278,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the two events as one continuous calling: the cloak cast at Elisha's call was a provisional sign Elijah kept, and it fell to Elisha only at the ascension.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, in The Skeptic's Annotated Bible, presses the timing as a contradiction: 1 Kings 19:19 has Elijah cast the mantle on Elisha at their first meeting, yet 2 Kings 2:13 has Elisha receive it only after Elijah is taken up.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (skepticsannotatedbible.com), \"Did Elisha receive Elijah's mantle before or after Elijah is taken up into heaven?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "1 Kings 19:19",
+      "excerpt_text": "Elijah did but cast his mantle upon him. (Kg1 19:19) … but, when Elijah went to heaven, he had the mantle entire, Kg2 2:13.",
+      "full_note_ref": "MHC/11/19/19",
+      "on_tension_rationale": "Directly dissolves the double-transfer: the call gesture was provisional and Elijah retained ('had entire') the mantle, which only fell to Elisha at the ascension — naming both verses.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "2 Kings 2:13",
+      "excerpt_text": "he loved this cloak ever since it was first cast over him, Kg1 19:19. He that then so cheerfully obeyed the summons of it, and became Elihah's servant, is now dignified with it, and becomes his successor.",
+      "full_note_ref": "MHC/12/2/13",
+      "on_tension_rationale": "Treats the first casting (1 Kgs 19:19) and the post-ascension receipt (2 Kgs 2:13) as one continuous calling — first the summons, now the succession — not two competing transfers.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on 1 Kings 19:19",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this passage directly, explaining that Elijah only cast the mantle on Elisha as a sign at the call but 'had the mantle entire' at his ascension (2 Kgs 2:13), so there is one transfer, not two competing ones."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) squarely engages the two-transfer timing tension citing both 1 Kings 19:19 and 2 Kings 2:13; gotquestions Elijah-and-Elisha.html and life-Elisha.html describe each event but do not treat the apparent contradiction, so the optional link is omitted rather than guessed."
+      }
+    }
+  }
+}

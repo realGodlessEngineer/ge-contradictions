@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 115,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The commentators uniformly read the Second Commandment as forbidding images made for worship, not image-making itself, which leaves the commanded cherubim outside its scope.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, compiling this contradiction in the Skeptic's Annotated Bible, presses that a command worded as an absolute ban on \"any likeness of any thing that is in heaven above\" cannot be squared with God himself ordering gold cherubim — winged heavenly beings — for the mercy seat.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Exodus 20:4",
+      "excerpt_text": "Under the auspices of Moses himself, figures of cherubim, brazen serpents, oxen, and many other things in the earth beneath, were made and never condemned. The mere making was no sin—it was the making with the intent to give idolatrous worship.",
+      "full_note_ref": "JFB/2/20/4",
+      "on_tension_rationale": "Directly names the cherubim as made under Moses 'and never condemned,' and locates the prohibition in worshipful intent, not in the act of making — the core harmonization of this row.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Exodus 20:4",
+      "excerpt_text": "this in order to be worshipped; for otherwise images of things might be made for other uses and purposes, as the cherubim over the mercy seat, and the brazen serpent …",
+      "full_note_ref": "GILL/2/20/4",
+      "on_tension_rationale": "Gill expressly cites the cherubim over the mercy seat as a permitted image because the ban targets images made 'in order to be worshipped,' not images for 'other uses and purposes.'",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Exodus 20:4",
+      "excerpt_text": "It is not only evident from the context that the allusion is not to the making of images generally, but to the construction of figures of God as objects of religious reverence or worship …",
+      "full_note_ref": "KD/2/20/4",
+      "on_tension_rationale": "Keil & Delitzsch limit the commandment to images of God meant for worship, denying it bans image-making 'generally' — the exegetical basis for excluding the cherubim.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Exodus 20:4",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Treats this passage directly: the cherubim and other figures were 'made and never condemned,' since the Second Commandment forbids making images for idolatrous worship, not making them as such."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Exodus_25.18ff.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in Exodus 25:18ff?",
+        "note": "Live apologetic treatment (drawing on Geisler & Howe, When Critics Ask) of the cherubim-vs-Second-Commandment objection."
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 34,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders hold that the immutability texts state God's settled nature and purpose, while the \"repentance\" texts are anthropopathic — describing a changed dealing with men, not a changed God.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharpest objection is pressed by Thomas Paine, who argues that a God who makes a world, drowns it, and then repents of having made it cannot be squared with the Bible's own claim that God is unchangeable.",
+      "skeptic": {
+        "name": "Thomas Paine",
+        "work": "The Age of Reason (and the Letters Concerning The Age of Reason)",
+        "year": "1794-1795",
+        "attribution": "Thomas Paine (d. 1809), The Age of Reason / Letters Concerning The Age of Reason (1794-95)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Numbers 23:18",
+      "excerpt_text": "The unchangeableness of the divine purposes is a necessary consequence of the unchangeableness of the divine nature. With regard to His own counsels, God repents of nothing; but this does not prevent the repentance of God, understood as an anthropopathic expression, denoting the pain experienced by the love of God, on account of the destruction of its creatures (see at Gen 6:6, and Exo 32:14).",
+      "full_note_ref": "KD/4/23/18",
+      "on_tension_rationale": "This is the single strongest harmonization on the row: it holds BOTH poles together explicitly, grounding the no-repentance texts (Num 23:19) in divine immutability while accounting for the repenting texts (Gen 6:6) as anthropopathy — the exact reconciliation the whole tension turns on. Verbatim from the K&D block note on Num 23:18-24, which cites Numbers 23:19. Capped at one excerpt to respect parity on this discrepancy_first row (named-skeptic pole carries one).",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Numbers 23:19",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this exact pair directly: the no-repentance texts express the unchangeableness of God's nature and purpose, while the repentance ascribed to God in Gen 6:6 and Exo 32:14 is an anthropopathic expression — the standard harmonizing reading, surfaced verbatim on this row."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/God-change-mind.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Does God change His mind?",
+        "note": "Live apologetic treatment citing Numbers 23:19, Malachi 3:6, James 1:17 against Genesis 6:6, Exodus 32:14, Jonah 3:10, and resolving them via anthropopathism and conditional threats."
+      }
+    }
+  }
+}

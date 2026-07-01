@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 134,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the formula as a single coherent character: mercy and justice both hold, with judgment capped at three or four generations against love kept for thousands.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Thomas Paine pressed the sharpest objection, holding that a God who visits the sins of fathers upon children to the third and fourth generation cannot in the same breath be called merciful, since such transferred punishment is contrary to every principle of moral justice.",
+      "skeptic": {
+        "name": "Thomas Paine",
+        "work": "The Age of Reason, Part I",
+        "year": "1794",
+        "attribution": "Thomas Paine (d. 1809), The Age of Reason, Part I (1794)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Exodus 34:7",
+      "excerpt_text": "Sin will have its effects, because God created a world of cause and effect. The murderer may repent, be forgiven, and lead a new life, but the effects of previous choices will continue to play out. … Our sins affect future generations of descendants, but God restricts the natural effect of those sins to three or four generations.",
+      "full_note_ref": "TYN/2/34/7",
+      "on_tension_rationale": "Directly harmonizes the SAB tension: God's forgiveness/mercy coexists with sin's lingering effects, and the visiting-iniquity clause is read as the natural cause-and-effect consequence God deliberately restricts to three or four generations.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Exodus 34:5",
+      "excerpt_text": "Thus he shows his hatred to sin, and displeasure against it; yet he keepeth not his anger for ever, but visits to the third and fourth generation only, while he keepeth his mercy for thousands.",
+      "full_note_ref": "MHC/2/34/5",
+      "on_tension_rationale": "Henry's verse-5 block covers the whole 34:5-7 proclamation; this sentence resolves the tension by contrasting the limited scope of judgment (third and fourth generation only) with the vast scope of mercy (thousands), so the mercy-formula and its tail are read as one consistent character.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Exodus 34:7",
+      "excerpt_text": "the meaning is, that though God pardons sin, all manner of sin, and so displays his grace and mercy, yet he takes care of the honour of his justice, and never suffers any sin to go unpunished, either on the sinner, or on the surety.",
+      "full_note_ref": "GILL/2/34/7",
+      "on_tension_rationale": "Gill reconciles the two halves of the formula explicitly: God both forgives (mercy) and by no means clears the guilty (justice), holding the mercy clause and the punitive clause as compatible rather than contradictory.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Exodus 34:5-7",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats the mercy-formula directly, harmonizing the proclamation by setting the third-and-fourth-generation judgment against the mercy kept for thousands; used as the row's keyed PD harmonizing anchor since Haley's coverage of this specific passage could not be confirmed."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/iniquity-of-the-fathers.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What is the iniquity of the fathers in Exodus 34:7?",
+        "note": "live apologetic treatment of the visiting-iniquity clause that is the hinge of this contradiction"
+      }
+    }
+  }
+}

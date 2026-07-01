@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 131,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders deny any conflict by reading the conquest summaries as a promise of gradual, not immediate, dispossession — so the land could be \"given\" while Canaanites remained.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells sets the very texts side by side, arguing that the triumphal summaries — Joshua 21:43-44's claim that the Lord delivered every enemy and gave Israel all the land — cannot stand beside Joshua 15-17 and Judges 1's admission that the Jebusites and other Canaanites were never driven out.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Did God destroy the nations?\"",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), \"Did God destroy the nations?\" (skepticsannotatedbible.com/contra/driveout.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Joshua 21:43-44",
+      "excerpt_text": "Notwithstanding the fact that many a tract of country still remained in the hands of the Canaanites, the promise that the land of Canaan should be given to the house of Israel for a possession had been fulfilled; for God had not promised the immediate and total destruction of the Canaanites, but only their gradual extermination (Exo 23:29-30; Deu 7:22).",
+      "full_note_ref": "KD/6/21/43",
+      "on_tension_rationale": "Directly answers the core tension: it concedes Canaanites still remained yet argues Josh 21:43-45's 'all the land given' is not falsified, because the promise was gradual extermination, not immediate total conquest. Strongest, most self-contained harmonization on the row; distinct anchor-block voice (K&D).",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Joshua 21:43-45 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-75",
+        "note": "K&D treat this passage directly, harmonizing Josh 21:43-45's 'all the land' summary with the surviving Canaanites by appeal to the promised gradual (not immediate total) dispossession of Exo 23:29-30 and Deu 7:22, and quote Calvin to the same end. Used in place of Haley because Haley's coverage of this specific passage could not be confirmed."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Israel-territory.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Has Israel's territory ever encompassed the promise in Joshua 1:4?",
+        "note": "Live apologetic treatment distinguishing divine authorization to possess from actual possession, addressing the Joshua-promise vs. incomplete-conquest tension."
+      }
+    }
+  }
+}

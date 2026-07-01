@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 84,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers treat \"Bashemath\" as a surname shared by two women, the divergent fathers reflecting the Eastern custom of renaming brides and Moses copying differing genealogical documents.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Dr. Steven DiMattei presses the sharpest objection, arguing the two Priestly lists genuinely conflict over whose daughter Bashemath was and that the renaming harmonizations only mask confusion within the source itself.",
+      "skeptic": {
+        "name": "Steven DiMattei",
+        "work": "Contradictions in the Bible, #67: \"Who were Esau's wives?\"",
+        "year": "2013",
+        "attribution": "Dr. Steven DiMattei (PhD), Contradictions in the Bible #67, \"Who were Esau's wives: Judith and Basemath OR Adah, Aholibamah, and Basemath?\" (contradictionsinthebible.com, 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 36:1",
+      "excerpt_text": "The names of Esau's three wives differ from those given in the previous accounts (Gen 26:34 and Gen 28:9), and in one instance the father's name as well. … This difference arose from the fact, that Moses availed himself of genealogical documents for Esau's family and tribe, and inserted them without alteration. It presents no irreconcilable discrepancy, therefore, but may be explained from the ancient custom in the East, of giving surnames … whilst as a rule the women received new names when they were married …",
+      "full_note_ref": "KD/1/36/1",
+      "on_tension_rationale": "Directly names the tension — differing wife-names AND, 'in one instance the father's name as well' (exactly the Bashemath/Elon-vs-Ishmael problem) — then asserts 'no irreconcilable discrepancy' and supplies the harmonizing mechanism (surnames + brides renamed at marriage + Moses copying genealogical sources). The single strongest on-tension reconcile on the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Genesis 36:1-3",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this exact pair (Gen 26:34 vs Gen 36:2-3), conceding the divergent wife- and father-names, then arguing 'no irreconcilable discrepancy' from the renaming-at-marriage custom and Moses' use of differing genealogical documents. Row-surfaced commentator anchor keyed to the passage (Haley's specific coverage of this pair unconfirmed)."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Genesis_26.34.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Genesis 26:34 — How many wives did Esau have?",
+        "note": "Live apologetic page citing both Gen 26:34 and Gen 36:2-3; harmonizes via the dual-name solution (Bashemath/Elon = Adah; multiple wives, some childless and so omitted in ch. 36)."
+      }
+    }
+  }
+}

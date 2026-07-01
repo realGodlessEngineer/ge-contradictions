@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 251,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders distinguish the senses: 2 Samuel 23 records David's last inspired, poetic, public utterance, not the last words he chronologically spoke, leaving the 1 Kings 2 charge a later prose communication.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the plain reading: 2 Samuel 23 is explicitly labeled \"the last words of David,\" yet 1 Kings 2 gives different deathbed words — a vengeful \"hit list\" against Joab and Shimei.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"What were the last words of David?\" (skepticsannotatedbible.com/contra/last-words.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; \"What were the last words of David?\")"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "2 Samuel 23:1",
+      "excerpt_text": "Which refer not to the psalm in the preceding chapter, but to what follows; not the last words he spoke, for he said many things afterwards; for the advice he gave to Solomon, and the instructions to him about building the temple, were delivered after this time; but these were the last after he had finished the book of Psalms …",
+      "full_note_ref": "GILL/10/23/1",
+      "on_tension_rationale": "Directly names the harmonization: 'last words' = last after the Psalms / last inspired words, NOT last chronologically; explicitly says the Solomon advice (1 Kings 2) came afterwards.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "2 Samuel 23:1",
+      "excerpt_text": "I suppose the last poetical composition is here intended. He might have spoken many words after these in prose, but none in verse.",
+      "full_note_ref": "CLARKE/10/23/1",
+      "on_tension_rationale": "Distinct voice giving the 'last in verse, not in prose' distinction — David spoke later prose (the 1 Kings 2 charge) but no later poetry.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "2 Samuel 23:1",
+      "excerpt_text": "David's last words were not necessarily the last words he actually spoke (see 1 Kgs 1:16, 29-30, 33-35; 2:1-9) but his final public expression of worship to God as king (cp. 1 Sam 12:1-25).",
+      "full_note_ref": "TYN/10/23/1",
+      "on_tension_rationale": "Modern voice that explicitly cross-references 1 Kgs 2:1-9 (the disputed 'hit list' passage) and resolves the tension as 'final public worship,' not last spoken words.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on 2 Samuel 23:1",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, harmonizing 'the last words of David' as his last inspired words after the Psalms and noting that the later advice to Solomon (1 Kings 2) was 'delivered after this time.'"
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page (gotquestions.org / carm.org / defendinginerrancy.com) treats the David's-last-words tension; gotquestions last-words-of-David.html and defendinginerrancy 2_Samuel_23.1.php both 404. Link omitted rather than guessed."
+      }
+    }
+  }
+}

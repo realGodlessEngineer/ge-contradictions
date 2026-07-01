@@ -1,0 +1,85 @@
+{
+  "contradiction_id": 221,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators resolve the apparent impossibility in two directions: either Agag is a dynastic title rather than a proper name, or survivors escaped Saul's incomplete campaign and perpetuated the line.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Dennis McKinsey (Biblical Errancy) pressed the Amalekite survival problem as an irreconcilable contradiction, arguing that the repeated biblical claims of total extermination cannot be squared with a named Agagite appearing centuries later in a Persian court.",
+      "skeptic": {
+        "name": "Dennis McKinsey",
+        "work": "Biblical Errancy",
+        "year": "1983-2000",
+        "attribution": "Dennis McKinsey, Biblical Errancy newsletter (1983–2000)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 221,
+      "pole": "reconcile",
+      "source_code": "KD",
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "verse_ref": "Esther 3:1",
+      "excerpt_text": "The name Agag is not sufficient for the purpose, as many individuals might at different times have borne the name אגג, i.e., the fiery. In 1 Sam 15, too, Agag is not the nomen propr. of the conquered king, but a general nomen dignitatis of the kings of Amalek, as Pharaoh and Abimelech were of the kings of Egypt and Gerar.",
+      "full_note_ref": "KD/17/3/1",
+      "license_code": "PD",
+      "on_tension_rationale": "Directly addresses the Agagite identification by arguing 'Agag' is a dynastic title (like Pharaoh), not a unique personal name, so Haman's designation need not imply direct biological descent from the specific king Samuel executed.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 221,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "1 Samuel 15:8",
+      "excerpt_text": "and utterly destroyed all the people with the edge of the sword; that is, all that came in his way, or fell into his hands; all between Havilah and Shur; all excepting those that made their escape, for we after read of Amalekites, and that in large bodies, Sa1 27:8.",
+      "full_note_ref": "GILL/9/15/8",
+      "license_code": "PD",
+      "on_tension_rationale": "Directly addresses the tension by noting the biblical text itself implies survivors: 'all' in 1 Sam 15 means all who were captured, not every last individual — Amalekites reappear later (1 Sam 27:8; 30:1) as large groups, making descent five centuries later plausible.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 221,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Esther 3:1",
+      "excerpt_text": "Agag might be the name of a family or city in Persia, of which he was",
+      "full_note_ref": "GILL/17/3/1",
+      "license_code": "PD",
+      "on_tension_rationale": "Offers an alternative reconciliation: 'Agagite' may denote a Persian geographic or clan designation rather than Amalekite ethnic descent, dissolving the genealogical problem entirely.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley addresses the Amalekite survival problem under his section on historical discrepancies, arguing that the language of 'utter destruction' in Hebrew warfare accounts is often hyperbolic and that scattered survivors are expected by the narrative itself."
+      },
+      "link": null
+    }
+  }
+}

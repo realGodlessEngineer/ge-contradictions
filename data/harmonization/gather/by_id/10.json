@@ -1,0 +1,478 @@
+{
+  "contradiction_id": 10,
+  "question": "May Adam eat from any tree?",
+  "summary": "Genesis 1:29 has God giving the humans 'every herb bearing seed' and 'every tree' with seed-bearing fruit for food, without restriction. Genesis 2:17 places one tree explicitly off-limits: the tree of the knowledge of good and evil.",
+  "consensus": "apparent_only",
+  "consensus_id": 5,
+  "category": "Law, Morality & Ethics",
+  "contradiction_type": "compositional",
+  "testament_scope": "OT_internal",
+  "books_in_tension": "Genesis",
+  "refs_raw": [
+    "Genesis 1:29",
+    "Genesis 2:17"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Genesis 1:29",
+      "book": "Genesis",
+      "bolls": 1,
+      "ranges": [
+        [
+          1,
+          29,
+          29
+        ]
+      ]
+    },
+    {
+      "raw": "Genesis 2:17",
+      "book": "Genesis",
+      "bolls": 1,
+      "ranges": [
+        [
+          2,
+          17,
+          17
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 41,
+  "notes_raw_count": 44,
+  "notes_dropped": 3,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Genesis 1:27",
+      "note_ref": "GILL/1/1/27",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "So God created man in his own image,.... Which consisted both in the form of his body, and the erect stature of it, different from all other creatures; in agreement with the idea of that body, prepared in covenant for the Son of God, and which it was therein agreed he should assume in the fulness of time; and in the immortality of his soul, and in his intellectual powers, and in that purity, holiness, and righteousness in which he was created; as well as in his dominion, power, and authority over the creatures, in which he was as God's viceregent, and resembled him. The Jerusalem Targum is,\nthe Word of the Lord created man in his likeness; even that Word that was in the beginning with God, and was God, and in time became incarnate, by whom all things were made, Joh 1:1.\nin the image of God created he him; which is repeated for the certainty of it, and that it might be taken notice of, as showing man's superior glory and dignity to the rest of the creatures, Co1 11:7.\nmale and female created he them; not that man was created an hermaphrodite, or with two bodies, back to back united together, and afterwards cleaved asunder, as the Jews fabulously say; but first God made man, or the male, out of the dust of the earth, and infused a rational soul into him; and then out of one of his ribs made a female, or woman, who was presented to him as his wife, that so their species might be propagated; and only one male and one female were created, to show that hereafter a man was to have at a time no more wives than one; see Mal 2:15 for all that is said in the following chapter, concerning the formation of man out of the dust of the earth, and the making of woman out of his rib, and presenting her to him, and his taking her to be his wife, were all done on this sixth day, and at this time. It is a tradition among the Heathens, that man was made last of all the creatures; so says Plato (k); and this notion the Chinese also have (l). The Jews give these reasons why man was made on the evening of the sabbath, to show that he did not assist in the work of creation; and that if he was elated in his mind, it might be told him that a fly was created before him, and that he might immediately enter on the command, i.e. of the sabbath (m).\n(k) Protagor. p. 320, 321. (l) Martin. Sinic. Hist. l. 1. p. 4. (m) T. Bab. Sanhedrin, fol. 38. 1."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 1:28",
+      "note_ref": "GILL/1/1/28",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "And God blessed them,.... The man and the woman he had made, with all the blessings of nature and Providence; with all the good things of life; with his presence, and with communion with himself in a natural way, through the creatures; and particularly with a power of procreating their species, as follows,\nand God said unto them, be fruitful, and multiply, and replenish the earth: if this is not an express command, as the Jews understand it, for marriage and procreation of children, it seems to be more than a bare permission; at least it is a direction and an advice to what was proper and convenient for the increase of mankind, and for the filling of the earth with inhabitants, which was the end of its being made, Isa 45:18. This shows that marriage is an ordinance of God, instituted in paradise, and is honourable; and that procreation is a natural action, and might have been, and may be performed without sin,\nand subdue it; the earth; not that it was in the hands of others, who had no right to it, and to be conquered and taken out of their hands; but is to be understood of their taking possession, and making use of it; of their tilling the land, and making it subservient to their use:\nand have dominion over the fish of the sea, and over the fowl of the air, and over every living thing that moveth upon the face of the earth; which was giving them an universal and unlimited dominion over all the creatures; of which see an enumeration in Psa 8:6."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 1:29",
+      "note_ref": "GILL/1/1/29",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "And God said,.... That is, to Adam and Eve, whom he had made in his image and likeness, and to whom he had given the dominion of the earth and sea, and all things in them:\nbehold, I have given you every herb bearing seed, which is upon the face of all the earth; every herb or plant which had a seed in it, by which it sowed itself again; or being taken off, might be sown by man, even everyone that was wholesome, healthful, and nourishing, without any exception; whatever grew in any part of the earth, be it where it would:\nand every tree, in which is the fruit of a tree yielding seed; all but the tree of knowledge, of good and evil, afterwards excepted; and both these take in all kind of vegetables, all herbs, plants, roots, even corn, wheat, barley, pease, beans, &c. and the various fruits of all sorts of trees, but that before mentioned:\nto you it shall be for meat: which is generally thought to be the food of the antediluvians (n), it not being proper, at least very soon, to kill any of the animals, until they were multiplied and increased, lest their species should be destroyed; though here is no prohibition of eating flesh; nor is it said that this only should be for meat, which is before mentioned; and by the early employment of some in keeping sheep, and by the sacrifice of creatures immediately after the fall, part of which used to be eaten by the offerers; and by the distinction of clean and unclean creatures before the flood, it looks probable that flesh might be eaten: and Bochart (o) refers this clause to what goes before in the preceding verse, as well as to what is in this, and takes the sense to be, that the fishes of the sea, and fowls of the air, and every living creature man had dominion over, as well as herbs and fruits, were given him for his food: but the Jews (p) are of opinion, that the first man might not eat flesh, but it was granted to the sons of Noah. (From Rom 5:12 there was no death before Adam's sin, hence up until at least the fall, man did not eat meat. Ed.) (n) \"Panis erant primus virides Mortalibus Herbae\", Ovid. Fast. l. 4. (o) Hierozoic. par. 1. l. 1. c. 2. col. 11. (p) T. Bab. Sanhedrin, fol. 59. 2."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 1:30",
+      "note_ref": "GILL/1/1/30",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "And to every beast of the earth,.... Wild or tame, the cattle on a thousand hills; God took care and provided for these, being all his creatures, and designed to answer some end or other by their creation:\nand to every fowl of the air; that flies in it,\nand to every creeping thing upon the earth; even the meanest and lowest insect:\nwherein there is life; or \"a living soul\"; that has an animal life, which is to be supported by food:\nI have given every green herb for meat; the leaves for some, and seed for others; and here is no mention made of flesh; and perhaps those creatures which are now carnivorous were not so at their first creation:\nand it was so; every creature, both man and beast, had food suitable to their nature and appetite, and a sufficiency of it. (From Rom 5:12, it is certain that up until the fall no animal ate other animals, otherwise there would have been death before Adam's first sin, which is said to be the cause of death. Ed.)"
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 2:15",
+      "note_ref": "GILL/1/2/15",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "And the Lord God took the man, and put him into the garden of Eden,.... This is observed before in Gen 2:8 and is here repeated to introduce what follows; and is to be understood not of a corporeal assumption, by a divine power lifting him up from the place where he was, and carrying him into another; rather of a manuduction, or taking him by the hand and leading him thither; so Onkelos renders it, he \"led\" him, that is, he ordered and directed him thither: hence Jarchi paraphrases it, he took him with good words, and persuaded him to go thither: the place from whence he is supposed by some to be taken was near Damascus, where he is by them said to be created; or the place where the temple was afterwards built, as say the Jewish writers: the Targum of Jonathan is,\"the Lord God took the man from the mount of Service, the place in which he was created, and caused him to dwell in the garden of Eden.''And elsewhere (t) it is said,\"the holy blessed God loved the first Adam with an exceeding great love, for he created him out of a pure and holy place; and from what place did he take him? from the place of the house of the sanctuary, and brought him into his palace, as it is said, Gen 2:15 \"and the Lord God took\", &c.''though no more perhaps is intended by this expression, than that God spoke to him or impressed it on his mind, and inclined him to go, or stay there:\nto dress it, and to keep it; so that it seems man was not to live an idle life, in a state of innocence; but this could not be attended with toil and labour, with fatigue and trouble, with sorrow and sweat, as after his fall; but was rather for his recreation and pleasure; though what by nature was left to be improved by art, and what there was for Adam to do, is not easy to say: at present there needed no ploughing, nor sowing, nor planting, nor watering, since God had made every tree pleasant to the sight, good for food, to grow out of it; and a river ran through it to water it: hence in a Jewish tract (u), before referred to, it is said, that his work in the garden was nothing else but to study in the words of the law, and to keep or observe the way of the tree of life: and to this agree the Targums of Jonathan and of Jerusalem,\"and he placed him in the garden of Eden, to serve in the law, and keep the commands of it.''And in another tract (w) it is said,\"God brought Adam the law, Job 28:27 and \"he put him in the garden of Eden\"; that is, the garden of the law, \"to dress it\", to do the affirmative precepts of the law, \"and to keep it\", the negative precepts:''though Aben Ezra interprets this service of watering the garden, aud keeping wild beasts from entering into it. And indeed the word may be rendered to \"till\", as well as to dress, as it is in Gen 3:23 and by Ainsworth here; so Milton (x) expresses it; and some have thought Adam was to have planted and sowed, had he continued in the garden.\n(t) Pirke Eliezer, c. 2. fol. 72. 2. (u) Pirke Eliezer, c. 2. fol. 72. 2. (w) Tikkune Zohar, correct. 54. fol. 91. 2. (x) Paradise Lost, B. 8. l. 320."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 2:16",
+      "note_ref": "GILL/1/2/16",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "And the Lord God commanded the man,.... Over whom he had power and authority; and he had a right to command him what he pleased, being his Creator, benefactor, and preserver; and this is to be understood not of man only, but of the woman also, whose creation, though related afterwards, yet was before this grant to eat of all the trees of the garden but one, and the prohibition of the fruit of that; for that she was in being, and present at this time, seems manifest from Gen 3:2.\nsaying, of every tree of the garden thou mayest freely eat: a very generous, large, and liberal allowance this: or \"in eating thou mayest eat\" (y); which was giving full power, and leaving them without any doubt and uncertainty about their food; which they might freely take, and freely eat of, wherever they found it, or were inclined to, even of any, and every tree in the garden, excepting one, next forbidden.\n(y) \"comedendo comedas\", Pagninus, Montanus, Vatablus, Drusius, &c."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 2:17",
+      "note_ref": "GILL/1/2/17",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "But of the tree of knowledge of good and evil,.... Of the name of this tree, and the reasons of it; see Gill on Gen 2:9.\nthou shalt not eat of it; not that this tree had any efficacy in it to increase knowledge, and improve in science and understanding, as Satan suggested God knew; and therefore forbid the eating of it out of envy to man, which the divine Being is capable of; or that there was anything hurtful in it to the bodies of men, if they had eaten of it; or that it was unlawful and evil of itself, if it had not been expressly prohibited: but it was, previous to this injunction, a quite indifferent thing whether man ate of it or not; and therefore was pitched upon as a trial of man's obedience to God, under whose government he was, and whom it was fit he should obey in all things; and since he had a grant of all the trees of the garden but this, it was the greater aggravation of his offence that he should not abstain from it:\nfor in the day thou eatest thereof thou shalt surely die; or \"in dying, die\" (z); which denotes the certainty of it, as our version expresses it; and may have regard to more deaths than one; not only a corporeal one, which in some sense immediately took place, man became at once a mortal creature, who otherwise continuing in a state of innocence, and by eating of the tree of life, he was allowed to do, would have lived an immortal life; of the eating of which tree, by sinning he was debarred, his natural life not now to be continued long, at least not for ever; he was immediately arraigned, tried, and condemned to death, was found guilty of it, and became obnoxious to it, and death at once began to work in him; sin sowed the seeds of it in his body, and a train of miseries, afflictions, and diseases, began to appear, which at length issued in death. Moreover, a spiritual or moral death immediately ensued; he lost his original righteousness, in which he was created; the image of God in him was deformed; the powers and faculties of his soul were corrupted, and he became dead in sins and trespasses; the consequence of which, had it not been for the interposition of a surety and Saviour, who engaged to make satisfaction to law and justice, must have been eternal death, or an everlasting separation from God, to him and all his posterity; for the wages of sin is death, even death eternal, Rom 6:23. So the Jews (a) interpret this of death, both in this world and in the world to come.\n(z) Pagninus, Montanus, &c. (a) Tikkune Zohar, correct. 24. fol. 68. 1. correct. 54. fol. 90. 2. correct. 66. fol. 100. 1."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 2:18",
+      "note_ref": "GILL/1/2/18",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "And the Lord God said,.... Not at the same time he gave the above direction and instruction to man, how to behave according to his will, but before that, even at the time of the formation of Adam and which he said either to him, or with himself: it was a purpose or determination in his own mind, and may be rendered, as it is by many, he \"had said\" (b), on the sixth day, on which man was created:\nit is not good that man should be alone; not pleasant and comfortable to himself, nor agreeable to his nature, being a social creature; nor useful to his species, not being able to propagate it; nor so much for the glory of his Creator:\nI will made him an help meet for him; one to help him in all the affairs of life, not only for the propagation of his species, but to provide things useful and comfortable for him; to dress his food, and take care of the affairs of the family; one \"like himself\" (c), in nature, temper, and disposition, in form and shape; or one \"as before him\" (d), that would be pleasing to his sight, and with whom he might delightfully converse, and be in all respects agreeable to him, and entirely answerable to his case and circumstances, his wants and wishes.\n(b) \"dixerat\", Vatablus, Drusius, Junius & Tremellius, Piscator. (c) \"simile sibi\", V. L. Sam. Syr. (d) \"Tanquam coram eo\", Montanus."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 1:28",
+      "note_ref": "JFB/1/1/28",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "Be fruitful, &c.--The human race in every country and age has been the offspring of the first pair. Amid all the varieties found among men, some black, some copper-colored, others white, the researches of modern science lead to a conclusion, fully accordant with the sacred history, that they are all of one species and of one family (Act 17:26). What power in the word of God! \"He spake and it was done. He commanded and all things stood fast\" [Psa 33:9]. \"Great and manifold are thy works, Lord God Almighty! in wisdom hast thou made them all\" [Psa 104:24]. We admire that wisdom, not only in the regular progress of creation, but in its perfect adaptation to the end. God is represented as pausing at every stage to look at His work. No wonder He contemplated it with complacency. Every object was in its right place, every vegetable process going on in season, every animal in its structure and instincts suited to its mode of life and its use in the economy of the world. He saw everything that He had made answering the plan which His eternal wisdom had conceived; and, \"Behold it was very good\" [Gen 1:31].\nNext: Genesis Chapter 2"
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 2:15",
+      "note_ref": "JFB/1/2/15",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "put the man into the garden of Eden to dress it--not only to give him a pleasant employment, but to place him on his probation, and as the title of this garden, the garden of the Lord (Gen 13:10; Eze 28:13), indicates, it was in fact a temple in which he worshipped God, and was daily employed in offering the sacrifices of thanksgiving and praise."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 2:17",
+      "note_ref": "JFB/1/2/17",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "thou shalt not eat of it . . . thou shalt surely die--no reason assigned for the prohibition, but death was to be the punishment of disobedience. A positive command like this was not only the simplest and easiest, but the only trial to which their fidelity could be exposed."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 2:18",
+      "note_ref": "JFB/1/2/18",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "THE MAKING OF WOMAN, AND INSTITUTION OF MARRIAGE. (Gen 2:18-25)\nit is not good for the man to be alone--In the midst of plenty and delights, he was conscious of feelings he could not gratify. To make him sensible of his wants,"
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 2:19",
+      "note_ref": "JFB/1/2/19",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "God brought unto Adam--not all the animals in existence, but those chiefly in his immediate neighborhood to be subservient to his use.\nwhatsoever Adam called every living creature, that was the name thereof--His powers of perception and intelligence were supernaturally enlarged to know the characters, habits, and uses of each species that was brought to him."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 1:28",
+      "note_ref": "CLARKE/1/1/28",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "And God blessed them - Marked them as being under his especial protection, and gave them power to propagate and multiply their own kind on the earth. A large volume would be insufficient to contain what we know of the excellence and perfection of man, even in his present degraded fallen state. Both his body and soul are adapted with astonishing wisdom to their residence and occupations; and also the place of their residence, as well as the surrounding objects, in their diversity, color, and mutual relations, to the mind and body of this lord of the creation. The contrivance, arrangement, action, and re-action of the different parts of the body, show the admirable skill of the wondrous Creator; while the various powers and faculties of the mind, acting on and by the different organs of this body, proclaim the soul's Divine origin, and demonstrate that he who was made in the image and likeness of God, was a transcript of his own excellency, destined to know, love, and dwell with his Maker throughout eternity."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 1:29",
+      "note_ref": "CLARKE/1/1/29",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "I have given you every herb - for meat - It seems from this, says an eminent philosopher, that man was originally intended to live upon vegetables only; and as no change was made In the structure of men's bodies after the flood, it is not probable that any change was made in the articles of their food. It may also be inferred from this passage that no animal whatever was originally designed to prey on others; for nothing is here said to be given to any beast of the earth besides green herbs - Dr. Priestley. Before sin entered into the world, there could be, at least, no violent deaths, if any death at all. But by the particular structure of the teeth of animals God prepared them for that kind of aliment which they were to subsist on after the Fall."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 1:31",
+      "note_ref": "CLARKE/1/1/31",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "And, behold, it was very good - טוב מאד tob meod, Superlatively, or only good; as good as they could be. The plan wise, the work well executed, the different parts properly arranged; their nature, limits, mode of existence, manner of propagation, habits, mode of sustenance, etc., etc., properly and permanently established and secured; for every thing was formed to the utmost perfection of its nature, so that nothing could be added or diminished without encumbering the operations of matter and spirit on the one hand, or rendering them inefficient to the end proposed on the other; and God has so done all these marvellous works as to be glorified in all, by all, and through all.\nAnd the evening and the morning were the sixth day - The word ערב ereb, which we translate evening, comes from the root ערב arab, to mingle; and properly signifies that state in which neither absolute darkness nor full light prevails. It has nearly the same grammatical signification with our twilight, the time that elapses from the setting of the sun till he is eighteen degrees below the horizon and the last eighteen degrees before he arises. Thus we have the morning and evening twilight, or mixture of light and darkness, in which neither prevails, because, while the sun is within eighteen degrees of the horizon, either after his setting or before his rising, the atmosphere has power to refract the rays of light, and send them back on the earth. The Hebrews extended the meaning of this term to the whole duration of night, because it was ever a mingled state, the moon, the planets, or the stars, tempering the darkness with some rays of light. From the ereb of Moses came the Ερεβος Erebus, of Hesiod, Aristophanes, and other heathens, which they deified and made, with Nox or night, the parent of all things.\nThe morning - בקר boker; From בקר bakar, he looked out; a beautiful figure which represents the morning as looking out at the east, and illuminating the whole of the upper hemisphere. The evening and the morning were the sixth day - It is somewhat remarkable that through the whole of this chapter, whenever the division of days is made, the evening always precedes the morning. The reason of this may perhaps be, that darkness was pre-existent to light, (Gen 1:2, And darkness was upon the face of the deep), and therefore time is reckoned from the first act of God towards the creation of the world, which took place before light was called forth into existence. It is very likely for this same reason, that the Jews began their day at six o'clock in the evening in imitation of Moses's division of time in this chapter. Caesar in his Commentaries makes mention of the same peculiarity existing among the Gauls:\nGalli se omnes ab Dite patre prognatas praedicant: idque ab Druidibus proditum dicunt: ab eam causam spatia omnis temporis, non numero dierum, sed noctium, finiunt; et dies natales, et mensium et annorum initia sic observant, ut noctem dies subsequatur; De Bell. Gall. lib. vi.\nTacitus likewise records the same of the Germans:\nNec dierum numerum, ut nos, sed noctium computant: sic constituent, sic condicunt, nox ducere diem videtur; De Mor. Germ. sec. ii.\nAnd there are to this day some remains of the same custom in England, as for instance in the word se'nnight and fortnight. See also Aeschyl. Agamem. ver. 273, 287.\nThus ends a chapter containing the most extensive, most profound, and most sublime truths that can possibly come within the reach of the human intellect. How unspeakably are we indebted to God for giving us a revelation of his Will and of his Works! Is it possible to know the mind of God but from himself? It is impossible. Can those things and services which are worthy of and pleasing to an infinitely pure, perfect, and holy Spirit, be ever found out by reasoning and conjecture? Never! for the Spirit of God alone can know the mind of God; and by this Spirit he has revealed himself to man; and in this revelation has taught him, not only to know the glories and perfections of the Creator, but also his own origin, duty, and interest. Thus far it was essentially necessary that God should reveal his Will; but if he had not given a revelation of his Works, the origin, constitution, and nature of the universe could never have been adequately known. The world by wisdom knew not God; this is demonstrated by the writings of the most learned and intelligent heathens. They had no just, no rational notion of the origin and design of the universe. Moses alone, of all ancient writers, gives a consistent and rational account of the creation; an account which has been confirmed by the investigation of the most accurate philosophers. But where did he learn this? \"In Egypt.\" That is impossible; for the Egyptians themselves were destitute of this knowledge. The remains we have of their old historians, all posterior to the time of Moses, are egregious for their contradictions and absurdity; and the most learned of the Greeks who borrowed from them have not been able to make out, from their conjoint stock, any consistent and credible account. Moses has revealed the mystery that lay hid from all preceding ages, because he was taught it by the inspiration of the Almighty. Reader, thou hast now before thee the most ancient and most authentic history in the world; a history that contains the first written discovery that God has made of himself to man-kind; a discovery of his own being, in his wisdom, power, and goodness, in which thou and the whole human race are so intimately concerned. How much thou art indebted to him for this discovery he alone can teach thee, and cause thy heart to feel its obligations to his wisdom and mercy. Read so as to understand, for these things were written for thy learning; therefore mark what thou readest, and inwardly digest - deeply and seriously meditate on, what thou hast marked, and pray to the Father of lights that he may open thy understanding, that thou mayest know these holy Scriptures, which are able to make thee wise unto salvation.\nGod made thee and the universe, and governs all things according to the counsel of his will; that will is infinite goodness, that counsel is unerring wisdom. While under the direction of this counsel, thou canst not err; while under the influence of this will, thou canst not be wretched. Give thyself up to his teaching, and submit to his authority; and, after guiding thee here by his counsel, he will at last bring thee to his glory. Every object that meets thy eye should teach thee reverence, submission, and gratitude. The earth and its productions were made for thee; and the providence of thy heavenly Father, infinitely diversified in its operations, watches over and provides for thee. Behold the firmament of his power, the sun, moon, planets, and stars, which he has formed, not for himself, for he needs none of these things, but for his intelligent offspring. What endless gratification has he designed thee in placing within thy reach these astonishing effects of his wisdom and power, and in rendering thee capable of searching out their wonderful relations and connections, and of knowing himself, the source of all perfection, by having made thee in his own image, and in his own likeness! It is true thou art fallen; but he has found out a ransom. God so loved thee in conjunction with the world that he gave his only-begotten Son, that whosoever believeth on him should not perish, but have everlasting life. Believe on Him; through him alone cometh salvation; and the fair and holy image of God in which thou wast created shall be again restored; he will build thee up as at the first, restore thy judges and counsellors as at the beginning, and in thy second creation, as in thy first, will pronounce thee to be very good, and thou shalt show forth the virtues of him by whom thou art created anew in Christ Jesus. Amen."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 2:15",
+      "note_ref": "CLARKE/1/2/15",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "Put him into the garden - to dress it, and to keep it - Horticulture, or gardening, is the first kind of employment on record, and that in which man was engaged while in a state of perfection and innocence. Though the garden may be supposed to produce all things spontaneously, as the whole vegetable surface of the earth certainly did at the creation, yet dressing and tilling were afterwards necessary to maintain the different kinds of plants and vegetables in their perfection, and to repress luxuriance. Even in a state of innocence we cannot conceive it possible that man could have been happy if inactive. God gave him work to do, and his employment contributed to his happiness; for the structure of his body, as well as of his mind, plainly proves that he was never intended for a merely contemplative life."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 2:17",
+      "note_ref": "CLARKE/1/2/17",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "Of the tree of the knowledge - thou shalt not eat - This is the first positive precept God gave to man; and it was given as a test of obedience, and a proof of his being in a dependent, probationary state. It was necessary that, while constituted lord of this lower world, he should know that he was only God's vicegerent, and must be accountable to him for the use of his mental and corporeal powers, and for the use he made of the different creatures put under his care. The man from whose mind the strong impression of this dependence and responsibility is erased, necessarily loses sight of his origin and end, and is capable of any species of wickedness. As God is sovereign, he has a right to give to his creatures what commands he thinks proper. An intelligent creature, without a law to regulate his conduct, is an absurdity; this would destroy at once the idea of his dependency and accountableness. Man must ever feel God as his sovereign, and act under his authority, which he cannot do unless he have a rule of conduct. This rule God gives: and it is no matter of what kind it is, as long as obedience to it is not beyond the powers of the creature who is to obey. God says: There is a certain fruit-bearing tree; thou shalt not eat of its fruit; but of all the other fruits, and they are all that are necessary, for thee, thou mayest freely, liberally eat. Had he not an absolute right to say so? And was not man bound to obey?\nThou shalt surely die - מות תמות moth tamuth; Literally, a death thou shalt die; or, dying thou shalt die. Thou shalt not only die spiritually, by losing the life of God, but from that moment thou shalt become mortal, and shalt continue in a dying state till thou die. This we find literally accomplished; every moment of man's life may be considered as an act of dying, till soul and body are separated. Other meanings have been given of this passage, but they are in general either fanciful or incorrect."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 2:18",
+      "note_ref": "CLARKE/1/2/18",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "It is not good that the man should be alone - לבדו lebaddo; only himself. I will make him a help meet for him; עזר כנגדו ezer kenegdo, a help, a counterpart of himself, one formed from him, and a perfect resemblance of his person. If the word be rendered scrupulously literally, it signifies one like, or as himself, standing opposite to or before him. And this implies that the woman was to be a perfect resemblance of the man, possessing neither inferiority nor superiority, but being in all things like and equal to himself. As man was made a social creature, it was not proper that he should be alone; for to be alone, i.e. without a matrimonial companion, was not good. Hence we find that celibacy in general is a thing that is not good, whether it be on the side of the man or of the woman. Men may, in opposition to the declaration of God, call this a state of excellence and a state of perfection; but let them remember that the word of God says the reverse."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 2:19",
+      "note_ref": "CLARKE/1/2/19",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "Out of the ground, etc. - Concerning the formation of the different kinds of animals, see the preceding chapter, Genesis 1 (note)."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 1:24",
+      "note_ref": "KD/1/1/24",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "The Sixth Day. - Sea and air are filled with living creatures; and the word of God now goes forth to the earth, to produce living beings after their kind. These are divided into three classes. בּהמה, cattle, from בהם, mutum, brutum esse, generally denotes the larger domesticated quadrupeds (e.g., Gen 47:18; Exo 13:12, etc.), but occasionally the larger land animals as a whole. רמשׂ (the creeping) embraces the smaller land animals, which move either without feet, or with feet that are scarcely perceptible, viz., reptiles, insects, and worms. In Gen 1:25 they are distinguished from the race of water reptiles by the term האדמה ארץ חיתו (the old form of the construct state, for הארץ חיּת), the beast of the earth, i.e., the freely roving wild animals.\n\"After its kind:\" this refers to all three classes of living creatures, each of which had its peculiar species; consequently in Gen 1:25, where the word of God is fulfilled, it is repeated with every class. This act of creation, too, like all that precede it, is shown by the divine word \"good\" to be in accordance with the will of God. But the blessing pronounced is omitted, the author hastening to the account of the creation of man, in which the work of creation culminated. The creation of man does not take place through a word addressed by God to the earth, but as the result of the divine decree, \"We will make man in Our image, after our likeness,\" which proclaims at the very outset the distinction and pre-eminence of man above all the other creatures of the earth. The plural \"We\" was regarded by the fathers and earlier theologians almost unanimously as indicative of the Trinity: modern commentators, on the contrary, regard it either as pluralis majestatis; or as an address by God to Himself, the subject and object being identical; or as communicative, an address to the spirits or angels who stand around the Deity and constitute His council. The last is Philo's explanation: διαλέγεται ὁ τῶν ὁ͂λων πατὴρ ταῖς ἑαυτο͂υ δυνάεσιν (δυνάμεις = angels). But although such passages as Kg1 22:19., Psa 89:8, and Dan 10, show that God, as King and Judge of the world, is surrounded by heavenly hosts, who stand around His throne and execute His commands, the last interpretation founders upon this rock: either it assumes without sufficient scriptural authority, and in fact in opposition to such distinct passages as Gen 2:7, Gen 2:22; Isa 40:13 seq., Gen 44:24, that the spirits took part in the creation of man; or it reduces the plural to an empty phrase, inasmuch as God is made to summon the angels to cooperate in the creation of man, and then, instead of employing them, is represented as carrying out the work alone. Moreover, this view is irreconcilable with the words \"in our image, after our likeness;\" since man was created in the image of God alone (Gen 1:27; Gen 5:1), and not in the image of either the angels, or God and the angels. A likeness to the angels cannot be inferred from Heb 2:7, or from Luk 20:36. Just as little ground is there for regarding the plural here and in other passages (Gen 3:22; Gen 11:7; Isa 6:8; Isa 41:22) as reflective, an appeal to self; since the singular is employed in such cases as these, even where God Himself is preparing for any particular work (cf. Gen 2:18; Psa 12:5; Isa 33:10). No other explanation is left, therefore, than to regard it as pluralis majestatis, - an interpretation which comprehends in its deepest and most intensive form (God speaking of Himself and with Himself in the plural number, not reverentiae causa, but with reference to the fullness of the divine powers and essences which He possesses) the truth that lies at the foundation of the trinitarian view, viz., that the potencies concentrated in the absolute Divine Being are something more than powers and attributes of God; that they are hypostases, which in the further course of the revelation of God in His kingdom appeared with more and more distinctness as persons of the Divine Being. On the words \"in our image, after our likeness\" modern commentators have correctly observed, that there is no foundation for the distinction drawn by the Greek, and after them by many of the Latin Fathers, between εἰκών (imago) and ὁμοίωσις (similitudo), the former of which they supposed to represent the physical aspect of the likeness to God, the latter the ethical; but that, on the contrary, the older Lutheran theologians were correct in stating that the two words are synonymous, and are merely combined to add intensity to the thought: \"an image which is like Us\" (Luther); since it is no more possible to discover a sharp or well-defined distinction in the ordinary use of the words between צלם and דּמוּת, than between בּ and כּ. צלם, from צל, lit., a shadow, hence sketch, outline, differs no more from דּמוּת, likeness, portrait, copy, than the German words Umriss or Abriss (outline or sketch) from Bild or Abbild (likeness, copy). בּ and כּ are also equally interchangeable, as we may see from a comparison of this verse with Gen 5:1 and Gen 5:3. (Compare also Lev 6:4 with Lev 27:12, and for the use of בּ to denote a norm, or sample, Exo 25:40; Exo 30:32, Exo 30:37, etc.) There is more difficulty in deciding in what the likeness to God consisted. Certainly not in the bodily form, the upright position, or commanding aspect of the man, since God has no bodily form, and the man's body was formed from the dust of the ground; nor in the dominion of man over nature, for this is unquestionably ascribed to man simply as the consequence or effluence of his likeness to God. Man is the image of God by virtue of his spiritual nature. of the breath of God by which the being, formed from the dust of the earth, became a living soul.\n(Note: \"The breath of God became the soul of man; the soul of man therefore is nothing but the breath of God. The rest of the world exists through the word of God; man through His own peculiar breath. This breath is the seal and pledge of our relation to God, of our godlike dignity; whereas the breath breathed into the animals is nothing but the common breath, the life-wind of nature, which is moving everywhere, and only appears in the animal fixed and bound into a certain independence and individuality, so that the animal soul is nothing but a nature-soul individualized into certain, though still material spirituality.\" - Ziegler.)\nThe image of God consists, therefore, in the spiritual personality of man, though not merely in unity of self-consciousness and self-determination, or in the fact that man was created a consciously free Ego; for personality is merely the basis and form of the divine likeness, not its real essence. This consists rather in the fact, that the man endowed with free self-conscious personality possesses, in his spiritual as well as corporeal nature, a creaturely copy of the holiness and blessedness of the divine life. This concrete essence of the divine likeness was shattered by sin; and it is only through Christ, the brightness of the glory of God and the expression of His essence (Heb 1:3), that our nature is transformed into the image of God again (Col 3:10; Eph 4:24).\n\"And they (אדם, a generic term for men) shall have dominion over the fish,\" etc. There is something striking in the introduction of the expression \"and over all the earth,\" after the different races of animals have been mentioned, especially as the list of races appears to be proceeded with afterwards. If this appearance were actually the fact, it would be impossible to escape the conclusion that the text is faulty, and that חיּת has fallen out; so that the reading should be, \"and over all the wild beasts of the earth,\" as the Syriac has it. But as the identity of \"every creeping thing that creepeth upon the earth\" (הארץ) with \"every thing that creepeth upon the ground\" (האדמה) in Gen 1:25 is not absolutely certain; on the contrary, the change in expression indicates a difference of meaning; and as the Masoretic text is supported by the oldest critical authorities (lxx, Sam., Onk.), the Syriac rendering must be dismissed as nothing more than a conjecture, and the Masoretic text be understood in the following manner. The author passes on from the cattle to the entire earth, and embraces all the animal creation in the expression, \"every moving thing (כל־הרמשׂ) that moveth upon the earth,\" just as in Gen 1:28, \"every living thing הרמשׂת upon the earth.\" According to this, God determined to give to the man about to be created in His likeness the supremacy, not only over the animal world, but over the earth itself; and this agrees with the blessing in Gen 1:28, where the newly created man is exhorted to replenish the earth and subdue it; whereas, according to the conjecture of the Syriac, the subjugation of the earth by man would be omitted from the divine decree. - Gen 1:27. In the account of the accomplishment of the divine purpose the words swell into a jubilant song, so that we meet here for the first time with a parallelismus membrorum, the creation of man being celebrated in three parallel clauses. The distinction drawn between אתו (in the image of God created He him) and אתם (as man and woman created He them) must not be overlooked. The word אתם, which indicates that God created the man and woman as two human beings, completely overthrows the idea that man was at first androgynous (cf. Gen 2:18.). By the blessing in Gen 1:28, God not only confers upon man the power to multiply and fill the earth, as upon the beasts in Gen 1:22, but also gives him dominion over the earth and every beast. In conclusion, the food of both man and beast is pointed out in Gen 1:29, Gen 1:30, exclusively from the vegetable kingdom. Man is to eat of \"every seed-bearing herb on the face of all the earth, and every tree on which there are fruits containing seed,\" consequently of the productions of both field and tree, in other words, of corn and fruit; the animals are to eat of \"every green herb,\" i.e., of vegetables or green plants, and grass.\nFrom this it follows, that, according to the creative will of God, men were not to slaughter animals for food, nor were animals to prey upon one another; consequently, that the fact which now prevails universally in nature and the order of the world, the violent and often painful destruction of life, is not a primary law of nature, nor a divine institution founded in the creation itself, but entered the world along with death at the fall of man, and became a necessity of nature through the curse of sin. It was not till after the flood, that men received authority from God to employ the flesh of animals as well as the green herb as food (Gen 9:3); and the fact that, according to the biblical view, no carnivorous animals existed at the first, may be inferred from the prophetic announcements in Isa 11:6-8; Isa 65:25, where the cessation of sin and the complete transformation of the world into the kingdom of God are described as being accompanied by the cessation of slaughter and the eating of flesh, even in the case of the animal kingdom. With this the legends of the heathen world respecting the golden age of the past, and its return at the end of time, also correspond (cf. Gesenius on Isa 11:6-8). It is true that objections have been raised by natural historians to this testimony of Scripture, but without scientific ground. For although at the present time man is fitted by his teeth and alimentary canal for the combination of vegetable and animal food; and although the law of mutual destruction so thoroughly pervades the whole animal kingdom, that not only is the life of one sustained by the death of another, but \"as the graminivorous animals check the overgrowth of the vegetable kingdom, so the excessive increase of the former is restricted by the beasts of prey, and of these again by the destructive implements of man;\" and although, again, not only beasts of prey, but evident symptoms of disease are met with among the fossil remains of the aboriginal animals: all these facts furnish no proof that the human and animal races were originally constituted for death and destruction, or that disease and slaughter are older than the fall. For, to reply to the last objection first, geology has offered no conclusive evidence of its doctrine, that the fossil remains of beasts of prey and bones with marks of disease belong to a pre-Adamite period, but has merely inferred it from the hypothesis already mentioned of successive periods of creation. Again, as even in the present order of nature the excessive increase of the vegetable kingdom is restrained, not merely by the graminivorous animals, but also by the death of the plants themselves through the exhaustion of their vital powers; so the wisdom of the Creator could easily have set bounds to the excessive increase of the animal world, without requiring the help of huntsmen and beasts of prey, since many animals even now lose their lives by natural means, without being slain by men or eaten by beasts of prey. The teaching of Scripture, that death entered the world through sin, merely proves that the human race was created for eternal life, but by no means necessitates the assumption that the animals were also created for endless existence. As the earth produced them at the creative word of God, the different individuals and generations would also have passed away and returned to the bosom of the earth, without violent destruction by the claws of animals or the hand of man, as soon as they had fulfilled the purpose of their existence. The decay of animals is a law of nature established in the creation itself, and not a consequence of sin, or an effect of the death brought into the world by the sin of man. At the same time, it was so far involved in the effects of the fall, that the natural decay of the different animals was changed into a painful death or violent end. Although in the animal kingdom, as it at present exists, many varieties are so organized that they live exclusively upon the flesh of other animals, which they kill and devour; this by no means necessitates the conclusion, that the carnivorous beasts of prey were created after the fall, or the assumption that they were originally intended to feed upon flesh, and organized accordingly. If, in consequence of the curse pronounced upon the earth after the sin of man, who was appointed head and lord of nature, the whole creation was subjected to vanity and the bondage of corruption (Rom 8:20.); this subjection might have been accompanied by a change in the organization of the animals, though natural science, which is based upon the observation and combination of things empirically discovered, could neither demonstrate the fact nor explain the process. And if natural science cannot boast that in any one of its many branches it has discovered all the phenomena connected with the animal and human organism of the existing world, how could it pretend to determine or limit the changes through which this organism may have passed in the course of thousands of years?\nThe creation of man and his installation as ruler on the earth brought the creation of all earthly beings to a close (Gen 1:31). God saw His work, and behold it was all very good; i.e., everything perfect in its kind, so that every creature might reach the goal appointed by the Creator, and accomplish the purpose of its existence. By the application of the term \"good\" to everything that God made, and the repetition of the word with the emphasis \"very\" at the close of the whole creation, the existence of anything evil in the creation of God is absolutely denied, and the hypothesis entirely refuted, that the six days' work merely subdued and fettered an ungodly, evil principle, which had already forced its way into it. The sixth day, as being the last, is distinguished above all the rest by the article - השּׁשּׁי יום \"a day, the sixth\" (Gesenius, 111, 2a).",
+      "anchor": true
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 2:15",
+      "note_ref": "KD/1/2/15",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "After the preparation of the garden in Eden God placed the man there, to dress it and to keep it. ינּיחהוּ not merely expresses removal thither, but the fact that the man was placed there to lead a life of repose, not indeed in inactivity, but in fulfilment of the course assigned him, which was very different from the trouble and restlessness of the weary toil into which he was plunged by sin. In paradise he was to dress (colere) the garden; for the earth was meant to be tended and cultivated by man, so that without human culture, plants and even the different varieties of corn degenerate and grow wild. Cultivation therefore preserved (שׁמר to keep) the divine plantation, not merely from injury on the part of any evil power, either penetrating into, or already existing in the creation, but also from running wild through natural degeneracy. As nature was created for man, it was his vocation not only to ennoble it by his work, to make it subservient to himself, but also to raise it into the sphere of the spirit and further its glorification. This applied not merely to the soil beyond the limits of paradise, but to the garden itself, which, although the most perfect portion of the terrestrial creation, was nevertheless susceptible of development, and which was allotted to man, in order that by his care and culture he might make it into a transparent mirror of the glory of the Creator. - Here too the man was to commence his own spiritual development. To this end God had planted two trees in the midst of the garden of Eden; the one to train his spirit through the exercise of obedience to the word of God, the other to transform his earthly nature into the spiritual essence of eternal life. These trees received their names from their relation to man, that is to say, from the effect which the eating of their fruit was destined to produce upon human life and its development. The fruit of the tree of life conferred the power of eternal, immortal life; and the tree of knowledge was planted, to lead men to the knowledge of good and evil. The knowledge of good and evil was no mere experience of good and ill, but a moral element in that spiritual development, through which the man created in the image of God was to attain to the filling out of that nature, which had already been planned in the likeness of God. For not to know what good and evil are, is a sign of either the immaturity of infancy (Deu 1:39), or the imbecility of age (Sa2 19:35); whereas the power to distinguish good and evil is commended as the gift of a king (Kg1 3:9) and the wisdom of angels (Sa2 14:17), and in the highest sense is ascribed to God Himself (Gen 3:5, Gen 3:22). Why then did God prohibit man from eating of the tree of the knowledge of good and evil, with the threat that, as soon as he ate thereof, he would surely die? (The inf. abs. before the finite verb intensifies the latter: vid., Ewald, 312a). Are we to regard the tree as poisonous, and suppose that some fatal property resided in the fruit? A supposition which so completely ignores the ethical nature of sin is neither warranted by the antithesis, nor by what is said in Gen 3:22 of the tree of life, nor by the fact that the eating of the forbidden fruit was actually the cause of death. Even in the case of the tree of life, the power is not to be sought in the physical character of the fruit. No earthly fruit possesses the power to give immortality to the life which it helps to sustain. Life is not rooted in man's corporeal nature; it was in his spiritual nature that it had its origin, and from this it derives its stability and permanence also. It may, indeed, be brought to an end through the destruction of the body; but it cannot be exalted to perpetual duration, i.e., to immortality, through its preservation and sustenance. And this applies quite as much to the original nature of man, as to man after the fall. A body formed from earthly materials could not be essentially immortal: it would of necessity either be turned to earth, and fall into dust again, or be transformed by the spirit into the immortality of the soul. The power which transforms corporeality into immortality is spiritual in its nature, and could only be imparted to the earthly tree or its fruit through the word of God, through a special operation of the Spirit of God, an operation which we can only picture to ourselves as sacramental in its character, rendering earthly elements the receptacles and vehicles of celestial powers. God had given such a sacramental nature and significance to the two trees in the midst of the garden, that their fruit could and would produce supersensual, mental, and spiritual effects upon the nature of the first human pair. The tree of life was to impart the power of transformation into eternal life. The tree of knowledge was to lead man to the knowledge of good and evil; and, according to the divine intention, this was to be attained through his not eating of its fruit. This end was to be accomplished, not only by his discerning in the limit imposed by the prohibition the difference between that which accorded with the will of God and that which opposed it, but also by his coming eventually, through obedience to the prohibition, to recognise the fact that all that is opposed to the will of God is an evil to be avoided, and, through voluntary resistance to such evil, to the full development of the freedom of choice originally imparted to him into the actual freedom of a deliberate and self-conscious choice of good. By obedience to the divine will he would have attained to a godlike knowledge of good and evil, i.e., to one in accordance with his own likeness to God. He would have detected the evil in the approaching tempter; but instead of yielding to it, he would have resisted it, and thus have made good his own property acquired with consciousness and of his own free-will, and in this way by proper self-determination would gradually have advanced to the possession of the truest liberty. But as he failed to keep this divinely appointed way, and ate the forbidden fruit in opposition to the command of God, the power imparted by God to the fruit was manifested in a different way. He learned the difference between good and evil from his own guilty experience, and by receiving the evil into his own soul, fell a victim to the threatened death. Thus through his own fault the tree, which should have helped him to attain true freedom, brought nothing but the sham liberty of sin, and with it death, and that without any demoniacal power of destruction being conjured into the tree itself, or any fatal poison being hidden in its fruit."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 2:18",
+      "note_ref": "KD/1/2/18",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "Creation of the Woman. - As the creation of the man is introduced in Gen 1:26-27, with a divine decree, so here that of the woman is preceded by the divine declaration, It is not good that the man should be alone; I will make him כּנגדּו עזר, a help of his like: \"i.e., a helping being, in which, as soon as he sees it, he may recognise himself\" (Delitzsch). Of such a help the man stood in need, in order that he might fulfil his calling, not only to perpetuate and multiply his race, but to cultivate and govern the earth. To indicate this, the general word כנגדו עזר is chosen, in which there is an allusion to the relation of the sexes. To call out this want, God brought the larger quadrupeds and birds to the man, \"to see what he would call them (לו lit., each one); and whatsoever the man might call every living being should be its name.\" The time when this took place must have been the sixth day, on which, according to Gen 1:27, the man and woman were created: and there is no difficulty in this, since it would not have required much time to bring the animals to Adam to see what he would call them, as the animals of paradise are all we have to think of; and the deep sleep into which God caused the man to fall, till he had formed the woman from his rib, need not have continued long. In Gen 1:27 the creation of the woman is linked with that of the man; but here the order of sequence is given, because the creation of the woman formed a chronological incident in the history of the human race, which commences with the creation of Adam. The circumstance that in Gen 2:19 the formation of the beasts and birds is connected with the creation of Adam by the imperf. c. ו consec., constitutes to objection to the plan of creation given in Gen 1. The arrangement may be explained on the supposition, that the writer, who was about to describe the relation of man to the beasts, went back to their creation, in the simple method of the early Semitic historians, and placed this first instead of making it subordinate; so that our modern style of expressing the same thought would be simply this: \"God brought to Adam the beasts which He had formed.\"\n(Note: A striking example of this style of narrative we find in Kg1 7:13. First of all, the building and completion of the temple are noticed several times in 1 Kings 6, and the last time in connection with the year and month (Kg1 6:9, Kg1 6:14, Kg1 6:37-38); after that, the fact is stated, that the royal palace was thirteen years in building; and then the writer proceeds thus: \"And king Solomon sent and fetched Hiram from Tyre...and he came to king Solomon, and did all his work; and made the two pillars,\" etc. Now, if we were to understand the historical preterite with consec., here, as giving the order of sequence, Solomon would be made to send for the Tyrian artist, thirteen years after the temple was finished, to come and prepare the pillars for the porch, and all the vessels needed for the temple. But the writer merely expresses in Semitic style the simple thought, that \"Hiram, whom Solomon fetched from Tyre, made the vessels,\" etc. Another instance we find in Jdg 2:6.)\nMoreover, the allusion is not to the creation of all the beasts, but simply to that of the beasts living in the field (game and tame cattle), and of the fowls of the air-to beasts, therefore, which had been formed like man from the earth, and thus stood in a closer relation to him than water animals or reptiles. For God brought the animals to Adam, to show him the creatures which were formed to serve him, that He might see what he would call them. Calling or naming presupposes acquaintance. Adam is to become acquainted with the creatures, to learn their relation to him, and by giving them names to prove himself their lord. God does not order him to name them; but by bringing the beasts He gives him an opportunity of developing that intellectual capacity which constitutes his superiority to the animal world. \"The man sees the animals, and thinks of what they are and how they look; and these thoughts, in themselves already inward words, take the form involuntarily of audible names, which he utters to the beasts, and by which he places the impersonal creatures in the first spiritual relation to himself, the personal being\" (Delitzsch). Language, as W. v. Humboldt says, is \"the organ of the inner being, or rather the inner being itself as it gradually attains to inward knowledge and expression.\" It is merely thought cast into articulate sounds or words. The thoughts of Adam with regard to the animals, to which he gave expression in the names that he gave them, we are not to regard as the mere results of reflection, or of abstraction from merely outward peculiarities which affected the senses; but as a deep and direct mental insight into the nature of the animals, which penetrated far deeper than such knowledge as is the simple result of reflecting and abstracting thought. The naming of the animals, therefore, led to this result, that there was not found a help meet for man. Before the creation of the woman we must regard the man (Adam) as being \"neither male, in the sense of complete sexual distinction, nor androgynous as though both sexes were combined in the one individual created at the first, but as created in anticipation of the future, with a preponderant tendency, a male in simple potentiality, out of which state he passed, the moment the woman stood by his side, when the mere potentia became an actual antithesis\" (Ziegler).\nThen God caused a deep sleep to fall upon the man (Gen 2:21). תּרדּמּה, a deep sleep, in which all consciousness of the outer world and of one's own existence vanishes. Sleep is an essential element in the nature of man as ordained by God, and is quite as necessary for man as the interchange of day and night for all nature besides. But this deep sleep was different from natural sleep, and God caused it to fall upon the man by day, that He might create the woman out of him. \"Everything out of which something new is to spring, sinks first of all into such a sleep\" (Ziegler). צלע means the side, and, as a portion of the human body, the rib. The correctness of this meaning, which is given by all the ancient versions, is evident from the words, \"God took one of his צלעות,\" which show that the man had several of them. \"And closed up flesh in the place thereof;\" i.e., closed the gap which had been made, with flesh which He put in the place of the rib. The woman was created, not of dust of the earth, but from a rib of Adam, because she was formed for an inseparable unity and fellowship of life with the man, and the mode of her creation was to lay the actual foundation for the moral ordinance of marriage. As the moral idea of the unity of the human race required that man should not be created as a genus or plurality,\n(Note: Natural science can only demonstrate the unity of the human race, not the descent of all men from one pair, though many naturalists question and deny even the former, but without any warrant from anthropological facts. For every thorough investigation leads to the conclusion arrived at by the latest inquirer in this department, Th. Waitz, that not only are there no facts in natural history which preclude the unity of the various races of men, and fewer difficulties in the way of this assumption than in that of the opposite theory of specific diversities; but even in mental respects there are no specific differences within the limits of the race. Delitzsch has given an admirable summary of the proofs of unity. \"That the races of men,\" he says, \"are not species of one genus, but varieties of one species, is confirmed by the agreement in the physiological and pathological phenomena in them all, by the similarity in the anatomical structure, in the fundamental powers and traits of the mind, in the limits to the duration of life, in the normal temperature of the body and the average rate of pulsation, in the duration of pregnancy, and in the unrestricted fruitfulness of marriages between the various races.\")\nso the moral relation of the two persons establishing the unity of the race required that man should be created first, and then the woman from the body of the man. By this the priority and superiority of the man, and the dependence of the woman upon the man, are established as an ordinance of divine creation. This ordinance of God forms the root of that tender love with which the man loves the woman as himself, and by which marriage becomes a type of the fellowship of love and life, which exists between the Lord and His Church (Eph 5:32). If the fact that the woman was formed from a rib, and not from any other part of the man, is significant; all that we can find in this is, that the woman was made to stand as a helpmate by the side of the man, not that there was any allusion to conjugal love as founded in the heart; for the text does not speak of the rib as one which was next the heart. The word בּנה is worthy of note: from the rib of the man God builds the female, through whom the human race is to be built up by the male (Gen 16:2; Gen 30:3)."
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 1:29",
+      "note_ref": "MHC/1/1/29",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "We have here the third part of the sixth day's work, which was not any new creation, but a gracious provision of food for all flesh, Psa 136:25. He that made man and beast thus took care to preserve both, Psa 36:6. Here is,\nI. Food provided for man, Gen 1:29. Herbs and fruits must be his meat, including corn and all the products of the earth; these were allowed him, but (it should seem) not flesh, till after the flood, Gen 9:3. And before the earth was deluged, much more before it was cursed for man's sake, its fruits, no doubt, were more pleasing to the taste and more strengthening and nourishing to the body than marrow and fatness, and all the portion of the king's meat, are now. See here, 1. That which should make us humble. As we were made out of the earth, so we are maintained out of it. Once indeed men did eat angels' food, bread from heaven; but they died (Joh 6:49); it was to them but as food out of the earth, Psa 104:14. There is meat that endures to everlasting life; the Lord evermore give us this. 2. That which should make us thankful. The Lord is for the body; from him we receive all the supports and comforts of this life, and to him we must give thanks. He gives us all things richly to enjoy, not only for necessity, but plenty, plenty, dainties, and varieties, for ornament and delight. How much are we indebted! How careful should we be, as we live upon God's bounty, to live to his glory! 3. That which should make us temperate and content with our lot. Though Adam had dominion given him over fish and fowl, yet God confined him, in his food, to herbs and fruits; and he never complained of it. Though afterwards he coveted forbidden fruit, for the sake of the wisdom and knowledge he promised himself from it, yet we never read that he coveted forbidden flesh. If God give us food for our lives, let us not, with murmuring Israel, ask food for our lusts, Psa 78:18; see Dan 1:15.\nII. Food provided for the beasts, Gen 1:30. Doth God take care for oxen? Yes, certainly, he provides food convenient for them, and not for oxen only, which were used in his sacrifices and man's service, but even the young lions and the young ravens are the care of his providence; they ask and have their meat from God. Let us give to God the glory of his bounty to the inferior creatures, that all are fed, as it were, at his table, every day. He is a great housekeeper, a very rich and bountiful one, that satisfies the desire of every living thing. Let this encourage God's people to cast their care upon him, and not to be solicitous respecting what they shall eat and what they shall drink. He that provided for Adam without his care, and still provides for all the creatures without their care, will not let those that trust him want any good thing, Mat 6:26. He that feeds his birds will not starve his babes."
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 1:31",
+      "note_ref": "MHC/1/1/31",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "We have here the approbation and conclusion of the whole work of creation. As for God, his work is perfect; and if he begin he will also make an end, in providence and grace, as well as here in creation. Observe,\nI. The review God took of his work: He saw every thing that he had made. So he does still; all the works of his hands are under his eye. He that made all sees all; he that made us sees us, Ps. 139:1-16. Omniscience cannot be separated from omnipotence. Known unto God are all his works, Act 15:18. But this was the Eternal Mind's solemn reflection upon the copies of its own wisdom and the products of its own power. God has hereby set us an example of reviewing our works. Having given us a power of reflection, he expects we should use that power, see our way (Jer 2:23), and think of it, Psa 119:59. When we have finished a day's work, and are entering upon the rest of the night, we should commune with our own hearts about what we have been doing that day; so likewise when we have finished a week's work, and are entering upon the sabbath-rest, we should thus prepare to meet our God; and when we are finishing our life's work, and are entering upon our rest in the grave, that is a time to bring to remembrance, that we may die repenting, and so take leave of it.\nII. The complacency God took in his work. When we come to review our works we find, to our shame, that much has been very bad; but, when God reviewed his, all was very good. He did not pronounce it good till he had seen it so, to teach us not to answer a matter before we hear it. The work of creation was a very good work. All that God made was well-made, and there was no flaw nor defect in it. 1. It was good. Good, for it is all agreeable to the mind of the Creator, just as he would have it to be; when the transcript came to be compared with the great original, it was found to be exact, no errata in it, not one misplaced stroke. Good, for it answers the end of its creation, and is fit for the purpose for which it was designed. Good, for it is serviceable to man, whom God had appointed lord of the visible creation. Good, for it is all for God's glory; there is that in the whole visible creation which is a demonstration of God's being and perfections, and which tends to beget, in the soul of man, a religious regard to him and veneration of him. 2. It was very good. Of each day's work (except the second) it was said that it was good, but now, it is very good. For, (1.) Now man was made, who was the chief of the ways of God, who was designed to be the visible image of the Creator's glory and the mouth of the creation in his praises. (2.) Now all was made; every part was good, but all together very good. The glory and goodness, the beauty and harmony, of God's works, both of providence and grace, as this of creation, will best appear when they are perfected. When the top-stone is brought forth we shall cry, Grace, grace, unto it, Zac 4:7. Therefore judge nothing before the time.\nIII. The time when this work was concluded: The evening and the morning were the sixth day; so that in six days God made the world. We are not to think but that God could have made the world in an instant. He said that, Let there be light, and there was light, could have said, \"Let there be a world,\" and there would have been a world, in a moment, in the twinkling of an eye, as at the resurrection, Co1 15:52. But he did it in six days, that he might show himself a free-agent, doing his own work both in his own way and in his own time, - that his wisdom, power, and goodness, might appear to us, and be meditated upon by us, the more distinctly, - and that he might set us an example of working six days and resting the seventh; it is therefore made the reason of the fourth commandment. So much would the sabbath conduce to the keeping up of religion in the world that God had an eye to it in the timing of his creation. And now, as God reviewed his work, let us review our meditations upon it, and we shall find them very lame and defective, and our praises low and flat; let us therefore stir up ourselves, and all that is within us, to worship him that made the heaven, earth, and sea, and the fountains of waters, according to the tenour of the everlasting gospel, which is preached to every nation, Rev 14:6, Rev 14:7. All his works, in all places of his dominion, do bless him; and, therefore, bless thou the Lord, O my soul!"
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 2:16",
+      "note_ref": "MHC/1/2/16",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "Observe here, I. God's authority over man, as a creature that had reason and freedom of will. The Lord God commanded the man, who stood now as a public person, the father and representative of all mankind, to receive law, as he had lately received a nature, for himself and all his. God commanded all the creatures, according to their capacity; the settled course of nature is a law, Psa 148:6; Psa 104:9. The brute-creatures have their respective instincts; but man was made capable of performing reasonable service, and therefore received, not only the command of a Creator, but the command of a Prince and Master. Though Adam was a very great man, a very good man, and a very happy man, yet the Lord God commanded him; and the command was no disparagement to his greatness, no reproach to his goodness, nor any diminution at all to his happiness. Let us acknowledge God's right to rule us, and our own obligations to be ruled by him; and never allow any will of our own in contradiction to, or competition with, the holy will of God.\nII. The particular act of this authority, in prescribing to him what he should do, and upon what terms he should stand with his Creator. Here is,\n1. A confirmation of his present happiness to him, in that grant, Of every tree in the garden thou mayest freely eat. This was not only an allowance of liberty to him, in taking the delicious fruits of paradise, as a recompence for his care and pains in dressing and keeping it (Co1 9:7, Co1 9:10), but it was, withal, an assurance of life to him, immortal life, upon his obedience. For the tree of life being put in the midst of the garden (Gen 2:9), as the heart and soul of it, doubtless God had an eye to that especially in this grant; and therefore when, upon his revolt, this grant is recalled, no notice is taken of any tree of the garden as prohibited to him, except the tree of life (Gen 3:22), of which it is there said he might have eaten and lived for ever, that is, never died, nor ever lost his happiness. \"Continue holy as thou art, in conformity to thy Creator's will, and thou shalt continue happy as thou art in the enjoyment of thy Creator's favour, either in this paradise or in a better.\" Thus, upon condition of perfect personal and perpetual obedience, Adam was sure of paradise to himself and his heirs for ever.\n2. A trial of his obedience, upon pain of the forfeiture of all his happiness: \"But of the other tree which stood very near the tree of life (for they are both said to be in the midst of the garden), and which was called the tree of knowledge, in the day thou eatest thereof, thou shalt surely die;\" as if he had said, \"Know, Adam, that thou art now upon thy good behaviour, thou art put into paradise upon trial; be observant, be obedient, and thou art made for ever; otherwise thou wilt be as miserable as now thou art happy.\" Here,\n(1.) Adam is threatened with death in case of disobedience: Dying thou shalt die, denoting a sure and dreadful sentence, as, in the former part of this covenant, eating thou shalt eat, denotes a free and full grant. Observe [1.] Even Adam, in innocency, was awed with a threatening; fear is one of the handles of the soul, by which it is taken hold of and held. If he then needed this hedge, much more do we now. [2.] The penalty threatened is death: Thou shalt die, that is, \"Thou shalt be debarred from the tree of life, and all the good that is signified by it, all the happiness thou hast, either in possession or prospect; and thou shalt become liable to death, and all the miseries that preface it and attend it.\" [3.] This was threatened as the immediate consequence of sin: In the day thou eatest, thou shalt die, that is, \"Thou shalt become mortal and capable of dying; the grant of immortality shall be recalled, and that defence shall depart from thee. Thou shalt become obnoxious to death, like a condemned malefactor that is dead in the law\" (only, because Adam was to be the root of mankind, he was reprieved); \"nay, the harbingers and forerunners of death shall immediately seize thee, and thy life, thenceforward, shall be a dying life: and this, surely; it is a settled rule, the soul that sinneth, it shall die.\"\n(2.) Adam is tried with a positive law, not to eat of the fruit of the tree of knowledge. Now it was very proper to make trial of his obedience by such a command as this, [1.] Because the reason of it is fetched purely from the will of the Law-maker. Adam had in his nature an aversion to that which was evil in itself, and therefore he is tried in a thing which was evil only because it was forbidden; and, being in a small thing, it was the more fit to prove his obedience by. [2.] Because the restraint of it is laid upon the desires of the flesh and of the mind, which, in the corrupt nature of man, are the two great fountains of sin. This prohibition checked both his appetite towards sensitive delights and his ambitions of curious knowledge, that his body might be ruled by his soul and his soul by his God.\nThus easy, thus happy, was man in a state of innocency, having all that heart could wish to make him so. How good was God to him! How many favours did he load him with! How easy were the laws he gave him! How kind the covenant he made with him! Yet man, being in honour, understood not his own interest, but soon became as the beasts that perish."
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 2:18",
+      "note_ref": "MHC/1/2/18",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "Here we have, I. An instance of the Creator's care of man and his fatherly concern for his comfort, Gen 2:18. Though God had let him know that he was a subject, by giving him a command, (Gen 2:16, Gen 2:17), yet here he lets him know also, for his encouragement in his obedience, that he was a friend, and a favourite, and one whose satisfaction he was tender of. Observe,\n1. How God graciously pitied his solitude: It is not good that man, this man, should be alone. Though there was an upper world of angels and a lower world of brutes, and he between them, yet there being none of the same nature and rank of beings with himself, none that he could converse familiarly with, he might be truly said to be alone. Now he that made him knew both him and what was good for him, better than he did himself, and he said, \"It is not good that he should continue thus alone.\" (1.) It is not for his comfort; for man is a sociable creature. It is a pleasure to him to exchange knowledge and affection with those of his own kind, to inform and to be informed, to love and to be beloved. What God here says of the first man Solomon says of all men (Ecc 4:9, etc.), that two are better than one, and woe to him that is alone. If there were but one man in the world, what a melancholy man must he needs be! Perfect solitude would turn a paradise into a desert, and a palace into a dungeon. Those therefore are foolish who are selfish and would be place alone in the earth. (2.) It is not for the increase and continuance of his kind. God could have made a world of men at first, to replenish the earth, as he replenished heaven with a world of angels: but the place would have been too strait for the designed number of men to live together at once; therefore God saw fit to make up that number by a succession of generations, which, as God had formed man, must be from two, and those male and female; one will be ever one.\n2. How God graciously resolved to provide society for him. The result of this reasoning concerning him was this kind resolution, I will make a help-meet for him; a help like him (so some read it), one of the same nature and the same rank of beings; a help near him (so others), one to cohabit with him, and to be always at hand; a help before him (so others), one that he should look upon with pleasure and delight. Note hence, (1.) In our best state in this world we have need of one another's help; for we are members one of another, and the eye cannot say to the hand, I have no need of thee, Co1 12:21. We must therefore be glad to receive help from others, and give help to others, as there is occasion. (2.) It is God only who perfectly knows our wants, and is perfectly able to supply them all, Phi 4:19. In him alone our help is, and from him are all our helpers. (3.) A suitable wife is a help-meet, and is from the Lord. The relation is then likely to be comfortable when meetness directs and determines the choice, and mutual helpfulness is the constant care and endeavour, Co1 7:33, Co1 7:34. (4.) Family-society, if it is agreeable, is a redress sufficient for the grievance of solitude. He that has a good God, a good heart, and a good wife, to converse with, and yet complains he wants conversation, would not have been easy and content in paradise; for Adam himself had no more: yet, even before Eve was created, we do not find that he complained of being alone, knowing that he was not alone, for the Father was with him. Those that are most satisfied in God and his favour are in the best way, and in the best frame, to receive the good things of this life, and shall be sure of them, as far as Infinite Wisdom sees good.\nII. An instance of the creatures' subjection to man, and his dominion over them (Gen 2:19, Gen 2:20): Every beast of the field and every fowl of the air God brought to Adam, either by the ministry of angels, or by a special instinct, directing them to come to man as their master, teaching the ox betimes to know his owner. Thus God gave man livery and seisin of the fair estate he had granted him, and put him in possession of his dominion over the creatures. God brought them to him, that he might name them, and so might give, 1. A proof of his knowledge, as a creature endued with the faculties both of reason and speech, and so taught more than the beasts of the earth and made wiser than the fowls of the heaven, Job 35:11. And, 2. A proof of his power. It is an act of authority to impose names (Dan 1:7), and of subjection to receive them. The inferior creatures did now, as it were, do homage to their prince at his inauguration, and swear fealty and allegiance to him. If Adam had continued faithful to his God, we may suppose the creatures themselves would so well have known and remembered the names Adam now gave them as to have come at his call, at any time, and answered to their names. God gave names to the day and night, to the firmament, to the earth, and to the sea; and he calleth the stars by their names, to show that he is the supreme Lord of these. But he gave Adam leave to name the beasts and fowls, as their subordinate lord; for, having made him in his own image, he thus put some of his honour upon him.\nIII. An instance of the creatures' insufficiency to be a happiness for man: But (among them all) for Adam there was not found a help meet for him. Some make these to be the words of Adam himself; observing all the creatures come to him by couples to be named, he thus intimates his desire to his Maker: - \"Lord, these have all helps meet for them; but what shall I do? Here is never a one for me.\" It is rather God's judgment upon the review. He brought them all together, to see if there were ever a suitable match for Adam in any of the numerous families of the inferior creatures; but there was none. Observe here, 1. The dignity and excellency of the human nature. On earth there was not its like, nor its peer to be found among all visible creatures; they were all looked over, but it could not be matched among them all. 2. The vanity of this world and the things of it; put them all together, and they will not make a help-meet for man. They will not suit the nature of his soul, nor supply its needs, nor satisfy its just desires, nor run parallel with its never-failing duration. God creates a new thing to be a help-meet for man - not so much the woman as the seed of the woman."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 1:27",
+      "note_ref": "TYN/1/1/27",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "1:27 The first poetry of Genesis reflectively celebrates God’s climactic feat in creating humankind. • human beings: This term (Hebrew ha-’adam, “the man”) is often used to denote humanity collectively (see 6:1, 5-7; 9:5-6). Though traditionally translated “man,” gender is not at issue here; both male and female are included."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 1:28",
+      "note_ref": "TYN/1/1/28",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "1:28 God blessed them: See study note on 1:22; see also 17:16; 48:16; Deut 7:13. • said: God’s message to humankind is direct and intimate; we are stewards of his delegated authority. • govern. . . . Reign: As God’s vice-regents, humans are entrusted with the care and management of the world God created (see also Gen 9:2; Ps 8:5-8)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 1:29",
+      "note_ref": "TYN/1/1/29",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "1:29-30 These verses highlight the extent (throughout the earth) and variety (every seed-bearing plant . . . all the fruit trees) of God’s provision for humans, animals, and birds."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 1:31",
+      "note_ref": "TYN/1/1/31",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "1:31 The Creator declares his work good seven times in ch 1; following the creation of human beings, God declares it all very good."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 2:15",
+      "note_ref": "TYN/1/2/15",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "2:15 to tend and watch over: The garden required maintenance and oversight. Tending the Garden was humanity’s dignifying work. These roles in God’s garden-sanctuary were later applied to God’s Tabernacle (see Lev 8:35; Num 3:5-10; 4:46-49)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 2:17",
+      "note_ref": "TYN/1/2/17",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "2:17 except (literally but you must not eat): This prohibition is given in the same legal format as Israel’s Ten Commandments (see Exod 20:1-17; Deut 5:6-21). The Lord built law and obedience into the fabric of his covenant relationship with humanity. • the knowledge of good and evil: See study note on 2:9. • you are sure to die: The consequences of disobedience would be immediate spiritual death (loss of relationship with God) and eventual physical death (see 3:22-23; Eccl 12:6-7)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 2:18",
+      "note_ref": "TYN/1/2/18",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "2:18-23 As human creation was the climax of ch 1, so human intimacy is the high point of ch 2. God’s concern for mutual human support and companionship finds no parallel in ancient Near Eastern literature.\n2:18 It is not good: This is God’s first negative assessment of an otherwise excellent creation (1:31). The Lord God is portrayed as a father who obtains a bride for his son (cp. ch 24). • The answer to the man’s need is a helper who is just right for him; she is his perfect complement, made in the same image of God (1:26-27), given the same commission (1:28; 2:15), and obligated by the same prohibition (2:17). The man cannot fulfill his created purpose alone."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 2:19",
+      "note_ref": "TYN/1/2/19",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "2:19-20 to see what he would call them: Following God’s example (1:5, 8, 10), the man chose a name for each of the creatures. In so doing, he was exercising his reign over creation (1:26, 28)."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 1:28",
+      "note_ref": "GNV/1/1/28",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "The propagation of man is the blessing of God, Ps. 128."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 1:29",
+      "note_ref": "GNV/1/1/29",
+      "cites": [
+        "Genesis 1:29"
+      ],
+      "text": "God’s great liberality to man, taketh away all excuse of his ingratitude."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 2:15",
+      "note_ref": "GNV/1/2/15",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "God would not have man idle, though as yet there was no need to labor."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 2:16",
+      "note_ref": "GNV/1/2/16",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "Hebrew, eating thou shalt eat of.\nSo that man might know there was a sovereign Lord, to whom he owed obedience."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 2:17",
+      "note_ref": "GNV/1/2/17",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "By this death he meaneth the separation of man from God, who is our life and chief felicity: and also that our disobedience is the cause thereof.\nOr, whensoever."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 2:18",
+      "note_ref": "GNV/1/2/18",
+      "cites": [
+        "Genesis 2:17"
+      ],
+      "text": "Hebrew, before him."
+    }
+  ]
+}

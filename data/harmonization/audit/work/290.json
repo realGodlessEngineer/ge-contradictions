@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 290,
+  "question": "When did Jehoash become king of Israel?",
+  "summary": "2 Kings 13:10 dates Jehoash of Israel's accession to the thirty-seventh year of Joash of Judah. The first cited passage (2 Kings 13:1) gives Jehoahaz's accession in Joash's twenty-third year and a seventeen-year reign, totaling forty years before Jehoash takes over. The two computations cannot both be correct.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders close the gap with a coregency: Jehoash shared the throne with his father two years before Jehoahaz died, so the thirty-seventh-year accession and the seventeen-year reign overlap rather than conflict.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells, who compiles this row in the Skeptic's Annotated Bible, presses it at face value: Jehoahaz's twenty-third-year accession plus a seventeen-year reign cannot leave room for his son to begin in Joash's thirty-seventh year.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "Skeptic's Annotated Bible (\"When did Jehoash become king of Israel?\")",
+      "year": "2013",
+      "attribution": "Steve Wells, Skeptic's Annotated Bible, \"When did Jehoash become king of Israel?\" (skepticsannotatedbible.com/contra/jehoash.html)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on 2 Kings 13:10",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact synchronism, resolving the thirty-seventh-year accession via a two-year coregency of Jehoash with Jehoahaz (citing Calmet); used as the textual anchor because Haley's coverage of this specific pair could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page engages this specific 2 Kings 13:1-vs-13:10 chronology pair: defendinginerrancy.com/bible-solutions/2_Kings_13.10.php and 2_Kings_13.1.php both 404, and gotquestions King-Jehoahaz.html / King-Joash.html are character profiles that do not treat the accession-year discrepancy. Link omitted rather than guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "290#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "2 Kings 13:10",
+      "full_note_ref": "CLARKE/12/13/10",
+      "excerpt_text": "Joash, the son of Jehoahaz, was associated with his father in the government two years before his death… Joash reigned sixteen years, which include the years he governed conjointly with his father.",
+      "on_tension_rationale": "Clarke's coregency reading directly resolves the synchronism gap the row flags: Jehoash's two-year overlap with Jehoahaz explains the thirty-seventh-year accession date, and the sixteen-year figure is counted inclusive of that overlap. Two non-adjacent on-tension sentences joined by a sense-preserving ellipsis; both end on real source periods (the intervening 'It is this association... a little before the death of Elisha' is dropped), so no truncation marker.",
+      "source_note_text": "In the thirty and seventh year - Joash, the son of Jehoahaz, was associated with his father in the government two years before his death. It is this association that is spoken of here. He succeeded him two years after, a little before the death of Elisha. Joash reigned sixteen years, which include the years he governed conjointly with his father. - Calmet."
+    }
+  ]
+}

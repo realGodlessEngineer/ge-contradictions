@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 68,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read \"righteous\" as God's verdict on Lot's general course of life, not an endorsement of the daughter-offering or the incest.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells in the Skeptic's Annotated Bible, the upstream source of this entry, who holds that 2 Peter's calling Lot \"just\" and \"righteous\" cannot be squared with the same man offering his virgin daughters to a rape mob and fathering children by both of them while drunk.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Was Lot righteous?\" (skepticsannotatedbible.com/contra/lot_righteous.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; print ed. 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "2 Peter 2:7",
+      "excerpt_text": "God does not account men just or unjust from one single act, but from their general course of life.",
+      "full_note_ref": "MHC/61/2/7",
+      "on_tension_rationale": "Directly answers the contradiction: the 'righteous' label of 2 Pet 2:7 is a verdict on Lot's general life, so the single bad acts of Gen 19:8/19:30-36 do not negate it. Strongest single harmonization; parity-capped to one to match the named-skeptic discrepancy pole on this discrepancy_first row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on 2 Peter 2:7",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this exact tension at 2 Peter 2:7, arguing God reckons a man just or unjust by his general course of life rather than a single act, while frankly conceding Lot's sins in Genesis 19. Used in place of Haley, whose specific coverage of this moral-character discrepancy could not be confirmed."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/righteous-Lot.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: How could Lot be considered righteous in light of his many failures (2 Peter 2:7)?",
+        "note": "live apologetic treatment citing 2 Peter 2:7-8 and Genesis 19; harmonizes via grace-based justification over moral perfection"
+      }
+    }
+  }
+}

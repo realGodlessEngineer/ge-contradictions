@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 74,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Genesis 22 as a test God never meant carried out — He stayed the knife and provided a ram, so the law against child-sacrifice and the command to Abraham do not actually clash.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Immanuel Kant pressed the sharpest objection: because sacrificing one's innocent son violates the moral law, Abraham should have judged that the voice commanding it could not be God's at all.",
+      "skeptic": {
+        "name": "Immanuel Kant",
+        "work": "The Conflict of the Faculties",
+        "year": "1798",
+        "attribution": "Immanuel Kant (d. 1804), The Conflict of the Faculties (1798)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 22:1",
+      "excerpt_text": "The issue shows, that God did not desire the sacrifice of Isaac by slaying and burning him upon the altar, but his complete surrender, and a willingness to offer him up to God even by death.",
+      "full_note_ref": "KD/1/22/1",
+      "on_tension_rationale": "Directly answers the contradiction: God never actually wanted the human sacrifice; the trial sought surrender, not Isaac's death — so Gen 22 does not endorse what the Torah forbids.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Genesis 22:3",
+      "excerpt_text": "It seemed directly against an antecedent law of God, which forbids murder, under a severe penalty, Gen 9:5, Gen 9:6. Now can the unchangeable God contradict himself? He that hates robbery for burnt-offering (Isa 61:8) cannot delight in murder for it.",
+      "full_note_ref": "MHC/1/22/3",
+      "on_tension_rationale": "Henry names the very tension — the command appears to violate God's own law against killing — and resolves it by denying God contradicts himself or delights in the actual slaying.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Genesis 22:3",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this exact tension at length, raising the objection that the command runs against God's law forbidding murder and answering that the unchangeable God neither contradicts himself nor delights in the killing."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Genesis_22.2.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in Genesis 22:2?",
+        "note": "Live apologetic treatment (Geisler & Howe, When Critics Ask) that cites the Molech-prohibition verses and resolves the human-sacrifice tension directly."
+      }
+    }
+  }
+}

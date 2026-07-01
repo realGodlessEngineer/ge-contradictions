@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 82,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The commentators treat “man,” “God,” and “angel” as three labels for one figure — the visible Angel of the covenant who appeared in human form.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, compiler of the Skeptic’s Annotated Bible (the upstream source for this entry), presses the plain wording: Genesis calls Jacob’s opponent a man whom Jacob then names God, while Hosea calls him an angel — three different answers to one question.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic’s Annotated Bible (“Who did Jacob wrestle with?”, skepticsannotatedbible.com/contra/wrestle.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic’s Annotated Bible (2013), “Who did Jacob wrestle with?”"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Genesis 32:24",
+      "excerpt_text": "This mysterious person is called an angel (Hos 12:4) and God (Gen 32:28, Gen 32:30; Hos 12:5); and the opinion that is most supported is that he was “the angel of the covenant,” who, in a visible form, appeared to animate the mind and sympathize with the distress of his pious servant.",
+      "full_note_ref": "JFB/1/32/24",
+      "on_tension_rationale": "Directly reconciles all three identity labels at issue (man→angel per Hos 12:4→God), resolving them as one figure, the Angel of the covenant in visible form. Strongest single harmonization of the man/God/angel tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Hosea 12:4",
+      "excerpt_text": "where the person Jacob prevailed over is called a man, and here the angel … called an Angel, being so not by nature, for he is superior to angels in both his natures, divine and human; but by office, being sent to reveal the will of God …",
+      "full_note_ref": "GILL/28/12/4",
+      "on_tension_rationale": "Explicitly names the cross-text discrepancy (Genesis “man” vs. Hosea “angel”) and harmonizes it: “Angel” is a title of office for the divine Son, not a created order, so man/God/angel are one. Sense-preserving join of two non-adjacent verbatim spans; truncated mid-sentence with the elision marker.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Genesis 32:24",
+      "excerpt_text": "This was doubtless the Lord Jesus Christ, who, among the patriarchs, assumed that human form, which in the fullness of time he really took of a woman, and in which he dwelt thirty-three years among men. He is here styled an angel …",
+      "full_note_ref": "CLARKE/1/32/24",
+      "on_tension_rationale": "Identifies the “man” of Genesis and the “angel” of Hosea as one pre-incarnate divine person (Christ), collapsing the man/angel/God labels. First sentence ends on a real source period; “He is here styled an angel” truncated mid-sentence with the elision marker.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Genesis 32:24",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Treats this exact pair directly: harmonizes the Genesis “man”/“God” labels with the Hosea “angel” label by identifying the figure as the Angel of the covenant in visible form. Used as the textual anchor because Haley’s specific coverage of the Genesis-32-vs-Hosea-12 identity question could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page squarely treats the man/God/angel identity tension with Hosea 12:4. gotquestions.org/Jacob-wrestling-with-God.html is live but does not cite Hosea 12:4 or harmonize the angel label; who-did-Jacob-wrestle-with.html is a 404. Link omitted rather than use an off-tension page."
+      }
+    }
+  }
+}

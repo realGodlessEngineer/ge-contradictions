@@ -1,0 +1,370 @@
+{
+  "contradiction_id": 304,
+  "question": "On what day of the month was Jehoiachin released from prison?",
+  "summary": "2 Kings 25:27 says Evil-Merodach released Jehoiachin on the twenty-seventh day of the twelfth month. Jeremiah 52:31 — telling the same story — says it was the twenty-fifth day. Same king, same prison, same release event, two different dates two days apart.",
+  "consensus": "probable_contradiction",
+  "consensus_id": 2,
+  "category": "Chronology & Sequence",
+  "contradiction_type": "chronological",
+  "testament_scope": "OT_internal",
+  "books_in_tension": "2 Kings, Jeremiah",
+  "refs_raw": [
+    "2 Kings 25:27",
+    "Jeremiah 52:31"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "2 Kings 25:27",
+      "book": "2 Kings",
+      "bolls": 12,
+      "ranges": [
+        [
+          25,
+          27,
+          27
+        ]
+      ]
+    },
+    {
+      "raw": "Jeremiah 52:31",
+      "book": "Jeremiah",
+      "bolls": 24,
+      "ranges": [
+        [
+          52,
+          31,
+          31
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 29,
+  "notes_raw_count": 31,
+  "notes_dropped": 2,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "2 Kings 25:25",
+      "note_ref": "GILL/12/25/25",
+      "cites": [
+        "2 Kings 25:27"
+      ],
+      "text": "And it came to pass in the thirty and seventh year of the captivity of Jehoiachin king of Judah,.... Who must then be fifty five years of age:\nin the twelfth month, on the twenty and seventh day of the month; in Jer 52:31 it is said to be the twenty fifth day; of the reason of which difference; see Gill on Jer 52:31,\nthat Evilmerodach king of Babylon; who is supposed, by some (z)\", to be the same with Belshazzar, and his successor Neriglissar, the same with Darius the Mede in Daniel. From hence, to the end of the chapter, the same account is given of the kindness of this king to Jehoiachin, as in Jer 52:31. See Gill on Jer 52:31; see Gill on Jer 52:32; see Gill on Jer 52:33; see Gill on Jer 52:34.Metasthenes (a) calls him Amilinus Evilmerodach, and says he reigned thirty years, and makes Belshazzar, or Baltassar, as he calls him, his third son.\n(z) Vid. Lampe, Eccles. Hist. l. 1. c. 7. sect. 18. (a) Ut supra. (De Judicio Temp. & Annal. Pers. fol. 221. 2.)\nNext: 1 Chronicles Introduction"
+    },
+    {
+      "src": "GILL",
+      "ref": "Jeremiah 52:29",
+      "note_ref": "GILL/24/52/29",
+      "cites": [
+        "Jeremiah 52:31"
+      ],
+      "text": "In the three and twentieth year of Nebuchadnezzar,.... In this year of his reign, the Jews say (m), Tyre was delivered into his hands; and he carried off the Jews in Moab, Ammon, and the neighbouring nations, to the number after mentioned; though some think these were the poor people of the land he took from thence, after the murder of Gedaliah, and in revenge of that:\nNebuzaradan captain of the guard carried away captive of the Jews seven hundred forty and five persons; all which being put together make the following sum:\nall the persons were four thousand and six hundred; this is the sum total of the three mentioned captivities.\n(m) Seder Olam Rabba, c. 26. p. 77."
+    },
+    {
+      "src": "GILL",
+      "ref": "Jeremiah 52:30",
+      "note_ref": "GILL/24/52/30",
+      "cites": [
+        "Jeremiah 52:31"
+      ],
+      "text": "And it came to pass in the seven and thirtieth year of the captivity of Jehoiachin king of Judah,.... He was eighteen years of age when he was carried captive; so that he must be now fifty five years old; see Kg2 24:8;\nin the twelfth month, in the five and twentieth day of the month; in the month Adar, which answers to part of February, and part of March: in Kg2 25:27; the favour shown by the king of Babylon to Jeconiah, after related, is said to be in the twenty seventh day of the month; it might have been determined and notified on the twenty fifth, but not executed till the twenty seventh; or it might be begun to be put in execution on the twenty fifth, and not finished till the twenty seventh, The Jews, in their chronicle, say (n) that Nebuchadnezzar died on the twenty fifth, and was buried; that, on the twenty sixth, Evilmerodach took him out of his grave, and dragged him about, to abolish his decrees, and to confirm what is said of him in Isa 14:19; and on the twenty seventh he brought Jeconiah out of prison; but this is no reconciliation at all; the former is best;\nthat Evilmerodach king of Babylon, in the first year of his reign; who succeeded Nebuchadnezzar, having reigned forty three years; this king is called by Ptolemy (o) Iloarudamus; by Abydenus (p) Evilmaluruch; by Josephus (q) Abilamarodach; but by Berosus (r) as here: his proper name was Merodach, a name of one of the Chaldean idols, Jer 50:2. \"Evil\" was a nickname, which signifies \"foolish\"; he was called \"foolish Merodach\", on account of his ill conduct, or bad life: as soon as he came to the throne, he\nlifted up the head of Jehoiachin king of Judah, and brought him forth out of prison; that is, he changed his condition for the better; he raised him out of a low estate to a more honourable one; he brought him out of a state of imprisonment and misery into a state of liberty and honour; what was the reason of this is not easy to say. The Jews have a tradition, that Nebuchadnezzar, after seven years' madness, coming to himself, and to his kingdom, and understanding that his son Evilmerodach had been guilty of mal-administration during that time, and particularly that he rejoiced at his madness, cast him into prison, where he contracted a friendship with Jeconiah; and when he came to the throne, upon the death of his father, released him: but others think that Jeconiah being a comely young man, when he was brought a captive to Babylon, and about the age of this prince, he took a liking to him, and, pitying his case, showed him this favour, as soon as he had an opportunity.\n(n) Seder Olam, c. 28. p. 81. (o) Canon, Ed. Bainbridge, p. 48. (p) Apud Euseb. Evangel. Praepar. l. 9. c. 41. p. 457. (q) Antiqu. l. 10. c. 11. sect. 8. (r) Apud Joseph. contr. Apion. l. 1. c. 20."
+    },
+    {
+      "src": "GILL",
+      "ref": "Jeremiah 52:31",
+      "note_ref": "GILL/24/52/31",
+      "cites": [
+        "Jeremiah 52:31"
+      ],
+      "text": "And spake kindly unto him,.... Used him with great familiarity, treated him with great respect: or, \"spake good things to him\" (s); comforted him in his captive state, and promised him many favours; and was as good as his word:\nand set his throne above the throne of the kings that were with him in Babylon; these kings were either petty kings over the several provinces that belonged to the Chaldean monarchy, that were occasionally at Babylon; or rather the kings Nebuchadnezzar had conquered, and taken captive, as Jehoiachin; such as the kings of Moab, Ammon, Edom, &c. these, notwithstanding they were captives, had thrones of state, partly in consideration of their former dignity, and partly for the glory of the Babylonish monarch; now Jehoiachin's throne was higher and more grand and stately than the rest, to show the particular respect the king of Babylon had for him.\n(s) \"ac locutus est cum eo bona\", V. L. Schmidt."
+    },
+    {
+      "src": "GILL",
+      "ref": "Jeremiah 52:32",
+      "note_ref": "GILL/24/52/32",
+      "cites": [
+        "Jeremiah 52:31"
+      ],
+      "text": "And changed his prison garments,.... Which were filthy, and of an ill smell; and put on him raiment more comfortable, as well as more honourable, and suitable to his dignity, and more fit to appear in, in the presence of the king and his court:\nand he did continually eat bread before him all the days of his life: either at the same table with the king; or at other near him, in his sight, in the same apartment; though the former seems more likely; and this he did as long as he lived; either Evilmerodach, or rather Jeconiah; though perhaps they both died much about the same time. All this was done about the year of the world 3444, and about five hundred sixty years before Christ, according to Bishop Usher (t) and Mr. Bedford (u); the authors of the Universal History (w) place it a year earlier.\n(t) Annales Vet. Test. p. 138. (u) Scripture Chronology, p. 710. (w) Vol. 21. p. 64."
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Kings 25:25",
+      "note_ref": "JFB/12/25/25",
+      "cites": [
+        "2 Kings 25:27"
+      ],
+      "text": "Ishmael . . . of the seed royal, came, and ten men with him, and smote Gedaliah--He had found refuge with Baalis, king of the Ammonites, and he returned with a bad design, being either instigated by envy of a governor not descended from the house of David, or bribed by Baalis to murder Gedaliah. The generous governor, though apprised of his intentions, refused to credit the report, much less to sanction the proposal made by an attached friend to cut off Ishmael. The consequence was, that he was murdered by this same Ishmael, when entertaining him in his own house (Jer 41:1)."
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Kings 25:26",
+      "note_ref": "JFB/12/25/26",
+      "cites": [
+        "2 Kings 25:27"
+      ],
+      "text": "and all the people . . . came to Egypt--In spite of Jeremiah's dissuasions (Jer 43:7-8) they settled in various cities of that country (Jer 44:1)."
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Kings 25:27",
+      "note_ref": "JFB/12/25/27",
+      "cites": [
+        "2 Kings 25:27"
+      ],
+      "text": "seven and thirtieth year of the captivity of Jehoiachin--corresponding with the year of Nebuchadnezzar's death, and his son Evil-merodach's ascension to the throne.\nEvil-merodach . . . did lift up the head of Jehoiachin . . . and spake kindly--gave him liberty upon parole. This kindly feeling is said to have originated in a familiar acquaintance formed in prison, in which Evil-merodach had lain till his father's death, on account of some malversation while acting as regent during Nebuchadnezzar's seven years' illness (Dan 4:32-33). But doubtless the improvement in Zedekiah's condition is to be traced to the overruling providence and grace of Him who still cherished purposes of love to the house of David (Sa2 7:14-15)."
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Kings 25:29",
+      "note_ref": "JFB/12/25/29",
+      "cites": [
+        "2 Kings 25:27"
+      ],
+      "text": "Jehoiachin . . . did eat . . . continually before him--According to an ancient usage in Eastern courts, had a seat at the royal table on great days, and had a stated provision granted him for the maintenance of his exiled court.\nNext: 1 Chronicles Introduction"
+    },
+    {
+      "src": "JFB",
+      "ref": "Jeremiah 52:29",
+      "note_ref": "JFB/24/52/29",
+      "cites": [
+        "Jeremiah 52:31"
+      ],
+      "text": "eighteenth year--when Jerusalem was taken. But in Jer 52:15, and Kg2 25:8, \"the nineteenth year.\" Probably it was at the end of the eighteenth and the beginning of the nineteenth [LYRA].\neight hundred and thirty and two--The most illustrious persons are meant, who no doubt were carried away first, at the end of the eighteenth year."
+    },
+    {
+      "src": "JFB",
+      "ref": "Jeremiah 52:30",
+      "note_ref": "JFB/24/52/30",
+      "cites": [
+        "Jeremiah 52:31"
+      ],
+      "text": "Not recorded in Kings or Chronicles. Probably it took place during the commotions that followed the death of Gedaliah (Jer 41:18; Kg2 25:26).\nfour thousand and six hundred--The exact sum-total of the numbers specified here, namely, three thousand twenty-three, eight hundred thirty-two, seven hundred forty-five, not including the general multitude and the women and children (Jer 52:15; Jer 39:9; Kg2 25:11)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Jeremiah 52:31",
+      "note_ref": "JFB/24/52/31",
+      "cites": [
+        "Jeremiah 52:31"
+      ],
+      "text": "(Kg2 25:27-30).\nfive and twentieth day--but in Kg2 25:27, it is \"the twenty-seventh day.\" Probably on the twenty-fifth the decree for his elevation was given, and the preparations for it made by releasing him from prison; and on the twenty-seventh day it was carried into effect.\nEvil-merodach--son and successor of Nebuchadnezzar [LYRA]; and the Hebrew writers say that during Nebuchadnezzar's exclusion from men among beasts, Evil-merodach administered the government. When Nebuchadnezzar at the end of seven years was restored, hearing of his son's misconduct and that he had exulted in his father's calamity, he threw him into prison, where the latter met Jeconiah and contracted a friendship with him, whence arose the favor which subsequently he showed him. God, in his elevation, rewarded his having surrendered to Nebuchadnezzar (compare Jer 38:17 with Kg2 24:12).\nlifted up . . . head--(Compare Gen 40:13, Gen 40:20; Psa 3:3; Psa 27:6)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Jeremiah 52:32",
+      "note_ref": "JFB/24/52/32",
+      "cites": [
+        "Jeremiah 52:31"
+      ],
+      "text": "set his throne above--a mark of respect.\nthe kings--The Hebrew text reads (the other) kings.\" \"The kings\" is a Masoretic correction."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Kings 25:25",
+      "note_ref": "CLARKE/12/25/25",
+      "cites": [
+        "2 Kings 25:27"
+      ],
+      "text": "Smote Gedaliah - This was at an entertainment which Gedaliah had made for them; see Jer 41:1, etc. He was not content with this murder, but slew fourscore more, who were coming with offerings to the temple, and took several as prisoners, among whom were some of the king's daughters; and set off to go to the Ammonites: but Johanan, the son of Careah, hearing of these outrages, raised a number of men, and pursued Ishmael upon which Ishmael's prisoners immediately turned and joined Johanan; so that he, and eight of his accomplices, with difficulty escaped to the Ammonites. See Jer 41:1, etc. Baalis, king of the Ammonites, had sent Ishmael to murder Gedaliah; and of this he was informed by Johanan, who offered to prevent it, by taking away the life of this murderer. But Gedaliah could not believe that he harbored such foul designs, and therefore took no precaution to save his life. See Jer 40:13-16."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Kings 25:27",
+      "note_ref": "CLARKE/12/25/27",
+      "cites": [
+        "2 Kings 25:27"
+      ],
+      "text": "And it came to pass - Nebuchadnezzar was just now dead; and Evil-merodach, his son, succeeded to the kingdom in the thirty-seventh year of the captivity of Jehoiachin: and on the seven and twentieth day [Jeremiah says five and twentieth] of the twelfth month of that year, (Tuesday, April 15, A.M. 3442), he brought the long captivated Jewish king out of prison; treated him kindly; and ever after, during his life, reckoned him among the king's friends. This is particularly related in the four last verses of the book of Jeremiah."
+    },
+    {
+      "src": "KD",
+      "ref": "2 Kings 25:27",
+      "note_ref": "KD/12/25/27",
+      "cites": [
+        "2 Kings 25:27"
+      ],
+      "text": "Jehoiachin delivered from prison, and exalted to royal honours (cf. Jer. 42:31-34). - In the thirty-seventh year after his deportation Jehoiachin was taken out of prison by Evil-merodach when he came to the throne. מלכו בּשׁנת, in the year of his becoming king, probably immediately after he had ascended the throne, for it was no doubt an act of grace at the commencement of his reign. את־ראשׁ נשׂא, to lift up a persons' head, i.e., to release him from prison and exalt him to civil honours and dignities (cf. Gen 40:13). On the coincidence of the thirty-seventh year of Jehoiachin's imprisonment and the commencement of the reign of Evil-merodach see the remarks at Kg2 24:12. Instead of the 27th day of the month, the 25th is given in Jeremiah, again through the substitution of similar numeral letters (see at Kg2 25:8). Evil-merodach: מרדך אויל, Εὔιαλ Μαρώδαχ or Εὐιαλμαρωδέκ (lxx); Ἰλλοαροόδαμος, possibly a copyist's error for Ἰλμαροόδακος, in the Can. Ptol., and in other forms also: see M. v. Nieb. Gesch. Ass. p. 42, and Ges. thes. p. 41; compounded from the name of the Babylonian god Merodach (see at Kg2 20:12) and the prefix Evil, which has not yet been explained with certainty. He reigned two years, according to Berosus in Jos. c. Ap. i. 20, and the Can Ptol.; and according to the verdict of Berosus, προστὰς τῶν πραγμάτων ἀνόμως καὶ ἀσελγῶς; and was murdered by his brother-in-law Neriglissor. The statement in Jos. Ant. x. 11, 2, to the effect that he reigned eighteen years, and that of Alex. Polyh. in Euseb. Chr. arm. i. p. 45, that he reigned twelve years, are evidently false.\nKg2 25:28\n\"He spake kindly to him (cf. Jer 12:6), and set his throne above the throne of the kings who were with him in Babel.\" This is not to be understood literally, as signifying that he assigned him a loftier throne than the other kings (Hitzig, Thenius), but figuratively: loco honestiore eum habuit (Ros.). The \"kings with him\" were dethroned kings, who were kept at the court like Jehoiachin to add to its splendour, just as Cyrus kept the conquered Croesus by his side (Herod. i. 88).\nKg2 25:29-30\n\"And he (Jehoiachin) changed his prison garments,\" i.e., took them off and put other regal clothing on (cf. Gen 41:42). \"And ate continually before him all his life,\" i.e., ate at the king's table (cf. Sa2 9:7). Moreover a daily ration of food was supplied to him by the king for the maintenance of his retainers, who formed his little court. The חיּיו כּל־ימי of Kg2 25:30, upon which Thenius throws suspicion without any reason, refers to Jehoiachin like that in Kg2 25:29; for the historian intended to show how Jehoiachin had fared from the day of his elevation to the end of his life. At the same time, we cannot infer from this with any certainty that Jehoiachin died before Evil-merodach; for the favour shown to him might be continued by Evil-merodach's successor. We cannot make any safe conjecture as to the motives which induced Evil-merodach to pardon Jehoiachin and confer this distinction upon him. The higher ground of this joyful termination of his imprisonment lay in the gracious decree of God, that the seed of David, though severely chastised for its apostasy from the Lord, should not be utterly rejected (Sa2 7:14-15). At the same time, this event was also intended as a comforting sign to the whole of the captive people, that the Lord would one day put an end to their banishment, if they would acknowledge that it was a well-merited punishment for this sins that they had been driven away from before His face, and would turn again to the Lord their God with all their heart."
+    },
+    {
+      "src": "KD",
+      "ref": "Jeremiah 52:31",
+      "note_ref": "KD/24/52/31",
+      "cites": [
+        "Jeremiah 52:31"
+      ],
+      "text": "The closing portion of this chapter, viz., the notice regarding the liberation of Jehoiachin from imprisonment, ad his elevation to royal honours by Evil-merodach after Nebuchadnezzar's death, substantially agrees with the account given of that even in Kg2 25:27-30. The difference of date, \"on the twenty-fifth of the month\" (Jer 52:31), and \"on the twenty-seventh of the month\" in 2 Kings, has arisen through the entrance of a clerical error into one text or the other. The few remaining variations of the two texts have no influence on the meaning. As to the fact itself, and its importance for the people languishing in exile, we may refer to the explanation given at Kg2 25:27."
+    },
+    {
+      "src": "MHC",
+      "ref": "2 Kings 25:22",
+      "note_ref": "MHC/12/25/22",
+      "cites": [
+        "2 Kings 25:27"
+      ],
+      "text": "In these verses we have,\nI. The dispersion of the remaining people. The city of Jerusalem was quite laid waste. Some people there were in the land of Judah (Kg2 25:22) that had weathered the storm, and (which was no small favour at this time, Jer 45:5) had their lives given them for a prey. Now see, 1. What a good posture they were put into. The king of Babylon appointed Gedaliah, one of themselves, to be their governor and protector under him, a very good man, and one that would make the best of the bad, Kg2 25:22. His father Ahikam was one that countenanced and protected Jeremiah when the princes had vowed his death, Jer 26:24. It is probable that this Gedaliah, by the advice of Jeremiah, had gone over the Chaldeans, and had conducted himself so well that the king of Babylon entrusted him with the government. He resided not at Jerusalem, but at Mizpah, in the land of Benjamin, a place famous in Samuel's time. Thither those came who had fled from Zedekiah (Kg2 25:4) and put themselves under his protection (Kg2 25:23), which he assured them of if they would be patient and peaceable under the government of the king of Babylon, Kg2 25:24. Gedaliah, though he had not the pomp and power of a sovereign prince, yet might have been a greater blessing to them than many of their kings had been, especially having such a privy-council as Jeremiah, who was now with them, and interested himself in their affairs, Jer 40:5, Jer 40:6. 2. What a fatal breach was made upon them, soon afterwards, by the death of Gedaliah, within two months after he entered upon his government. The utter extirpation of the Jews, for the present, was determined, and therefore it was in vain for them to think of taking root again: the whole land must be plucked up, Jer 45:4. Yet this hopeful settlement is dashed to pieces, not by the Chaldeans, but by some of themselves. The things of their peace were so hidden from their eyes that they knew not when they were well off, nor would believe when they were told. (1.) They had a good governor of their own, and him they slew, out of spite to the Chaldeans, because he was appointed by Nebuchadnezzar, Kg2 25:25. Ishmael, who was of the royal family, envying Gedaliah's advancement and the happy settlement of the people under him, though he could not propose to set up himself, resolved to ruin him, and basely slew him and all his friends, both Jews and Chaldeans. Nebuchadnezzar would not, could not, have been a more mischievous enemy to their peace than this degenerate branch of the house of David was. (2.) They were as yet in their own good land, but they forsook it, and went to Egypt, for fear of the Chaldeans, Kg2 25:26. The Chaldeans had reason enough to be offended at the murder of Gedaliah; but if those that remained had humbly remonstrated, alleging that it was only the act of Ishmael and his party, we may suppose that those who were innocent of it, nay, who suffered greatly by it, would not have been punished for it: but, under pretence of this apprehension, contrary to the counsel of Jeremiah, they all went to Egypt, where, it is probable, they mixed with the Egyptians by degrees, and were never heard of more as Israelites. Thus was there a full end made of them by their own folly and disobedience, and Egypt had the last of them, that the last verse of that chapter of threatenings might be fulfilled, after all the rest, Deu 28:68, The Lord shall bring thee into Egypt again. These events are more largely related by the prophet Jeremiah, ch. 40 to Jer 45:1-5. Quaeque ipse miserrima vidit, et quorum pars magna fuit - Which scenes he was doomed to behold, and in which he bore a melancholy part.\nII. The reviving of the captive prince. Of Zedekiah we hear no more after he was carried blind to Babylon; it is probable that he did not live long, but that when he died he was buried with some marks of honour, Jer 34:5. Of Jehoiachin, or Jeconiah, who surrendered himself (Kg2 24:12), we are here told that as soon as Evil-merodach came to the crown, upon the death of his father Nebuchadnezzar, he released him out of prison (where he had lain thirty-seven years, and was now fifty-five years old), spoke kindly to him, paid more respect to him than to any other of the kings his father had left in captivity (Kg2 25:28), gave him princely clothing instead of his prison-garments, maintained him in his own palace (Kg2 25:29), and allowed him a pension for himself and his family in some measure corresponding to his rank, a daily rate for every day as long as he lived. Consider this, 1. As a very happy change of Jehoiachin's condition. To have honour and liberty after he had been so long in confinement and disgrace, the plenty and pleasure of a court after he had been so long accustomed to the straits and miseries of a prison, was like the return of the morning after a very dark and tedious night. Let none say that they shall never see good again because they have long seen little but evil; the most miserable know not what blessed turn Providence may yet give to their affairs, nor what comforts they are reserved for, according to the days wherein they have been afflicted, Psa 90:15. However the death of afflicted saints is to them such a change as this was to Jehoiachin: it will release them out of their prison, shake off the body, that prison-garment, and open the way to their advancement; it will send them to the throne, to the table, of the King of kings, the glorious liberty of God's children. 2. As a very generous act of Evil-merodach's. He thought his father made the yoke of his captives too heavy, and therefore, with the tenderness of a man and the honour of a prince, made it lighter. It should seem all the kings he had in his power were favoured, but Jehoiachin above them all, some think for the sake of the antiquity of his family and the honour of his renowned ancestors, David and Solomon. None of the kings of the nations, it is likely, had descended from so long a race of kings in a direct lineal succession, and by a male line, as the king of Judah. The Jews say that this Evil-merodach had been himself imprisoned by his own father, when he returned from his madness, for some mismanagement at that time, and that in prison he contracted a friendship with Jehoiachin, in consequence of which, as soon as he had it in his power, he showed him this kindness as a sufferer, as a fellow-sufferer. Some suggest that Evil-merodach had learned from Daniel and his fellows the principles of the true religion, and was well affected to them, and upon that account favoured Jehoiachin. 3. As a kind dispensation of Providence, for the encouragement of the Jews in captivity, and the support of their faith and hope concerning their enlargement in due time. This happened just about the midnight of their captivity. Thirty-six of the seventy years were now past, and almost as many were yet behind, and now to see their king thus advanced would be a comfortable earnest to them of their own release in due time, in the set time. Unto the upright there thus ariseth light in the darkness, to encourage them to hope, even in the cloudy and dark day, that at evening time it shall be light; when therefore we are perplexed, let us not be in despair.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Jeremiah 52:31",
+      "note_ref": "MHC/24/52/31",
+      "cites": [
+        "Jeremiah 52:31"
+      ],
+      "text": "This passage of story concerning the reviving which king Jehoiachin had in his bondage we had likewise before (Kg2 25:27-30), only there it is said to be done on the twenty-seventh day of the twelfth month, here on the twenty-fifth; but in a thing of this nature two days make a very slight difference in the account. It is probable that the orders were given for his release on the twenty-fifth day, but that he was not presented to the king till the twenty-seventh. We may observe in this story, 1. That new lords make new laws. Nebuchadnezzar had long kept this unhappy prince in prison; and his son, though well-affected to the prisoner, could not procure him any favour, not one smile, from his father, any more than Jonathan could for David from his father; but, when the old peevish man was dead, his son countenanced Jehoiachin and made him a favourite. It is common for children to undo what their fathers have done; it were well if it were always as much for the better as this was. 2. That the world we live in is a changing world. Jehoiachin, in his beginning, fell from a throne into a prison, but here he is advanced again to a throne of state (Jer 52:32), though not to a throne of power. As, before, the robes were changed into prison-garments, so now they were converted into robes again. Such chequer-work is this world; prosperity and adversity are set the one over-against the other, that we may learn to rejoice as though we rejoiced not and weep as though we wept not. 3. That, though the night of affliction be very long, yet we must not despair but that the day may dawn at last. Jehoiachin was thirty-seven years a prisoner, in confinement, in contempt, ever since he was eighteen years old, in which time we may suppose him so inured to captivity that he had forgotten the sweets of liberty; or, rather, that after so long an imprisonment it would be doubly welcome to him. Let those whose afflictions have been lengthened out encourage themselves with this instance; the vision will at the end speak comfortably, and therefore wait for it. Dum spiro spero - While there is life there is hope. Non si male nunc, et olim sic erit - Though now we suffer, we shall not always suffer. 4. That god can make his people to find favour in the eyes of those that are their oppressors, and unaccountably turn their hearts to pity them, according to that word (Psa 106:46), He made them to be pitied of all those that carried them captives. He can bring those that have spoken roughly to speak kindly, and those to feed his people that have fed upon them. Those therefore that are under oppression will find that it is not in vain to hope and quietly to wait for the salvation of the Lord. Therefore our times are in God's hand, because the hearts of all we deal with are so. 5. And now, upon the whole matter, comparing the prophecy and the history of this book together, we may learn, in general, (1.) That it is no new thing for churches and persons highly dignified to degenerate, and become very corrupt. (2.) That iniquity tends to the ruin of those that harbour it; and, if it be not repented of and forsaken, will certainly end in their ruin: (3.) That external professions and privileges will not only not amount to an excuse for sin and an exemption from ruin, but will be a very great aggravation of both. (4.) That no word of God shall fall to the ground, but the event will fully answer the prediction; and the unbelief of man shall not make God's threatenings, any more than his promises, of no effect. The justice and truth of God are here written in bloody characters, for the conviction or the confusion of all those that make a jest of his threatenings. Let them not be deceived, God is not mocked."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Kings 25:25",
+      "note_ref": "TYN/12/25/25",
+      "cites": [
+        "2 Kings 25:27"
+      ],
+      "text": "25:25 Gedaliah had been warned that Ishmael was plotting to assassinate him but was unconvinced (Jer 40:13-16); his trust cost him his life. Ishmael also killed many Judeans and Babylonians, fled with many captives, and escaped to Ammon (Jer 41:4-15)."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Kings 25:26",
+      "note_ref": "TYN/12/25/26",
+      "cites": [
+        "2 Kings 25:27"
+      ],
+      "text": "25:26 Then all the people of Judah, led by Johanan, fled in panic to Egypt against Jeremiah’s counsel (see Jer 42:1–43:7)."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Kings 25:27",
+      "note_ref": "TYN/12/25/27",
+      "cites": [
+        "2 Kings 25:27"
+      ],
+      "text": "25:27-30 Evil-merodach (Babylonian, Amel-marduk, “man of Marduk”) succeeded Nebuchadnezzar II at his death and reigned a short time (561–560 BC). • He was kind to Jehoiachin: Babylonian annals give details of the rations Jehoiachin received in prison. The narrator’s mention of Jehoiachin living in gracious circumstances is perhaps intended to provide hope that God would preserve and restore a repentant people to their land (see 1 Kgs 8:46-53; Isa 35:8-10; 51:11; Jer 29:10-14; Zeph 3:20)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Jeremiah 52:29",
+      "note_ref": "TYN/24/52/29",
+      "cites": [
+        "Jeremiah 52:31"
+      ],
+      "text": "52:29 Nebuchadnezzar’s eighteenth year was 586 BC, the year Jerusalem was destroyed."
+    },
+    {
+      "src": "TYN",
+      "ref": "Jeremiah 52:31",
+      "note_ref": "TYN/24/52/31",
+      "cites": [
+        "Jeremiah 52:31"
+      ],
+      "text": "52:31-34 This paragraph repeats 2 Kgs 25:27-30. This part of the narrative supplies the fulfillment of Jeremiah’s prediction of Jehoiachin’s future (see Jer 22:24-30). • Evil-merodach reigned in Babylon 561–560 BC. Several inscriptions found in a basement near Babylon’s Ishtar Gate tell of rations of food provided to Jehoiachin and his family."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Kings 25:26",
+      "note_ref": "GNV/12/25/26",
+      "cites": [
+        "2 Kings 25:27"
+      ],
+      "text": "Contrary to Jeremiah’s counsel, Jer. 40-43."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Kings 25:27",
+      "note_ref": "GNV/12/25/27",
+      "cites": [
+        "2 Kings 25:27"
+      ],
+      "text": "Thus long was he, his wife and his children in Babylon, whom Nebuchadnezzar’s son, after his father’s death preferred to honor: thus by God’s providence the seed of David was preserved even unto Christ."
+    },
+    {
+      "src": "GNV",
+      "ref": "Jeremiah 52:29",
+      "note_ref": "GNV/24/52/29",
+      "cites": [
+        "Jeremiah 52:31"
+      ],
+      "text": "In the latter end also of that year, and the beginning of the nineteenth.\nHebrew, souls."
+    },
+    {
+      "src": "GNV",
+      "ref": "Jeremiah 52:31",
+      "note_ref": "GNV/24/52/31",
+      "cites": [
+        "Jeremiah 52:31"
+      ],
+      "text": "That is, restored him to liberty and honor."
+    },
+    {
+      "src": "GNV",
+      "ref": "Jeremiah 52:33",
+      "note_ref": "GNV/24/52/33",
+      "cites": [
+        "Jeremiah 52:31"
+      ],
+      "text": "And gave him princely apparel."
+    }
+  ]
+}

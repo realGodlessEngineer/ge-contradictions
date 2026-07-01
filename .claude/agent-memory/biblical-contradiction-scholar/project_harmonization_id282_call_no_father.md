@@ -1,0 +1,15 @@
+---
+name: harmonization-id282-call-no-father
+description: TRANSFORM id 282 "Is it OK to call someone father?" — Matt 23:9 vs honor-father commandment; reconcile_first; Wells/SAB father.html named skeptic
+metadata:
+  type: project
+---
+
+TRANSFORM id 282, "Is it OK to call someone father?" — Matthew 23:9 ("call no man your father upon the earth") vs the Decalogue/Paul honor-your-father commandment (Exod 20:12, Deut 5:16, Eph 6:2). consensus=probable_harmonization → **reconcile_first**; thin pole is the discrepancy pole → named_skeptic (439 model). See [[harmonization-transform]].
+
+**How to apply (row specifics):**
+- **Named skeptic = Steve Wells / Skeptic's Annotated Bible, slug `father.html`** (skepticsannotatedbible.com/contra/father.html). VERIFIED live via WebFetch; the page heading is "Is it OK to call your father (or anyone else) father?" and it cites Exod 20:12 / Deut 5:16 / Eph 6:2 (yes) vs Matt 23:9 (no) — exact match to the row's four refs (plus extra yes-side proof texts Isa 22:20-21, 2 Kgs 2:11-12, etc.). Classic critics (Paine/Strauss/DiMattei) have NO numbered contradiction on this minor harmonizable title row → Wells is the honest fit, consistent with the rule that Wells/SAB is the upstream for minor SAB rows the giants ignored. Objection stated as wording-level: command requires honoring an earthly father, Matt 23:9 forbids the title.
+- **Reconcile = sense-distinction family** (forbids the honorific authority-TITLE, not the natural use of "father"). STRONGEST single = GILL/40/23/9 (Matthew 23:9): "Not but that children may, and should call their natural parents, fathers … our Lord does not mean … to set aside all names and titles, of natural and civil distinction among men, but only to reject all such names and titles, as are used to signify an authoritative power over men's consciences…" — it alone explicitly preserves calling a natural parent "father" AND names the rejected category. Two non-adjacent sentences joined with sense-preserving ellipsis; both end on real source periods. Second distinct voice = TYN/40/23/8: "Jesus does not prohibit the use of titles (especially for one's own father), but rather the assumption of undue honor by those who transmit knowledge about God." (curly→straight apostrophe the only normalization; ends on source period). JFB/40/23/9 is on-tension too but about church-ruler titles, weaker for the natural-father/commandment pair → not used.
+- Parity: reconcile 2 vs discrepancy 1 (named_skeptic) — reconcile is the lean pole so 2 ≥ 1 holds; did NOT parity-cap (cap only applies to discrepancy_first rows).
+- **pd_work** anchored to Gill on Matt 23:9 (row-surfaced harmonizing commentator keyed to the passage; Haley's specific coverage of this pair unconfirmed → id-13 fallback).
+- **gotquestions allowlist hit: gotquestions.org/father-Matthew-23-9.html** — VERIFIED live + on-topic; cites Matt 23:9 AND Exod 20:12, harmonizes via humility/authority-title reading ("not a blanket injunction… but an exhortation to humility"). (catholic.com/tract/call-no-man-father and catholic.com Q&A also exist but are off-allowlist.)

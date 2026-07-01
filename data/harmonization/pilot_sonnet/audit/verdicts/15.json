@@ -1,0 +1,22 @@
+{
+  "contradiction_id": 15,
+  "excerpts": [
+    {
+      "excerpt_uid": "15#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "pass",
+      "action": null,
+      "reason": "Gill's note ('in the day' = not any particular day but the whole six-day period) is verbatim in source_note_text and directly addresses the one-day-vs-six-days tension by reading Gen 2:4 as a Hebrew idiom for the whole creative period. On-tension; reconcile label correct. The excerpt itself is sound; the problem is in the discrepancy pole's skeptic (see guardrails)."
+    }
+  ],
+  "guardrails": {
+    "parity": "ok",
+    "connectives": "flag",
+    "named_skeptic": "not_real",
+    "discrepancy_integrity": "relabel_missing",
+    "deeper_learning": "flag",
+    "reason": "NAMED_SKEPTIC NOT_REAL: Robert G. Ingersoll and Some Mistakes of Moses (1879) are real, but the entry attributes to him a specific argument he does not actually make. Multiple readings of the actual text (infidels.org full text; Gutenberg/summary sources) show Ingersoll critiques the ORDER of creation events and whether the 'days' are literal 24-hour days vs. geological ages — he does NOT press the Gen 2:4 'in the day' (one-day) reading against the six-day sequence of Gen 1 as two incompatible timelines. The connective ('pressing the plain sense of ‘in the day that the LORD God made the earth and heavens’ against the six-day sequence') puts a fabricated/over-specific argument in his mouth. Per directive, a real critic attached to a tension he never actually treated = not_real. CONNECTIVES FLAG: the discrepancy connective therefore overclaims (asserts an Ingersoll argument that cannot be confirmed). DISCREPANCY_INTEGRITY relabel_missing: with no nameable skeptic who actually presses the 'in the day' timeline tension (consensus is probable_harmonization; the idiomatic reading of beyom is broadly accepted), the discrepancy_first row should carry relabel_flag=true rather than a manufactured skeptic. DEEPER_LEARNING FLAG: Haley (1874) is a real PD work, but I could not confirm he treats the specific Gen 2:4 'in the day' vs six-days timeline tension (vs the order-of-events question), so the on-topic match for THIS contradiction is unverified. Parity ok mechanically, but the discrepancy content does not honestly stand. Recommend: replace named_skeptic with relabel_flag, or substitute a critic who actually presses the two-timeline objection."
+  }
+}

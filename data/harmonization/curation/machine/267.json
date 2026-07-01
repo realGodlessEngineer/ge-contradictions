@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 267,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the two as compatible: God's name and glory rested in Solomon's temple, yet the Most High was never confined or contained by any building.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Marcel Simon argues the case is genuinely disputed, reading Stephen's \"made with hands\" speech as a real anti-Temple theology at odds with the Kings and Chronicles claim that God chose the temple to dwell in.",
+      "skeptic": {
+        "name": "Marcel Simon",
+        "work": "Saint Stephen and the Jerusalem Temple, Journal of Ecclesiastical History 2 (1951): 127-142",
+        "year": "1951",
+        "attribution": "Marcel Simon (d. 1986), \"Saint Stephen and the Jerusalem Temple,\" Journal of Ecclesiastical History 2 (1951): 127-142"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Acts 7:47",
+      "excerpt_text": "Such an one as Solomon's was; he did indeed dwell in his temple, but he was not confined to it, nor included in it, or circumscribed by it; and so much Solomon himself suggests, when he expresses his wonder at his dwelling on earth, seeing the heaven of heavens could not contain him, and still less the house which he had built, Kg1 8:27 …",
+      "full_note_ref": "GILL/44/7/47",
+      "on_tension_rationale": "Directly harmonizes both sides: God truly dwelt in Solomon's temple yet was not confined to it, citing Solomon's own words (1 Kings 8:27) that the heavens cannot contain him.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Acts 7:48",
+      "excerpt_text": "Both Solomon and St. Stephen mean that the majesty of God could not be contained, not even in the whole vortex of nature; much less in any temple which human hands could erect.",
+      "full_note_ref": "CLARKE/44/7/48",
+      "on_tension_rationale": "Explicitly equates Solomon's and Stephen's meaning, removing the apparent conflict by reading both as statements that God cannot be contained.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Acts 7:47",
+      "excerpt_text": "Solomon built a Temple, according to God's commandment, but not with any such condition, that the Majesty of God should be enclosed therein.",
+      "full_note_ref": "GNV/44/7/47",
+      "on_tension_rationale": "Distinguishes a divinely commanded temple from any notion that God is enclosed in it, dissolving the tension with Acts 7:48 / 17:24.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Acts 7:47-48 and 17:24",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, reconciling Solomon's temple-dwelling (1 Kings 8) with Acts 7:48 / 17:24 by distinguishing God's special presence from containment, citing 1 Kings 8:27."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/2_Chronicles_7.12ff.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: 2 Chronicles 7:12ff—Does God dwell in a chosen temple?",
+        "note": "live apologetic treatment of this exact contradiction (2 Chron 7:12 / 1 Kings 8:27 vs. Acts 17:24)"
+      }
+    }
+  }
+}

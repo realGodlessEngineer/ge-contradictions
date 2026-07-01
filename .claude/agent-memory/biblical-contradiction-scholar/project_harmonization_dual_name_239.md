@@ -1,0 +1,16 @@
+---
+name: harmonization-dual-name-david-second-son
+description: TRANSFORM id 239 worked example — dual-name genealogy row (Chileab vs Daniel), Atheist Papers/Cadora named skeptic, allowlist miss
+metadata:
+  type: project
+---
+
+Worked id 239, "Who was David's second son?" 2 Sam 3:3 Chileab vs 1 Chr 3:1 Daniel (same mother Abigail), probable_contradiction → discrepancy_first. Companion to [[harmonization-transform]] (dual-name family alongside ids 84 Esau's wives, 52/86/166 genealogy compression).
+
+**How it resolved:**
+- Named skeptic = **Ryren Cadora, "Bible Contradictions #33: Who were David's sons born in Hebron?", The Atheist Papers (2014)** (atheistpapers.com/2014/05/03/bible-contradictions-33-who-were-davids-sons-born-in-hebron/) — VERIFIED via WebFetch: cites 2 Sam 3:2-5 vs 1 Chr 3, presses the second son's two names "for reasons that are never explained," attributes the variation to manuscript transmission/scribal "telephone." He CONCEDES "technically the same person," so frame the objection as the unexplained-variation / transmission angle, NOT "different person." Cadora/The Atheist Papers is the established SAB-style upstream first logged on id 138 — confirmed go-to for OT name/number rows when SAB's own page is broader-scoped.
+- **SAB slug TRAP:** the per-second-son slug davids_second_son.html 404s ("No contradictions detail record"). The LIVE SAB page is **david_sons_hebron.html** ("Who were the sons of David born in Hebron?", cites 2 Sam 3:2-5 vs 1 Chr 3:1-4) — but its scope is ALL the Hebron sons (incl. the Eglah/Michal sub-question), broader than id 239's flat "second son" question, so Cadora #33 is the sharper passage-specific fit. BibViz mirror philb61.github.io/davids-sons-sab.html links back to david_sons_hebron.html.
+- DiMattei has NO confirmed numbered contradiction on the Chileab/Daniel pair (search surfaced only his general site) → did not co-opt him; Cadora is the honest fit.
+- Reconcile (parity-capped to 1 on discrepancy_first) = **CLARKE/13/3/1** (display ref 1 Chronicles 3:1), the single strongest voice naming BOTH names + the two-names mechanism: "In Sa2 3:3, this person is called Chileab; he probably had two names. The Targum says, \"The second, Daniel, who was also called Chileab, because he was in every respect like to his father.\"" Trimmed the leading verse-lemma "The second, Daniel - "; ends on a real source period → NO truncation marker. Distinct alternates if more were ever needed: GILL/10/3/3 (Daniel = birth name, "God hath judged me," vs Chileab "like unto his father"), GNV/10/3/3 compact cross-ID ("Who is called also Daniel, 1 Chron. 3:1.").
+- **pd_work** = Adam Clarke on 1 Chr 3:1 (Haley specific coverage unconfirmed → row-surfaced commentator per id-13 lesson). Clarke also notes the textual-corruption alternative is in play (ISBE/LXX), but the harmonizing thread is the two-names reading.
+- **Allowlist MISS — link omitted, never guessed:** gotquestions.org/sons-of-David.html lists "Daniel" but NEVER mentions Chileab or harmonizes the two names (WebFetch-confirmed) → dodges the tension. defendinginerrancy 1_Chronicles_3.1.php + 2_Samuel_3.3.php both 404; gotquestions Chileab-Daniel.html / who-was-Chileab.html / Chileab-in-the-Bible.html all 404. Null link with note, per the verify-the-page-engages-the-tension rule (ids 80/112/148/153/160/166).

@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 188,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read \"I can no more go out and come in\" as Moses laying down his office, not reporting bodily decay — so it stands beside the undimmed eye of 34:7.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells lists the pair as a straight contradiction, reading 31:2's \"I can no more go out and come in\" as an admission of infirmity that 34:7's \"his eye was not dim, nor his natural force abated\" flatly denies.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); skepticsannotatedbible.com"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Deuteronomy 31:1",
+      "excerpt_text": "I can no more go out and come in; not that he could no longer go out of his tent and return without great trouble and difficulty, being so decrepit; but that he could not perform his office as their ruler and governor, or go out to battle and return as their general; and this not through any incapacity of body or mind, both being vigorous, sound, and well, as is clear from Deu 34:7; but because it was the will of God that he should live no longer to exercise such an office …",
+      "full_note_ref": "GILL/5/31/1",
+      "on_tension_rationale": "Gill explicitly resolves the tension: 31:2's 'go out and come in' means loss of office, not body or mind, 'both being vigorous, sound, and well, as is clear from Deu 34:7' — naming the exact verse in conflict.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Deuteronomy 31:1",
+      "excerpt_text": "The first of these reasons is not at variance with the statement in Deu 34:7, that up to the time of his death his eyes were not dim, nor his strength abated. For this is merely an affirmation, that he retained the ability to see and to work to the last moment of his life, which by no means precludes his noticing the decline of his strength, and feeling the approach of his death.",
+      "full_note_ref": "KD/5/31/1",
+      "on_tension_rationale": "Keil & Delitzsch name the two verses and assert they are 'not at variance': 34:7 affirms retained capacity, which does not preclude Moses sensing decline and nearing death in 31:2.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Deuteronomy 31:2",
+      "excerpt_text": "I can no longer execute mine office.",
+      "full_note_ref": "GNV/5/31/2",
+      "on_tension_rationale": "The Geneva gloss on 31:2 reads 'go out and come in' as ceasing office ('execute mine office'), not physical failure — the same harmonizing sense, in one line.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Deuteronomy 31:2",
+        "author": "Keil & Delitzsch",
+        "year": "1861-75",
+        "note": "Treats this exact pair: states 31:2 is 'not at variance' with 34:7 because the undimmed eye affirms retained ability while 'go out and come in' marks the end of Moses' office. Used because Haley's coverage of this specific verse pair could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No dedicated, on-topic allowlisted page found for this specific Deut 31:2 / 34:7 health tension; omitted rather than guessed."
+      }
+    }
+  }
+}

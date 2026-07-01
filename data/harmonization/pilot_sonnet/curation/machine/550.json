@@ -1,0 +1,75 @@
+{
+  "contradiction_id": 550,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers distinguish the two passages by situation: 1 Corinthians 7 addresses believers already in existing mixed marriages, while 2 Corinthians 6 warns against entering sinful fellowship with idolaters.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman and other critical scholars press that 2 Corinthians 6:14-17 issues a categorical separation command that sits in real tension with 1 Corinthians 7's accommodation of mixed marriages, and that the situation-distinction harmonization is imported rather than stated in the texts.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "The New Testament: A Historical Introduction to the Early Christian Writings",
+        "year": "2012",
+        "attribution": "Bart D. Ehrman, The New Testament: A Historical Introduction to the Early Christian Writings (2012)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 550,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "2 Corinthians 6:13",
+      "excerpt_text": "not is it to be understood as dehorting from entering into marriage contracts with such persons; for such marriages the apostle, in his former epistle, had allowed to be lawful, and what ought to be abode by; though believers would do well carefully to avoid such an unequal yoke, since oftentimes they are hereby exposed to many snares, temptations, distresses, and sorrows, which generally more or less follow hereon: but there is nothing in the text or context that lead to such an interpretation; rather, if any particular thing is referred to, it is to joining with unbelievers in acts of idolatry",
+      "full_note_ref": "GILL/47/6/13",
+      "license_code": "PD",
+      "on_tension_rationale": "Gill directly addresses the apparent contradiction between 2 Cor 6:14 and 1 Cor 7:12-14 by arguing the 2 Cor passage is not about marriage at all but about idolatrous fellowship — explicitly harmonizing the two Pauline texts.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 550,
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "2 Corinthians 6:14",
+      "excerpt_text": "Be ye not unequally yoked together with unbelievers - This is a military term: keep in your own ranks; do not leave the Christian community to join in that of the heathens. The verb ἑτεροζυγειν signifies to leave one's own rank, place, or order, and go into another; and here it must signify not only that they should not associate with the Gentiles in their idolatrous feasts, but that they should not apostatize from Christianity … Some apply this exhortation to pious persons marrying with those who are not decidedly religious, and converted to God. That the exhortation may be thus applied I grant; but it is certainly not the meaning of the apostle in this place.",
+      "full_note_ref": "CLARKE/47/6/14",
+      "license_code": "PD",
+      "on_tension_rationale": "Clarke explicitly distinguishes 2 Cor 6:14's primary referent (idolatrous association and apostasy) from marriage, while conceding the verse may secondarily apply to marriage — directly addressing why it does not contradict Paul's marriage ruling in 1 Cor 7.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley addresses apparent conflicts between Pauline passages on relations with unbelievers, applying the contextual-distinction argument that 1 Cor 7 treats existing marriages while 2 Cor 6 addresses voluntary idolatrous associations."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/unequally-yoked.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does it mean to be unequally yoked?",
+        "note": "Live apologetic treatment reconciling 2 Corinthians 6:14 with 1 Corinthians 7:12-14 on the question of mixed-faith marriages."
+      }
+    }
+  }
+}

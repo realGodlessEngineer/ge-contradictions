@@ -1,0 +1,22 @@
+---
+name: harmonization-id268-1john-sin
+description: TRANSFORM id 268 "Is anyone without sin?" — 1 John internal all-sin vs cannot-sin tension; Raymond Brown as named skeptic; JFB/MHC/GILL reconcile
+metadata:
+  type: project
+---
+
+TRANSFORM id 268, "Is anyone without sin?" (1 Kings 8:46 / 2 Chr 6:36 / Prov 20:9 / Eccl 7:20 / Rom 3:23 / 1 John 1:8,10 "all sin" vs 1 John 3:6, 3:9, 5:18 "born of God cannot sin"). consensus=genuinely_disputed (id 3) → **reconcile_first** (only genuine/probable_contradiction → discrepancy_first; genuinely_disputed maps to reconcile_first). Thin pole = DISCREPANCY → named_skeptic.
+
+**Why:** part of the harmonization "commentators' own words" surface (see [[project_harmonization_transform]]).
+
+**How to apply (lessons specific to this theological internal-tension family):**
+- **Named skeptic = Raymond E. Brown, The Epistles of John, Anchor Bible 30 (Doubleday, 1982)** — VERIFIED real via Internet Archive (epistlesofjohn00brow_0; year/publisher confirmed). He is THE go-to for the famous internal 1 John crux: the letter affirms both that all sin (1:8/1:10) and that the begotten cannot sin (3:9). The widely-circulated line "No other NT author contradicts himself so sharply within such a short span of writing" is attributed to his commentary but I could NOT confirm it VERBATIM by search → represented his thesis as a PARAPHRASE connective (the 439 model requires paraphrase anyway, never a verbatim skeptic quote). Brown beats Wells/SAB as the scholarly named skeptic for major-crux NT theological rows even when SAB is the question's upstream.
+- **SAB upstream slug = /contra/sin.html** (VERIFIED via WebFetch; page title "Do Christians sin?", listed as "Is anyone without sin?" item #5 in /1jn/contra_list.html). Cites EXACTLY Rom 3:23 + 1 John 1:8/1:10 vs 1 John 3:6/3:9 + 5:18 — the row's whole verse set. Slug is the bare word `sin.html`, not a multi-word slug.
+- **Reconcile voices all converge on the habitual/dominating-sin distinction** ("cannot sin" = does not live in / continue in sin, NOT sinless/impeccable). Strongest THREE distinct on-tension excerpts, each naming both poles:
+  - **JFB/62/3/9** (display 1 John 3:9): "This does not contradict Jo1 1:8-9; the regenerate show the utter incompatibility of sin with regeneration, by cleansing away every sin into which they may be betrayed by the old nature, at once in the blood of Christ." — the single most explicit "does not contradict" sentence; ends on real source period.
+  - **MHC/62/3/4** (display 1 John 3:6 — the relevant on-tension sentences live in MHC's block on 3:4, which `cites` 3:6+3:9): "That he cannot commit an act of sin, I suppose no judicious interpreter understands. This would be contrary to Jo1 1:9 … He therefore cannot sin, in the sense in which the apostle says, he cannot commit sin. He cannot continue in the course and practice of sin." (ellipsis joins consecutive sentences, dropping the parenthetical "where it is made our duty to confess our sins…"; sense-preserving; ends on real period).
+  - **GILL/62/3/9**: "and he cannot sin; not that it is impossible for such a man to do acts of sin, or that it is possible for him to live without sin …" (truncated mid-sentence → " …", no fabricated period).
+- **CLARKE is NOT a clean reconcile here** — CLARKE/62/3/9 and /62/5/18 push the Wesleyan-perfectionist reading (the regenerate genuinely DO conquer sin; he mocks the "habitual sin" softening as "bringing the privileges of the heavenly birth very low"). Do NOT use Clarke as a both-poles harmonizer for this row; he resolves the tension by siding with the "cannot sin" pole, not by distinguishing senses.
+- **pd_work = JFB on 1 John 3:9** (row-surfaced harmonizer keyed to the passage), per the [[project_harmonization_transform]] id-13 Haley-fallback rule (Haley's specific coverage of this 1 John crux unconfirmed; prefer a real commentator I read verbatim that says "does not contradict 1:8-9").
+- **defendinginerrancy.com allowlist HIT: /bible-solutions/1_John_3.9.php** — VERIFIED live + on-topic, cites BOTH 1 John 3:9 and 1 John 1:8, harmonizes via the present-continuous tense ("does not continually practice sin"). Second confirmed defendinginerrancy hit (first was Genesis_26.34.php on id 84).
+- Parity: reconcile_first, lean=reconcile=3 excerpts ≥ discrepancy=1 named-skeptic. (On reconcile_first rows there is NO parity-cap on the lean pole; cap only applies to capping reconcile on discrepancy_first rows.)

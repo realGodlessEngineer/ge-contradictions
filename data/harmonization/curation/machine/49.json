@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 49,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders argue the three lists name three distinct men who merely share the tribal name Sheba, the same name attaching to different lineages settled in overlapping Arabian regions.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells, who lists Genesis 10:7, 25:3, and 10:28 side by side and asks plainly which man fathered Sheba, treating the three answers as mutually exclusive.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Who was Sheba's father?\" (skepticsannotatedbible.com/contra/sheba.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; print ed. 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Genesis 10:7",
+      "excerpt_text": "There seem to be three different people of this name mentioned in this chapter, and a fourth in Gen 25:3.",
+      "full_note_ref": "CLARKE/1/10/7",
+      "on_tension_rationale": "Directly and minimally states the canonical harmonization: the Shebas are distinct persons who share a name, not one man with conflicting fathers.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 10:7",
+      "excerpt_text": "Sheba: the Sabaeans, with the capital Saba or Mareb, Mariaba regia (Plin.), whose connection with the Cushite (Gen 10:7) and Abrahamite Sabaeans (Gen 25:3) is quite in obscurity.",
+      "full_note_ref": "KD/1/10/25",
+      "on_tension_rationale": "Names the three Shebas as separate lineages (Joktanite here, plus Cushite 10:7 and Abrahamite 25:3), treating them as distinct peoples sharing a name even while granting their interrelation is obscure.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Genesis 25:3",
+      "excerpt_text": "Abraham's descendants probably settled in these regions and became identified by their names, along with people of other lineage.",
+      "full_note_ref": "TYN/1/25/3",
+      "on_tension_rationale": "Supplies the mechanism for the shared name: Abrahamic settlers took on the names of regions already occupied by other-lineage peoples, so one tribal name spans separate genealogies.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Genesis 10:7",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, distinguishing three (indeed four) different men named Sheba across Genesis 10 and 25 rather than one figure with conflicting fathers."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page (gotquestions/carm/defendinginerrancy) was found directly engaging the three-fathers-of-Sheba tension; optional link omitted rather than stretched."
+      }
+    }
+  }
+}

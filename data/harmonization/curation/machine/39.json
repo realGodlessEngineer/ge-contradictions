@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 39,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The standard harmonization reads Genesis 7:13's \"selfsame day\" as a pluperfect — Noah had completed entering across the prior seven days, not begun on the flood's first day.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Richard Elliott Friedman presses the discrepancy as the seam between two interwoven sources: J has the family aboard seven days before the rain (7:7, 10), while P has them enter on the very day the deep bursts open (7:11, 13).",
+      "skeptic": {
+        "name": "Richard Elliott Friedman",
+        "work": "The Bible with Sources Revealed",
+        "year": "2003",
+        "attribution": "Richard Elliott Friedman, The Bible with Sources Revealed (HarperSanFrancisco, 2003); cf. Who Wrote the Bible? (1987)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 7:13",
+      "excerpt_text": "The idea is not that Noah, with his family and all the animals, entered the ark on the very day on which the rain began, but that on that day he had entered, had completed the entering, which occupied the seven days between the giving of the command (Gen 7:4) and the commencement of the flood (Gen 7:10).",
+      "full_note_ref": "KD/1/7/1",
+      "on_tension_rationale": "K&D directly answers the entry-timing tension: reads bo' in 7:13 as pluperfect ('had come'), so the seven-day entry (7:7-10) and the 'selfsame day' (7:11-13) describe the same boarding from completion's standpoint, not two boardings. Strongest on-row harmonization; ends on a real source period.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Genesis 7:13 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this exact entry-timing tension, resolving it grammatically: the perfect verb in 7:13 is pluperfect ('had entered'), so the boarding completed over the seven days of 7:7-10 rather than on the flood's first day. Used in place of Haley, whose coverage of this specific point could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page engaging this specific entry-timing tension could be verified; defendinginerrancy.com's Genesis 7 page addresses only the 40-vs-150-day flood duration, not the timing of Noah's entry, so it is omitted rather than misapplied."
+      }
+    }
+  }
+}

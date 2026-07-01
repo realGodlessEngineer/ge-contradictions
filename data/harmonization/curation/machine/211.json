@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 211,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read \"Ephraimite\" geographically, not tribally: Elkanah is a Kohathite Levite reckoned to Ephraim because the Levites dwelt scattered among the other tribes.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Otto Thenius, the source-critical commentator on Samuel whom Keil & Delitzsch answer by name, argued that Samuel's lifelong dedication and his father's plain \"Ephraimite\" designation tell against a Levitical descent, treating the Chronicler's Kohathite-Korahite line as a secondary harmonization.",
+      "skeptic": {
+        "name": "Otto Thenius",
+        "work": "Die Bücher Samuels (Kurzgefasstes exegetisches Handbuch zum Alten Testament)",
+        "year": "1842",
+        "attribution": "Otto Thenius (d. 1876), Die Bücher Samuels (1842)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "1 Samuel 1:1",
+      "excerpt_text": "Elkanah the Levite is called an Ephraimite, because, so far as his civil standing was concerned, he belonged to the tribe of Ephraim, just as the Levite in Jdg 17:7 is described as belonging to the family of Judah. The Levites were reckoned as belonging to those tribes in the midst of which they lived, so that there were Judaean Levites, Ephraimitish Levites, and so on …",
+      "full_note_ref": "KD/9/1/1",
+      "on_tension_rationale": "Directly resolves the Ephraimite-vs-Levite tension: asserts Elkanah IS a Levite and explains the 'Ephraimite' label as civil/geographic, grounded in the rule that Levites were reckoned to the tribe they lived among. The single strongest, most explicit harmonization on the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on 1 Samuel 1:1 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this exact passage at length, defending Samuel's Levitical descent from 1 Chron 6 and explaining why Elkanah is nonetheless styled an Ephraimite; they engage and rebut Thenius by name. Preferred over Haley here because Haley's specific-passage coverage cannot be confirmed and K&D's harmonizing treatment is surfaced directly on this row."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/1_Samuel_1.1.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Was Elkanah, the father of Samuel, an Ephraimite or a Levite? (1 Samuel 1:1)",
+        "note": "live apologetic treatment of this exact contradiction; Levite by descent, Ephraimite by location"
+      }
+    }
+  }
+}

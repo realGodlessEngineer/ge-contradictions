@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 170,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the singular \"but my servant Caleb\" not as exclusive but as a partial naming, with Joshua excepted too and named in the very same chapter and the later musters.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, compiler of the Skeptic's Annotated Bible, presses the wording at face value: Numbers 14:24 swears that of the doomed generation only Caleb will see the land, yet the surrounding passages list Caleb and Joshua as the two survivors.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"Who survived to see the promised land during the Exodus?\" (skepticsannotatedbible.com/contra/caleb.html)",
+        "year": "1992-2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1992-2013), contra/caleb.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Numbers 14:24",
+      "excerpt_text": "Joshua was also excepted, but he is not named because he was no longer in the ranks of the people, being a constant attendant on Moses.",
+      "full_note_ref": "JFB/4/14/24",
+      "on_tension_rationale": "Directly states that Joshua was 'also excepted' and gives the contextual reason the oath at 14:24 names only Caleb — the core harmonization of singular-Caleb vs Caleb-and-Joshua.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Numbers 14:24",
+      "excerpt_text": "just as Joshua also is not mentioned in this place, as he is at Num 14:30 and Num 14:38, but Caleb only … This first revelation of God to Moses is restricted to the main fact …",
+      "full_note_ref": "KD/4/14/24",
+      "on_tension_rationale": "Names both later verses (14:30, 14:38) where Joshua appears and supplies the harmonizing principle — the first oath is 'restricted to the main fact,' so the omission of Joshua at 14:24 is not exclusion.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Numbers 14:37",
+      "excerpt_text": "Here Joshua is set first, as Caleb is in Num 14:30; which shows that they were equal in dignity …",
+      "full_note_ref": "GILL/4/14/37",
+      "on_tension_rationale": "Reads the later passages as confirming Joshua and Caleb stood on equal footing as the two survivors, so the singular naming at 14:24 cannot mean Caleb alone survived.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Numbers 14:24",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Treats this exact passage, stating Joshua was 'also excepted' though not named at 14:24, which harmonizes the singular oath with the later passages naming both survivors."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Caleb-in-the-Bible.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who was Caleb in the Bible?",
+        "note": "Live apologetic treatment; presents Caleb and Joshua as the only two of their generation to survive and enter Canaan, citing Numbers 14:11-24 and the 'different spirit' that singles Caleb out."
+      }
+    }
+  }
+}

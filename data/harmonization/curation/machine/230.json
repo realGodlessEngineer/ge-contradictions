@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 230,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read 15:35 as Samuel ceasing to seek Saul out, not denying that Saul later came before him in 19:24.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Henry Preserved Smith renders 15:35 \"Samuel saw Saul no more till the day of his death\" and holds that the plain sense flatly contradicts the encounter narrated in 19:24.",
+      "skeptic": {
+        "name": "Henry Preserved Smith",
+        "work": "A Critical and Exegetical Commentary on the Books of Samuel (International Critical Commentary)",
+        "year": "1899",
+        "attribution": "Henry Preserved Smith (d. 1927), A Critical and Exegetical Commentary on the Books of Samuel, ICC (1899)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Samuel 15:34",
+      "excerpt_text": "not that he saw him no more, he saw him afterwards, Sa1 19:24, but it was accidentally, he did not go to see him, but Saul came to him …",
+      "full_note_ref": "GILL/9/15/34",
+      "on_tension_rationale": "Directly names the apparent conflict (15:35 vs 19:24) and resolves it on the mechanism the harmonizers all use: Samuel did not go to Saul; Saul came to Samuel. Strongest single reconcile, parity-capped at 1 to match the discrepancy pole's named-skeptic count.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), at 1 Samuel 15:35",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke addresses this exact discrepancy on the passage: he grants that Saul went to Samuel at Naioth (19:22-24) but argues this does not affect 15:35, since from that time Samuel had no further connection with Saul as king."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page found on an allowlisted domain for this specific tension; the nearest defendinginerrancy.com entry on 1 Samuel 19:23-24 treats a different question (the Spirit upon a rejected Saul), so link omitted rather than mismatched."
+      }
+    }
+  }
+}

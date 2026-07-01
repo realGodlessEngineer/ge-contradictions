@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 169,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Moses' meekness as patient endurance of attacks on himself, not absence of righteous anger when God's honour or Israel's good is at stake.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells of the Skeptic's Annotated Bible presses the tension at face value, holding that the Moses who orders the slaughter of the Midianite boys and women in Numbers 31 is anything but the meekest man on earth.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Was Moses meek?\"",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Was Moses meek?\" (skepticsannotatedbible.com/contra/meek.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Numbers 31:14",
+      "excerpt_text": "The displeasure of the great leader, though it appears the ebullition of a fierce and sanguinary temper, arose in reality from a pious and enlightened regard to the best interests of Israel.",
+      "full_note_ref": "JFB/4/31/14",
+      "on_tension_rationale": "Speaks directly to the Numbers 31 wrath the skeptic cites and reframes it as zeal for Israel's good rather than the cruelty the contradiction alleges — the strongest single harmonizing sentence on the row.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Numbers 12:1",
+      "excerpt_text": "When God's honour was concerned, as in the case of the golden calf, no man more zealous than Moses; but, when his own honour was touched, no man more meek: as bold as a lion in the cause of God, but as mild as a lamb in his own cause.",
+      "full_note_ref": "MHC/4/12/1",
+      "on_tension_rationale": "The classic lion/lamb distinction: meekness governs Moses' response to personal affronts, while zeal governs God's cause — the mechanism that lets Numbers 12:3 and his anger coexist.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Numbers 12:1",
+      "excerpt_text": "Because he was the meekest of all men, he could calmly leave this attack upon himself to the all-wise and righteous Judge, who had both called and qualified him for his office.",
+      "full_note_ref": "KD/4/12/1",
+      "on_tension_rationale": "Locates Moses' meekness specifically in bearing 'this attack upon himself' patiently, which limits the trait to personal grievance and leaves room for action in God's name elsewhere.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Numbers 12",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this passage directly, distinguishing Moses' meekness in his own cause from his zeal in God's cause ('as bold as a lion in the cause of God, but as mild as a lamb in his own cause'), the standard harmonization of the meekness with his anger."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page squarely engages the meekness-vs-Numbers-31 character tension. defendinginerrancy.com/bible-solutions/Numbers_12.3.php treats only the self-praise/authorship difficulty of 12:3; Numbers_31.php treats only the morality of the slaughter; gotquestions.org/blessed-are-the-meek.html cites Moses' meekness generically but does not reconcile it with his anger. Link omitted rather than use an off-topic page."
+      }
+    }
+  }
+}

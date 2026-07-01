@@ -1,0 +1,22 @@
+{
+  "contradiction_id": 362,
+  "excerpts": [
+    {
+      "excerpt_uid": "362#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "pass",
+      "action": null,
+      "reason": "Each segment is verbatim in GILL/46/13/6-7 and the two ellipsis joins preserve Gill's sense. Join 1 ('all his promises' … 'though such a man will not believe every spirit') drops only the Abraham/'hope against hope' clause; join 2 ('standard of faith and practice' … 'a man of charity or love is willing to believe all the good things') drops 'nor will he believe every word of man... indeed,' without distortion. Directly on THIS tension: Gill defines 'believeth all things' as (a) believing God's word and (b) charitable credulity toward persons, explicitly excluding naive credulity toward every spirit/doctrine, which is the classic reconciliation with the 'prove all things' / 'try the spirits' commands. Reconcile pole correctly labeled."
+    }
+  ],
+  "guardrails": {
+    "parity": "ok",
+    "connectives": "flag",
+    "named_skeptic": "not_real",
+    "discrepancy_integrity": "co_opted",
+    "deeper_learning": "flag",
+    "reason": "NAMED_SKEPTIC = NOT_REAL: C. Dennis McKinsey and The Encyclopedia of Biblical Errancy (Prometheus, 1995) are real, but I could not confirm McKinsey engaged THIS specific pairing ('believes all things' 1 Cor 13:7 vs. 'prove all things' 1 Thess 5:21). The tektonics chapter-by-chapter rebuttal index of McKinsey's Encyclopedia does not list this contradiction, and no McKinsey source treating it surfaced. Per spec, default to not_real when the specific engagement cannot be positively confirmed. CONNECTIVES = FLAG: the discrepancy connective claims McKinsey 'presses that believes all things... is flatly incompatible with prove all things, both stated as duties' — a specific objection attributed to a skeptic whose engagement is unverified; overclaim. DISCREPANCY_INTEGRITY = CO_OPTED: discrepancy_first/named_skeptic row whose only skeptic cannot be confirmed and which carries no justified relabel_flag; this is effectively a harmonizer-only row dressed as named_skeptic (relabel_missing at minimum). DEEPER_LEARNING = FLAG: Haley (1874) is a genuine PD work but I could not confirm it treats this exact believe-all/prove-all pairing; the note's specific claim is unverified for this tension. Note also consensus='genuinely_disputed' yet lean='reconcile_first' with an unverifiable skeptic — the editorial framing leans harmonize while the discrepancy side has no confirmed advocate. Parity structurally ok but hollow."
+  }
+}

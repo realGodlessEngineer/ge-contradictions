@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 246,
+  "question": "Who was Amasa's father?",
+  "summary": "2 Samuel 17:25 identifies Amasa's father as Ithra \"an Israelite.\" 1 Chronicles 2:17 identifies him as Jether \"the Ishmaelite.\" The discrepancy is both in the form of the name and, more importantly, in the ethnicity.",
+  "consensus": "probable_harmonization",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Commentators read the two labels as one man variously described — a dual-named proselyte or sojourner, a copyist's slip for \"Ishmaelite,\" or an Ishmaelite naturalized into Israel.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The objection is pressed by Steve Wells in the Skeptic's Annotated Bible, who lists the two verses as conflicting in both the father's name (Ithra vs. Jether) and his ethnicity (Israelite vs. Ishmaelite).",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on 2 Samuel 17:25",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this passage directly, arguing the name forms Jether/Jithra are identical and that 'Israelite' is a textual corruption for 'Ishmaelite' confirmed by 1 Chronicles 2:17."
+      },
+      "link": {
+        "url": null
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "246#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "2 Samuel 17:24",
+      "full_note_ref": "GILL/10/17/24",
+      "excerpt_text": "he is called Jether the Ishmaelite, Ch1 2:17; either because he was an Ishmaelite by birth, and being proselyted to the Jewish religion, was called an Israelite; or rather he was an Israelite by birth, and having sojourned in the land of Ishmael some time, was called an Ishmaelite, as Uriah the Hittite, and others",
+      "on_tension_rationale": "Directly harmonizes both name (Jether=Ithra) and the Israelite/Ishmaelite ethnicity by dual-naming (proselyte or sojourner).",
+      "source_note_text": "And Absalom made Amasa captain of the host instead of Joab,.... Who was along with David:\nwhich Amasa was a man's son whose name was Ithra, an Israelite; he is called Jether the Ishmaelite, Ch1 2:17; either because he was an Ishmaelite by birth, and being proselyted to the Jewish religion, was called an Israelite; or rather he was an Israelite by birth, and having sojourned in the land of Ishmael some time, was called an Ishmaelite, as Uriah the Hittite, and others; and when Amasa is called a \"man's son\", it means a great man, as Kimchi observes:\nthat went in to Abigail, the daughter of Nahash, sister to Zeruiah,\nJoab's mother: so that Joab and Amasa, the generals of David and Absalom, were own cousins, sisters' children, and David uncle to them both; for Abigail and Zeruiah were David's sisters, Ch1 2:16; children of Jesse, whose name is here called Nahash, having two names, or this was his surname; though others think Nahash is the name of a woman, the wife of Jesse, and that these two sisters had two mothers, but one father; it seems by this expression, \"went in to\", as if Amasa was not begotten in the conjugal state, but was illegitimate."
+    }
+  ]
+}

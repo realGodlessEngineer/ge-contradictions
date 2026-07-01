@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 83,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read Genesis 35 not as a fresh founding but as Jacob renewing the name he had already given the place on his outbound journey.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharpest objection is pressed by Steven DiMattei, who argues the two namings are independent source doublets (E at the departure, P at the return) that each proceed as if the other never happened.",
+      "skeptic": {
+        "name": "Steven DiMattei",
+        "work": "Contradictions in the Bible, #64 (\"Does Jacob name Bethel before he leaves Canaan OR on his return?\")",
+        "year": "2013",
+        "attribution": "Dr. Steven DiMattei, Contradictions in the Bible, #64 (contradictionsinthebible.com, 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 28:18",
+      "excerpt_text": "He renewed it on his return from Mesopotamia (Gen 35:15). This is confirmed by Gen 48:3, where Jacob, like the historian in Gen 35:6-7, speaks of Luz as the place of this revelation.",
+      "full_note_ref": "KD/1/28/18",
+      "on_tension_rationale": "Directly answers the two-namings tension: K&D treat the Genesis 35:15 naming as a renewal of the Genesis 28:19 naming (same single event), citing Gen 48:3 and Gen 35:6-7 as proof Jacob still calls the spot Luz/Bethel from one original revelation.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Genesis 28:18",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this exact pair: the place is named Bethel at the departure (Gen 28:19) and Jacob 'renewed it on his return from Mesopotamia (Gen 35:15)', citing Gen 48:3 and Gen 35:6-7 against the double-founding reading. Haley's coverage of this specific passage-pair could not be confirmed, so per spec the pd_work is anchored to a row-surfaced harmonizing commentator keyed to the passage."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) squarely engages the Bethel double-naming tension; gotquestions.org/Bethel-in-the-Bible.html mentions both verses but does not treat the conflict, so the optional link is omitted rather than using an off-topic page."
+      }
+    }
+  }
+}

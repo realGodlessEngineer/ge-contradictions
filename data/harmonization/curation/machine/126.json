@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 126,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators dissolve the tension with one distinction: Scripture blesses wine used in moderation and condemns only its abuse — drunkenness, not drinking.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells in the Skeptic's Annotated Bible, who collates the passages to argue the Bible endorses and condemns drinking at once, leaving no consistent stance.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); skepticsannotatedbible.com"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Proverbs 20:1",
+      "excerpt_text": "The Old Testament is not against drinking wine in moderation (3:10; 9:5; Ps 104:14-15), but it adamantly opposes excessive drinking (Prov 21:17; 23:29-35; 31:4-5).",
+      "full_note_ref": "TYN/20/20/1",
+      "on_tension_rationale": "States the whole reconciliation thesis directly: the OT permits moderate wine and opposes only excess, so the 'blessing' and 'warning' texts are not in conflict.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Proverbs 23:20",
+      "excerpt_text": "Be not amongst winebibbers,.... Who drink to excess, otherwise wine may be drank, provided moderation is used …",
+      "full_note_ref": "GILL/20/23/20",
+      "on_tension_rationale": "Reads the strongest warning text as aimed at excess, not at wine itself ('wine may be drank, provided moderation is used'), harmonizing it with the texts that bless drinking.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "John 2:1",
+      "excerpt_text": "Christ, in providing thus plentifully for the guests, though he hereby allows a sober cheerful use of wine, especially in times of rejoicing (Neh 8:10), yet he does not invalidate his own caution, nor invade it, in the least, which is, that our hearts be not at any time, no not at a marriage feast, overcharged with surfeiting and drunkenness, Luk 21:34.",
+      "full_note_ref": "MHC/43/2/1",
+      "on_tension_rationale": "Applies the use/abuse distinction to the Cana endorsement itself: Christ allows a sober use of wine while upholding the warning against surfeiting and drunkenness, reconciling John 2 with Eph 5:18 and Proverbs.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on John 2:1-11",
+        "author": "Matthew Henry",
+        "year": "1706-14",
+        "note": "Henry treats this passage directly: Christ's provision of wine at Cana 'allows a sober cheerful use of wine' while explicitly upholding the caution against surfeiting and drunkenness, which is the harmonizing tradition's core distinction."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/sin-alcohol.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does the Bible say about drinking alcohol / wine? Is it a sin for a Christian to drink alcohol / wine?",
+        "note": "Live apologetic treatment that reconciles the positive wine texts with the warnings by distinguishing moderate consumption from drunkenness."
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 217,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read \"came no more\" and \"all the days of Samuel\" as the immediately-following clause qualifies them: no successful invasion while Samuel ruled, not the absence of all Philistine war.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Source critics such as G. B. Caird read 1 Samuel 7:13 as an idealizing Deuteronomistic summary of Samuel's judgeship that the older, pro-monarchy Saul narrative of chapters 13-14 directly contradicts.",
+      "skeptic": {
+        "name": "G. B. Caird",
+        "work": "Introduction and Exegesis to I and II Samuel, in The Interpreter's Bible, vol. II",
+        "year": "1953",
+        "attribution": "G. B. Caird (d. 1984), Introduction and Exegesis to I and II Samuel, The Interpreter's Bible, vol. II (1953)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "1 Samuel 7:5",
+      "excerpt_text": "This limitation of the words \"they came no more\" (lit. \"they did not add again to come into the border of Israel\"), is implied in the context; for the words which immediately follow, \"and the hand of Jehovah was against the Philistines all the days of Samuel,\" show that they made attempts to recover their lost supremacy, but that so long as Samuel lived they were unable to effect anything against Israel.",
+      "full_note_ref": "KD/9/7/5",
+      "on_tension_rationale": "Directly addresses the wording tension: limits 7:13's 'came no more' and 'all the days of Samuel' to no LASTING victory, reconciling it with the renewed Philistine wars under Saul in ch. 13.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on 1 Samuel 7:13 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this passage directly, arguing that 'they came no more' means no lasting conquest and that the hand of the LORD against the Philistines 'all the days of Samuel' is shown by the very wars Saul fought against them, citing Seb. Schmidt to the same effect."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page treating this specific contradiction found on an allowlisted domain; link omitted rather than fabricated."
+      }
+    }
+  }
+}

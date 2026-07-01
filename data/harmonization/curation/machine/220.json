@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 220,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders deny any double-rejection: chapter 13 only forfeited the dynasty's perpetuation, while the personal rejection of Saul came only at the second transgression in chapter 15.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The strongest objection is pressed by Julius Wellhausen, who read 1 Samuel's competing rejection accounts as conflated, mutually disagreeing traditions rather than one coherent sequence, so that chapters 13 and 15 stand as rival explanations of why Saul lost the kingdom.",
+      "skeptic": {
+        "name": "Julius Wellhausen",
+        "work": "Prolegomena to the History of Israel",
+        "year": "1885",
+        "attribution": "Julius Wellhausen (d. 1918), Prolegomena to the History of Israel (Eng. trans. 1885; Ger. Prolegomena zur Geschichte Israels, 1883)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "1 Samuel 13:13",
+      "excerpt_text": "The non-continuance of the sovereignty is not to be regarded as a rejection, or as signifying that Saul had actually lost the throne so far as he himself was concerned … It was not till his second transgression that Saul was rejected, or declared unworthy of being king over the people of God (1 Samuel 15).",
+      "full_note_ref": "KD/9/13/8",
+      "on_tension_rationale": "K&D directly addresses the two-rejection tension: it denies that ch. 13 is a rejection at all (only a forfeiture of dynastic perpetuation) and locates the actual rejection of Saul in the second transgression of ch. 15, dissolving the 'two rejection events' claim. The two clauses are non-adjacent in the note but the ellipsis join preserves the author's argument.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on 1 Samuel 13:13-14 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this exact discrepancy at length on 1 Sam 13:13-14, arguing that the non-continuance of the dynasty in ch. 13 is not a rejection, and that Saul's actual rejection occurs only at the second transgression in ch. 15. (Haley's specific-passage coverage could not be confirmed, so a harmonizing commentator surfaced on the row and keyed to the passage is used instead.)"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Saul-sacrifice.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why was it wrong for Saul to offer a sacrifice?",
+        "note": "Live apologetic treatment of the 1 Samuel 13 cause of Saul's rejection (unauthorized sacrifice / failure to wait)."
+      }
+    }
+  }
+}

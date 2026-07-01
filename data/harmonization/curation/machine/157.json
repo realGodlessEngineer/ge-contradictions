@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 157,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders concede the self-description reads oddly but treat it as inspired testimony — or as a later editor's gloss — rather than ordinary self-praise, so Mosaic authorship stands.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Spinoza pressed the classic objection: the Pentateuch repeatedly speaks of Moses in the third person and praises him — calling him meeker than all men, even narrating his death — which an author writing of himself would not do, so Moses did not write these books.",
+      "skeptic": {
+        "name": "Baruch Spinoza",
+        "work": "Theologico-Political Treatise (Tractatus Theologico-Politicus), ch. VIII",
+        "year": "1670",
+        "attribution": "Baruch Spinoza (d. 1677), Theologico-Political Treatise (1670), ch. VIII"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Numbers 12:3",
+      "excerpt_text": "The self-praise on the part of Moses, which many have discovered in this description of his character, and on account of which some even of the earlier expositors regarded this verse as a later gloss, whilst more recent critics have used it as an argument against the Mosaic authorship of the Pentateuch, is not an expression of vain self-display, or a glorification of his own gifts and excellences, which he prided himself upon possessing above all others.",
+      "full_note_ref": "KD/4/12/1",
+      "on_tension_rationale": "Directly names the critics' use of Num 12:3 as an argument against Mosaic authorship of the Pentateuch and rebuts it as inspired, objective testimony rather than self-display. Single strongest reconcile, parity-capped against the Spinoza connective.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Numbers 12:1-3",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly, answering the modern-critical use of Moses' self-description as an objection to Mosaic authorship of the Pentateuch."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Numbers_12.3.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in Numbers 12:3?",
+        "note": "live apologetic treatment of Moses calling himself the meekest man and Mosaic authorship"
+      }
+    }
+  }
+}

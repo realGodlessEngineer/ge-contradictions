@@ -1,0 +1,57 @@
+{
+  "contradiction_id": 256,
+  "question": "Was Solomon alone when he sacrificed 1000 burnt offerings at Gibeon?",
+  "summary": "1 Kings 3:4 describes Solomon going to Gibeon and offering a thousand burnt offerings, with no mention of any congregation accompanying him. 2 Chronicles 1:3-6 describes the same sacrifice as a public event with \"all the congregation\" of Israel going up with Solomon to the high place at Gibeon.",
+  "consensus": "probable_harmonization",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Harmonizers read 1 Kings 3:4 as a compressed notice of the same public, nobility-attended sacrifice Chronicles narrates in full, so the congregation is assumed, not absent.",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells lists Kings (Solomon goes to Gibeon, no crowd named) against Chronicles (all the congregation goes up) as a contradiction over whether Solomon was alone.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "On 2 Chronicles 1:1 K&D set the brief Kings notice beside the Chronicler's summoned assembly and argue both report one royal consecration sacrifice at which the estates of the kingdom were present as a matter of course."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Solomon-high-place.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why did Solomon worship at a high place?",
+        "note": "Treats Solomon's Gibeon sacrifice directly, noting the whole assembly accompanied him to the tent of meeting and bronze altar there, the public character Chronicles makes explicit."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "256#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "1 Kings 3:4",
+      "full_note_ref": "JFB/11/3/4",
+      "excerpt_text": "The royal progress was of public importance. It was a season of national devotion. The king was accompanied by his principal nobility (Ch2 1:2)",
+      "on_tension_rationale": "Directly resolves the tension: reads the bare Kings notice as the same public, nobility-attended event Chronicles describes, so the congregation's presence is assumed rather than absent.",
+      "source_note_text": "the king went to Gibeon to sacrifice there--The old tabernacle and the brazen altar which Moses had made in the wilderness were there (Ch1 16:39; Ch1 21:29; Ch2 1:3-6). The royal progress was of public importance. It was a season of national devotion. The king was accompanied by his principal nobility (Ch2 1:2); and, as the occasion was most probably one of the great annual festivals which lasted seven days, the rank of the offerer and the succession of daily oblations may help in part to account for the immense magnitude of the sacrifices."
+    }
+  ]
+}

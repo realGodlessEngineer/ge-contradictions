@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 52,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the Chronicles list as a compressed genealogy: the three are grandsons of Shem through Aram, with \"sons\" used loosely for descendants.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is catalogued by Steve Wells in the Skeptic's Annotated Bible, which lists Genesis 10:23 (sons of Aram) against 1 Chronicles 1:17 (sons of Shem) as giving two different fathers for Uz, Hul, and Gether.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Who was the father of Uz, Hul, and Gether?\"",
+        "year": "1999",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (1999-), contradiction \"Who was the father of Uz, Hul, and Gether?\" (skepticsannotatedbible.com/contra/uz-hul-gether.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Genesis 10:23",
+      "excerpt_text": "The four following persons are called the sons of Shem, Ch1 1:17 being his grandsons, which is not unusual in Scripture …",
+      "full_note_ref": "GILL/1/10/23",
+      "on_tension_rationale": "Names both passages and resolves the tension directly: the Chronicles 'sons of Shem' are really Aram's sons, i.e. Shem's grandsons, a normal genealogical compression.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Chronicles 1:17",
+      "excerpt_text": "Uz, and Hul, and Gether, and Meshech—or, \"Mash\"; these were the children of Aram, and grandsons of Shem (Gen 10:23).",
+      "full_note_ref": "JFB/13/1/17",
+      "on_tension_rationale": "Comments on the Chronicles verse itself and explicitly maps its names back to Aram as father and Shem as grandfather, citing Gen 10:23 — the harmonization at the point of tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Genesis 10:23",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact pair, noting the four are 'called the sons of Shem, Ch1 1:17 being his grandsons, which is not unusual in Scripture.' Used in place of Haley, whose specific coverage of this passage could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted (gotquestions.org / carm.org / defendinginerrancy.com) page treating this specific genealogical pair could be verified; link omitted rather than guessed."
+      }
+    }
+  }
+}

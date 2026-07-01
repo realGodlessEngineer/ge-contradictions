@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 12,
+  "question": "Who was Timnah?",
+  "summary": "Genesis 36:12 identifies Timna as a woman, specifically the concubine of Eliphaz son of Esau, who bore Amalek to him. 1 Chronicles 1:36 lists 'Timna' as one of the sons of Eliphaz alongside Teman, Omar, Zephi, Gatam, Kenaz, and Amalek. Same name, same father, different gender and different relationship. The sister-of-Lotan verses in Genesis 36:22 and 1 Chronicles 1:39 are not a separate contradiction; they are additional genealogical detail about the same woman.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Harmonizers read Chronicles' bare 'Timna' not as a son but as a compressed note of the same woman Genesis names — Eliphaz's concubine and Amalek's mother.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells sets Genesis' Timna the concubine (Gen 36:12) against the 'sons of Eliphaz' list that includes Timnah (1 Chr 1:36), pressing the same name as both a woman and a man.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63)",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "On 1 Chronicles 1:28-36 Gill treats this passage directly, arguing Timna in 1 Chr 1:36 is not a man's name but the concubine of Eliphaz and mother of Amalek of Gen 36:12, citing the Arabic version and Alexandrian Septuagint in support."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic live page treating the Timna son-vs-concubine tension was confirmed on an allowlisted domain (gotquestions.org, carm.org, defendinginerrancy.com); link omitted rather than guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "12#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "1 Chronicles 1:28",
+      "full_note_ref": "GILL/13/1/28",
+      "excerpt_text": "…it should be observed, that Timna, Ch1 1:36 is not the name of a man, but was the concubine of Eliphaz, the eldest son of Esau, and the mother of Amalek, Gen 36:12 …",
+      "on_tension_rationale": "Directly resolves the gender/relationship conflict by stating Chronicles' 'Timna' is not a son but the same concubine Genesis 36:12 names — the squarest harmonization, naming both passages.",
+      "source_note_text": "The sons of Abraham,.... The famous and well known ancestor of the Jews; of Ishmael his firstborn, and his posterity; of his sons by Keturah; and of Isaac and his sons, an account is given from hence to the end of Ch1 1:34 entirely agreeing with that in Gen 25:1.\n.\n1 Chronicles 1:35\nch1 1:35\nch1 1:35\nch1 1:35The sons of Esau,.... The firstborn of Isaac; his posterity are named in this and the two following verses, as in Gen 36:1 only it should be observed, that Timna, Ch1 1:36 is not the name of a man, but was the concubine of Eliphaz, the eldest son of Esau, and the mother of Amalek, Gen 36:12, and so in the Arabic version it is read,\"and Timna, which was the concubine of Eliphaz, the son of Esau, bare him Amalek;''and so the Alexandrian copy of the Septuagint."
+    }
+  ]
+}

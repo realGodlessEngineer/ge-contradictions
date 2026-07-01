@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 257,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders answer that each \"greatest\" is frame-relative — wisdom among kings, prophetic office, new-covenant light, childlike humility — so the verses rank different scales, not one.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells / Skeptic's Annotated Bible presses the row as a flat clash: Solomon, Jesus, John, and the humble child are each called the greatest, so the texts give incompatible answers.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"Who is the greatest?\" (skepticsannotatedbible.com/contra/greatest.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, \"Who is the greatest?\" (skepticsannotatedbible.com/contra/greatest.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 11:11",
+      "excerpt_text": "Notwithstanding, he that is least in the kingdom of heaven, is greater than he; which is to be understood, not of Christ … but of the apostles of Christ, and the least among them … The comparison does not lie so much between their persons, as their several different degrees of light and doctrine.",
+      "full_note_ref": "GILL/40/11/10",
+      "on_tension_rationale": "Directly dissolves the sharpest internal paradox (John greatest born of women, yet least in kingdom greater than he) by saying the comparison is of degrees of light/doctrine, not of persons on one scale.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Matthew 11:11",
+      "excerpt_text": "the persons are not compared together, but the kinds of doctrines, the preaching of John with the law and the Prophets, and again, the most clear preaching of the Gospel with John's.",
+      "full_note_ref": "GNV/40/11/11",
+      "on_tension_rationale": "Distinct voice making the same harmonizing move explicitly: the texts compare kinds of doctrine/dispensation, not persons, so 'greatest' is not an absolute ranking.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Kings 3:11",
+      "excerpt_text": "this must be understood of men since the fall … and it must be restrained to political and natural knowledge … and as for our Lord, the antitype of Solomon, he is greater than him in all kind of knowledge, all the treasures of wisdom and knowledge being hid in him, see Mat 12:42.",
+      "full_note_ref": "GILL/11/3/11",
+      "on_tension_rationale": "Resolves the Solomon-vs-Jesus axis: Solomon's 'none like thee' is restricted (men since the fall, political/natural wisdom), and Christ is expressly greater, citing Matthew 12:42 — the verse the SAB row sets against 1 Kings 3:12.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Matthew 11:10-11 and 1 Kings 3:11",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact set of claims, distinguishing the senses of 'greatest' (degrees of light/doctrine; Solomon's wisdom restricted to fallen men and political/natural knowledge, with Christ expressly greater per Mat 12:42)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/John-Baptist-greatest.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: In what way was John the Baptist the greatest (Matthew 11:11)?",
+        "note": "Live apologetic treatment of the John 'greatest born of women' vs. 'least in the kingdom greater than he' paradox; harmonizes by historical position vs. fuller revelation."
+      }
+    }
+  }
+}

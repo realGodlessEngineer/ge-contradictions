@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 54,
+  "question": "Who was the father of Salah?",
+  "summary": "Genesis 10:24 and 11:12 both have Arphaxad directly fathering Salah. Luke 3:35-36 inserts a generation — 'Salah, which was the son of Cainan, which was the son of Arphaxad' — making Cainan an intermediate ancestor.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders concede the wording differs and resolve it textually — the extra Cainan is a Septuagint insertion Luke copied, absent from the Hebrew line.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells presses the plain conflict: where Genesis 10:24 and 11:12 make Salah the direct son of Arphaxad, Luke 3:35-36 inserts Cainan as an extra generation between them.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013; SAB.org)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Genesis 11:12 and Luke 3:36",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact passage on the row, arguing the second Cainan is a Septuagint addition Luke followed and that the best chronologists reject it as a spurious generation."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Cainan-genealogy.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why does Luke mention Cainan son of Arphaxad, but Cainan is missing from the genealogies in Genesis and 1 Chronicles?",
+        "note": "live apologetic treatment of the Cainan/Salah genealogy difference"
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "54#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Genesis 11:12",
+      "full_note_ref": "CLARKE/1/11/12",
+      "excerpt_text": "The Septuagint bring in here a second Cainan, with an addition of one hundred and thirty years. St. Luke follows the Septuagint, and brings in the same person in the same way. But the Hebrew text, both here and in 1 Chronicles 1:1-28, is perfectly silent on this subject, and the best chronologists have agreed in rejecting this as a spurious generation.",
+      "on_tension_rationale": "Directly addresses the Cainan-between-Arphaxad-and-Salah tension: harmonizes by locating the extra generation in the Septuagint (which Luke followed) and absent from the Hebrew, treating Cainan as a spurious insertion rather than a real ancestor.",
+      "source_note_text": "And Arphaxad lived - The Septuagint bring in here a second Cainan, with an addition of one hundred and thirty years. St. Luke follows the Septuagint, and brings in the same person in the same way. But the Hebrew text, both here and in 1 Chronicles 1:1-28, is perfectly silent on this subject, and the best chronologists have agreed in rejecting this as a spurious generation."
+    }
+  ]
+}

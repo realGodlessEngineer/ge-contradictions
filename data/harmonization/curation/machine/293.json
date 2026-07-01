@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 293,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders keep both numbers by reading the \"twentieth year\" as dated from the start of Jotham's reign, not its length — the historian counts by Jotham because Ahaz has not yet been named.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells in The Skeptic's Annotated Bible, who reads the plain numbers as a self-contradiction: Kings dates events in Jotham's twentieth year yet credits him with only sixteen.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (\"How long did Jotham reign?\")",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"How long did Jotham reign?\" (skepticsannotatedbible.com/contra/jotham.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "2 Kings 15:30",
+      "excerpt_text": "Jotham's reign lasted only sixteen years, but the meaning is that the reign of Hoshea began in the twentieth after the beginning of Jotham's reign. The sacred historian, having not yet introduced the name of Ahaz, reckoned the date by Jotham, whom he had already mentioned (see Ch2 27:8).",
+      "full_note_ref": "JFB/12/15/30",
+      "on_tension_rationale": "Directly names both data points (sixteen-year length vs the twentieth-year synchronism) and resolves: the twentieth year dates from the START of Jotham's reign, with the historian reckoning by Jotham because Ahaz is not yet introduced. Strongest single harmonization on the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 2 Kings 15:30",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Treats this exact tension at 2 Kings 15:30, harmonizing the sixteen-year reign with the \"twentieth year of Jotham\" by dating the latter from the beginning of his reign (the historian reckoning by Jotham because Ahaz is not yet named). Row-surfaced harmonizer used as the textual anchor; Haley's coverage of this specific Jotham synchronism could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) engages the 16-vs-20 Jotham tension: gotquestions.org/King-Jotham.html describes Jotham generally without citing 2 Kings 15:30 or the twentieth-year problem; defendinginerrancy.com 2_Kings_15.30.php and 2_Kings_15.33.php both 404; no carm article. On-topic harmonizing pages (veritasdomain, bible.ucg) are off-allowlist. Link omitted, never guessed."
+      }
+    }
+  }
+}

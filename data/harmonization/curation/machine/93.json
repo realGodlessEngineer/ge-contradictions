@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 93,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Deuteronomy 7 as a targeted ban on the idolatrous Canaanite nations — admitting proselytes and falling outside Joseph's Egyptian marriage — not a blanket prohibition on all foreign unions.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the objection at the source: God forbids intermarriage on pain of being \"destroyed suddenly,\" yet Joseph married an Egyptian priest's daughter and Moses a foreign wife with no punishment — so the standard is applied inconsistently.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Will God destroy those that intermarry?\" (skepticsannotatedbible.com/contra/intermarriage.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; intermarriage contradiction page)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Deuteronomy 7:3",
+      "excerpt_text": "Unless they became proselytes, as Rahab, who was married by Salmon, and so those of other nations, as Ruth the Moabitess, and so any captive taken in war; otherwise it was not lawful, bad consequences have followed upon it, which it is the design of this law to prevent; that is, being snared and drawn aside into idolatry, which was the case of Solomon …",
+      "full_note_ref": "GILL/5/7/3",
+      "on_tension_rationale": "Directly distinguishes the senses: the ban is not absolute — it admits proselytes and captives, and its purpose is to prevent idolatry, not to condemn every foreign marriage like Joseph's. NOT shipped.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Deuteronomy 7:2",
+      "excerpt_text": "The strict prohibition against contracting any alliances with such infamous idolaters was a prudential rule, founded on the experience that \"evil communications corrupt good manners\" [Co1 15:33], and its importance or necessity was attested by the unhappy examples of Solomon and others in the subsequent history of Israel.",
+      "full_note_ref": "JFB/5/7/2",
+      "on_tension_rationale": "Frames the ban as a prudential rule aimed at idolaters specifically, not all foreigners — supports limiting Deut 7 to the Canaanite-idolatry danger and excluding cases like Joseph's. Distinct voice from Gill. NOT shipped.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Deuteronomy 7:3",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, limiting the intermarriage ban to non-proselyte idolaters and noting proselyte/captive exceptions (Rahab, Ruth) — the harmonizing answer to Joseph's Egyptian marriage. Used in place of Haley because his coverage of this specific pair could not be confirmed."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/priests-of-On.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who were the priests of On? Was Joseph wrong to marry the daughter of a pagan priest?",
+        "note": "Live apologetic treatment of Joseph/Asenath vs. the intermarriage prohibition: argues Joseph predated the law, married an Egyptian (not a Canaanite), and that Scripture records no condemnation."
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 187,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Reformed commentators take the choice-commands as real summonses whose root is God's prior election, so the call to “choose” and the doctrine of predestination describe one work, not two rival ones.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Voltaire pressed the sharpest objection, ridiculing the predestinarian doctrine of grace as irreconcilable with the moral liberty Scripture itself demands when it bids people choose.",
+      "skeptic": {
+        "name": "Voltaire",
+        "work": "Dictionnaire philosophique (Philosophical Dictionary)",
+        "year": "1764",
+        "attribution": "Voltaire (d. 1778), Dictionnaire philosophique (1764)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Deuteronomy 30:19",
+      "excerpt_text": "That is, love and obey God: which thing is not in man’s power, but God’s Spirit only worketh it in his elect.",
+      "full_note_ref": "GNV/5/30/19",
+      "on_tension_rationale": "Directly subordinates the “choose life” command to election: the very obedience commanded is wrought by God in the elect, harmonizing the choice text with the predestination texts.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Joshua 24:15",
+      "excerpt_text": "he here puts them to their choice, not as if it were antecedently indifferent whether they served God or nor, or as if they were at liberty to refuse his service …",
+      "full_note_ref": "MHC/6/24/15",
+      "on_tension_rationale": "Reads Joshua's “choose you this day” as a genuine summons that nonetheless does not make humans free to refuse God's service, reconciling the choice-command with divine sovereignty.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Joshua 24:15",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this passage directly, arguing the call to choose is God's revealed will yet leaves no real liberty to refuse him — a harmonizing reading of the choice/sovereignty tension keyed to this verse."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/predestination-vs-free-will.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does the Bible say about predestination vs. free will?",
+        "note": "Live apologetic treatment engaging Joshua 24:14-15 alongside the Romans 8-9 / Ephesians 1 predestination texts."
+      }
+    }
+  }
+}

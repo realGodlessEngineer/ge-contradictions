@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 235,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read \"first to rise\" as first in rank and permanence, not in time: every prior raising returned a mortal who died again, while Christ alone rose immortal.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells in The Skeptic's Annotated Bible, who lists the witch's Samuel, Elijah's and Elisha's raisings, and Jesus's own (Lazarus, Jairus's daughter, the Nain widow's son) and argues that calling Jesus the first to rise plainly conflicts with these earlier resurrections.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Was Jesus the first to rise from the dead?\" (skepticsannotatedbible.com/contra/first.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; print ed. 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Acts 26:23",
+      "excerpt_text": "…he should be the first who should rise from the dead so as to die no more … Christ himself had raised the widow's son at Nain; and he had also raised Lazarus, and several others. All these died again; but the human nature of our Lord was raised from the dead, and can die no more.",
+      "full_note_ref": "CLARKE/44/26/23",
+      "on_tension_rationale": "Directly answers the contradiction: names the prior raisings (Nain widow's son, Lazarus, 'several others') and resolves the tension by qualifying 'first' as first to rise to die no more. Verbatim span; opening mid-sentence (leading ellipsis), one sense-preserving ellipsis join dropping the Elisha middle clause, closes on a real source period.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Acts 26:12",
+      "excerpt_text": "…not the first in time, but the first in influence - that he should be the chief of the resurrection, the head, or principal one … He was the first that rose from the dead to die no more …",
+      "full_note_ref": "MHC/44/26/12",
+      "on_tension_rationale": "The clearest statement of the harmonizing distinction: 'not the first in time, but the first in influence,' first to rise to die no more. Verbatim from the block-anchored note; leading ellipsis (mid-sentence start), one sense-preserving join, trailing ellipsis where truncated before the next clause. Spaced hyphen ' - ' kept verbatim (not an allowed normalization target).",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Corinthians 15:19",
+      "excerpt_text": "…for though there were others that were raised before him, as the widow of Sarepta's son by Elijah, the Shunammite's son by Elisha, and the man that touched the prophet's bones when put into his grave, and Jairus's daughter, the widow of Naam's son, and Lazarus by Christ; yet as these did not rise by their own power, so only to a mortal life: but Christ, as he raised himself by his own power, so he rose again to an immortal life, and was the first that ever did so …",
+      "full_note_ref": "GILL/46/15/19",
+      "on_tension_rationale": "The fullest single sentence: enumerates every prior raising the skeptic cites (Sarepta/Shunammite by Elijah/Elisha, Elisha's bones, Jairus's daughter, Nain widow's son, Lazarus) and distinguishes them as raisings by another's power to mortal life vs. Christ's self-raising to immortal life — 'the first that ever did so.' One verbatim sentence; leading ellipsis (mid-sentence), trailing ellipsis where truncated. Source spelling 'Naam's' preserved verbatim.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Acts 26:23",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact passage, listing the earlier raisings (Elisha's, the Nain widow's son, Lazarus) and resolving 'first to rise' as first to rise so as to die no more. Row-surfaced harmonizer used as the textual anchor because Haley's specific-passage coverage could not be confirmed."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/firstborn-from-the-dead.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does it mean that Jesus is the firstborn from the dead (Colossians 1:18)?",
+        "note": "Live apologetic treatment; cites 1 Corinthians 15:20-23 and Acts 26:23, acknowledges Lazarus/Nain/Jairus and the OT raisings, and harmonizes via 'first to rise immortal, never to die again.'"
+      }
+    }
+  }
+}

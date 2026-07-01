@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 26,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders concede the settlement is surprising but argue the curse was softened by grace, so Cain could find food without escaping his restless exile.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "C. Dennis McKinsey presses the curse as a failed prophecy: Cain was told he would be a vagrant, yet instead took a wife, fathered a line, and built a city — a settled life that the sentence forbade.",
+      "skeptic": {
+        "name": "C. Dennis McKinsey",
+        "work": "The Encyclopedia of Biblical Errancy",
+        "year": "1995",
+        "attribution": "C. Dennis McKinsey, The Encyclopedia of Biblical Errancy (Prometheus Books, 1995), p. 298"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 4:16",
+      "excerpt_text": "It appears more surprising that Cain, who was to be a fugitive and a vagabond upon the earth, should have established himself in the land of Nod. … the curse, \"the ground shall not yield to thee her strength,\" was so mollified by the grace of God, that Cain and his descendants were enabled to obtain sufficient food in the land of his settlement, though it was by dint of hard work and strenuous effort",
+      "full_note_ref": "KD/1/4/16",
+      "on_tension_rationale": "Directly names the curse-vs-settlement tension ('more surprising that... a fugitive... should have established himself') and gives the harmonization (the curse mollified by grace), addressing exactly this contradiction. Block-anchored (anchor note); on-tension sentences pulled from inside the block.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Genesis 4:16",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly, granting that a cursed fugitive settling and city-building is 'more surprising' and resolving it via the curse being mollified by grace; the harmonizing commentator surfaced on this row keyed to Genesis 4:16."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/land-of-Nod.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What/where was the land of Nod in the Bible?",
+        "note": "Live apologetic treatment that addresses Cain settling in Nod (Hebrew nod = 'wanderer/exile') against the fugitive-and-wanderer curse."
+      }
+    }
+  }
+}

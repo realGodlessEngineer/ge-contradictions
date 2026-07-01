@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 268,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators harmonize by sense: \"cannot sin\" denies habitual, dominating sin (the new nature), not the occasional acts every believer must still confess.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharpest objection is pressed by Raymond E. Brown, who argues that 1 John affirms both that all sin and that the begotten cannot sin, with no author contradicting himself so sharply in so short a span.",
+      "skeptic": {
+        "name": "Raymond E. Brown",
+        "work": "The Epistles of John (Anchor Bible 30)",
+        "year": "1982",
+        "attribution": "Raymond E. Brown (d. 1998), The Epistles of John, Anchor Bible 30 (Garden City, NY: Doubleday, 1982)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 John 3:9",
+      "excerpt_text": "This does not contradict Jo1 1:8-9; the regenerate show the utter incompatibility of sin with regeneration, by cleansing away every sin into which they may be betrayed by the old nature, at once in the blood of Christ.",
+      "full_note_ref": "JFB/62/3/9",
+      "on_tension_rationale": "JFB names both poles by reference (1:8-9 'all sin' vs 3:9 'cannot sin') and explicitly denies they contradict, reading the begotten nature as incompatible with sin while the believer still falls and is cleansed.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "1 John 3:6",
+      "excerpt_text": "That he cannot commit an act of sin, I suppose no judicious interpreter understands. This would be contrary to Jo1 1:9 … He therefore cannot sin, in the sense in which the apostle says, he cannot commit sin. He cannot continue in the course and practice of sin.",
+      "full_note_ref": "MHC/62/3/4",
+      "on_tension_rationale": "Matthew Henry directly states that reading 3:9 as inability to commit any act of sin would be 'contrary to Jo1 1:9', and resolves the tension by restricting 'cannot sin' to continuing in the course and practice of sin.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 John 3:9",
+      "excerpt_text": "and he cannot sin; not that it is impossible for such a man to do acts of sin, or that it is possible for him to live without sin …",
+      "full_note_ref": "GILL/62/3/9",
+      "on_tension_rationale": "Gill harmonizes the 'cannot sin' of 3:9 with the universal-sin passages by denying that it means the regenerate are sinless or impeccable, distinguishing the new nature from continued acts of sin.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 1 John 3:9",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treat this exact internal tension at 1 John 3:9, stating it 'does not contradict' 1 John 1:8-9 and reconciling the begotten nature's incompatibility with sin against the believer's actual lapses. Used as the row-surfaced harmonizing commentator keyed to the passage, since Haley's coverage of this specific 1 John crux could not be confirmed."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/1_John_3.9.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in 1 John 3:9?",
+        "note": "Live apologetic treatment citing both 1 John 3:9 and 1 John 1:8; harmonizes via the present-continuous reading ('does not continually practice sin')."
+      }
+    }
+  }
+}

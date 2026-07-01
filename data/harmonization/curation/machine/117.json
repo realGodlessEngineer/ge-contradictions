@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 117,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read God's order to Hosea not as a license to fornicate but either as a vision/enacted parable that never literally occurred, or as a marriage made lawful by the divine command itself.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells, who catalogues Hosea 1:2 as God ordering the prophet to take a \"wife of whoredoms,\" i.e., commanding the very adultery his own law forbids.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); skepticsannotatedbible.com"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Hosea 1:2",
+      "excerpt_text": "not that the Prophet did this thing in effect, but he saw this in a vision, or else was commanded by God to set forth under this parable or figure the idolatry of the Synagogue, and of the people her children.",
+      "full_note_ref": "GNV/28/1/2",
+      "on_tension_rationale": "Directly answers the conflict: the command was not an actual act of taking a harlot but a vision/parable, so no real fornication was commanded.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Hosea 1:2",
+      "excerpt_text": "The reference to the children of whoredom, along with the wife of whoredom, indicates unquestionably priori, that the divine command did not contemplate an actual and outward marriage, but simply a symbolical representation of the relation in which the idolatrous Israelites were then standing to the Lord their God.",
+      "full_note_ref": "KD/28/1/2",
+      "on_tension_rationale": "Scholarly form of the same harmonization: the command was symbolic, not an actual marriage to a prostitute, so it does not enjoin the act the law forbids.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Hosea 1:2",
+      "excerpt_text": "To marry such a one was not malum in se - evil in itself, but only malum per accidens - incidentally an evil … but not a sin when God commanded it for a holy end; nay, if commanded, it was his duty, and he must trust God with his reputation.",
+      "full_note_ref": "MHC/28/1/2",
+      "on_tension_rationale": "Carries the distinct second harmonization strand: even taken as a real act, marrying such a woman is not intrinsically evil and ceases to be sin when God commands it for a holy end.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Hosea 1:2 and 3:1",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this passage directly, arguing the command was of a 'purely symbolical character' that 'did not contemplate an actual and outward marriage,' and so does not enjoin the conduct the law forbids."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Hosea-marry-prostitute.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why did God tell Hosea to marry a prostitute (Hosea 1:2)?",
+        "note": "Live apologetic treatment reading the marriage command as a divinely-purposed symbolic illustration of Israel's unfaithfulness rather than sanctioned immorality."
+      }
+    }
+  }
+}

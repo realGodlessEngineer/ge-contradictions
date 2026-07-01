@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 77,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read the multiplication as historically realized and the \"few in number\" threat as a conditional, reversible punishment for idolatry that never cancels the covenant itself.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells juxtaposes the two poles directly: the promise of descendants \"as the stars of heaven\" stands against the threat that they will be scattered and \"left few in number,\" which he lists as a standing contradiction.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Will there be many Jews?\"",
+        "year": "1999-2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, contra \"Will there be many Jews?\" (skepticsannotatedbible.com/contra/jews_many.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Deuteronomy 4:26",
+      "excerpt_text": "yet they would not enjoy it long, but be taken and carried captive out of it; as the ten tribes were by Shalmaneser king of Assyria, and the two tribes by Nebuchadnezzar king of Babylon, and both for their idolatry and other crimes.",
+      "full_note_ref": "GILL/5/4/26",
+      "on_tension_rationale": "Casts the threatened reduction/scattering as a conditional punishment for idolatry (the Assyrian and Babylonian captivities), not a reversal of the multiplication promise — the conditional vs. unconditional point the summary names.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Deuteronomy 4:25",
+      "excerpt_text": "He is a merciful God, who does not let His people go, nor destroy them, and who does not forget the covenant with the fathers",
+      "full_note_ref": "KD/5/4/25",
+      "on_tension_rationale": "Block-anchored on Deut 4:25-31; states explicitly that the dispersal does not annul the covenant — the threat of fewness coexists with the standing promise to the fathers, dissolving the conflict.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Genesis 22:15",
+      "excerpt_text": "What a figure does the seed of Abraham make in history! How numerous, how illustrious, were his known descendants, who, to this day, triumph in this, that they have Abraham to their father!",
+      "full_note_ref": "MHC/1/22/15",
+      "on_tension_rationale": "Answers the skeptic's 'Jews are always few' premise by asserting the multiplication promise was in fact realized in history, so it is not contradicted by the conditional threat.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Deuteronomy 4:25-31 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly: the threatened dispersion is the punishment of apostasy, yet the same passage holds that God 'does not forget the covenant with the fathers,' harmonizing the conditional threat with the standing promise."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Abrahamic-covenant.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What is the Abrahamic Covenant?",
+        "note": "Live apologetic treatment of the unconditional covenant promise underlying the harmonization; does not address the scattering tension in detail."
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 289,
+  "question": "Where was Joash buried?",
+  "summary": "2 Kings 12:21 says Joash was buried with his fathers in the city of David — the standard royal-burial formula. 2 Chronicles 24:25 says he was buried in the city of David but explicitly \"not in the sepulchres of the kings,\" because of his apostasy. The Chronicler is rewriting the Kings account to insert a posthumous demerit.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Keil & Delitzsch read the two notices as compatible — burial \"in the city of David\" need not mean the royal tombs, so Chronicles only supplements Kings.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Otto Thenius cast doubt on the Chronicler's burial notice, treating the \"not in the sepulchres of the kings\" demerit as an unhistorical addition that conflicts with the Kings account — the suspicion Keil & Delitzsch and Bertheau set out to rebut.",
+    "skeptic": {
+      "name": "Otto Thenius",
+      "work": "Die Bücher der Könige (Kurzgefasstes exegetisches Handbuch zum AT)",
+      "year": "1849",
+      "attribution": "Otto Thenius (d. 1876), Die Bücher der Könige (1849)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on 2 Kings 12:19-21",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this exact pair directly: 'The two statements are not irreconcilable; and there may be good historical ground for the account in the Chronicles,' burial 'in the city of David' not requiring interment in the royal sepulchres. Row-surfaced harmonizer keyed to the passage (Haley's specific coverage of this pair unconfirmed)."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) engages this pair: gotquestions Joash-king-Judah.html 404s; defendinginerrancy 2_Chronicles_24.25.php and 2_Kings_12.21.php both 404; no carm article. The only on-topic page (veritasdomain.wordpress.com, 'Where was Joash buried?') is off-allowlist → link omitted, never guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "289#0",
+      "pole": "reconcile",
+      "source_code": "KD",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "verse_ref": "2 Kings 12:19",
+      "full_note_ref": "KD/12/12/19",
+      "excerpt_text": "but according to v. 25 of the Chronicles he was not buried in the graves of the kings. The two statements are not irreconcilable …",
+      "on_tension_rationale": "The one gathered note that names BOTH poles (Kings 'buried with his fathers in the city of David' vs Chronicles 'not buried in the graves of the kings') and explicitly asserts they are compatible; block-anchored K&D note, on-tension sentence inside the block. Ends at the source semicolon after 'irreconcilable' → ' …' (no fabricated period, per the K&D-semicolon rule). Starts at a clean clause boundary to avoid the gather's 'his father sin' digitization typo while remaining a verbatim substring.",
+      "source_note_text": "Conspiracy against Joash. - Not long after the departure of the Syrians, who had left Joash, according to Ch2 24:25, with many wounds, his servants formed a conspiracy against him and slew him upon his bed in the house Millo, which goeth down to Silla. This description of the locality is perfectly obscure for us. The conjecture that בּית־מלּא was the house in the castle of Millo which is so frequently mentioned (see at Kg1 9:15 and Sa2 5:9), is precluded by the fact that this castle is always called המּלּא (with the article). סלּא is regarded by many as an abbreviation of מסלּה, \"which goes down by the road;\" and Thenius supposes that the reference is to the road which ran diagonally through the city from the Joppa gate to the Haram-area, corresponding to the present David's road. Others regard סלּא as the proper name of a place in the neighbourhood of Jerusalem. It is impossible to get any certain meaning out of it, unless we alter the text according to arbitrary assumptions, as Thenius has done. The conspirators were Jozachar the son of Shimeath, and Jehozabad the son of Shomer, according to Kg2 12:21; but according to the Chronicles (v. 26), they were Zabad the son of Shimeath the Ammonitess, and Jehozabad the son of Shimrith the Moabitess. The identity of the first names is perfectly obvious. זבד is a copyist's error for זכר, and this is the contracted form of יוזכר. The difference in the second: son of Shomer according to our text, and son of the Shimrith according to the Chronicles, has probably also arisen from a slip of the pen, since שׁמר might easily be occasioned by the dropping out of the ת from the defectively written שׁמרת, although it is also possible that Shomer may be the name of the grandfather. Joash was buried with his father sin the city of David; but according to v. 25 of the Chronicles he was not buried in the graves of the kings. The two statements are not irreconcilable; and there may be good historical ground for the account in the Chronicles, as Bertheau acknowledges with perfect justice, in spite of the suspicion which has been cast upon it by Thenius."
+    }
+  ]
+}

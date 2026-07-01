@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 248,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders harmonize two ways: either Michal raised her sister Merab's sons (the adoption reading), or the Masoretic \"Michal\" at 21:8 is a copyist's slip for \"Merab.\"",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, who catalogs this as an SAB contradiction, presses the plain Masoretic wording: 6:23 says Michal died childless, yet 21:8 calls five impaled men \"the sons of Michal.\"",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (skepticsannotatedbible.com/contra/michal.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"How many children did Michal (David's first wife) have?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "2 Samuel 21:8",
+      "excerpt_text": "Merab, Michal's sister, was the wife of Adriel; but Michal adopted and brought up the boys under her care.",
+      "full_note_ref": "JFB/10/21/8",
+      "on_tension_rationale": "Directly resolves the contradiction by the adoption reading: the five sons were biologically Merab's, raised by the childless Michal.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "2 Samuel 6:22",
+      "excerpt_text": "The children she brought up for Adriel were not her own, but adopted ones, or Adriel's by another woman, Sa2 21:8 …",
+      "full_note_ref": "GILL/10/6/22",
+      "on_tension_rationale": "States the adoption harmonization at the 6:23-childlessness verse itself, cross-referencing 21:8.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "2 Samuel 21:1",
+      "excerpt_text": "The name of Michal, which stands in the text, is founded upon an error of memory or a copyist's mistake; for it was not Michal, but Merab, Saul's eldest daughter, who was given to Adriel the Meholathite as his wife (Sa1 18:19).",
+      "full_note_ref": "KD/10/21/1",
+      "on_tension_rationale": "The dominant modern harmonization (adopted by NRSV/ESV/NASB): 'Michal' at 21:8 is a textual corruption for 'Merab,' so 6:23 stands and no biological contradiction exists. Block-anchored note.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on 2 Samuel 21:8 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Keil & Delitzsch treat this exact pair, reading the Masoretic 'Michal' at 21:8 as a copyist's mistake for 'Merab' (1 Sam 18:19), leaving 6:23 intact. Used as the row-surfaced harmonizer keyed to this passage, since Haley's specific coverage of this verse-pair could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) squarely engages the 6:23-vs-21:8 Michal tension. gotquestions Michal-in-the-Bible.html and David-and-Michal.html cite only 6:23 and never raise 21:8; Michal-children.html / carm did-michal-have-children / defendinginerrancy 2_Samuel_21.8.php are 404s. Link omitted rather than guessed."
+      }
+    }
+  }
+}

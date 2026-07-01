@@ -1,0 +1,85 @@
+{
+  "contradiction_id": 66,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Sarah's laughing as initial unbelief that broke down under reproof, with her subsequent conception itself taken as proof that faith followed.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells (Skeptic's Annotated Bible) presses this as a flat contradiction: the Genesis narrative shows Sarah laughing in disbelief and then lying about it, which cannot be reconciled with Hebrews' celebration of her faith.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 66,
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Hebrews 11:11",
+      "excerpt_text": "also Sara herself--though being the weaker vessel, and though at first she doubted.…she judged him faithful who had promised--after she had ceased to doubt, being instructed by the angel that it was no jest, but a matter in serious earnest.",
+      "full_note_ref": "JFB/58/11/11",
+      "license_code": "PD",
+      "on_tension_rationale": "JFB directly names the tension ('though at first she doubted') and resolves it by positing a subsequent turning to faith after the angelic reproof — precisely addressing the Heb 11:11 vs. Gen 18:12-15 problem.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 66,
+      "pole": "reconcile",
+      "source_code": "KD",
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "verse_ref": "Genesis 18:9",
+      "excerpt_text": "Abraham also had laughed at this promise (Gen 17:17), and without receiving any reproof. For his laughing was the joyous outburst of astonishment; Sarah's, on the contrary, the result of doubt and unbelief, which had to be broken down by reproof, and, as the result showed, really was broken down, inasmuch as she conceived and bore a son, whom she could only have conceived in faith (Heb 11:11).",
+      "full_note_ref": "KD/1/18/9",
+      "license_code": "PD",
+      "on_tension_rationale": "K&D explicitly names the two laughter episodes, distinguishes their character (unbelief vs. joy), and then directly cites Heb 11:11 to argue that the conception itself proves the unbelief was eventually overcome by faith — addressing the precise tension.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 66,
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Hebrews 11:11",
+      "excerpt_text": "Sarah at first treated the Divine message with ridicule, judging it to be absolutely impossible, not knowing then that it was from God; and this her age and circumstances justified, for, humanly speaking, such an event was impossible: but, when she knew that it was God who said this, it does not appear that she doubted any more, but implicitly believed that what God had promised he was able to perform.",
+      "full_note_ref": "CLARKE/58/11/11",
+      "license_code": "PD",
+      "on_tension_rationale": "Clarke addresses the tension head-on: he concedes the initial ridicule but argues a decisive turning point (recognition that the speaker was God) produced genuine faith, reconciling Gen 18 with Heb 11:11.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats the Sarah/faith question directly, arguing that her initial laughter gave way to genuine faith under divine reproof, reconciling Genesis 18 with Hebrews 11:11."
+      },
+      "link": null
+    }
+  }
+}

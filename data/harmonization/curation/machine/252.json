@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 252,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders account for the closing 'thirty and seven' by tallying the three classes (3 + 2 + 32) and reading 'the thirty' as a corps title, not a literal headcount.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells in The Skeptic's Annotated Bible, who counts only thirty-six names in the roster against the text's own stated total of thirty-seven.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How many mighty men did David have?\" (skepticsannotatedbible.com/contra/mighty-men.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"How many mighty men did David have?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "2 Samuel 23:39",
+      "excerpt_text": "This number is correct, as there were three in the first class (Sa2 23:8-12), two in the second (Sa2 23:18-23), and thirty-two in the third (vv. 24-39), since Sa2 23:34 contains three names according to the amended text.",
+      "full_note_ref": "KD/10/23/8",
+      "on_tension_rationale": "Directly affirms the stated total of thirty-seven and itemizes how it sums (3 + 2 + 32), resolving the missing-name shortfall via the three names read in the emended v.34 — the precise 36-vs-37 tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "2 Samuel 23:13",
+      "excerpt_text": "Of these shalishim we have here thirty-seven, and it can scarcely be said with propriety that we have thirty-seven out of thirty …",
+      "full_note_ref": "CLARKE/10/23/13",
+      "on_tension_rationale": "Reads 'thirty' (shalishim) as an office/corps title rather than a literal count, dissolving the 'thirty-seven out of thirty' label tension behind the number.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on 2 Samuel 23:8, 39 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Keil & Delitzsch treat this exact total at the verse, affirming 'thirty and seven in all' as correct and itemizing the count (3 + 2 + 32), with the apparent shortfall removed by the three names of the amended v.34."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/mighty-men-David.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who were the mighty men of David?",
+        "note": "Live apologetic page that cites 2 Samuel 23:8-39 and addresses why thirty-seven are listed though the group is called 'the Thirty.'"
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 119,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the two accounts as compatible: God spoke the law, but used angels as instrumental agents who formed the audible sounds at Sinai — direct and mediated delivery are not mutually exclusive.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman presses this as a genuine historical discrepancy: Paul's claim in Galatians 3:19 that the law was 'ordained by angels' reflects a Second Temple tradition that degrades Torah's authority — a tradition flatly at odds with the Exodus account of God speaking directly.",
+      "skeptic": {
+        "name": "Bart Ehrman",
+        "work": "Jesus, Interrupted",
+        "year": "2009",
+        "attribution": "Bart Ehrman, Jesus, Interrupted (2009)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 119,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Galatians 3:19",
+      "excerpt_text": "and it was ordained by angels; not Moses and Aaron, and Joshua, as some say … but the holy elect angels are here meant, the ten thousands of saints, or holy ones, God came to Mount Sinai with … and this may be said to be \"ordained\" by them, inasmuch as it might be written and spoken by them, as the instruments and ministers God made use of; for though the tables are said to be the work of God, and the writing the writing of God, and to be written with the finger of God, and he is said to speak all the words of it, yet this hinders not, but that all this might be done by the means of angels; who might be employed in disposing and fitting the stones in the form they were, and in writing the law upon them … they forming in the air those articulate and audible sounds, when the law was delivered",
+      "full_note_ref": "GILL/48/3/19",
+      "license_code": "PD",
+      "on_tension_rationale": "Gill directly addresses the angel-mediation language of Gal 3:19 and harmonizes it with Exodus by arguing angels were the instrumental agents through whom God — the ultimate author — spoke and wrote the law. This is the primary reconciling argument on the Galatians side.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 119,
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Galatians 3:19",
+      "excerpt_text": "ordained--Greek, \"constituted\" or \"disposed.\"\nby angels--as the instrumental enactors of the law [ALFORD] God delegated the law to angels as something rather alien to Him and severe (Act 7:53; Heb 2:2-3; compare Deu 33:2, \"He came with ten thousands of saints,\" that is, angels, Psa 68:17). He reserved \"the promise\" to Himself and dispensed it according to His own goodness.\nin the hand of a mediator--namely, Moses. Deu 5:5, \"I stood between the Lord and you\": the very definition of a mediator. Hence the phrase often recurs, \"By the hand of Moses.\" In the giving of the law, the \"angels\" were representatives of God; Moses, as mediator, represented the people.",
+      "full_note_ref": "JFB/48/3/19",
+      "license_code": "PD",
+      "on_tension_rationale": "JFB addresses the tension by explaining the angels as God's representatives ('instrumental enactors') at Sinai, and cross-references Deut 33:2, Acts 7:53, and Heb 2:2 to show angel mediation is a consistent Second Temple tradition compatible with Exodus's account of divine speech.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats the Sinai-mediation question, arguing that angelic instrumentality at Sinai is consistent with YHWH's direct authorship of the law, reconciling Exodus with Galatians 3:19, Acts 7:53, and Hebrews 2:2."
+      },
+      "link": null
+    }
+  }
+}

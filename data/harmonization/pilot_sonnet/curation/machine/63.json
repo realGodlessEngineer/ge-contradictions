@@ -1,0 +1,53 @@
+{
+  "contradiction_id": 63,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Classical commentators distinguish Isaac as Abraham's sole legitimate son by covenant wife Sarah, so the 'only son' designation in Genesis 22:2 remains accurate even though Ishmael and the sons of Keturah also exist.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "C. Dennis McKinsey (Encyclopedia of Biblical Errancy) presses the plain count: Abraham had multiple sons by Hagar and Keturah, and Genesis 22:2's 'your only son' is therefore a factual inaccuracy that no status distinction between wives adequately removes.",
+      "skeptic": {
+        "name": "C. Dennis McKinsey",
+        "work": "The Encyclopedia of Biblical Errancy",
+        "year": "1995",
+        "attribution": "C. Dennis McKinsey (d. 2019), The Encyclopedia of Biblical Errancy (Prometheus Books, 1995)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 63,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Genesis 22:2",
+      "excerpt_text": "for, though Ishmael was his son, he was a son by his maid, by his concubine, and not by his wife; Isaac was his only legitimate son, his only son by his lawful wife Sarah; the only son of the promise, his only son, in whom his seed was to be called",
+      "full_note_ref": "GILL/1/22/2",
+      "license_code": "PD",
+      "on_tension_rationale": "Gill directly addresses why 'thine only son' is not contradicted by Ishmael's existence: the phrase singles out Isaac as the legitimate, covenantal heir by Sarah — the only category that counts in the divine designation.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley addresses the 'only son' designation for Isaac in the context of Abraham's other sons, defending the harmonizing distinction between legitimate covenant-heir and sons by concubines."
+      },
+      "link": null
+    }
+  }
+}

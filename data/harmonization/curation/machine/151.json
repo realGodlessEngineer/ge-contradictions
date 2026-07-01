@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 151,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Leviticus as a rule for the civil magistrate and Jesus as forbidding private revenge, so the statute and the Sermon address different spheres rather than contradict.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Rudolf Bultmann presses a sharper reading of the retaliation antithesis: Jesus sets the radical demand of God against the law's merely formal authority — to reject injustice completely is not to retaliate — so the conflict is not over wording but over whether keeping the statute can ever count as doing God's whole will.",
+      "skeptic": {
+        "name": "Rudolf Bultmann",
+        "work": "Jesus and the Word",
+        "year": "1934",
+        "attribution": "Rudolf Bultmann (d. 1976), Jesus and the Word (1934); cf. The History of the Synoptic Tradition (1921)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 5:38",
+      "excerpt_text": "Now our Lord here, does not find fault with the law of retaliation, as delivered by Moses, but with the false gloss of the Scribes and Pharisees … whereas this law did not allow of a retaliation to be made, by private persons, at their pleasure, but by the civil magistrate only.",
+      "full_note_ref": "GILL/40/5/38",
+      "on_tension_rationale": "Directly answers the abrogation charge: Jesus targets the Pharisaic gloss (private revenge), not the Mosaic statute, which governed only the magistrate — so the two passages do not conflict.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Matthew 5:38",
+      "excerpt_text": "This law of retribution—designed to take vengeance out of the hands of private persons, and commit it to the magistrate—was abused in the opposite way to the commandments of the Decalogue.",
+      "full_note_ref": "JFB/40/5/38",
+      "on_tension_rationale": "Frames Lev 24's lex talionis as a judicial regulation handed to the magistrate; the tension with Matt 5 arises only from its abuse as private redress, dissolving the apparent overturning.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Leviticus 24:19-20",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats Lev 24:19-20 with Matt 5:38-39 together, arguing Christ set the law aside 'not to restrain magistrates from executing public justice, but to restrain us all from returning personal injuries' — the passage-keyed harmonizing defense."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/eye-for-an-eye.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does the Bible mean by \"an eye for an eye\"?",
+        "note": "Live apologetic treatment arguing the statute is judicial policy and Jesus addresses personal conduct, so there is no contradiction."
+      }
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 245,
+  "question": "When did Absalom rebel against David?",
+  "summary": "2 Samuel 15:7 reports Absalom's rebellion begins \"after forty years.\" 2 Samuel 5:4 states David reigned only forty years total. If 15:7 is read as forty years into David's reign, the rebellion comes at the very end of his life — but the rebellion narrative is followed by years of additional reign and the eventual succession of Solomon, which is internally inconsistent.",
+  "consensus": "probable_harmonization",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "The harmonizing tradition treats \"forty years\" as a textual corruption, reading \"four years\" with the Syriac, Arabic, and Josephus, and shows that forty cannot fit David's reign at all.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells of the Skeptic's Annotated Bible presses the plain Masoretic reading: 2 Samuel 15:7 dates Absalom's revolt \"after forty years,\" yet 2 Samuel 5:4 gives David a reign of only forty years total, so the rebellion cannot fall where the received text places it.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible, \"When did Absalom rebel against David?\" (skepticsannotatedbible.com/contra/absalom_rebel.html)",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"When did Absalom rebel against David?\""
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 2 Samuel 15:7",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Treats this exact verse, stating that 'forty' is a textual error and that 'four years' should be read with the Syriac, Arabic, and Josephus. Used as the passage-specific anchor because Haley's coverage of this verse could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) treats the 2 Samuel 15:7 'forty years vs four years' difficulty; gotquestions forty-years-Absalom.html and defendinginerrancy 2_Samuel_15.7.php both 404. Link omitted rather than guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "245#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "2 Samuel 15:7",
+      "full_note_ref": "JFB/10/15/7",
+      "excerpt_text": "It is generally admitted that an error has here crept into the text, and that instead of \"forty,\" we should read with the Syriac and Arabic versions, and JOSEPHUS, \"four years\"—that is, after Absalom's return to Jerusalem, and his beginning to practice the base arts of gaining popularity.",
+      "on_tension_rationale": "Directly addresses the tension by declaring 'forty' a textual error and adopting 'four years' on Syriac/Arabic/Josephus authority — the core harmonization of this row.",
+      "source_note_text": "after forty years--It is generally admitted that an error has here crept into the text, and that instead of \"forty,\" we should read with the Syriac and Arabic versions, and JOSEPHUS, \"four years\"--that is, after Absalom's return to Jerusalem, and his beginning to practice the base arts of gaining popularity.\nmy vow, which I have vowed unto the Lord--during his exile in Geshur. The purport of it was, that whenever God's providence should pave the way for his re-establishment in Jerusalem, he would offer a sacrifice of thanksgiving. Hebron was the spot selected for the performance of this vow, ostensibly as being his native place (Sa2 3:3), and a famous high place, where sacrifices were frequently offered before the temple was built; but really as being in many respects the most suitable for the commencement of his rebellious enterprise. David, who always encouraged piety and desired to see religious engagements punctually performed, gave his consent and his blessing."
+    }
+  ]
+}

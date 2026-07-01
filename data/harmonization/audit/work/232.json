@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 232,
+  "question": "Was David alone when asking for the holy bread at Nob?",
+  "summary": "1 Samuel 21:1 has Ahimelech ask David \"why art thou alone, and no man with thee?\" — implying David arrived solo. Jesus in the Synoptic Gospels (Matthew 12:3-4, Mark 2:25-26, Luke 6:3-4) explicitly says David's companions ate the showbread with him. The Old Testament source says David came alone; Jesus says he had companions.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Harmonizers read the \"alone\" of 1 Samuel as alone before the priest only: David's servants were waiting elsewhere and shared the bread.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The objection that the Gospels err — David came to Ahimelech alone, so others could not have eaten the showbread with him — is pressed by Isaac of Troki, and is even preserved in the commentary Gill wrote to answer it.",
+    "skeptic": {
+      "name": "Isaac of Troki",
+      "work": "Chizzuk Emunah (Faith Strengthened), Part 2, ch. 28",
+      "year": "1593",
+      "attribution": "Isaac ben Abraham of Troki (d. 1594), Chizzuk Emunah / Faith Strengthened, Part 2, ch. 28 (1593)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Matthew 12:3 and Mark 2:26",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact tension on the row, naming the \"he came alone to Ahimelech\" objection and answering it from 1 Sam 21:2 (servants left behind); Haley's coverage of this specific alone-vs-companions point is unconfirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page treats the specific alone-vs-companions tension; the gotquestions.org showbread page addresses only the lawfulness of David eating it, not whether he was alone, so no link is asserted."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "232#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Matthew 12:3",
+      "full_note_ref": "GILL/40/12/3",
+      "excerpt_text": "though in Sa1 21:1 he is said to be \"alone, and no man with him\"; yet this must be understood either comparatively, having but very few with him, and which were as none, considering his dignity; or thus, though none came with him to Ahimelech … so that though no man was with him at the priest's house, yet there were some with him, and who partook with him in eating of the showbread.",
+      "on_tension_rationale": "Directly resolves the alone-vs-companions tension: explains 1 Sam 21:1's \"alone\" as alone before the priest, while servants left behind shared the showbread.",
+      "source_note_text": "But he said unto them, have ye not read,.... If they had not read the Scriptures, they were very unfit persons either to be teachers, or censurers of others, and must have been very slothful and negligent; and if they had, they could not but have observed the case of David, which Christ produces in vindication of his disciples:\nwhat David did when he was an hungred; which was the case of the disciples, and is therefore mentioned; it being also the circumstance which could, and did excuse what was done by David and his men: and the Jews themselves own, that in case of hunger the showbread might be eaten, by those that were not priests; not only that which was removed from the table, but that which was upon it; yea, even when there was none to put in its room (l); and that David was in the utmost distress, and therefore desired it, and it was granted him on that account. They represent him as thus saying to the priest (m),\n\"when he found there was none but showbread, give it me, that we may not die with hunger; , \"for danger of life drives away the sabbath\";''\nwhich perfectly agrees with our Lord's argument, and justifies the apostles conduct: and this was not a single fact of David's, but of others also;\nand they that were with him; for though in Sa1 21:1 he is said to be \"alone, and no man with him\"; yet this must be understood either comparatively, having but very few with him, and which were as none, considering his dignity; or thus, though none came with him to Ahimelech, pretending to the priest he had a secret affair of the king's to transact; and therefore had left his servants in a certain place, and desires bread for himself and them; concerning whom the priest and he discourses, as may be seen in the place referred to: so that though no man was with him at the priest's house, yet there were some with him, and who partook with him in eating of the showbread.\n(l) R. David Kimchi in 1 Sam. xxi. 5. (m) Laniado Cli Jaker, fol. 227. 2."
+    }
+  ]
+}

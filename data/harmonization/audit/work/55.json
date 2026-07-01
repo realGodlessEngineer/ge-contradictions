@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 55,
+  "question": "How old was Terah when he died?",
+  "summary": "Genesis 11:32 states directly that Terah died in Haran at age 205. But Gen 11:26 says Terah was 70 when Abram was born, Gen 12:4 says Abram left Haran at 75, and Acts 7:4 says Abram only left after his father had died — which would put Terah's death at age 145, not 205.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders deny the premise that Abram was Terah's eldest: if he was born in Terah's 130th year, the 205-year lifespan and the age-75 departure both fit.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The objection was pressed in detail by the Karaite polemicist Isaac of Troki, who charged that Stephen erred, since on the plain Genesis figures Abram left Haran while Terah was still alive.",
+    "skeptic": {
+      "name": "Isaac ben Abraham of Troki",
+      "work": "Chizzuk Emunah (Faith Strengthened)",
+      "year": "1593",
+      "attribution": "Isaac ben Abraham of Troki (d. 1594), Chizzuk Emunah / Faith Strengthened (1593), Part 2"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats this exact Terah/Abraham chronology (Gen 11:26, 32; 12:4; Acts 7:4) directly under the harmonizing tradition."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Genesis_11.32.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Genesis 11:32 — Was Abraham 75 years old when he left Haran, or was he 135 years old?",
+        "note": "Live apologetic treatment that cites Acts 7:4 and argues Abram was Terah's youngest son."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "55#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Genesis 11:26",
+      "full_note_ref": "CLARKE/1/11/26",
+      "excerpt_text": "Terah died two hundred and five years old, Gen 11:32; then Abram departed from Haran when seventy-five years old, Gen 12:4; therefore Abram was born, not when his father Terah was seventy, but when he was one hundred and thirty.",
+      "on_tension_rationale": "Directly works the disputed arithmetic (205 - 75 = 130) to deny that Abram was born in Terah's 70th year, which is the premise the contradiction rests on; resolves Gen 11:26 / 11:32 / 12:4 / Acts 7:4 in one stroke.",
+      "source_note_text": "And Terah lived seventy years, and begat Abram, Nahor, and Haran - Haran was certainly the eldest son of Terah, and he appears to have been born when Terah was about seventy years of age, and his birth was followed in successive periods with those of Nahor his second, and Abram his youngest son. Many have been greatly puzzled with the account here, supposing because Abram is mentioned first, that therefore he was the eldest son of Terah: but he is only put first by way of dignity. An in stance of this we have already seen, Gen 5:32, where Noah is represented as having Shem, Ham, and Japheth in this order of succession; whereas it is evident from other scriptures that Shem was the youngest son, who for dignity is named first, as Abram is here; and Japheth the eldest, named last, as Haran is here. Terah died two hundred and five years old, Gen 11:32; then Abram departed from Haran when seventy-five years old, Gen 12:4; therefore Abram was born, not when his father Terah was seventy, but when he was one hundred and thirty.\nWhen any case of dignity or pre-eminence is to be marked, then even the youngest son is set before all the rest, though contrary to the usage of the Scriptures in other cases. Hence we find Shem, the youngest son of Noah, always mentioned first; Moses is mentioned before his elder brother Aaron; and Abram before his two elder brethren Haran and Nahor. These observations are sufficient to remove all difficulty from this place."
+    }
+  ]
+}

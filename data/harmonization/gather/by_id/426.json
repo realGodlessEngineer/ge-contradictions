@@ -1,0 +1,722 @@
+{
+  "contradiction_id": 426,
+  "question": "Did Jesus tell his apostles to go barefoot and without a staff?",
+  "summary": "Matthew 10:10 and Luke 9:3 / 10:4 record Jesus telling the disciples to take no staff and no shoes (sandals). Mark 6:8-9 records the opposite — \"save a staff only\" and \"be shod with sandals.\" The same scene, the same instruction, three Synoptic Gospels and two incompatible packing lists.",
+  "consensus": "genuine_contradiction",
+  "consensus_id": 1,
+  "category": "Jesus & the Gospels",
+  "contradiction_type": "compositional",
+  "testament_scope": "NT_internal",
+  "books_in_tension": "Matthew, Mark, Luke",
+  "refs_raw": [
+    "Matthew 10:10",
+    "Luke 9:3",
+    "Luke 10:4",
+    "Mark 6:8-9"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Matthew 10:10",
+      "book": "Matthew",
+      "bolls": 40,
+      "ranges": [
+        [
+          10,
+          10,
+          10
+        ]
+      ]
+    },
+    {
+      "raw": "Luke 9:3",
+      "book": "Luke",
+      "bolls": 42,
+      "ranges": [
+        [
+          9,
+          3,
+          3
+        ]
+      ]
+    },
+    {
+      "raw": "Luke 10:4",
+      "book": "Luke",
+      "bolls": 42,
+      "ranges": [
+        [
+          10,
+          4,
+          4
+        ]
+      ]
+    },
+    {
+      "raw": "Mark 6:8-9",
+      "book": "Mark",
+      "bolls": 41,
+      "ranges": [
+        [
+          6,
+          8,
+          9
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 66,
+  "notes_raw_count": 74,
+  "notes_dropped": 8,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Matthew 10:8",
+      "note_ref": "GILL/40/10/8",
+      "cites": [
+        "Matthew 10:10"
+      ],
+      "text": "Provide neither gold, nor silver, nor brass,.... That is, not any sort of \"money\", as both Mark and Luke express it: for money was then coined, as now, of these three sorts of metals, and which include all kind of money; so that they were not to provide, get, prepare, or take along with them for their journey, as not gold, nor silver, or any parcel of this sort of money, which might be of considerable importance, and lasting consequence to them; so neither brass money, as, halfpence, and farthings, the least, and most inconsiderable: they were forbidden to carry any of either sort\nin your purses: or, as it may be rendered, \"in\", or \"within your girdles\"; in which travellers, among the Jews, used to carry their money; and who, in their travelling dress, might not go into the temple, and are thus described (h);\n\"a man may not go into the mountain of the house with his staff, or with his shoes on, nor \"with his girdle\".''\nThe \"phunda\", Maimonides says (i), is an inner garment, wore to keep off sweat from other garments, to which were sewed hollow things like purses, in which a man put what he pleased; though other (k) interpreters say it is , \"a hollow girdle, in which they put their money\": and so the Romans (l) had used to do; and so do the Turks (m) to this day; to which practice the allusion is here.\n(h) Misn. Beracot, c. 9. sect. 5. (i) In ib. & Celim. c. 29. 1. & Sabbat, c. 10. 3. (k) Bartenora & Yom Tob in ib. Gloss in T. Bab. Beracot, fol. 62. 2. & in Sabbat. fol. 92. 1. & 113. 1. & 120. 1. & Nedarim, fol. 55. 2. (l) Gracchus apud A. Gell. Noct. Attic. 1. 15. c. 12. Sueton. in Vita Vitellii, c. 16. (m) Bobovius de Peregr. Meccan. p. 14."
+    },
+    {
+      "src": "GILL",
+      "ref": "Matthew 10:9",
+      "note_ref": "GILL/40/10/9",
+      "cites": [
+        "Matthew 10:10"
+      ],
+      "text": "Nor scrip for your journey,.... This the Jews call \"tarmil\": and which their commentators (n) say, is a large leathern bag, in which shepherds and travellers put their food, and other things, and carried with them, hanging it about their necks; so that the disciples were neither to carry money with them, nor any provisions for their journey:\nneither two coats; one to travel in, and another to put on, when they came to their quarters: they were not allowed change of raiment; either because superfluous, or too magnificent to appear in, or too troublesome to carry:\nnor shoes, only sandals, as Mark says; for there was a difference between shoes and sandals, as appears from the case of the plucking off the shoe, when a man refused his brother's wife (o): if the \"shoe\" was plucked off it was regarded; but if the \"sandal\", it was not minded: this was the old tradition, though custom went against it. Sandals were made of harder leather than shoes (p), and sometimes of wood covered with leather, and stuck with nails, to make them more durable (q); though sometimes of bulrushes, and bark of palm trees, and of cork (r), which were light to walk with.\n\"Says R. Bar bar Chanah (s), I saw R. Eleazar of Nineveh go out on a fast day of the congregation, , \"with a sandal of cork\".''\nOf what sort these were, the disciples were allowed to travel with, is not certain:\nnor yet with staves: that is, with more than one staff, which was sufficient to assist them, and lean upon in journeying: for, according to Mark, one was allowed; as though they might take a travelling staff, yet not staves for defence, or to fight with; see Mat 26:55. Now these several things were forbidden them, partly because they would be burdensome to them in travelling; and partly because they were not to be out any long time, but were quickly to return again; and chiefly to teach them to live and depend upon divine providence. Now, since they were to take neither money, nor provisions with them, and were also to preach the Gospel freely, they might reasonably ask how they should be provided for, and supported: when our Lord suggests, that they should not be anxiously concerned about that, he would take care that they had a suitable supply; and would so influence and dispose the minds of such, to whom they should minister, as that they should have all necessary provisions made for them, without any care or expense of their's:\nfor the workman is worthy of his meat; which seems to be a proverbial expression, and by which Christ intimates, that they were workmen, or labourers in his vineyard, and they, discharging their duty aright, were entitled to food and raiment, and all the necessaries of life: this to have, was their due; and it was but a piece of justice to give it to them, and on which they might depend. So that this whole context is so far from militating against a minister's maintenance by the people, that it most strongly establishes it; for if the apostles were not to take any money or provisions with them, to support themselves with, it clearly follows, that it was the will of Christ, that they should live by the Gospel, upon those to whom they preached, as the following words show: and though they were not to make gain of the Gospel, or preach it for filthy lucre's sake; yet they might expect a comfortable subsistence, at the charge of the people, to whom they ministered, and which was their duty to provide for them.\n(n) Maimon. & Bartenora in Misn. Sheviith, c. 2. sect. 8. & in Celim. c. 16. 4. & 24. 11. & Negaim. c. 11. sect. 11. (o) T. Hieros. Yebamot, fol. 12. 3. T. Bab. Yebamot, fol. 102. 1. & Menachot, fol. 32. 1. (p) Gloss. in T. Bab. Yebamot, fol. 101. 1. & Bartenora in Misn. Yebamot, c. 12. sect. 1. (q) Misn. Yebamot, c. 12. sect. 2. Maimon. Bartenora in Sabbat, c. 6. sect. 2. & Edayot, c. 2. sect. 8. (r) T. Bab. Yoma, fol. 78. 2. Gloss. in ib. Maimon. Hilch. Shebitat. Ashur, c. 3. sect. 7. (s) T. Bab. Yoma, fol. 78. 2. Juchasin, fol. 81. 1."
+    },
+    {
+      "src": "GILL",
+      "ref": "Matthew 10:10",
+      "note_ref": "GILL/40/10/10",
+      "cites": [
+        "Matthew 10:10"
+      ],
+      "text": "And into whatsoever city or town ye shall enter,.... As Christ had instructed them in what manner they were to travel, so he directs them where to go, and who to ask for, and take up their abode with, in the several towns and villages to which they should come; that as soon as they had entered any town or village, they should, in the first place,\ninquire, who in it is worthy; not of them, as the Arabic version reads, nor of the Gospel they preached, or of the grace of God, of which no man is worthy: and besides, who could answer to such a question when asked? Who in any town, or city, could tell who in it were worthy of Christ, of his Gospel, and ministers, to which they were all equally strangers before they came among them? Nor does it mean a man famous for piety and religion, or one that feared God, and was a worshipper of him, but an hospitable man; one that was very liberal; who was willing and ready to entertain strangers; for such a man they would want, having neither money nor food: and so the same word, in the Hebrew language, signifies \"to be worthy\", and \"to give alms\", because an eleemosynary man, or a man given to alms, was reckoned by the Jews a very worthy man: they thought giving of alms to be a matter of merit. Christ here speaks in the language of the masters of Israel; take an instance or two:\n\"saith R. Jona, blessed is the man that giveth to the poor; it is not written so, but \"blessed is he that considereth the poor\": he looks upon him, how he may , \"give alms to him\".''\nAnd a little after,\n\"\"God hath set one against the other\", that when evil comes to thy friend, thou mayest see how , \"to do thine alms to him\", and nourish him, so that thou mayest receive the gift of its reward.''\nAgain, so a man says to his neighbour, , \"give alms unto me\": and afterwards, in the same place, it is said, , \"give alms unto that woman\" (t). Now, it was such a worthy generous man, that was beneficent to the poor, and kind to strangers, that the apostles were to inquire out, wherever they came; and having found such a person, they were to continue with him:\nand there abide till ye go out; of that city or town, to another city or town: for to be often changing houses would bring upon them an ill character, as if they were difficult to be pleased, not content with the provision made for them; and would look as if they sought to serve their own bellies, and gratify their appetites, more than to do good to the souls of men; and besides, moving from the house of a bountiful man, might bring some reproach upon his character, as if he had not used them well, and therefore left him. In short, Christ's meaning is, that he would not have his disciples be difficult, and dainty, or fickle, and inconstant, but be content with such things they should have provided for them; and not seek for other, and better quarters, nor fear being troublesome where they were.\n(t) Vajikra Rabba, sect. 34. fol. 173. 3, 4. & 174. 4. Midrash Kohelet c. 11. 1. fol. 82. 2."
+    },
+    {
+      "src": "GILL",
+      "ref": "Matthew 10:11",
+      "note_ref": "GILL/40/10/11",
+      "cites": [
+        "Matthew 10:10"
+      ],
+      "text": "And when ye come into an house,.... Or the \"house\"; that is, the house of an hospitable man, when, upon inquiry, found out:\nsalute it; meaning the inhabitants of it; or, as the Persic version reads, those of the household, especially the master of the family. Some copies add, saying, peace be to this house, as in Luk 10:5 and so read the Vulgate Latin, and Munster's Hebrew Gospel; and is a very just, and proper explanation of saluting: for the usual form of salutation among the Jews was in such words; of which See Gill on Mat 5:47 by which is meant all kind of happiness, and prosperity, temporal, spiritual, and eternal."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 6:7",
+      "note_ref": "GILL/41/6/7",
+      "cites": [
+        "Mark 6:8-9"
+      ],
+      "text": "And he called unto him the twelve,.... \"His twelve disciples\", as some copies read; whom he had before called by his grace, and had appointed and ordained them his apostles, but had not yet publicly sent forth; in order to which, he now called them to him, and gave them their commission, qualifications, and instructions:\nand began to send them forth by two and two: he first sent forth one couple, and then another; the reason of his sending them by pairs, was partly for the sake of company, and that they might be useful and assisting to one another; and partly to show their agreement in doctrine; and that they might be proper and sufficient witnesses of it, whereby it might be established; and the rather, being thus sent by pairs into different parts, their message would be the sooner dispatched, than if they had all went together:\nand gave them power over unclean spirits; that is, to cast them out; as it is expressed in Mat_. 10:1; see Gill on Mat 10:1; and which is here added in the Syriac and Persic versions. Many things are omitted by this evangelist, which are mentioned by Matthew: he does not give us the names of the twelve apostles; the reason of that indeed may be, because they are related by him in Mar 3:16, and he did not choose to repeat them here: nor does he take any notice of the places where the apostles were to go, and where not; nor of the persons to whom, or not; as not into the way of the Gentiles, nor into any of the cities of the Samaritans, but to the lost sheep of the house of Israel: nor does he say any thing of the subject matter of their ministry or what they had in charge to publish; as that the kingdom of heaven is at hand, or the Gospel dispensation: nor does he observe the several things they were to do in confirmation of their doctrine and mission; as healing the sick, cleansing lepers, raising the dead, and casting out devils: he only relates the directions given them with respect to their journey, in the following verses; the reason of all which seems to be, because he refers not to the same time as Matthew does, to their appointment and ordination; but to the time they were sent out, and proceeded on their journey."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 6:8",
+      "note_ref": "GILL/41/6/8",
+      "cites": [
+        "Mark 6:8-9"
+      ],
+      "text": "And commanded them that they should take nothing for their journey,.... To accommodate them in it, except those things after directed to:\nsave a staff only; a single one, for staves in the plural number are forbidden; see Gill on Mat 10:10;\nno scrip, no bread, no money in their purse. Travellers used to put their bread, or any other sort of food into their scrips, and their money in their girdles; but the disciples were not allowed to carry either, because provision was to be made for them wherever they came at free cost, it being what their labour was worthy of; See Gill on Mat 10:9, Mat 10:10."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 6:9",
+      "note_ref": "GILL/41/6/9",
+      "cites": [
+        "Mark 6:8-9"
+      ],
+      "text": "But be shod with sandals,.... Which were different from shoes, and more fit to travel with, and therefore allowed when shoes were forbidden; See Gill on Mat 10:10, though some think there was no difference between shoes and sandals, and that Christ, in Mat 10:10, does not forbid the taking of shoes, but two pair of shoes; as not two coats, nor two staves, but one of a sort only. And\nnot put on two coats; that is, at a time; an inner and an outward one, or one at one time, and another at another: they were forbid change of raiment; the reasons for it See Gill on Mat 10:10. From all which it appears, that as a minister of the Gospel ought not to be a worldly minded man, that minds earth and earthly things, and seeks to amass wealth and riches to himself, and preaches for filthy lucre's sake; nor to be a sensual and voluptuous man, serving his own belly, and not the Lord Jesus Christ, feeding himself, and not the flock; so neither should he be filled with worldly cares, overwhelmed in worldly business, and entangled with the affairs of this life: he ought to have his mind free from all solicitude and anxious concern, about a subsistence for himself and his, that so he may with greater and more close application attend to his ministry, to preparations for it, and the performance of it; and give up himself entirely to the word and prayer, and not have his mind distracted with other things: upon which account it is highly necessary, that the people to whom he ministers should take care, that a sufficient provision be made for him; that he may live without any anxious care and thought about such things, and his mind be more intent about the work he is called unto: and which is what our Lord chiefly designs by all this, who has ordained that they that preach the Gospel, should be comfortably provided for, and live of it; and which, as it makes for the peace of their minds that minister, it issues in the advantage of those who are ministered to."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 6:10",
+      "note_ref": "GILL/41/6/10",
+      "cites": [
+        "Mark 6:8-9"
+      ],
+      "text": "And he said unto them,.... He continued giving orders and directions to them, saying,\nin what place soever you enter into an house, there abide till ye depart from that place: that is, in whatsoever city or town they should come to, the first house they went into, they should continue in, during their stay in that city or town, and not shift from house to house; See Gill on Mat 10:11."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 9:2",
+      "note_ref": "GILL/42/9/2",
+      "cites": [
+        "Luke 9:3"
+      ],
+      "text": "And he sent them to preach the kingdom of God,.... The Gospel, which gives an account of the kingdom of the Messiah; of his kingly office and power; of his church, which is his kingdom, and of the government of it, by the ministration of the word, and the administration of ordinances; of the kingdom of grace in the hearts of Christ's subjects, and the nature of it; and of the kingdom of glory, and what is the saints' meetness for it, and right unto it:\nand to heal the sick; of every disease of body, and thereby confirm their mission and commission from Christ, to preach the Gospel; and recommend it to men."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 9:3",
+      "note_ref": "GILL/42/9/3",
+      "cites": [
+        "Luke 9:3"
+      ],
+      "text": "And he said unto them, take nothing for your journey,.... Throughout the towns and cities of Judea, where they were sent to preach the Gospel:\nneither staves, The Vulgate Latin, and all the Oriental versions, read in the singular number, \"neither staff, rod, or club\"; and so it was in one of Beza's ancient copies, but in all the rest in the plural, as in Matthew; which last must be the true reading, since one staff was allowed, according as in Mar 6:8 though more than one were forbidden:\nnor scrip; or bag to put provision in; See Gill on Mat 10:10.\nNeither bread, neither money; gold, silver, or brass, to buy bread with; because they were to have it, wherever they came, given them, as their due, and the reward of their labour;\nneither have two coats apiece; the word \"apiece\" is left out in one copy, nor is it expressed in the Vulgate Latin and the eastern versions, which read as in Mat 10:10 though the word does aptly and clearly express the sense of the prohibition, which was not that they should not have two coats among them, but not two apiece; or each man should not have two, or have change of raiment; See Gill on Mat 10:10"
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 9:4",
+      "note_ref": "GILL/42/9/4",
+      "cites": [
+        "Luke 9:3"
+      ],
+      "text": "And whatsoever house ye enter into,.... In any town, or city, they should come to in their journey through Judea, and should enter into for the sake of lodging, during their stay:\nthere abide; do not shift quarters, or move from house to house:\nand thence depart; the house you come into first, go out of last, when ye leave the town or city. The Vulgate Latin and Persic versions read, and thence do not depart: and so Beza says it is read in a certain copy, but then the sense is the same, as the Ethiopic version renders it, \"do not go out from thence, until ye depart\"; that is, do not leave the house, till you depart out of the town or city; agreeably to which is the Arabic version, \"remain in it until the time of your going out\"; See Gill on Mat 10:11."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 9:5",
+      "note_ref": "GILL/42/9/5",
+      "cites": [
+        "Luke 9:3"
+      ],
+      "text": "And whosoever will not receive you,.... Unto their houses:\nwhen ye go out of the city; where lodging and entertainment are refused you;\nshake off the very dust from your feet, for a testimony against them; See Gill on Mat 10:14, Mar 6:11"
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 10:2",
+      "note_ref": "GILL/42/10/2",
+      "cites": [
+        "Luke 10:4"
+      ],
+      "text": "Therefore said he unto them,.... That is, the \"Lord Jesus\", as the Ethiopic version expresses it; he said to the seventy disciples, what he had before said to the twelve apostles in Mat 9:37 where are the same words as here:\nthe harvest truly is great, but the labourers are few, pray ye therefore the Lord of the harvest that he would send forth labourers into his harvest; for though there was such a number of disciples called to the ministerial work, and sent out, there was still need of more; so great was the harvest of souls, or number of hearers, that the labourers were yet but few; and therefore the Lord of the harvest and whose all souls are, was to be prayed unto to send forth more laborious preachers; See Gill on Mat 9:37. See Gill on Mat 9:38."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 10:3",
+      "note_ref": "GILL/42/10/3",
+      "cites": [
+        "Luke 10:4"
+      ],
+      "text": "Go your ways,.... Into all the villages, towns, cities, and places, where he directed them to go, to make ready for him.\nBehold, I send you forth as lambs among wolves; as harmless, innocent, profitable, and defenceless creatures, among spiteful, malicious, cunning, and cruel men; See Gill on Mat 10:16."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 10:4",
+      "note_ref": "GILL/42/10/4",
+      "cites": [
+        "Luke 10:4"
+      ],
+      "text": "Carry neither purse,.... The Syriac version reads, \"purses, \"to put money, gold, silver, and brass in; and the prohibition regards the money in the purse chiefly:\nnor scrip; the Syriac version here also reads in the plural number, \"scrips\", to put victuals in, provisions or any sort for their journey, which they were not to carry with them, any more than money, to buy food with\nNor shoes; any more than those they had upon their feet; See Gill on Mat 10:9, Mat 10:10 and salute no man by the way; that they might not be retarded, and hindered in their journey by tedious ceremonies, and long inquiries into the health of persons and friends, and the business they were going about, and places where; and by discourses and confabulations, drawn out to great length, as was often the case at meeting on the road: and, for the same reason, a like charge is given to Gehazi, Kg2 4:29, and which, as the Jewish commentators on the place observe (a), was, that he might not multiply words with persons he met with, and might not be stopped by the way; and that his intention might be in his work, and his mind might not turn to any other thing, either by word or deed. So our Lord's intention, by this order was, not to teach them incivility, or to be morose and uncourteous; but that they might dispatch their business with the utmost expedition, and rather forego some common civilities and ceremonies, than to neglect, or, in the least, to hinder a work of so much importance they were sent about: and this was the more necessary, since, according to the Jewish maxim (b),\n\"prevent every man with a salutation;''\nthey saluted all that they met, which took up time, and hindered business. Some sorts of persons indeed were excused, as those who were mourners (c) for the dead, and such as kept fasts for rain (d): but such were not these disciples; they neither mourned, nor fasted, nor could they, so long as the bridegroom was with them.\n(a) Jarchi, Kimchi, & R. Levi Ben Gersom in 2 Kings iv. 29. (b) Pirke Abot. c. 4. sect. 15. (c) T. Bab. in Misn. Moed Katon, c. 3. sect. 6. (d) Misn. Taanith, c. 1. sect. 7."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 10:5",
+      "note_ref": "GILL/42/10/5",
+      "cites": [
+        "Luke 10:4"
+      ],
+      "text": "And into whatsoever house ye enter,.... When ye come into any city, town, or village,\nfirst say, peace be to this house: salute the inhabitants in the usual form, saying, peace be to you; wishing them all happiness and prosperity, temporal, spiritual, and eternal. This shows our Lord did not disapprove of civil salutations."
+    },
+    {
+      "src": "JFB",
+      "ref": "Matthew 10:8",
+      "note_ref": "JFB/40/10/8",
+      "cites": [
+        "Matthew 10:10"
+      ],
+      "text": "Heal the sick, cleanse the lepers, raise the dead, cast out devils--(The italicizedd clause--\"raise the dead\"--is wanting in many manuscripts). Here we have the first communication of supernatural power by Christ Himself to His followers--thus anticipating the gifts of Pentecost. And right royally does He dispense it.\nfreely ye have received, freely give--Divine saying, divinely said! (Compare Deu 15:10-11; Act 3:6) --an apple of gold in a setting of silver (Pro 25:11). It reminds us of that other golden saying of our Lord, rescued from oblivion by Paul, \"It is more blessed to give than to receive\" (Act 20:35). Who can estimate what the world owes to such sayings, and with what beautiful foliage and rich fruit such seeds have covered, and will yet cover, this earth!"
+    },
+    {
+      "src": "JFB",
+      "ref": "Matthew 10:9",
+      "note_ref": "JFB/40/10/9",
+      "cites": [
+        "Matthew 10:10"
+      ],
+      "text": "Provide neither gold, nor silver, nor brass in your purses--\"for\" your purses; literally, \"your belts,\" in which they kept their money."
+    },
+    {
+      "src": "JFB",
+      "ref": "Matthew 10:10",
+      "note_ref": "JFB/40/10/10",
+      "cites": [
+        "Matthew 10:10"
+      ],
+      "text": "Nor scrip for your journey--the bag used by travellers for holding provisions.\nneither two coats--or tunics, worn next the skin. The meaning is, Take no change of dress, no additional articles.\nneither shoes--that is change of them.\nnor yet staves--The received text here has \"a staff,\" but our version follows another reading, \"staves,\" which is found in the received text of Luke (Luk 9:3). The true reading, however, evidently is \"a staff\"--meaning, that they were not to procure even that much expressly for this missionary journey, but to go with what they had. No doubt it was the misunderstanding of this that gave rise to the reading \"staves\" in so many manuscripts Even if this reading were genuine, it could not mean \"more than one\"; for who, as ALFORD well asks, would think of taking a spare staff?\nfor the workman is worthy of his meat--his \"food\" or \"maintenance\"; a principle which, being universally recognized in secular affairs, is here authoritatively applied to the services of the Lord's workmen, and by Paul repeatedly and touchingly employed in his appeals to the churches (Rom 15:27; Co1 9:11; Gal 6:6), and once as \"scripture\" (Ti1 5:18)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Matthew 10:11",
+      "note_ref": "JFB/40/10/11",
+      "cites": [
+        "Matthew 10:10"
+      ],
+      "text": "And into whatsoever city or town--town or village.\nye shall enter inquire--carefully.\nwho in it is worthy--or \"meet\" to entertain such messengers; not in point of rank, of course, but of congenial disposition.\nand there abide till ye go thence--not shifting about, as if discontented, but returning the welcome given with a courteous, contented, accommodating disposition."
+    },
+    {
+      "src": "JFB",
+      "ref": "Luke 10:2",
+      "note_ref": "JFB/42/10/2",
+      "cites": [
+        "Luke 10:4"
+      ],
+      "text": "The harvest, &c.--(See on Mat 9:37).\npray ye therefore the Lord of the harvest, that he would send forth labourers into his harvest--(See on Mat 9:38)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Luke 10:3",
+      "note_ref": "JFB/42/10/3",
+      "cites": [
+        "Luke 10:4"
+      ],
+      "text": "(See on Mat 10:7-16)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Mark 6:7",
+      "note_ref": "CLARKE/41/6/7",
+      "cites": [
+        "Mark 6:8-9"
+      ],
+      "text": "By two and two - That they might encourage and support each other; and to show that union among the ministers of the Gospel is essential to the promotion of the cause of truth. See on Luk 10:1 (note)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Mark 6:8",
+      "note_ref": "CLARKE/41/6/8",
+      "cites": [
+        "Mark 6:8-9"
+      ],
+      "text": "A staff only - It is likely he desired them to take only one with every two, merely for the purpose of carrying any part of their clothes on, when they should be obliged to strip them off by reason of the heat; for walking staves, or things of this kind, were forbidden, see Mat 10:10. But, probably, no more is designed than simply to state that they must not wait to make any provision for the journey, but go off just as they were, leaving the provision necessary in the present case to the care of Divine Providence. St. James is represented in ancient paintings, as carrying a gourd bottle on a Staff across his shoulder."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Mark 6:9",
+      "note_ref": "CLARKE/41/6/9",
+      "cites": [
+        "Mark 6:8-9"
+      ],
+      "text": "Shod with sandals - The sandal seems to have been similar to the Roman solea, which covered only the sole of the foot, and was fastened about the foot and ankle with straps. The sandal was originally a part of the woman's dress; ancient authors represent them as worn only by women. In Mat 10:10, the disciples are commanded to take no shoes, ὑποδηματα, which word is nearly of the same import with σανδαλια, sandals; but, as our Lord intimates to them that they should be free from all useless incumbrances, that they might fulfill his orders with the utmost diligence and despatch, so we may suppose that the sandal was a lighter kind of wear than the shoe: and indeed the word sandal, which is mere Chaldee, סנדל might be properly translated a light shoe; as it is compounded of סין sin, a shoe, (see Targum, Deu 25:9, Deu 25:10), and דל dal, thin, slender, or mean, as being made, not only lighter than the hypodema or shoe, but (probably) also of meaner materials. See many excellent observations on this subject in Martinius's Etymolog. Lexicon, under the word Sandalium."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Mark 6:11",
+      "note_ref": "CLARKE/41/6/11",
+      "cites": [
+        "Mark 6:8-9"
+      ],
+      "text": "And whosoever shall not receive you - Ὁς αν τοπος μη δεξηται, whatsoever Place will not receive you: this is the reading of BL, four others, and the later Syriac in the margin.\nVerily, etc. - All this clause is omitted in BCDL, two others, one Arabic, one Persic, Coptic, Armenian, Vulgate, and all the Itala but three. Mill and Beza approve of the omission, and Griesbach leaves it out of the text. It has probably been transferred here from Mat 10:15. See this subject, from Mar 6:7-11, explained at large on Mat 10:1-15 (note)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 9:1",
+      "note_ref": "CLARKE/42/9/1",
+      "cites": [
+        "Luke 9:3"
+      ],
+      "text": "Power and authority - Δυναμιν και εξουσιαν. The words properly mean here, the power to work miracles; and that authority by which the whole demoniac system was to be subjected to them. The reader will please to observe:\n1. That Luke mentions both demons and diseases; therefore he was either mistaken, or demons and diseases are not the same.\n2. The treatment of these two was not the same: - the demons were to be cast out, the diseases to be healed. See Mat 10:1."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 9:2",
+      "note_ref": "CLARKE/42/9/2",
+      "cites": [
+        "Luke 9:3"
+      ],
+      "text": "To preach the kingdom of God - For an explication of this phrase, see on Mat 3:1 (note)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 9:3",
+      "note_ref": "CLARKE/42/9/3",
+      "cites": [
+        "Luke 9:3"
+      ],
+      "text": "Take nothing - See on Mar 6:7, Mar 6:8 (note).\nNeither money - See on Mat 10:9 (note).\nNeither have two coats - Show that in all things ye are ambassadors for God; and go on his charges."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 9:4",
+      "note_ref": "CLARKE/42/9/4",
+      "cites": [
+        "Luke 9:3"
+      ],
+      "text": "There abide, and thence depart - That is, remain in that lodging till ye depart from that city. Some MSS. and versions add μη, which makes the following sense: There remain, and depart Not thence. See the note on Mat 10:11."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 10:2",
+      "note_ref": "CLARKE/42/10/2",
+      "cites": [
+        "Luke 10:4"
+      ],
+      "text": "That he would send forth - Εκβαλῃ. There seems to be an allusion here to the case of reapers, who, though the harvest was perfectly ripe, yet were in no hurry to cut it down. News of this is brought to the Lord of the harvest the farmer, and he is entreated to exert his authority, and hurry them out; and this he does because the harvest is spoiling for want of being reaped and gathered in. See the notes on Mat 9:37, Mat 9:38."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 10:3",
+      "note_ref": "CLARKE/42/10/3",
+      "cites": [
+        "Luke 10:4"
+      ],
+      "text": "Lambs among wolves - See on Mat 10:16 (note)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 10:4",
+      "note_ref": "CLARKE/42/10/4",
+      "cites": [
+        "Luke 10:4"
+      ],
+      "text": "Carry neither purse nor scrip - See on Mat 10:9 (note), etc., and Mar 6:8 (note), etc.\nSalute no man by the way - According to a canon of the Jews, a man who was about any sacred work was exempted from all civil obligations for the time; forasmuch as obedience to God was of infinitely greater consequence than the cultivation of private friendships, or the returning of civil compliments."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 10:5",
+      "note_ref": "CLARKE/42/10/5",
+      "cites": [
+        "Luke 10:4"
+      ],
+      "text": "Peace be to this house - See on Mat 10:12 (note)."
+    },
+    {
+      "src": "MHC",
+      "ref": "Matthew 10:5",
+      "note_ref": "MHC/40/10/5",
+      "cites": [
+        "Matthew 10:10"
+      ],
+      "text": "We have here the instructions that Christ gave to his disciples, when he gave them their commission. Whether this charge was given them in a continued discourse, or the several articles of it hinted to them at several times, is not material; in this he commanded them. Jacob's blessing his sons, is called his commanding them, and with these commands Christ commanded a blessing. Observe,\nI. The people to whom he sent them. These ambassadors are directed what places to go to.\n1. Not to the Gentiles nor the Samaritans. They must not go into the way of the Gentiles, nor into any road out of the land of Israel, whatever temptations they might have. The Gentiles must not have the gospel brought them, till the Jews have first refused it. As to the Samaritans, who were the posterity of the mongrel people that the king of Assyria planted about Samaria, their country lay between Judea and Galilee, so that they could not avoid going into the way of the Samaritans, but they must not enter into any of their cities. Christ had declined manifesting himself to the Gentiles or Samaritans, and therefore the apostles must not preach to them. If the gospel be hid from any place, Christ thereby hides himself from that place. This restraint was upon them only in their first mission, afterwards they were appointed to go into all the world, and teach all nations.\n2. But to the lost sheep of the house of Israel. To them Christ appropriated his own ministry (Mat 15:24), for he was a minister of the circumcision (Rom 15:8): and, therefore, to them the apostles, who were but his attendants and agents, must be confined. The first offer of salvation must be made to the Jews, Act 3:26. Note, Christ had a particular and very tender concern for the house of Israel; they were beloved for the fathers' sakes, Rom 11:28. He looked with compassion upon them as lost sheep, whom he, as a shepherd, was to gather out of the by-paths of sin and error, into which they were gone astray, and in which, if not brought back, they would wander endlessly; see Jer 2:6. The Gentiles also had been as lost sheep, Pe1 2:25. Christ gives this description of those to whom they were sent, to quicken them to diligence in their work, they were sent to the house of Israel (of which number they themselves lately were), whom they could not but pity, and be desirous to help.\nII. The preaching work which he appointed them. He did not send them forth without an errand; no, As ye go, preach, Mat 10:7. They were to be itinerant preachers: wherever they come they must proclaim the beginning of the gospel, saying, The kingdom of heaven is at hand. Not that they must say nothing else, but this must be their text; on this subject they must enlarge: let people know, that the kingdom of the Messiah, who is the Lord from heaven, is now to be set up according to the scriptures; from whence it follows, that men must repent of their sins and forsake them, that they might be admitted to the privileges of that kingdom. It is said (Mar 6:12), they went out, and preached that men should repent; which was the proper use and application of this doctrine, concerning the approach of the kingdom of heaven. They must, therefore, expect to hear more of this long-looked-for Messiah shortly, and must be ready to receive his doctrine, to believe in him, and to submit to his yoke. The preaching of this was like the morning light, to give notice of the approach of the rising sun. How unlike was this to the preaching of Jonah, which proclaimed ruin at hand! Jon 3:4. This proclaims salvation at hand, nigh them that fear God; mercy and truth meet together (Psa 85:9, Psa 85:10), that is, the kingdom of heaven at hand: not so much the personal presence of the king; that must not be doated upon; but a spiritual kingdom which is to be set up, when his bodily presence is removed, in the hearts of men.\nNow this was the same that John the Baptist and Christ had preached before. Note, People need to have good truths pressed again and again upon them, and if they be preached and heard with new affections, they are as if they were fresh to us. Christ, in the gospel, is the same yesterday, today, and for ever, Heb 13:8. Afterwards, indeed, when the Spirit was poured out, and the Christian church was formed, this kingdom of heaven came, which was now spoken of as at hand; but the kingdom of heaven must still be the subject of our preaching: now it is come, we must tell people it is come to them, and must lay before them the precepts and privileges of it; and there is a kingdom of glory yet to come, which we must speak of as at hand, and quicken people to diligence from the consideration of that.\nIII. The power he gave them to work miracles for the confirmation of their doctrine, Mat 10:8. When he sent them to preach the same doctrine that he had preached, he empowered them to confirm it, by the same divine seals, which could never be set to a lie. This is not necessary now the kingdom of God is come; to call for miracles now is to lay again the foundation when the building is reared. The point being settled, and the doctrine of Christ sufficiently attested, by the miracles which Christ and his apostles wrought, it is tempting God to ask for more signs. They are directed here,\n1. To use their power in doing good: not \"Go and remove mountains,\" or \"fetch fire from heaven,\" but, Heal the sick, cleanse the lepers. They are sent abroad as public blessings, to intimate to the world, that love and goodness were the spirit and genius of that gospel which they came to preach, and of that kingdom which they were employed to set up. By this it would appear, that they were the servants of that God who is good and does good, and whose mercy is over all his works; and that the intention of the doctrine they preached, was to heal sick souls, and to raise those that were dead in sin; and therefore, perhaps, that of raising the dead is mentioned; for though we read not of their raising any to life before the resurrection of Christ, yet they were instrumental to raise many to spiritual life.\n2. In doing good freely; Freely ye heave received, freely give. Those that had power to heal all diseases, had an opportunity to enrich themselves; who would not purchase such easy certain cures at any rate? Therefore they are cautioned not to make a gain of the power they had to work miracles: they must cure gratis, further to exemplify the nature and complexion of the gospel kingdom, which is made up, not only of grace, but of free grace. Gratia gratis data (Rom 3:24), freely by his grace, Buy medicines without money, and without price, Isa 55:1. And the reason is, because freely you have received. Their power to heal the sick cost them nothing, and, therefore, they must not make any secular advantage to themselves of it. Simon Magus would not have offered money for the gifts of the Holy Ghost, if he had not hoped to get money by them; Act 8:18. Note, The consideration of Christ's freeness in doing good to us, should make us free in doing good to others.\nIV. The provision that must be made for them in this expedition; it is a thing to be considered in sending an ambassador, who must bear the charge of the embassy. As to that,\n1. They must make no provision for it themselves, Mat 10:9, Mat 10:10. Provide neither gold nor silver. As, on the one hand, they shall not raise estates by their work, so, on the other hand, they shall not spend what little they have of their own upon it. This was confined to the present mission, and Christ would teach them, (1.) To act under the conduct of human prudence. They were now to make but a short excursion, and were soon to return to their Master, and to their head-quarters again, and, therefore, why should they burthen themselves with that which they would have no occasion for? (2.) To act in dependence upon Divine Providence. They must be taught to live, without taking thought for life, Mat 6:25, etc. Note, They who go upon Christ's errand, have, of all people, most reason to trust him for food convenient. Doubtless he will not be wanting to those that are working for him. Those whom he employs, as they are taken under special protection, so they are entitled to special provisions. Christ's hired servants shall have bread enough and to spare; while we abide faithful to God and our duty, and are in care to do our work well, we may cast all our other care upon God; Jehovah-jireh, let the Lord provide for us and ours as he thinks fit.\n2. They might expect that those to whom they were sent would provide for them what was necessary, Mat 10:10. The workman is worthy of his meat. They must not expect to be fed by miracles, as Elijah was: but they might depend upon God to incline the hearts of those they went among, to be kind to them, and provide for them. Though they who serve at the altar may not expect to grow rich by the altar, yet they may expect to live, and to live comfortably upon it, Co1 9:13, Co1 9:14. It is fit they should have their maintenance from their work. Ministers are, and must be, workmen, labourers, and they that are so are worthy of their meat, so as not to be forced to any other labour for the earning of it. Christ would have his disciples, as not to distrust their God, so not to distrust their countrymen, so far as to doubt of a comfortable subsistence among them. If you preach to them, and endeavour to do good among them, surely they will give you meat and drink enough for your necessities: and if they do, never desire dainties; God will pay you your wages hereafter, and it will be running on in the mean time.\nV. The proceedings they were to observe in dealing with any place, Mat 10:11-15. They went abroad they knew not whither, uninvited, unexpected, knowing none, and known of none; the land of their nativity was to them a strange land; what rule must they go by? what course must they take? Christ would not send them out without full instructions, and here they are.\n1. They are here directed how to conduct themselves toward those that were strangers to them; How to do,\n(1.) In strange towns and cities: when you come to a town, enquire who in it is worthy. [1.] It is supposed that there were some such in every place, as were better disposed than others to receive the gospel, and the preachers of it; though it was a time of general corruption and apostasy. Note, In the worst of times and places, we may charitably hope that there are some who distinguish themselves, and are better than their neighbours; some who swim against the stream, and are as wheat among the chaff. There were saints in Nero's household. Enquire who is worthy, who there are that have some fear of God before their eyes, and have made a good improvement of the light and knowledge they have. The best are far from meriting the favour of a gospel offer; but some would be more likely than others to give the apostles and their message a favourable entertainment, and would not trample these pearls under their feet. Note, Previous dispositions to that which is good, are both directions and encouragements to ministers, in dealing with people. There is most hope of the word being profitable to those who are already so well inclined, as that it is acceptable to them; and there is here and there one such. [2.] They must enquire out such; not enquire for the best inns; public houses were no proper places for them that neither took money with them (Mat 10:9), nor expected to receive any (Mat 10:8); but they must look out for accommodations in private houses, with those that would entertain them well, and expect no other recompence for it but a prophet's reward, an apostle's reward, their praying and preaching. Note, They that entertain the gospel, must neither grudge the expense of it, nor promise themselves to get by it in this world. They must enquire, not who is rich, but who is worthy; not who is the best gentleman, but who is the best man. Note, Christ's disciples, wherever they come, should ask for the good people of the place, and be acquainted with them; when we took God for our God, we took his people for our people, and like will rejoice in its like. Paul in all his travels found out the brethren, if there were any, Act 28:14. It is implied, that if they did enquire who was worthy, they might discover them. They that were better than their neighbours would be taken notice of, and any one could tell them, there lives an honest, sober, good man; for this is a character which, like the ointment of the right hand, betrays itself and fills the house with its odours. Every body knew where the seer's house was, Sa1 9:18. [3.] In the house of those they found worthy, they must continue; which intimates that they were to make so short a stay at each town, that they needed not change their lodging, but whatever house providence brought them to at first, there they must continue till they left that town. They are justly suspected, as having no good design, that are often changing their quarters. Note, It becomes the disciples of Christ to make the best of that which is, to abide by it, and not be for shifting upon every dislike or inconvenience.\n(2.) In strange houses. When they had found the house of one they thought worthy, they must at their entrance salute it. \"In those common civilities, be beforehand with people, in token of your humility. Think it not a disparagement, to invite yourselves into a house, nor stand upon the punctilio of being invited. Salute the family, [1.] To draw on further discourse, and so to introduce your message.\" (From matters of common conversation, we may insensibly pass into that communication which is good to the use of edifying.) [2.] \"To try whether you are welcome or not; you will take notice whether the salutation be received with shyness and coldness, or with a ready return. He that will not receive your salutation kindly, will not receive your message kindly; for he that is unskilful and unfaithful in a little, will also be in much, Luk 16:10. [3.] To insinuate yourselves into their good opinion. Salute the family, that they may see that though you are serious, you are not morose.\" Note, Religion teaches us to be courteous and civil, and obliging to all with whom we have to do. Though the apostles went out backed with the authority of the Son of God himself, yet their instructions were, when they came into a house, not to command it, but to salute it; for love's sake rather to beseech, is the evangelical way, Plm 1:8, Plm 1:9. Souls are first drawn to Christ with the cords of a man, and kept to him by the bands of love, Hos 11:4. When Peter made the first offer of the gospel to Cornelius, a Gentile, Peter was first saluted; see Act 10:25, for the Gentiles courted that which the Jews were courted to.\nWhen they had saluted the family after a godly sort, they must by the return, judge concerning the family, and proceed accordingly. Note, The eye of God is upon us, to observe what entertainment we give to good people and good ministers; if the house be worthy, let your peace come and rest upon it; if not, let it return to you, Mat 10:13. It seems then, that after they had enquired for the most worthy (Mat 10:11), it was possible they might light upon those that were unworthy. Note, Though it is wisdom to hearken to, yet it is folly to rely upon, common report and opinion; we ought to use a judgment of discretion, and to see with our own eyes. The wisdom of the prudent is himself to understand his own way. Now this rule is intended,\nFirst, For satisfaction to the apostles. The common salutation was, Peace be unto you; this, as they used it, was turned into gospel; it was the peace of God, the peace of the kingdom of heaven, that they wished. Now lest they should make a scruple of pronouncing this blessing upon all promiscuously, because many were utterly unworthy of it, this is to clear them of that scruple; Christ tells them that this gospel prayer (for so it was now become) should be put up for all, as the gospel proffer was made to all indefinitely, and that they should leave it to God who knows the heart, and every man's true character, to determine the issue of it. If the house be worthy, it will reap the benefit of your blessing; if now, there is no harm done, you will not lose the benefit of it; it shall return to you, as David's prayers for his ungrateful enemies did, Psa 35:13. Note, It becomes us to judge charitably of all, to pray heartily for all, and to conduct ourselves courteously to all, for that is our part, and then to leave it with God to determine what effect it shall have upon them, for that is his part.\nSecondly, For direction to them. \"If, upon your salutation, it appear that they are indeed worthy, let them have more of your company, and so let your peace come upon them; preach the gospel to them, peace by Jesus Christ; but if otherwise, if they carry it rudely to you, and shut their doors against you, let your peace, as much as in you lies, return to you. Retract what you have said, and turn your backs upon them; by slighting this, they have made themselves unworthy of the rest of your favours, and cut themselves short of them.\" Note, Great blessings are often lost by a neglect seemingly small and inconsiderable, when men are in their probation and upon their behaviour. Thus Esau lost his birthright (Gen 25:34), and Saul his kingdom, Sa1 13:13, Sa1 13:14.\n2. They are here directed how to carry it towards those that were refusers of them. The case is put (Mat 10:14) of those that would not receive them, nor hear their words. The apostles might think, that now they had such a doctrine to preach, and such a power to work miracles for the confirmation of it, no doubt but they should be universally entertained and made welcome: they are, therefore, told before, that there would be those that would slight them, and put contempt on them and their message. Note, The best and most powerful preachers of the gospel must expect to meet with some, that will not so much as give them the hearing, nor show them any token of respect. Many turn a deaf ear, even to the joyful sound, and will not hearken to the voice of the charmers, charm they never so wisely. Observe, \"They will not receive you, and they will not hear your words.\" Note, Contempt of the gospel, and contempt of gospel ministers, commonly go together, and they will either of them be construed into a contempt of Christ, and will be reckoned for accordingly.\nNow in this case we have here,\n(1.) The directions given to the apostles what to do. They must depart out of that house or city. Note, The gospel will not tarry long with those that put it away from them. At their departure they must shake off the dust of their feet, [1.] In detestation of their wickedness; it was so abominable, that it did even pollute the ground they went upon, which must therefore be shaken off as a filthy thing. The apostles must have no fellowship nor communion with them; must not so much as carry away the dust of their city with them. The work of them that turn aside shall not cleave to me, Psa 101:3. The prophet was not to eat or drink in Bethel, Kg1 13:9. [2.] As a denunciation of wrath against them. It was to signify, that they were base and vile as dust, and that God would shake them off. The dust of the apostles' feet, which they left behind them, would witness against them, and be brought in as evidence, that the gospel had been preached to them, Mar 6:11. Compare Jam 5:3. See this practised, Act 13:51, Act 18:6. Note, They who despise God and his gospel shall be lightly esteemed.\n(2.) The doom passed upon such wilful recusants, Mat 10:15. It shall be more tolerable, in the day of judgment, for the land of Sodom, as wicked a place as it was. Note, [1.] There is a day of judgment coming, when all those that refused the gospel will certainly be called to account for it; however they now make a jest of it. They that would not hear the doctrine that would save them, shall be made to hear the sentence that will ruin them. Their judgment is respited till that day. [2.] There are different degrees of punishment in that day. All the pains of hell will be intolerable; but some will be more so than others. Some sinners sink deeper into hell than others, and are beaten with more stripes. [3.] The condemnation of those that reject the gospel, will in that day be severer and heavier than that of Sodom and Gomorrah. Sodom is said to suffer the vengeance of eternal fire, Jde 1:7. But that vengeance will come with an aggravation upon those that despise the great salvation. Sodom and Gomorrah were exceedingly wicked (Gen 13:13), and that which filled up the measure of their iniquity was, that they received not the angels that were sent to them, but abused them (Gen 19:4, Gen 19:5), and hearkened not to their words, Mat 10:14. And yet it will be more tolerable for them than for those who receive not Christ's ministers and hearken not to their words. God's wrath against them will be more flaming, and their own reflections upon themselves more cutting. Son, remember I will sound most dreadfully in the ears of such as had a fair offer made them of eternal life, and chose death rather. The iniquity of Israel, when God sent them his servants the prophets, is represented as, upon that account, more heinous than the iniquity of Sodom (Eze 16:48, Eze 16:49), much more now he sent them his Son, the great Prophet.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Mark 6:7",
+      "note_ref": "MHC/41/6/7",
+      "cites": [
+        "Mark 6:8-9"
+      ],
+      "text": "Here is, I. The commission given to the twelve apostles, to preach and work miracles; it is the same which we had more largely, Mt. 10. Mark doth not name them here, as Matthew doth, because he had named them before, when they were first called into fellowship with him, Mar 3:16-19. Hitherto they had been conversant with Christ, and had set at his feet, had heard his doctrine, and seen his miracles; and now he determines to make some use of them; they had received, that they might give, had learned, that they might teach; and therefore now he began to send them forth. They must not always be studying in the academy, to get knowledge, but they must preach in the country, to do good with the knowledge they have got. Though they were not as yet so well accomplished as they were to be, yet, according to their present ability and capacity, they must be set to work, and make further improvements afterward. Now observe here,\n1. That Christ sent them forth by two and two; this Mark takes notice of. They went two and two to a place, that out of the mouth of two witnesses every word might be established; and that they might be company for one another when they were among strangers, and might strengthen the hands, and encourage the hearts, one of another; might help one another if any thing should be amiss, and keep one another in countenance. Every common soldier has his comrade; and it is an approved maxim, Two are better than one. Christ would thus teach his ministers to associate, and both lend and borrow help.\n2. That he gave them power over unclean spirits. He commissioned them to attack the devil's kingdom, and empowered them, as a specimen of their breaking his interest in the souls of men by their doctrine, to cast him out of the bodies of those that were possessed. Dr. Lightfoot suggests, that they cured diseases, and cast out devils, by the Spirit, but preached that only which they had learned from the mouth of Christ.\n3. That he commanded them not to take provisions along with them, neither victuals nor money, that they might appear, wherever they came, to be poor men, men not of this world, and therefore might with the better grace call people off from it to another world. When afterward he bid them take purse and scrip (Luk 22:36), that did not intimate (as Dr. Lightfoot observes) that his care of them was abated from what it had been; but that they should meet with worse times and worse entertainment than they met with at their first mission. In Matthew and Luke they are forbidden to take staves with them, that is, fighting staves; but here in Mark they are bid to take nothing save a staff only, that is, a walking staff, such as pilgrims carried. They must not put on shoes, but sandals only, which were only the soles of shoes tied under their feet, or like pumps, or slippers; they must go in the readiest plainest dress they could, and must not so much as have two coats; for their stay abroad would be short, they must return before winter, and what they wanted, those they preached to would cheerfully accommodate them with.\n4. He directed them, whatever city they came to, to make that house their head-quarters, which happened to be their first quarters (Mar 6:10); \"There abide, till ye depart from that place. And since ye know ye come on an errand sufficient to make you welcome, have such charity for your friends that first invited you, as to believe they do not think you burthensome.\"\n5. He pronounces a very heavy doom upon those that rejected the gospel they preached (Mar 6:11); \"Whosoever shall not receive you, or will not so much as hear you, depart thence (if one will not, another will), and shake off the dust under your feet, for a testimony against them. Let them know that they have had a fair offer of life and happiness made them, witness that dust; but that, since they have refused it, they cannot expect ever to have another; let them take up with their own dust, for so shall their doom be.\" That dust, like the dust of Egypt (Exo 9:9), shall turn into a plague to them; and their condemnation in the great day, will be more intolerable than that of Sodom: for the angels were sent to Sodom, and were abused there; yet that would not bring on so great a guilt and so great a ruin as the contempt and abuse of the apostles of Christ, who bring with them the offers of gospel grace.\nII. The apostles' conduct in pursuance of their commission. Though they were conscious to themselves of great weakness, and expected no secular advantage by it, yet, in obedience to their Master's order, and in dependence upon his strength, they went out as Abraham, not knowing whither they went. Observe here,\n1. The doctrine they preached; They preached that men should repent (Mar 6:12); that they should change their minds, and reform their lives, in consideration of the near approach of the kingdom of the Messiah. Note, The great design of the gospel preachers, and the great tendency of gospel preaching, should be, to bring people to repentance, to a new heart and a new way. They did not amuse people with curious speculations, but told them that they must repent of their sins, and turn to God.\n2. The miracles they wrought. The power Christ gave them over unclean spirits, was not ineffectual, nor did they receive it in vain, but used it, for they cast out many devils (Mar 6:13); and they anointed with oil many that were sick, and healed them. Some think this oil was used medicinally, according to the custom of the Jews; but I rather think it was used as a sign of miraculous healing, by the appointment of Christ, though not mentioned; and it was afterward used by those elders of the church, to whom by the Spirit was given the gift of healing, Jam 5:14. It is certain here, and therefore probable there, that anointing the sick with oil, is appropriated to that extraordinary power which has long ceased, and therefore that sign must cease with it."
+    },
+    {
+      "src": "MHC",
+      "ref": "Luke 9:1",
+      "note_ref": "MHC/42/9/1",
+      "cites": [
+        "Luke 9:3"
+      ],
+      "text": "We have here, I. The method Christ took to spread his gospel, to diffuse and enforce the light of it. He had himself travelled about, preaching and healing; but he could be only in one place at a time, and therefore now he sent his twelve disciples abroad, who by this time were pretty well instructed in the nature of the present dispensation, and able to instruct others and deliver to them what they had received from the Lord. Let them disperse themselves, some one way and some another, to preach the kingdom of God, as it was now about to be set up by the Messiah, to make people acquainted with the spiritual nature and tendency of it, and to persuade them to come into the interests and measures of it. For the confirming of their doctrine, because it was new and surprising, and very different from what they had been taught by the scribes and Pharisees, and because so much depended upon men's receiving, or not receiving it, he empowered them to work miracles (Luk 9:1, Luk 9:2): He gave them authority over all devils, to dispossess them, and cast them out, though ever so numerous, so subtle, so fierce, so obstinate. Christ designed a total rout and ruin to the kingdom of darkness, and therefore gave them power over all devils. He authorized and appointed them likewise to cure disease, and to heal the sick, which would make them welcome wherever they came, and not only convince people's judgments, but gain their affections. This was their commission. Now observe,\n1. What Christ directed them to do, in prosecution of this commission at this time, when they were not to go far or be out long. (1.) They must not be solicitous to recommend themselves to people's esteem by their outward appearance. Now that they begin to set up for themselves, they must have no dress, nor study to make any other figure than what they made while they followed him: they must go as they were, and not change their clothes, or so much as put on a pair of new shoes. (2.) They must depend upon Providence, and the kindness of their friends, to furnish them with what was convenient for them. They must not take with them either bread or money, and yet believe they should not want. Christ would not have his disciples shy of receiving the kindnesses of their friends, but rather to expect them. Yet St. Paul saw cause not to go by this rule, when he laboured with his hands rather than be burdensome. (3.) They must not change their lodgings, as suspecting that those who entertained them were weary of them; they have no reason to be so, for the ark is a guest that always pays well for its entertainment: \"Whatsoever house ye enter into there abide (Luk 9:4), that people may know where to find you, that your friends may know you are not backward to serve them, and your enemies may know you are not ashamed nor afraid to face them; there abide till you depart out of that city; stay with those you are used to.\" (4.) They must put on authority, and speak warning to those who refused them as well as comfort to those that received them, Luk 9:5. \"If there be any place that will not entertain you, if the magistrates deny you admission and threaten to treat you as vagrants, leave them, do not force yourselves upon them, nor run yourselves into danger among them, but at the same time bind them over to the judgment of God for it; shake off the dust of your feet for a testimony against them.\" This will, as it were, be produced in evidence against them, that the messengers of the gospel had been among them, to make them a fair offer of grace and peace, for this dust they left behind there; so that when they perish at last in their infidelity this will lay and leave their blood upon their own heads. Shake off the dust of your feet, as much as to say you abandon their city, and will have no more to do with them.\n2. What they did, in prosecution of this commission (Luk 9:6): They departed from their Master's presence; yet, having still his spiritual presence with them, his eye and his arm going along with them, and, thus borne up in their work, they went through the towns, some or other of them, all the towns within the circuit appointed them, preaching the gospel, and healing every where. Their work was the same with their Master's, doing good both to souls and bodies.\nII. We have here Herod's perplexity and vexation at this. The communicating of Christ's power to those who were sent forth in his name, and acted by authority from him, was an amazing and convincing proof of his being the Messiah, above any thing else; that he could not only work miracles himself, but empower others to work miracles too, this spread his fame more than any thing, and made the rays of this Sun of righteousness the stronger by the reflection of them even from the earth, from such mean illiterate men as the apostles were, who had nothing else to recommend them, or to raise any expectations from them, but that they had been with Jesus, Act 4:13. When the country sees such as these healing the sick in the name of Jesus it gives it an alarm. Now observe,\n1. The various speculations it raised among the people, who, though they thought not rightly, yet could not but think honourably, of our Lord Jesus, and that he was an extraordinary person, one come from the other world; that either John Baptist, who was lately persecuted and slain for the cause of God, or one of the old prophets, that had been persecuted and slain long since in that cause, was risen again, to be recompensed for his sufferings by this honour put upon him; or that Elias, who was taken alive to heaven in a fiery chariot, had appeared as an express from heaven, Luk 9:7, Luk 9:8.\n2. The great perplexity it created in the mind of Herod: When he had heard of all that was done by Christ, his guilty conscience flew in his face, and he was ready to conclude with them that John was risen from the dead. He thought he had got clear of John, and should never be troubled with him any more, but, it seems, he is mistaken; either John is come to life again or here is another in his spirit and power, for God will never leave himself without witness. \"What shall I do now?\" saith Herod. \"John have I beheaded, but who is this? Is he carrying on John's work, or is he come to avenge John's death? John baptized, but he does not; John did no miracle, but he does, and therefore appears more formidable than John.\" Note, Those who oppose God will find themselves more and more embarrassed. However, he desired to see him, whether he resembled John or no; but he might soon have been put out of this pain if he would but have informed himself of that which thousands knew, that Jesus preached, and wrought miracles, a great while before John was beheaded, and therefore could not be John raised from the dead. He desired to see him; and why did he not go and see him? Probably, because he thought it below him either to go to him or to send for him; he had enough of John Baptist, and cared not for having to do with any more such reprovers of sin. He desired to see him, but we do not find that ever he did, till he saw him at his bar, and then he and his men of war set him at nought, Luk 23:11. Had he prosecuted his convictions now, and gone to see him, who knows but a happy change might have ben wrought in him? But, delaying it now, his heart was hardened, and when he did see him he was as much prejudiced against him as any other."
+    },
+    {
+      "src": "MHC",
+      "ref": "Luke 10:1",
+      "note_ref": "MHC/42/10/1",
+      "cites": [
+        "Luke 10:4"
+      ],
+      "text": "We have here the sending forth of seventy disciples, two and two, into divers parts of the country, to preach the gospel, and to work miracles in those places which Christ himself designed to visit, to make way for his entertainment. This is not taken notice of by the other evangelists: but the instructions here given them are much the same with those given to the twelve. Observe,\nI. Their number: they were seventy. As in the choice of twelve apostles Christ had an eye to the twelve patriarchs, the twelve tribes, and the twelve princes of those tribes, so here he seems to have an eye to the seventy elders of Israel. So many went up with Moses and Aaron to the mount, and saw the glory of the God of Israel (Exo 24:1, Exo 24:9), and so many were afterwards chosen to assist Moses in the government, in order to which the Spirit of prophecy came unto them, Num 11:24, Num 11:25. The twelve wells of water and the seventy palm-trees that were at Elim were a figure of the twelve apostles and the seventy disciples, Exo 15:27. They were seventy elders of the Jews that were employed by Ptolemy king of Egypt in turning the Old Testament into Greek, whose translation is thence called the Septuagint. The great sanhedrim consisted of this number. Now,\n1. We are glad to find that Christ had so many followers fit to be sent forth; his labour was not altogether in vain, though he met with much opposition. Note, Christ's interest is a growing interest, and his followers, like Israel in Egypt, though afflicted shall multiply. These seventy, though they did not attend him so closely and constantly as the twelve did, were nevertheless the constant hearers of his doctrine, and witnesses of his miracles, and believed in him. Those three mentioned in the close of the foregoing chapter might have been of these seventy, if they would have applied themselves in good earnest to their business. These seventy are those of whom Peter speaks as \"the men who companied with us all the time that the Lord Jesus went in and out among us,\" and were part of the one hundred and twenty there spoken of, Act 1:15, Act 1:21. Many of those that were the companions of the apostles, whom we read of in the Acts and the Epistles, we may suppose, were of these seventy disciples.\n2. We are glad to find there was work for so many ministers, hearers for so many preachers: thus the grain of mustard-seed began to grow, and the savour of the leaven to diffuse itself in the meal, in order to the leavening of the whole.\nII. Their work and business: He sent them two and two, that they might strengthen and encourage one another. If one fall, the other will help to raise him up. He sent them, not to all the cities of Israel, as he did the twelve, but only to every city and place whither he himself would come (Luk 10:1), as his harbingers; and we must suppose, though it is not recorded, that Christ soon after went to all those places whither he now sent them, though he could stay but a little while in a place. Two things they were ordered to do, the same that Christ did wherever he came: - 1. They must heal the sick (Luk 10:9), heal them in the name of Jesus, which would make people long to see this Jesus, and ready to entertain him whose name was so powerful. 2. They must publish the approach of the kingdom of God, its approach to them: \"Tell them this, The kingdom of God is come nigh to you, and you now stand fair for an admission into it, if you will but look about you. Now is the day of your visitation, know and understand it.\" It is good to be made sensible of our advantages and opportunities, that we may lay hold of them. When the kingdom of God comes nigh us, it concerns us to go forth to meet it.\nIII. The instructions he gives them.\n1. They must set out with prayer (Luk 10:2); and, in prayer, (1.) They must be duly affected with the necessities of the souls of men, which called for their help. They must look about, and see how great the harvest was, what abundance of people there were that wanted to have the gospel preached to them and were willing to receive it, nay, that had at this time their expectations raised of the coming of the Messiah and of his kingdom. There was corn ready to shed and be lost for want of hands to gather it in. Note, Ministers should apply themselves to their work under a deep concern for precious souls, looking upon them as the riches of this world, which ought to be secured for Christ. They must likewise be concerned that the labourers were so few. The Jewish teachers were indeed many, but they were not labourers; they did not gather in souls to God's kingdom, but to their own interest and party. Note, Those that are good ministers themselves wish that there were more good ministers, for there is work for more. It is common for tradesmen not to care how few there are of their own trade; but Christ would have the labourers in his vineyard reckon it a matter of complaint when the labourers are few. (2.) They must earnestly desire to receive their mission from God, that he would send them forth as labourers into his harvest who is the Lord of the harvest, and that he would send others forth; for, if God send them forth, they may hope he will go along with them and give them success. Let them therefore say, as the prophet (Isa 6:8), Here I am, send me. It is desirable to receive our commission from God, and then we may go on boldly.\n2. They must set out with an expectation of trouble and persecution: \"Behold, I send you forth as lambs among wolves; but go your ways, and resolve to make the best of it. Your enemies will be as wolves, bloody and cruel, and ready to pull you to pieces; in their threatenings and revilings, they will be as howling wolves to terrify you; in their persecutions of you, they will be as ravening wolves to tear you. But you must be as lambs, peaceable and patient, though made an easy prey of.\" It would have been very hard thus to be sent forth as sheep among wolves, if he had not endued them with his spirit and courage.\n3. They must not encumber themselves with a load of provisions, as if they were going a long voyage, but depend upon God and their friends to provide what was convenient for them: \"Carry neither a purse for money, nor a scrip or knapsack for clothes or victuals, nor new shoes (as before to the twelve, Luk 9:3); and salute no man by the way.\" This command Elisha gave to his servant, when he sent him to see the Shunamite's dead child, Kg2 4:29. Not that Christ would have his ministers to be rude, morose, and unmannerly; but, (1.) They must go as men in haste, that had their particular places assigned them, where they must deliver their message, and in their way directly to those places must not hinder or retard themselves with needless ceremonies or compliments. (2.) They must go as men of business, business that relates to another world, which they must be intent in, and intent upon, and therefore must not entangle themselves with conversation about secular affairs. Minister verbi est; hoc age - You are a minister of the word; attend to your office. (3.) They must go as serious men, and men in sorrow. It was the custom of mourners, during the first seven days of their mourning, not to salute any, Job 2:13. Christ was a man of sorrows and acquainted with grief; and it was fit that by this and other signs his messengers should resemble him, and likewise show themselves affected with the calamities of mankind which they came to relieve, and touched with a feeling of them.\n4. They must show, not only their goodwill, but God's good-will, to all to whom they came, and leave the issue and success to him that knows the heart, Luk 10:5, Luk 10:6.\n(1.) The charge given them was, Whatsoever house they entered into, they must say, Peace be to this house. Here, [1.] They are supposed to enter into private houses; for, being not admitted into the synagogues, they were forced to preach where they could have liberty. And, as their public preaching was driven into houses, so thither they carried it. Like their Master, wherever they visited, they preached from house to house, Act 5:42; Act 20:20. Christ's church was at first very much a church in the house. [2.] They are instructed to say, \"Peace be to this house, to all under this roof, to this family, and to all that belong to it.\" Peace be to you was the common form of salutation among the Jews. They must not use it in formality, according to custom, to those they met on the way, because they must use it with solemnity to those whose houses they entered into: \"Salute no man by the way in compliment, but to those into whose house ye enter, say, Peace be to you, with seriousness and in reality; for this is intended to be more than a compliment.\" Christ's ministers go into all the world, to say, in Christ's name, Peace be to you. First, We are to propose peace to all, to preach peace by Jesus Christ, to proclaim the gospel of peace, the covenant of peace, peace on earth, and to invite the children of men to come and take the benefit of it. Secondly, We are to pray for peace to all. We must earnestly desire the salvation of the souls of those we preach to, and offer up those desires to God in prayer; and it may be well to let them know that we do thus pray for them, and bless them in the name of the Lord.\n(2.) The success was to be different, according to the different dispositions of those whom they preached to and prayed for. According as the inhabitants were sons of peace or not, so their peace should or should not rest upon the house. Recipitur ad modum recipientis - The quality of the receiver determines the nature of the reception. [1.] \"You will meet with some that are the sons of peace, that by the operations of divine grace, pursuant to the designations of the divine counsel, are ready to admit the word of the gospel in the light and love of it, and have their hearts made as soft wax to receive the impressions of it. Those are qualified to receive the comforts of the gospel in whom there is a good work of grace wrought. And, as to those, your peace shall find them out and rest upon them; your prayers for them shall be heard, the promises of the gospel shall be confirmed to them, the privileges of it conferred on them, and the fruit of both shall remain and continue with them - a good part that shall not be taken away.\" [2.] \"You will meet with others that are no ways disposed to hear or heed your message, whole houses that have not one son of peace in them.\" Now it is certain that our peace shall not come upon them, they have no part nor lot in the matter; the blessing that rests upon the sons of peace shall never come upon the sons of Belial, nor can any expect the blessings of the covenant that will not come under the bonds of it. But it shall return to us again; that is, we shall have the comfort of having done our duty to God and discharged our trust. Our prayers like David's shall return into our own bosom (Psa 35:13) and we shall have commission to go on in the work. Our peace shall return to us again, not only to be enjoyed by ourselves, but to be communicated to others, to the next we meet with, them that are sons of peace.\n5. They must receive the kindnesses of those that should entertain them and bid them welcome, Luk 10:7, Luk 10:8. \"Those that receive the gospel will receive you that preach it, and give you entertainment; you must not think to raise estates, but you may depend upon a subsistence; and,\" (1.) \"Be not shy; do not suspect our welcome, nor be afraid of being troublesome, but eat and drink heartily such things as they give; for, whatever kindness they show you, it is but a small return for the kindness you do them in bringing the glad tidings of peace. You will deserve it, for the labourer is worthy of his hire, the labourer in the work of the ministry is so, if he be indeed a labourer; and it is not an act of charity, but of justice, in those who are taught in the word to communicate to those that teach them\" (2.) \"Be not nice and curious in your diet: Eat and drink such things as they give (Luk 10:7), such things as are set before you, Luk 10:8. Be thankful for plain food, and do not find fault, though it be not dressed according to art.\" It ill becomes Christ's disciples to be desirous of dainties. As he has not tied them up to the Pharisees' superstitious fasts, so he has not allowed the luxurious feasts of the Epicureans. Probably, Christ here refers to the traditions of the elders about their meat which were so many that those who observed them were extremely critical, you could hardly set a dish of meat before them, but there was some scruple or other concerning it; but Christ would not have them to regard those things, but eat what was given them, asking no question for conscience' sake.\n6. They must denounce the judgments of God against those who should reject them and their message: \"If you enter into a city, and they do not receive you, if there be none there disposed to hearken to your doctrine, leave them, Luk 10:10. If they will not give you welcome into their houses, do you give them warning in their streets.\" He orders them to (Luk 9:5) do as he had ordered the apostles to do: \"Say to them, not with rage, or scorn, or resentment, but with compassion to their poor perishing souls, and a holy dread of the ruin which they are bringing upon themselves, Even the dust of your city, which cleaveth on us, we do wipe off against you, Luk 10:11. From them do not receive any kindnesses at all, be not beholden to them. It cost that prophet of the Lord dear who accepted a meal's meat with a prophet in Bethel, Kg1 13:21, Kg1 13:22. Tell them that you will not carry with you the dust of their city; let them take it to themselves, for dust they are.\" It shall be a witness for Christ's messengers that they had been there according to their Master's order; tender and refusal were a discharge of their trust. But it shall be a witness against the recusants that they would not give Christ's messengers any entertainment, no, not so much as water to wash their feet with, but they were forced to wipe off the dust. \"But tell them plainly, and bid them be sure of it, The kingdom of God is come nigh to you. Here is a fair offer made you; if you have not the benefit of it, it is your own fault. The gospel is brought to your doors; if you shut your doors against it, your blood is upon your own head. Now that the kingdom of God is come nigh to you, if you will not come up to it, and come into it, your sin will be inexcusable, and your condemnation intolerable.\" Note, The fairer offers we have of grace and life by Christ, the more we shall have to answer for another day, if we slight these offers: It shall be more tolerable for Sodom than for that city, Luk 10:12. The Sodomites indeed rejected the warning given them by Lot; but rejecting the gospel is a more heinous crime, and will be punished accordingly in that day. He means the day of judgment (Luk 10:14), but calls it, by way of emphasis, that day, because it is the last and great day, the day when we must account for all the days of time, and have our state determined for the days of eternity.\nUpon this occasion, the evangelist repeats,\n(1.) The particular doom of those cities wherein most of Christ's mighty works were done, which we had, Mat 11:20, etc. Chorazin, Bethsaida, and Capernaum, all bordering upon the sea of Galilee, where Christ was most conversant, are the places here mentioned. [1.] They enjoyed greater privileges. Christ's mighty works were done in them, and they were all gracious works, works of mercy. They were hereby exalted to heaven, not only dignified and honoured, but put into a fair way of being happy; they were brought as near heaven as external means could bring them. [2.] God's design in favouring them thus was to bring them to repentance and reformation of life, to sit in sackcloth and ashes, both in humiliation for the sins they had committed, and in humility and a meek subjection to God's government. [3.] Their frustrating this design, and their receiving the grace of God therein in vain. It is implied that they repented not; they were not wrought upon by all the miracles of Christ to think the better of him, or the worse of sin; they did not bring forth fruits agreeable to the advantages they enjoyed. [4.] There was reason to think, morally speaking, that, if Christ had gone to Tyre and Sidon, Gentile cities, and had preached the same doctrine to them and wrought the same miracles among them that he did in these cities of Israel, they would have repented long ago, so speedy would their repentance have been, and that in sackcloth and ashes, so deep would it have been. Now to understand the wisdom of God, in giving the means of grace to those who would not improve them, and denying them to those that would, we must wait for the great day of discovery. [5.] The doom of those who thus receive the grace of God in vain will be very fearful. They that were thus exalted, not making use of their elevation, will be thrust down to hell, thrust down with disgrace and dishonour. They will thrust in to get into heaven, in the crowd of professors, but in vain; they shall be thrust down, to their everlasting grief and disappointment, into the lowest hell, and hell will be hell indeed to them. [6.] In the day of judgment Tyre and Sidon will fare better, and it will be more tolerable for them than for these cities.\n(2.) The general rule which Christ would go by, as to those to whom he sent his ministers: He will reckon himself treated according as they treated his ministers, Luk 10:16. What is done to the ambassador is done, as it were, to the prince that sends him. [1.] \"He that hearest you, and regardeth what you say, heareth me, and herein doeth me honour. But,\" [2.] \"He that despiseth you doth in effect despise me, and shall be reckoned with as having put an affront upon me; nay, he despiseth him that sent me.\" Note, Those who contemn the Christian religion do in effect put a slight upon natural religion, which it is perfective of. And they who despise the faithful ministers of Christ, who, though they do not hate and persecute them, yet think meanly of them, look scornfully upon them, and turn their backs upon their ministry, will be reckoned with as despisers of God and Christ.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "Matthew 10:8",
+      "note_ref": "TYN/40/10/8",
+      "cites": [
+        "Matthew 10:10"
+      ],
+      "text": "10:8 Give as freely as you have received! While remuneration is not improper (1 Cor 9:3-19; Gal 6:6; 1 Tim 5:17), Jesus urged the apostles to avoid accusations of greed (see Acts 8:20; 20:33)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Matthew 10:9",
+      "note_ref": "TYN/40/10/9",
+      "cites": [
+        "Matthew 10:10"
+      ],
+      "text": "10:9-10 Jesus’ disciples were to trust in God’s provision (6:11, 25-34; 7:7-11), to avoid greed that would give others the opportunity to defame the Lord’s name, and to encourage the newly formed communities to provide for their leaders’ needs (see 1 Cor 9:3-19)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Matthew 10:12",
+      "note_ref": "TYN/40/10/12",
+      "cites": [
+        "Matthew 10:10"
+      ],
+      "text": "10:12 give it your blessing: Greetings were more significant than a simple hello. Often, a greeting would convey a blessing for those who received it (cp. Ruth 2:4)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Mark 6:6",
+      "note_ref": "TYN/41/6/6",
+      "cites": [
+        "Mark 6:8-9"
+      ],
+      "text": "6:6–8:21 Jesus’ mission and the disciples’ misunderstanding are prominent themes in this section.\n6:6 This summary of Jesus’ healing and preaching ministry introduces an account concerning the disciples. Jesus’ teaching from village to village probably took place around the Sea of Galilee and perhaps in Capernaum (see 2:1)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Mark 6:7",
+      "note_ref": "TYN/41/6/7",
+      "cites": [
+        "Mark 6:8-9"
+      ],
+      "text": "6:7-13 Jesus now sent the disciples out to preach and heal. During this mission, Jesus’ memorable teachings were engraved in their minds by retelling, and it prepared them to remember and retell later what Jesus did and taught (Luke 1:2).\n6:7 two by two: This practice fulfilled the Old Testament requirement of two witnesses (Num 35:30; Deut 17:6; 19:15; see Matt 18:16) and provided for companionship and mutual help (Acts 13:1-3; 15:22, 39, 40). • giving them authority: Jesus can delegate his authority (see Mark 1:27; 2:10) to others. • The disciples were to cast out evil spirits and to preach and heal (6:12-13; see 6:30)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Mark 6:8",
+      "note_ref": "TYN/41/6/8",
+      "cites": [
+        "Mark 6:8-9"
+      ],
+      "text": "6:8-9 The instructions for the disciples’ mission were about what they should leave behind (food . . . bag . . . money . . . change of clothes). They were to travel light, counting on Jewish hospitality for food and lodging (cp. Luke 22:35-37)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Mark 6:10",
+      "note_ref": "TYN/41/6/10",
+      "cites": [
+        "Mark 6:8-9"
+      ],
+      "text": "6:10 They were to stay in the same house and not abuse hospitality by seeking out better offers of food and lodging."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 9:1",
+      "note_ref": "TYN/42/9/1",
+      "cites": [
+        "Luke 9:3"
+      ],
+      "text": "9:1-6 Jesus now sent his twelve disciples to announce the Kingdom of God and demonstrate its authority by casting out demons and healing the sick. Jesus was training them to carry on his work after he was gone."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 9:3",
+      "note_ref": "TYN/42/9/3",
+      "cites": [
+        "Luke 9:3"
+      ],
+      "text": "9:3 Take nothing for your journey: They were to live in dependence on God and on the charity of those to whom they ministered."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 9:4",
+      "note_ref": "TYN/42/9/4",
+      "cites": [
+        "Luke 9:3"
+      ],
+      "text": "9:4 stay in the same house: They were to develop lasting relationships and be content without seeking better lodging or provisions."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 9:5",
+      "note_ref": "TYN/42/9/5",
+      "cites": [
+        "Luke 9:3"
+      ],
+      "text": "9:5 shake its dust from your feet: Using a symbol of rejection, they were to leave such a town to the judgment it deserved."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 10:2",
+      "note_ref": "TYN/42/10/2",
+      "cites": [
+        "Luke 10:4"
+      ],
+      "text": "10:2 The harvest refers to people who need to hear the Good News and be gathered to God’s presence (cp. Isa 27:12). There was urgency to the task, just as crops have to be brought in at the exact time when they are ripe. More workers were needed."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 10:3",
+      "note_ref": "TYN/42/10/3",
+      "cites": [
+        "Luke 10:4"
+      ],
+      "text": "10:3 lambs among wolves: Jesus’ followers are not to dominate others, but to sacrifice themselves for the benefit of others. This makes them vulnerable (see Jer 5:6; Ezek 22:27; Hab 1:8; Zeph 3:3), but the Good Shepherd (Ps 23:1) protects them from the wolves."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 10:4",
+      "note_ref": "TYN/42/10/4",
+      "cites": [
+        "Luke 10:4"
+      ],
+      "text": "10:4 Don’t take any money with you: Cp. 9:3. Jesus’ disciples were to depend on God and on the help of those whom they served. • don’t stop to greet anyone on the road: This did not mean being antisocial, but staying focused on the task Jesus had given them."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 10:5",
+      "note_ref": "TYN/42/10/5",
+      "cites": [
+        "Luke 10:4"
+      ],
+      "text": "10:5 God’s peace means spiritual blessings and wholeness, the shalom of God (see study note on 8:48)."
+    },
+    {
+      "src": "GNV",
+      "ref": "Matthew 10:8",
+      "note_ref": "GNV/40/10/8",
+      "cites": [
+        "Matthew 10:10"
+      ],
+      "text": "Miracles are dependences of the word."
+    },
+    {
+      "src": "GNV",
+      "ref": "Matthew 10:9",
+      "note_ref": "GNV/40/10/9",
+      "cites": [
+        "Matthew 10:10"
+      ],
+      "text": "The ministers of the word must cast away all cares that might hinder them the least wise that might be.\nFor this journey, to wit, both that nothing might hinder them, and also that they might feel some taste of God’s providence: for at their return back, the Lord asketh of them, whether they lacked anything by the way, Luke 22:35."
+    },
+    {
+      "src": "GNV",
+      "ref": "Matthew 10:10",
+      "note_ref": "GNV/40/10/10",
+      "cites": [
+        "Matthew 10:10"
+      ],
+      "text": "God will provide you meat."
+    },
+    {
+      "src": "GNV",
+      "ref": "Matthew 10:11",
+      "note_ref": "GNV/40/10/11",
+      "cites": [
+        "Matthew 10:10"
+      ],
+      "text": "Happy are they that receive the preaching of the Gospel: and unhappy are they, that refuse it."
+    },
+    {
+      "src": "GNV",
+      "ref": "Mark 6:7",
+      "note_ref": "GNV/41/6/7",
+      "cites": [
+        "Mark 6:8-9"
+      ],
+      "text": "The disciples are prepared to that general Apostleship, by a peculiar sending forth."
+    },
+    {
+      "src": "GNV",
+      "ref": "Mark 6:8",
+      "note_ref": "GNV/41/6/8",
+      "cites": [
+        "Mark 6:8-9"
+      ],
+      "text": "Faithful Pastors ought not to have their minds set, no not on things that are necessary for this life, if they may be an hindrance unto them, be it never so little."
+    },
+    {
+      "src": "GNV",
+      "ref": "Mark 6:9",
+      "note_ref": "GNV/41/6/9",
+      "cites": [
+        "Mark 6:8-9"
+      ],
+      "text": "That is, they should take no change of garments with them, that they might be lighter for this journey, and make more speed.\nThe word signifieth properly women’s shoes."
+    },
+    {
+      "src": "GNV",
+      "ref": "Mark 6:10",
+      "note_ref": "GNV/41/6/10",
+      "cites": [
+        "Mark 6:8-9"
+      ],
+      "text": "That is, change not your inns in this short journey."
+    },
+    {
+      "src": "GNV",
+      "ref": "Luke 9:1",
+      "note_ref": "GNV/42/9/1",
+      "cites": [
+        "Luke 9:3"
+      ],
+      "text": "The twelve Apostles are sent forth at the only commandment of Christ, and furnished with the power of the holy Ghost: both that none of the Israelites might pretend ignorance, and also that they might be better prepared to their general ambassy."
+    },
+    {
+      "src": "GNV",
+      "ref": "Luke 9:4",
+      "note_ref": "GNV/42/9/4",
+      "cites": [
+        "Luke 9:3"
+      ],
+      "text": "When you depart out of any city, depart from thence where you first took up your lodging: so that in few words, the Lord forbiddeth them to change their lodgings: for this publishing of the Gospel, was as it were a thorough passage, that none of Judea might pretend ignorance, as though he had not heard that Christ was come."
+    },
+    {
+      "src": "GNV",
+      "ref": "Luke 10:3",
+      "note_ref": "GNV/42/10/3",
+      "cites": [
+        "Luke 10:4"
+      ],
+      "text": "The faithful ministers of the word are in this world as lambs among wolves: but if they be diligent to do their duty, he that sent them will also preserve them."
+    },
+    {
+      "src": "GNV",
+      "ref": "Luke 10:4",
+      "note_ref": "GNV/42/10/4",
+      "cites": [
+        "Luke 10:4"
+      ],
+      "text": "This is spoken after the manner of a figure, which men use, when they put down more in words, than is meant: usually among the Hebrews, when they command a thing to be done speedily without delay, as 2 Kings 4:29: for otherwise courteous and gentle salutations, are points of Christian duty: as for the calling it was but for a season."
+    },
+    {
+      "src": "GNV",
+      "ref": "Luke 10:6",
+      "note_ref": "GNV/42/10/6",
+      "cites": [
+        "Luke 10:4"
+      ],
+      "text": "So speak the Hebrews: that is, he that favoreth the doctrine of peace and embraceth it."
+    }
+  ]
+}

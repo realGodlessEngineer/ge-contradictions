@@ -1,0 +1,346 @@
+{
+  "contradiction_id": 335,
+  "question": "How much gold, silver, and clothing did the people give?",
+  "summary": "Ezra 2:69 records the returnees' contribution to the temple treasury as 61,000 drams of gold, 5,000 pounds of silver, and 100 priests' garments. Nehemiah 7:72, transmitting the same registry, gives 20,000 drams of gold, 2,000 pounds of silver, and 67 priests' garments. Three separate categories of donation, three separate disagreements, in a single ledger entry that both texts claim to be reproducing from a common source.",
+  "consensus": "genuine_contradiction",
+  "consensus_id": 1,
+  "category": "Numbers & Measurements",
+  "contradiction_type": "numerical",
+  "testament_scope": "OT_internal",
+  "books_in_tension": "Ezra, Nehemiah",
+  "refs_raw": [
+    "Ezra 2:69",
+    "Nehemiah 7:72"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Ezra 2:69",
+      "book": "Ezra",
+      "bolls": 15,
+      "ranges": [
+        [
+          2,
+          69,
+          69
+        ]
+      ]
+    },
+    {
+      "raw": "Nehemiah 7:72",
+      "book": "Nehemiah",
+      "bolls": 16,
+      "ranges": [
+        [
+          7,
+          72,
+          72
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 26,
+  "notes_raw_count": 26,
+  "notes_dropped": 0,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Ezra 2:66",
+      "note_ref": "GILL/15/2/66",
+      "cites": [
+        "Ezra 2:69"
+      ],
+      "text": "So the priests and the Levites, and some of the people, and the singers, and the Nethinims, dwelt in their cities,.... Which were assigned to them out of the several tribes, and in which they or their forefathers had dwelt before the captivity:\nand all Israel in their cities; as those of the tribes of Judah and Benjamin, so of the other ten, as many as returned and joined those who were left in the land.\nNext: Ezra Chapter 3",
+      "anchor": true
+    },
+    {
+      "src": "GILL",
+      "ref": "Nehemiah 7:70",
+      "note_ref": "GILL/16/7/70",
+      "cites": [
+        "Nehemiah 7:72"
+      ],
+      "text": "And some of the chief of the fathers gave to the treasure of the work,.... To be put into the treasure, out of which the expenses of the temple, and service of it were defrayed:\ntwenty thousand drachms of gold; which were so many pounds of our money, and somewhat more: for, according to Bishop Cumberland (f), a drachm of gold was of the value of twenty shillings and four pence: and 2200 pounds of silver; \"the maneh\", or pound, with the Jews, was of the value of sixty shekels, Eze 45:12 and so is reckoned by our Brerewood (g) to be of our money seven pounds and ten shillings; he reckoning a shekel at half a crown, whereas it was little more than two shillings and four pence; and so sixty of them, or a \"maneh\", came to about seven pounds; wherefore this sum here was seven times so many pounds of silver.\n(f) Scripture Weights and Measures, ch. 4. p. 115. (g) De Ponder & Pret. Vet. Num. c. 4."
+    },
+    {
+      "src": "GILL",
+      "ref": "Nehemiah 7:71",
+      "note_ref": "GILL/16/7/71",
+      "cites": [
+        "Nehemiah 7:72"
+      ],
+      "text": "And that which the rest of the people gave was twenty thousand drachms of gold,.... Worth as many pounds of our money, and somewhat more:\nand two thousand pound of silver; of which See Gill on Neh 7:71,\nand threescore and seven priests' garments; having been so long in Babylon, and no use of sacrifices, and so not of garments to minister in, no care was taken to provide any; which seems to be the reason why so many were given, when they returned to their own land, and sacrificed."
+    },
+    {
+      "src": "GILL",
+      "ref": "Nehemiah 7:72",
+      "note_ref": "GILL/16/7/72",
+      "cites": [
+        "Nehemiah 7:72"
+      ],
+      "text": "So the priests and the Levites, and the porters, and the singers, and some of the people, and the Nethinims, and all Israel, dwelt in their cities,.... The same is said in Ezr 2:70; see Gill on Ezr 2:70,\nand, when the seventh month came, the children of Israel were in their cities; the month Tisri, answering to part of September, in which month was the feast of tabernacles; at this time of the year they were in their cities when they came forth out of Babylon, and so they were now; see Ezr 3:1.\nNext: Nehemiah Chapter 8"
+    },
+    {
+      "src": "JFB",
+      "ref": "Ezra 2:68",
+      "note_ref": "JFB/15/2/68",
+      "cites": [
+        "Ezra 2:69"
+      ],
+      "text": "some of the chief of the fathers, when they came to the house of the Lord offered freely for the house of God, &c.--The sight of a place hallowed by the most endearing and sacred associations, but now lying in desolation and ruins, made the wellsprings of their piety and patriotism gush out afresh. Before taking any active measures for providing accommodation to themselves and their families, the chief among them raised a large sum by voluntary contributions towards the restoration of the temple."
+    },
+    {
+      "src": "JFB",
+      "ref": "Ezra 2:69",
+      "note_ref": "JFB/15/2/69",
+      "cites": [
+        "Ezra 2:69"
+      ],
+      "text": "drams of gold--rather, \"darics,\" a Persian coin (see on Ch1 29:7).\npriests' garments--(compare Neh 7:70). This--in the circumstances--was a very appropriate gift. In general, it may be remarked that presents of garments, or of any other usable commodities, however singular it may seem to us, is in harmony with the established notions and customs of the East.\nNext: Ezra Chapter 3"
+    },
+    {
+      "src": "JFB",
+      "ref": "Nehemiah 7:70",
+      "note_ref": "JFB/16/7/70",
+      "cites": [
+        "Nehemiah 7:72"
+      ],
+      "text": "And some of the chief of the fathers, &c.--With Neh 7:69 the register ends, and the thread of Nehemiah's history is resumed. He was the tirshatha, or governor, and the liberality displayed by him and some of the leading men for the suitable equipment of the ministers of religion, forms the subject of the remaining portion of the chapter. Their donations consisted principally in garments. This would appear a singular description of gifts to be made by any one among us; but, in the East, a present of garments, or of any article of use, is conformable to the prevailing sentiments and customs of society.\ndrams of gold--that is, darics. A daric was a gold coin of ancient Persia, worth Â£1 5s."
+    },
+    {
+      "src": "JFB",
+      "ref": "Nehemiah 7:71",
+      "note_ref": "JFB/16/7/71",
+      "cites": [
+        "Nehemiah 7:72"
+      ],
+      "text": "pound of silver--that is, mina (sixty shekels, or Â£9)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Nehemiah 7:73",
+      "note_ref": "JFB/16/7/73",
+      "cites": [
+        "Nehemiah 7:72"
+      ],
+      "text": "So . . . all Israel, dwelt in their cities--The utility of these genealogical registers was thus found in guiding to a knowledge of the cities and localities in each tribe to which every family anciently belonged.\nNext: Nehemiah Chapter 8"
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Ezra 2:69",
+      "note_ref": "CLARKE/15/2/69",
+      "cites": [
+        "Ezra 2:69"
+      ],
+      "text": "Threescore and one thousand drams of gold - דרכמונים darkemonim, drakmons or darics; a Persian coin, always of gold, and worth about 1. 5s., not less than 76,250 sterling in gold.\nFive thousand pounds of silver - מנים manim, manehs or minas. As a weight, the maneh was 100 shekels; as a coin, 60 shekels in value, or about 9.; 5000 of these manehs therefore will amount to 45,000, making in the whole a sum of about 120,000; and in this are not included the 100 garments for priests.\nThus we find that God, in the midst of judgment, remembered mercy, and gave them favor in the land of their captivity."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Ezra 2:70",
+      "note_ref": "CLARKE/15/2/70",
+      "cites": [
+        "Ezra 2:69"
+      ],
+      "text": "Dwelt in their cities - They all went to those cities which belonged originally to their respective families."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Nehemiah 7:70",
+      "note_ref": "CLARKE/16/7/70",
+      "cites": [
+        "Nehemiah 7:72"
+      ],
+      "text": "The Tirshatha gave - The Septuagint, particularly the copy in the Codex Alexandrinus, intimates that this sum was given to the Tirshatha, or Nehemiah: Και τῳ Αθερσαθᾳ εδωκαν εις θησαυρον, And to the Athersatha they gave for the treasure, etc.\nFor the meaning of the word Tirshatha, see on Ezr 2:63 (note)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Nehemiah 7:71",
+      "note_ref": "CLARKE/16/7/71",
+      "cites": [
+        "Nehemiah 7:72"
+      ],
+      "text": "Two thousand and two hundred pounds - The Septuagint has two thousand Three hundred minae of silver."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Nehemiah 7:73",
+      "note_ref": "CLARKE/16/7/73",
+      "cites": [
+        "Nehemiah 7:72"
+      ],
+      "text": "All Israel, dwelt in their cities - It was in reference to this particularly that the public registers were examined; for by them they found the different families, and consequently the cities, villages, etc., which belonged to them, according to the ancient division of the lands. It seems that the examination of the registers occupied about a month; for as soon as the walls were finished, which was in the sixth month, (Elul), Neh 6:15, Nehemiah instituted the examination mentioned in this chapter, Neh 7:5; and by the concluding verse we find that the different families had got into their paternal cities in the seventh month, Tisri, answering to a part of our September and October. Thus the register determined every thing: there was no room for complaint, and none to accuse the governor of partiality."
+    },
+    {
+      "src": "KD",
+      "ref": "Ezra 2:68",
+      "note_ref": "KD/15/2/68",
+      "cites": [
+        "Ezra 2:69"
+      ],
+      "text": "Contributions towards the rebuilding of the temple, and concluding remarks. Comp. Neh 7:70-73. - Some of the heads of houses, when they came to the house of Jahve, i.e., arrived at the site of the temple, brought free-will offerings (התנדּב; comp. Ch1 29:5) to set it up in its place (העמיד, to set up, i.e., to rebuild; identical in meaning both here and Ezr 9:9 with הקים). After their ability (כּכוחם; comp. Ch1 29:2) they gave unto the treasure of the work, i.e., of restoring the temple and its services, 61,000 darics of gold = 68,625, and 5000 mina of silver, above 30,000, and 100 priests' garments. The account of these contributions is more accurately given in Neh 7:70-72, according to which some of the heads of houses gave unto the work (מקצת as Dan 1:2 and elsewhere); the Tirshatha gave to the treasure 1000 darics of gold, 50 sacrificial vessels (see on Exo 27:3), 30 priests' garments, and 500 ... This last statement is defective; for the two numbers 30 and 500 must not be combined into 530, as in this case the hundreds would have stood first. The objects enumerated were named before 500, and are omitted through a clerical error, מנים וכסף \"and silver (500) mina.\" And some of the heads of houses (others than the Tirshatha) gave of gold 20,000 darics, of silver, 2200 mina; and that which the rest of the people gave was-gold, 20,000 darics, silver, 2000 mina, and 67 priests' garments. According to this statement, the Tirshatha, the heads of houses, and the rest of the people, gave together 41,000 darics in gold, 4200 mina in silver, 97 priests' garments, and 30 golden vessels. In Ezra the vessels are omitted; and instead of the 30 + 67 = 97 priests' garments, they are stated in round numbers to have been 100. The two other differences have arisen from textual errors. Instead of 61,000 darics, it is evident that we must read with Nehemiah, 41,000 (1000 + 20,000 + 20,000); and in addition to the 2200 and 2000 mina, reckon, according to Neh 7:70, 500 more, in all 4700, for which in the text of Ezra we have the round sum of 5000. The account of the return of the first band of exiles concludes at Ezr 2:70, and the narrative proceeds to the subsequent final statement: \"So the priests, etc ... .dwelt in their cities.\" העם וּמן, those of the people, are the men of the people of Israel of Ezr 2:2, the laity as distinguished from the priests, Levites, etc. In Nehemiah the words are transposed, so that העם מן stand after the Levitical door-keepers and singers. Bertheau thinks this position more appropriate; but we cannot but judge otherwise. The placing of the people, i.e., the laity of Israel, between the consecrated servants of the temple (the priests and their Levitical assistants in the sacrificial service) and the singers and door-keepers, seems to us quite consistent; while, on the other hand, the naming of the שׁוערים before the משׁררים in Nehemiah seems inappropriate, because the performance of the choral service of the temple was a higher office than the guardianship of the doors. Neither can we regard Bertheau's view, that בּעריהם, which in the present verse follows והנּתינים, should be erased, as a correct one. The word forms a perfectly appropriate close to the sentence beginning with ויּשׁבוּ; and the sentence following, \"And all Israel were in their cities,\" forms a well-rounded close to the account; while, on the contrary, the summing up of the different divisions by the words כל־ישׂראל in Nehemiah, after the enumeration of those divisions, has a rather heavy effect.\n(Note: In 1 Esdr. 5:46, this verse, freely carrying out the texts of Ezra and Nehemiah, with regard also to Neh 12:27-30, runs thus: \"And so dwelt the priests, and the Levites, and the people, in Jerusalem and in the country, the singers also and the porters, and all Israel in their villages.\")"
+    },
+    {
+      "src": "KD",
+      "ref": "Nehemiah 7:5",
+      "note_ref": "KD/16/7/5",
+      "cites": [
+        "Nehemiah 7:72"
+      ],
+      "text": "And God put into my heart, i.e., God inspired me with the resolution; comp. Neh 2:12. What resolution, is declared by the sentences following, which detail its execution. The resolution to gather together the nobles and rulers of the people for the purpose of making a list of their kinsmen, and thus to obtain a basis for the operations contemplated for increasing the inhabitants of Jerusalem. והסּגנים החרים are combined, as in Neh 2:16. On התיחשׂ, comp. Ch1 5:17.\nWhile this resolve was under consideration, Nehemiah found the register, i.e., the genealogical registry, of those who came up at first (from Babylon). בּראשׁונה, at the beginning, i.e., with Zerubbabel and Joshua under Cyrus (Ezra 2), and not subsequently with Ezra (Ezra 7). \"And I found written therein.\" These words introduce the list now given. This list, vv. 6-73a, is identical with that in Ezra 2, and has been already discussed in our remarks on that chapter.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Ezra 2:64",
+      "note_ref": "MHC/15/2/64",
+      "cites": [
+        "Ezra 2:69"
+      ],
+      "text": "Here is, I. The sum total of the company that returned out of Babylon. The particular sums before mentioned amount not quite to 30,000 (29,818), so that there were above 12,000 that come out into any of those accounts, who, it is probable, were of the rest of the tribes of Israel, besides Judah and Benjamin, that could not tell of what particular family or city they were, but that they were Israelites, and of what tribe. Now, 1. This was more than double the number that were carried captive into Babylon by Nebuchadnezzar, so that, as in Egypt, the time of their affliction was the time of their increase. 2. These were but few to begin a nation with, and yet, by virtue of the old promise made to their fathers, they multiplied so as before their last destruction by the Romans, about 500 years after, to be a very numerous people. When God says, \"Increase and multiply,\" a little one shall become a thousand.\nII. Their retinue. They were themselves little better than servants, and therefore no wonder that their servants were comparatively but few (Ezr 2:65) and their beasts of burden about as many, Ezr 2:66, Ezr 2:67. It was not with them now as in days past. But notice is taken of 200 singing-men and women whom they had among them, who, we will suppose, were intended (as those Ch2 35:25) to excite their mourning, for it was foretold that they should, upon this occasion, go weeping (Jer 50:4), with ditties of lamentation.\nIII. Their oblations. It is said (Ezr 2:68, Ezr 2:69), 1. That they came to the house of the Lord at Jerusalem; and yet that house, that holy and beautiful house, was now in ruins, a heap of rubbish. But, like their father Abraham, when the altar was gone they came with devotion to the place of the altar (Gen 13:4); and it is the character of the genuine sons of Zion that they favour even the dust thereof, Psa 102:14. 2. That they offered freely towards the setting of it up in its place. That, it seems, was the first house they talked of setting up; and though they came off a journey, and were beginning the world (two chargeable things), yet they offered, and offered freely, towards the building of the temple. Let none complain of the necessary expenses of their religion, but believe that when they come to balance the account they will find that it clears the cost. Their offering was nothing in comparison with the offerings of the princes in David's time; then they offered by talents (Ch1 29:7), now by drams, yet these drams, being after their ability, were as acceptable to God as those talents, like the widow's two mites. The 61,000 drams of gold amount, by Cumberland's calculation, to so many pounds of our money and so many groats. Every maneh, or pound of silver, he reckons to be sixty shekels (that is, thirty ounces), which we may reckon 7l. 10s. of our money, so that this 5000 pounds of silver will be above 37,000l. of our money. It seems, God had blessed them with an increase of their wealth, as well as of their numbers, in Babylon; and, as God had prospered them, they gave cheerfully to the service of his house. 3. That they dwelt in their cities, Ezr 2:70. Though their cities were out of repair, yet, because they were their cities, such as God had assigned them, they were content to dwell in them, and were thankful for liberty and property, though they had little of pomp, plenty, or power. Their poverty was a bad cause, but their unity and unanimity were a good effect of it. Here was room enough for them all and all their substance, so that there was no strife among them, but perfect harmony, a blessed presage of their settlement, as their discords in the latter times of that state were of their ruin.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Nehemiah 7:5",
+      "note_ref": "MHC/16/7/5",
+      "cites": [
+        "Nehemiah 7:72"
+      ],
+      "text": "We have here another good project of Nehemiah's; for wise and zealous men will be always contriving something or other for the glory of God and the edification of his church. He knew very well that the safety of a city, under God, depends more upon the number and valour of the inhabitants than upon the height or strength of its walls; and therefore, observing that the people were few that dwelt in it, he thought fit to take an account of the people, that he might find what families had formerly had their settlement in Jerusalem, but were now removed into the country, that he might bring them back, and what families could in any other way be influenced by their religion, or by their business, to come and rebuild the houses in Jerusalem and dwell in them. So little reason have we to wish that we may be placed alone in the earth, or in Jerusalem itself, that much of our safety and comfort depends upon our neighbours and friends; the more the stronger, the more the merrier. It is the wisdom of the governors of a nation to keep the balance even between the city and country, that the metropolis be not so extravagantly large as to drain and impoverish the country, nor yet so weak as not to be able to protect it. Now observe,\nI. Whence this good design of Nehemiah's came. He owns, My God put it into my heart, Neh 7:5. Note, Whatever good motion is in our minds, either prudent or pious, we must acknowledge it to come from God. It was he that put it into our hearts; for every good gift and every good work are from above. He gives knowledge; he gives grace; all is of him, and therefore all must be to him. What is done by human prudence must be ascribed to the direction of divine Providence; he that teaches the husbandman his discretion (Isa 28:26) teaches the statesman his.\nII. What method he took in prosecution of it.\n1. He called the rulers together, and the people, that he might have an account of the present state of their families - their number and strength, and where they were settled. It is probable that when he summoned them to come together he ordered them to bring such an account along with them out of their several districts. And I doubt they were not so many but that it might be soon done.\n2. He reviewed the old register of the genealogy of those who came up at the first, and compared the present accounts with that; and here we have the repetition of that out of Ezra 2. The title is the same here (Neh 7:6, Neh 7:7) as there (Ezr 2:1): These are the children of the province, etc. Two things are here repeated and recorded a second time from thence - the names and numbers of their several families, and their oblations to the service of the temple. The repetition of these accounts may intimate to us the delight which the great God is pleased to take in the persons, families, and services of his spiritual Israel, and the particular notice he takes of them. He knows those that are his, knows them all, knows them by name, has his eye on the register of those children of the captivity, and does all according to the ancient counsel of his will concerning them.\n(1.) Here is an account of the heads of the several families that first came up, v. 6-69. As to this, [1.] Though it seem of little use to us now, yet then it was of great use, to compare what they had been with what they now were. We may suppose they were much increased by this time; but it would do well for them to remember their small beginnings, that they might acknowledge God in multiplying their families and building them up. By this means likewise their genealogies would be preserved, and the distinction of their families kept up, till the Messiah should come, and then an end be put to all their genealogies, which were preserved for his sake, but afterwards were endless. But, [2.] There are many differences in the numbers between this catalogue and that in Ezra. Most of them indeed are exactly the same, and some others within a very few under or over (one or two perhaps); and therefore I cannot think, as some do, that that was the number of these families at their first coming and this as they were now, which was at least forty years after (some make it much more); for we cannot suppose so many families to be not at all, or but little, altered in their numbers in all that time; therefore what differences there are we may suppose to arise either from the mistakes of transcribers, which easily happen in numbers, or from the diversity of the copies from which they were taken. Or perhaps one was the account of them when they set out from Babylon with Zerubbabel, the other when they came to Jerusalem. The sum totals are all just the same there and here, except of the singing-men and singing-women, which there are 200, here 245. These were not of such importance as that they should keep any strict account of them.\n(2.) Here is an account of the offerings which were given towards the work of God, Neh 7:70, etc. This differs much from that in Ezr 2:68, Ezr 2:69, and it may be questioned whether it refers to the same contribution; here the tirshatha, or chief governor, who there was not mentioned, begins the offering; and the single sum mentioned there exceeds all those here put together; yet it is probable that it was the same, but that followed one copy of the lists, this another; for the last verse is the same here that it was Ezr 2:70, adding Ezr 3:1. Blessed be God that our faith and hope are not built upon the niceties of names and numbers, genealogy and chronology, but on the great things of the law and gospel. Whatever is given to the work of God, he is not unrighteous to forget it; nor shall even a cup of cold water, wherewith he is honoured, go without its reward.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "Ezra 2:68",
+      "note_ref": "TYN/15/2/68",
+      "cites": [
+        "Ezra 2:69"
+      ],
+      "text": "2:68-69 As when the Tabernacle was built (Exod 25:2-7; 35:4-9) and the Temple was renovated (2 Kgs 12:1-21), the people gave voluntary offerings to finance this effort. These funds supplemented the provincial grant by Darius (Ezra 6:8) and gifts from Israelites who stayed in Babylon (1:6). Each gave as much as he could based on his resources."
+    },
+    {
+      "src": "TYN",
+      "ref": "Ezra 2:69",
+      "note_ref": "TYN/15/2/69",
+      "cites": [
+        "Ezra 2:69"
+      ],
+      "text": "2:69 Each of the gold coins (Hebrew darics) was worth a month’s wages for a professional soldier. • 6,250 pounds (Hebrew 5,000 minas): Each mina weighed 20 ounces and was equal to 60 shekels of silver; each shekel was worth an average worker’s monthly wages."
+    },
+    {
+      "src": "TYN",
+      "ref": "Nehemiah 7:70",
+      "note_ref": "TYN/16/7/70",
+      "cites": [
+        "Nehemiah 7:72"
+      ],
+      "text": "7:70-72 Some of the family leaders gave gifts as their forefathers had done when sacred buildings were built (Exod 25:2-7; 35:4-9; 2 Kgs 12:1-21). This money supplemented gifts by Israelites who stayed in Babylon (Ezra 1:6) and by the Persian kings (Ezra 6:8)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Nehemiah 7:73",
+      "note_ref": "TYN/16/7/73",
+      "cites": [
+        "Nehemiah 7:72"
+      ],
+      "text": "7:73–10:39 This section, perhaps originally a part of Ezra’s personal memoirs, describes how Ezra’s teaching of God’s law brought renewal of the people’s commitment to serve God and follow his instructions. Spiritual revival accompanied the civic work of Ezra and Nehemiah.\n7:73 their own towns throughout Israel: Each family settled in the land that had been inhabited by their ancestors before the Exile."
+    },
+    {
+      "src": "GNV",
+      "ref": "Ezra 2:69",
+      "note_ref": "GNV/15/2/69",
+      "cites": [
+        "Ezra 2:69"
+      ],
+      "text": "Which are called, mina, and contain a piece two marks: so 50,000 minas make 55,000 franks, which mount to of our money 69,666 pounds, 13 shillings 4 pence so that the whole sum was 94,493 pounds, 6 shillings, 8 pence.\nWhich mount to of our money, 24,826 pounds, 13 shillings and 4 pence, esteeming the French crown at 6 shillings and 4 pence for the dram is the eighth part of an ounce, and the ounce the eighth part of a mark."
+    },
+    {
+      "src": "GNV",
+      "ref": "Nehemiah 7:70",
+      "note_ref": "GNV/16/7/70",
+      "cites": [
+        "Nehemiah 7:72"
+      ],
+      "text": "Read Ezra 2:69."
+    },
+    {
+      "src": "GNV",
+      "ref": "Nehemiah 7:71",
+      "note_ref": "GNV/16/7/71",
+      "cites": [
+        "Nehemiah 7:72"
+      ],
+      "text": "Or, minas."
+    },
+    {
+      "src": "GNV",
+      "ref": "Nehemiah 7:73",
+      "note_ref": "GNV/16/7/73",
+      "cites": [
+        "Nehemiah 7:72"
+      ],
+      "text": "Which containeth part of September and part of October."
+    }
+  ]
+}

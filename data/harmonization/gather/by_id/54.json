@@ -1,0 +1,507 @@
+{
+  "contradiction_id": 54,
+  "question": "Who was the father of Salah?",
+  "summary": "Genesis 10:24 and 11:12 both have Arphaxad directly fathering Salah. Luke 3:35-36 inserts a generation — 'Salah, which was the son of Cainan, which was the son of Arphaxad' — making Cainan an intermediate ancestor.",
+  "consensus": "genuine_contradiction",
+  "consensus_id": 1,
+  "category": "Genealogy & Identity",
+  "contradiction_type": "genealogical",
+  "testament_scope": "OT_vs_NT",
+  "books_in_tension": "Genesis, Luke",
+  "refs_raw": [
+    "Genesis 10:24",
+    "Genesis 11:12",
+    "Luke 3:35-36"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Genesis 10:24",
+      "book": "Genesis",
+      "bolls": 1,
+      "ranges": [
+        [
+          10,
+          24,
+          24
+        ]
+      ]
+    },
+    {
+      "raw": "Genesis 11:12",
+      "book": "Genesis",
+      "bolls": 1,
+      "ranges": [
+        [
+          11,
+          12,
+          12
+        ]
+      ]
+    },
+    {
+      "raw": "Luke 3:35-36",
+      "book": "Luke",
+      "bolls": 42,
+      "ranges": [
+        [
+          3,
+          35,
+          36
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 42,
+  "notes_raw_count": 46,
+  "notes_dropped": 4,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Genesis 10:22",
+      "note_ref": "GILL/1/10/22",
+      "cites": [
+        "Genesis 10:24"
+      ],
+      "text": "The children of Shem,.... Whose names are\nElam and Ashur, and Arphaxad, and Lud, and Aram; and who, as Josephus (f) says, inhabited Asia, from Euphrates to the Indian ocean: his first born, Elam, was the father of the Elymaeans, from whom sprung the Persians, as the same writer observes, and his posterity are called Elamites, Act 2:10 their country Elam, and is sometimes mentioned with Media, when the Persians and Medes are intended, Isa 21:2 see also Isa 22:6, &c. in Daniel's time, Shushan, in the province of Elam, was the seat of the kings of Persia: the country of Elymais, so called from this man, is said by Pliny (g) to be divided from Susiane by the river Eulaeus, and to join with Persia; and the famous city of Elymais, the metropolis of the country, is placed by Josephus (h) in Persia. Ashur, the second son of Shem, gives name to Assyria, a country frequently mentioned in Scripture; and which, according to Ptolemy (i), was bounded on the north by part of Armenia the great, and the mountain Niphates, on the west by Mesopotamia and the river Tigris, on the south by Susiane, and on the east by part of Media. Strabo says (k) they call Babylonia, and great part of the country about it, Assyria, in which was Ninus or Nineveh, the chief city of the Assyrian empire; and which was built by Ashur, as Josephus (l) affirms, and says he gave the name of Assyrians to his subjects: Arphaxad, the third son of Shem, from him that part of Assyria, which lay northward next to Armenia, was called Arphaxitis, as it is probable that was its original name, though corruptly called by Ptolemy (m) Arrapachitis: Josephus says (n), he gave name to the Arphaxadaeans, whom he ruled over, now called Chaldeans; and indeed the name of the Chaldeans may as well be derived from the latter part of Arphaxad's name, \"Chashad\", as from Chesed, the son of Nahor, and brother of Abraham, as it more commonly is; since the Chaldeans were called Chasdim before Chesed was born, and were a nation when Abraham came out of Ur, before Chesed could be old or considerable enough to build towns and found a nation; see Gen 11:31 though Bochart treats this as a mere dream, yet he is obliged to have recourse to the usual refuge, that Ur was called Ur of the Chaldees, by anticipation. The fourth son of Shem was Lud, from whom sprung the Lydians, a people of Asia minor, and whose country is called Lydia, including Mysia and Caria, which all lay by the river Maeander; and Lud, in the Phoenician language, signifies bending and crooked, as that river was, being full of windings and turnings: some think that the posterity of Lud are carried too far off from those of his brethren, but know not where else to fix them. From Aram, the last son of Shem, sprung the Aramaeans, called by the Greeks Syrians, as Josephus (o) observes; and by Homer (p) and Hesiod (q) and so says Strabo (r); some by the Arimi understand the Syrians, now called Arami; and elsewhere (s) he observes, that they who are by us called Syrians, are by the Syrians themselves called Aramaeans, and this is the name they give to themselves to this day: the country inhabited by them included Mesopotamia and Syria, and particularly all those places that have the name of Aram added to them, as Padan Aram, and Aram Naharaim (which is Mesopotamia), Aram of Damascus, Aram Zobah, Aram Maacha, and Aram Beth Rehob, Gen 28:2 and the title of Psa 60:1, the Septuagint version here adds, \"and Cainan\", but without any authority.\n(f) Antiqu. l. 1. c. 6. sect. 4. (g) Nat. Hist. l. 6. c. 27. (h) Antiqu. l. 12. c. 8. sect. 1. (i) Geograph. l. 6. c. 1. (k) Ib. l. 16. p. 507. (l) Antiqu. l. 1. c. 6. sect. 4. (m) Ut supra. (Geograph. l. 6. c. 1.) (n) Ut supra. (Antiqu. l. 1. c. 6. sect. 4.). So R. Gedaliah, in Shalshalet Hakabala, fol. 76. 2. (o) Ut supra. (Antiqu. l. 1. c. 6. sect. 4.) (p) Iliad. 2. (q) Theogonia. (r) Geograph. l. 13. p. 431. l. 16. p. 540. (s) Ib. l. 1. p. 28."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 10:23",
+      "note_ref": "GILL/1/10/23",
+      "cites": [
+        "Genesis 10:24"
+      ],
+      "text": "And the children of Aram,.... The four following persons are called the sons of Shem, Ch1 1:17 being his grandsons, which is not unusual in Scripture:\nUz, and Hul, and Gether, and Mash: the first of these sons of Aram, Uz, is generally thought to be the founder of Damascus; so Josephus (t) says. Usus founded Trachonitis and Damascus, which lies between Palestine and Coelesyria: there was a place called Uz in Idumea, Lam 4:21 and another in Arabia, where Job dwelt, Job 1:1 but neither of them seems to be the seat of this man and his posterity, who, in all probability, settled in Syria: his second son Hul, whom Josephus (u) calls Ulus, according to him, founded Armenia; which notion may be strengthened by observing that Cholobotene is reckoned a part of Armenia by Stephanus (w); which is no other than Cholbeth, that is, the house or seat of Chol, the same with Hul; and there are several places in Armenia, as appears from Ptolemy (x), which begin with Chol or Col, as Cholus, Cholua, Choluata, Cholima, Colsa, Colana, Colchis: but perhaps it may be better to place him in Syria, in the deserts of Palmyrene, as Junius and Grotius; since among the cities of Palmyrene, there is one called Cholle, according to Ptolemy (y). Gether, the third son, is made by Josephus (z) to be the father of the Bactrians; but these were too far off to come from this man, and were not in the lot of Shem: Bochart (a) finds the river Getri, which the Greeks call Centrites, between Armenia and the Carduchi, whereabout, he conjectures, might be the seat of this man; but perhaps it may be more probable, with Grotius and Junius, to place him in Coelesyria, where are the city Gindarus of Ptolemy (b), and a people called Gindareni, by Pliny (c); though Bishop Patrick thinks it probable that Gadara, the chief city of Peraea, placed by Ptolemy (d) in the Decapolis of Coelesyria, had its name from this man: Mr. Broughton derives Atergate and Derceto, names of a Syrian goddess, from him, which was worshipped at Hierapolis in Coelesyria, as Pliny says (e). The last of the sons of Aram, Mash, is called Meshech, in Ch1 1:17 and here the Septuagint version calls him Masoch; his posterity are supposed to settle in Armenia, about the mountain Masius, thought to be the same with Ararat, and which the Armenians call Masis; perhaps the people named Moscheni, mentioned by Pliny (f), as dwelling near Armenia and Adiabene, might spring from this man.\n(t) Ut supra. (Antiqu. l. 1. c. 6. sect. 4.) (u) Ibid. (w) Apud Bochart. Phaleg. l. 2. c. 9. col. 81. (x) Geograph. l. 5. c. 13. (y) Geograph. l. 5. c. 15. (z) Ut supra. (Antiqu. l. 1. c. 6. sect. 4.) (a) Phaleg. l. 2. c. 10. (b) Geograph. l. 5. c. 15. (c) Nat. Hist. l. 5. c. 23. (d) Ut supra. (Geograph. l. 5. c. 15.) (e) Nat. Hist. l. 5. c. 23. (f) Ib. l. 6. c. 9."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 10:24",
+      "note_ref": "GILL/1/10/24",
+      "cites": [
+        "Genesis 10:24"
+      ],
+      "text": "And Arphaxad begat Salah,.... Or Shelach which signifies \"a sending forth\"; that is, of waters: it is part of the name of Methuselah, given him by his father, as prophetic of the flood, see Gen 5:21 and Arphaxad, who was born two years after the flood, gives this name to his first born, as commemorative of it: according to some, from him are the Susians (g); and in Susiana is found a city called Sele, by Ptolemy (h); but this seems not to be a sufficient proof:\nand Salah begat Eber; from whom, Josephus (i) says, the Jews were called Hebrews from the beginning; and which, perhaps, is as good a derivation of their name as can be given, and seems to be confirmed by Num 24:24 though some derive it from Abraham's passing over the rivers in his way from Chaldea into Syria; but be it so, why might not this name be given to Eber, as prophetic of that passage, or of the passage of his posterity over the Euphrates into Canaan, as well as Eber gave to his son Peleg his name, as a prediction of the division of the earth in his time? the Septuagint version of this text inserts a Cainan between Arphaxad and Salah, but is not to be found in any Hebrew copy, nor in the Samaritan, Syriac, and Arabic versions, nor in Josephus, see Luk 3:36.\n(g) Vid. Bochart. Phaleg. l. 2. c. 13. col. 92. (h) Geograph. l. 6. c. 3. (i) Ut supra. (Antiqu. l. 1. c. 6. sect. 4.)"
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 10:25",
+      "note_ref": "GILL/1/10/25",
+      "cites": [
+        "Genesis 10:24"
+      ],
+      "text": "And unto Eber were born two sons: the name of one was Peleg,.... Bochart (k) thinks, that either Peleg, or one of his posterity, in memory of him, gave the name of Phalga to a town situated on the Euphrates; though the reason of the name, as given by Arrianus, as he himself observes, was because it divided between the two Seleucias, as the reason of Peleg's name was:\nfor in his days was the earth divided; among the three sons of Noah, and their respective posterities; their language was divided, and that obliged them to divide and separate in bodies which understood one another; hence that age, in which was this event, was usually called by the Jews the age of division; whether this was done about the time of his birth, and so this name was given him to perpetuate the memory of it, or in some after part of his life, and so was given by a spirit of prophecy, is a question: Josephus, Jarchi, and the Jewish writers, generally go the latter way; if it was at the time of his birth, which is the sense of many, then this affair happened in the one hundred and first year after the flood, for in that year Peleg was born, as appears from Gen 11:11.\nand his brother's name was Joktan, whom the Arabs call Cahtan, and claim him as their parent, at least, of their principal tribes; and say he was the first that reigned in Yaman, and put a diadem on his head (l); and there is a city in the territory of Mecca, about seven furlongs or a mile to the south of it, and one station from the Red sea, called Baisath Jektan, the seat of Jektan (m), which manifestly retains his name; and there are a people called Catanitae, placed by Ptolemy (n) in Arabia Felix.\n(k) Phaleg. l. 2. c. 14. col. 93. (l) Vid. Pocock. Specimen. Arab. Hist. p. 39. 55. (m) Arab. Geograph. apud Bochart. Phaleg: l. 2. c. 15. col. 98. (n) Geograph, l. 6. c. 7."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 11:10",
+      "note_ref": "GILL/1/11/10",
+      "cites": [
+        "Genesis 11:12"
+      ],
+      "text": "These are the generations of Shem,.... Or a genealogy of the posterity of Shem; not of all of them, only of those of the line which led to Abraham, by which might appear the true line in which the Messiah from Adam through Abraham sprung:\nShem was one hundred years old, and begat Arphexad two years after the flood; by which it is pretty plain that he was younger than Japheth; See Gill on Gen 10:21 of Arphaxad his son; see Gill on Gen 10:22."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 11:11",
+      "note_ref": "GILL/1/11/11",
+      "cites": [
+        "Genesis 11:12"
+      ],
+      "text": "And Shem lived, after he begat Arphaxad, five hundred years,.... So that his whole age was six hundred years, and therefore must live to the times of Abraham, and even throughout the life of that patriarch, or near the end of it; and if he was the same with Melchizedek, as is the general opinion of the Jews, and is embraced by many Christians, they had an interview with each other:\nand begat sons and daughters; of whom we have no account, because the Messiah did not spring from them; the design of this genealogy being to carry down his direct line from Shem to Abraham: it is to be observed, that in the account of the patriarchs, and their children after the flood, it is not added as before the flood, \"and he died\", their lives being long, that remark is made; but the lives of these being shorter, and gradually decreasing, it is omitted. An Arabic writer (x) says, that Shem died in the month Elul, on a Friday, at the close of the year of the world 2758. A Jewish writer (y) says, he died in the fifteenth year of Jacob, and that he saw twelve generations; according to Bishop Usher, he died A. M. 2158.\n(x) Elmacinus, p. 13. apud Hottinger. Smegma, p. 258. (y) R. Gedaliah, Shalshalet, fol. 1. 2."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 11:12",
+      "note_ref": "GILL/1/11/12",
+      "cites": [
+        "Genesis 11:12"
+      ],
+      "text": "And Arphaxad lived thirty five years, and begat Salah. Arphaxad is the first on record that had a son born to him so early; of Salah; see Gill on Gen 10:24.\n.\nGenesis 11:13\ngen 11:13\ngen 11:13\ngen 11:13And Arphaxad lived, after he begat Salah, four hundred and three years,.... In all four hundred and thirty eight; the Vulgate Latin wrongly reads, three hundred and three:\nand begat sons and daughters; not mentioned by name: he died, as the above Arabic writer (z) says, in the month Nisan, A. M. 2696; and a Jewish writer (a) says he died in the forty eighth year of Isaac, and who also says (b), that in his days they began to build the city of Babel.\n(z) Apud Ibid. p. 260. (a) R. Gedaliah, ut supra. (Shalshalet, fol. 1. 2.) (b) Ib. fol. 75. 1."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 11:13",
+      "note_ref": "GILL/1/11/13",
+      "cites": [
+        "Genesis 11:12"
+      ],
+      "text": "And Salah lived thirty years, and begat Eber. He had a son born to him five years sooner than his father had; of Eber; see Gill on Gen 10:25.\n.\nGenesis 11:15\ngen 11:15\ngen 11:15\ngen 11:15And Salah lived, after he begat Eber, four hundred and three years,.... In all four hundred and thirty three:\nand begat sons and daughters; of whom also there is no other account: the same Arabic writer (c) says, he died in the month, Adar, which is called Barhamath, at the close of A. M. 2950; and the Jewish chronologer (d) says, he died in the fourteenth year of Jacob.\n(c) Ut supra, (Apud Ibid.) p. 261. (d) R. Gedaliah, ut supra. (Shalshalet, fol. 1. 2.)"
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 3:35",
+      "note_ref": "GILL/42/3/35",
+      "cites": [
+        "Luke 3:35-36"
+      ],
+      "text": "Which was the son of Cainan,.... This Cainan is not mentioned by Moses in Gen 11:12 nor has he ever appeared in any Hebrew copy of the Old Testament, nor in the Samaritan version, nor in the Targum; nor is he mentioned by Josephus, nor in Ch1 1:24 where the genealogy is repeated; nor is it in Beza's most ancient Greek copy of Luke: it indeed stands in the present copies of the Septuagint, but was not originally there; and therefore could not be taken by Luke from thence, but seems to be owing to some early negligent transcriber of Luke's Gospel, and since put into the Septuagint to give it authority: I say \"early\", because it is in many Greek copies, and in the Vulgate Latin, and all the Oriental versions, even in the Syriac, the oldest of them; but ought not to stand neither in the text, nor in any version: for certain it is, there never was such a Cainan, the son of Arphaxad, for Salah was his son; and with him the next words should be connected,\nwhich was the son of Arphaxad; Gen 11:12\nwhich was the son of Sem, or Shem, Gen 11:10\nwhich was the son of Noe, or Noah, Gen 5:32\nwhich was the son of Lamech,"
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 3:36",
+      "note_ref": "GILL/42/3/36",
+      "cites": [
+        "Luke 3:35-36"
+      ],
+      "text": "Which was the son\nof Mathusala,.... The same with Methuselah; and so he is called by the Septuagint in Gen 5:25\nwhich was the son of Enoch, Gen 5:21\nwhich was the son of Jared Gen 5:18,\nwhich was the son of Maleleel; the same with Mahalaleel; who is also so called by the seventy interpreters, in Gen 5:15 as here; which was the son of Cainan, Gen 5:12."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 3:37",
+      "note_ref": "GILL/42/3/37",
+      "cites": [
+        "Luke 3:35-36"
+      ],
+      "text": "Which was the son of Enos,.... Gen 5:9\nwhich was the son of Seth, Gen 5:6\nwhich was the son of Adam Gen 5:3\nwhich was the son of God: not begotten, as all the rest were, by their immediate parents, but created by God, in a supernatural manner, out of the dust of the earth, and quickened with the breath of God: so Adam is, by the Jews (h) called, , \"the son of God\": though this may be understood of Jesus; the son of Joseph, of Heli, &c. and so on to this clause, \"the son of God\"; being so as a divine person, to whom the human nature was united, and on that account so called; see Luk 1:35 Thus, as Matthew gives us the regal line of Christ, showing him to be heir to the throne of his father David, Luke gives the natural line of Christ; and as Matthew traces his genealogy down from Abraham, in a descending line, to Joseph, the husband of Mary, the mother of Jesus, Luke traces it upwards, in an ascending line, from Mary by Joseph, even up to Adam; to whom the Messiah was first promised, and who was a type of the second Adam, from whom he descended, though not by ordinary generation; nay, even to God himself: Christ, according to his divine nature, was the only begotten of the Father; and as to his human nature, had a body prepared by him, and in the fulness of time was God manifest in the flesh.\n(h) Sepher Cosri, orat. 2. Sig. 14. fol. 68. 1.\nNext: Luke Chapter 4"
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 10:23",
+      "note_ref": "JFB/1/10/23",
+      "cites": [
+        "Genesis 10:24"
+      ],
+      "text": "Aram--In the general division of the earth, the countries of Armenia, Mesopotamia, and Syria, fell to his descendants."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 10:24",
+      "note_ref": "JFB/1/10/24",
+      "cites": [
+        "Genesis 10:24"
+      ],
+      "text": "Arphaxad--The settlement of his posterity was in the extensive valley of Shinar, on the Tigris, towards the southern extremity of Mesopotamia, including the country of Eden and the region on the east side of the river."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 10:25",
+      "note_ref": "JFB/1/10/25",
+      "cites": [
+        "Genesis 10:24"
+      ],
+      "text": "Peleg; for in his days was the earth divided--After the flood (Gen 11:10-16) the descendants of Noah settled at pleasure and enjoyed the produce of the undivided soil. But according to divine instruction, made probably through Eber, who seems to have been distinguished for piety or a prophetic character, the earth was divided and his son's name, \"Peleg,\" was given in memory of that event (see Deu 32:8; Act 17:26)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 11:7",
+      "note_ref": "JFB/1/11/7",
+      "cites": [
+        "Genesis 11:12"
+      ],
+      "text": "confound their language--literally, \"their lip\"; it was a failure in utterance, occasioning a difference in dialect which was intelligible only to those of the same tribe. Thus easily by God their purpose was defeated, and they were compelled to the dispersion they had combined to prevent. It is only from the Scriptures we learn the true origin of the different nations and languages of the world. By one miracle of tongues men were dispersed and gradually fell from true religion. By another, national barriers were broken down--that all men might be brought back to the family of God.",
+      "anchor": true
+    },
+    {
+      "src": "JFB",
+      "ref": "Luke 3:24",
+      "note_ref": "JFB/42/3/24",
+      "cites": [
+        "Luke 3:35-36"
+      ],
+      "text": "son of Matthat, &c.--(See on Mat 1:13-15). In Luk 3:27, Salathiel is called the son, while in Mat 1:12, he is called the father of Zerubbabel. But they are probably different persons.",
+      "anchor": true
+    },
+    {
+      "src": "JFB",
+      "ref": "Luke 3:38",
+      "note_ref": "JFB/42/3/38",
+      "cites": [
+        "Luke 3:35-36"
+      ],
+      "text": "son of God--Compare Act 17:28.\nNext: Luke Chapter 4"
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 10:22",
+      "note_ref": "CLARKE/1/10/22",
+      "cites": [
+        "Genesis 10:24"
+      ],
+      "text": "Elam - From whom came the Elamites, near to the Medes, and whose chief city was Elymais.\nAsshur - Who gave his name to a vast province (afterwards a mighty empire) called Assyria.\nArphaxad - From whom Arrapachitis in Assyria was named, according to some; or Artaxata in Armenia, on the frontiers of Media, according to others.\nLud - The founder of the Lydians. In Asia Minor; or of the Ludim, who dwelt at the confluence of the Euphrates and Tigris, according to Arias Montanus.\nAram - The father of the Arameans, afterwards called Syrians."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 10:23",
+      "note_ref": "CLARKE/1/10/23",
+      "cites": [
+        "Genesis 10:24"
+      ],
+      "text": "Uz - Who peopled Caelosyria, and is supposed to have been the founder of Damascus.\nHul - Who peopled a part of Armenia.\nGether - Supposed by Calmet to have been the founder of the Itureans, who dwelt beyond the Jordan, having Arabia Desert on the east, and the Jordan on the west.\nMash - Who inhabited mount Masius in Mesopotamia, and from whom the river Mazeca, which has its source in that mountain, takes its name."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 10:24",
+      "note_ref": "CLARKE/1/10/24",
+      "cites": [
+        "Genesis 10:24"
+      ],
+      "text": "Salah - The founder of the people of Susiana.\nEber - See Gen 10:21. The Septuagint add Cainan here, with one hundred and thirty to the chronology."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 10:25",
+      "note_ref": "CLARKE/1/10/25",
+      "cites": [
+        "Genesis 10:24"
+      ],
+      "text": "Peleg - From פלג palag, to divide, because in his days, which is supposed to be about one hundred years after the flood, the earth was divided among the sons of Noah. Though some are of opinion that a physical division, and not a political one, is what is intended here, viz., a separation of continents and islands from the main land; the earthy parts having been united into one great continent previously to the days of Peleg. This opinion appears to me the most likely, for what is said, Gen 10:5, is spoken by way of anticipation."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 11:10",
+      "note_ref": "CLARKE/1/11/10",
+      "cites": [
+        "Genesis 11:12"
+      ],
+      "text": "These are the generations of Shem - This may he called the holy family, as from it sprang Abraham, Isaac, Jacob, the twelve patriarchs, David, Solomon, and all the great progenitors of the Messiah.\nWe have already seen that the Scripture chronology, as it exists in the Hebrew text, the Samaritan, the Septuagint, Josephus, and some of the fathers, is greatly embarrassed; and it is yet much more so in the various systems of learned and unlearned chronologists. For a full and rational view of this subject, into which the nature of these notes forbids me farther to enter, I must refer my reader to Dr. Hales's laborious work, \"A New Analysis of Sacred Chronology,\" vol. ii., part 1, etc., in which he enters into the subject with a cautious but firm step; and, if he has not been able to remove all its difficulties, has thrown very considerable light upon most parts of it."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 11:12",
+      "note_ref": "CLARKE/1/11/12",
+      "cites": [
+        "Genesis 11:12"
+      ],
+      "text": "And Arphaxad lived - The Septuagint bring in here a second Cainan, with an addition of one hundred and thirty years. St. Luke follows the Septuagint, and brings in the same person in the same way. But the Hebrew text, both here and in 1 Chronicles 1:1-28, is perfectly silent on this subject, and the best chronologists have agreed in rejecting this as a spurious generation."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 3:23",
+      "note_ref": "CLARKE/42/3/23",
+      "cites": [
+        "Luke 3:35-36"
+      ],
+      "text": "Thirty years of age - This was the age required by the law, to which the priests must arrive before they could be installed in their office: see Num 4:3.\nBeing (as was supposed) the son of Joseph - This same phrase is used by Herodotus to signify one who was only reputed to be the son of a particular person: τουτου παις νομιζεται he was Supposed to be this man's son. Much learned labor has been used to reconcile this genealogy with that in St. Matthew, Matthew 1:1-17, and there are several ways of doing it; the following, which appears to me to be the best, is also the most simple and easy. For a more elaborate discussion of the subject, the reader is referred to the additional observations at the end of the chapter. Matthew, in descending from Abraham to Joseph, the spouse of the blessed virgin, speaks of Sons properly such, by way of natural generation: Abraham begat Isaac, and Isaac begat Jacob, etc. But Luke, in ascending from the Savior of the world to God himself, speaks of sons either properly or improperly such: on this account he uses an indeterminate mode of expression, which may be applied to sons either putatively or really such. And Jesus himself began to be about thirty years of age, being, as was Supposed the son of Joseph - of Heli - of Matthat, etc. This receives considerable support from Raphelius's method of reading the original ων (ὡς ενομιζετο υἱος Ιωσηφ) του Ἡλι, being (when reputed the son of Joseph) the son of Heli, etc. That St. Luke does not always speak of sons properly such, is evident from the first and last person which he names: Jesus Christ was only the supposed son of Joseph, because Joseph was the husband of his mother Mary: and Adam, who is said to be the son of God, was such only by creation. After this observation it is next necessary to consider, that, in the genealogy described by St. Luke, there are two sons improperly such: i.e. two sons-in-law, instead of two sons. As the Hebrews never permitted women to enter into their genealogical tables, whenever a family happened to end with a daughter, instead of naming her in the genealogy, they inserted her husband, as the son of him who was, in reality, but his father-in-law. This import, bishop Pearce has fully shown, νομιζεσθαι bears, in a variety of places - Jesus was considered according to law, or allowed custom, to be the son of Joseph, as he was of Heli. The two sons-in-law who are to be noticed in this genealogy are Joseph the son-in-law of Heli, whose own father was Jacob, Mat 1:16; and Salathiel, the son-in-law of Neri, whose own father was Jechonias: Ch1 3:17, and Mat 1:12. This remark alone is sufficient to remove every difficulty. Thus it appears that Joseph, son of Jacob, according to St. Matthew, was son-in-law of Heli, according to St. Luke. And Salathiel, son of Jechonias, according to the former, was son-in-law of Neri, according to the latter. Mary therefore appears to have been the daughter of Heli; so called by abbreviation for Heliachim, which is the same in Hebrew with Joachim. Joseph, son of Jacob, and Mary; daughter of Heli, were of the same family: both came from Zerubbabel; Joseph from Abiud, his eldest son, Mat 1:13, and Mary by Rhesa, the youngest. See Luk 3:27. Salathiel and Zorobabel, from whom St. Matthew and St. Luke cause Christ to proceed, were themselves descended from Solomon in a direct line: and though St. Luke says that Salathiel was son of Neri, who was descended from Nathan, Solomon's eldest brother, Ch1 3:5, this is only to be understood of his having espoused Nathan's daughter, and that Neri dying, probably, without male issues the two branches of the family of David, that of Nathan and that of Solomon, were both united in the person of Zerubbabel, by the marriage of Salathiel, chief of the regal family of Solomon, with the daughter of Neri, chief and heretrix of the family of Nathan. Thus it appears that Jesus, son of Mary, reunited in himself all the blood, privileges, and rights of the whole family of David; in consequence of which he is emphatically called, The son of David. It is worthy of being remarked that St. Matthew, who wrote principally for the Jews, extends his genealogy to Abraham through whom the promise of the Messiah was given to the Jews; but St. Luke, who wrote his history for the instruction of the Gentiles, extends his genealogy to Adam, to whom the promise of the Redeemer was given in behalf of himself and of all his posterity. See the notes on Mat 1:1, etc.",
+      "anchor": true
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 3:36",
+      "note_ref": "CLARKE/42/3/36",
+      "cites": [
+        "Luke 3:35-36"
+      ],
+      "text": "Of Cainan - This Cainan, the son of Arphaxad, and father of Sala, is not found in any other Scripture genealogy. See Gen 10:24; Gen 11:12; Ch1 1:18, Ch1 1:24, where Arphaxad is made the father of Sala, and no mention at all made of Cainan. Some suppose that Cainan was a surname of Sala, and that the names should be read together thus, The son of Heber, the son of Salacainan, the son of Arphaxad, etc. If this does not untie the knot, it certainly cuts it; and the reader may pass on without any great scruple or embarrassment. There are many sensible observations on this genealogy in the notes at the end of Bishop Newcome's Harmony."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 10:23",
+      "note_ref": "KD/1/10/23",
+      "cites": [
+        "Genesis 10:24"
+      ],
+      "text": "Descendants of Aram. Uz: a name which occurs among the Nahorides (Gen 22:21) and Horites (Gen 36:28), and which is associated with the Αἰσῖται of Ptolemy, in Arabia deserta towards Babylon; this is favoured by the fact that Uz, the country of Job, is called by the lxx χώρα Αὐσῖτις, although the notion that these Aesites were an Aramaean tribe, afterwards mixed up with Nahorides and Horites, is mere conjecture. Hul: Delitzsch associates this with Cheli (Cheri), the old Egyptian name for the Syrians, and the Hylatae who dwelt near the Emesenes (Plin. 5, 19). Gether he connects with the name give in the Arabian legends to the ancestor of the tribes Themd and Ghadis. Mash: for which we find Meshech in Ch1 1:17, a tribe mentioned in Psa 120:5 along with Kedar, and since the time of Bochart generally associated with the πορος Μάσιον above Nisibis."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 10:25",
+      "note_ref": "KD/1/10/25",
+      "cites": [
+        "Genesis 10:24"
+      ],
+      "text": "Among the descendants of Arphaxad, Eber's eldest son received the name of Peleg, because in his days the earth, i.e., the population of the earth, was divided, in consequence of the building of the tower of Babel (Gen 11:8). His brother Joktan is called Kachtan by the Arabians, and is regarded as the father of all the primitive tribes of Arabia. The names of his sons are given in Gen 10:26-29. There are thirteen of them, some of which are still retained in places and districts of Arabia, whilst others are not yet discovered, or are entirely extinct. Nothing certain has been ascertained about Almodad, Jerah, Diklah, Obal, Abimael, and Jobab. Of the rest, Sheleph is identical with Salif or Sulaf (in Ptl. 6, 7, Σαλαπηνοί), an old Arabian tribe, also a district of Yemen. Hazarmaveth (i.e., forecourt of death) is the Arabian Hadhramaut in South-eastern Arabia on the Indian Ocean, whose name Jauhari is derived from the unhealthiness of the climate. Hadoram: the Ἀδραμῖται of Ptol. 6, 7, Atramitae of Plin. 6, 28, on the southern coast of Arabia. Uzal: one of the most important towns of Yemen, south-west of Mareb. Sheba: the Sabaeans, with the capital Saba or Mareb, Mariaba regia (Plin.), whose connection with the Cushite (Gen 10:7) and Abrahamite Sabaeans (Gen 25:3) is quite in obscurity. Ophir has not yet been discovered in Arabia; it is probably to be sought on the Persian Gulf, even if the Ophir of Solomon was not situated there. Havilah appears to answer to Chaulaw of Edrisi, a district between Sanaa and Mecca. But this district, which lies in the heart of Yemen, does not fit the account in Sa1 15:7, nor the statement in Gen 25:18, that Havilah formed the boundary of the territory of the Ishmaelites. These two passages point rather to Χαυλοταῖοι, a place on the border of Arabia Petraea towards Yemen, between the Nabataeans and Hagrites, which Strabo describes as habitable."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 11:10",
+      "note_ref": "KD/1/11/10",
+      "cites": [
+        "Genesis 11:12"
+      ],
+      "text": "After describing the division of the one family which sprang from the three sons of Noah, into many nations scattered over the earth and speaking different languages, the narrative returns to Shem, and traces his descendants in a direct line to Terah the father of Abraham. The first five members of this pedigree have already been given in the genealogy of the Shemites; and in that case the object was to point out the connection in which all the descendants of Eber stood to one another. They are repeated here to show the direct descent of the Terahites through Peleg from Shem, but more especially to follow the chronological thread of the family line, which could not be given in the genealogical tree without disturbing the uniformity of its plan. By the statement in Gen 11:10, that \"Shem, a hundred years old, begat Arphaxad two years after the flood,\" the chronological date already given of Noah's age at the birth of his sons (Gen 5:32) and at the commencement of the flood (Gen 7:11) are made still more definite. As the expression \"after the flood\" refers to the commencement of the flood (Gen 9:28), and according to Gen 7:11 the flood began in the second month, or near the beginning of the six hundredth year of Noah's life, though the year 600 is given in Gen 7:6 in round numbers, it is not necessary to assume, as some do, in order to reconcile the difference between our verse and Gen 5:32, that the number 500 in Gen 5:32 stands as a round number for 502. On the other hand, there can be no objection to such an assumption. The different statements may be easily reconciled by placing the birth of Shem at the end of the five hundredth year of Noah's life, and the birth of Arphaxad at the end of the hundredth year of that of Shem; in which case Shem would be just 99 years old when the flood began, and would be fully 100 years old \"two years after the flood,\" that is to say, in the second year from the commencement of the flood, when he begat Arphaxad. In this case the \"two years after the flood\" are not to be added to the sum-total of the chronological data, but are included in it. The table given here forms in a chronological and material respect the direct continuation of the one in Gen 5, and differs from it only in form, viz., by giving merely the length of life of the different fathers before and after the birth of their sons, without also summing up the whole number of their years as is the case there, since this is superfluous for chronological purposes. But on comparing the chronological data of the two tables, we find this very important difference in the duration of life before and after the flood, that the patriarchs after the flood lived upon an average only half the number of years of those before it, and that with Peleg the average duration of life was again reduced by one half. Whilst Noah with his 950 years belonged entirely to the old world, and Shem, who was born before the flood, reached the age of 600, Arphaxad lived only 438 years, Salah 433, and Eber 464; and again, with Peleg the duration of life fell to 239 years, Reu also lived only 239 years, Serug 230, and Nahor not more than 148. Here, then, we see that the two catastrophes, the flood and the separation of the human race into nations, exerted a powerful influence in shortening the duration of life; the former by altering the climate of the earth, the latter by changing the habits of men. But while the length of life diminished, the children were born proportionally earlier. Shem begat his first-born in his hundredth year, Arphaxad in the thirty-fifth, Salah in the thirtieth, and so on to Terah, who had no children till his seventieth year; consequently the human race, notwithstanding the shortening of life, increased with sufficient rapidity to people the earth very soon after their dispersion. There is nothing astonishing, therefore, in the circumstance, that wherever Abraham went he found tribes, towns, and kingdoms, though only 365 years had elapsed since the flood, when we consider that eleven generations would have followed one another in that time, and that, supposing every marriage to have been blessed with eight children on an average (four male and four female), the eleventh generation would contain 12,582,912 couples, or 25,165,824 individuals. And is we reckon ten children as the average number, the eleventh generation would contain 146,484,375 pairs, or 292,968,750 individuals. In neither of these cases have we included such of the earlier generations as would be still living, although their number would be by no means inconsiderable, since nearly all the patriarchs from Shem to Terah were alive at the time of Abram's migration. In Gen 11:26 the genealogy closes, like that in Gen 5:32, with the names of three sons of Terah, all of whom sustained an important relation to the subsequent history, viz., Abram as the father of the chosen family, Nahor as the ancestor of Rebekah (cf. Gen 11:29 with Gen 22:20-23), and Haran as the father of Lot (Gen 11:27)."
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 10:21",
+      "note_ref": "MHC/1/10/21",
+      "cites": [
+        "Genesis 10:24"
+      ],
+      "text": "Two things especially are observable in this account of the posterity of Shem: -\nI. The description of Shem, Gen 10:21. We have not only his name, Shem, which signifies a name, but two titles to distinguish him by: -\n1. He was the father of all the children of Eber. Eber was his great grandson; but why should he be called the father of all his children, rather than of all Arphaxad's, or Salah's, etc.? Probably because Abraham and his seed, God's covenant-people, not only descended from Heber, but from him were called Hebrews; Gen 14:13, Abram the Hebrew. Paul looked upon it as his privilege that he was a Hebrew of the Hebrews, Phi 3:5. Eber himself, we may suppose, was a man eminent for religion in a time of general apostasy, and a great example of piety to his family; and, the holy tongue being commonly called from him the Hebrew, it is probable that he retained it in his family, in the confusion of Babel, as a special token of God's favour to him; and from him the professors of religion were called the children of Eber. Now, when the inspired penman would give Shem an honourable title, he calls him the father of the Hebrews. Though when Moses wrote this, they were a poor despised people, bond-slaves in Egypt, yet, being God's people, it was an honour to a man to be akin to them. As Ham, though he had many sons, is disowned by being called the father of Canaan, on whose seed the curse was entailed (Gen 9:22), so Shem, though he had many sons, is dignified with the title of the father of Eber, on whose seed the blessing was entailed. Note, a family of saints is more truly honourable than a family of nobles, Shem's holy seed than Ham's royal seed, Jacob's twelve patriarchs than Ishmael's twelve princes, Gen 17:20. Goodness is true greatness.\n2. He was the brother of Japheth the elder, by which it appears that, though Shem is commonly put first, he was not Noah's first-born, but Japheth was older. But why should this also be put as part of Shem's title and description, that he was the brother of Japheth, since it had been, in effect, said often before? And was he not as much brother to Ham? Probably this was intended to signify the union of the Gentiles with the Jews in the church. The sacred historian had mentioned it as Shem's honour that he was the father of the Hebrews; but, lest Japheth's seed should therefore be looked upon as for ever shut out from the church, he here reminds us that he was the brother of Japheth, not in birth only, but in blessing; for Japheth was to dwell in the tents of Shem. Note, (1.) Those are brethren in the best manner that are so by grace, and that meet in the covenant of God and in the communion of saints. (2.) God, in dispensing his grace, does not go by seniority, but the younger sometimes gets the start of the elder in coming into the church; so the last shall be first and the first last.\nII. The reason of the name of Peleg (Gen 10:25): Because in his days (that is, about the time of his birth, when his name was given him), was the earth divided among the children of men that were to inhabit it; either when Noah divided it by an orderly distribution of it, as Joshua divided the land of Canaan by lot, or when, upon their refusal to comply with that division, God, in justice, divided them by the confusion of tongues: whichsoever of these was the occasion, pious Heber saw cause to perpetuate the remembrance of it in the name of his son; and justly may our sons be called by the same name, for in our days, in another sense, is the earth, the church, most wretchedly divided.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 11:10",
+      "note_ref": "MHC/1/11/10",
+      "cites": [
+        "Genesis 11:12"
+      ],
+      "text": "We have here a genealogy, not an endless genealogy, for here it ends in Abram, the friend of God, and leads further to Christ, the promised seed, who was the son of Abram, and from Abram the genealogy of Christ is reckoned (Mat 1:1, etc.); so that put ch. 5, ch. 11, and Mt. 1, together, and you have such an entire genealogy of Jesus Christ as cannot be produced, for aught I know, concerning any person in the world, out of his line, and at such a distance from the fountain-head. And, laying these three genealogies together, we shall find that twice ten, and thrice fourteen, generations or descents, passed between the first and second Adam, making it clear concerning Christ that he was not only the Son of Abraham, but the Son of man, and the seed of woman. Observe here, 1. Nothing is left upon record concerning those of this line but their names and ages, the Holy Ghost seeming to hasten through them to the story of Abram. How little do we know of those that have gone before us in this world, even those that lived in the same places where we live, as we likewise know little of those that are our contemporaries in distant places! we have enough to do to mind the work of our own day, and let God alone to require that which is past, Ecc 3:15. 2. There was an observable gradual decrease in the years of their lives. Shem reached to 600 years, which yet fell short of the age of the patriarchs before the flood; the next three came short of 500; the next three did not reach to 300; after them we read not of any that attained to 200, except Terah; and, not many ages after this, Moses reckoned seventy, or eighty, to be the utmost men ordinarily arrive at. When the earth began to be replenished, men's lives began to shorten; so that the decrease is to be imputed to the wise disposal of Providence, rather than to any decay of nature. For the elect's sake, men's days are shortened; and, being evil, it is well they are few, and attain not to the years of the lives of our fathers, Gen 47:9. 3. Eber, from whom the Hebrews were denominated, was the longest-lived of any that was born after the flood, which perhaps was the reward of his singular piety and strict adherence to the ways of God."
+    },
+    {
+      "src": "MHC",
+      "ref": "Luke 3:21",
+      "note_ref": "MHC/42/3/21",
+      "cites": [
+        "Luke 3:35-36"
+      ],
+      "text": "The evangelist mentioned John's imprisonment before Christ's being baptized, though it was nearly a year after it, because he would finish the story of John's ministry, and then introduce that of Christ. Now here we have,\nI. A short account of Christ's baptism, which had been more fully related by St. Matthew. Jesus came, to be baptized of John, and he was so, Luk 3:21, Luk 3:22.\n1. It is here said that, when all the people were baptized, then Jesus was baptized: all that were then present. Christ would be baptized last, among the common people, and in the rear of them; thus he humbled himself, and made himself of no reputation, as one of the least, nay, as less than the least. He saw what multitudes were hereby prepared to receive him, and then he appeared.\n2. Notice is here taken of Christ's praying when he was baptized, which was not in Matthew: being baptized, and praying. He did not confess sin, as others did, for he had none to confess; but he prayed, as others did, for he would thus keep up communion with his Father. Note, The inward and spiritual grace of which sacraments are the outward and visible signs must be fetched in by prayer; and therefore prayer must always accompany them. We have reason to think that Christ now prayed for this manifestation of God's favour to him which immediately followed; he prayed for the discovery of his Father's favour to him, and the descent of the Spirit. What was promised to Christ, he must obtain by prayer: Ask of me and I will give thee, etc. Thus he would put an honour upon prayer, would tie us to it, and encourage us in it.\n3. When he prayed, the heaven was opened. He that by his power parted the waters, to make a way through them to Canaan, now by his power parted the air, another fluid element, to open a correspondence with the heavenly Canaan. Thus was there opened to Christ, and by him to us, a new and living way into the holiest; sin had shut up heaven, but Christ's prayer opened it again. Prayer is an ordinance that opens heaven: Knock, and it shall be opened unto you.\n4. The Holy Ghost descended in a bodily shape like a dove upon him; our Lord Jesus was now to receive greater measures of the Spirit than before, to qualify him for his prophetical office, Isa 61:1. When he begins to preach, the Spirit of the Lord is upon him. Now this is here expressed by a sensible evidence for his encouragement in his work, and for the satisfaction of John the Baptist; for he was told before that by this sign it should be notified to him which was the Christ. Dr. Lightfoot suggests that the Holy Ghost descended in a bodily shape, that he might be revealed to be a personal substance, and not merely an operation of the Godhead: and thus (saith he) was made a full, clear, and sensible demonstration of the Trinity, at the beginning of the gospel; and very fitly is this done at Christ's baptism, who was to make the ordinance of baptism a badge of the profession of that faith in the doctrine of the Trinity, Father, Son, and Holy Ghost.\n5. There came a voice from heaven, from God the Father, from the excellent glory (so it is expressed, Pe2 1:17), Thou art my beloved Son. Here, and in Mark, it is expressed as spoken to Christ; in Matthew as spoken of him: This is my beloved Son. It comes all to one; it was intended to be a notification to John, and as such was properly expressed by, This is my beloved Son; and likewise an answer to his prayer, and so it is most fitly expressed by. Thou art. It was foretold concerning the Messiah, I will be his Father, and he shall be my Son, Sa2 7:14. I will make him my First-born, Psa 89:27. It was also foretold that he should be God's elect, in whom his soul delighted (Isa 42:1); and, accordingly, it is here declared, Thou art my beloved Son, in whom I am well pleased.\nII. A long account of Christ's pedigree, which had been more briefly related by St. Matthew. Here is,\n1. His age: He now began to be about thirty years of age. So old Joseph was when he stood before Pharaoh (Gen 41:46), David when he began to reign (Sa2 5:4), and at this age the priests were to enter upon the full execution of their office, Num 4:3. Dr. Lightfoot thinks that it is plain, by the manner of expression here, that he was just twenty-nine years old complete, and entering upon his thirtieth year, in the month Tisri; that, after this, he lived three years and a half, and died when he was thirty-two years and a half old. Three years and a half, the time of Christ's ministry, is a period of time very remarkable in scripture. Three years and six months the heavens were shut up in Elijah's time, Luk 4:25; Jam 5:17. This was the half week in which the Messiah was to confirm the covenant, Dan 9:27. This period is expressed in the prophetical writings by a time, times, and half a time (Dan 12:7; Rev 12:14); and by forty-two months, and a thousand two hundred and threescore days, Rev 11:2, Rev 11:3. It is the time fixed for the witnesses' prophesying in sackcloth, in conformity to Christ's preaching in his humiliation just so long.\n2. His pedigree, Luk 3:23, etc. Matthew had given us somewhat of this. He goes no higher than Abraham, but Luke brings it as high as Adam. Matthew designed to show that Christ was the son of Abraham, in whom all the families of the earth are blessed, and that he was heir to the throne of David; and therefore he begins with Abraham, and brings the genealogy down to Jacob, who was the father of Joseph, and heir-male of the house of David: but Luke, designing to show that Christ was the seed of the woman, that should break the serpent's head, traces his pedigree upward as high as Adam, and begins it with Ei, or Heli, who was the father, not of Joseph, but of the virgin Mary. And some suggest that the supply which our translators all along insert here is not right, and that it should not be read which, that is, which Joseph was the son of Heli, but which Jesus; he was the son of Joseph, of Eli, of Matthat, etc., and he, that is, Jesus, was the son of Seth, of Adam, of God, Luk 3:38. The difference between the two evangelists in the genealogy of Christ has been a stumbling-block to infidels that cavil at the word, but such a one as has been removed by the labours of learned men, both in the early ages of the church and in latter times, to which we refer ourselves. Matthew draws the pedigree from Solomon, whose natural line ending in Jechonias, the legal right was transferred to Salathiel, who was of the house of Nathan, another son of David, which line Luke here pursues, and so leaves out all the kings of Judah. It is well for us that our salvation doth not depend upon our being able to solve all these difficulties, nor is the divine authority of the gospels at all weakened by them; for the evangelists are not supposed to write these genealogies either of their own knowledge or by divine inspiration, but to have copied them out of the authentic records of the genealogies among the Jews, the heralds' books, which therefore they were obliged to follow; and in them they found the pedigree of Jacob, the father of Joseph, to be as it is set down in Matthew; and the pedigree of Heli, the father of Mary, to be as it is set down here in Luke. And this is the meaning of hōs enomizeto (Luk 3:23), not, as it was supposed, referring only to Joseph, but uti sancitum est lege - as it is entered into the books, as we find it upon record; by which is appeared that Jesus was both by father and mother's side the Son of David, witness this extract out of their own records, which any one might at that time have liberty to compare with the original, and further the evangelists needed not to go; nay, had they varied from that, they had not gained their point. Its not being contradicted at that time is satisfaction enough to us now that it is a true copy, as it is further worthy of observation, that, when those records of the Jewish genealogies had continued thirty or forty years after these extracts out of them, long enough to justify the evangelists therein, they were all lost and destroyed with the Jewish state and nation; for now there was no more occasion for them.\nOne difficulty occurs between Abraham and Noah, which gives us some perplexity, Luk 3:35, Luk 3:36. Sala is said to be the son of Cainan, and he the son of Arphaxad, whereas Sala was the son of Arphaxad (Gen 10:24; Gen 11:12), and there is no such man as Cainan found there. But, as to that, it is sufficient to say that the Seventy Interpreters, who, before our Saviour's time, translated the Old Testament into Greek, for reasons best known to themselves inserted that Cainan; and St. Luke, writing among the Hellenist Jews, was obliged to make use of that translation, and therefore to take it as he found it.\nThe genealogy concludes with this, who was the son of Adam, the son of God. (1.) Some refer it to Adam; he was in a peculiar manner the son of God, being, more immediately than any of his offspring, the offspring of God by creation. (2.) Others refer it to Christ, and so make the last words of this genealogy to denote his divine and human nature. He was both the Son of Adam and the Son of God that he might be a proper Mediator between God and the sons of Adam, and might bring the sons of Adam to be, through him, the sons of God.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 10:22",
+      "note_ref": "TYN/1/10/22",
+      "cites": [
+        "Genesis 10:24"
+      ],
+      "text": "10:22 The descendants of Elam lived in the region of modern southwestern Iran (see 14:1, 9; Ezra 4:9; Isa 11:11). • The descendants of Asshur were later Assyrians who lived under Nimrod’s jurisdiction (see Gen 10:11). Sumerians descended from Ham were ousted by Mesopotamian Semites. • Arphaxad possibly settled northeast of Nineveh; his descendants are further described in 11:12-26. • Lud was near the Tigris River; its people were related to the Lydians (see 10:13). • Aram was a kingdom of tribes that lived in the Mesopotamian plains."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 10:23",
+      "note_ref": "TYN/1/10/23",
+      "cites": [
+        "Genesis 10:24"
+      ],
+      "text": "10:23 The patriarchs later interacted with the descendants of Aram (see 25:20; 31:20; Deut 26:5). • Uz was the chief Aramean tribe, possibly located northeast of the Jordan; it was Job’s home (see Job 1:1; see also Lam 4:21). • Hul is unknown. He possibly founded Armenia. • Gether is unknown; he was possibly the founder of the Syrians. • Mash might be associated with Mount Masus in northern Mesopotamia or with a part of the Lebanon Mountains."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 10:24",
+      "note_ref": "TYN/1/10/24",
+      "cites": [
+        "Genesis 10:24"
+      ],
+      "text": "10:24 Shelah is unknown, but may be short for Methushelah (cp. 38:5, 11). • Eber was the ancestor of Abram the Hebrew (11:10-26); his name is at the root of the term “Hebrew” (see 14:13; 39:14; 40:15; 41:12; Exod 2:11; 3:18)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 10:25",
+      "note_ref": "TYN/1/10/25",
+      "cites": [
+        "Genesis 10:24"
+      ],
+      "text": "10:25 Peleg means division, anticipating the separation of people into language groups after Babel (11:1-9). Peleg’s line led to Abram (see 11:16-26). • Joktan was the ancestor of the southern Arabian tribes. The Ishmaelite tribes were in northern Arabia (see 25:13-16)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 11:10",
+      "note_ref": "TYN/1/11/10",
+      "cites": [
+        "Genesis 11:12"
+      ],
+      "text": "11:10 This account of Shem’s family resumes the line of Shem from 10:21-32, now with special focus on the line leading to Abram. Only Abram and Israel are heirs to Shem’s God (see 9:26-27; Deut 32:8-9). The Babel story vividly repudiates the culture that Abram was called to abandon (Gen 12:1; 24:6-7). Together with the account of Terah’s descendants (11:27-32), this second account of Shem’s line forms a bridge from the universal history of chs 1–11 to the national history of Israel that begins in ch 12. Abram is the remnant from Babel’s confused world. God called him as an act of grace whereby the fractured world of Babel would be blessed (12:3). • the father of: Or the ancestor of; Hebrew genealogies do not necessarily list every single generation."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 3:32",
+      "note_ref": "TYN/42/3/32",
+      "cites": [
+        "Luke 3:35-36"
+      ],
+      "text": "3:32 Boaz was the husband of Ruth the Moabite (see Ruth 2–4).",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 3:38",
+      "note_ref": "TYN/42/3/38",
+      "cites": [
+        "Luke 3:35-36"
+      ],
+      "text": "3:38 Seth was the third son of Adam and Eve, born after Cain murdered Abel and God banished him (Gen 4:25-26). • Adam was the son of God: Adam had no earthly father since God created him. In the temptation that follows, Satan repeatedly says to Jesus, “If you are the Son of God. . . .” Adam, the first son of God, failed when tested, but Jesus, the Son of God in the fullest sense, successfully resisted temptation."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 10:21",
+      "note_ref": "GNV/1/10/21",
+      "cites": [
+        "Genesis 10:24"
+      ],
+      "text": "Of whom came the Hebrews or Jews.\nIn his stock the Church was preserved: therefore Moses leaveth off speaking of Japheth and Ham, and entreateth of Shem more at large.",
+      "anchor": true
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 10:25",
+      "note_ref": "GNV/1/10/25",
+      "cites": [
+        "Genesis 10:24"
+      ],
+      "text": "This division came by the diversity of languages, as appeareth, Gen. 11:9."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 11:10",
+      "note_ref": "GNV/1/11/10",
+      "cites": [
+        "Genesis 11:12"
+      ],
+      "text": "He returneth to the genealogy of Shem, to come to the history of Abram, wherein the Church of God is described, which is Moses’ principle purpose."
+    },
+    {
+      "src": "GNV",
+      "ref": "Luke 3:23",
+      "note_ref": "GNV/42/3/23",
+      "cites": [
+        "Luke 3:35-36"
+      ],
+      "text": "The stock of Christ, according to the flesh, is brought by order even to Adam, and so to God, that it might appear, that he only it was, whom God promised to Abraham and David, and appointed from everlasting to his Church, which is gathered together of all sorts of men.",
+      "anchor": true
+    }
+  ]
+}

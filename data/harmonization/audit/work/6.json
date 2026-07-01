@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 6,
+  "question": "From what were the animals created?",
+  "summary": "Genesis 1:20 has God commanding the waters to bring forth living creatures. Genesis 2:19 states the LORD God formed every beast of the field and every bird 'out of the ground.' Two different raw materials for the same animals.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "The strongest defense argues the Hebrew of Genesis 1 never actually names a material for the birds, so the apparent water-versus-ground conflict rests on a mistranslation.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Source critic Richard Elliott Friedman reads Genesis 2 (J) as a separate account in which God hand-forms the animals from the ground, a different picture from Genesis 1 (P), where they are brought forth from the waters.",
+    "skeptic": {
+      "name": "Richard Elliott Friedman",
+      "work": "Who Wrote the Bible?",
+      "year": "1987",
+      "attribution": "Richard Elliott Friedman, Who Wrote the Bible? (1987)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Genesis 1:20",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly, arguing the Hebrew of Gen 1:20 is silent on the element animals were formed from and that the water-origin rendering is an erroneous translation that needlessly conflicts with Gen 2:19."
+      },
+      "link": {
+        "url": null
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "6#0",
+      "pole": "reconcile",
+      "source_code": "KD",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "verse_ref": "Genesis 1:20",
+      "full_note_ref": "KD/1/1/20",
+      "excerpt_text": "Earlier translators, on the contrary, have rendered the latter as a relative clause, after the πετεινὰ πετόμενα of the lxx, \"and with birds that fly;\" thus making the birds to spring out of the water, in opposition to Gen 2:19. Even with regard to the element out of which the water animals were created the text is silent …",
+      "on_tension_rationale": "Directly engages the water-vs-ground tension by name (\"in opposition to Gen 2:19\") and harmonizes it: the Hebrew text is silent on the element birds/water-animals were made from, so the conflict dissolves as a translation artifact.",
+      "source_note_text": "The Fifth Day. - \"God said: Let the waters swarm with swarms, with living beings, and let birds fly above the earth in the face (the front, i.e., the side turned towards the earth) of the firmament.\" ישׁרצוּ and יעופף are imperative. Earlier translators, on the contrary, have rendered the latter as a relative clause, after the πετεινὰ πετόμενα of the lxx, \"and with birds that fly;\" thus making the birds to spring out of the water, in opposition to Gen 2:19. Even with regard to the element out of which the water animals were created the text is silent; for the assertion that שׁרץ is to be understood \"with a causative colouring\" is erroneous, and is not sustained by Exo 8:3 or Psa 105:30. The construction with the accusative is common to all verbs of multitude. שׁרץ and שׁרץ, to creep and swarm, is applied, \"without regard to size, to those animals which congregate together in great numbers, and move about among one another.\" חיּה גפשׁ, anima viva, living soul, animated beings (vid., Gen 2:7), is in apposition to שׁרץ, \"swarms consisting of living beings.\" The expression applies not only to fishes, but to all water animals from the greatest to the least, including reptiles, etc. In carrying out His word, God created (Gen 1:21) the great \"tanninim,\" - lit., the long-stretched, from תּנן, to stretch-whales, crocodiles, and other sea-monsters; and \"all moving living beings with which the waters swarm after their kind, and all (every) winged fowl after its kind.\" That the water animals and birds of every kind were created on the same day, and before the land animals, cannot be explained on the ground assigned by early writers, that there is a similarity between the air and the water, and a consequent correspondence between the two classes of animals. For in the light of natural history the birds are at all events quite as near to the mammalia as to the fishes; and the supposed resemblance between the fins of fishes and the wings of birds, is counterbalanced by the no less striking resemblance between birds and land animals, viz., that both have feet. The real reason is rather this, that the creation proceeds throughout from the lower to the higher; and in this ascending scale the fishes occupy to a great extent a lower place in the animal economy than birds, and both water animals and birds a lower place than land animals, more especially the mammalia. Again, it is not stated that only a single pair was created of each kind; on the contrary, the words, \"let the waters swarm with living beings,\" seem rather to indicate that the animals were created, not only in a rich variety of genera and species, but in large numbers of individuals. The fact that but one human being was created at first, by no means warrants the conclusion that the animals were created singly also; for the unity of the human race has a very different signification from that of the so-called animal species. - (Gen 1:22). As animated beings, the water animals and fowls are endowed, through the divine blessing, with the power to be fruitful and multiply. The word of blessing was the actual communication of the capacity to propagate and increase in numbers."
+    }
+  ]
+}

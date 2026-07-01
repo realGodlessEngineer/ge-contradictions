@@ -1,0 +1,68 @@
+{
+  "contradiction_id": 15,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators explain that 'in the day' (Gen 2:4) is idiomatic Hebrew for the whole creative period, not a reference to a single 24-hour day — making the two accounts complementary rather than contradictory.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Robert G. Ingersoll, pressing the plain sense of 'in the day that the LORD God made the earth and heavens' against the six-day sequence of Genesis 1, argued that Genesis presents two incompatible creation timelines that cannot be reconciled by grammatical appeal.",
+      "skeptic": {
+        "name": "Robert G. Ingersoll",
+        "work": "Some Mistakes of Moses",
+        "year": "1879",
+        "attribution": "Robert G. Ingersoll (d. 1899), Some Mistakes of Moses (1879)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 15,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Genesis 2:4",
+      "excerpt_text": "in the day that the Lord God made the earth, and the heavens; meaning not any particular day, not the first day, in which the heavens and the earth were created; but referring to the whole time of the six days, in which everything in them, and relating to them, were made.",
+      "full_note_ref": "GILL/1/2/4",
+      "license_code": "PD",
+      "on_tension_rationale": "Gill directly addresses the tension: 'in the day' (Gen 2:4) is not a competing timeline but a Hebrew idiom encompassing the entire six-day creation week, so the two accounts use 'day' in different senses.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 15,
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "verse_ref": "Genesis 1:5",
+      "excerpt_text": "The Hebrew yom can refer to daylight (1:5a), to a 24-hour period (1:5b), or to an unspecified time period (2:4b, “When,” literally in the day; cp. Exod 20:8-11).",
+      "full_note_ref": "TYN/1/1/5",
+      "license_code": "PD",
+      "on_tension_rationale": "The Tyndale commentary notes the lexical range of Hebrew yom, explicitly citing 2:4b as an instance where yom denotes an indefinite period rather than a 24-hour unit — directly addressing the apparent contradiction between the six-day narrative and the single-day summary.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley discusses the 'in the day' idiom in Genesis 2:4 and the question of whether Genesis 1 and 2 present compatible or contradictory creation timelines."
+      },
+      "link": null
+    }
+  }
+}

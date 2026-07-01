@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 205,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read \"could not\" as Judah's failure of nerve, not God's inability — the iron chariots blocked the men's faith, never God's omnipotence.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells, who catalogs Judges 1:19 under \"Can God do anything?\" — arguing that a God defeated by enemy technology in one chapter cannot be the same God who routs nine hundred iron chariots a few chapters later.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Judges 1:19",
+      "excerpt_text": "but this was no reason why they could not drive them out, if God was with them, who could as easily have delivered these into their hands, as the inhabitants of the mountains; but is the reason why they were afraid to fight with them, and to attempt to drive them out, and which they themselves gave why they did not.",
+      "full_note_ref": "GILL/7/1/19",
+      "on_tension_rationale": "Directly answers the contradiction: the iron chariots are 'no reason' God could not drive them out (he could as easily have delivered them as the mountain-dwellers); 'could not' names Judah's fear, not divine limitation. The strongest single reconcile, so it parity-caps the named-skeptic discrepancy pole on this discrepancy_first row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Judges 1:9, 19",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this passage directly, reading the iron chariots as 'but as stubble to the fire' before God and the failure as Israel letting 'their fears prevail against their faith' rather than any limit on divine power."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/is-the-lord-omnipotent-or-not/",
+        "domain": "carm.org",
+        "title": "CARM: Is the Lord God omnipotent or not?",
+        "note": "live apologetic treatment of Judges 1:19 — argues Judah's failure does not mean God could not, since God works through human agents."
+      }
+    }
+  }
+}

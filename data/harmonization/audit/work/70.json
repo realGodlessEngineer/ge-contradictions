@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 70,
+  "question": "How many generations from Abraham to Moses?",
+  "summary": "Genesis 15:16 promises Abraham's descendants will return to Canaan \"in the fourth generation.\" But when you actually trace the genealogy Genesis and Exodus give — Abraham → Isaac → Jacob → Levi → Kohath → Amram → Moses — you get six or seven generations depending on how you count, not four.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders argue \"fourth generation\" is not a literal four-link count but a flexible idiom standing for the same span as the \"four hundred years\" of the previous verse.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The sharpest objection is pressed by Bishop J. W. Colenso, who argues the named generations from Levi to Moses cannot be stretched to cover the very 430-year sojourn the text itself asserts.",
+    "skeptic": {
+      "name": "John William Colenso",
+      "work": "The Pentateuch and Book of Joshua Critically Examined",
+      "year": "1862",
+      "attribution": "John William Colenso (d. 1883), The Pentateuch and Book of Joshua Critically Examined (1862)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Exodus 6:14",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly: ties the four-generation list (Levi, Kohath, Amram, Moses) to Genesis 15:16 and argues, with Tiele, that the genealogy omits an 'indefinitely long list of generations' between Amram son of Kohath and the later Amram who fathered Moses, so the four names are not a literal four-step count."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Exodus_6.16-20.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in Exodus 6:16-20?",
+        "note": "Live apologetic treatment of the Levi-Kohath-Amram-Moses genealogy against the 430-year sojourn, arguing telescoped (gapped) genealogies and 'son' as 'descendant.'"
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "70#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Genesis 15:16",
+      "full_note_ref": "CLARKE/1/15/16",
+      "excerpt_text": "In former times most people counted by generations, to each of which was assigned a term of years amounting to 20, 25, 30, 33, 100, 108, or 110; for the generation was of various lengths among various people, at different times. It is probable that the fourth generation here means the same as the four hundred years in the preceding verse.",
+      "on_tension_rationale": "Directly addresses the contradiction's hinge: it argues 'fourth generation' is an elastic idiom whose length varied, and equates it to the 400 years of v. 15 rather than a literal four-link genealogy from Levi to Moses.",
+      "source_note_text": "In the fourth generation - In former times most people counted by generations, to each of which was assigned a term of years amounting to 20, 25, 30, 33, 100, 108, or 110; for the generation was of various lengths among various people, at different times. It is probable that the fourth generation here means the same as the four hundred years in the preceding verse. Some think it refers to the time when Eleazar, the son of Aaron, the son of Amram, the son of Kohath, came out of Egypt, and divided the land of Canaan to Israel, Jos 14:1. Others think the fourth generation of the Amorites is intended, because it is immediately added, The iniquity of the Amorites is not yet full; but in the fourth generation they should be expelled, and the descendants of Abram established in their place. From these words we learn that there is a certain pitch of iniquity to which nations may arrive before they are destroyed, and beyond which Divine justice does not permit them to pass."
+    }
+  ]
+}

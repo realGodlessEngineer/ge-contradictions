@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 83,
+  "question": "When did Jacob rename Luz to Bethel?",
+  "summary": "Genesis 28 has Jacob naming Luz \"Bethel\" on his way out of Canaan, before he ever meets Rachel. Genesis 35 has God telling him to rename the same place Bethel after he's come back from Paddan-Aram with a full household — \"And Jacob called the name of the place where God spake with him, Bethel.\" Same town, same name, two different founding moments.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Harmonizers read Genesis 35 not as a fresh founding but as Jacob renewing the name he had already given the place on his outbound journey.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The sharpest objection is pressed by Steven DiMattei, who argues the two namings are independent source doublets (E at the departure, P at the return) that each proceed as if the other never happened.",
+    "skeptic": {
+      "name": "Steven DiMattei",
+      "work": "Contradictions in the Bible, #64 (\"Does Jacob name Bethel before he leaves Canaan OR on his return?\")",
+      "year": "2013",
+      "attribution": "Dr. Steven DiMattei, Contradictions in the Bible, #64 (contradictionsinthebible.com, 2013)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Genesis 28:18",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this exact pair: the place is named Bethel at the departure (Gen 28:19) and Jacob 'renewed it on his return from Mesopotamia (Gen 35:15)', citing Gen 48:3 and Gen 35:6-7 against the double-founding reading. Haley's coverage of this specific passage-pair could not be confirmed, so per spec the pd_work is anchored to a row-surfaced harmonizing commentator keyed to the passage."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) squarely engages the Bethel double-naming tension; gotquestions.org/Bethel-in-the-Bible.html mentions both verses but does not treat the conflict, so the optional link is omitted rather than using an off-topic page."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "83#0",
+      "pole": "reconcile",
+      "source_code": "KD",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "verse_ref": "Genesis 28:18",
+      "full_note_ref": "KD/1/28/18",
+      "excerpt_text": "He renewed it on his return from Mesopotamia (Gen 35:15). This is confirmed by Gen 48:3, where Jacob, like the historian in Gen 35:6-7, speaks of Luz as the place of this revelation.",
+      "on_tension_rationale": "Directly answers the two-namings tension: K&D treat the Genesis 35:15 naming as a renewal of the Genesis 28:19 naming (same single event), citing Gen 48:3 and Gen 35:6-7 as proof Jacob still calls the spot Luz/Bethel from one original revelation.",
+      "source_note_text": "In the morning Jacob set up the stone at his head, as a monument (מצּבה) to commemorate the revelation he had received from God; and poured oil upon the top, to consecrate it as a memorial of the mercy that had been shown him there (visionis insigne μνημόσυνον, Calvin), not as an idol or an object or divine worship (vid., Exo 30:26.). - He then gave the place the name of Bethel, i.e., House of God, whereas (ואוּלם) the town had been called Luz before. This antithesis shows that Jacob gave the name, not to the place where the pillar was set up, but to the town, in the neighbourhood of which he had received the divine revelation. He renewed it on his return from Mesopotamia (Gen 35:15). This is confirmed by Gen 48:3, where Jacob, like the historian in Gen 35:6-7, speaks of Luz as the place of this revelation. There is nothing at variance with this in Jos 16:2; Jos 18:13; for it is not Bethel as a city, but the mountains of Bethel, that are there distinguished from Luz (see my Commentary on Jos 16:2).\n(Note: The fact mentioned here has often been cited as the origin of the anointed stones (βαίτυλοι) of the heathen, and this heathen custom has been regarded as a degeneration of the patriarchal. But apart from this essential difference, that the Baetulian worship was chiefly connected with meteoric stones (cf. F. von Dalberg, @fcb. d. Meteor-cultus d. Alten), which were supposed to have come down from some god, and were looked upon as deified, this opinion is at variance with the circumstance, that Jacob himself, in consecrating the stone by pouring oil upon it, only followed a custom already established, and still more with the fact, that the name βαίτυλοι, Βαιτόλια, notwithstanding its sounding like Bethel, can hardly have arisen from the name Beth-El, Gr. Βαιθήλ, since the τ for θ would be perfectly inexplicable. Dietrich derives βαιτύλιον from בּטּל, to render inoperative, and interprets it amulet.)"
+    }
+  ]
+}

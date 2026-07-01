@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 241,
+  "question": "Was Solomon David's second or fourth son by Bathsheba?",
+  "summary": "2 Samuel 12 narrates the birth of Solomon as the immediate replacement child after the death of Bathsheba's first son, implying Solomon is her second son. 1 Chronicles 3:5 lists four sons born to David by Bathshua/Bathsheba in Jerusalem — Shimea, Shobab, Nathan, and Solomon — making Solomon her fourth, not her second.",
+  "consensus": "genuinely_disputed",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders read the Chronicles list as ordered by dynastic importance, not birth: Solomon is the eldest of the four but named last because the royal line runs through him.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The objection is pressed by Steve Wells of The Skeptic's Annotated Bible, who notes that 2 Samuel makes Solomon the replacement child born straight after the first son's death, while 1 Chronicles 3:5 lists him fourth of four.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible, \"Was Solomon David's second or fourth son by Bathsheba?\" (skepticsannotatedbible.com/contra/solomon.html)",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; print ed. 2013)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on 1 Chronicles 3:5",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, resolving the order: Solomon, though the eldest of the four sons, is listed last because the genealogy is continued from him."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) squarely engages the second-vs-fourth ordering tension; gotquestions sons-of-David.html and Bathshua-in-the-Bible.html mention both passages but do not explain the discrepancy, and defendinginerrancy 1_Chronicles_3.5.php is a 404. Link omitted rather than guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "241#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "1 Chronicles 3:5",
+      "full_note_ref": "CLARKE/13/3/5",
+      "excerpt_text": "Solomon is mentioned last, though he was the eldest of these four sons, because the genealogy was to be continued from him.",
+      "on_tension_rationale": "Directly answers the second-vs-fourth ordering tension: explains Solomon is listed last in 1 Chr 3:5 not because he was youngest but because he was the eldest and the line is continued from him.",
+      "source_note_text": "Shimea, and Shobab - Solomon is mentioned last, though he was the eldest of these four sons, because the genealogy was to be continued from him. Bath-shua בת שוע is the same as Bath-sheba, בת שבע the ו vau being put by mistake in the former for ב beth in the latter."
+    }
+  ]
+}

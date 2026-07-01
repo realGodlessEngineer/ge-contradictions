@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 160,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders fuse the two reasons: Moses' own Meribah sin was provoked by the people, and his public punishment served as a warning to them — so \"for your sakes\" and Moses' fault are one event.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells (Skeptic's Annotated Bible) presses the plain conflict: Numbers blames Moses' own disobedience at the rock, while Deuteronomy has Moses say God was angry \"for your sakes\" — the people's fault, not his.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"What angered God so much that he didn't allow Moses to enter the promised land?\" (skepticsannotatedbible.com/contra/angered-god.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (contra/angered-god.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Deuteronomy 3:25",
+      "excerpt_text": "But the Lord was wroth with me for your sakes … on account of he and Aaron not sanctifying him at the waters of Meribah; or of some expressions of unbelief, and unadvised words, which dropped from his lips through their provocation of him …",
+      "full_note_ref": "GILL/5/3/25",
+      "on_tension_rationale": "Directly fuses the two reasons: 'for your sakes' is explained AS Moses' own Meribah sin, which was itself provoked by the people ('through their provocation of him') — the core harmonization of Num 20 vs Deut 3:26.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Deuteronomy 3:21",
+      "excerpt_text": "But how was he wroth with Moses for the sake of Israel? Either, [1.] For that sin which they provoked him to; see Psa 106:32, Psa 106:33. Or, [2.] The removal of Moses at that time, when he could so ill be spared, was a rebuke to all Israel, and a punishment of their sin. Or, [3.] It was for their sakes, that it might be a warning to them …",
+      "full_note_ref": "MHC/5/3/21",
+      "on_tension_rationale": "Explicitly poses the contradiction question ('how was he wroth with Moses for the sake of Israel?') and enumerates the harmonizing readings of 'for your sakes' — the people provoked Moses' sin, his removal rebuked them, and it warned them — reconciling Deut 3:26 with Num 20:12.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Deuteronomy 3:25",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, explaining 'for your sakes' as Moses' own Meribah sin provoked by the people — the harmonizing reading of Num 20 vs Deut 3:26 (Haley's specific coverage of this exact pair unconfirmed, so a row-surfaced harmonizing commentator keyed to the passage is used)."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) squarely reconciles the 'for your sakes' datum with Moses' own sin. gotquestions.org/Moses-promised-land.html treats only Moses' rock-striking fault and never engages the Deuteronomy 'for your sakes' angle; defendinginerrancy.com/bible-solutions/Deuteronomy_1.37.php is a 404; no on-topic carm.org article found. Link omitted per policy rather than cite a topically-adjacent page that does not engage this tension."
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 288,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders distinguish the deed from the doer: the slaughter itself fulfilled God's command, but Jehu's self-serving motive and continued idolatry made the same act a crime in him.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells in the Skeptic's Annotated Bible, who argues God cannot coherently command and praise the Jezreel killings (2 Kings 9-10:30) and then avenge \"the blood of Jezreel\" on Jehu's house for those very killings.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (\"Did God commend or condemn Jehu for the killings at Jezreel?\", skepticsannotatedbible.com/contra/jezreel.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (contra/jezreel.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Hosea 1:4",
+      "excerpt_text": "The apparent discrepancy, however, that whereas the extermination of the royal family of Ahab by Jehu is commended by God in the second book of Kings, and Jehu is promised the possession of the throne even to the fourth generation of this sons in consequence, in the passage before us the very same act is charged against him as an act of blood-guiltiness that has to be punished, may be solved very simply by distinguishing between the act in itself, and the motive by which Jehu was instigated. … \"The massacre, therefore,\" as Calvin has very correctly affirmed, \"was a crime so far as Jehu was concerned, but with God it was righteous vengeance.\"",
+      "full_note_ref": "KD/28/1/4",
+      "on_tension_rationale": "K&D names \"the apparent discrepancy\" outright — God commends the act in Kings yet charges the very same act as blood-guiltiness in Hosea — and resolves it via the act-vs-motive distinction, capped by the Calvin quote. The single strongest, most directly on-tension reconcile voice on the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Hosea 1:4 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this exact tension under the heading of the \"apparent discrepancy,\" reconciling the commendation in 2 Kings with the avenging oracle of Hosea 1:4 by distinguishing the commanded act from Jehu's self-serving motive (Haley's coverage of this specific pair unconfirmed, so anchored to the row-surfaced commentator that treats the passage directly)."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/2_Kings_9.7.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in 2 Kings 9:7?",
+        "note": "Live apologetic treatment citing 2 Kings 9:6-10, 2 Kings 10:30, and Hosea 1:4; harmonizes via the action-vs-motivation distinction (righteous deed, unrighteous intent + continued idolatry)."
+      }
+    }
+  }
+}

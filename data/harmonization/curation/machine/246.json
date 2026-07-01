@@ -1,0 +1,67 @@
+{
+  "contradiction_id": 246,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the two labels as one man variously described — a dual-named proselyte or sojourner, a copyist's slip for \"Ishmaelite,\" or an Ishmaelite naturalized into Israel.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells in the Skeptic's Annotated Bible, who lists the two verses as conflicting in both the father's name (Ithra vs. Jether) and his ethnicity (Israelite vs. Ishmaelite).",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "2 Samuel 17:24",
+      "excerpt_text": "he is called Jether the Ishmaelite, Ch1 2:17; either because he was an Ishmaelite by birth, and being proselyted to the Jewish religion, was called an Israelite; or rather he was an Israelite by birth, and having sojourned in the land of Ishmael some time, was called an Ishmaelite, as Uriah the Hittite, and others",
+      "full_note_ref": "GILL/10/17/24",
+      "on_tension_rationale": "Directly harmonizes both name (Jether=Ithra) and the Israelite/Ishmaelite ethnicity by dual-naming (proselyte or sojourner).",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "2 Samuel 17:25",
+      "excerpt_text": "The true reading is evidently היּשׁמעאלי, an Ishmaelite, according to Ch1 2:17, where the name is written Jether, a contracted form of Jithra.",
+      "full_note_ref": "KD/10/17/25",
+      "on_tension_rationale": "Text-critical harmonization: 'Israelite' is a corruption for 'Ishmaelite'; Jether and Jithra are the same name. Addresses both points of tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "2 Samuel 17:22",
+      "excerpt_text": "whose father was by birth Jether, an Ishmaelite (Ch1 2:17), but by religion Ithra (as he is here called), an Israelite; probably he was not only proselyted, but, having married a near relation of David's, was, by some act of the state, naturalized, and is therefore called an Israelite.",
+      "full_note_ref": "MHC/10/17/22",
+      "on_tension_rationale": "Harmonizes name and ethnicity via naturalization: Ishmaelite by birth, Israelite by religion/state act. Anchor block; on-tension sentence inside.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on 2 Samuel 17:25",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this passage directly, arguing the name forms Jether/Jithra are identical and that 'Israelite' is a textual corruption for 'Ishmaelite' confirmed by 1 Chronicles 2:17."
+      },
+      "link": {
+        "url": null
+      }
+    }
+  }
+}

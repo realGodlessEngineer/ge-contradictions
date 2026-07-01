@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 169,
+  "question": "Was Moses meek?",
+  "summary": "Numbers 12:3 famously calls Moses 'very meek, above all the men which were upon the face of the earth.' Numbers 31:14-18 has Moses raging at his officers for sparing the Midianite women and personally ordering the slaughter of every male child and every non-virgin Midianite woman. The 'meekest man on earth' description sits awkwardly next to the war-crime episode.",
+  "consensus": "apparent_only",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders read Moses' meekness as patient endurance of attacks on himself, not absence of righteous anger when God's honour or Israel's good is at stake.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells of the Skeptic's Annotated Bible presses the tension at face value, holding that the Moses who orders the slaughter of the Midianite boys and women in Numbers 31 is anything but the meekest man on earth.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible, \"Was Moses meek?\"",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Was Moses meek?\" (skepticsannotatedbible.com/contra/meek.html)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Numbers 12",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this passage directly, distinguishing Moses' meekness in his own cause from his zeal in God's cause ('as bold as a lion in the cause of God, but as mild as a lamb in his own cause'), the standard harmonization of the meekness with his anger."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page squarely engages the meekness-vs-Numbers-31 character tension. defendinginerrancy.com/bible-solutions/Numbers_12.3.php treats only the self-praise/authorship difficulty of 12:3; Numbers_31.php treats only the morality of the slaughter; gotquestions.org/blessed-are-the-meek.html cites Moses' meekness generically but does not reconcile it with his anger. Link omitted rather than use an off-topic page."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "169#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Numbers 31:14",
+      "full_note_ref": "JFB/4/31/14",
+      "excerpt_text": "The displeasure of the great leader, though it appears the ebullition of a fierce and sanguinary temper, arose in reality from a pious and enlightened regard to the best interests of Israel.",
+      "on_tension_rationale": "Speaks directly to the Numbers 31 wrath the skeptic cites and reframes it as zeal for Israel's good rather than the cruelty the contradiction alleges — the strongest single harmonizing sentence on the row.",
+      "source_note_text": "And Moses was wroth with the officers of the host--The displeasure of the great leader, though it appears the ebullition of a fierce and sanguinary temper, arose in reality from a pious and enlightened regard to the best interests of Israel. No order had been given for the slaughter of the women, and in ancient war they were commonly reserved for slaves. By their antecedent conduct, however, the Midianitish women had forfeited all claims to mild or merciful treatment; and the sacred character, the avowed object of the war (Num 31:2-3), made their slaughter necessary without any special order. But why \"kill every male among the little ones\"? It was designed to be a war of extermination, such as God Himself had ordered against the people of Canaan, whom the Midianites equalled in the enormity of their wickedness."
+    }
+  ]
+}

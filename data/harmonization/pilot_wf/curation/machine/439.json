@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 439,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators across three centuries read the gap as one of counting, not fact: Luke tallies the two terminal days inclusively while Matthew and Mark count only the days between.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is catalogued by Steve Wells, whose Skeptic's Annotated Bible lists the six-vs-eight-day gap as a contradiction — though even he leaves it among the minor numerical divergences, and Luke's own \"about\" concedes the figure is approximate.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (SAB Books, 2013); skepticsannotatedbible.com/contra/transfig.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Luke 9:28",
+      "excerpt_text": "an eight days after these sayings—including the day on which this was spoken and that of the Transfiguration. Matthew and Mark say (Mat 17:1; Mar 9:2) “after six days,” excluding these two days.",
+      "full_note_ref": "JFB/42/9/28",
+      "on_tension_rationale": "States the harmonization head-on: Luke's eight includes both terminal days, Matthew/Mark's six excludes them — the exact tension in the summary.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Luke 9:26",
+      "excerpt_text": "The other evangelists, Matthew and Mark, say it was six days after: the reason of this difference is, because Luke takes in the day in which he delivered these sayings, and that in which he was transfigured, and they only reckon the intermediate days",
+      "full_note_ref": "GILL/42/9/26",
+      "on_tension_rationale": "Names the six/eight difference explicitly and gives the inclusive-vs-intermediate counting as its cause — a distinct voice making the same harmonization.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Matthew 17:1",
+      "excerpt_text": "Luke reckoneth eight days, containing in that number the first and last, and Matthew speaketh but of them that were betwixt them.",
+      "full_note_ref": "GNV/40/17/1",
+      "on_tension_rationale": "Terse independent statement of the same inclusive/exclusive reconciliation from the earliest voice on the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's standard harmonizing manual treats this class of synoptic numerical divergence — including the transfiguration interval — under inclusive vs. exclusive day-reckoning."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/after-how-many-days-did-jesus-take-the-three-men-up-the-mountain/",
+        "domain": "carm.org",
+        "title": "CARM: After how many days did Jesus take the three men up the mountain?",
+        "note": "Live apologetic treatment; reads Luke's hosei (“about”) as a rounded approximation alongside Matthew/Mark's precise six."
+      }
+    }
+  }
+}

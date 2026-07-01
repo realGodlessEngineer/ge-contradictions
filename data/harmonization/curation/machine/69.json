@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 69,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the angels and the LORD as one agency in two registers — God acting through His sent messengers, so both verses name the same author of the judgment.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by the Skeptic's Annotated Bible, which sets the angels' \"the LORD hath sent us to destroy it\" (19:13) against \"the LORD rained ... brimstone and fire from the LORD\" (19:24) and asks the text to name a single destroyer.",
+      "skeptic": {
+        "name": "Steve Wells (Skeptic's Annotated Bible)",
+        "work": "Skeptic's Annotated Bible, \"Who destroyed Sodom and Gomorrah?\" (skepticsannotatedbible.com/contra/destroy.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (contra/destroy.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 19:23",
+      "excerpt_text": "In the words \"Jehovah caused it to rain from Jehovah\" there is no distinction implied between the hidden and the manifested God, between the Jehovah present upon earth in His angels who called down the judgment, and the Jehovah enthroned in heaven who sent it down …",
+      "full_note_ref": "KD/1/19/23",
+      "on_tension_rationale": "Directly addresses the angel-vs-Yahweh agency: the angels who 'called down the judgment' and the Jehovah 'who sent it down' are one God, no distinction — collapses the contradiction's two agents into one.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Genesis 19:13",
+      "excerpt_text": "This proveth that the Angels are ministers, as well to execute God's wrath, as to declare his favor.",
+      "full_note_ref": "GNV/1/19/13",
+      "on_tension_rationale": "On the angels' 'the LORD hath sent us to destroy it' (19:13): the angels are God's ministers who execute His wrath, so their destroying is God's destroying — the harmonizing reading of the agency tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Genesis 19:24",
+      "excerpt_text": "God, in accomplishing His purposes, acts immediately or mediately through the agency of means; and there are strong grounds for believing that it was in the latter way He effected the overthrow of the cities of the plain …",
+      "full_note_ref": "JFB/1/19/24",
+      "on_tension_rationale": "On 19:24's 'the LORD rained ... from the LORD': God acts mediately through the agency of means (here, the angels/instruments), so the LORD is the author even when acting through agents — the delegation harmonization.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Genesis 19:24",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this exact agency question at Gen 19:24, holding there is 'no distinction implied' between the Jehovah present in His angels who called down the judgment and the Jehovah in heaven who sent it down."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) treats this specific angel-vs-Yahweh agency contradiction citing Gen 19:13; gotquestions Sodom-and-Gomorrah.html is about the sin and does not cite 19:13, carm slug 404s. The on-topic Answers in Genesis 'Who Destroyed Sodom?' page is off-allowlist. Link omitted rather than guessed."
+      }
+    }
+  }
+}

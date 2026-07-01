@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 33,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the repentance as anthropopathic: the words describe a change in God's dealings with corrupted humanity, not a reversal of his mind or his original verdict.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Thomas Paine pressed exactly this tension, charging that a God who pronounces his world finished and 'very good' yet later drowns it and repents of having made it is depicted as changeable, not the unchangeable Being creation itself suggests.",
+      "skeptic": {
+        "name": "Thomas Paine",
+        "work": "Letters Concerning The Age of Reason",
+        "year": "1797",
+        "attribution": "Thomas Paine (d. 1809), Letters Concerning The Age of Reason (1797)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Genesis 6:6",
+      "excerpt_text": "It does not imply any change of God's mind; for he is in one mind, and who can turn him? With him there is not variableness. But it expressed a change of his way. … so that the change was in man, not in God.",
+      "full_note_ref": "MHC/1/6/6",
+      "on_tension_rationale": "Directly answers the satisfaction-to-regret tension: the Gen 6:6 'repentance' is read as a changed dealing with apostate humanity, not a reversal of the Gen 1:31 verdict or of God's mind. Strongest single harmonization on the row; parity-capped to one because the discrepancy pole carries one named-skeptic connective.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's doctrinal-discrepancies section treats the passages on God's repentance (incl. Gen 6:6) against divine immutability, the exact mechanism of this tension."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/God-repented.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does it mean that God repented?",
+        "note": "Live apologetic treatment reading divine 'repentance' as anthropomorphic language compatible with God's unchanging nature."
+      }
+    }
+  }
+}

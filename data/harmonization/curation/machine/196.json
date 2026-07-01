@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 196,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders deny any conflict: Joshua's earlier rout did not bar the Anakim from returning, whom Caleb — acting as head of the Judaeans — then expelled a second time.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The source-critical objection is pressed by August Wilhelm Knobel, who read Caleb's expulsion of the Anakim as irreconcilable with Joshua's prior extermination of them — a seam between distinct sources.",
+      "skeptic": {
+        "name": "August Wilhelm Knobel",
+        "work": "Die Bücher Numeri, Deuteronomium, und Josua (Kurzgefasstes exegetisches Handbuch zum Alten Testament)",
+        "year": "1861",
+        "attribution": "August Wilhelm Knobel (d. 1863), Die Bücher Numeri, Deuteronomium, und Josua (1861)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Joshua 15:13",
+      "excerpt_text": "But the one does not preclude the other. Caleb did not take Hebron as an individual, but as the head of a family of Judaeans, and with their assistance. Nor is there any discrepancy between this account and the fact stated in Jos 11:21-22, that Joshua had already conquered Hebron, Debir, and all the towns of that neighbourhood, and had driven out the Anakites from the mountains of Judah, and forced them back into the towns of the Philistines, as Knobel fancies. For that expulsion did not preclude the possibility of the Anakites and Canaanites returning to their former abodes, and taking possession of the towns again, when the Israelitish army had withdrawn and was engaged in the war with the Canaanites of the north …",
+      "full_note_ref": "KD/6/15/13",
+      "on_tension_rationale": "K&D names Knobel's discrepancy charge between Josh 15:14 (Caleb) and Josh 11:21-22 (Joshua) and rebuts it directly: Caleb acted as head of the Judaeans, and Joshua's earlier expulsion did not stop the Anakim from returning to be expelled again. Single strongest reconcile; parity-capped to one to match the lone named-skeptic on this discrepancy_first row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (Joshua), on Joshua 15:13-14",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this exact pair, naming Knobel's alleged discrepancy between Josh 15:14 and Josh 11:21-22 and resolving it via the Anakim's return after Joshua's withdrawal and Caleb's renewed expulsion. Row-surfaced harmonizing commentator anchored to the passage (Haley's specific-passage coverage unconfirmed)."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org/carm.org/defendinginerrancy.com) squarely engages the Joshua-vs-Caleb Anakim pair: gotquestions Anakim.html cites no verses and does not reconcile the tension; defendinginerrancy Joshua_11.21.php 404s; the only on-topic page found (veritasdomain.wordpress.com) is off-allowlist. Link omitted per the verify-the-page-engages-the-tension rule; never guessed."
+      }
+    }
+  }
+}

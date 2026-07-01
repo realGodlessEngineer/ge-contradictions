@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 118,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators treat the clash as a translation artifact: the KJV \"covet\" renders two different Greek words, so a forbidden craving and a wholesome earnest desire are never the same act.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells, whose Skeptics Annotated Bible lists this as the contradiction \"Is it OK to covet?\", setting Paul's \"covet to prophesy\" directly against the commandment that forbids coveting.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptics Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptics Annotated Bible (2013), contradiction list, \"Is it OK to covet?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Corinthians 14:39",
+      "excerpt_text": "covet—earnestly desire. Stronger than \"forbid not\"; marking how much higher he esteemed \"prophecy\" than \"tongues.\"",
+      "full_note_ref": "JFB/46/14/39",
+      "on_tension_rationale": "Directly glosses the disputed word: the 'covet' of 1 Cor 14:39 simply means 'earnestly desire', not the forbidden craving — the heart of the harmonization.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Romans 7:7",
+      "excerpt_text": "By using the word \"lust\" only, in the wide sense of all \"irregular desire,\" or every outgoing of the heart towards anything forbidden, the sense will best be brought out …",
+      "full_note_ref": "JFB/45/7/7",
+      "on_tension_rationale": "Defines the prohibited sense as desire 'towards anything forbidden', showing the commandment targets a different object than the wholesome desire of 1 Cor 14:39.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on 1 Corinthians 14:39",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, reading 'covet to prophesy' as the wholesome 'endeavour and prayer to be able to teach the way of God', distinct from the forbidden craving."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/1_Corinthians_12.31.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: 1 Corinthians 12:31 — If coveting is wrong, why does Paul encourage coveting the best gifts?",
+        "note": "Live apologetic treatment of the same 'covet' contradiction, arguing 'covet' here means 'earnestly desire'."
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 154,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders treat the 300-Levite gap as either a copyist's slip in the clan figures or a deliberate exclusion of the Levites' own first-born from the total.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steven DiMattei counts the unbalanced totals a real contradiction, though he concedes it is a minor one that likely entered through the manuscript tradition rather than authorial intent.",
+      "skeptic": {
+        "name": "Steven DiMattei",
+        "work": "Genesis 1 and the Creationism Debate / contradictionsinthebible.com (#218)",
+        "year": "2014",
+        "attribution": "Steven DiMattei, contradictionsinthebible.com, \"#218. The total number of Levites is 22,300 OR 22,000?\" (2014)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Numbers 3:39",
+      "excerpt_text": "The separate numbers stated in Num 3:22, Num 3:28, Num 3:34, when added together, amount to twenty-two thousand three hundred. The omission of the three hundred is variously accounted for--by some, because they might be first-born who were already devoted to God and could not be counted as substitutes; and by others, because in Scripture style, the sum is reckoned in round numbers. The most probable conjecture is, that as Hebrew letters are employed for figures, one letter was, in the course of transcription, taken for another of like form but smaller value.",
+      "full_note_ref": "JFB/4/3/39",
+      "on_tension_rationale": "Directly states the 22,300 sum and lays out the three standard harmonizations of the 300 gap (first-born devoted, round numbers, scribal letter-error). The single strongest reconcile note on the row.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Numbers 3:39",
+      "excerpt_text": "The sum of the particular families amounts to 300 more; … but it is supposed that the 300 which were struck off from the account when the exchange was to be made were the first-born of the Levites themselves, born since their coming out of Egypt, which could not be put into the exchange, because they were already sanctified to God.",
+      "full_note_ref": "MHC/4/3/14",
+      "on_tension_rationale": "Block-anchored note whose sum-total section concedes the clan figures exceed 22,000 by 300 and reconciles via the first-born-Levites exclusion. Distinct voice from JFB.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Numbers 3:28",
+      "excerpt_text": "8,600: Some Greek manuscripts read 8,300. The \"six\" (Hebrew shsh) in 8,600 could result from misreading a \"three\" (Hebrew shlsh).",
+      "full_note_ref": "TYN/4/3/28",
+      "on_tension_rationale": "Locates the gap in a textual variant at the Kohathite figure (8,600 vs 8,300), the modern critical harmonization; reading 8,300 makes the clan totals sum to 22,000. Distinct voice and a distinct mechanism.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Numbers 3:39",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats this exact 300-Levite gap directly at Num 3:39, surveying the first-born, round-number, and scribal-transcription harmonizations."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page on an allowlisted apologetics domain (gotquestions.org / carm.org / defendinginerrancy.com) could be confirmed for this specific passage; link omitted rather than guessed."
+      }
+    }
+  }
+}

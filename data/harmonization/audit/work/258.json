@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 258,
+  "question": "How many stalls did Solomon have?",
+  "summary": "1 Kings 4:26 says Solomon had 40,000 stalls of horses for his chariots. 2 Chronicles 9:25 says he had 4,000 stalls for horses and chariots. The numbers differ by a factor of ten.",
+  "consensus": "probable_harmonization",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Commentators dissolve the tenfold gap two ways — a 'stall' in Kings counting ten horses to one Chronicles stable, or 'forty thousand' as an old copyist's error for 'four thousand.'",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells, who curates the contradiction at its source, presses the two figures at face value: one book says forty thousand stalls, the other four thousand, a difference of a factor of ten about the same king.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible, \"How many stalls did Solomon have?\"",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"How many stalls did Solomon have?\" (skepticsannotatedbible.com/contra/stalls.html)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on 1 Kings 4:26",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact pair directly, collating 1 Kings 4:26, 2 Chronicles 9:25, 10:26 and the versions to argue the 40,000 figure reflects a numerical corruption and 4,000 is the original."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/1_Kings_4.26.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: 1 Kings 4:26 — How can this verse say Solomon had 40,000 stalls when 2 Chronicles 9:25 says he had only 4,000 stalls?",
+        "note": "Live apologetic treatment (based on Geisler & Howe, When Critics Ask); cites both verses and harmonizes via Hebrew copyist error (rbym/rbh)."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "258#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "2 Chronicles 9:25",
+      "full_note_ref": "JFB/14/9/25",
+      "excerpt_text": "It has been conjectured [GESENIUS, Hebrew Lexicon] that the original term may signify not only stall or stable, but a number of horses occupying the same number of stalls. Supposing that ten were put together in one part, this would make forty thousand.",
+      "on_tension_rationale": "JFB names the exact 40,000-vs-4,000 gap and gives the leading harmonization: a 'stall' in Kings = ten horses per Chronicles stall, reconciling the tenfold difference.",
+      "source_note_text": "Solomon had four thousand stalls--It has been conjectured [GESENIUS, Hebrew Lexicon] that the original term may signify not only stall or stable, but a number of horses occupying the same number of stalls. Supposing that ten were put together in one part, this would make forty thousand. According to this theory of explanation, the historian in Kings refers to horses [see Kg1 10:26]; while the historian in Chronicles speaks of the stalls in which they were kept. But more recent critics reject this mode of solving the difficulty, and, regarding the four thousand stalls as in keeping with the general magnificence of Solomon's establishments, are agreed in considering the text in Kings as corrupt, through the error of some copyist."
+    }
+  ]
+}

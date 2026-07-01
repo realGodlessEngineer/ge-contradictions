@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 285,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read \"daughter of Omri\" as granddaughter — Athaliah was Ahab's daughter and Omri's granddaughter, so the two titles describe one woman.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells of the Skeptic's Annotated Bible, the source page for this entry, presses that the texts name two different fathers — Omri in 2 Kings 8:26 and 2 Chronicles 22:2, Ahab in 2 Kings 8:18 and 2 Chronicles 21:6 — and that one man cannot be both.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible (\"Who was Athaliah's father?\")",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, skepticsannotatedbible.com/contra/athaliah.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "2 Chronicles 22:2",
+      "excerpt_text": "Athaliah the daughter of Omri—more properly, \"granddaughter.\" The expression is used loosely, as the statement was made simply for the purpose of intimating that she belonged to that idolatrous race.",
+      "full_note_ref": "JFB/14/22/2",
+      "on_tension_rationale": "Directly answers the Omri/Ahab wording: 'daughter of Omri' = granddaughter, used loosely; this is the core harmonization of the named tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "2 Kings 8:25",
+      "excerpt_text": "In Kg2 8:26 and Ch2 22:2 she is called the daughter, i.e., grand-daughter, of Omri; for, according to Kg2 8:18, she was a daughter of Ahab. Omri, the grand-father, is mentioned in Kg2 8:26 as the founder of the dynasty which brought so much trouble upon Israel and Judah through its idolatry.",
+      "full_note_ref": "KD/12/8/25",
+      "on_tension_rationale": "Names all the conflicting verses (8:26, 22:2 'of Omri'; 8:18 'of Ahab') and resolves: daughter of Ahab, granddaughter of Omri the dynasty-founder.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "2 Chronicles 22:2",
+      "excerpt_text": "She was Ahab's daughter, who was the son of Omri.",
+      "full_note_ref": "GNV/14/22/2",
+      "on_tension_rationale": "Compact cross-ID stating the generational chain Athaliah—Ahab—Omri, exactly the relationship the contradiction turns on.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on 2 Kings 8:25",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly: names 2 Kgs 8:26 / 2 Chr 22:2 ('of Omri') against 2 Kgs 8:18 ('of Ahab') and resolves the wording as daughter of Ahab, granddaughter of Omri the dynasty-founder."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page squarely treats the Omri-vs-Ahab father wording: defendinginerrancy.com/bible-solutions/2_Kings_8.26.php addresses only the age (22 vs 42) discrepancy, and gotquestions.org/Athaliah-in-the-Bible.html does not harmonize the parentage. Link omitted rather than cite off-topic pages."
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 124,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Jeremiah's denial as a Hebrew comparative — God commanded obedience above sacrifice, not instead of it — so the verse never cancels the Exodus ritual law.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Karl Heinrich Graf pressed this verse as evidence that the elaborate sacrificial legislation was not given at Sinai but a later priestly development, so Jeremiah could still say God commanded no such offerings at the Exodus.",
+      "skeptic": {
+        "name": "Karl Heinrich Graf",
+        "work": "Die geschichtlichen Bücher des Alten Testaments",
+        "year": "1866",
+        "attribution": "Karl Heinrich Graf (d. 1869), Die geschichtlichen Bücher des Alten Testaments (1866); cf. his Der Prophet Jeremia erklärt (1862)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Jeremiah 7:22",
+      "excerpt_text": "Not contradicting the divine obligation of the legal sacrifices. … The negative in Hebrew often supplies the want of the comparative: not excluding the thing denied, but only implying the prior claim of the thing set in opposition to it (Hos 6:6).",
+      "full_note_ref": "JFB/24/7/22",
+      "on_tension_rationale": "Directly addresses the contradiction: explains Jeremiah 7:22's denial as a Hebrew comparative negative ('not so much … as'), so it does not cancel the Exodus command to sacrifice. Strongest single harmonization on the row; parity-capped to one because the discrepancy pole carries one named-skeptic unit.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Jeremiah 7:21-22 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage at length and directly rebuts the critical (Vatke/Hitzig/Graf) reading, arguing the verse means sacrifice was not the central covenant demand, not that God gave no sacrificial law. Preferred over Haley's general volume because his specific coverage of this passage cannot be confirmed and K&D is keyed to this verse on the row."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/did-god-speak-about-sacrifices-or-not-at-the-exodus/",
+        "domain": "carm.org",
+        "title": "Did God speak about sacrifices or not at the Exodus?",
+        "note": "Live apologetic treatment reconciling Jeremiah 7:22 with the Exodus sacrificial commands (verified on-topic)."
+      }
+    }
+  }
+}

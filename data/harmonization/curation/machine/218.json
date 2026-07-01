@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 218,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read \"first slaughter\" in 14:14 as the opening blow of the Michmash rout, not Jonathan's first feat of arms, so it never competes with the Geba garrison of 13:3.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is catalogued by Steve Wells in the Skeptic's Annotated Bible, whose entry \"Jonathan's very first slaughter (not counting the one before)\" presses that 14:14 cannot call the Michmash attack \"first\" when Jonathan had already smitten the Geba garrison in 13:3.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013; skepticsannotatedbible.com)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "1 Samuel 14:14",
+      "excerpt_text": "The second was when they slew one another, and the third when the Israelites chased them.",
+      "full_note_ref": "GNV/9/14/14",
+      "on_tension_rationale": "Geneva enumerates the slaughter sequence (first/second/third) within the Michmash battle, pinning \"first\" to the opening of THIS engagement rather than Jonathan's first-ever act, which dissolves the conflict with the Geba killing in 13:3.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Samuel 14:14",
+      "excerpt_text": "Or the first blow they struck, as the Targum, they killed about twenty men; that is, they did not stop smiting, but followed their blows so quickly, that in a very little time, as well as in a very small space of ground, so many were killed …",
+      "full_note_ref": "GILL/9/14/14",
+      "on_tension_rationale": "Gill glosses \"the first slaughter\" as \"the first blow they struck\" in this specific assault, reading \"first\" as the opening of the Michmash action and not Jonathan's first combat ever, so it does not contradict the earlier Geba garrison strike.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on 1 Samuel 14:14",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, glossing \"the first slaughter\" as the first blow struck in the Michmash assault, which distinguishes it from Jonathan's earlier strike on the Geba garrison (13:3). Used in place of Haley, whose specific coverage of this passage could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page for this specific contradiction could be confirmed on an allowlisted apologetics domain; link omitted rather than fabricated."
+      }
+    }
+  }
+}

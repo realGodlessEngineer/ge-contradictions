@@ -1,0 +1,643 @@
+{
+  "contradiction_id": 470,
+  "question": "What did the sign over Jesus' head say?",
+  "summary": "All four gospels report the *titulus* nailed to Jesus' cross — but they don't agree on the wording. Matthew 27:37: 'This is Jesus the King of the Jews.' Mark 15:26: 'The King of the Jews.' Luke 23:38: 'This is the King of the Jews.' John 19:19: 'Jesus of Nazareth the King of the Jews.' Four evangelists, four different versions of what was supposedly written on a placard fastened to a cross.",
+  "consensus": "probable_harmonization",
+  "consensus_id": 4,
+  "category": "Jesus & the Gospels",
+  "contradiction_type": "compositional",
+  "testament_scope": "NT_internal",
+  "books_in_tension": "Matthew, Mark, Luke, John",
+  "refs_raw": [
+    "Matthew 27:37",
+    "Mark 15:26",
+    "Luke 23:38",
+    "John 19:19"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Matthew 27:37",
+      "book": "Matthew",
+      "bolls": 40,
+      "ranges": [
+        [
+          27,
+          37,
+          37
+        ]
+      ]
+    },
+    {
+      "raw": "Mark 15:26",
+      "book": "Mark",
+      "bolls": 41,
+      "ranges": [
+        [
+          15,
+          26,
+          26
+        ]
+      ]
+    },
+    {
+      "raw": "Luke 23:38",
+      "book": "Luke",
+      "bolls": 42,
+      "ranges": [
+        [
+          23,
+          38,
+          38
+        ]
+      ]
+    },
+    {
+      "raw": "John 19:19",
+      "book": "John",
+      "bolls": 43,
+      "ranges": [
+        [
+          19,
+          19,
+          19
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 57,
+  "notes_raw_count": 61,
+  "notes_dropped": 4,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Matthew 27:35",
+      "note_ref": "GILL/40/27/35",
+      "cites": [
+        "Matthew 27:37"
+      ],
+      "text": "And sitting down, they watched him there. That is, the soldiers, after they had crucified Jesus, and parted his garments, sat down on the ground at the foot of the cross, and there watched him, lest his disciples should take him down; though there was no need to fear that, since they were few, and weak, and wanted courage, and were in the utmost dread and consternation themselves; or lest the people, who were very changeable with respect to Christ, one day saying Hosanna to the son of David, and another day crucify him, crucify him, should once more change their sentiments of him, and through pity to him rise and take him down; or rather, lest Jesus himself should, by his miraculous power, unloose himself, come down, and make his escape. It was usual with the Romans to set a soldier, or soldiers, to watch those that were crucified, not only before they expired, but after they were dead, lest they should be took down and buried; as appears from Petronius, Plutarch, and others (w). This seems to be the watch Pilate refers to, Mat 27:65, and over which there was a centurion, Mat 27:54.\n(w) Vid. Lipsium de Cruce, l. 2. c. 16. & Lydium. de re militari, l. 5. c. 4. p. 191. Kirchman. de funeribus Rom. append. c. 9. p. 726."
+    },
+    {
+      "src": "GILL",
+      "ref": "Matthew 27:36",
+      "note_ref": "GILL/40/27/36",
+      "cites": [
+        "Matthew 27:37"
+      ],
+      "text": "And set up over his head his accusation written,.... The Evangelist John calls it a \"title\", Joh 19:19, and Luke, a \"superscription\", Luk 23:38, and Mark, the \"superscription of his accusation\", Mar 15:26, it was what contained the sum and substance of what he was accused, and for which he was condemned, and suffered. The Syriac and Persic versions here render it, \"the cause of his death\". It was written by Pilate in Hebrew, Greek, and Latin, that all might read it; and by his orders it was put upon the cross, and over the head of Jesus by the soldiers. This title, or inscription, setting forth the person's crime, used to be carried before him, or put upon him, as he was led to execution (x): but here it was set upon the cross, and perhaps nailed unto it; to which the apostle seems to allude in Col 2:14, the substance of it was,\nthis is Jesus the king of the Jews. This was what the chief priests accused him of to Pilate, and about which he questioned him, and for which they desired he might be crucified; urging, that should he let him go, he could not be Caesar's friend. Hence Pilate wrote his accusation in this form, not so much in derision of Jesus; for by conversation with him he understood what sort of a king he was, as to the reproach of the Jews for crucifying him who was their king; being the person that was prophesied of in their books, as king of Zion, and whom they expected as such, though now they denied and rejected him,\n(x) Lipsius de Cruce, l. 2. c. 11."
+    },
+    {
+      "src": "GILL",
+      "ref": "Matthew 27:37",
+      "note_ref": "GILL/40/27/37",
+      "cites": [
+        "Matthew 27:37"
+      ],
+      "text": "Then were there two thieves crucified with him,.... Which seems contrary to one of their canons, which runs thus; .\n, \"they do not judge two in one day\" (y), unless they were both in the same crime, and died the same death: but here were three persons, Jesus, and these two malefactors, condemned and executed in one, and the same day: these two thieves were led out with Jesus, to be put to death with him, according to Luk 23:32, and were crucified with him upon the same spot of ground; their death was the same, but not their crime:\none the right hand, and another on the left; and Jesus in the midst, as John relates, Joh 19:18, and hereby was fulfilled, as Mark observes, Mar 15:28, a prophecy in Isa 53:12. If this was so ordered by Pilate, it might be done in order to cover the sin, and take off the reproach of putting an innocent person to death, suggesting hereby he was one of them; though this seems rather to be done by the Jews, the soldiers agreeing to it, for the greater reproach of Jesus; intimating, that he was the worst of these malefactors, and a ringleader of such sort of persons: and whereas they had observed, he took it ill at their hands that they should come to apprehend him with swords and staves, as if he was a thief and a robber; to vex and distress him the more, they crucify him between two such persons: but the grand reason why it was so ordered, was, that though Christ was no transgressor, he was accounted one, and stood in the room and stead of sinners, and was numbered with them, and as such was treated by divine justice, and accordingly died for them,\n(y) T. Bab. Sanhedrin, fol. 35. 1. & 46. 1. Bemidbar Rabba, sect. 8. fol. 190. 1."
+    },
+    {
+      "src": "GILL",
+      "ref": "Matthew 27:38",
+      "note_ref": "GILL/40/27/38",
+      "cites": [
+        "Matthew 27:37"
+      ],
+      "text": "And they that passed by,.... In the road to or from Jerusalem; for, it seems, the crosses were placed by the wayside; or they who passed by the cross, the populace that came from Jerusalem, on purpose to see the sight,\nreviled him, or \"blasphemed him\": they spoke all manner of evil of him, they could think of, to which he answered not a word; and which may teach us patience under the revilings of men: this was foretold of him, Psa 89:51, \"they have reproached the footsteps of thine anointed\", or \"Messiah\"; and which Jarchi explains by \"the ends of the king Messiah\"; his last times, towards the close of his days; and cites that passage in the Misna (z),\n\"in the heels, or, as Buxtorf renders it, in the end of the days of the Messiah impudence shall be multiplied,\nas it now was exceedingly:\nwagging their heads; in derision of him, and as exulting in his misery; see Isa 37:22. This also was prophesied of him in\nPsa 22:7.\n(z) Sota, c. 9. sect. 15."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 15:24",
+      "note_ref": "GILL/41/15/24",
+      "cites": [
+        "Mark 15:26"
+      ],
+      "text": "And the superscription of his accusation,.... Or \"the cause of his death\", as the Syriac and Persic versions read; the crime for which he suffered:\nwas written; over his head, upon the cross, to which it was fastened; the sum of which was,\nthe king of the Jews; See Gill on Mat 27:37."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 15:25",
+      "note_ref": "GILL/41/15/25",
+      "cites": [
+        "Mark 15:26"
+      ],
+      "text": "And with him they crucified two thieves,.... For his greater reproach;\nthe one on his right hand, and the other on his left; as if he had been one of them, and a principal among them; See Gill on Mat 27:38."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 15:26",
+      "note_ref": "GILL/41/15/26",
+      "cites": [
+        "Mark 15:26"
+      ],
+      "text": "And the Scripture was fulfilled, which saith,.... In Isa 53:12;\nand he was numbered with the transgressors: he was no transgressor of the law of God himself, but was perfectly conformable to it in his holy nature, harmless conversation, and complete obedience: he knew no sin, nor committed any in thought, word, or deed, nor could any be found in him by men or devils; and yet he was traduced as a sinner, and charged with many foul things, none of which could be proved upon him: but inasmuch as he stood in the room, and stead of sinners, and had all the sins of his people imputed to him, and laid upon him, with his own consent, he was treated by the justice of God as if he had been a transgressor, and was reckoned as such; of which his being placed between two thieves, was a symbol and representation: hence he was stricken, and wounded, and died, for the sins of those in whose place he stood. The fifty third chapter of Isaiah, where this passage stands, is a manifest prophecy of the Messiah, as several of the Jewish writers themselves, both ancient and modern, acknowledge; though some would apply it to some other persons (y).\n(y) See my Book of the Prophecies of the Old Testament, &c. p. 160, 161, &c."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 15:27",
+      "note_ref": "GILL/41/15/27",
+      "cites": [
+        "Mark 15:26"
+      ],
+      "text": "And they that passed by,.... In the road, and went by the cross. The Arabic version adds, \"before him\", Christ, as he hung on the cross:\nrailed on him, wagging their heads; gave him opprobrious language, and used indecent gestures;\nand saying, ah! thou that destroyest the temple; the Vulgate Latin version adds, \"of God\":\nand buildest it in three days; thou poor vain miserable creature, that boasted of thy power, where art thou now? and what dost thou think of thyself?"
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 23:36",
+      "note_ref": "GILL/42/23/36",
+      "cites": [
+        "Luke 23:38"
+      ],
+      "text": "But the other answering, rebuked him,.... That is, the other malefactor made answer to him, and reproved him for his baseness and wickedness:\nsaying, dost not thou fear God; or \"neither dost thou fear God\", any more than these priests, people, and soldiers, that are acting such a barbarous and inhuman part to a man in misery: and wilt thou do the same, and show that thou art an impious wretch, now thou art just going out of the world, and neither fears God, nor regards man, and art without compassion to a fellow sufferer, adding sin to sin,\nseeing thou art in the same condemnation? undergoing the same sort of punishment, though not on the same account, which might be the reason why they suffered on the same day: for the Jews say (a), they never judge (or condemn) two in one day, but one today, and the other tomorrow; but if they are in one transgression,\n, \"and one death\", as an adulterer with an adulteress, they condemn them both in one day; but if the adulterer lies with a priest's daughter, seeing he is to be strangled, and she to be burnt, they do not execute them both in one day.''\n(a) Maimon. Hilch. Sanhedrin, c. 14. sect. 10."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 23:37",
+      "note_ref": "GILL/42/23/37",
+      "cites": [
+        "Luke 23:38"
+      ],
+      "text": "And we indeed justly,.... For sins committed against the law; our sentence is just, we are righteously punished: which shows that he had a true sense of sin; for where that is, there will be not only an acknowledgment of the offence, but a vindication of the justice of God, should he proceed to deal according to the demerit of sin: for we receive the due reward of our deeds; though, according to the law of Moses, theft was not punishable with death, but with a restoration, either double, or fourfold, or fivefold, according to the nature of it; see Exo 22:1. It may be these men had committed murder along with the robbery:\nbut this man hath done nothing amiss; or absurd, unreasonable, wicked, and detestable: he did no injury to God, or man; wronged no man's person or property; did all things well; obeyed the law of God perfectly, and always did the things which were pleasing to God. Thus, from the mouth of one of the malefactors Christ suffered with, was he declared innocent; when the Jews designed, by crucifying him with them, to have led the people to have believed that he suffered for a crime equal, or superior to theirs."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 23:38",
+      "note_ref": "GILL/42/23/38",
+      "cites": [
+        "Luke 23:38"
+      ],
+      "text": "And he said unto Jesus, Lord,.... Acknowledging him to be the Messiah, the King of kings, and Lord of lords; the Lord of all, and especially of his church and people, and his own Lord. So the Syriac and Persic versions read, \"my Lord\": however, he said this by the Spirit of God, who enlightened his understanding, and wrought faith in him to believe in Christ; see Co1 12:3 \"remember me when thou comest into thy kingdom\"; or rather in thy kingdom, as in Mat 16:28 for this man had not only faith in the kingdom of Christ, as being of a spiritual nature, and not of this world, and not coming with outward pomp and observation; in which respect his faith exceeded that of the apostles themselves, who were looking for, and expecting a temporal kingdom; and he not only was without all doubt, or scruple, about Christ's entering into his kingdom and glory after death, but he had knowledge of, and faith in his second coming, when his glorious kingdom should appear, or his kingdom appear in glory; and when he desired he might be remembered by him, have favour shown him, and he share in the glories and happiness of it. This was great faith indeed to be exercised on Christ at such a time as this, when he was under the greatest reproach and ignominy; while he was insulted and derided by all sorts of people; and when he was forsaken by his own apostles, and was suffering a shameful punishment, and now dying.\nfor this man had not only faith in the kingdom of Christ, as being of a spiritual nature, and not of this world, and not coming with outward pomp and observation; in which respect his faith exceeded that of the apostles themselves, who were looking for, and expecting a temporal kingdom; and he not only was without all doubt, or scruple, about Christ's entering into his kingdom and glory after death, but he had knowledge of, and faith in his second coming, when his glorious kingdom should appear, or his kingdom appear in glory; and when he desired he might be remembered by him, have favour shown him, and he share in the glories and happiness of it. This was great faith indeed to be exercised on Christ at such a time as this, when he was under the greatest reproach and ignominy; while he was insulted and derided by all sorts of people; and when he was forsaken by his own apostles, and was suffering a shameful punishment, and now dying.\nLuke 23:43\nluk 23:43\nluk 23:43\nluk 23:43And Jesus said unto him,.... Jesus immediately answered him, though he said not one word to the other that railed at him, or to the multitude that abused him; and promised him more than he asked for, and sooner than he expected.\nVerily I say unto thee, today thou shall be with me in paradise; , \"in the garden of Eden\"; not the earthly paradise, nor the church militant, but the future place, and state of the happiness of the saints, even heaven, and eternal glory, which the Jews frequently call by this name; See Gill on Co2 12:4 and is so called, because, as the earthly paradise, or Eden's garden, was of God's planting, so is the heavenly glory of his providing and preparing: as that was a place of delight and pleasure, so here are pleasures for evermore; as there was a river in it, which added to the delightfulness and advantage of it, so here runs the river of God's love, the streams whereof make glad the saints now, and will be a broad river to swim in to all eternity: as there were the tree of life, with a variety of other trees, both for delight and profit, so here, besides Christ, the tree of life, which stands in the midst of it, are an innumerable company of angels, and the spirits of just men made perfect: and as the inhabitants of that garden were pure and innocent creatures, so into this paradise shall nothing enter but what is righteous, pure, and holy: and whereas the principal enjoyment of man in Eden was conversation with God, and communion with him, the glory of the heavenly paradise will lie in fellowship with God, Father, Son, and Spirit, in beholding the face of God, and seeing him as he is: and this is the happiness promised by Christ to the penitent and believing thief, that he should be here; and not only so, but with him here, which is far better than being in this world, and than which nothing can be more desirable: and which, when enjoyed, will be for ever: and this he was to enter upon that very day; which shows, that Christ's soul did not descend into hell, locally and literally considered, or into the \"Limbus Patrum\", the Papists talk of, to fetch the souls of the patriarchs thence, but as soon as it was separated from the body was taken up into heaven; and also, that the souls of departed saints are immediately, upon their separation from the body, there; which was the case of this wonderful instance of the grace of God; and shows the swiftness of the soul, or the velocity of angels in conveying it thither immediately: and this agrees with the sense of the Jews, who say (b), that\n\"the souls of the fathers, or patriarchs have rest, and in a moment, immediately enter into their separate places, or apartments, and not as the rest of the souls; of whom it is said, all the twelve months the soul ascends and descends, (goes to and fro,) but the souls of the fathers, , \"immediately, upon their separation\", return to God that gave them.''\nSome would remove the stop, and place it after \"today\", and read the words thus, \"I say unto thee today\"; as if Christ only signified the time when he said this, and not when the thief should be with him in paradise; which, besides it being senseless, and impertinent, and only contrived to serve an hypothesis, is not agreeably to Christ's usual way of speaking, and contrary to all copies and versions. Moreover, in one of Beza's exemplars it is read, \"I say unto thee, that today thou shalt be with me\", &c. and so the Persic and Ethiopic versions seem to read, which destroys this silly criticism. And because this was a matter of great importance, and an instance of amazing grace, that so vile a sinner, one of the chief of sinners, should immediately enter into the kingdom of God, and enjoy uninterrupted, and everlasting communion with him and that it might not be a matter of doubt with him, or others, Christ, who is the \"Amen\", the faithful witness, and truth itself, prefaces it after this manner: \"verily I say unto thee\"; it is truth, it may be depended on. This instance of grace stands on record, not to cherish sloth, indolence, security and presumption, but to encourage faith and hope in sensible sinners, in their last moments, and prevent despair. The Papists pretend to know this man's name; they say his name was Disma; and reckon him as a martyr, and have put him in the catalogue of saints, and fixed him on the \"twenty fifth\" of March.\n(The story of the penitent thief has sometimes been considered the most surprising, the most suggestive, the most instructive incident in all the Gospel narrative. ... In the salvation of one of the thieves \\@@vital\\@@ \\@@theology finds one of its finest demonstrations.\\@@\n\\@@Sacrementalism was refuted,\\@@ for the thief was saved without recourse to baptism, the Lord's Supper, church, ceremony, or good works.\n\\@@The dogma of purgatory was refuted,\\@@ for this vile sinner was instantly transformed into a saint and made fit for paradise apart from his personal expiation of a single sin.\n\\@@The teaching of universalism was refuted,\\@@ for only one was saved of all who might have been saved. Jesus did not say, \"Today shall ye be with me in paradise\", but \"Today shalt thou be with me in paradise.\"\n\\@@The notion of soul-sleep was refuted,\\@@ for the clear implication of the entire incident is that the redeemed thief would be in conscious fellowship with his Saviour in paradise even while his body disintegrated in some grave.\nToo, it is doubtful whether any other gospel incident presents the plan of salvation more clearly or simply.--Dr. Charles R. Erdman)\n(b) Tzeror Hammor, fol. 58. 4."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 23:39",
+      "note_ref": "GILL/42/23/39",
+      "cites": [
+        "Luke 23:38"
+      ],
+      "text": "And it was about the sixth hour,.... Or twelve o'clock at noon; and so the Ethiopic version, when it was noon; See Gill on Mat 27:45.\n.\nLuke 23:45\nluk 23:45\nluk 23:45\nluk 23:45And the sun was darkened,.... There was an eclipse of it, which was preternatural, it being now full moon, and lasted three hours, and so total, as to darken the whole earth; and now was the prophecy in Amo 8:9 literally fulfilled: and the vail of the temple was rent in the midst. The Persic version renders it, \"the gate of the temple\"; and so the Syriac version, \"the face of the gate of the temple\"; See Gill on Mat 27:51."
+    },
+    {
+      "src": "GILL",
+      "ref": "John 19:17",
+      "note_ref": "GILL/43/19/17",
+      "cites": [
+        "John 19:19"
+      ],
+      "text": "And he bearing his cross,.... Which was usual for malefactors to do, as Lipsius (i) shows out of Artemidorus, and Plutarch; the former says,\n\"the cross is like to death, and he that is to be fixed to it, first bears it;''\nand the latter says,\n\"and everyone of the malefactors that are punished in body, \"carries out his own cross\".''\nSo Christ, when he first went out to be crucified, carried his cross himself, until the Jews, meeting with Simon the Cyrenian, obliged him to bear it after him; that is, one part of it; for still Christ continued to bear a part himself: of this Isaac was a type, in carrying the wood on his shoulders for the burnt offering; and this showed that Christ was made sin, and a curse for us, and that our sins, and the punishment which belonged to us, were laid on him, and bore by him; and in this he has left us an example to go forth without the camp, bearing his reproach:\nwent forth in a place called the place of a skull, which is called in the Hebrew, Golgotha: and signifies a man's skull: it seems, that as they executed malefactors here, so they buried them here; and in process of time, their bones being dug up to make room for others, their skulls, with other bones, lay up and down in this place; from whence it had its name in the Syriac dialect, which the Jews then usually spake: here some say Adam's skull was found, and that it had its name from thence. This was an ancient tradition, as has been observed in the notes on See Gill on Mat 27:33, and See Gill on Luk 23:33 the Syriac writers have it (k), who say,\n\"when Noah went out of the ark there was made a distribution of the bones of Adam; to Shem, his head was given, and the place in which he was buried is called \"Karkaphta\": where likewise Christ was crucified;''\nwhich word signifies a skull, as Golgotha does: and so likewise the Arabic writers (l); who affirm that Shem said these words to Melchizedek,\n\"Noah commanded that thou shouldst take the body of Adam, and bury it in the middle of the earth; therefore let us go, I and thou, and bury it; wherefore Shem and Melchizedek went to take the body of Adam, and the angel of the Lord appeared to them and went before them, till they came to the place Calvary, where they buried him, as the angel of the Lord commanded them:''\nthe same also had the ancient fathers of the Christian church; Cyprian (m) says, that it is a tradition of the ancients, that Adam was buried in Calvary under the place where the cross of Christ was fixed; and Jerom makes mention of it more than once; so Paula and Eustochium, in an epistle supposed to be dictated by him, or in which he was assisting, say (n), in this city, meaning Jerusalem, yea in this place, Adam is said to dwell, and to die; from whence the place where our Lord was crucified is called Calvary, because there the skull of the ancient man was buried: and in another place he himself says (o), that he heard one disputing in the church and explaining, Eph 5:14 of Adam buried in Calvary, where the Lord was crucified, and therefore was so called. Ambrose (p) also takes notice of it; the place of the cross, says he, is either in the midst of the land, that it might be conspicuous to all, or over the grave of Adam, as the Hebrews dispute: others say that the hill itself was in the form of a man's skull, and therefore was so called; it was situated, as Jerom says (q), on the north of Mount Zion, and is thought by some to be the same with the hill Gareb, in Jer 31:39. It was usual to crucify on high hills, so Polycrates was crucified upon the highest top of Mount Mycale (r).\n(i) De Cruce, l. 2. c. 5. p. 76. (k) Bar Bahluli apud Castel. Lexic. Polyglot. col. 3466. (l) Elmacinus, p. 13. Patricides, p. 12. apud Hottinger. Smegma Oriental. l. 1. c. 8. p. 257. (m) De Resurrectione Christi, p. 479. (n) Epist. Marcellae, fol. 42. L. Tom. I. (o) Comment. in Eph. v. 14. (p) Comment. in Luc. xx. 33. (q) De locis Hebraicis, fol. 92. F. (r) Valer. Maxim. l. 6. c. ult."
+    },
+    {
+      "src": "GILL",
+      "ref": "John 19:18",
+      "note_ref": "GILL/43/19/18",
+      "cites": [
+        "John 19:19"
+      ],
+      "text": "Where they crucified him,.... Namely, at Golgotha, the same with Calvary; and so had what they were so desirous of:\nand two other with him, on either side one, and Jesus in the midst: these other two men were thieves, as the other evangelists declare; among whom Christ was placed, being numbered and reckoned among transgressors: he was no transgressor of the law of God himself, but he was accounted as such by men, and was treated as if he had been one by the justice of God; he, as a surety, standing in the legal place, and stead of his people; hence he died in their room, and for their sins: this shows the low estate of Christ, the strictness of justice, the wisdom of God in salvation, and the grace and love of the Redeemer; who condescended to everything, and every circumstance, though ever so reproachful, which were necessary for the redemption of his people, and the glory of the divine perfections, and for the fulfilment of purposes, promises, and predictions."
+    },
+    {
+      "src": "GILL",
+      "ref": "John 19:19",
+      "note_ref": "GILL/43/19/19",
+      "cites": [
+        "John 19:19"
+      ],
+      "text": "And Pilate wrote a title,.... Luke calls it a superscription, Mark, the superscription of his accusation, and Matthew, the accusation itself; it contained the substance of the charge against him, and was written upon a table or board, and nailed to the cross, as Nonnus suggests; to this is the allusion, Col 2:14. The form of it was drawn up by Pilate, his judge, who ordered it to be transcribed upon a proper instrument, and placed over him:\nand put it on the cross; not with his own hands, but by his servants, who did it at his command; for others are said to do it, Mat 27:37. It was put upon \"the top of the cross\", as the Persic version reads it; \"over him\", or \"over his head\", as the other evangelists say; and may denote the rise of his kingdom, which is from above, the visibility of it, and the enlargement of it, through the cross:\nand the writing was; the words written in the title were,\nJesus of Nazareth, the King of the Jews: Jesus was his name, by which he was commonly called and known, and signifies a Saviour, as he is of all the elect of God; whom he saves from all their sins, by bearing them in his own body on the cross, and of whom he is the able and willing, the perfect and complete, the only and everlasting Saviour: he is said to be of Nazareth; this was the place of which he was an inhabitant; here Joseph and Mary lived before his conception; here he was conceived, though born in Bethlehem; where he did not abide long, but constantly in this place, till he was about thirty years of age; this title was sometimes given him as a term of reproach, though not always: \"the King of the Jews\"; which both expresses his accusation, and asserts him to be so."
+    },
+    {
+      "src": "GILL",
+      "ref": "John 19:20",
+      "note_ref": "GILL/43/19/20",
+      "cites": [
+        "John 19:19"
+      ],
+      "text": "This title then read many of the Jews,.... Who were in great numbers, at the place of execution, rejoicing at his crucifixion, and insulting him as he hung on the cross:\nfor the place where Jesus was crucified, was nigh unto the city; Golgotha, the place of Christ's crucifixion, was not more than two furlongs, or a quarter of a mile from the city of Jerusalem: so that multitudes were continually going from thence to see this sight; the city also being then very full of people, by reason of the feast of the passover; to which may be added, that the cross stood by the wayside, where persons were continually passing to and fro, as appears from Mat 27:39 and where it was usual to erect crosses to make public examples or malefactors, and to deter others from committing the like crimes: so Alexander, the emperor, ordered an eunuch to be crucified by the wayside, in which his servants used commonly to go to his suburb (s) or country house: Cicero says (t) the Mamertines, according to their own usage and custom, crucified behind the city, in the Pompeian way; and Quinctilian observes (u), as often as we crucify criminals, the most noted ways are chosen, where most may behold, and most may be moved with fear: and now Christ being crucified by a public road side, the inscription on the cross was doubtless read by more than otherwise it would:\nand it was written in Hebrew, and Greek, and Latin; that it might be read by all, Jews, Greeks, and Romans; and to show that he is the Saviour of some of all nations; and that he is King over all. These words were written in Hebrew letters in the Syriac dialect, which was used by the Jews, and is called the Hebrew language, Joh 19:13 and in which it is most likely Pilate should write these words, or order them to be written; and which, according to the Syriac version we now have, were thus put, ; in Greek the words stood as in the original text, thus, : and in the Latin tongue, as may be supposed, after this manner, \"Jesus Nazarenus Rex Judaeorum\". These three languages may be very well thought to be understood by Pilate; at least so much of them as to qualify him to write such an inscription as this. The Latin tongue was his mother tongue, which he must be supposed well to understand; and the Greek tongue was very much used by the Romans, since their conquest of the Grecian monarchy; and the emperors' edicts were generally published in Greek, which it was therefore necessary for Pilate to understand; and as he was a governor of Judea, and had been so for some time, he must have acquired some knowledge of the Hebrew language; and these being the principal languages in the world, he chose to write this title in them, that persons coming from all quarters might be able to read it, and understand it in some one of them.\n(s) Lipsius de Crucc, l. 3. c. 13. p. 158. (t) Orat. 10. in Veriem. l. 5. p. 604. (u) Declamat. 275."
+    },
+    {
+      "src": "JFB",
+      "ref": "Matthew 27:9",
+      "note_ref": "JFB/40/27/9",
+      "cites": [
+        "Matthew 27:37"
+      ],
+      "text": "Then was fulfilled that which was spoken by Jeremy the prophet, saying-- (Zac 11:12-13). Never was a complicated prophecy, otherwise hopelessly dark, more marvellously fulfilled. Various conjectures have been formed to account for Matthew's ascribing to Jeremiah a prophecy found in the book of Zechariah. But since with this book he was plainly familiar, having quoted one of its most remarkable prophecies of Christ but a few chapters before (Mat 21:4-5), the question is one more of critical interest than real importance. Perhaps the true explanation is the following, from LIGHTFOOT: \"Jeremiah of old had the first place among the prophets, and hereby he comes to be mentioned above all the rest in Mat 16:14; because he stood first in the volume of the prophets [as he proves from the learned DAVID KIMCHI] therefore he is first named. When, therefore, Matthew produceth a text of Zechariah under the name of JEREMY, he only cites the words of the volume of the prophets under his name who stood first in the volume of the prophets. Of which sort is that also of our Saviour (Luk 24:41), \"All things must be fulfilled which are written of Me in the Law, and the Prophets, and the Psalms,\" or the Book of Hagiographa, in which the Psalms were placed first.\"",
+      "anchor": true
+    },
+    {
+      "src": "JFB",
+      "ref": "Luke 23:31",
+      "note_ref": "JFB/42/23/31",
+      "cites": [
+        "Luke 23:38"
+      ],
+      "text": "green tree--that naturally resists the fire.\nthe dry--that attracts the fire, being its proper fuel. The proverb here plainly means: \"If such sufferings alight upon the innocent One, the very Lamb of God, what must be in store for those who are provoking the flames?\"",
+      "anchor": true
+    },
+    {
+      "src": "JFB",
+      "ref": "Luke 23:39",
+      "note_ref": "JFB/42/23/39",
+      "cites": [
+        "Luke 23:38"
+      ],
+      "text": "THE TWO THIEVES. (Luk 23:39-43)\nrailed on him--catching up the universal derision, but with a turn of his own. Jesus, \"reviled, reviles not again\"; but another voice from the cross shall nobly wipe out this dishonor and turn it to the unspeakable glory of the dying Redeemer."
+    },
+    {
+      "src": "JFB",
+      "ref": "Luke 23:40",
+      "note_ref": "JFB/42/23/40",
+      "cites": [
+        "Luke 23:38"
+      ],
+      "text": "Dost not thou--\"thou\" is emphatic: \"Let others jeer, but dost thou?\"\nfear God--Hast thou no fear of meeting Him so soon as thy righteous Judge? Thou art within an hour or two of eternity, and dost thou spend it in reckless disregard of coming judgment?\nin the same condemnation--He has been condemned to die, but is it better with thee? Doth even a common lot kindle no sympathy in thy breast?"
+    },
+    {
+      "src": "JFB",
+      "ref": "John 19:17",
+      "note_ref": "JFB/43/19/17",
+      "cites": [
+        "John 19:19"
+      ],
+      "text": "CRUCIFIXION AND DEATH OF THE LORD JESUS. (Joh 19:17-30)\nAnd he bearing his cross--(See on Luk 23:26).\nwent forth--Compare Heb 13:11-13, \"without the camp\"; \"without the gate.\" On arriving at the place, \"they gave Him vinegar to drink mingled with gall [wine mingled with myrrh, Mar 15:23], and when He had tasted thereof, He would not drink\" (Mat 27:34). This potion was stupefying, and given to criminals just before execution, to deaden the sense of pain.\nFill high the bowl, and spice it well, and pour\nThe dews oblivious: for the Cross is sharp,\nThe Cross is sharp, and He\nIs tenderer than a lamb.\nKEBLE.\nBut our Lord would die with every faculty clear, and in full sensibility to all His sufferings.\nThou wilt feel all, that Thou may'st pity all;\nAnd rather would'st Thou wrestle with strong pain\nThan overcloud Thy soul,\nSo clear in agony,\nOr lose one glimpse of Heaven before the time,\nO most entire and perfect Sacrifice,\nRenewed in every pulse.\nKEBLE."
+    },
+    {
+      "src": "JFB",
+      "ref": "John 19:18",
+      "note_ref": "JFB/43/19/18",
+      "cites": [
+        "John 19:19"
+      ],
+      "text": "they crucified him, and two others with him--\"malefactors\" (Luk 23:33), \"thieves\" (rather \"robbers,\" Mat 27:38; Mar 15:27).\non either side one and Jesus in the midst--a hellish expedient, to hold Him up as the worst of the three. But in this, as in many other of their doings, \"the scripture was fulfilled, which saith (Isa 53:12), And he was numbered with the transgressors\"-- (Mar 15:28) --though the prediction reaches deeper. \"Then said Jesus\"--[\"probably while being nailed to the CROSS,\"] [OLSHAUSEN], \"FATHER, FORGIVE THEM, FOR THEY KNOW NOT WHAT THEY DO\" (Luk 23:34) --and again the Scripture was fulfilled which said, \"And He made intercession for the transgressors\" (Isa 53:12), though this also reaches deeper. (See Act 3:17; Act 13:27; and compare Ti1 1:13). Often have we occasion to observe how our Lord is the first to fulfil His own precepts--thus furnishing the right interpretation and the perfect Model of them. (See on Mat 5:44). How quickly was it seen in \"His martyr Stephen,\" that though He had left the earth in Person, His Spirit remained behind, and Himself could, in some of His brightest lineaments, be reproduced in His disciples! (Act 7:60). And what does the world in every age owe to these few words, spoken where and as they were spoken!"
+    },
+    {
+      "src": "JFB",
+      "ref": "John 19:19",
+      "note_ref": "JFB/43/19/19",
+      "cites": [
+        "John 19:19"
+      ],
+      "text": "Pilate wrote a title, and put it on the cross . . . Jesus of Nazareth, the King of the Jews . . . and it was written in Hebrew--or Syro-Chaldaic, the language of the country.\nand Greek--the current language.\nand Latin--the official language. These were the chief languages of the earth, and this secured that all spectators should be able to read it. Stung by this, the Jewish ecclesiastics entreat that it may be so altered as to express, not His real dignity, but His false claim to it. But Pilate thought he had yielded quite enough to them; and having intended expressly to spite and insult them by this title, for having got him to act against his own sense of justice, he peremptorily refused them. And thus, amidst the conflicting passions of men, was proclaimed, in the chief tongues of mankind, from the Cross itself and in circumstances which threw upon it a lurid yet grand light, the truth which drew the Magi to His manger, and will yet be owned by all the world!"
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Mark 15:25",
+      "note_ref": "CLARKE/41/15/25",
+      "cites": [
+        "Mark 15:26"
+      ],
+      "text": "The third hour - It has been before observed, that the Jews divided their night into four watches, of three hours each. They also divided the day into four general parts. The first began at sunrise. The second three hours after. The third at mid-day. The fourth three hours after, and continued till sunset. Christ having been nailed to the cross a little after mid-day, Joh 19:14-16, Joh 19:17, and having expired about three o'clock, Mar 15:33, the whole business of the crucifixion was finished within the space of this third division of the day, which Mark calls here the third hour. Commentators and critics have found it very difficult to reconcile this third hour of Mark, with the sixth hour of John, Joh 19:14. It is supposed that the true reading, in Joh 19:14, should be τριτη, the third, instead of ἑκτη the sixth; a mistake which might have readily taken place in ancient times, when the character γ gamma, which was put for τριτη, three, might have been mistaken for Ϛ episema, or sigma tau, which signifies six. And τριτη, the third, instead of ἑκτη, the sixth, is the reading of some very eminent MSS. in the place in question, Joh 19:14. See Bengel, Newcome, Macknight, Lightfoot, Rosenmuller, etc., on this perplexing point."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Mark 15:27",
+      "note_ref": "CLARKE/41/15/27",
+      "cites": [
+        "Mark 15:26"
+      ],
+      "text": "Two thieves - A copy of the Itala tells their names: One on the right hand - named Zoathon; and one on the left hand - named Chammatha."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Mark 15:28",
+      "note_ref": "CLARKE/41/15/28",
+      "cites": [
+        "Mark 15:26"
+      ],
+      "text": "The scripture was fulfilled - All this verse is wanting in many MSS., some versions, and several of the fathers."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 23:36",
+      "note_ref": "CLARKE/42/23/36",
+      "cites": [
+        "Luke 23:38"
+      ],
+      "text": "Offering him vinegar - See on Mat 27:34 (note). Vinegar or small sour wine, was a common drink of the Roman soldiers; and it is supposed that wherever they were on duty they had a vessel of this liquor standing by. It appears that at least two cups were given to our Lord; one before he was nailed to the cross, viz. of wine mingled with myrrh, and another of vinegar, while he hung on the cross. Some think there were three cups: One of wine mixed with myrrh; the Second, of vinegar mingled with gall; and the Third, of simple vinegar. Allow these three cups, and the different expressions in all the evangelists will be included. See Lightfoot."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 23:38",
+      "note_ref": "CLARKE/42/23/38",
+      "cites": [
+        "Luke 23:38"
+      ],
+      "text": "A superscription - See Mat 27:37.\nIn letters of Greek, and Latin and Hebrew - The inscription was written in all these languages, which were the most common, that all might see the reason why he was put to death. The inscription was written in Greek, on account of the Hellenistic Jews, who were then at Jerusalem because of the passover; it was written in Latin, that being the language of the government under which he was crucified; and it was written in Hebrew, that being the language of the place in which this deed of darkness was committed. But, by the good providence of God, the inscription itself exculpated him, and proved the Jews to be rebels against, and murderers of, their king. See the note on Mat 27:37. It is not to be wondered at that they wished Pilate to alter this inscription, Joh 19:21, as it was a record of their infamy."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 23:39",
+      "note_ref": "CLARKE/42/23/39",
+      "cites": [
+        "Luke 23:38"
+      ],
+      "text": "One of the malefactors which were hanged - It is likely that the two robbers were not nailed to their crosses, but only tied to them by cords, and thus they are represented in ancient paintings. If not nailed, they could not have suffered much, and therefore they were found still alive when the soldiers came to give the coup de grace, which put a speedy end to their lives. Joh 19:31-33."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 23:40",
+      "note_ref": "CLARKE/42/23/40",
+      "cites": [
+        "Luke 23:38"
+      ],
+      "text": "Dost not thou fear God - The sufferings of this person had been sanctified to him, so that his heart was open to receive help from the hand of the Lord: he is a genuine penitent, and gives the fullest proof he can give of it, viz. the acknowledgment of the justice of his sentence. He had sinned, and he acknowledges his sin; his heart believes unto righteousness, and with his tongue he makes confession unto salvation. While he condemns himself he bears testimony that Jesus was innocent. Bishop Pearce supposes that these were not robbers in the common sense of the word, but Jews who took up arms on the principle that the Romans were not to be submitted to, and that their levies of tribute money were oppressive; and therefore they made no scruple to rob all the Romans they met with. These Jews Josephus calls λῃσται, robbers, the same term used by the evangelists. This opinion gains some strength from the penitent thief's confession: We receive the reward of our deeds - we rose up against the government, and committed depredations in the country; but this man hath done nothing amiss - ατοπον, out of place, disorderly, - nothing calculated to raise sedition or insurrection; nor inconsistent with his declarations of peace and good will towards all men, nor with the nature of that spiritual kingdom which he came to establish among men; though he is now crucified under the pretense of disaffection to the Roman government."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "John 19:17",
+      "note_ref": "CLARKE/43/19/17",
+      "cites": [
+        "John 19:19"
+      ],
+      "text": "Bearing his cross - He bore it all alone first; when he could no longer carry the whole through weakness, occasioned by the ill usage he had received, Simon, a Cyrenian, helped him to carry it: see the note on Mat 27:32.\nGolgotha - See on Mat 27:33 (note)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "John 19:18",
+      "note_ref": "CLARKE/43/19/18",
+      "cites": [
+        "John 19:19"
+      ],
+      "text": "Two other - Matthew and Mark in the parallel places calls them robbers or murderers; they probably belonged to the gang of Barabbas. See about the figure of the cross, and the nature of crucifixion, on Mat 27:35 (note)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "John 19:19",
+      "note_ref": "CLARKE/43/19/19",
+      "cites": [
+        "John 19:19"
+      ],
+      "text": "Pilate wrote a title - See on Mat 27:37 (note)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "John 19:20",
+      "note_ref": "CLARKE/43/19/20",
+      "cites": [
+        "John 19:19"
+      ],
+      "text": "Hebrew,... Greek,... Latin - See on Luk 23:38 (note).\nOn Mat 27:37 (note), I have given this title in Hebrew, Greek, and Latin, as mentioned by this evangelist. The reader, however, will not be displeased to find the same title repeated here in a character which was written in the fourth century, and is probably nearly resembling that used in the earliest ages of Christianity. The Greek and Latin character, which is inserted here, is an exact fac-simile of that in the Codex Bezae, cut and cast at the expense of the University of Cambridge, for Dr. Kipling's edition of that most venerable MS. which contains the Greek text of the four evangelists and Acts; and the Latin text of the same, as it existed before the time of St. Jerome. Having examined the MS. myself, I can say that these types are a very faithful representation of the original.\nIn Hebrew, Ἑβραιστι.\nיסוע נצריא מלכא דיהודיא\nIn Greek, ἙλληνιϚι.\nΙΗΣΟΥΣ Ο ΝΑΖΩΡΕΟΣ Ο ΒΑΣΙΛΕΥΣ ΤΩΝ ΙΟΥΔΑΙΩΝ\nIn Latin, ῬωμαΐϚι.\nIEHSUS NAZARENUS REX IUDAEORUM"
+    },
+    {
+      "src": "MHC",
+      "ref": "Mark 15:22",
+      "note_ref": "MHC/41/15/22",
+      "cites": [
+        "Mark 15:26"
+      ],
+      "text": "We have here the crucifixion of our Lord Jesus.\nI. The place where he was crucified; it was called Golgotha - the place of a scull: some think, because of the heads of malefactors that were there cut off: it was the common place of execution, as Tyburn, for he was in all respects numbered with the transgressors. I know not how to give any credit to it, but divers of the ancients mention it as a current tradition, that in this place our first father Adam was buried, and they think it highly congruous that there Christ should be crucified; for as in Adam all die, so in Christ shall all be made alive. Tertullian, Origen, Chrysostom, and Epiphanius (great names), take notice of it; nay, Cyprian adds, Creditur piis - Many good people believe that the blood of Christ crucified did trickle down upon the scull of Adam, who was buried in the same place. Something more credible is the tradition, that this mount Calvary was that mountain in the land of Moriah (and in the land of Moriah it certainly was, for so the country about Jerusalem was called), on which Isaac was to be offered; and the ram was offered instead of him; and then Abraham had an eye to this day of Christ, when he called the place Jehovah-jireh - The Lord will provide, expecting that so it would be seen in the mount of the Lord.\nII. The time when he was crucified; it was the third hour, Mar 15:25. He was brought before Pilate about the sixth hour (Joh 19:14), according to the Roman way of reckoning, which John uses, with which ours at this day agrees, that is at six o'clock in the morning; and then, at the third hour, according to the Jews' way of reckoning, that is, about nine of the clock in the morning, or soon after, they nailed him to the cross. Dr. Lightfoot thinks the third hour is here mentioned, to intimate an aggravation of the wickedness of the priests, they were here prosecuting Christ to the death, though it was after the third hour, when they ought to have been attending the service of the temple, and offering the peace-offerings; it being the first day of the feast of unleavened bread, when there was to be a holy convocation. At that very time, when they should have been, according to the duty of their place, presiding in the public devotions, were they here venting their malice against the Lord Jesus; yet these were the men that seemed so zealous for the temple, and condemned Christ for speaking against it. Note, There are many who pretend to be for the church, who yet care not how seldom they go to church.\nIII. The indignities that were done him, when he was nailed to the cross; as if that had not been ignominious enough, they added several things to the ignominy of it.\n1. It being the custom to give wine to persons that were to be put to death, they mingled his with myrrh, which was bitter, and made it nauseous; he tasted it, but would not drink it; was willing to admit the bitterness of it, but not the benefit of it.\n2. The garments of those that were crucified, being, as with us, the executioners' fee, the soldiers cast lots upon his garments (Mar 15:24), threw dice (as our soldiers do upon a drum-head), for them: so making themselves merry with his misery, and sitting at their sport while he was hanging in pain.\n3. They set up a superscription over his head, by which they intended to reproach him, but really did him both justice and honour, The king of the Jews, Mar 15:26. Here was no crime alleged, but his sovereignty owned. Perhaps Pilate meant to cast disgrace upon Christ as a baffled king, or upon the Jews, who by their importunity had forced him, against his conscience, to condemn Christ, as a people that deserved no better a king than he seemed to be: however, God intended it to be the proclaiming even of Christ upon the cross, the king of Israel; though Pilate know not what he wrote, any more than Caiaphas what he said, Joh 11:51. Christ crucified is king of his church, his spiritual Israel; and even then when he hung on the cross, he was like a king, conquering his and his people's enemies, and triumphing over them, Col 2:15. Now he was writing his laws in his own blood, and preparing his favours for his subjects. Whenever we look unto Christ crucified, we must remember the inscription over his head, that he is a king, and we must give up ourselves to be his subjects, as Israelites indeed.\n4. They crucified two thieves with him, one on his right hand, the other on his left, and him in the midst as the worst of the three (Mar 15:27); so great a degree of dishonour did they hereby intend him. And, no doubt, it gave him disturbance too. Some that have been imprisoned in the common gaols, for the testimony of Jesus, have complained of the company of cursing, swearing prisoners, more than any other of the grievances of their prison. Now, in the midst of such our Lord Jesus was crucified; while he lived he had, and there was occasion, associated with sinners, to do them good; and now when he died, he was for the same purpose joined with them, for he came into the world, and went out of it, to save sinners, even the chief. But this evangelist takes particular notice of the fulfilling of the scriptures in it, Mar 15:28. In that famous prediction of Christ's sufferings (Isa 53:12), it was foretold that he should be numbered with the transgressors, because he was made sin for us.\n5. The spectators, that is, the generality of them, instead of condoling with him in his misery, added to it by insulting over him. Surely never was such an instance of barbarous inhumanity toward the vilest malefactor: but thus the devil showed the utmost rage against him, and thus he submitted to the greatest dishonours that could be done him.\n(1.) Even they that passed by, that were no way concerned, railed on him, Mar 15:29. If their hearts were so hardened, that their compassions were not moved with such a spectacle, yet they should have thought it enough to have their curiosity gratified; but that will not serve: as if they were not only divested of all humanity, but were devils in human shape, they taunted him, and expressed themselves with the utmost detestation of him, and indignation at him, and shot thick at him their arrows, even bitter words. The chief priests, no doubt, put these sarcasms into their mouths, Thou that destroyest the temple, and buildest it in three days, now, if thou canst, save thyself, and come down from the cross. They triumph as if now that they had got him to the cross, there were no danger of his destroying the temple; whereas the temple of which he spoke, he was now destroying, and did within three days build it up; and the temple of which they spoke, he did by men, that were his sword and his hand, destroy not many years after. When secure sinners think the danger is over, it is then most ready to seize them: the day of the Lord comes as a thief upon those that deny his coming, and say, Where is the promise of it? much more upon those that defy his coming, and say, Let him make speed, and hasten his work.\n(2.) Even the chief priests, who, being taken from among men and ordained for men, should have compassion even on those that are out of the way, should be tender of those that are suffering and dying (Heb 5:1, Heb 5:2), yet they poured vinegar instead of oil into his wounds, they talked to the grief of him whom God had smitten (Psa 69:26), they mocked him, they said, He saved others, healed and helped them, but now it appears that it was not by his own power, for himself he cannot save. They challenged him to come down from the cross, if he could, Mar 15:32. Let them but see that, and they would believe; whereas they would not believe, when he gave them a more convincing sign than that, when he came up from the grave. These chief priests, one would think, might now have found themselves other work to do: if they would not go to do their duty in the temple, yet they might have been employed in an office not foreign to their profession; though they would not offer any counsel or comfort to the Lord Jesus, yet they might have given some help to the thieves in their dying moments (the monks and priests in Popish countries are very officious about criminals broken upon the wheel, a death much like that of the cross); but they do not think that their business.\n(3.) Even they that were crucified with him, reviled him (Mar 15:32); one of them did, so wretchedly was his heart hardened even in the depth of misery, and at the door of eternity.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Luke 23:32",
+      "note_ref": "MHC/42/23/32",
+      "cites": [
+        "Luke 23:38"
+      ],
+      "text": "In these verses we have,\nI. Divers passages which we had before in Matthew and Mark concerning Christ's sufferings. 1. That there were two others, malefactors, led with him to the place of execution, who, it is probable, had been for some time under sentence of death, and were designed to be executed on this day, which was probably the pretence for making such haste in the prosecution of Christ, that he and these two malefactors might be executed together, and one solemnity might serve. 2. That he was crucified at a place called Calvary, Kranion, the Greek name for Golgotha - the place of a skull: an ignominious place, to add to the reproach of his sufferings, but significant, for there he triumphed over death as it were upon his own dunghill. He was crucified. His hands and feet were nailed to the cross as it lay upon the ground, and it was then lifted up, and fastened into the earth, or into some socket made to receive it. This was a painful and shameful death above any other. 3. That he was crucified in the midst between two thieves, as if he had been the worst of the three. Thus he was not only treated as a transgressor, but numbered with them, the worst of them. 4. That the soldiers who were employed in the execution seized his garments as their fee, and divided them among themselves by lot: They parted his raiment, and cast lots; it was worth so little that, if divided, it would come to next to nothing, and therefore they cast lots for it. 5. That he was reviled and reproached, and treated with all the scorn and contempt imaginable, when he was lifted up upon the cross. It was strange that so much barbarity should be found in the human nature: The people stood beholding, not at all concerned, but rather pleasing themselves with the spectacle; and the rulers, whom from their office one would take to be men of sense and men of honour, stood among the rabble, and derided him, to set those on that were about them to do so too; and they said, He saved others, let him save himself. Thus was he upbraided for the good works he had done, as if it were indeed for these that they crucified him. They triumphed over him as if they had conquered him, whereas he was himself then more than a conqueror; they challenged him to save himself from the cross, when he was saving others by the cross: If he be the Christ, the chosen of God, let him save himself. They knew that the Christ was the chosen of God, designed by him, and dear to him. \"If he, as the Christ, would deliver our nation from the Romans (and they could not form any other idea than that of the Messiah), let him deliver himself from the Romans that have him now in their hands.\" Thus the Jewish rulers jeered him as subdued by the Romans, instead of subduing them. The Roman soldiers jeered him as the King of the Jews: \"A people good enough for such a prince, and a prince good enough for such a people.\" They mocked him (Luk 23:36, Luk 23:37); they made sport with him, and made a jest of his sufferings; and when they were drinking sharp sour wine themselves, such as was generally allotted them, they triumphantly asked him if he would pledge them, or drink with them. And they said, If thou be the king of the Jews, save thyself; for, as the Jews prosecuted him under the notion of a pretended Messiah, so the Romans under the notion of a pretended king. 6. That the superscription over his head, setting forth his crime, was, This is the King of the Jews, Luk 23:38. He is put to death for pretending to be the king of the Jews; so they meant it; but God intended it to be a declaration of what he really was, notwithstanding his present disgrace: he is the king of the Jews, the king of the church, and his cross is the way to his crown. This was written in those that were called the three learned languages, Greek, and Latin, and Hebrew, for those are best learned that have learned Christ. It was written in these three languages that it might be known and read of all men; but God designed by it to signify that the gospel of Christ should be preached to all nations, beginning at Jerusalem, and be read in all languages. The Gentile philosophy made the Greek tongue famous, the Roman laws and government made the Latin tongue so, and the Hebrew excelled them all for the sake of the Old Testament. In these three languages is Jesus Christ proclaimed king. Young scholars, that are taking pains at school to make themselves masters of these three languages, should aim at this, that in the use of them they may increase their acquaintance with Christ.\nII. Here are two passages which we had not before, and they are very remarkable ones.\n1. Christ's prayer for his enemies (Luk 23:34): Father, forgive them. Seven remarkable words Christ spoke after he was nailed to the cross, and before he died, and this is the first. One reason why he died the death of the cross was that he might have liberty of speech to the last, and so might glorify his Father and edify those about him. As soon as ever he was fastened to the cross, or while they were nailing him, he prayed this prayer, in which observe,\n(1.) The petition: Father, forgive them. One would think that he should have prayed, \"Father, consume them; the Lord look upon it, and requite it.\" The sin they were now guilty of might justly have been made unpardonable, and justly might they have been excepted by name out of the act of indemnity. No, these are particularly prayed for. Now he made intercession for transgressors, as was foretold (Isa 53:12), and it is to be added to his prayer (Jn. 17), to complete the specimen he gave of his intercession within the veil: that for saints, this for sinners. Now the sayings of Christ upon the cross as well as his sufferings had a further intention than they seemed to have. This was a mediatorial word, and explicatory of the intent and meaning of his death: \"Father, forgive them, not only these, but all that shall repent, and believe the gospel;\" and he did not intend that these should be forgiven upon any other terms. \"Father, that which I am now suffering and dying for is in order to this, that poor sinners may be pardoned.\" Note, [1.] The great thing which Christ died to purchase and procure for us is the forgiveness of sin. [2.] This is that for which Christ intercedes for all that repent and believe in the virtue of his satisfaction; his blood speaks this: Father, forgive them. [3.] The greatest sinners may, through Christ, upon their repentance, hope to find mercy. Though they were his persecutors and murderers, he prayed, Father, forgive them.\n(2.) The plea: For they know not what they do; for, if they had known, they would not have crucified him, Co1 2:8. There was a veil upon his glory and upon their understandings; and how could they see through two veils? They wished his blood on them and their children: but, had they known what they did, they would have unwished it again. Note, [1.] The crucifiers of Christ know not what they do. They that speak ill or religion speak ill of that which they know not, and it is because they will not know it. [2.] There is a kind of ignorance that does in part excuse sin: ignorance through want of the means of knowledge or of a capacity to receive instruction, through the infelicities of education, or inadvertency. The crucifiers of Christ were kept in ignorance by their rulers, and had prejudices against him instilled into them, so that in what they did against Christ and his doctrine they thought they did God service, Joh 16:2. Such as to be pitied and prayed for. This prayer of Christ was answered not long after, when many of those that had a hand in his death were converted by Peter's preaching. This is written also for example to us. First, We must in prayer call God Father, and come to him with reverence and confidence, as children to a father. Secondly, The great thing we must beg of God, both for ourselves and others, is the forgiveness of sins. Thirdly, We must pray for our enemies, and those that hate and persecute us, must extenuate their offences, and not aggravate them as we must our own (They know not what they do; peradventure it was an oversight); and we must be earnest with God in prayer for the forgiveness of their sins, their sins against us. This is Christ's example to his own rule (Mat 5:44, Mat 5:45, Love your enemies); and it very much strengthens the rule, for, if Christ loved and prayed for such enemies, what enemies can we have that we are not obliged to love and pray for?\n2. The conversion of the thief upon the cross, which is an illustrious instance of Christ's triumphing over principalities and powers even when he seemed to be triumphed over by them. Christ was crucified between two thieves, and in them were represented the different effects which the cross of Christ would have upon the children of men, to whom it would be brought near in the preaching of the gospel. They were all malefactors, all guilty before God. Now the cross of Christ is to some a savour of life unto life, to others of death unto death. To them that perish it is foolishness, but to them that are saved it is the wisdom of God and the power of God.\n(1.) Here was one of these malefactors that was hardened to the last. Near to the cross of Christ, he railed on him, as others did (Luk 23:39): he said, If thou be the Christ, as they say thou art, save thyself and us. Though he was now in pain and agony, and in the valley of the shadow of death, yet this did not humble his proud spirit, nor teach him to give good language, no, not to his fellow-sufferer. Though thou bray a fool in a mortar, yet will not his foolishness depart from him. No troubles will of themselves work a change in a wicked heart, but sometimes they irritate the corruption which one would think they should mortify. He challenges Christ to save both himself and them. Note, There are some that have the impudence to rail at Christ, and yet the confidence to expect to be saved by him; nay, and to conclude that, if he do not save them, he is not to be looked upon as the Saviour.\n(2.) Here was the other of them that was softened at the last. It as said in Matthew and Mark that the thieves, even they that were crucified with him, reviled him, which some think is by a figure put for one of them, but others think that they both reviled him at first, till the heart of one of them was wonderfully changed, and with it his language on a sudden. This malefactor, when just ready to fall into the hands of Satan, was snatched as a brand out of the burning, and made a monument of divine mercy and grace, and Satan was left to roar as a lion disappointed of his prey. This gives no encouragement to any to put off their repentance to their death-bed, or to hope that then they shall find mercy; for, though it is certain that true repentance is never too late, it is as certain that late repentance is seldom true. None can be sure that they shall have time to repent at death, but every man may be sure that he cannot have the advantages that this penitent thief had, whose case was altogether extraordinary. He never had any offer of Christ, nor day of grace, before how: he was designed to be made a singular instance of the power of Christ's grace now at a time when he was crucified in weakness. Christ, having conquered Satan in the destruction of Judas and the preservation of Peter, erects this further trophy of his victory over him in the conversion of this malefactor, as a specimen of what he would do. We shall see the case to be extraordinary if we observe,\n[1.] The extraordinary operations of God's grace upon him, which appeared in what he said. Here were so many evidences given in a short time of a blessed change wrought in him that more could not have been given in so little a compass.\nFirst, See what he said to the other malefactor, Luk 23:40, Luk 23:41. 1. He reproved him for railing at Christ, as destitute of the fear of God, and having no sense at all of religion: Dost not thou fear God? This implies that it was the fear of God which restrained him from following the multitude to do this evil. \"I fear God, and therefore dare not do it; and dost not thou?\" All that have their eyes opened see this to be at the bottom of the wickedness of the wicked, that they have not the fear of God before their eyes. \"If thou hadst any humanity in thee, thou wouldest not insult over one that is thy fellow-sufferer; thou art in the same condition; thou art a dying man too, and therefore, whatever these wicked people do, it ill becomes thee to abuse a dying man.\" 2. He owns that he deserves what was done to him: We indeed justly. It is probable that they both suffered for one and the same crime, and therefore he spoke with the more assurance, We received the due reward of our deeds. This magnifies divine grace, as acting in a distinguishing way. These two have been comrades in sin and suffering, and yet one is saved and the other perishes; two that had gone together all along hitherto, and yet now one taken and the other left. He does not say, Thou indeed justly, but We. Note, True penitents acknowledge the justice of God in all the punishments of their sin. God has done right, but we have done wickedly. 3. He believes Christ to have suffered wrongfully. Though he was condemned in two courts, and run upon as if he had been the worst of malefactors, yet this penitent thief is convinced, by his conduct in his sufferings, that he has done nothing amiss, ouden atopon - nothing absurd, or unbecoming his character. The chief priests would have him crucified between the malefactors, as one of them; but this thief has more sense than they, and owns he is not one of them. Whether he had before heard of Christ and of his wonderous works does not appear, but the Spirit of grace enlightened him with this knowledge, and enabled him to say, This man has done nothing amiss.\nSecondly, See what he said to our Lord Jesus: Lord, remember me when thou comest into thy kingdom, Luk 23:42. This is the prayer of a dying sinner to a dying Saviour. It was the honour of Christ to be thus prayed to, though he was upon the cross reproached and reviled. It was the happiness of the thief thus to pray; perhaps he never prayed before, and yet now was heard, and saved at the last gasp. While there is life there is hope, and while there is hope there is room for prayer. 1. Observe his faith in this prayer. In his confession of sin (Luk 23:41) he discovered repentance towards God. In this petition he discovered faith towards our Lord Jesus Christ. He owns him to be Lord, and to have a kingdom, and that he was going to that kingdom, that he should have authority in that kingdom, and that those should be happy whom he favoured; and to believe and confess all this was a great thing at this time of day. Christ was now in the depth of disgrace, deserted by his own disciples, reviled by his own nation, suffering as a pretender, and not delivered by his Father He made this profession before those prodigies happened which put honour upon his sufferings, and which startled the centurion; yet verily we have not found so great faith, no, not in Israel. He believed another life after this, and desired to be happy in that life, not as the other thief, to be saved from the cross, but to be well provided for when the cross had done its worst. 2. Observe his humility in this prayer. All his request is, Lord, remember me. He does not pray, Lord, prefer me (as they did, Mat 20:21), though, having the honour as none of the disciples had to drink of Christ's cup and to be baptized with his baptism either on his right hand or on his left in his sufferings when his own disciples had deserted him he might have had some colour to ask as they did to sit on his right hand and on his left in his kingdom. Acquaintance in sufferings has sometimes gained such a point, Jer 52:31, Jer 52:32. But he is far from the thought of it. All he begs is, Lord, remember me, referring himself to Christ in what way to remember him. It is a request like that of Joseph to the chief butler, Think on me (Gen 40:14), and it sped better; the chief butler forgot Joseph, but Christ remembered this thief. 3. There is an air of importunity and fervency in this prayer. He does, as it were, breathe out his soul in it: \"Lord, remember me, and I have enough; I desire no more; into thy hands I commit my case.\" Note, To be remembered by Christ, now that he is in his kingdom, is what we should earnestly desire and pray for, and it will be enough to secure our welfare living and dying. Christ is in his kingdom, interceding. \"Lord, remember me, and intercede for me.\" He is there ruling. \"Lord, remember me, and rule in me by thy Spirit.\" He is there preparing places for those that are his. \"Lord, remember me, and prepare a place for me; remember me at death, remember me in the resurrection.\" See Job 14:13.\n[2.] The extraordinary grants of Christ's favour to him: Jesus said unto him, in answer to his prayer, \"Verily I say unto thee, I the Amen, the faithful Witness, I say Amen to this prayer, put my fiat to it: nay, thou shalt have more than thou didst ask, This day thou shalt be with me in paradise,\" Luk 23:43. Observe,\nFirst, To whom this was spoken: to the penitent thief, to him, and not to his companion. Christ upon the cross is like Christ upon the throne; for now is the judgment of this world: one departs with a curse, the other with a blessing. Though Christ himself was now in the greatest struggle and agony, yet he had a word of comfort to speak to a poor penitent that committed himself to him. Note, Even great sinners, if they be true penitents, shall, through Christ, obtain not only the pardon of their sins, but a place in the paradise of God, Heb 9:15. This magnifies the riches of free grace, that rebels and traitors shall not only be pardoned, but preferred, thus preferred.\nSecondly, By whom this was spoken. This was another mediatorial word which Christ spoke, though upon a particular occasion, yet with a general intention to explain the true intent and meaning of his sufferings; as he died to purchase the forgiveness of sins for us (Luk 23:34), so also to purchase eternal life for us. By this word we are given to understand that Jesus Christ died to open the kingdom of heaven to all penitent obedient believers. 1. Christ here lets us know that he was going to paradise himself, to hades - the invisible world. His human soul was removing to the place of separate souls; not to the place of the damned, but to paradise, the place of the blessed. By this he assures us that his satisfaction was accepted, and the Father was well pleased in him, else he had not gone to paradise; that was the beginning of the joy set before him, with the prospect of which he comforted himself. He went by the cross to the crown, and we must not think of going any other way, or of being perfected but by sufferings. 2. He lets all penitent believers know that when they die they shall go to be with him there. He was now, as a priest, purchasing this happiness for them, and is ready, as a king, to confer it upon them when they are prepared and made ready for it. See here how the happiness of heaven is set forth to us. (1.) It is paradise, a garden of pleasure, the paradise of God (Rev 2:7), alluding to the garden of Eden, in which our first parents were placed when they were innocent. In the second Adam we are restored to all we lost in the first Adam, and more, to a heavenly paradise instead of an earthly one. (2.) It is being with Christ there. That is the happiness of heaven, to see Christ, and sit with him, and share in his glory, Joh 17:24. (3.) It is immediate upon death: This day shalt thou be with me, tonight, before tomorrow. Thou souls of the faithful, after they are delivered from the burden of the flesh, immediately are in joy and felicity; the spirits of just men are immediately made perfect. Lazarus departs, and is immediately comforted; Paul departs, and is immediately with Christ, Phi 1:23.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "John 19:19",
+      "note_ref": "MHC/43/19/19",
+      "cites": [
+        "John 19:19"
+      ],
+      "text": "Here are some remarkable circumstances of Christ's dying more fully related than before, which those will take special notice of who covet to know Christ and him crucified.\nI. The title set up over his head. Observe,\n1. The inscription itself which Pilate wrote, and ordered to be fixed to the top of the cross, declaring the cause for which he was crucified, Joh 19:19. Matthew called it, aitia - the accusation; Mark and Luke called it epigraphē - the inscription; John calls it by the proper Latin name, titlos - the title: and it was this, Jesus of Nazareth, the King of the Jews, Pilate intended this for his reproach, that he, being Jesus of Nazareth, should pretend to be king of the Jews, and set up in competition with Caesar, to whom Pilate would thus recommend himself, as very jealous for his honour and interest, when he would treat but a titular king, a king in metaphor, as the worst of malefactors; but God overruled this matter, (1.) That it might be a further testimony to the innocency of our Lord Jesus; for here was an accusation which, as it was worded, contained no crime. If this be all they have to lay to his charge, surely he has done nothing worthy of death or of bonds. (2.) That it might show forth his dignity and honour. This is Jesus a Saviour, Nazōraios, the blessed Nazarite, sanctified to God; this is the king of the Jews, Messiah the prince, the sceptre that should rise out of Israel, as Balaam had foretold; dying for the good of his people, as Caiaphas had foretold. Thus all these three bad men witnessed to Christ, though they meant not so.\n2. The notice taken of this inscription (Joh 19:20): Many of the Jews read it, not only those of Jerusalem, but those out of the country, and from other countries, strangers and proselytes, that came up to worship at the feast. Multitudes read it, and it occasioned a great variety of reflections and speculations, as men stood affected. Christ himself was set for a sign, a title. Here are two reasons why the title was so much read: - (1.) Because the place where Jesus was crucified, though without the gate, was yet nigh the city, which intimates that if it had been any great distance off they would not have been led, no not by their curiosity, to go and see it, and read it. It is an advantage to have the means of knowing Christ brought to our doors. (2.) Because it was written in Hebrew, and Greek, and Latin, which made it legible by all; they all understood one or other of these languages, and none were more careful to bring up their children to read than the Jews generally were. It likewise made it the more considerable; everyone would be curious to enquire what it was which was so industriously published in the three most known languages. In the Hebrew the oracles of God were recorded; in Greek the learning of the philosophers; and in Latin the laws of the empire. In each of these Christ is proclaimed king, in whom are hid all the treasures of revelation, wisdom, and power. God so ordering it that this should be written in the three then most known tongues, it was intimated thereby that Jesus Christ should be a Saviour to all nations, and not to the Jews only; and also that every nation should hear in their own tongue the wonderful works of the Redeemer. Hebrew, Greek, and Latin, were the vulgar languages at that time in this part of the world; so that this is so far from intimating (as the Papists would have it) that the scripture is still to be retained in these three languages, that on the contrary it teaches us that the knowledge of Christ ought to be diffused throughout every nation in their own tongue, as the proper vehicle of it, that people may converse as freely with the scriptures as they do with their neighbours.\n3. The offence which the prosecutors took at it, Joh 19:21. They would not have it written, the king of the Jews; but that he said of himself, I am the king of the Jews. Here they show themselves, (1.) Very spiteful and malicious against Christ. It was not enough to have him crucified, but they must have his name crucified too. To justify themselves in giving him such bad treatment, they thought themselves concerned to give him a bad character, and to represent him as a usurper of honours and powers that he was not entitled to. (2.) Foolishly jealous of the honour of their nation. Though they were a conquered and enslaved people, yet they stood so much upon the punctilio of their reputation that they scorned to have it said that this was their king. (3.) Very impertinent and troublesome to Pilate. They could not but be sensible that they had forced him, against his mind, to condemn Christ, and yet, in such a trivial thing as this, they continue to tease him; and it was so much the worse in that, though they had charged him with pretending to be the king of the Jews, yet they had not proved it, nor had he ever said so.\n4. The judge's resolution to adhere to it: \"What I have written I have written, and will not alter it to humour them.\"\n(1.) Hereby an affront was put upon the chief priests, who would still be dictating. It seems, by Pilate's manner of speaking, that he was uneasy in himself for yielding to them, and vexed at them for forcing him to it, and therefore he was resolved to be cross with them; and by this inscription he insinuates, [1.] That, notwithstanding their pretences, they were not sincere in their affections to Caesar and his government; they were willing enough to have a king of the Jews, if they could have one to their mind. [2.] That such a king as this, so mean and despicable, was good enough to be the king of the Jews; and this would be the fate of all that should dare to oppose the Roman power. [3.] That they had been very unjust and unreasonable in prosecuting this Jesus, when there was no fault to be found in him.\n(2.) Hereby honour was done to the Lord Jesus. Pilate stuck to it with resolution, that he was the king of the Jews. What he had written was what God had first written, and therefore he could not alter it; for thus it was written, that Messiah the prince should be cut off, Dan 9:26. This therefore is the true cause of his death; he dies because the king of Israel must die, must thus die. When the Jews reject Christ, and will not have him for their king, Pilate, a Gentile, sticks to it that he is a king, which was an earnest of what came to pass soon after, when the Gentiles submitted to the kingdom of the Messiah, which the unbelieving Jews had rebelled against.\nII. The dividing of his garments among the executioners, Joh 19:23, Joh 19:24. Four soldiers were employed, who, when they had crucified Jesus, had nailed him to the cross, and lifted it up, and him upon it, and nothing more was to be done than to wait his expiring through the extremity of pain, as, with us, when the prisoner is turned off, then they went to make a dividend of his clothes, each claiming an equal share, and so they made four parts, as nearly of the same value as they could, to every soldier a part; but his coat, or upper garment whether cloak or gown, being a pretty piece of curiosity, without seam, woven from the top throughout, they agreed to cast lots for it. Here observe, 1. The shame they put upon our Lord Jesus, in stripping him of his garments before they crucified him. The shame of nakedness came in with sin. He therefore who was made sin for us bore that shame, to roll away our reproach. He was stripped, that we might be clothed with white raiment (Rev 3:18), and that when we are unclothed we may not be found naked. 2. The wages with which these soldiers paid themselves for crucifying Christ. They were willing to do it for his old clothes. Nothing is to be done so bad, but there will be found men bad enough to do it for a trifle. Probably they hoped to make more than ordinary advantage of his clothes, having heard of cures wrought by the touch of the hem of his garment, or expecting that his admirers would give any money for them. 3. The sport they made about his seamless coat. We read not of any thing about him valuable or remarkable but this, and this not for the richness, but only the variety of it, for it was woven from the top throughout; there was no curiosity therefore in the shape, but a designed plainness. Tradition says, his mother wove it for him, and adds this further, that it was made for him when he was a child, and, like the Israelites' clothes in the wilderness, waxed not old; but this is a groundless fancy. The soldiers thought it a pity to rend it, for then it would unravel, and a piece of it would be good for nothing; they would therefore cast lots for it. While Christ was in his dying agonies, they were merrily dividing his spoils. The preserving of Christ's seamless coat is commonly alluded to to show the care all Christians ought to take that they rend not the church of Christ with strifes and divisions; yet some have observed that the reason why the soldiers would not rend Christ's coat was not out of any respect to Christ, but because each of them hoped to have it entire for himself. And so many cry out against schism, only that they may engross all the wealth and power to themselves. Those who opposed Luther's separation from the church of Rome urged much the tunica inconsutilis - the seamless coat; and some of them laid so much stress upon it that they were called the Inconsutilistae - The seamless. 4. The fulfilling of the scripture in this. David, in spirit, foretold this very circumstance of Christ's sufferings, in that passage, Psa 22:18. The event so exactly answering the prediction proves, (1.) That the scripture is the word of God, which foretold contingent events concerning Christ so long before, and they came to pass according to the prediction. (2.) That Jesus is the true Messiah; for in him all the Old Testament prophecies concerning the Messiah had, and have, their full accomplishment. These things therefore the soldiers did.\nIII. The care that he took of his poor mother.\n1. His mother attends him to his death (Joh 19:25): There stood by the cross, as near as they could get, his mother, and some of his relations and friends with her. At first, they stood near, as it is said here; but afterwards, it is probable, the soldiers forced them to stand afar off, as it is said in Matthew and Mark: or they themselves removed out of the ground. (1.) See here the tender affection of these pious women to our Lord Jesus in his sufferings. When all his disciples, except John, has forsaken him, they continued their attendance on him. Thus the feeble were as David (Zac 12:8): they were not deterred by the fury of the enemy nor the horror of the sight; they could not rescue him nor relieve him, yet they attended him, to show their good-will. It is an impious and blasphemous construction which some of the popish writers put upon the virgin Mary standing by the cross, that thereby she contributed to the satisfaction he made for sin no less than he did, and so became a joint-mediatrix and co-adjutrix in our salvation. (2.) We may easily suppose what an affliction it was to these poor women to see him thus abused, especially to the blessed virgin. Now was fulfilled Simeon's word, A sword shall pierce through thy own soul, Luk 2:35. His torments were her tortures; she was upon the rack, while he was upon the cross; and her heart bled with his wounds; and the reproaches wherewith they reproached him fell on those that attended him. (3.) We may justly admire the power of divine grace in supporting these women, especially the virgin Mary, under this heavy trial. We do not find his mother wringing her hands, or tearing her hair, or rending her clothes, or making an outcry; but, with a wonderful composure, standing by the cross, and her friends with her. Surely she and they were strengthened by a divine power to this degree of patience; and surely the virgin Mary had a fuller expectation of his resurrection than the rest had, which supported her thus. We know not what we can bear till we are tried, and then we know who has said, My grace is sufficient for thee.\n2. He tenderly provides for his mother at his death. It is probable that Joseph, her husband, was long since dead, and that her son Jesus had supported her, and her relation to him had been her maintenance; and now that he was dying what would become of her? He saw her standing by, and knew her cares and griefs; and he saw John standing not far off, and so he settled a new relation between his beloved mother and his beloved disciple; for he said to her, \"Woman, behold thy son, for whom henceforward thou must have a motherly affection;\" and to him, \"Behold thy mother, to whom thou must pay a filial duty.\" And so from that hour, that hour never to be forgotten, that disciple took her to his own home. See here,\n(1.) The care Christ took of his dear mother. He was not so much taken up with a sense of his sufferings as to forget his friends, all whose concerns he bore upon his heart. His mother, perhaps, was so taken up with his sufferings that she thought not of what would become of her; but he admitted that thought. Silver and gold he had none to leave, no estate, real or personal; his clothes the soldiers had seized, and we hear no more of the bag since Judas, who had carried it, hanged himself. He had therefore no other way to provide for his mother than by his interest in a friend, which he does here. [1.] He calls her woman, not mother, not out of any disrespect to her, but because mother would have been a cutting word to her that was already wounded to the heart with grief; like Isaac saying to Abraham, My father. He speaks as one that was now no more in this world, but was already dead to those in it that were dearest to him. His speaking in this seemingly slight manner to his mother, as he had done formerly, was designed to obviate and give a check to the undue honours which he foresaw would be given to her in the Romish church, as if she were a joint purchaser with him in the honours of the Redeemer. [2.] He directs her to look upon John as her son: \"Behold him as thy son, who stands there by thee, and be as a mother to him.\" See here, First, An instance of divine goodness, to be observed for our encouragement. Sometimes, when God removes one comfort from us, he raises up another for us, perhaps where we looked not for it. We read of children which the church shall have after she has lost the other, Isa 49:21. Let none therefore reckon all gone with one cistern dried up, for from the same fountain another may be filled. Secondly, An instance of filial duty, to be observed for our imitation. Christ has here taught children to provide, to the utmost of their power, for the comfort of their aged parents. When David was in distress, he took care of his parents, and found out a shelter for them (Sa1 22:3); so the Son of David here. Children at their death, according to their ability, should provide for their parents, if they survive them, and need their kindness.\n(2.) The confidence he reposed in the beloved disciple. It is to him he says, Behold thy mother, that is, I recommend her to thy care, be thou as a son to her to guide her (Isa 51:18); and forsake her not when she is old, Pro 23:22. Now, [1.] This was an honour put upon John, and a testimony both to his prudence and to his fidelity. If he who knows all things had not known that John loved him, he would not have made him his mother's guardian. It is a great honour to be employed for Christ, and to be entrusted with any of his interest in the world. But, [2.] It would be a care and some charge to John; but he cheerfully accepted it, and took her to his own home, not objecting the trouble nor expense, nor his obligations to his own family, nor the ill-will he might contract by it. Note, Those that truly love Christ, and are beloved of him, will be glad of an opportunity to do any service to him or his. Nicephoras's Eccl. Hist. lib. 2 cap. 3, saith that the virgin Mary lived with John at Jerusalem eleven years, and then died. Others, that she lived to remove with him to Ephesus.\nIV. The fulfilling of the scripture, in the giving of him vinegar to drink, Joh 19:28, Joh 19:29. Observe,\n1. How much respect Christ showed to the scripture (Joh 19:28): Knowing that all things hitherto were accomplished, that the scripture might be fulfilled, which spoke of his drinking in his sufferings, he saith, I thirst, that is, he called for drink.\n(1.) It was not at all strange that he was thirsty; we find him thirsty in a journey (Joh 4:6, Joh 4:7), and now thirsty when he was just at his journey's end. Well might he thirst after all the toil and hurry which he had undergone, and being now in the agonies of death, ready to expire purely by the loss of blood and extremity of pain. The torments of hell are represented by a violent thirst in the complaint of the rich man that begged for a drop of water to cool his tongue. To that everlasting thirst we had been condemned, had not Christ suffered for us.\n(2.) But the reason of his complaining of it is somewhat surprising; it is the only word he spoke that looked like complaint of his outward sufferings. When they scourged him, and crowned him with thorns, he did not cry, O my head! or, My back! But now he cried, I thirst. For, [1.] He would thus express the travail of his soul, Isa 53:11. He thirsted after the glorifying of God, and the accomplishment of the work of our redemption, and the happy issue of his undertaking. [2.] He would thus take care to see the scripture fulfilled. Hitherto, all had been accomplished, and he knew it, for this was the thing he had carefully observed all along; and now he called to mind one thing more, which this was the proper season for the performance of. By this it appears that he was the Messiah, in that not only the scripture was punctually fulfilled in him, but it was strictly eyed by him. By this it appears that God was with him of a truth - that in all he did he went exactly according to the word of God, taking care not to destroy, but to fulfil, the law and the prophets. Now, First, The scripture had foretold his thirst, and therefore he himself related it, because it could not otherwise be known, saying, I thirst; it was foretold that his tongue should cleave to his jaws, Psa 22:15. Samson, an eminent type of Christ, when he was laying the Philistines heaps upon heaps, was himself sore athirst (Jdg 15:18); so was Christ, when he was upon the cross, spoiling principalities and powers. Secondly, The scripture had foretold that in his thirst he should have vinegar given him to drink, Psa 69:21. They had given him vinegar to drink before they crucified him (Mat 27:34), but the prophecy was not exactly fulfilled in that, because that was not in his thirst; therefore now he said, I thirst, and called for it again: then he would not drink, but now he received it Christ would rather court an affront than see any prophecy unfulfilled. This should satisfy us under all our trials, that the will of God is done, and the word of God accomplished.\n2. See how little respect his persecutors showed to him (Joh 19:29): There was set a vessel full of vinegar, probably according to the custom at all executions of this nature; or, as others think, it was now set designedly for an abuse to Christ, instead of the cup of wine which they used to give to those that were ready to perish; with this they filled a sponge, for they would not allow him a cup, and they put it upon hyssop, a hyssop-stalk, and with this heaved it to his mouth; hussōpō perithentes - they stuck it round with hyssop; so it may be taken; or, as others, they mingled it with hyssop-water, and this they gave him to drink when he was thirsty; a drop of water would have cooled his tongue better than a draught of vinegar: yet this he submitted to for us. We had taken the sour grapes, and thus his teeth were set on edge; we had forfeited all comforts and refreshments, and therefore they were withheld from him. When heaven denied him a beam of light earth denied him a drop of water, and put vinegar in the room of it.\nV. The dying word wherewith he breathed out his soul (Joh 19:30): When he had received the vinegar, as much of it as he thought fit, he said, It is finished; and, with that, bowed his head, and gave up the ghost. Observe,\n1. What he said, and we may suppose him to say it with triumph and exultation, Tetelestai - It is finished, a comprehensive word, and a comfortable one. (1.) It is finished, that is, the malice and enmity of his persecutors had now done their worst; when he had received that last indignity in the vinegar they gave him, he said, \"This is the last; I am now going out of their reach, where the wicked cease from troubling.\" (2.) It is finished, that is, the counsel and commandment of his Father concerning his sufferings were now fulfilled; it was a determinate counsel, and he took care to see every iota and tittle of it exactly answered, Act 2:23. He had said, when he entered upon his sufferings, Father, thy will be done; and now he saith with pleasure, It is done. It was his meat and drink to finish his work (Joh 4:34), and the meat and drink refreshed him, when they gave him gall and vinegar. (3.) It is finished, that is, all the types and prophecies of the Old Testament, which pointed at the sufferings of the Messiah, were accomplished and answered. He speaks as if, now that they had given him the vinegar, he could not bethink himself of any word in the Old Testament that was to be fulfilled between him and his death but it had its accomplishment; such as, his being sold for thirty pieces of silver, his hands and feet being pierced, his garments divided, etc.; and now that this is done. It is finished. (4.) It is finished, that is, the ceremonial law is abolished, and a period put to the obligation of it. The substance is now come, and all the shadows are done away. Just now the veil is rent, the wall of partition is taken down, even the law of commandments contained in ordinances, Eph 2:14, Eph 2:15. The Mosaic economy is dissolved, to make way for a better hope. (5.) It is finished, that is, sin is finished, and an end made of transgression, by the bringing in of an everlasting righteousness. It seems to refer to Dan 9:24. The Lamb of God was sacrificed to take away the sin of the world, and it is done, Heb 9:26. (6.) It is finished, that is, his sufferings were now finished, both those of his soul and those of his body. The storm is over, the worst is past; all his pains and agonies are at an end, and he is just going to paradise, entering upon the joy set before him. Let all that suffer for Christ, and with Christ, comfort themselves with this, that yet a little while and they also shall say, It is finished. (7.) It is finished, that is, his life was now finished, he was just ready to breathe his last, and now he is no more in this world, Joh 17:11. This is like that of blessed Paul (Ti2 4:7), I have finished my course, my race is run, my glass is out, mene, mene - numbered and finished. This we must all come to shortly. (8.) It is finished, that is, the work of man's redemption and salvation is now completed, at least the hardest part of the undertaking is over; a full satisfaction is made to the justice of God, a fatal blow given to the power of Satan, a fountain of grace opened that shall ever flow, a foundation of peace and happiness laid that shall never fail. Christ had now gone through with his work, and finished it, Joh 17:4. For, as for God, his work is perfect; when I begin, saith he, I will also make an end. And, as in the purchase, so in the application of the redemption, he that has begun a good work will perform it; the mystery of God shall be finished.\n2. What he did: He bowed his head, and gave up the ghost. He was voluntary in dying; for he was not only the sacrifice, but the priest and the offerer; and the animus offerentis - the mind of the offerer, was all in all in the sacrifice. Christ showed his will in his sufferings, by which will we are sanctified. (1.) He gave up the ghost. His life was not forcibly extorted from him, but freely resigned. He had said, Father, into thy hands I commit my spirit, thereby expressing the intention of this act. I give up myself as a ransom for many; and, accordingly, he did give up his spirit, paid down the price of pardon and life at his Father's hands. Father, glorify thy name. (2.) He bowed his head. Those that were crucified, in dying stretched up their heads to gasp for breath, and did not drop their heads till they had breathed their last; but Christ, to show himself active in dying, bowed his head first, composing himself, as it were, to fall asleep. God had laid upon him the iniquity of us all, putting it upon the head of this great sacrifice; and some think that by this bowing of his head he would intimate his sense of the weight upon him. See Psa 38:4; Psa 40:12. The bowing of his head shows his submission to his Father's will, and his obedience to death. He accommodated himself to his dying work, as Jacob, who gathered up his feet into the bed, and then yielded up the ghost."
+    },
+    {
+      "src": "TYN",
+      "ref": "Matthew 27:35",
+      "note_ref": "TYN/40/27/35",
+      "cites": [
+        "Matthew 27:37"
+      ],
+      "text": "27:35 they . . . nailed him to the cross: Crucifixion, though not generally practiced by Jews, was a widespread Roman punishment for military and political offenders, particularly slaves, rebels, and insurrectionists. The sheer cruelty and the public spectacle of crucifixion worked as a powerful social deterrent. Victims were flogged and then crucified naked, adding to the humiliation. It was seen as the most painful of all possible deaths; it involved intense suffering, exposure to weather and insects, suffocation, and often a final violent thrust of a spear to end life. Further, since crucifixion was a curse from God (Deut 21:22-23), the act was particularly heinous to Jewish sensibilities. Paradoxically, what was so despicable among humans has become the instrument of our salvation. Jesus previously had instructed his disciples to take up their crosses and follow him (Matt 16:24)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Matthew 27:37",
+      "note_ref": "TYN/40/27/37",
+      "cites": [
+        "Matthew 27:37"
+      ],
+      "text": "27:37 The official charge was fastened to the cross above the criminal’s head; Jesus was crucified for political sedition."
+    },
+    {
+      "src": "TYN",
+      "ref": "Matthew 27:38",
+      "note_ref": "TYN/40/27/38",
+      "cites": [
+        "Matthew 27:37"
+      ],
+      "text": "27:38 Crucifying Jesus between two convicted revolutionaries added further humiliation and guilt by association."
+    },
+    {
+      "src": "TYN",
+      "ref": "Mark 15:24",
+      "note_ref": "TYN/41/15/24",
+      "cites": [
+        "Mark 15:26"
+      ],
+      "text": "15:24 Crucifixion goes back to the Medes and Persians in the 600s BC. It spread to the eastern Mediterranean world in the 300s BC through Alexander the Great and became the dominant form of capital punishment in the Roman Empire until AD 337, when it was banned by Constantine. It was slow, shameful, and torturous. The victim sometimes lived for days, and crows and dogs would feed on the victims even before they died. A person could be fixed to the cross by ropes or, as with Jesus (Luke 24:39; John 20:25, 27; see Col 2:14), by nails between the bones of the victim’s wrists. To prevent premature death by asphyxiation, a footrest or a seat was often placed on the vertical beam. • All four Gospels report that the soldiers divided his clothes among themselves."
+    },
+    {
+      "src": "TYN",
+      "ref": "Mark 15:25",
+      "note_ref": "TYN/41/15/25",
+      "cites": [
+        "Mark 15:26"
+      ],
+      "text": "15:25 Mark records Jesus’ crucifixion as occurring at the third hour, or nine o’clock in the morning. John 19:14 gives the time as around the sixth hour, or noon. These are rough estimates of time, and events in the later morning were typically described as occurring around either the third (Matt 20:3; Acts 2:15) or sixth hour (Mark 15:33; Matt 20:5; 27:45; Luke 23:44; John 4:6; 19:14; Acts 10:9)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Mark 15:26",
+      "note_ref": "TYN/41/15/26",
+      "cites": [
+        "Mark 15:26"
+      ],
+      "text": "15:26 Although the title King of the Jews was intended to mock Jesus, it was accurate and meaningful for Mark."
+    },
+    {
+      "src": "TYN",
+      "ref": "Mark 15:27",
+      "note_ref": "TYN/41/15/27",
+      "cites": [
+        "Mark 15:26"
+      ],
+      "text": "15:27 Two revolutionaries: Jesus, the most important victim, was placed in the center."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 23:36",
+      "note_ref": "TYN/42/23/36",
+      "cites": [
+        "Luke 23:38"
+      ],
+      "text": "23:36 Sour wine (cp. Ps 69:21) was a popular drink of the lower classes, especially among soldiers."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 23:38",
+      "note_ref": "TYN/42/23/38",
+      "cites": [
+        "Luke 23:38"
+      ],
+      "text": "23:38 The sign confirmed that Jesus was crucified on the charge of claiming to be the King of the Jews (cp. John 19:19-22)."
+    },
+    {
+      "src": "TYN",
+      "ref": "John 19:17",
+      "note_ref": "TYN/43/19/17",
+      "cites": [
+        "John 19:19"
+      ],
+      "text": "19:17 The vertical beam (Latin staticulum) of the cross was generally kept at the crucifixion site, and the victim was forced to carry only the heavy crossbeam (Latin patibulum). • Crucifixions were public executions that took place near major roadways. They were designed to shock and warn the people. • Place of the Skull (Hebrew and Aramaic Golgotha; Latin calvariae, “Calvary”): Most archaeologists agree that Jesus’ crucifixion was at the site of the present-day Church of the Holy Sepulchre, located in the Christian Quarter of the old walled city of Jerusalem. An alternate site, Gordon’s Calvary (north of the Damascus Gate), provides a model of what the scene possibly looked like, but it holds only a tomb from the 500s BC and therefore is unlikely to be the authentic site of Jesus’ crucifixion and burial."
+    },
+    {
+      "src": "TYN",
+      "ref": "John 19:18",
+      "note_ref": "TYN/43/19/18",
+      "cites": [
+        "John 19:19"
+      ],
+      "text": "19:18 None of the Gospel writers dwell on the details of being nailed . . . to the cross because they were well known and horrific. The soldiers used the cross as a means of torture; they wanted victims to survive for a while, in some cases for days. Because the Sabbath would begin at dusk (19:31), they expedited Jesus’ crucifixion. Jesus had been thoroughly beaten with stone- or metal-tipped whips, so his back was thoroughly lacerated, and he was bleeding profusely."
+    },
+    {
+      "src": "TYN",
+      "ref": "John 19:19",
+      "note_ref": "TYN/43/19/19",
+      "cites": [
+        "John 19:19"
+      ],
+      "text": "19:19-22 Pilate posted a sign on the cross: It was customary for the Roman soldiers to provide a written public notice of the criminal’s name and crimes. Perhaps as a final act of revenge against the Jewish high council, Pilate ordered that the sign should identify Jesus of Nazareth as the King of the Jews. Jesus’ kingship was posted in three languages for the whole world to understand."
+    },
+    {
+      "src": "GNV",
+      "ref": "Matthew 27:35",
+      "note_ref": "GNV/40/27/35",
+      "cites": [
+        "Matthew 27:37"
+      ],
+      "text": "He is made a curse, that in him we may be blessed: he is spoiled of his garments, that we might be enriched by his nakedness."
+    },
+    {
+      "src": "GNV",
+      "ref": "Matthew 27:37",
+      "note_ref": "GNV/40/27/37",
+      "cites": [
+        "Matthew 27:37"
+      ],
+      "text": "He is pronounced the true Messiah, even of them of whom he is rejected."
+    },
+    {
+      "src": "GNV",
+      "ref": "Matthew 27:38",
+      "note_ref": "GNV/40/27/38",
+      "cites": [
+        "Matthew 27:37"
+      ],
+      "text": "Christ began then to judge the world, when after his judgment he hung betwixt two thieves."
+    },
+    {
+      "src": "GNV",
+      "ref": "Matthew 27:39",
+      "note_ref": "GNV/40/27/39",
+      "cites": [
+        "Matthew 27:37"
+      ],
+      "text": "To make full satisfaction for us, Christ suffereth and overcometh, not only the torments of the body, but also the most horrible torments of the mind."
+    },
+    {
+      "src": "GNV",
+      "ref": "Mark 15:24",
+      "note_ref": "GNV/41/15/24",
+      "cites": [
+        "Mark 15:26"
+      ],
+      "text": "Christ hangeth naked upon the cross, and as the most wickedest caitiff that ever was, most vilely reproved: that we being clothed with his righteousness, and blessed with his curses, and sanctified by his only oblation, may be taken up into heaven."
+    },
+    {
+      "src": "GNV",
+      "ref": "Luke 23:38",
+      "note_ref": "GNV/42/23/38",
+      "cites": [
+        "Luke 23:38"
+      ],
+      "text": "Pilate at unawares is made a preacher of the kingdom of Christ."
+    },
+    {
+      "src": "GNV",
+      "ref": "Luke 23:39",
+      "note_ref": "GNV/42/23/39",
+      "cites": [
+        "Luke 23:38"
+      ],
+      "text": "Therefore either we must take that spoken by Synecdoche which Matthew saith, or that both of them mocked Christ. But one of them at length overcome with the great patience of God, brake forth into that confession worthy all memory.\nChrist, in the midst of the humbling of himself upon the cross, showeth indeed that he hath both power of life to save the believers, and of death to revenge the rebellious."
+    },
+    {
+      "src": "GNV",
+      "ref": "John 19:19",
+      "note_ref": "GNV/43/19/19",
+      "cites": [
+        "John 19:19"
+      ],
+      "text": "Christ sitting upon the throne of the cross, is openly written everlasting king of all people, with his own hand, whose mouth condemned him for usurping a kingdom."
+    }
+  ]
+}

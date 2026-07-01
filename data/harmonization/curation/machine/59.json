@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 59,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The strongest harmonization denies any anachronism, arguing the Dan of Abraham's pursuit is a separate town (Dan-Jaan in Gilead), not the later-renamed Laish-Dan.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Baruch Spinoza pressed this pair as proof of late authorship: Abraham is said to reach \"Dan,\" a name the city did not bear until long after Moses, so the Pentateuch must have been written by a later hand.",
+      "skeptic": {
+        "name": "Baruch Spinoza",
+        "work": "Tractatus Theologico-Politicus (Theologico-Political Treatise), ch. VIII",
+        "year": "1670",
+        "attribution": "Baruch Spinoza (d. 1677), Tractatus Theologico-Politicus, ch. VIII (1670)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 14:13",
+      "excerpt_text": "So far as the situation of Dan is concerned, this passage proves that it cannot have been identical with Leshem or Laish in the valley of Beth Rehob, which the Danites conquered and named Dan (Jdg 18:28-29; Jos 19:47) … This Dan belonged to Gilead (Deu 34:1), and is no doubt the same as the Dan-Jaan mentioned in Sa2 24:6 in connection with Gilead, and to be sought for in northern Peraea to the south-west of Damascus.",
+      "full_note_ref": "KD/1/14/13",
+      "on_tension_rationale": "Directly answers the dating tension by denying identity between Gen 14:14's Dan and the Laish renamed Dan in Judg 18:29 — the 'different Dan' harmonization. Two non-adjacent sentences joined with sense-preserving ellipsis; both make the single 'separate Dan in Gilead' argument.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Genesis 14:13-14 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly and at length, arguing the Dan of Abraham's pursuit is the Gileadite Dan-Jaan (2 Sam 24:6), distinct from the later Laish-Dan of Judg 18:29, so no anachronism arises. Used in place of Haley, whose coverage of this specific passage could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org / carm.org / defendinginerrancy.com) verified to engage the Gen 14:14 'Dan' / Laish anachronism specifically; gotquestions 'When was Genesis written?' does not mention Dan/Laish. Link omitted rather than guessed."
+      }
+    }
+  }
+}

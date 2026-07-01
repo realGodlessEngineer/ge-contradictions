@@ -1,0 +1,505 @@
+{
+  "contradiction_id": 105,
+  "question": "Who was Libni's father?",
+  "summary": "Three Levitical genealogies in Exodus 6:17, Numbers 3:18, and 1 Chronicles 6:17 list Libni as a son of Gershon (Levi's firstborn). But 1 Chronicles 6:29, tracing a completely different Levitical line, has Libni as son of Mahli and grandson of Merari (Levi's third son). Same name, two different fathers, two different Levitical branches.",
+  "consensus": "genuinely_disputed",
+  "consensus_id": 3,
+  "category": "Genealogy & Identity",
+  "contradiction_type": "genealogical",
+  "testament_scope": "OT_internal",
+  "books_in_tension": "Exodus, Numbers, 1 Chronicles",
+  "refs_raw": [
+    "Exodus 6:17",
+    "Numbers 3:18",
+    "1 Chronicles 6:17",
+    "1 Chronicles 6:29"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Exodus 6:17",
+      "book": "Exodus",
+      "bolls": 2,
+      "ranges": [
+        [
+          6,
+          17,
+          17
+        ]
+      ]
+    },
+    {
+      "raw": "Numbers 3:18",
+      "book": "Numbers",
+      "bolls": 4,
+      "ranges": [
+        [
+          3,
+          18,
+          18
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 6:17",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          6,
+          17,
+          17
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 6:29",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          6,
+          29,
+          29
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 40,
+  "notes_raw_count": 42,
+  "notes_dropped": 2,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Exodus 6:15",
+      "note_ref": "GILL/2/6/15",
+      "cites": [
+        "Exodus 6:17"
+      ],
+      "text": "And these are the names of the sons of Levi, according to their generations,.... Whose sons, according to the order of their birth, were as follow:\nGershom, and Kohath, and Merari; see Gen 46:11,\nand the years of the life of Levi were one hundred and thirty seven years; and exactly the same number of years is assigned him by Polyhistor from Demetrius (c), an Heathen writer. Jarchi says, that the reason why, the years of the life of Levi are reckoned is to show how long the bondage lasted; for there was no servitude as long as any of the tribes (or of the sons of Jacob) remained, according to Exo 1:6 and the Jewish chronologers (d) affirm that Levi was the last of the patriarchs that died; and that he died in the year of the world 3332, and lived in Egypt ninety four years; and from his time, to the going out of Egypt, were only one hundred and sixteen years; and they further say the bondage could not last longer than one hundred and sixteen years, nor shorter than eighty seven. Bishop Usher (e) places his death in A. M. 2385, and before Christ 1619: according to the Targum of Jonathan, he lived to see Moses and Aaron the deliverers of Israel; but that is false, since Joseph and all his brethren died before Moses was born, Exo 1:6.\n(c) Apud Euseb. Praepar. Evangel. l. 9. c. 21. p. 425. (d) Shalshalet Hakabala, fol. 5. 1. Tzemach David, par. 1, fol. 6. 2. & 7. 1. Seder Olam Rabba, c. 3. p. 9. (e) Annales Vet. Test. p. 17."
+    },
+    {
+      "src": "GILL",
+      "ref": "Exodus 6:16",
+      "note_ref": "GILL/2/6/16",
+      "cites": [
+        "Exodus 6:17"
+      ],
+      "text": "And the sons of Gershom, Libni, and Shimi, according to their families. He had only two sons, from whom came the families of the Libnites and Shimites; see Num 3:21.\n.\nExodus 6:18\nexo 6:18\nexo 6:18\nexo 6:18And the sons of Kohath, Amram, and Izhar, and Hebron, and Uzziel,.... So they are reckoned in Ch1 6:18 though only the family of the Hebronites are mentioned in Num 26:58.\nand the years of the life of Kohath were one hundred and thirty three years. A Jewish chronologer says (f) he died one hundred years before the going out of Egypt: just the same number of years is ascribed to him by Polyhistor from Demetrius, an Heathen historian (g).\n(f) Shalshalet Hakabalaut, ut supra. (fol. 5. 1.) (g) Apud Euseb. ut supra. (Praepar. Evangel. l. 9. c. 21. p. 425.)"
+    },
+    {
+      "src": "GILL",
+      "ref": "Exodus 6:17",
+      "note_ref": "GILL/2/6/17",
+      "cites": [
+        "Exodus 6:17"
+      ],
+      "text": "And the sons of Merari, Mahali, and Mushi,.... From whence sprung the families of the Mahalites, and Mushites, Num 3:33,\nthese are the families of Levi, according to their generations: the families that descended from him and his sons, according to the order of their birth."
+    },
+    {
+      "src": "GILL",
+      "ref": "Exodus 6:18",
+      "note_ref": "GILL/2/6/18",
+      "cites": [
+        "Exodus 6:17"
+      ],
+      "text": "And Amram took him Jochebed his father's sister to wife,.... This Amram was the first son of Kohath, and the father of Moses, as after related, and so must be the same with the man of the house of Levi, and his wife the daughter of Levi, as in Exo 2:1 and though such a marriage was afterwards prohibited, Moses does not conceal it, though it may seem to reflect some dishonour on him and his family; he writing not for his own glory, but for the sake of truth, and the good of mankind, and especially the church and people of God. Indeed the Vulgate Latin version, and the Septuagint, Samaritan, and Syriac versions, make her to be his first cousin, the daughter of his father's brother, his uncle's daughter: and so does Polyhistor from Demetrius (h); but in Num 26:59, she is expressly said to be a daughter of Levi, born to him in Egypt, and therefore must be his father's sister:\nand she bare him Aaron and Moses: and Miriam also, though not mentioned, it being for the sake of these two that the genealogy is made:\nand the years of the life of Amram were one hundred and thirty seven years: just the age of his grandfather Levi, Exo 6:16. A Jewish chronologer (i) says he died in the thirtieth year of Moses: but the Arabic writers (k) say in the fifty sixth or fifty seventh, and at the end of A. M. 3810. Polyhistor (l) from Demetrius makes his age to be one hundred and thirty six, and him to be the father of Moses and Aaron, and Aaron to be three years older than Moses, exactly according to the Scripture account.\n(h) Apud Euseb. ut supra. (Praepar. Evangel. l. 9. c. 21. p. 425.) (i) Shalshalet Hakabala, ut supra. (fol. 5. 1.) (k) Patricides, p. 26. Elmacinus, p. 46. apud Hottinger. Smegma Oriental. l. 1. c. 8. p. 392. (l) Apud Euseb. ut supra."
+    },
+    {
+      "src": "GILL",
+      "ref": "Numbers 3:16",
+      "note_ref": "GILL/4/3/16",
+      "cites": [
+        "Numbers 3:18"
+      ],
+      "text": "And Moses numbered them according to the word of the Lord,.... Took the account of all of a month old in the several houses and families of the tribe of Levi; though Moses is only here mentioned, yet it seems from Num 3:39; that Aaron was concerned with him in it; yea, in an after numbering of the Levites who were fit for business from thirty to fifty years of age, the chief of the children of Israel were assisting to him and Aaron, Num 4:46,\nas he commanded; he was obedient to the divine will in all things, and so in this, though it was his own tribe and his own posterity, which in all successive ages were to be no other than ministering servants to the priests, and to have no inheritance in the land of Israel."
+    },
+    {
+      "src": "GILL",
+      "ref": "Numbers 3:17",
+      "note_ref": "GILL/4/3/17",
+      "cites": [
+        "Numbers 3:18"
+      ],
+      "text": "And these were the sons of Levi, by their names,.... The immediate offspring and descendants of that patriarch:\nGershon, and Kohath, and Merari; these went down with him into Egypt, Gen 46:11."
+    },
+    {
+      "src": "GILL",
+      "ref": "Numbers 3:18",
+      "note_ref": "GILL/4/3/18",
+      "cites": [
+        "Numbers 3:18"
+      ],
+      "text": "And these are the names of the sons of Gershon, by their families,.... Or to Gershon belonged two families, called after the names of his sons, who were now numbered, namely:\nLibni and Shimei; and who are elsewhere mentioned as his sons, Exo 6:17; and from hence were the families of the Libnites and Shimites, as in Num 3:21."
+    },
+    {
+      "src": "GILL",
+      "ref": "Numbers 3:19",
+      "note_ref": "GILL/4/3/19",
+      "cites": [
+        "Numbers 3:18"
+      ],
+      "text": "And the sons of Kohath, by their families,.... Who was the second son of Levi:\nAmram, and Izehar, Hebron, and Uzziel; so in Exo 6:18; and from whom were named the family of the Amramites, to which Moses and Aaron belonged; and the families of the Izeharites, Hebronites, and Uzzielites, as they are called, Num 3:27."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 6:16",
+      "note_ref": "GILL/13/6/16",
+      "cites": [
+        "1 Chronicles 6:17"
+      ],
+      "text": "The sons of Kohath, Amminadab,.... The same with Izhar, Ch1 6:2 the posterity of his brethren, Amram, Hebron, and Uzziel, are omitted; and his genealogy is carried to a considerable length, for the sake of Samuel the prophet, who sprang from him: it stands thus, Korah, Assir, Elkanah, Ebiasaph, Assir, Tahath, Uriel, called Zephaniah, Ch1 6:36 Uzziah, the same with Azariah, Ch1 6:36. Shaul, whose name is Joel, Ch1 6:36 then through the sons of Elkanah, before mentioned, Amasai, Ahimoth, called Mahath, Ch1 6:35 another Elkanah, Zophai, or Zuph, Ch1 6:35. Nahath, the same with Toah, Ch1 6:34 and Tohu, Sa1 1:1, Eliab, called Eliel, Ch1 6:34, and Elihu, Sa1 1:1, Jeroham, another Elkanah, the father of Samuel the prophet, whose firstborn was Vashni, and whose name also was Joel, Ch1 6:33 and so here it is read in the Syriac and Arabic versions:\nand his second son Abiah."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 6:29",
+      "note_ref": "GILL/13/6/29",
+      "cites": [
+        "1 Chronicles 6:29"
+      ],
+      "text": "And these are they that waited with their children,.... They and their posterity, who officiated in the service of singing psalms in the sanctuary: the three heads of them were of the three families of the Levites, as follow:\nof the sons of the Kohathites, Heman a singer; the chief of the singers, and who composed psalms and hymns, which are in the book of Psalms:\nthe son of Joel, the son of Shemuel; or Samuel. This Heman was grandson of Samuel the prophet; for whose sake his genealogy is traced up to Jacob or Israel in the following verses, and stands thus; after Samuel, Elkanah, Jeroham, Eliel, Toah, Zuph, Elkanah, Mahath, Amasai, Elkanah, Joel, Azariah, Zephaniah, Tahath, Assir, Ebiasaph, Korah, Izhar, Kohath, Levi, Israel."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 6:31",
+      "note_ref": "GILL/13/6/31",
+      "cites": [
+        "1 Chronicles 6:29"
+      ],
+      "text": "And his brother Asaph,.... That is, Heman's brother; so Asaph was, as he was a descendant from the same original ancestor Levi, yet in the line of Gershon; and as being of the same office, a precentor, or chief singer:\nwho stood on his right hand; he was next to Heman; Heman stood in the middle, which was the most honourable (h), and Asaph on his right hand, and Ethan, after mentioned, on his left; even Asaph, whose name is often met with in the book of Psalms; and his genealogy here stands thus, as traced up to Levi, viz. Berechiah, Shimea, Michael, Baaseiah, Malchiah, Ethni, Zerah, Adaiah, Ethan, Zimmah, Shimei, Jahath, Gershon, Levi.\n(h) \"Alecto stetit in mediis----\", Claudian in Rufin. l. 1. ver. 41. Vid. Barthii Animadv. in ib."
+    },
+    {
+      "src": "JFB",
+      "ref": "Exodus 6:14",
+      "note_ref": "JFB/2/6/14",
+      "cites": [
+        "Exodus 6:17"
+      ],
+      "text": "THE GENEALOGY OF MOSES. (Exo. 6:14-30)\nThese be the heads of their fathers' houses--chiefs or governors of their houses. The insertion of this genealogical table in this part of the narrative was intended to authenticate the descent of Moses and Aaron. Both of them were commissioned to act so important a part in the events transacted in the court of Egypt and afterwards elevated to so high offices in the government and Church of God, that it was of the utmost importance that their lineage should be accurately traced. Reuben and Simeon being the oldest of Jacob's sons, a passing notice is taken of them, and then the historian advances to the enumeration of the principal persons in the house of Levi [Exo 6:16-19].",
+      "anchor": true
+    },
+    {
+      "src": "JFB",
+      "ref": "Numbers 3:14",
+      "note_ref": "JFB/4/3/14",
+      "cites": [
+        "Numbers 3:18"
+      ],
+      "text": "Number the children of Levi--They were numbered as well as the other tribes; but the enumeration was made on a different principle--for while in the other tribes the number of males was calculated from twenty years and upward [Num 1:3], in that of Levi they were counted \"from a month old and upward.\" The reason for the distinction is obvious. In the other tribes the survey was made for purposes of war [Num 1:3], from which the Levites were totally exempt. But the Levites were appointed to a work on which they entered as soon as they were capable of instruction. They are mentioned under the names of Gershon, Kohath, and Merari, sons of Levi, and chiefs or ancestral heads of three subdivisions into which this tribe was distributed. Their duties were to assist in the conveyance of the tabernacle when the people were removing the various encampments, and to form its guard while stationary--the Gershonites being stationed on the west, the Kohathites on the south, and the families of Merari on the north. The Kohathites had the principal place about the tabernacle, and charge of the most precious and sacred things--a distinction with which they were honored, probably, because the Aaronic family belonged to this division of the Levitical tribe. The Gershonites, being the oldest, had the next honorable post assigned them, while the burden of the drudgery was thrown on the division of Merari.",
+      "anchor": true
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 6:16",
+      "note_ref": "JFB/13/6/16",
+      "cites": [
+        "1 Chronicles 6:17"
+      ],
+      "text": "The sons of Levi; Gershom, &c.--This repetition (see Ch1 6:1) is made, as the historian here begins to trace the genealogy of the Levitical families who were not priests. The list is a long one, comprising the chiefs or heads of their several families until David's reign, who made a new and different classification of them by courses."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 6:27",
+      "note_ref": "JFB/13/6/27",
+      "cites": [
+        "1 Chronicles 6:29"
+      ],
+      "text": "Elkanah--the father of the prophet Samuel (Sa1 1:1)."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 6:28",
+      "note_ref": "JFB/13/6/28",
+      "cites": [
+        "1 Chronicles 6:29"
+      ],
+      "text": "the sons of Samuel--The sons of Samuel are here named Vashni and Abiah. The first-born is called Joel (Sa1 8:2); and this name is given to him in Ch1 6:33. It is now generally thought by the best critics that, through an error of the copyists, an omission has been made of the oldest son's name, and that Vashni, which is not the name of a person, merely signifies \"and the second.\" This critical emendation of the text makes all clear, as well as consistent with other passages relating to the family of Samuel."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Exodus 6:16",
+      "note_ref": "CLARKE/2/6/16",
+      "cites": [
+        "Exodus 6:17"
+      ],
+      "text": "The years of the life of Levi - \"Bishop Patrick observes that Levi is thought to have lived the longest of all Jacob's sons, none of whose ages are recorded in Scripture but his and Joseph's, whom Levi survived twenty-seven years, though he was much the elder brother. By the common computation this would be twenty-three years: by Kennicott's computation at the end of Genesis 31. (See Clarke's note at Gen 31:55) Levi's birth is placed twenty-four years before that of Joseph; his death, therefore, would be only three years later. But this is not the only difficulty in ancient chronologies. Kohath, the second son of Levi, according to Archbishop Usher was thirty years old when Jacob came into Egypt, and lived there one hundred and three years. He attained to nearly the same age with Levi, to one hundred and thirty-three years; and his son Amram, the father of Moses, lived to the same age with Levi. We may observe here how the Divine promise, Gen 15:16, of delivering the Israelites out of Egypt in the fourth generation was verified; for Moses was the son of Amram, the son of Kohath, the son of Levi, the son of Jacob.\" - Dodd."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 6:14",
+      "note_ref": "CLARKE/13/6/14",
+      "cites": [
+        "1 Chronicles 6:17"
+      ],
+      "text": "Seraiah - He was put to death by Nebuchadnezzar, Kg2 25:18, Kg2 25:21.",
+      "anchor": true
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 6:28",
+      "note_ref": "CLARKE/13/6/28",
+      "cites": [
+        "1 Chronicles 6:29"
+      ],
+      "text": "The first-born Vashni, and Abiah - There is a great mistake in this verse: in Sa1 8:2 we read, Now the name of his (Samuel's) first-born was Joel; and the name of his second Abiah. The word יואל Joel is lost out of the text in this place, and ושני vesheni, which signifies the second, and which refers to Abiah, is made here into a proper name. The Septuagint, Vulgate, and Chaldee, copy this blunder; but the Syriac and Arabic read as in Sa1 8:2. The MSS. have all copied the corrupted Hebrew in this place. Jarchi labors to restore the true reading, and yet preserve the integrity of the text, by paraphrasing thus: \"And the second, (ושני vesheni), in respect of the first, he was Abiah; and the second, in respect of Abiah, he was Joel.\"\nThese, Joel and Abiah, were the two sons of Samuel, who administered justice so badly that the people, being oppressed, began to murmur, and demanded a king. See Sa1 8:1, etc."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 6:31",
+      "note_ref": "CLARKE/13/6/31",
+      "cites": [
+        "1 Chronicles 6:29"
+      ],
+      "text": "After that the ark had rest - The Targum says, \"These are they whom David set over the service of the singing, in the house of the sanctuary, or tabernacle of the Lord, at the time in which the ark was brought into it;\" that is, when it was brought from the house of Obed-edom."
+    },
+    {
+      "src": "KD",
+      "ref": "Exodus 6:14",
+      "note_ref": "KD/2/6/14",
+      "cites": [
+        "Exodus 6:17"
+      ],
+      "text": "The Genealogy of Moses and Aaron. - \"These are their (Moses' and Aaron's) father's-houses.\" בּית־אבות father's-houses (not fathers' house) is a composite noun, so formed that the two words not only denote one idea, but are treated grammatically as one word, like בּית־עצבּים idol-houses (Sa1 31:9), and בּית־בּמות high-place-houses (cf. Ges. 108, 3; Ewald, 270c). Father's house was a technical term applied to a collection of families, called by the name of a common ancestor. The father's-houses were the larger divisions into which the families (mishpachoth), the largest subdivisions of the tribes of Israel, were grouped. To show clearly the genealogical position of Levi, the tribe-father of Moses and Aaron, among the sons of Jacob, the genealogy commences with Reuben, the first-born of Jacob, and gives the names of such of his sons and those of Simeon as were the founders of families (Gen 46:9-10). Then follows Levi; and not only are the names of his three sons given, but the length of his life is mentioned (Exo 6:16), also that of his son Kohath and his descendant Amram, because they were the tribe-fathers of Moses and Aaron. But the Amram mentioned in Exo 6:20 as the father of Moses, cannot be the same person as the Amram who was the son of Kohath (Exo 6:18), but must be a later descendant. For, however the sameness of names may seem to favour the identity of the persons, if we simply look at the genealogy before us, a comparison of this passage with Num 3:27-28 will show the impossibility of such an assumption. \"According to Num 3:27-28, the Kohathites were divided (in Moses' time) into the four branches, Amramites, Izharites, Hebronites, and Uzzielites, who consisted together of 8600 men and boys (women and girls not being included). Of these, about a fourth, or 2150 men, would belong to the Amramites. Now, according to Exo 18:3-4, Moses himself had only two sons. Consequently, if Amram the son of Kohath, and tribe-father of the Amramites, was the same person as Amram the father of Moses, Moses must have had 2147 brothers and brothers' sons (the brothers' daughters, the sisters, and their daughters, not being reckoned at all). But as this is absolutely impossible, it must be granted that Amram the son of Kohath was not the father of Moses, and that an indefinitely long list of generations has been omitted between the former and his descendant of the same name\" (Tiele, Chr. des A. T. p. 36).\n(Note: The objections of M. Baumgarten to these correct remarks have been conclusively met by Kurtz (Hist. of O. C. vol. ii. p. 144). We find a similar case in the genealogy of Ezra in Ezr 7:3, which passes over from Azariah the son of Meraioth to Azariah the son of Johanan, and omits five links between the two, as we may see from Ch1 6:7-11. In the same way the genealogy before us skips over from Amram the son of Kohath to Amram the father of Moses without mentioning the generations between.)\nThe enumeration of only four generations, viz., Levi, Iohath, Amram, Moses, is unmistakeably related to Gen 15:16, where it is stated that the fourth generation would return to Canaan. Amram's wife Jochebed, who is merely spoken of in general terms as a daughter of Levi (a Levitess) in Exo 2:1 and Num 26:59, is called here the דּודה \"aunt\" (father's sister) of Amram, a marriage which was prohibited in the Mosaic law (Lev 18:12), but was allowed before the giving of the law; so that there is no reason for following the lxx and Vulgate, and rendering the word, in direct opposition to the usage of the language, patruelis, the father's brother's daughter. Amram's sons are placed according to their age: Aaron, then Moses, as Aaron was three years older than his brother. Their sister Miriam was older still (vid., Exo 2:4). In the lxx, Vulg., and one Hebrew MS, she is mentioned here; but this is a later interpolation. In Exo 6:21. not only are the sons of Aaron mentioned (Exo 6:23), but those of two of Amram's brothers, Izhar and Uzziel (Exo 6:21, Exo 6:22), and also Phinehas, the son of Aaron's son Eleazar (Exo 6:25); as the genealogy was intended to trace the descent of the principal priestly families, among which again special prominence is given to Aaron and Eleazar by the introduction of their wives. On the other hand, none of the sons of Moses are mentioned, because his dignity was limited to his own person, and his descendants fell behind those of Aaron, and were simply reckoned among the non-priestly families of Levi. The Korahites and Uzzielites are mentioned, but a superior rank was assigned to them in the subsequent history to that of other Levitical families (cf. Num 16-17; Num 26:11, and Num 3:30 with Lev 10:4). Aaron's wife Elisheba was of the princely tribe of Judah, and her brother Naashon was a tribe-prince of Judah (cf. Num 2:3). אבות ראשׁי (Exo 6:25), a frequent abbreviation for בית־אבות ראשׁי, heads of the father's-houses of the Levites. In Exo 6:26 and Exo 6:27, with which the genealogy closes, the object of introducing it is very clearly shown in the expression, \"These are that Aaron and Moses,\" at the beginning of Exo 6:26; and again, \"These are that Moses and Aaron,\" at the close of Exo 6:27. The reversal of the order of the names is also to be noticed. In the genealogy itself Aaron stands first, as the elder of the two; in the conclusion, which leads over to the historical narrative that follows, Moses takes precedence of his elder brother, as being the divinely appointed redeemer of Israel. On the expression, \"according to their armies,\" see Exo 7:4.",
+      "anchor": true
+    },
+    {
+      "src": "KD",
+      "ref": "Numbers 3:14",
+      "note_ref": "KD/4/3/14",
+      "cites": [
+        "Numbers 3:18"
+      ],
+      "text": "The muster of the Levites included all the males from a month old and upwards, because they were to be sanctified to Jehovah in the place of the first-born; and it was at the age of a month that the latter were either to be given up or redeemed (comp. Num 3:40 and Num 3:43 with Num 18:16). In Num 3:17-20 the sons of Levi and their sons are enumerated, who were the founders of the mishpachoth among the Levites, as in Exo 6:16-19.",
+      "anchor": true
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 6:16",
+      "note_ref": "KD/13/6/16",
+      "cites": [
+        "1 Chronicles 6:17"
+      ],
+      "text": "The sons of Kohath, Amminadab,.... The same with Izhar, Ch1 6:2 the posterity of his brethren, Amram, Hebron, and Uzziel, are omitted; and his genealogy is carried to a considerable length, for the sake of Samuel the prophet, who sprang from him: it stands thus, Korah, Assir, Elkanah, Ebiasaph, Assir, Tahath, Uriel, called Zephaniah, Ch1 6:36 Uzziah, the same with Azariah, Ch1 6:36. Shaul, whose name is Joel, Ch1 6:36 then through the sons of Elkanah, before mentioned, Amasai, Ahimoth, called Mahath, Ch1 6:35 another Elkanah, Zophai, or Zuph, Ch1 6:35. Nahath, the same with Toah, Ch1 6:34 and Tohu, Sa1 1:1, Eliab, called Eliel, Ch1 6:34, and Elihu, Sa1 1:1, Jeroham, another Elkanah, the father of Samuel the prophet, whose firstborn was Vashni, and whose name also was Joel, Ch1 6:33 and so here it is read in the Syriac and Arabic versions:\nand his second son Abiah."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 6:29",
+      "note_ref": "KD/13/6/29",
+      "cites": [
+        "1 Chronicles 6:29"
+      ],
+      "text": "And these are they that waited with their children,.... They and their posterity, who officiated in the service of singing psalms in the sanctuary: the three heads of them were of the three families of the Levites, as follow:\nof the sons of the Kohathites, Heman a singer; the chief of the singers, and who composed psalms and hymns, which are in the book of Psalms:\nthe son of Joel, the son of Shemuel; or Samuel. This Heman was grandson of Samuel the prophet; for whose sake his genealogy is traced up to Jacob or Israel in the following verses, and stands thus; after Samuel, Elkanah, Jeroham, Eliel, Toah, Zuph, Elkanah, Mahath, Amasai, Elkanah, Joel, Azariah, Zephaniah, Tahath, Assir, Ebiasaph, Korah, Izhar, Kohath, Levi, Israel."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 6:31",
+      "note_ref": "KD/13/6/31",
+      "cites": [
+        "1 Chronicles 6:29"
+      ],
+      "text": "And his brother Asaph,.... That is, Heman's brother; so Asaph was, as he was a descendant from the same original ancestor Levi, yet in the line of Gershon; and as being of the same office, a precentor, or chief singer:\nwho stood on his right hand; he was next to Heman; Heman stood in the middle, which was the most honourable (h), and Asaph on his right hand, and Ethan, after mentioned, on his left; even Asaph, whose name is often met with in the book of Psalms; and his genealogy here stands thus, as traced up to Levi, viz. Berechiah, Shimea, Michael, Baaseiah, Malchiah, Ethni, Zerah, Adaiah, Ethan, Zimmah, Shimei, Jahath, Gershon, Levi.\n(h) \"Alecto stetit in mediis----\", Claudian in Rufin. l. 1. ver. 41. Vid. Barthii Animadv. in ib."
+    },
+    {
+      "src": "MHC",
+      "ref": "Exodus 6:14",
+      "note_ref": "MHC/2/6/14",
+      "cites": [
+        "Exodus 6:17"
+      ],
+      "text": "I. We have here a genealogy, not an endless one, such as the apostle condemns (Ti1 1:4), for it ends in those two great patriots Moses and Aaron, and comes in here to show that they were Israelites, bone of their bone and flesh of their flesh whom they were sent to deliver, raised up unto them of their brethren, as Christ also should be, who was to be the prophet and priest, the Redeemer and lawgiver, of the people of Israel, and whose genealogy also, like this, was to be carefully preserved. The heads of the houses of three of the tribes are here named, agreeing with the accounts we had, Gen. 46. Dr. Lightfoot thinks that Reuben, Simeon, and Levi, are thus dignified here by themselves for this reason, because they were left under marks of infamy by their dying father, Reuben for his incest and Simeon and Levi for their murder of the Shechemites; and therefore Moses would put this particular honour upon them, to magnify God's mercy in their repentance and remission, as a pattern to those that should afterwards believe: the two former seem rather to be mentioned only for the sake of a third, which was Levi, from whom Moses and Aaron descended, and all the priests of the Jewish church. Thus was the tribe of Levi distinguished betimes. Observe here, 1. That Kohath, from whom Moses and Aaron, and all the priests, derived their pedigree, was a younger son of Levi, Exo 6:16. Note, The grants of God's favours do not go by seniority of age and priority of birth, but the divine sovereignty often prefers the younger before the elder, so crossing hands. 2. That the ages of Levi, Kohath, and Amram, the father, grandfather, and great grandfather, of Moses, are here recorded; they all lived to a great age, Levi to 137, Kohath to 133, and Amram to 137. Moses himself came much short of them, and fixed seventy or eighty for the ordinary stretch of human life (Psa 90:10); for now that God's Israel was multiplied and had become a great nation, and divine revelation was by the hand of Moses committed to writing and no longer trusted to tradition, the two great reasons for the long lives of the patriarchs had ceased, and therefore henceforward fewer years must serve men. 3. That Aaron married Elisheba (the same name with that of the wife of Zecharias, Elizabeth, as Miriam is the same with Mary), daughter of Amminadab, one of the chief of the fathers of the tribe of Judah; for the tribes of Levi and Judah often intermarried, Exo 6:23. 4. It must not be omitted that Moses has recorded the marriage of his father Amram with Jochebed his own aunt (Exo 6:20); and it appears by Num 26:59 that it must be taken strictly for his father's own sister, at least by the half blood. This marriage was afterwards forbidden as incestuous (Lev 18:12), which might be looked upon as a blot upon his family, though before that law; yet Moses does not conceal it, for he sought not his own praise, but wrote with a sincere regard to truth, whether it smiled or frowned upon him. 5. He concludes it with a particular mark of honour on the persons he is writing of, though he himself was one of them, Exo 6:26, Exo 6:27. These are that Moses and Aaron whom God pitched upon to be his plenipotentiaries in this treaty. These were those to whom God spoke (Exo 6:26), and who spoke to Pharaoh on Israel's behalf, Exo 6:27. Note, Communion with God and serviceableness to his church are things that, above any other, put true honour upon men. Those are great indeed with whom God converses and whom he employs on his service. Such were that Moses and Aaron; and something of this honour have all his saints, who are made to our God kings and priests.\nII. In the close of the chapter Moses returns to his narrative, from which he had broken off somewhat abruptly (Exo 6:13), and repeats, 1. The charge God had given him to deliver his message to Pharaoh (Exo 6:29): Speak all that I say unto thee, as a faithful ambassador. Note, Those that go on God's errand must not shun to declare the whole counsel of God. 2. His objection against it, Exo 6:30. Note, Those that have at any time spoken unadvisedly with their lips ought often to reflect upon it with regret, as Moses seems to do here.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Numbers 3:14",
+      "note_ref": "MHC/4/3/14",
+      "cites": [
+        "Numbers 3:18"
+      ],
+      "text": "The Levites being granted to Aaron to minister to him, they are here delivered to him by tale, that he might know what he had, and employ them accordingly. Observe,\nI. By what rule they were numbered: Every male from a month old and upward, Num 3:15. The rest of the tribes were numbered only from twenty years old and upwards, and of them those only that were able to go forth to war; but into the number of the Levites they must take in both infants, and infirm; being exempted from the war, it was not insisted upon that they should be of age and strength for the wars. Though it appears afterwards that little more than a third part of the Levites were fit to be employed in the service of the tabernacle (about 8000 out of 22,000, Num 4:47, Num 4:48), yet God would have them all numbered as retainers to his family; that none may think themselves disowned and rejected of God because they are not in a capacity of doing him that service which they see others do him. The Levites of a month old could not honour God and serve the tabernacle, as those that had grown up; yet out of the mouths of babes and sucklings the Levites' praise was perfected. Let not little children be hindered from being enrolled among the disciples of Christ, for such was the tribe of Levi, of such is the kingdom of heaven, that kingdom of priests. The redemption of the first-born was reckoned from a month old (Num 18:15, Num 18:16), therefore from that age the Levites were numbered. They were numbered after the house of their fathers, not their mothers, for, if the daughter of a Levite married one of another tribe, her son was not a Levite; but we read of a spiritual priest to out God who inherited the unfeigned faith which dwelt in his mother and grandmother, Ti2 1:5.\nII. How they were distributed into three classes, according to the number of the sons of Levi, Gershon, Kohath, and Merari, and these subdivided into several families, Num 3:17-20.\n1. Concerning each of these three classes we have an account, (1.) Of their number. The Gershonites were 7500. The Kohathites were 8600. The Merarites were 6200. The rest of the tribes had not their subordinate families numbered by themselves as those of Levi; this honour God put upon his own tribe. (2.) Of their post about the tabernacle on which they were to attend. The Gershonites pitched behind the tabernacle, westward, Num 3:23. The Kohathites on the right hand, southward, Num 3:29. The Merarites on the left hand, northward, Num 3:35. And, to complete the square, Moses and Aaron, with the priests, encamped in the front, eastward, Num 3:38. Thus was the tabernacle surrounded with its guards; and thus does the angel of the Lord encamp round about those that fear him, those living temples, Psa 34:7. Every one knew his place, and must therein abide with God. (3.) Of their chief or head. As each class had its own place, so each had its own prince. The commander of the Gershonites was Eliasaph (Num 3:24); of the Kohathites Elizaphan (Num 3:30), of whom we read (Lev 10:4) that he was one of the bearers at the funeral of Nadab and Abihu; of the Merarites Zuriel, Num 3:35. (4.) Of their charge, when the camp moved. Each class knew their own business; it was requisite they should, for that which is every body's work often proves nobody's work. The Gershonites were charged with the custody and carriage of all the curtains and hangings and coverings of the tabernacle and court (Num 3:25, Num 3:26), the Kohathites of all the furniture of the tabernacle - the ark, altar, table, etc. (Num 3:31, Num 3:32), the Merarites of the heavy carriage, boards, bars, pillars, etc., Num 3:36, Num 3:37.\n2. Here we may observe, (1.) That the Kohathites, though they were the second house, yet were preferred before the elder family of the Gershonites. Besides that Aaron and the priests were of that family, they were more numerous, and their post and charge more honourable, which probably was ordered to put an honour upon Moses, who was of that family. Yet, (2.) The posterity of Moses were not at all dignified or privileged, but stood upon the level with other Levites, that it might appear he did not seek the advancement of his own family, nor to entail any honours upon it either in church or state; he that had honour enough himself coveted not to have his name shine by that borrowed light, but rather to have the Levites borrow honour from his name. Let none think contemptibly of the Levites, though inferior to the priests, for Moses himself though it preferment enough for his sons to be Levites. Probably it was because the family of Moses were Levites only that in the title of this chapter, which is concerning that tribe (Num 3:1), Aaron is put before Moses.\nIII. The sum total of the numbers of this tribe. They are computed in all 22,000, Num 3:39. The sum of the particular families amounts to 300 more; if this had been added to the sum total, the Levites, instead of being 273 fewer than the first-born, as they were (Num 3:43), would have been twenty-seven more, and so the balance would have fallen the other way; but it is supposed that the 300 which were struck off from the account when the exchange was to be made were the first-born of the Levites themselves, born since their coming out of Egypt, which could not be put into the exchange, because they were already sanctified to God. But that which is especially observable here is that the tribe of Levi was by much the least of all the tribes. Note, God's part in the world is too often the smallest part. His chosen are comparatively a little flock.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 6:1",
+      "note_ref": "MHC/13/6/1",
+      "cites": [
+        "1 Chronicles 6:17",
+        "1 Chronicles 6:29"
+      ],
+      "text": "The priests and Levites were more concerned than any other Israelites to preserve their pedigree clear and to be able to prove it, because all the honours and privileges of their office depended upon their descent. And we read of those who, though perhaps they really were children of the priests, yet, because they could not find the register of their genealogies, nor make out their descent by any authentic record, were, as polluted, put from the priesthood, and forbidden to eat of the holy things, Ezr 2:62, Ezr 2:63. It is but very little that is here recorded of the genealogies of this sacred tribe. I. The first fathers of it are here named twice, Ch1 6:1, Ch1 6:16. Gershom, Kohath, and Merari, are three names which we were very conversant with in the book of Numbers, when the families of the Levites were marshalled and had their work assigned to them. Aaron, and Moses, and Miriam, we have known much more of than their names, and cannot pass them over here without remembering that this was that Moses and Aaron whom God honoured in making them instruments of Israel's deliverance and settlement and figures of him that was to come, Moses as a prophet and Aaron as a priest. And the mention of Nadab and Abihu (though, having no children, there was no occasion to bring them into the genealogy) cannot but remind us of the terrors of that divine justice which they were made monuments of for offering strange fire, that we may always fear before him. 2. The line of Eleazar, the successor of Aaron, is here drawn down to the time of the captivity, Ch1 6:4-15. It begins with Eleazar, who came out of the house of bondage in Egypt, and ends with Jehozadak, who went into the house of bondage in Babylon. Thus, for their sins, they were left as they were found, which might also intimate that the Levitical priesthood did not make anything perfect, but this was to be done by the bringing in of a better hope. All these here named were not high priests; for, in the time of the judges, that dignity was, upon some occasion or other, brought into the family of Ithamar, of which Eli was; but in Zadok it returned again to the right line. Of Azariah it is here said (v. 10), He it is that executed the priest's office in the temple that Solomon built. It is supposed that this was that Azariah who bravely opposed the presumption of king Uzziah when he invaded the priest's office (Ch2 26:17, Ch2 26:18), though he ventured his neck by so doing. This was done like a priest, like one that was truly zealous for his God. He that thus boldly maintained and defended the priest's office, and made good its barriers against such a daring insult, might well be said to execute it; and this honour is put upon him for it; while Urijah, one of his successors, for a base compliance with King Ahaz, in building him an idolatrous altar, has the disgrace put upon him of being left out of this genealogy, as perhaps some others are. But some think that this remark upon this Azariah should have been added to his grandfather of the same name (Ch1 6:9), who was the son of Ahimaaz, and that he was the priest who first officiated in Solomon's temple. 3. Some other of the families of the Levites are here accounted for. One of the families of Gershom (that of Libni) is here drawn down as far as Samuel, who had the honour of a prophet added to that of a Levite. One of the families of Merari (that of Mahli) is likewise drawn down for several descents, Ch1 6:29, Ch1 6:30.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 6:31",
+      "note_ref": "MHC/13/6/31",
+      "cites": [
+        "1 Chronicles 6:29"
+      ],
+      "text": "When the Levites were first ordained in the wilderness much of the work then appointed them lay in carrying and taking care of the tabernacle and the utensils of it, while they were in their march through the wilderness. In David's time their number was increased; and, though the greater part of them was dispersed all the nation over, to teach the people the good knowledge of the Lord, yet those that attended the house of God were so numerous that there was not constant work for them all; and therefore David, by special commission and direction from God, new-modelled the Levites, as we shall find in the latter part of this book. Here we are told what the work was which he assigned them.\nI. Singing-work, Ch1 6:31. David was raised up on high to be the sweet psalmist of Israel (Sa2 23:1), not only to pen psalms, but to appoint the singing of them in the house of the Lord (not so much because he was musical as because he was devout), and this he did after that the ark had rest. While that was in captivity, obscure, and unsettled, the harps were hung upon the willow-trees: singing was then thought unseasonable (when the bridegroom is taken away they shall fast); but the harps being resumed, and the songs revived, at the bringing up of the ark, they were continued afterwards. For we should rejoice as much in the prolonging of our spiritual privileges as in the restoring of them. When the service of the ark was much superseded by its rest they had other work cut out for them (for Levites should never be idle) and were employed in the service of song. Thus when the people of God come to the rest which remains for them above they shall take leave of all their burdens and be employed in everlasting songs. These singers kept up that service in the tabernacle till the temple was built, and then they waited on their office there, Ch1 6:32. When they came to that stately magnificent house they kept as close both to their office and to their order as they had done in the tabernacle. It is a pity that the preferment of the Levites should ever make them remiss in their business. We have here an account of the three great masters who were employed in the service of the sacred song, with their respective families; for they waited with their children, that is, such as descended from them or were allied to them, Ch1 6:33. Heman, Asaph, and Ethan, were the three that were appointed to this service, one of each of the three houses of the Levites, that there might be an equality in the distribution of this work and honour, and that every one might know his post, such an admirable order was there in this choir service. 1. Of the house of Kohath was Heman with his family (Ch1 6:33), a man of a sorrowful spirit, if it be the same Heman that penned the 88th psalm, and yet a singer. He was the grandson of Samuel the prophet, the son of Joel, of whom it is said that he walked not in the ways of Samuel (Sa1 8:2, Sa1 8:3); but it seems, though the son did not, the grandson did. Thus does the blessing entailed on the seed of the upright sometimes pass over one generation and fasten upon the next. And this Heman, though the grandson of that mighty prince, did not think it below him to be a precentor in the house of God. David himself was willing to be a door-keeper. Rather we may look upon this preferment of the grandson in the church as a recompense for the humble modest resignation which the grandfather made of his authority in the state. Many such ways God has of making up his people's losses and balancing their disgraces. Perhaps David, in making Heman the chief, had some respect to his old friend Samuel. 2. Of the house of Gershom was Asaph, called his brother, because in the same office and of the same tribe, though of another family. He was posted on Heman's right hand in the choir, Ch1 6:39. Several of the psalms bear his name, being either penned by him or tuned by him as the chief musician. It is plain that he was the penman of some psalms; for we read of those that praised the Lord in the words of David and of Asaph. He was a seer as well as a singer, Ch2 29:30. His pedigree is traced up here, through names utterly unknown, as high as Levi, Ch1 6:39-43. 3. Of the house of Merari was Ethan (Ch1 6:44), who was appointed to Heman's left hand. His pedigree is also traced up to Levi, Ch1 6:47. If these were the Heman and Ethan that penned the 88th and 89th psalms, there appears no reason here why they should be called Ezrahites (see the titles of those psalms), as there does why those should be called so who are mentioned Ch1 2:6, and who were the sons of Zerah.\nII. There was serving-work, abundance of service to be done in the tabernacle of the house of God (Ch1 6:48), to provide water and fuel, - to wash and sweep, and carry out ashes, - to kill, and flay, and boil the sacrifices; and to all such services there were Levites appointed, those of other families, or perhaps those that were not fit to be singers, that had either no good voice or no good ear. As every one has received the gift, so let him minister. Those that could not sing must not therefore be laid aside as good for nothing; though they were not fit for that service, there was other service they might be useful in.\nIII. There was sacrificing-work, and that was to be done by the priests only, Ch1 6:49. They only were to sprinkle the blood and burn the incense; as for the work of the most holy place, that was to be done by the high priest only. Each had his work, and they both needed one another and both helped one another in it. Concerning the work of the priests we are here told, 1. What was the end they were to have in their eye. They were to make an atonement for Israel, to mediate between the people and God; not to magnify and enrich themselves, but to serve the public. They were ordained for men. 2. What was the rule they were to have in their eye. They presided in God's house, yet must do as they were bidden, according to all that God commanded. That law the highest are subject to."
+    },
+    {
+      "src": "TYN",
+      "ref": "Exodus 6:16",
+      "note_ref": "TYN/2/6/16",
+      "cites": [
+        "Exodus 6:17"
+      ],
+      "text": "6:16-20 This genealogy of Levi’s descendants focuses on Aaron and Moses; four generations are given in the genealogy from Levi to Aaron and Moses (cp. Gen 15:16). Since the people of Israel had lived in Egypt for 430 years (see Exod 12:40-41; Gen 15:13), this genealogy skips numerous generations. In Gen 46:11, Gershon, Kohath, and Merari are listed as the actual sons of Levi who moved down to Egypt with their father and the rest of Jacob’s family. Amram’s wife, Jochebed, gave birth to his sons (Exod 6:20). This is very concrete language, so there is no reason to believe that there were unnamed generations between Amram and Aaron and Moses. This suggests that the unnamed generations were between Kohath (son of Levi) and Amram (father of Aaron and Moses)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Exodus 6:18",
+      "note_ref": "TYN/2/6/18",
+      "cites": [
+        "Exodus 6:17"
+      ],
+      "text": "6:18 The descendants (literally sons) of Kohath included Amram, Izhar, Hebron, and Uzziel: The Hebrew word for “sons” can also mean “descendants,” which accommodates the possibility of unnamed generations."
+    },
+    {
+      "src": "TYN",
+      "ref": "Numbers 3:14",
+      "note_ref": "TYN/4/3/14",
+      "cites": [
+        "Numbers 3:18"
+      ],
+      "text": "3:14-39 This first phase of a two-stage registration of the tribe of Levi (see 4:34-49 for stage two) summarized each family group’s special responsibilities (described in greater detail in 4:1-33). This numbering was not linked with military duties, so it enrolled male Levites from the age of one month (3:40-41). • Three family groups are descended from Gershon, Kohath, and Merari, the three sons of Levi. These clans (often called the Gershonites, Kohathites, and Merarites) later inherited the “cities of refuge” (Josh 21) and filled various important posts in the Jerusalem Temple (2 Chr 29:3-17).",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 6:16",
+      "note_ref": "TYN/13/6/16",
+      "cites": [
+        "1 Chronicles 6:17"
+      ],
+      "text": "6:16-30 The second introduction of the Levites (6:16-19a) introduces the heads of all the Levitical families (6:19b-30). The list contains the genealogies of Gershon (6:20-21), Kohath (6:22-24), and Merari (6:29-30)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 6:27",
+      "note_ref": "TYN/13/6/27",
+      "cites": [
+        "1 Chronicles 6:29"
+      ],
+      "text": "6:27 When he served under Eli, Samuel assumed a Levitical function (1 Sam 3:1)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 6:31",
+      "note_ref": "TYN/13/6/31",
+      "cites": [
+        "1 Chronicles 6:29"
+      ],
+      "text": "6:31-47 This genealogy names the lead singers from Kohath (6:33), Gershon (6:39), and Merari (6:44), the chief Levitical families."
+    },
+    {
+      "src": "GNV",
+      "ref": "Exodus 6:16",
+      "note_ref": "GNV/2/6/16",
+      "cites": [
+        "Exodus 6:17"
+      ],
+      "text": "For he was 42 years old, when he came into Egypt, and there lived 94."
+    },
+    {
+      "src": "GNV",
+      "ref": "Numbers 3:10",
+      "note_ref": "GNV/4/3/10",
+      "cites": [
+        "Numbers 3:18"
+      ],
+      "text": "Any that would minister not being a Levite.",
+      "anchor": true
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 6:15",
+      "note_ref": "GNV/13/6/15",
+      "cites": [
+        "1 Chronicles 6:17"
+      ],
+      "text": "That is, he was led into captivity with his father Seraiah the high Priest, 2 Kings 25:18."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 6:28",
+      "note_ref": "GNV/13/6/28",
+      "cites": [
+        "1 Chronicles 6:29"
+      ],
+      "text": "Who is also called Joel, 1 Sam. 8:2 and 1 Chron. 6:33."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 6:31",
+      "note_ref": "GNV/13/6/31",
+      "cites": [
+        "1 Chronicles 6:29"
+      ],
+      "text": "After it was brought to that place where the Temple should be built and was no more carried to and fro."
+    }
+  ]
+}

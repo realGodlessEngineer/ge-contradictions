@@ -1,0 +1,559 @@
+{
+  "contradiction_id": 309,
+  "question": "Who were the sons of Benjamin?",
+  "summary": "Four biblical lists of Benjamin's sons give four mutually incompatible rosters. Genesis 46:21 names ten sons. Numbers 26:38-40 names five (and demotes two of Genesis' \"sons\" to grandsons). 1 Chronicles 7:6 says explicitly there were three. 1 Chronicles 8:1-2 then gives yet another list of five — overlapping with but not matching the Numbers list. Four lists, four different answers.",
+  "consensus": "genuine_contradiction",
+  "consensus_id": 1,
+  "category": "Genealogy & Identity",
+  "contradiction_type": "genealogical",
+  "testament_scope": "OT_internal",
+  "books_in_tension": "Genesis, Numbers, 1 Chronicles",
+  "refs_raw": [
+    "Genesis 46:21",
+    "Numbers 26:38-40",
+    "1 Chronicles 7:6",
+    "1 Chronicles 8:1-2"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Genesis 46:21",
+      "book": "Genesis",
+      "bolls": 1,
+      "ranges": [
+        [
+          46,
+          21,
+          21
+        ]
+      ]
+    },
+    {
+      "raw": "Numbers 26:38-40",
+      "book": "Numbers",
+      "bolls": 4,
+      "ranges": [
+        [
+          26,
+          38,
+          40
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 7:6",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          7,
+          6,
+          6
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 8:1-2",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          8,
+          1,
+          2
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 46,
+  "notes_raw_count": 49,
+  "notes_dropped": 3,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Genesis 46:19",
+      "note_ref": "GILL/1/46/19",
+      "cites": [
+        "Genesis 46:21"
+      ],
+      "text": "These are the sons of Rachel, which were born to Jacob,.... That is, sons and grandsons:\nall the souls were fourteen; two sons, Joseph and Benjamin; twelve grandsons, two of Joseph's, and ten of Benjamin's."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 46:20",
+      "note_ref": "GILL/1/46/20",
+      "cites": [
+        "Genesis 46:21"
+      ],
+      "text": "And the sons of Dan, Hushim. He had but one son, wherefore the plural is put for the singular, see Gen 46:7; Aben Ezra thinks he had two sons, and that one of them was dead, and therefore not mentioned; but the other way best accounts for the expression; though, as Schmidt observes, the plural may be indefinitely put, and the sense be this, as for the sons of Dan, there was only one, whose name was Hushim. Dan was a son of Jacob by Bilhah, Rachel's maid, as the following was another.\n; Aben Ezra thinks he had two sons, and that one of them was dead, and therefore not mentioned; but the other way best accounts for the expression; though, as Schmidt observes, the plural may be indefinitely put, and the sense be this, as for the sons of Dan, there was only one, whose name was Hushim. Dan was a son of Jacob by Bilhah, Rachel's maid, as the following was another.\nGenesis 46:24\ngen 46:24\ngen 46:24\ngen 46:24And the sons of Naphtali, Jahzeel, and Guni, and Jezer, and Shillem. The last is called Shallum in Ch1 7:13."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 46:21",
+      "note_ref": "GILL/1/46/21",
+      "cites": [
+        "Genesis 46:21"
+      ],
+      "text": "These are the sons of Bilhah, which Laban gave unto Rachel his daughter,.... To be her maid, when she was married to Jacob:\nand she bare these unto Jacob, all the souls were seven; not that she bare seven sons to Jacob, she bore but two, Dan and Naphtali; but the children of these with them made seven, one of Dan's, and four of Naphtali's, who went down with Jacob into Egypt."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 46:22",
+      "note_ref": "GILL/1/46/22",
+      "cites": [
+        "Genesis 46:21"
+      ],
+      "text": "All the souls that came with Jacob into Egypt,.... These are in parcels before mentioned, but here they are brought to a sum total; and by this phrase are excluded those that died before, as Er and Onan, and those that were in Egypt before, as Joseph and his two sons; and I should think also all that were born in Egypt afterwards, even while Jacob was living: those reckoned are only such:\nwhich came out of his loins: such as were his seed and offspring. This is observed for the sake of what follows, and to exclude them:\nbesides Jacob's sons' wives; these do not come into the account, because they did not spring from him:\nall the souls were threescore and six; thirty two of Leah's, leaving out Er and Onan, sixteen of Zilpah's, fourteen of Rachel's, and seven of Bilhah's, make sixty nine; take out of them Joseph and his two sons, who were in Egypt before, and you have the exact number of sixty six."
+    },
+    {
+      "src": "GILL",
+      "ref": "Numbers 26:38",
+      "note_ref": "GILL/4/26/38",
+      "cites": [
+        "Numbers 26:38-40"
+      ],
+      "text": "To many thou shalt give the more inheritance, and to few thou shalt give the less inheritance,.... To a tribe more numerous, and consisting of more and larger families, a greater part of the land was to be given to them to possess; and to a smaller tribe, and of the fewer families and persons in them, a lesser share of it: this direction is given to Moses, but is not designed for him personally, for he never entered the land, but died before Israel went into it; but for the chief ruler that would be then in being, namely, Joshua, his successor:\nto everyone shall his inheritance be given, according to those that were numbered of him; that is, to every tribe, and so to every family in it, according to the number of men in it, that were of the above age when the sum of them was taken: because it is in the original text, \"to a man according to those numbered of him\", &c. (q); hence the Jewish writers (r) gather, that the land was distributed not to women, but to men only.\n(q) \"viro\", Montanus. (r) Vid. T. Bab. Bava. Bathra, fol. 122. 1."
+    },
+    {
+      "src": "GILL",
+      "ref": "Numbers 26:42",
+      "note_ref": "GILL/4/26/42",
+      "cites": [
+        "Numbers 26:38-40"
+      ],
+      "text": "Notwithstanding, the land shall be divided by lot,.... That the division might appear to be according to the determination and will of God, and not left to the judgment and discretion of the chief magistrate, though bound by the above rule:\naccording to the names of the tribes of their fathers they shall inherit; that is, according as to whatsoever name of a tribe such a part or portion of the land comes up by lot, that shall their inheritance be: Jarchi says, the names of the twelve tribes were written on twelve scrolls of parchment, and twelve borders or limits of land on twelve others, and they were mixed together in an urn, and the prince put his hand into it and took two scrolls; a scroll came up with the name of a tribe, and a scroll with a border or limit expressed on it; and the lot, he says, was by the Holy Ghost, for Eleazar, at the same time, was clothed with Urim and Thummim (s); so that the people were certain that the disposition and division of the land was of God; but there were but nine tribes and a half, among whom the land of Canaan was divided, two tribes and a half settled on the other side Jordan, namely, the tribes of Reuben and Gad, and half the tribe of Manasseh.\n(s) Maimon. & Bartenora in Misn. Biccurim, c. 1. sect. 5."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 7:4",
+      "note_ref": "GILL/13/7/4",
+      "cites": [
+        "1 Chronicles 7:6"
+      ],
+      "text": "And their brethren among all the families of Issachar,.... As those of Puah, Jashub, and Shimron, Ch1 7:1.\nwere men of might; valiant and courageous:\nreckoned in all, by their genealogies, fourscore and seven thousand; that is, including with these those of Tola and Uzzi before given."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 7:5",
+      "note_ref": "GILL/13/7/5",
+      "cites": [
+        "1 Chronicles 7:6"
+      ],
+      "text": "The sons of Benjamin; Bela, and Becher, and Jediael, three. Benjamin had ten sons, but three only are mentioned first; the latter of these seems to be the same with Ashbel, Gen 46:21.\n.\n1 Chronicles 7:7\nch1 7:7\nch1 7:7\nch1 7:7And the sons of Bela; Ezbon, and Uzzi, and Uzziel, and Jerimoth, and Iri, five,.... These are thought by some to be the grandsons of Bela, because of the different names in Ch1 8:3,\nheads of the house of their fathers, mighty men of valour; principal men in their tribe and families, and of great courage:\nand were reckoned by their genealogies twenty and two thousand and thirty and four; who sprung from these men."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 7:6",
+      "note_ref": "GILL/13/7/6",
+      "cites": [
+        "1 Chronicles 7:6"
+      ],
+      "text": "And the sons of Becher,.... Another son of Benjamin, Ch1 7:6,\nZemira, and Joash, and Eliezer and Elioenai, and Omri, and Jerimoth, and Abiah, and Anathoth, and Alameth; the two last of these, according to Kimchi, gave names to two cities in Benjamin, built by them; Anathoth, the native place of Jeremiah the prophet, and Alameth, the same with Bahurim, Sa2 16:5.\nall these are the sons of Becher; before named."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 7:7",
+      "note_ref": "GILL/13/7/7",
+      "cites": [
+        "1 Chronicles 7:6"
+      ],
+      "text": "And the number of them,.... Of the posterity of the sons of Becher:\nafter their genealogy by their generations, heads of the house of their fathers, mighty men of valour; as they increased in succeeding ages, and at the time of David:\nwas twenty thousand and two hundred."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 8:1",
+      "note_ref": "GILL/13/8/1",
+      "cites": [
+        "1 Chronicles 8:1-2"
+      ],
+      "text": "Now Benjamin begat Bela his firstborn,.... See Ch1 7:6. The genealogy of the tribe of Benjamin is reviewed, because it joined and kept close with Judah in the worship of God, went into captivity, and returned out of it with it; and this review is made chiefly for the sake of Saul, and his posterity, the first king of Israel, who was of it, and in whose posterity this genealogy ends:\nAshbel the second; supposed to be the same with Jediael, Ch1 7:6, see Gen 46:21.\nand Aharah the third; the same with Aher, Ch1 7:13, and with Ahiram, Num 26:38."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 8:2",
+      "note_ref": "GILL/13/8/2",
+      "cites": [
+        "1 Chronicles 8:1-2"
+      ],
+      "text": "Nohah the fourth, and Rapha the fifth. Nohah is supposed by some to be the same with Becher, Ch1 7:6 and by others with Naaman, Gen 46:21, as Rapha, the same with Rosh there.\n, as Rapha, the same with Rosh there.\n1 Chronicles 8:3\nch1 8:3\nch1 8:3\nch1 8:3The sons of Bela were Addar, and Gera, and Abihud. The first of these is thought to be the same with Ard, mentioned among the sons of Benjamin, Gen 46:21 but was one of his grandsons, see Num 26:40 as Gera also was."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 8:3",
+      "note_ref": "GILL/13/8/3",
+      "cites": [
+        "1 Chronicles 8:1-2"
+      ],
+      "text": "And Abishua, and Naaman, and Ahoah, and Gera, and Shephuphan, and Huram. These were all the sons of Bela; one of the name of Naaman is reckoned among the sons of Benjamin, Gen 46:21 and from this grandson the family of the Naamanites are named, Num 26:40, and Ahoah is by some thought to be the same with Ehi, mentioned in Gen 46:21 as one of Benjamin's sons. Some take the three last to be the sons of Ehud, spoken of in the next verse; but Shephuphan and Huram seem to be the same with Shupham and Hupham, Num 26:39.\n.\n1 Chronicles 8:6\nch1 8:6\nch1 8:6\nch1 8:6And these are the sons of Ehud,.... Not he that was a judge in Israel, Jdg 3:15 but perhaps a son of Huram the last mentioned; for not the three last are his sons, as some think, but the three following in the next verse; what follows being to be read in a parenthesis:\n(these are the heads of the fathers of the inhabitants of Geba;) a city in the tribe of Benjamin, Jos 18:24 namely, those sons of Ehud, after mentioned, were principal men in that tribe, and chief of the inhabitants of the city of Geba:\nand they removed them to Manahath; the name of a country referred to in Ch1 2:52 according to Jarchi, which was in the tribe of Judah; Geba being too small, either the inhabitants of Geba removed them, or they removed themselves, or their fathers removed them, Ch1 8:7, or it may be read impersonally, they were removed thither for the sake of a better habitation; the Targum adds,\"to the land of the house of Esau,''to Edom; which is not likely."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 8:4",
+      "note_ref": "GILL/13/8/4",
+      "cites": [
+        "1 Chronicles 8:1-2"
+      ],
+      "text": "And Naaman, and Ahiah, and Gera,.... Or, to wit, Naaman, &c. so the words are to be connected with\nthese are the sons or Ehud, in the preceding verse:\nhe removed them; to the above place, that is, either Gera, or rather Ehud, he advised them, directed and enjoined them to go thither, as being most convenient for them:\nand he begat Uzza and Ahihud; after he had removed his other sons."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 46:8",
+      "note_ref": "JFB/1/46/8",
+      "cites": [
+        "Genesis 46:21"
+      ],
+      "text": "all the souls of the house of Jacob, which came into Egypt, were threescore and ten--Strictly speaking, there were only sixty-six went to Egypt; but to these add Joseph and his two sons, and Jacob the head of the clan, and the whole number amounts to seventy. In the speech of Stephen (Act 7:14) the number is stated to be seventy-five; but as that estimate includes five sons of Ephraim and Manasseh (Ch1 7:14-20), born in Egypt, the two accounts coincide.",
+      "anchor": true
+    },
+    {
+      "src": "JFB",
+      "ref": "Numbers 26:12",
+      "note_ref": "JFB/4/26/12",
+      "cites": [
+        "Numbers 26:38-40"
+      ],
+      "text": "The sons of Simeon--It is supposed that this tribe had been pre-eminent in the guilt of Baal-peor and had consequently been greatly reduced in numbers.\nThus God's justice and holiness, as well as His truth and faithfulness, were strikingly displayed: His justice and holiness in the sweeping judgments that reduced the ranks of some tribes; and His truth and faithfulness in the extraordinary increase of others so that the posterity of Israel continued a numerous people.",
+      "anchor": true
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 7:5",
+      "note_ref": "JFB/13/7/5",
+      "cites": [
+        "1 Chronicles 7:6"
+      ],
+      "text": "fourscore and seven thousand--exclusive of the 58,600 men which the Tola branch had produced (Ch1 7:24), so that in the days of David the tribe would have contained a population of 45,600. This large increase was owing to the practice of polygamy, as well as the fruitfulness of the women. A plurality of wives, though tolerated among the Hebrews, was confined chiefly to the great and wealthy; but it seems to have been generally esteemed a privilege by the tribe of Issachar, \"for they had many wives and sons\" [Ch1 7:4]."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 7:6",
+      "note_ref": "JFB/13/7/6",
+      "cites": [
+        "1 Chronicles 7:6"
+      ],
+      "text": "OF BENJAMIN. (Ch1 7:6-12)\nThe sons of Benjamin--Ten are named in Gen 46:21, but only five later (Ch1 8:1; Num 26:38). Perhaps five of them were distinguished as chiefs of illustrious families, but two having fallen in the bloody wars waged against Benjamin (Jdg 20:46), there remained only three branches of this tribe, and these only are enumerated.\nJediael--Or Asbel (Genesis 46. 21)."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 7:7",
+      "note_ref": "JFB/13/7/7",
+      "cites": [
+        "1 Chronicles 7:6"
+      ],
+      "text": "the sons of Bela--Each of them was chief or leader of the family to which he belonged. In an earlier period seven great families of Benjamin are mentioned (Num 26:38), five of them being headed by these five sons of Benjamin, and two descended from Bela. Here five families of Bela are specified, whence we are led to conclude that time or the ravages of war had greatly changed the condition of Benjamin, or that the five families of Bela were subordinate to the other great divisions that sprang directly from the five sons of the patriarch."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 46:20",
+      "note_ref": "CLARKE/1/46/20",
+      "cites": [
+        "Genesis 46:21"
+      ],
+      "text": "Unto Joseph - were born Manasseh and Ephraim - There is a remarkable addition here in the Septuagint, which must be noticed: Εγενοντο δε υἱοι Μανασση, οὑς ετεκεν αυτῳ ἡ παλλακη ἡ Συρα, τον Μαχιρ· Μαχιρ δε εγεννησε τον Γαλααδ. Υἱοι δε Εφραιμ αδελφου Μανασσῃ, Σουταλααμ και Τααμ. Υἱοι δε Σουταλααμ, Εδεμ· These were the sons of Manasseh whom his Syrian concubine bore unto him: Machir; and Machir begat Galaad. The sons of Ephraim, Manasseh's brother, were Sutalaam and Taam; and the sons of Sutalaam, Edem. These add five persons to the list, and make out the number given by Stephen, Act 7:14, which it seems he had taken from the text of the Septuagint, unless we could suppose that the text of Stephen had been altered to make it correspond to the Septuagint, of which there is not the slightest evidence from ancient MSS. or versions. The addition in the Septuagint is not found in either the Hebrew or the Samaritan at present; and some suppose that it was taken either from Num 26:29, Num 26:35, or Ch1 7:14-20, but in none of these places does the addition appear as it stands in the Septuagint, thought some of the names are found interspersed. Various means have been proposed to find the seventy persons in the text, and to reconcile the Hebrew with the Septuagint and the New Testament. A table given by Scheuchzer, extracted from the Memoires de Trevoux, gives the following general view:\nThe Twelve Sons of Jacob with Their Children and Grandchildren. Reuben and his four sons 5 Simeon and his six sons 7 Levi and his three sons 4 Judah and his seven sons and grandsons 8 Issachar and his four sons 5 Zebulun and his three sons 4 Total sons of Jacob and Leah 33 Gad and his seven sons 8 Asher and his seven sons and grandsons 8 Total sons of Jacob and Zilpah 16 Joseph and his two sons 3 Benjamin and his ten sons 11 Total sons of Jacob and Rachel 14 Dan and his son 2 Naphtali and his four sons 5 Total sons of Jacob and Bilhah 7 Total sons of Jacob and his four wives 70\n\"To harmonize this with the Septuagint and St. Stephen, Act 7:14, to the number sixty-six (all the souls that came out of Jacob's loins, Gen 46:26) add nine of the patriarchs' wives, Judah's wife being already dead in Canaan, (Gen 38:12), Benjamin being supposed to be as yet unmarried, and the wife of Joseph being already in Egypt, and therefore out of the case: the number will amount to seventy-five, which is that found in the Acts.\" - Universal History.\nDr. Hales' method is more simple, and I think more satisfactory: \"Moses states that all the souls that came with Jacob into Egypt which issued from his loins, (except his sons wives), were sixty-six souls, Gen 46:26; and this number is thus collected:\nJacob's Family Jacob's children, eleven sons and one daughter 12 Reuben's sons 4 Simeon's sons 6 Levi's sons 3 Judah's three sons and two grandsons 5 Issachar's sons 4 Zebulun's sons 3 Gad's sons 7 Asher's four sons, one daughter, and two grandsons 7 Dan's son 1 Naphtali's sons 4 Benjamin's sons 10 Total 66\n\"If to these sixty-six children, and grandchildren, and great grandchildren, we add Jacob himself, Joseph and his two sons, the amount is seventy, the whole amount of Jacob's family which settled in Egypt.\n\"In this statement the wives of Jacob's sons, who formed part of the household, are omitted; but they amounted to nine, for of the twelve wives of the twelve sons of Jacob, Judah's wife was dead, Gen 38:12, and Simeon's also, as we may collect from his youngest son Shaul by a Canannitess, Gen 46:10, and Joseph's wife was already in Egypt. These nine wives, therefore, added to the sixty-six, give seventy-five souls the whole amount of Jacob's household that went down with him to Egypt; critically corresponding with the statement in the New Testament, that 'Joseph sent for his father Jacob and all his kindred, amounting to seventy-five souls.' The expression all his kindred, including the wives which were Joseph's kindred, not only by affinity, but also by consanguinity, being probably of the families of Esau, Ishmael, or Keturah. Thus does the New Testament furnish an admirable comment on the Old.\" - Analysis, vol. ii., p. 159.\nIt is necessary to observe that this statement, which appears on the whole the most consistent, supposes that Judah was married when about fourteen years of age, his son Er at the same age, Pharez at the same, Asher and his fourth son Beriah under twenty, Benjamin about fifteen, and Joseph's sons and grandsons about twenty. But this is not improbable, as the children of Israel must all have married at a very early age, to have produced in about two hundred and fifteen years no less than six hundred thousand persons above twenty years old, besides women and children."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 7:6",
+      "note_ref": "CLARKE/13/7/6",
+      "cites": [
+        "1 Chronicles 7:6"
+      ],
+      "text": "The sons of Benjamin; Bela, and Becher and Jediael - In Gen 46:21, ten sons of Benjamin are reckoned; viz., Bela, Becher, Ashbel, Gera, Naaman, Eri, Rosh, Muppim, Huppim, and Ard. In Num 26:38, etc., five sons only of Benjamin are mentioned, Bela, Ashbel, Ahiram, Shupham, and Hupham: and Ard and Naaman are there said to be the sons of Bela; consequently grandsons of Benjamin. In the beginning of the following chapter, five sons of Benjamin are mentioned, viz., Bela, Ashbel, Aharah, Nohah, and Rapha; where also Addar, Gera, Abihud, Abishua, Naaman, Ahoah, a second Gera, Shephuphan, and Huram, are all represented as grandsons, not sons, of Benjamin: hence we see that in many cases grandsons are called sons, and both are often confounded in the genealogical tables. To attempt to reconcile such discrepancies would be a task as endless as it would be useless. The rabbins say that Ezra, who wrote this book, did not know whether some of these were sons or grandsons; and they intimate also that the tables from which he copied were often defective, and here we must leave all such matters."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 8:1",
+      "note_ref": "CLARKE/13/8/1",
+      "cites": [
+        "1 Chronicles 8:1-2"
+      ],
+      "text": "Now Benjamin begat, etc. - See what has been said on the preceding chapter, Ch1 7:6 (note)."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 46:8",
+      "note_ref": "KD/1/46/8",
+      "cites": [
+        "Genesis 46:21"
+      ],
+      "text": "The size of Jacob's family, which was to grow into a great nation, is given here, with evident allusion to the fulfilment of the divine promise with which he went into Egypt. The list of names includes not merely the \"sons of Israel\" in the stricter sense; but, as is added immediately afterwards, \"Jacob and his sons,\" or, as the closing formula expresses it (Gen 46:27), \"all the souls of the house of Jacob, who came into Egypt\" (הבּאה for בּאה אשׁר, Ges. 109), including the patriarch himself, and Joseph with his two sons, who were born before Jacob's arrival in Egypt. If we reckon these, the house of Jacob consisted of 70 souls; and apart from these, of 66, besides his sons' wives. The sons are arranged according to the four mothers. Of Leah there are given 6 sons, 23 grandsons, 2 great-grandsons (sons of Pharez, whereas Er and Onan, the sons of Judah who died in Canaan, are not reckoned), and 1 daughter, Dinah, who remained unmarried, and was therefore an independent member of the house of Jacob; in all, therefore, 6 + 23 + 2 + 1 = 32, or with Jacob, 33 souls. Of Zilpah, Leah's handmaid, there are mentioned 2 sons, 11 grandsons, 2 great-grandsons, and 1 daughter (who is reckoned like Dinah, both here and Num 26:46, for some special reason, which is not particularly described); in all, 2 + 11 + 2 + 1 = 16 souls. Of Rachel, \"Jacob's (favourite) wife,\" 2 sons and 12 grandsons are named, of whom, according to Num 26:40, two were great-grandsons, = 14 souls; and of Rachel's maid Bilhah, 2 sons and 5 grandsons = 7 souls. The whole number therefore was 33 + 16 + 14 + 7 = 70.\n(Note: Instead of the number 70 given here, Exo 1:5, and Deu 10:22, Stephen speaks of 75 (Act 7:14), according to the lxx, which has the number 75 both here and Exo 1:5, on account of the words which follow the names of Manasseh and Ephraim in Gen 46:20 : ἐγένοντο δὲ οἱοὶ Μανασσῆ, οὓς ἔτεκεν αὐτῷ ἡ παλλακῆ ἡ Σύρα, τοὺ Μαχίρ· Μαχὶρ δὲ ἐγέννησε τὸν Γαλαάδ, υίοὶ δὲ Ἐφραΐ́μ ἀδελφοῦ Μανασσῆ Σουταλαὰμ καὶ Ταάμ. υίοὶ δὲ Σουταλαάμ. Ἐδώμ: and which are interpolated by conjecture from Gen 1:23, and Num 26:29, Num 26:35, and Num 26:36 (33, 39, and 40), these three grandsons and two great-grandsons of Joseph being reckoned in.)\nThe wives of Jacob's sons are neither mentioned by name nor reckoned, because the families of Israel were not founded by them, but by their husbands alone. Nor is their parentage given either here or anywhere else. It is merely casually that one of the sons of Simeon is called the son of a Canaanitish woman (Gen 46:10); from which it may be inferred that it was quite an exceptional thing for the sons of Jacob to take their wives from among the Canaanites, and that as a rule they were chosen from their paternal relations in Mesopotamia; besides whom, there were also their other relations, the families of Ishmael, Keturah, and Edom. Of the \"daughters of Jacob\" also, and the \"daughters of his sons,\" none are mentioned except Dinah and Serah the daughter of Asher, because they were not the founders of separate houses.\nIf we look more closely into the list itself, the first thing which strikes us is that Pharez, one of the twin-sons of Judah, who were not born till after the sale of Joseph, should already have had two sons. Supposing that Judah's marriage to the daughter of Shuah the Canaanite occurred, notwithstanding the reasons advanced to the contrary in Gen 38, before the sale of Joseph, and shortly after the return of Jacob to Canaan, during the time of his sojourn at Shechem (Gen 33:18), it cannot have taken place more than five, or at the most six, years before Joseph was sold; for Judah was only three years older than Joseph, and was not more than 20 years old, therefore, at the time of his sale. But even then there would not be more than 28 years between Judah's marriage and Jacob's removal to Egypt; so that Pharez would only be about 11 years old, since he could not have been born till about 17 years after Judah's marriage, and at that age he could not have had two sons. Judah, again, could not have taken four sons with him into Egypt, since he had at the most only two sons a year before their removal (Gen 42:37); unless indeed we adopt the extremely improbable hypothesis, that two other sons were born within the space of 11 or 12 months, either as twins, or one after the other. Still less could Benjamin, who was only 23 or 24 years old at the time (vid., pp. 200f. and 204f.), have had 10 sons already, or, as Num 26:38-40 shows, eight sons and two grandsons. From all this it necessarily follows, that in the list before us grandsons and great-grandsons of Jacob are named who were born afterwards in Egypt, and who, therefore, according to a view which we frequently meet with in the Old Testament, though strange to our modes of thought, came into Egypt in lumbis patrum. That the list is really intended to be so understood, is undoubtedly evident from a comparison of the \"sons of Israel\" (Gen 46:8), whose names it gives, with the description given in Num 26 of the whole community of the sons of Israel according to their fathers' houses, or their tribes and families. In the account of the families of Israel at the time of Moses, which is given there, we find, with slight deviations, all the grandsons and great-grandsons of Jacob whose names occur in this chapter, mentioned as the founders of the families, into which the twelve tribes of Israel were subdivided in Moses' days. The deviations are partly in form, partly in substance. To the former belong the differences in particular names, which are sometimes only different forms of the same name; e.g., Jemuel and Zohar (Gen 46:10), for Nemuel and Zerah (Num 26:12-13); Ziphion and Arodi (Gen 46:16), for Zephon and Arod (Num 26:15 and Num 26:17); Huppim (Gen 46:21) for Hupham (Num 26:39); Ehi (Gen 46:21), an abbreviation of Ahiram (Num 26:38); sometimes different names of the same person; viz., Ezbon (Gen 46:16) and Ozni (Num 26:16); Muppim (Gen 46:21) and Shupham (Num 26:39); Hushim (Gen 46:23) and Shuham (Num 26:42). Among the differences in substance, the first to be noticed is the fact, that in Num 26 Simeon's son Ohad, Asher's son Ishuah, and three of Benjamin's sons, Becher, Gera, and Rosh, are missing from the founders of families, probably for no other reason than that they either died childless, or did not leave a sufficient number of children to form independent families. With the exception of these, according to Num 26, all the grandsons and great-grandsons of Jacob mentioned in this chapter were founders of families in existence in Moses' time. From this it is obvious that our list is intended to contain, not merely the sons and grandsons of Jacob, who were already born when he went down to Egypt, but in addition to the sons, who were the heads of the twelve tribes of the nation, all the grandsons and great-grandsons who became the founders of mishpachoth, i.e., of independent families, and who on that account took the place or were advanced into the position of the grandsons of Jacob, so far as the national organization was concerned.\nOn no other hypothesis can we explain the fact, that in the time of Moses there was not one of the twelve tribes, except the double tribe of Joseph, in which there were families existing, that had descended from either grandsons or great-grandsons of Jacob who are not already mentioned in this list. As it is quite inconceivable that no more sons should have been born to Jacob's sons after their removal into Egypt, so is it equally inconceivable, that all the sons born in Egypt either died childless, or founded no families. The rule by which the nation descending from the sons of Jacob was divided into tribes and families (mishpachoth) according to the order of birth was this, that as the twelve sons founded the twelve tribes, so their sons, i.e., Jacob's grandsons, were the founders of the families into which the tribes were subdivided, unless these grandsons died without leaving children, or did not leave a sufficient number of male descendants to form independent families, or the natural rule for the formation of tribes and families was set aside by other events or causes. On this hypothesis we can also explain the other real differences between this list and Num 26; viz., the fact that, according to Num 26:40, two of the sons of Benjamin mentioned in Gen 46:21, Naaman and Ard, were his grandsons, sons of Belah; and also the circumstance, that in Gen 46:20 only the two sons of Joseph, who were already born when Jacob arrived in Egypt, are mentioned, viz., Manasseh and Ephraim, and none of the sons who were born to him afterwards (Gen 48:6). The two grandsons of Benjamin could be reckoned among his sons in our list, because they founded independent families just like the sons. And of the sons of Joseph, Manasseh and Ephraim alone could be admitted into our list, because they were elevated above the sons born to Joseph afterwards, by the fact that shortly before Jacob's death he adopted them as his own sons and thus raised them to the rank of heads of tribes; so that wherever Joseph's descendants are reckoned as one tribe (e.g., Jos 16:1, Jos 16:4), Manasseh and Ephraim form the main divisions, or leading families of the tribe of Joseph, the subdivisions of which were founded partly by their brothers who were born afterwards, and partly by their sons and grandsons. Consequently the omission of the sons born afterwards, and the grandsons of Joseph, from whom the families of the two sons, Manasseh and Ephraim, who were elevated into tribes, descended, forms only an apparent and not a real exception to the general rule, that this list mentions all the grandsons of Jacob who founded the families of the twelve tribes, without regard to the question whether they were born before or after the removal of Jacob's house to Egypt, since this distinction was of no importance to the main purpose of our list. That this was the design of our list, is still further confirmed by a comparison of Exo 1:5 and Deu 10:22, where the seventy souls of the house of Jacob which went into Egypt are said to constitute the seed which, under the blessing of the Lord, had grown into the numerous people that Moses led out of Egypt, to take possession of the land of promise. From this point of view it was a natural thing to describe the seed of the nation, which grew up in tribes and families, in such a way as to give the germs and roots of all the tribes and families of the whole nation; i.e., not merely the grandsons who were born before the migration, but also the grandsons and great-grandsons who were born in Egypt, and became founders of independent families. By thus embracing all the founders of tribes and families, the significant number 70 was obtained, in which the number 7 (formed of the divine number 3, and the world number 4, as the seal of the covenant relation between God and Israel) is multiplied by the number 10, as the seal of completeness, so as to express the fact that these 70 souls comprehended the whole of the nation of God.\n(Note: This was the manner in which the earlier theologians solved the actual difficulties connected with our list; and this solution has been adopted and defended against the objections offered to it by Hengstenberg (Dissertations) and Kurtz (History of the Old Covenant).)",
+      "anchor": true
+    },
+    {
+      "src": "KD",
+      "ref": "Numbers 26:1",
+      "note_ref": "KD/4/26/1",
+      "cites": [
+        "Numbers 26:38-40"
+      ],
+      "text": "Mustering of the Twelve Tribes. - Num 26:1-4. The command of God to Moses and Eleazar is the same as in Num 1, 2, and 3, except that it does not enter so much into details.\nNum 26:3-4\n\"And Moses and Eleazar the priest spake with them\" (דּבּר with the accusative, as in Gen 37:4). The pronoun refers to \"the children of Israel,\" or more correctly, to the heads of the nation as the representatives of the congregation, who were to carry out the numbering. On the Arboth-Moab, see at Num 22:1. Only the leading point in their words is mentioned, viz., \"from twenty years old and upwards\" (sc., shall ye take the number of the children of Israel), since it was very simple to supply the words \"take the sum\" from Num 26:2.\n(Note: This is, at all events, easier and simpler than the alterations of the text which have been suggested for the purpose of removing the difficulty. Knobel proposes to alter וידבּר into ויּדבּר, and לאמר into לפקד: \"Moses and Eleazar arranged the children of Israel when they mustered them.\" But הדבּיר does not mean to arrange, but simply to drive in pairs, to subjugate (Psa 18:48, and Psa 47:4), - an expression which, as much be immediately apparent, is altogether inapplicable to the arrangement of the people in families for the purpose of taking a census.),\n- The words from \"the children of Israel\" in Num 26:4 onwards form the introduction to the enumeration of the different tribes (Num 26:5.), and the verb יהיוּ (were) must be supplied. \"And the children of Israel, who went forth out of Egypt, were Reuben,\" etc.\nNum 26:5-11\nThe families of Reuben tally with Gen 46:9; Exo 6:14, and Ch1 5:3. The plural בּני (sons), in Num 26:8, where only one son is mentioned, is to be explained from the fact, that several sons of this particular son (i.e., grandsons) are mentioned afterwards. On Dathan and Abiram, see at Num 16:1 and Num 16:32. See also the remark made here in Num 26:10 and Num 26:11, viz., that those who were destroyed with the company of Korah were for a sign (נס, here a warning); but that the sons of Korah were not destroyed along with their father.\nNum 26:12-14\nThe Simeonites counted only five families, as Ohad (Gen 46:10) left no family. Nemuel is called Jemuel there, as yod and nun are often interchanged (cf. Ges. thes. pp. 833 and 557); and Zerach is another name of the same signification for Zohar (Zerach, the rising of the sun; Zohar, candor, splendour).\nNum 26:15-18\nThe Gadites are the same as in Gen 46:16, except that Ozni is called Ezbon there.\nNum 26:19-22\nThe sons and families of Judah agree with Gen 46:12 (cf. Gen 38:6.); also with Ch1 2:3-5.\nNum 26:23-25\nThe families of Issachar correspond to the sons mentioned in Gen 46:13, except that the name Job occurs there instead of Jashub. The two names have the same signification, as Job is derived from an Arabic word which signifies to return.\nNum 26:26-27\nThe families of Zebulun correspond to the sons named in Gen 46:14.\nNum 26:28-37\nThe descendants of Joseph were classified in two leading families, according to his two sons Manasseh and Ephraim, who were born before the removal of Israel to Egypt, and were raised into founders of tribes in consequence of the patriarch Israel having adopted them as his own sons (Gen 48).\nNum 26:29-34\nEight families descended from Manasseh: viz., one from his son Machir, the second from Machir's son or Manasseh's grandson Gilead, and the other six from the six sons of Gilead. The genealogical accounts in Num 27:1; Num 36:1, and Jos 17:1., fully harmonize with this, except that Iezer (Num 26:30) is called Abiezer in Jos 17:2; whereas only a part of the names mentioned here occur in the genealogical fragments in Ch1 2:21-24, and 7:14-29. In Num 26:33, a son of Hepher, named Zelophehad, is mentioned. He had no sons, but only daughters, whose names are given here to prepare the way for the legal regulations mentioned in Num 27 and 39, to which this fact gave rise.\nNum 26:35-37\nThere were four families descended from Ephraim; three from his sons, and one from his grandson. Of the descendants of Sutelah several links are given in Ch1 7:20.\nNum 26:38-41\nThe children of Benjamin formed seven families, five of whom were founded by his sons, and two by grandsons. (On the differences which occur between the names given here and those in Gen 46:21.) Some of the sons and grandsons of Benjamin mentioned here are also found in the genealogical fragments in Ch1 7:6-18, and Ch1 8:1.\nNum 26:42-43\nThe descendants of Dan formed only one family, named from a son of Dan, who is called Shuham here, but Hushim in Gen 46:23; though this family no doubt branched out into several smaller families, which are not named here, simply because this list contains only the leading families into which the tribes were divided.\nNum 26:44-47\nThe families of Asher agree with the sons of Asher mentioned in Gen 46:17 and Ch1 7:30, except that Ishuah is omitted here, because he founded no family.\nNum 26:48-50\nThe families of Naphtali tally with the sons of Naphtali in Gen 46:24 and Ch1 7:30.\nNum 26:51\nThe total number of the persons mustered was 601,730.",
+      "anchor": true
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 7:4",
+      "note_ref": "KD/13/7/4",
+      "cites": [
+        "1 Chronicles 7:6"
+      ],
+      "text": "And their brethren among all the families of Issachar,.... As those of Puah, Jashub, and Shimron, Ch1 7:1.\nwere men of might; valiant and courageous:\nreckoned in all, by their genealogies, fourscore and seven thousand; that is, including with these those of Tola and Uzzi before given."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 7:5",
+      "note_ref": "KD/13/7/5",
+      "cites": [
+        "1 Chronicles 7:6"
+      ],
+      "text": "The sons of Benjamin; Bela, and Becher, and Jediael, three. Benjamin had ten sons, but three only are mentioned first; the latter of these seems to be the same with Ashbel, Gen 46:21.\n.\n1 Chronicles 7:7\nch1 7:7\nch1 7:7\nch1 7:7And the sons of Bela; Ezbon, and Uzzi, and Uzziel, and Jerimoth, and Iri, five,.... These are thought by some to be the grandsons of Bela, because of the different names in Ch1 8:3,\nheads of the house of their fathers, mighty men of valour; principal men in their tribe and families, and of great courage:\nand were reckoned by their genealogies twenty and two thousand and thirty and four; who sprung from these men."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 7:6",
+      "note_ref": "KD/13/7/6",
+      "cites": [
+        "1 Chronicles 7:6"
+      ],
+      "text": "And the sons of Becher,.... Another son of Benjamin, Ch1 7:6,\nZemira, and Joash, and Eliezer and Elioenai, and Omri, and Jerimoth, and Abiah, and Anathoth, and Alameth; the two last of these, according to Kimchi, gave names to two cities in Benjamin, built by them; Anathoth, the native place of Jeremiah the prophet, and Alameth, the same with Bahurim, Sa2 16:5.\nall these are the sons of Becher; before named."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 7:7",
+      "note_ref": "KD/13/7/7",
+      "cites": [
+        "1 Chronicles 7:6"
+      ],
+      "text": "And the number of them,.... Of the posterity of the sons of Becher:\nafter their genealogy by their generations, heads of the house of their fathers, mighty men of valour; as they increased in succeeding ages, and at the time of David:\nwas twenty thousand and two hundred."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 8:1",
+      "note_ref": "KD/13/8/1",
+      "cites": [
+        "1 Chronicles 8:1-2"
+      ],
+      "text": "Now Benjamin begat Bela his firstborn,.... See Ch1 7:6. The genealogy of the tribe of Benjamin is reviewed, because it joined and kept close with Judah in the worship of God, went into captivity, and returned out of it with it; and this review is made chiefly for the sake of Saul, and his posterity, the first king of Israel, who was of it, and in whose posterity this genealogy ends:\nAshbel the second; supposed to be the same with Jediael, Ch1 7:6, see Gen 46:21.\nand Aharah the third; the same with Aher, Ch1 7:13, and with Ahiram, Num 26:38."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 8:2",
+      "note_ref": "KD/13/8/2",
+      "cites": [
+        "1 Chronicles 8:1-2"
+      ],
+      "text": "Nohah the fourth, and Rapha the fifth. Nohah is supposed by some to be the same with Becher, Ch1 7:6 and by others with Naaman, Gen 46:21, as Rapha, the same with Rosh there.\n, as Rapha, the same with Rosh there.\n1 Chronicles 8:3\nch1 8:3\nch1 8:3\nch1 8:3The sons of Bela were Addar, and Gera, and Abihud. The first of these is thought to be the same with Ard, mentioned among the sons of Benjamin, Gen 46:21 but was one of his grandsons, see Num 26:40 as Gera also was."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 8:3",
+      "note_ref": "KD/13/8/3",
+      "cites": [
+        "1 Chronicles 8:1-2"
+      ],
+      "text": "And Abishua, and Naaman, and Ahoah, and Gera, and Shephuphan, and Huram. These were all the sons of Bela; one of the name of Naaman is reckoned among the sons of Benjamin, Gen 46:21 and from this grandson the family of the Naamanites are named, Num 26:40, and Ahoah is by some thought to be the same with Ehi, mentioned in Gen 46:21 as one of Benjamin's sons. Some take the three last to be the sons of Ehud, spoken of in the next verse; but Shephuphan and Huram seem to be the same with Shupham and Hupham, Num 26:39.\n.\n1 Chronicles 8:6\nch1 8:6\nch1 8:6\nch1 8:6And these are the sons of Ehud,.... Not he that was a judge in Israel, Jdg 3:15 but perhaps a son of Huram the last mentioned; for not the three last are his sons, as some think, but the three following in the next verse; what follows being to be read in a parenthesis:\n(these are the heads of the fathers of the inhabitants of Geba;) a city in the tribe of Benjamin, Jos 18:24 namely, those sons of Ehud, after mentioned, were principal men in that tribe, and chief of the inhabitants of the city of Geba:\nand they removed them to Manahath; the name of a country referred to in Ch1 2:52 according to Jarchi, which was in the tribe of Judah; Geba being too small, either the inhabitants of Geba removed them, or they removed themselves, or their fathers removed them, Ch1 8:7, or it may be read impersonally, they were removed thither for the sake of a better habitation; the Targum adds,\"to the land of the house of Esau,''to Edom; which is not likely."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 8:4",
+      "note_ref": "KD/13/8/4",
+      "cites": [
+        "1 Chronicles 8:1-2"
+      ],
+      "text": "And Naaman, and Ahiah, and Gera,.... Or, to wit, Naaman, &c. so the words are to be connected with\nthese are the sons or Ehud, in the preceding verse:\nhe removed them; to the above place, that is, either Gera, or rather Ehud, he advised them, directed and enjoined them to go thither, as being most convenient for them:\nand he begat Uzza and Ahihud; after he had removed his other sons."
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 46:5",
+      "note_ref": "MHC/1/46/5",
+      "cites": [
+        "Genesis 46:21"
+      ],
+      "text": "Old Jacob is here flitting. Little did he think of ever leaving Canaan; he expected, no doubt, to die in his nest, and to leave his seed in actual possession of the promised land: but Providence orders it otherwise. Note, Those that think themselves well settled may yet be unsettled in a little time. Even old people, who think of no other removal than that to the grave (which Jacob had much upon his heart, Gen 37:35; Gen 42:38), sometimes live to see great changes in their family. It is good to be ready, not only for the grave, but for whatever may happen betwixt us and the grave. Observe, 1. How Jacob was conveyed; not in a chariot, though chariots were then used, but in a wagon, Gen 46:5. Jacob had the character of a plain man, who did not affect any thing stately or magnificent; his son rode in a chariot (Gen 41:43), but a wagon would serve him. 2. The removal of what he had with him. (1.) His effects (Gen 46:6), cattle and goods; these he took with him that he might not wholly be beholden to Pharaoh for a livelihood, and that it might not afterwards be said of them, \"that they came beggars to Egypt.\" (2.) His family, all his seed, Gen 46:7. It is probable that they had continued to live together in common with their father; and therefore when he went they all went, which perhaps they were the more willing to do, because, though they had heard that the land of Canaan was promised them, yet, to this day, they had none of it in possession. We have here a particular account of the names of Jacob's family, his sons' sons, most of whom are afterwards mentioned as heads of houses in the several tribes. See Num 26:5, etc. Bishop Patrick observes that Issachar called his eldest son Tola, which signifies a worm, probably because when he was born he was a very little weak child, a worm, and no man, not likely to live; and yet there sprang from him a very numerous offspring, Ch1 7:2. Note, Living and dying do not go by probability. The whole number that went down into Egypt was sixty-six (Gen 46:26), to which add Joseph and his two sons, who were there before, and Jacob himself, the head of the family, and you have the number of seventy, Gen 46:27. The Septuagint makes them seventy-five, and Stephen follows them (Act 7:14), the reason of which we leave to the conjecture of the critics; but let us observe, [1.] Masters of families ought to take care of all under their charge, and to provide for those of their own house food convenient both for body and soul. When Jacob himself removed to a land of plenty, he would not leave any of his children behind him to starve in a barren land. [2.] Though the accomplishment of promises is always sure, yet it is often slow. It was now 215 years since God had promised Abraham to make of him a great nation (Gen 12:2); and yet that branch of his seed on which the promise was entailed had increased only to seventy, of which this particular account is kept, that the power of God in multiplying these seventy to so vast a multitude, even in Egypt, may appear the more illustrious. When God pleases, a little one shall become a thousand, Isa 60:22.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Numbers 26:5",
+      "note_ref": "MHC/4/26/5",
+      "cites": [
+        "Numbers 26:38-40"
+      ],
+      "text": "This is the register of the tribes as they were now enrolled, in the same order that they were numbered in ch. 1. Observe,\nI. The account that is here kept of the families of each tribe, which must not be understood of such as we call families, those that live in a house together, but such as were the descendants of the several sons of the patriarchs, by whose names, in honour of them, their posterity distinguished themselves and one another. The families of the twelve tribes are thus numbered: - Of Dan but one, for Dan had but one son, and yet that tribe was the most numerous of all except Judah, Num 26:42, Num 26:43. Its beginning was small, but its latter end greatly increased. Zebulun was divided into three families, Ephraim into four, Issachar into four, Naphtali into four, and Reuben into four; Judah, Simeon, and Asher, had five families apiece, Gad and Benjamin seven apiece, and Manasseh eight. Benjamin brought ten sons into Egypt (Gen 46:21), but three of them, it seems either died childless or their families were extinct, for here we find seven only of those names preserved, and that whole tribe none of the most numerous; for Providence, in the building up of families and nations, does not tie itself to probabilities. The barren hath borne seven, and she that hath many children has waxed feeble, Sa1 2:5.\nII. The numbers of each tribe. And here our best entertainment will be to compare these numbers with those when they were numbered at Mount Sinai. The sum total was nearly the same; they were now 1820 fewer than they were then; yet seven of the tribes had increased in number. Judah had increased 1900, Issachar 9900, Zebulun 3100, Manasseh 20,500, Benjamin 10,200, Dan 1700, and Asher 11,900. But the other five had decreased more than to balance that increase. Reuben had decreased 2770, Simeon 37,100, Gad 5150, Ephraim 8000, and Naphtali 8000. In this account we may observe, 1. that all the three tribes that were encamped under the standard of Judah, who was the ancestor of Christ, had increased, for his church shall be edified and multiplied. 2. That none of the tribes had increased so much as that of Manasseh, which in the former account was the smallest of all the tribes, only 32,200, while here it is one of the most considerable; and that of his brother Ephraim, which there was numerous, is here one of the least. Jacob had crossed hands upon their heads, and had preferred Ephraim before Manasseh, which perhaps the Ephraimites had prided themselves too much in, and had trampled upon their brethren the Manassites; but, when the Lord saw that Manasseh was despised, he thus multiplied him exceedingly, for it is his glory to help the weakest, and raise up those that are cast down. 3. That none of the tribes decreased so much as Simeon did; from 59,300, it such to 22,200, little more than a third part of what it was. One whole family of that tribe (namely Ohad, mentioned Exo 6:15) was extinct in the wilderness. Hence Simeon is not mentioned in Moses's blessing (Deu. 33), and the lot of that tribe in Canaan was inconsiderable, only a canton out of Judah's lot, Jos 19:9. Some conjecture that most of those 24,000 who were cut off by the plague for the iniquity of Peor were of that tribe; for Zimri, who was a ringleader in that iniquity, was a prince of that tribe, many of whom therefore were influenced by his example to follow his pernicious ways.\nIII. In the account of the tribe of Reuben mention is made of the rebellion of Dathan and Abiram, who were of that tribe, in confederacy with Korah a Levite, Num 26:9-11. Though the story had been largely related but a few chapters before, yet here it comes in again, as fit to be had in remembrance and thought of by posterity, whenever they looked into their pedigree and pleased themselves with the antiquity of their families and the glory of their ancestors, that they might call themselves a seed of evil doers. Two things are here said of them: - 1. That they had been famous in the congregation, Num 26:9. Probably they were remarkable for their ingenuity, activity, and fitness for business: - That Dathan and Abiram that might have been advanced in due time under God and Moses; but their ambitious spirits put them upon striving against God and Moses, and when they quarrelled with the one they quarrelled with the other. And what was the issue? 2. Those that might have been famous were made infamous: they became a sign, Num 26:10. They were made monuments of divine justice; God, in their ruin, showed himself glorious in holiness, and so they were set up for a warning to all others, in all ages, to take heed of treading in the steps of their pride and rebellion. Notice is here taken of the preservation of the children of Korah (Num 26:11); they died not, as the children of Dathan and Abiram did, doubtless because they kept themselves pure from the infection, and would not join, no, not with their own father, in rebellion. If we partake not of the sins of sinners, we shall not partake of their plagues. These sons of Korah were afterwards, in their posterity, eminently serviceable to the church, being employed by David as singers in the house of the Lord; hence many psalms are said to be for the sons of Korah: and perhaps they were made to bear his name so long after, rather than the name of any other of their ancestors, for warning to themselves, and as an instance of the power of God, which brought those choice fruits even out of that bitter root. The children of families that have been stigmatized should endeavour, by their eminent virtues, to roll away the reproach of their fathers.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 7:1",
+      "note_ref": "MHC/13/7/1",
+      "cites": [
+        "1 Chronicles 7:6"
+      ],
+      "text": "We have here a short view given us,\nI. Of the tribe of Issachar, whom Jacob had compared to a strong ass, couching between two burdens (Gen 49:14), an industrious tribe, that minded their country business very closely and rejoiced in their tents, Deu 33:18. And here it appears, 1. That they were a numerous tribe; for they had many wives. So fruitful their country was that they saw no danger of over-stocking the pasture, and so ingenious the people were that they could find work for all hands. Let no people complain of their numbers, provided they suffer none to be idle. 2. That they were a valiant tribe, men of might (Ch1 7:2, Ch1 7:5), chief men, Ch1 7:3. Those that were inured to labour and business were of all men the fittest to serve their country when there was occasion, The number of the respective families, as taken in the days of David, is here set down, amounting in the whole to above 145,000 men fit for war. The account, some think, was taken when Joab numbered the people, 2 Sa. 24. But I rather think it refers to some other computation that was made, perhaps among themselves, because it is said (Ch1 27:24) that that account was not inserted in the chronicles of king David, it having offended God.\nII. Of the tribe of Benjamin. Some account is here given of this tribe, but much larger in the next chapter. The militia of this tribe scarcely reached to 60,000; but they are said to be mighty men of valour, Ch1 7:7, Ch1 7:9, Ch1 7:11. Benjamin shall ravin as a wolf, Gen 49:27. It was the honour of this tribe that it produced Saul the first king, and more its honour that it adhered to the rightful kings of the house of David when the other tribes revolted. Here is mention (Ch1 7:12) of Hushim the sons of Aher. The sons of Dan are said to be Hushim (Gen 46:23), and therefore some read Aher appellatively, Hushim - the sons of another (that is, another of Jacob's sons) or the sons of a stranger, which Israelites should not be, but such the Danites were when they set up Micah's graven and molten image among them.\nIII. Of the tribe of Naphtali, Ch1 7:13. The first fathers only of that tribe are named, the very same that we shall find, Gen 46:24, only that Shillem there is Shallum here. None of their descendents are named, perhaps because their genealogies were lost.\nIV. Of the tribe of Manasseh, that part of it which was seated within Jordan; for of the other part we had some account before, Ch1 5:23, etc. Of this tribe observe, 1. That one of them married an Aramitess, that is, a Syrian, Ch1 7:14. This was during their bondage in Egypt, so early did they begin to mingle with the nations. 2. That, though the father married a Syrian, Machir, the son of that marriage, perhaps seeing the inconvenience of it in his father's house, took to wife a daughter of Benjamin, Ch1 7:15. It is good for the children to take warning by their father's mistakes and not stumble at the same stone. 3. Here is mention of Bedan (Ch1 7:17), who perhaps is the same with that Bedan who is mentioned as one of Israel's deliverers, Sa1 12:11. Jair perhaps, who was of Manasseh (Jdg 10:3), was the man.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 8:1",
+      "note_ref": "MHC/13/8/1",
+      "cites": [
+        "1 Chronicles 8:1-2"
+      ],
+      "text": "There is little or nothing of history in all these verses; we have not therefore much to observe. 1. As to the difficulties that occur in this and the foregoing genealogies we need not perplex ourselves. I presume Ezra took them as he found them in the books of the kings of Israel and Judah (Ezr 9:1), according as they were given in by the several tribes, each observing what method they thought fit. Hence some ascend, others desecnd; some have numbers affixed, others places; some have historical remarks intermixed, others have not; some are shorter, others longer; some agree with other records, others differ; some, it is likely, were torn, erased, and blotted, others more legible. Those of Dan and Reuben were entirely lost. This holy man wrote as he was moved by the Holy Ghost; but there was no necessity for the making up of the defects, no, nor for the rectifying of the mistakes, of these genealogies by inspiration. It was sufficient that he copied them out as they came into his hand, or so much of them as was requisite to the present purpose, which was the directing of the returned captives to settle as nearly as they could with those of their own family, and in the places of their former residence. We may suppose that many things in these genealogies which to us seem intricate, abrupt, and perplexed, were plain and easy to them then (who knew how to fill up the deficiencies) and abundantly answered the intention of the publishing of them. 2. Many great and mighty nations there were now in being upon earth, and many illustrious men in them, whose names are buried in perpetual oblivion, while the names of multitudes of the Israel of God are here carefully preserved in everlasting remembrance. They are Jasher, Jeshurun - just ones, and the memory of the just is blessed. Many of these we have reason to fear, came short of everlasting honour (for even the wicked kings of Judah come into the genealogy), yet the perpetuating of their names here was a figure of the writing of the names of all God's spiritual Israel in the Lamb's book of life. 3. This tribe of Benjamin was once brought to a very low ebb, in the time of the judges, upon the occasion of the iniquity of Gibeah, when only 600 men escaped the sword of justice; and yet, in these genealogies, it makes as good a figure as almost any of the tribes: for it is the honour of God to help the weakest and raise up those that are most diminished and abased. 4. Here is mention of one Ehud (Ch1 8:6), in the preceding verse of one Gera (Ch1 8:5) and (Ch1 8:8) of one that descended from him, that begat children in the country of Moab, which inclines me to think it was that Ehud who was the second of the judges of Israel; for he is said to be the son of Gera and a Benjamite (Jdg 3:15), and he delivered Israel from the oppression of the Moabites by killing the king of Moab, which might give him a greater sway in the country of Moab than we find evidence of in his history and might occasion some of his posterity to settle there. 5. Here is mention of some of the Benjamites that drove away the inhabitants of Gath (Ch1 8:13), perhaps those that had slain the Ephraimites (Ch1 7:21) or their posterity, by way of reprisal: and one of those that did this piece of justice was named Beriah too, that name in which the memorial of that injury was preserved. 6. Particular notice is taken of those that dwelt in Jerusalem (Ch1 8:28 and again Ch1 8:32), that those whose ancestors had had their residence there might thereby be induced, at their return from captivity, to settle there too, which, for aught that appears, few were willing to do, because it was the post of danger: and therefore we find (Neh 11:2) the people blessed those that willingly offered themselves to dwell at Jerusalem, the greater part being inclined to prefer the cities of Judah. Those whose godly parents had their conversation in the new Jerusalem should thereby be engaged to set their faces thitherward and pursue the way thither, whatever it cost them."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 46:20",
+      "note_ref": "TYN/1/46/20",
+      "cites": [
+        "Genesis 46:21"
+      ],
+      "text": "46:20 On: See study note on 41:45."
+    },
+    {
+      "src": "TYN",
+      "ref": "Numbers 26:33",
+      "note_ref": "TYN/4/26/33",
+      "cites": [
+        "Numbers 26:38-40"
+      ],
+      "text": "26:33 The daughters of Zelophehad initiated important legal reform (see 27:1-11; 36:1-12).",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 7:1",
+      "note_ref": "TYN/13/7/1",
+      "cites": [
+        "1 Chronicles 7:6"
+      ],
+      "text": "7:1-40 In this chapter, the genealogies of the remaining tribes of Israel are given. • The sections on the tribes of Issachar, Benjamin, and Asher might have been derived from a military census; the lists are of nearly equal length, emphasize military terminology, record the father’s houses, and provide no information on settlements. • The tribes of Zebulun and Dan are omitted entirely, and Naphtali has a very brief record.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 8:1",
+      "note_ref": "TYN/13/8/1",
+      "cites": [
+        "1 Chronicles 8:1-2"
+      ],
+      "text": "8:1-40 The genealogy of Benjamin’s descendants brings the genealogies to a close. The record began with Judah, the tribe of David; it ends with Benjamin, the tribe of Saul."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 8:3",
+      "note_ref": "TYN/13/8/3",
+      "cites": [
+        "1 Chronicles 8:1-2"
+      ],
+      "text": "8:3 Gera, Abihud: As translated, Bela had two sons named Gera (8:3, 5), an unusual situation. If the rendering suggested in the NLT note is correct, the second Gera was the first Gera’s son."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 46:15",
+      "note_ref": "GNV/1/46/15",
+      "cites": [
+        "Genesis 46:21"
+      ],
+      "text": "Or, persons.",
+      "anchor": true
+    },
+    {
+      "src": "GNV",
+      "ref": "Numbers 26:19",
+      "note_ref": "GNV/4/26/19",
+      "cites": [
+        "Numbers 26:38-40"
+      ],
+      "text": "Before Jacob went into Egypt, Gen. 38:3,7,10 and 46:12.",
+      "anchor": true
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 7:5",
+      "note_ref": "GNV/13/7/5",
+      "cites": [
+        "1 Chronicles 7:6"
+      ],
+      "text": "Or, kinsmen."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 7:6",
+      "note_ref": "GNV/13/7/6",
+      "cites": [
+        "1 Chronicles 7:6"
+      ],
+      "text": "Called also Ashbel, Gen. 46:21; Num. 26:38.\nWhich were the chief: for else there were seven in all as appeareth, Gen. 46:21."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 8:1",
+      "note_ref": "GNV/13/8/1",
+      "cites": [
+        "1 Chronicles 8:1-2"
+      ],
+      "text": "He continueth in the description of the tribe of Benjamin, because his purpose is to set forth the genealogy of Saul."
+    }
+  ]
+}

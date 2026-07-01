@@ -1,0 +1,703 @@
+{
+  "contradiction_id": 375,
+  "question": "Should you pray for everyone?",
+  "summary": "1 Timothy 2:1 commands prayer and intercession for all people without exception. Jeremiah 7:16, 11:14, and 14:11 record YHWH explicitly forbidding Jeremiah from praying for the people of Judah — three times — because he will not hear. The pastoral universalism and the Jeremianic prohibition can't both be operative as standing divine commands.",
+  "consensus": "probable_contradiction",
+  "consensus_id": 2,
+  "category": "Law, Morality & Ethics",
+  "contradiction_type": "ethical_legal",
+  "testament_scope": "OT_vs_NT",
+  "books_in_tension": "Jeremiah, 1 Timothy",
+  "refs_raw": [
+    "1 Timothy 2:1",
+    "Jeremiah 7:16",
+    "Jeremiah 11:14",
+    "Jeremiah 14:11"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "1 Timothy 2:1",
+      "book": "1 Timothy",
+      "bolls": 54,
+      "ranges": [
+        [
+          2,
+          1,
+          1
+        ]
+      ]
+    },
+    {
+      "raw": "Jeremiah 7:16",
+      "book": "Jeremiah",
+      "bolls": 24,
+      "ranges": [
+        [
+          7,
+          16,
+          16
+        ]
+      ]
+    },
+    {
+      "raw": "Jeremiah 11:14",
+      "book": "Jeremiah",
+      "bolls": 24,
+      "ranges": [
+        [
+          11,
+          14,
+          14
+        ]
+      ]
+    },
+    {
+      "raw": "Jeremiah 14:11",
+      "book": "Jeremiah",
+      "bolls": 24,
+      "ranges": [
+        [
+          14,
+          11,
+          11
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 63,
+  "notes_raw_count": 70,
+  "notes_dropped": 7,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Jeremiah 7:14",
+      "note_ref": "GILL/24/7/14",
+      "cites": [
+        "Jeremiah 7:16"
+      ],
+      "text": "Therefore will I do unto this house, which is called by my name,.... The temple, as in Jer 7:11, for though it was called by his name, and his name was called upon in it, yet this could not secure it from desolation; for so the name of the Lord was set in the tabernacle at Shiloh, and yet he forsook it through the wickedness of the people:\nwherein ye trust; they trusted in the sacrifices there offered up, and the service there performed; in the holiness of the place, and because it was the residence of the divine Majesty; wherefore they thought this would be a protection and defence of them; and this was trusting in lying words, as in Jer 7:4,\nand unto the place which I gave unto you and your fathers; meaning either Jerusalem; and so the Syriac version renders it, \"and to the city\"; or the whole land of Judea, as in Jer 7:7,\nas I have done to Shiloh; See Gill on Jer 7:12."
+    },
+    {
+      "src": "GILL",
+      "ref": "Jeremiah 7:15",
+      "note_ref": "GILL/24/7/15",
+      "cites": [
+        "Jeremiah 7:16"
+      ],
+      "text": "And I will cast you out of my sight,.... Or, \"from before my face\", or \"faces\" (n); out of the land of Judea, and cause them to go into captivity; and so the Targum paraphrases it,\n\"I will cause you to remove out of the land of the house of my majesty:''\nas I have cast out all your brethren, even the whole seed of Ephraim; or Israel, as the Targum; that is, the ten tribes so called, because Ephraim, a principal tribe, and the metropolis of the kingdom, was in it, and Jeroboam, the first king of the ten tribes, was of it: now, as they were carried captive into Babylon, so should the Jews; or they of the two tribes of Judah and Benjamin; who could not expect to fare better than their brethren, who were more in number than they; and especially since they were guilty of the same sins.\n(n) \"desuper faciebus meis\", Montanus; \"a faciebus meis\" Schmidt."
+    },
+    {
+      "src": "GILL",
+      "ref": "Jeremiah 7:16",
+      "note_ref": "GILL/24/7/16",
+      "cites": [
+        "Jeremiah 7:16"
+      ],
+      "text": "Therefore pray not thou for this people,.... These are the words of the Lord to the Prophet Jeremiah, forbidding him to pray for the people of the Jews; which he either was doing, or about to do, and which, from the great affection he had for them, he was inclined unto; wherefore, to show how much the Lord was displeased with them, and how determined he was to punish them with captivity, he orders the prophet not to make any supplication for them:\nneither lift up cry nor prayer for them; referring to the gestures of lifting up the eyes and hands in prayer, and also to the frame of the heart, in the exercise of faith and holy confidence: \"cry\" and \"prayer\" are put together, because prayer is sometimes made, especially when persons are in great distress, with strong cryings and tears; see Heb 5:7,\nneither make intercession to me; or, \"meet me\" (o); or come between him and this people, and so act the part of a mediator, of which office intercession is a branch; it properly belongs to Christ. The Jews say (p) there is no \"meeting\", but prayer, or that is always intended by it; for proof of which they cite this passage:\nfor I will not hear thee; on the behalf of them, being so highly provoked by them, and determined they should go into captivity; see Jer 15:1.\n(o) \"et ne oecurras mihi\", Calvin; \"et ne obsistas mihi\", V. L. \"et ne intervenias apud me\", Tigurine version. (p) T. Bab. Beracot, fol. 26. 2. Taanith, fol. 7. 2. & 8. 1. Sota, fol. 14. 1. & Sanhedrin, fol. 95. 2."
+    },
+    {
+      "src": "GILL",
+      "ref": "Jeremiah 7:17",
+      "note_ref": "GILL/24/7/17",
+      "cites": [
+        "Jeremiah 7:16"
+      ],
+      "text": "Seest thou not what they do in the cities Judah,.... Not in one city only, but in all of and particularly the chief of them; as follows:\nand in the streets of Jerusalem? these words, with what is said next, show the reason why the prophet was forbid to pray for this people, and the Lord was so provoked with them as to cast them out of his sight; and he appeals to the prophet, and to what he saw, or which he might see; for what was done was done not in secret, but openly, in the very streets of the city; by which he might be sufficiently convinced it was but just with God to do what he determined to do with them."
+    },
+    {
+      "src": "GILL",
+      "ref": "Jeremiah 11:12",
+      "note_ref": "GILL/24/11/12",
+      "cites": [
+        "Jeremiah 11:14"
+      ],
+      "text": "For according to the number of thy cities were thy gods, O Judah,.... See Gill on Jer 2:28,\nand according to the number of the streets of Jerusalem; of which there were many, and some of note (i):\nhave ye set up altars to that shameful thing, even altars to burn incense unto Baal; one of whose names is Bosheth, \"shame\"; see Hos 9:10, hence Jerubbaal is called, in Sa2 11:21, Jerubbesheth; very properly is this name given to Baal, not only because the worship of him was to the reproach of the true God, but brought shame and confusion in the issue to its worshipper; as well as because shameful things were done in the worship of it, especially of Baalpeor; who seems to be the same with the Priapus of other nations.\n(i) Vid. Lightfoot, Chorograph. Cent. ad Matt. p. 34."
+    },
+    {
+      "src": "GILL",
+      "ref": "Jeremiah 11:13",
+      "note_ref": "GILL/24/11/13",
+      "cites": [
+        "Jeremiah 11:14"
+      ],
+      "text": "Therefore pray not thou for this people,.... If for a remnant among them, yet not for the body of the people; and if for their spiritual and eternal good, yet not for their temporal salvation; their temporal ruin was certain; the decree was gone forth, and there was no revoking it; and this is said, not so much by way of prohibition of the prophet, as by way of threatening to the people, to show that as their own prayers should not profit them, so they should not have the benefit of the prayers of good men, their sin was a sin unto death, at least temporal death, and must not be prayed for, Jo1 5:16,\nneither lift up a cry or prayer for them; more words are used, to show the divine resolution, how inexorable he was, and how desperate was their condition, and their ruin sure; these words are repeated from Jer 7:16,\nfor I will not hear them in the time that they cry unto me for their trouble; for, as he would not hear their prayers when they should cry to him to be delivered from their trouble, it cannot be thought that he should hear the prayers of others for them, The Targum understands this of the prayers of the prophet for them, paraphrasing the words thus,\n\"for there is no acceptance before me (or it is not pleasing to me) when thou shall pray for them before me, in the time of their evil;''\nneither their prayers, nor the prophet's for them, would be acceptable to God, or of any avail, he being determined to bring evil upon them."
+    },
+    {
+      "src": "GILL",
+      "ref": "Jeremiah 11:14",
+      "note_ref": "GILL/24/11/14",
+      "cites": [
+        "Jeremiah 11:14"
+      ],
+      "text": "What hath my beloved to do in mine house,.... These are either the words of the prophet, as Kimchi and Ben Melech think, speaking after this manner; what has God, who is my beloved, he whom my soul loves, and who loves me, to do in the sanctuary, which is my house, and not this people's, that have defiled it, to cause his Shechinah to dwell there, after so much wickedness has been committed in it? and so Cocceius interprets it of Christ the beloved Son of God, and the beloved of his church and people, withdrawing from the temple, because of the wickedness of the Jews; or they are the words of God concerning the people of the Jews, who were beloved for the Father's sake; signifying that now, because of their abominations, it was not fitting they should continue in the house of God, or have any shelter and protection there. The Jews interpret (k) this of Abraham:\nseeing she hath wrought lewdness with many; that is, the congregation of Israel, or the church of the Jews, had committed idolatry with many idols; or it was not only a few of them that were guilty of this sin, but a multitude, even their great men, the princes and nobles:\nand the holy flesh is passed from thee? which Kimchi and Ben Melech understand of holy and good men, who ceased from among them, were perished and gone; and Jarchi, of the circumcision of the flesh, which was neglected: but it seems best to interpret it of the flesh of sacrifices; which were either laid aside by them, or, if offered and eaten of, were of no service to them, being offered up with a wicked mind; or rather the meaning is, the time was come that these were at an end, the temple being destroyed:\nwhen thou doest evil; the evil of sin; or \"when thine evil is\" (l); the evil of punishment is coming upon thee:\nthen thou rejoicest; instead of repenting of sin, and mourning for it, or being humbled at approaching judgments, gave themselves up to sensual lusts and pleasures; neither concerned at the one nor at the other; neither grieved for sin, nor trembled at punishment; but amidst all were brisk and jovial; though some say (m) the word has the signification of trembling; and render it, \"then thou shalt tremble\". The Targum of the whole is,\n\"What (have I to do) with this people, that was beloved before me? they have left the worship of the house of my sanctuary; they have took counsel to sin much; they mingle the flesh of abominations with the holy flesh; they shall go into captivity from thee; because of thy wickedness thou art strong.''\n(k) T. Bab. Menachot, fol. 53. 2. (l) \"quum adest malum tuum\", Junius & Tremellius; \"praesto est\", Piscator; extabit, Cocceius. (m) R. Sol. Urbin. Ohel Moed, fol. 32. 1."
+    },
+    {
+      "src": "GILL",
+      "ref": "Jeremiah 11:15",
+      "note_ref": "GILL/24/11/15",
+      "cites": [
+        "Jeremiah 11:14"
+      ],
+      "text": "The Lord called thy name a green olive tree,.... That is, compared the Jewish church and people to one, and made them as one, very prosperous and flourishing in the enjoyment of privileges, civil and religious, being highly favoured with the word and ordinances: fair, and of goodly fruit; which, for a while, brought forth the fruit of good works; and, while such, was amiable and goodly to look upon; was, as the Syriac version is, \"fair with fruit, and beautiful in sight\"; and whereas it might have been expected she would have so continued, and been still as a green olive tree in the house of God, as David says, Psa 52:8, now it was otherwise, she was become barren, dry, and fruitless: and therefore it follows:\nwith the noise of a great tumult he hath kindled fire upon it: that is, by means of the Chaldean army, which came with a mighty rushing noise, as a numerous army does; the Lord hath destroyed it, and burnt it with fire; what the Chaldeans did is ascribed to God, because it was done according to his will, and by his direction and overruling providence:\nand the branches of it are broken; the high and principal ones, the king, princes, and nobles, their palaces, and the house of God. The apostle seems to have respect to this passage in Rom 11:17. The Targum is,\n\"as an olive tree that is beautiful in form and comely of sight, whose branches overshadow the trees, so the Lord hath magnified thy name among the people; but now that thou hast transgressed the law, the armies of the people, who are strong as fire, shall come against thee, and helps shall be joined to them.''"
+    },
+    {
+      "src": "GILL",
+      "ref": "Jeremiah 14:9",
+      "note_ref": "GILL/24/14/9",
+      "cites": [
+        "Jeremiah 14:11"
+      ],
+      "text": "Why shouldest thou be as a man astonied,.... Astonished, and so surprised as not to know what to say or do; or \"asleep\", as the Septuagint; taking no notice of us, and being altogether unconcerned what becomes of us; or, as one \"dumb\" (i); that will give no answer to our prayers:\nas a mighty man that cannot save? who, though he is able to save, yet, through want of a heart or will, does not exert his power:\nyet thou, O Lord, art in the midst of us; having his residence and dwelling in the temple at Jerusalem; and therefore was not a stranger and foreigner among them; and this carries in it an entreaty and an argument that he would not in his providence conduct towards them in such manner as though he was:\nand we are called by thy name; the people of God, the Israel of God, and the like:\nleave us not; in our distress and trouble, but deliver us out of it.\n(i) \"obmutefactus\", Fosterus, Mercerus,"
+    },
+    {
+      "src": "GILL",
+      "ref": "Jeremiah 14:10",
+      "note_ref": "GILL/24/14/10",
+      "cites": [
+        "Jeremiah 14:11"
+      ],
+      "text": "Thus saith the Lord unto this people,.... Instead of answering the prophet directly and immediately, he first speaks to the people, and observes their sin is the cause of his conduct; and whom he does not vouchsafe to call his people; they having broken covenant with him, and so notoriously backslidden from him; but this people, this wicked and worthless people:\nthus have they loved to wander; from the Lord, and out of the way of their duty, to Egypt and Assyria for help, and after strange gods, and the worship of them; and this they chose and delighted in; it arose from corrupt affections and a depraved heart:\nthey have not refrained their feet; from going into other lands, or into the temples of idols; wherefore, it ought not to be wondered at that the Lord was as a stranger in their land, and as a wayfaring man that tarried for a night; and hence it was that they should have enough of wandering to and fro, since they loved it; in seeking for water in their own land, and by their being carried captive into others; so the Targum,\n\"as they loved, so will I take vengeance on them, to cause them to be carried captive from the land of the house of my majesty; and as they have delighted themselves in the worship of idols, and from the house of my sanctuary have not refrained their feet, therefore before the Lord there is no delight in them:''\ntherefore the Lord doth not accept them; has no favour for them, no pleasure in them; does not accept either their persons or their services:\nhe will now remember their iniquity; their idolatry; their trust in others, and distrust of him; which might seem to be forgotten because he had taken no notice of them, in a providential way, to correct for them; but now he would let them know that they were had in remembrance, by causing his judgments to come upon them for them: this stands opposed to the forgiveness of sin; when God forgives sin he remembers it no more; but when he does not, but punishes for it, then he is said to remember it: and visit their; sins; or them for their sins; that is, punish them."
+    },
+    {
+      "src": "GILL",
+      "ref": "Jeremiah 14:11",
+      "note_ref": "GILL/24/14/11",
+      "cites": [
+        "Jeremiah 14:11"
+      ],
+      "text": "Then said the Lord unto me,.... To the prophet; now the Lord gives a more direct answer to him, and to his prayers and intercession for the people; which he forbids, saying,\npray not for this people for their good; or \"for good things\", as the Septuagint; for rain, that the famine might cease; and for deliverance from their enemies, that they might not go into captivity; for these things were determined upon by the Lord: he does not forbid him praying at all for them, or for their repentance and reformation; or for spiritual good things for them, for eternal life and salvation for the remnant of his own people among them; but not for external good things for the bulk of them."
+    },
+    {
+      "src": "GILL",
+      "ref": "Jeremiah 14:12",
+      "note_ref": "GILL/24/14/12",
+      "cites": [
+        "Jeremiah 14:11"
+      ],
+      "text": "When they fast, I will not hear their cry,.... Or, \"though they fast\" (k); very probably on account of the want of rain, and the dearth or famine, a fast was proclaimed; see Jer 36:9, when they prayed and cried aloud, and made a great noise; but their prayers being hypocritical, and not arising from a pure heart, or offered up in faith and love, were not heard and accepted by the Lord:\nand when they offer burnt offerings and an oblation; or a meat or bread offering, which went along with the burnt offering; thinking by those outward things to atone for their sins, without true repentance for them, or faith in the atoning sacrifice of Christ:\nI will not accept them; neither their offerings, nor their persons:\nbut I will consume them by the sword, and by the famine, and by the pestilence; the Lord not only determines the continuance of the famine, notwithstanding the prayers of the prophet; but adds two other judgments, the sword and pestilence, by which he was resolved to consume them; and therefore it was to no purpose to pray to him on their behalf, he was inexorable.\n(k) \"quamvis jejunant\", Gataker."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Timothy 2:1",
+      "note_ref": "GILL/54/2/1",
+      "cites": [
+        "1 Timothy 2:1"
+      ],
+      "text": "I exhort therefore, that first of all,.... The two principal parts of public worship, being the ministry of the word and prayer; and the apostle having insisted on the former, in the preceding chapter, in which he orders Timothy to charge some that they teach no other doctrine than that of the Gospel, gives an account of his own ministry, and call to it, and of the glorious Gospel of the blessed God, which was committed to his trust, and stirs up Timothy to the faithful and diligent discharge of his work and office; now proceeds to the latter, to prayer, and exhorts unto it; either Timothy in particular, for so read the Syriac, Arabic, and Ethiopic versions, \"I exhort thee\", or \"desire thee\"; or else the church in general; unless it should rather be thought to be a charge to Timothy to exhort, and so Beza's Claromontane copy reads, \"exhort thou therefore\": but it is commonly considered as an exhortation of the apostle's, which he was very urgent in: it was what lay much upon his mind, and he was greatly desirous that it should be attended unto; for so the words may be read, \"I exhort first of all\", or before all things; of all things he had to say, this was the chief, or it was what he would have principally and chiefly done by others: for this does not so much regard the order of time, that prayer should be made early in the morning, in the first place, before anything else is done, and particularly before preaching, which seems to have been the custom of the primitive saints, Act 4:31 but the pre-eminence and superior excellency of it; though the words may be rendered, \"I exhort, that first, the supplications of all be made\": and so may regard public prayer, the prayer of the whole church, in distinction from private prayer, or the prayer of a single person; which is expressed by different words,\nsupplications, prayers, intercessions, and giving of thanks: the first of these, \"supplications\", signifies such petitions for things that are wanted by men, either by themselves or others; and that either for their bodies or souls, as food and raiment for the one, and discoveries of pardoning love, supplies of grace, spiritual peace, comfort, &c. for the other: and the second word, \"prayers\", signifies good wishes and desires, directed and expressed to God for things that are in themselves to be wished for, and desired of God, either for ourselves or others: and the next word, \"intercessions\", intends either complaints exhibited in prayer against others that have done injuries; or prayers put up for others, either for the averting of evil from them, or for the bestowing some good thing on them: and the last word, \"thanksgivings\", with which requests should always be made known to God, designs that branch of prayer in which thanks are given to God for mercies received, whether temporal or spiritual: and these are to\nbe made for all men; not only for all the saints, for all the churches of Christ, and, ministers of the Gospel; nor only for near relations and friends, according to the flesh; but for all the inhabitants of the country and city in which men dwell, the peace and prosperity of which are to be prayed for; yea, for enemies, and such as reproach, persecute, and despitefully use the saints, even for all sorts of men, Jews and Gentiles, rich and poor, high and low, bond and free, good men and bad men: for it cannot be understood of every individual that has been, is, or shall be in the world; millions of men are dead and gone, for whom prayer is not to be made; many in hell, to whom it would be of no service; and many in heaven, who stand in no need of it; nor is prayer to be made for such who have sinned the sin unto death, Jo1 5:16 besides, giving of thanks, as well as prayers, are to be made for all men; but certainly the meaning is not, that thanks should be given for wicked men, for persecutors, and particularly for a persecuting Nero, or for heretics, and false teachers, such as Hymenaeus and Alexander, whom the apostle had delivered to Satan. But the words must be understood of men of all sorts, of every rank and quality, as the following verse shows."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Timothy 2:2",
+      "note_ref": "GILL/54/2/2",
+      "cites": [
+        "1 Timothy 2:1"
+      ],
+      "text": "For kings, and for all that are in authority,.... For supreme governors, as the emperor of Rome, and kings of particular nations; and for all sub-governors, or inferior magistrates, as procurators or governors of provinces, and proconsuls, and the like; all that were in high places, and acted under the authority of those that were supreme; these are particularly mentioned, the then governors, whether supreme or subordinate, who were avowed enemies, and violent persecutors of the saints; and it might be a scruple with some of them, whether they should pray for them, and therefore the apostle enjoins it; and this in opposition to the notions and practices of the Jews, who used to curse the Heathens, and pray for none but for themselves, and those of their own nation:\nthat we may lead a quiet and peaceable life, in all godliness and honesty; which does not merely design the end of civil government by kings and magistrates, which is to preserve the peace and quiet of the commonwealth; to protect the persons and properties of men, that they may possess their own undisturbed; and to secure to them their civil and religious rights and liberties, that they may have the free use and exercise of religion, signified by \"all godliness\"; and to encourage morality and virtue, expressed by \"honesty\"; and so is an argument for prayer, taken from the advantage of civil government: nor does this clause only point out the duty of saints to live peaceably under the government they are, and not disturb it; to mind only their religious exercises among themselves, and behave honestly and morally among men, as they generally speaking are, the quiet in the land; but also expresses the thing to be prayed for; and the sense is, that since the hearts of kings are in the hands of the Lord, and he can turn them as he pleases, prayer should be made to him for them, that he would either convert them, and bring them to the knowledge of the truth, they now persecuted; or at least so dispose their hearts and minds, that they might stop the persecution, and so saints might live peaceably under them, enjoy their religious liberty, and be encouraged in their moral conversation. The Arabic version renders it, \"that they may be preserved\": that is, kings, and all in authority. It is a saying of R. Hananiah, or Ananias, the sagan of the priests (s),\n\"pray for the peace or safety of the kingdom (one of their commentators on it adds (t), even of the nations of the world, which is remarkable, and agrees with the exhortation of the apostle); for if there was no fear of that, men would devour one another alive.''\n(s) Pirke Abot, c. 3. sect. 2. (t) Bartenora in Pirke Abot, c. 3. sect. 2."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Timothy 2:3",
+      "note_ref": "GILL/54/2/3",
+      "cites": [
+        "1 Timothy 2:1"
+      ],
+      "text": "For this is good and acceptable in the sight of God our Saviour. Not only to live peaceably and quietly under the government men are, since that is the ordination of God, and to live soberly, righteously, and godly, which his grace teaches; but to pray for all sorts of men, and for those who are set in the highest place of government, even though enemies and persecutors: this is good in itself, and in the sight of an omniscient God, who sees not as man seeth; and it is acceptable unto him through Jesus Christ, by whom every sacrifice of prayer or praise is so; for by God our Saviour is meant God the Father, who is the Saviour of all men, in a way of providence, and the Saviour of all the elect in a way of special grace; See Gill on Ti1 2:1.\n.\n1 Timothy 2:4\nti1 2:4\nti1 2:4\nti1 2:4Who will have all men to be saved,.... The salvation which God wills that all men should enjoy, is not a mere possibility of salvation, or a mere putting them into a salvable state; or an offer of salvation to them; or a proposal of sufficient means of it to all in his word; but a real, certain, and actual salvation, which he has determined they shall have; and is sure from his own appointment, from the provision of Christ as a Saviour for them, from the covenant of grace, in which everything is secured necessary for it, and from the mission of Christ to effect it, and from its being effected by him: wherefore the will of God, that all men should be saved, is not a conditional will, or what depends on the will of man, or on anything to be performed by him, for then none might be saved; and if any should, it would be of him that willeth, contrary to the express words of Scripture; but it is an absolute and unconditional will respecting their salvation, and which infallibly secures it: nor is it such a will as is distinguishable into antecedent and consequent; with the former of which it is said, God wills the salvation of all men, as they are his creatures, and the work of his hands; and with the latter he wills, or not wills it, according to their future conduct and behaviour; but the will of God concerning man's salvation is entirely one, invariable, unalterable, and unchangeable: nor is it merely his will of approbation or complacency, which expresses only what would be grateful and well pleasing, should it be, and which is not always fulfilled; but it is his ordaining, purposing, and determining will, which is never resisted, so as to be frustrated, but is always accomplished: the will of God, the sovereign and unfrustrable will of God, has the governing sway and influence in the salvation of men; it rises from it, and is according to it; and all who are saved God wills they should be saved; nor are any saved, but whom he wills they should be saved: hence by all men, whom God would have saved, cannot be meant every individual of mankind, since it is not his will that all men, in this large sense, should be saved, unless there are two contrary wills in God; for there are some who were before ordained by him unto condemnation, and are vessels of wrath fitted for destruction; and it is his will concerning some, that they should believe a lie, that they all might be damned; nor is it fact that all are saved, as they would be, if it was his will they should; for who hath resisted his will? but there is a world of ungodly men that will be condemned, and who will go into everlasting punishment: rather therefore all sorts of men, agreeably to the use of the phrase in Ti1 2:1 are here intended, kings and peasants, rich and poor, bond and free, male and female, young and old, greater and lesser sinners; and therefore all are to be prayed for, even all sorts of men, because God will have all men, or all sorts of men, saved; and particularly the Gentiles may be designed, who are sometimes called the world, the whole world, and every creature; whom God would have saved, as well as the Jews, and therefore Heathens, and Heathen magistrates, were to be prayed for as well as Jewish ones. Moreover, the same persons God would have saved, he would have also\ncome to the knowledge of the truth: of Christ, who is the truth, and to faith in him, and of all the truth of the Gospel, as it is in Jesus; not merely to a notional knowledge of it, which persons may arrive unto, and not be saved, but a spiritual and experimental knowledge of it; and all that are saved are brought to such a knowledge, which is owing to the sovereign will and good pleasure of God, who hides the knowledge of Gospel truths from the wise and prudent, and reveals them to babes: whence it appears, that it is not his will with respect to every individual of mankind; that they should thus come to the knowledge of the truth; for was it his will they should, he would, no doubt, give to every man the means of it, which he has not, nor does he; he suffered all nations to walk in their own ways, and overlooked their times of ignorance, and sent no message nor messenger to inform them of his will; he gave his word to Jacob, and his statutes unto Israel only; and the Gospel is now sent into one part of the world, and not another; and where it does come, it is hid to the most; many are given up to strong delusions to believe a lie, and few are savingly and experimentally acquainted with the truths of the Gospel; though all that are saved are brought to the knowledge of such truths as are necessary to salvation; for they are chosen to it through sanctification of the Spirit, and belief of the truth."
+    },
+    {
+      "src": "JFB",
+      "ref": "Jeremiah 7:14",
+      "note_ref": "JFB/24/7/14",
+      "cites": [
+        "Jeremiah 7:16"
+      ],
+      "text": "I gave--and I therefore can revoke the gift for it is still Mine (Lev 25:23), now that ye fail in the only object for which it was given, the promotion of My glory.\nShiloh--as I ceased to dwell there, transferring My temple to Jerusalem; so I will cease to dwell at Jerusalem."
+    },
+    {
+      "src": "JFB",
+      "ref": "Jeremiah 7:15",
+      "note_ref": "JFB/24/7/15",
+      "cites": [
+        "Jeremiah 7:16"
+      ],
+      "text": "your brethren--children of Abraham, as much as you.\nwhole seed of Ephraim--They were superior to you in numbers and power: they were ten tribes: ye but two. \"Ephraim,\" as the leading tribe, stands for the whole ten tribes (Kg2 17:23; Psa 78:67-68)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Jeremiah 7:16",
+      "note_ref": "JFB/24/7/16",
+      "cites": [
+        "Jeremiah 7:16"
+      ],
+      "text": "When people are given up to judicial hardness of heart, intercessory prayer for them is unavailing (Jer 11:14; Jer 14:11; Jer 15:1; Exo 32:10; Jo1 5:16)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Jeremiah 7:17",
+      "note_ref": "JFB/24/7/17",
+      "cites": [
+        "Jeremiah 7:16"
+      ],
+      "text": "Jehovah leaves it to Jeremiah himself to decide, is there not good reason that prayers should not be heard in behalf of such rebels?"
+    },
+    {
+      "src": "JFB",
+      "ref": "Jeremiah 11:12",
+      "note_ref": "JFB/24/11/12",
+      "cites": [
+        "Jeremiah 11:14"
+      ],
+      "text": "cry unto the gods . . . not save-- (Deu 32:37-38). Compare this verse and beginning of Jer 11:13; Jer 2:28.\nin the time of their trouble--that is, calamity (Jer 2:27)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Jeremiah 11:13",
+      "note_ref": "JFB/24/11/13",
+      "cites": [
+        "Jeremiah 11:14"
+      ],
+      "text": "shameful thing--Hebrew, \"shame,\" namely, the idol, not merely shameful, but the essence of all that is shameful (Jer 3:24; Hos 9:10), which will bring shame and confusion on yourselves [CALVIN]."
+    },
+    {
+      "src": "JFB",
+      "ref": "Jeremiah 11:14",
+      "note_ref": "JFB/24/11/14",
+      "cites": [
+        "Jeremiah 11:14"
+      ],
+      "text": "There is a climax of guilt which admits of no further intercessory prayer (Exo 32:10, in the Chaldee version, \"leave off praying\"; Jer 7:16; Sa1 16:1; Sa1 15:35; Jo1 5:16). Our mind should be at one with God in all that He is doing, even in the rejection of the reprobate.\nfor their trouble--on account of their trouble. Other manuscripts read, \"in the time of their trouble\" a gloss from Jer 11:12."
+    },
+    {
+      "src": "JFB",
+      "ref": "Jeremiah 11:15",
+      "note_ref": "JFB/24/11/15",
+      "cites": [
+        "Jeremiah 11:14"
+      ],
+      "text": "my beloved--My elect people, Judea; this aggravates their ingratitude (Jer 12:7).\nlewdness with many-- (Eze 16:25). Rather, \"that great (or, manifold) enormity\"; literally, \"the enormity, the manifold\"; namely, their idolatry, which made their worship of God in the temple a mockery (compare Jer 7:10; Eze 23:39) [HENDERSON].\nholy flesh-- (Hag 2:12-14; Tit 1:15), namely, the sacrifices, which, through the guilt of the Jews, were no longer holy, that is, acceptable to God. The sacrifices on which they relied will, therefore, no longer protect them. Judah is represented as a priest's wife, who, by adultery, has forfeited her share in the flesh of the sacrifices, and yet boasts of her prerogative at the very same time [HORSLEY].\nwhen thou doest evil--literally, \"when thy evil\" (is at hand). PISCATOR translates, \"When thy calamity is at hand (according to God's threats), thou gloriest\" (against God, instead of humbling thyself). English Version is best (compare Pro 2:14)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Jeremiah 14:9",
+      "note_ref": "JFB/24/14/9",
+      "cites": [
+        "Jeremiah 14:11"
+      ],
+      "text": "astonied--like a \"mighty man,\" at other times able to help (Isa 59:1), but now stunned by a sudden calamity so as to disappoint the hopes drawn from him.\nart in the midst of us-- (Exo 29:45-46; Lev 26:11-12).\ncalled by thy name-- (Dan 9:18-19) as Thine own peculiar people (Deu 9:29)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Jeremiah 14:10",
+      "note_ref": "JFB/24/14/10",
+      "cites": [
+        "Jeremiah 14:11"
+      ],
+      "text": "Jehovah's reply to the prayer (Jer 14:7-9; Jer 2:23-25).\nThus--So greatly.\nloved-- (Jer 5:31).\nnot refrained . . . feet--They did not obey God's command; \"withhold thy foot\" (Jer 2:25), namely, from following after idols.\nremember . . . iniquity-- (Hos 8:13; Hos 9:9). Their sin is so great, God must punish them."
+    },
+    {
+      "src": "JFB",
+      "ref": "Jeremiah 14:11",
+      "note_ref": "JFB/24/14/11",
+      "cites": [
+        "Jeremiah 14:11"
+      ],
+      "text": "(Jer 7:16; Exo 32:10)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Jeremiah 14:12",
+      "note_ref": "JFB/24/14/12",
+      "cites": [
+        "Jeremiah 14:11"
+      ],
+      "text": "not hear--because their prayers are hypocritical: their hearts are still idolatrous. God never refuses to hear real prayer (Jer 7:21-22; Pro 1:28; Isa 1:15; Isa 58:3).\nsword . . . famine . . . pestilence--the three sorest judgments at once; any one of which would be enough for their ruin (Sa2 24:12-13)."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Timothy 2:2",
+      "note_ref": "JFB/54/2/2",
+      "cites": [
+        "1 Timothy 2:1"
+      ],
+      "text": "For kings--an effectual confutation of the adversaries who accused the Christians of disaffection to the ruling powers (Act 17:7; Rom 13:1-7).\nall . . . in authority--literally, \"in eminence\"; in stations of eminence. The \"quiet\" of Christians was often more dependent on subordinate rulers, than on the supreme king; hence, \"all . . . in authority\" are to be prayed for.\nthat we may lead--that we may be blessed with such good government as to lead . . . ; or rather, as Greek, \"to pass\" or \"spend.\" The prayers of Christians for the government bring down from heaven peace and order in a state.\nquiet--not troubled from without.\npeaceable--\"tranquil\"; not troubled from within [OLSHAUSEN]. \"He is peaceable (Greek) who makes no disturbance; he is quiet (Greek) who is himself free from disturbance\" [TITTMANN].\nin all godliness--\"in all (possible . . . requisite) piety\" [ALFORD]. A distinct Greek word, Ti1 2:10, expresses \"godliness.\"\nhonesty--Greek, \"gravity\" (Tit 2:2, Tit 2:7), \"decorum,\" or propriety of conduct. As \"piety\" is in relation to God, \"gravity\" is propriety of behavior among men. In the Old Testament the Jews were commanded to pray for their heathen rulers (Ezr 6:10; Jer 29:7). The Jews, by Augustus' order, offered a lamb daily for the Roman emperor, till near the destruction of Jerusalem. The Jewish Zealots, instigated by Eleazar, caused this custom to cease [JOSEPHUS, Wars of the Jews, 2.17], whence the war originated, according to JOSEPHUS."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Timothy 2:3",
+      "note_ref": "JFB/54/2/3",
+      "cites": [
+        "1 Timothy 2:1"
+      ],
+      "text": "this--praying for all men.\nin the sight of God--not merely before men, as if it were their favor that we sought (Co2 8:21).\nour Saviour--a title appropriate to the matter in hand. He who is \"our Saviour\" is willing that all should be saved (Ti1 2:4; Rom 5:18); therefore we should meet the will of God in behalf of others, by praying for the salvation of all men. More would be converted if we would pray more. He has actually saved us who believe, being \"our Saviour.\" He is willing that all should be saved, even those who do not as yet believe, if they will believe (compare Ti1 4:10; Tit 2:11)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Timothy 2:1",
+      "note_ref": "CLARKE/54/2/1",
+      "cites": [
+        "1 Timothy 2:1"
+      ],
+      "text": "I exhort - that, first of all - Prayer for the pardon of sin, and for obtaining necessary supplies of grace, and continual protection from God, with gratitude and thanksgiving for mercies already received, are duties which our sinful and dependent state renders absolutely necessary; and which should be chief in our view, and first of all performed. It is difficult to know the precise difference between the four words used here by the apostle. They are sometimes distinguished thus: -\nSupplications - Δεησεις· Prayers for averting evils of every kind.\nPrayers - Προσευχας· Prayers for obtaining the good things, spiritual and temporal, which ourselves need.\nIntercessions - Εντευξεις· Prayers in behalf of others.\nGiving of thanks - Ευχαριστιας· Praises to God, as the parent of all good, for all the blessings which we and others have received. It is probable that the apostle gives directions here for public worship; and that the words may be thus paraphrased: \"Now, I exhort first of all that, in the public assemblies, deprecations of evils, and supplications for such good things as are necessary, and intercessions for their conversion, and thanksgiving for mercies, be offered in behalf of all men - for heathens as well as for Christians, and for enemies as well as for friends.\" See Macknight."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Timothy 2:2",
+      "note_ref": "CLARKE/54/2/2",
+      "cites": [
+        "1 Timothy 2:1"
+      ],
+      "text": "For kings - As it is a positive maxim of Christianity to pray for all secular governors, so it has ever been the practice of Christians. When St. Cyprian defended himself before the Roman proconsul, he said: Hunc (Deum) deprecamur-pro nobis et pro omnibus hominibus; et pro incolumitate ipsorum Imperatorum. \"We pray to God, not only for ourselves, but for all mankind, and particularly for the emperors.\" Tertullian, in his Apology, is more particular: Oramus pro omnibus Imperatoribus, vitam illis prolixam, imperium securum, domum tutam, exercitus fortes, senatum fidelem, populum probum, orbem quietum, et quaecunque hominis et Caesaris vota sunt. Apol., cap. 30. \"We pray for all the emperors, that God may grant them long life, a secure government, a prosperous family, vigorous troops, a faithful senate, an obedient people; that the whole world may be in peace; and that God may grant, both to Caesar and to every man, the accomplishment of their just desires.\"\nSo Origen: Ευχομεθα τους βασιλεις και αρχοντας μετα της βασιλικης δυναμεως και σωφρονα τον λογισμον εχοντας εὑρεθηναι. Cont. Cels., lib. viii. \"We pray for kings and rulers, that with their royal authority they may be found possessing a wise and prudent mind.\" Indeed they prayed even for those by whom they were persecuted. If the state be not in safety, the individual cannot be secure; self-preservation, therefore, should lead men to pray for the government under which they live. Rebellions and insurrections seldom terminate even in political good; and even where the government is radically bad, revolutions themselves are most precarious and hazardous. They who wish such commotions would not be quiet under the most mild and benevolent government.\nThat we may lead a quiet and peaceable life - We thus pray for the government that the public peace may be preserved. Good rulers have power to do much good; we pray that their authority may be ever preserved and well directed. Bad rulers have power to do much evil; we pray that they may be prevented from thus using their power. So that, whether the rulers be good or bad, prayer for them is the positive duty of all Christians; and the answer to their prayers, in either ease, will be the means of their being enabled to lead a quiet and peaceable life in all godliness and honesty."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Timothy 2:3",
+      "note_ref": "CLARKE/54/2/3",
+      "cites": [
+        "1 Timothy 2:1"
+      ],
+      "text": "This is good and acceptable - Prayer for all legally constituted authorities is good in itself, because useful to ourselves and to the public at large, and it is acceptable in the sight of God our Savior; and this is its highest sanction and its highest character: it is good; it is well pleasing to God."
+    },
+    {
+      "src": "KD",
+      "ref": "Jeremiah 7:16",
+      "note_ref": "KD/24/7/16",
+      "cites": [
+        "Jeremiah 7:16"
+      ],
+      "text": "This punishment will be turned aside, neither by intercession, because the people re2fuses to give up its idolatry, nor by sacrifice, which God desires not, because for long they have turned to Him the back and not the face, and have not hearkened to His words. - Jer 7:16. \"But thou, pray not for this people, and lift not up for them cry and prayer; and urge me not, for I do not hear thee. Jer 7:17. Seest thou not what they do in the cities of Judah, and in the streets of Jerusalem? Jer 7:18. The sons gather sticks, and the fathers kindle the fire, and the women knead dough, to make cakes for the Queen of heaven, and to pour out drink-offerings unto other gods, to provoke me. Jer 7:19. Provoke they me, saith Jahveh, not themselves, to the shaming of their face? Jer 7:20. Therefore thus saith the Lord Jahveh, Behold, mine anger and my fury shall be poured out on this place, upon man, upon beast, upon the trees of the field, and upon the fruit of the ground; and shall burn, and not be quenched. Jer 7:21. Thus saith Jahveh of hosts, the God of Israel: Your burnt-offerings add to your slain-offerings, and eat flesh. Jer 7:22. For I spake not with your fathers, nor commanded them in the day that I brought them out of the land of Egypt, concerning the matters of burnt-offering or slain-offering. Jer 7:23. But this word commanded I them, saying, Hearken to my voice, and I will be your God, and ye shall be my people; and walk in the way which I command you, that it may be well with you. Jer 7:24. But they hearkened not, nor inclined their ear, and walked in the counsels, in the stubbornness of their evil heart, and turned to me the back, and not the face. Jer 7:25. Since the day that your fathers went forth of the land of Egypt until this day, I sent to you all my servants the prophets, daily from early morn sending them; Jer 7:26. But they hearkened not to me, nor inclined their ear, and were stiffnecked, and did worse than their fathers. Jer 7:27. And though thou speakest all these words unto them, yet will they not hearken unto thee; and though thou callest unto them, yet will they not answer thee. Jer 7:28. Thus speak to them: This is the people that hearken not unto the voice of Jahveh its God, and that receive not correction. Perished is faithfulness, cut off from their mouth.\"\nThe purport of Jer 7:16, that God will not suffer Himself to be moved by any entreaties to revoke the doom pronounced on the wicked people, is expressed by way of a command from God to the prophet not to pray for the people. That Jeremiah did sometimes pray thus, however, we see from Jer 14:19. (cf. Jer 18:20), when to his prayer the same answer is given as we have here, and all intercession for the corrupt race is characterized as in vain. The second clause: lift not up for them crying, i.e., supplicatory prayer, expresses the same, only more strongly; while the third clause: urge me not, cuts off all hope of success from even the most importunate intercession. The reason for this command to desist is shown in Jer 7:17, by a reference to the idolatry which was openly practised throughout the land by young and old, men and women. Each takes part according to strength and capacity: the sons gather wood together, the fathers set the fire in order, etc. The deity so zealously worshipped by the people is called the Queen of heaven, and is mentioned only by Jeremiah. Besides here, there is reference to her in Jer 44:17, where we see that her worship was very diligently cultivated, and that she was adored as the bestower of earthly possessions. (מלכת is stat. constr., either from the Chald. form מלך, or from מליכה, after the analogy of גּברת, st. constr. of גּבירה; but perhaps it has מלכת in stat. abs.) This worship was combined with that of the stars, the host of heaven, which especially prevailed under Manasseh (Kg2 21:5). Thence it may be presumed that the Queen of heaven was one of the deities who came to Western Asia with the Assyrians, and that she corresponds to the Assyrian-Persian Tanais and Artemis, who in the course of time took the place once occupied by the closely related Phoenician Astarte. She is originally a deification of the moon, the Assyrian Selene and Virgo caelestis, who, as supreme female deity, was companion to Baal-Moloch as sun-god; cf. Movers, Phnizier, i. S. 623ff. With this accords the statement of Steph. Byz., that σελήνη is also πήπανον τι τῷ ἄστρω παραπλήσιον. The offerings which, acc. to this verse and Jer 44:19, were brought to her, are called כּוּנים, a word which would appear to have come to the Hebrews along with the foreign cultus. By the lxx it was Grecized into χαυῶνας, for which we find in glossators and codd. καυῶνας and χαβῶνας. They were, acc. to the Etymol. magn. and Suidas, ἄρτοι ἐλαίῳ ἀναφυραθέντες or λάχανα ὄπτα (? cooked vegetables); acc. to Jerome, χαυῶνας, quas nos placentas interpretati sumus. In any case, they were some kind of sacrificial cakes, which Vitr. put alongside of the πόπανα of Aristophanes and Lucian; cf. the various interpretations in Schleussner, Lexic. in lxx s.v. χαυών. These cakes were kindled on the altar (cf. מקטּרים, Jer 44:19) as a kind of Minchah (meat-offering), and with this Minchah a libation or drink-offering (נסכים) was combined. הסּך corresponds to לעשׂות, so that ל has to be repeated; cf. Jer 44:19, Jer 44:25, where we find libations poured out to the Queen of heaven. In the 18th verse the expression is generalized into \"other gods,\" with reference to the fact that the service of the Queen of heaven was but one kind of idolatry along with others, since other strange gods were worshipped by sacrifices and libations. To provoke me; cf. Deu 31:29; Deu 32:16, etc."
+    },
+    {
+      "src": "KD",
+      "ref": "Jeremiah 11:1",
+      "note_ref": "KD/24/11/1",
+      "cites": [
+        "Jeremiah 11:14"
+      ],
+      "text": "Judah's Disloyalty to the Covenant, with the Consequences Thereof\nIn Jer 11:2-8 is a short summary of the covenant made with the fathers; in Jer 11:9-13 is an account of the breaking of this covenant by Judah, and of the calamity which results therefrom; and in Jer 11:14-17 further description of this calamity.\nJer 11:1-8\n\"The word which came to Jeremiah from Jahveh, saying: Jer 11:2. Hear ye the words of this covenant, and speak to the men of Judah and to the inhabitants of Jerusalem, Jer 11:3. And say thou to them: Thus hath Jahve, the God of Israel, said: Cursed is the man that heareth not the words of this covenant, Jer 11:4. Which I commanded your fathers in the day that I brought them forth out of the land of Egypt, out of the iron furnace, saying: Hearken to my voice, and do them according to all which I command you; so shall ye be my people, and I will be your God; Jer 11:5. That I may perform the oath which I have sworn unto your fathers, to give them a land flowing with milk and honey, as it is this day. And I answered and said: So be it, Jahveh. Jer 11:6. Then said Jahveh to me: Proclaim all these words in the cities of Judah and in the streets of Jerusalem, saying: Hear ye the words of this covenant and do them. Jer 11:7. For I have testified to your fathers in the day that I brought them out of the land of Egypt unto this day, testifying from early morning on: Hearken to my voice! Jer 11:8. But they hearkened not, nor inclined their ear, but walked each in the stubbornness of their evil heart; and so I brought on them all the words of this covenant which I have commanded them to do, and they have not done them.\"\nThe form of address, Jer 11:2 : hear ye (שׁמעוּ), and speak ye (דּבּרתּם), is noteworthy since we are not told who are to hear and speak; while at Jer 11:3, in ואמרתּ Jeremiah receives the commission to declare the words of the covenant to the people, and to make known in the cities of Judah, etc. (Jer 11:6). The difficulty is not removed by the plan adopted by Hitz. and Graf from the lxx, of changing ודבּרתּם into ודבּרתּם, \"and speak them;\" for the שׁמעוּ remains to be dealt with. To whom then, is it addressed? Schleussner proposed to change it into שׁמעה - a purely arbitrary change. In Jer 11:4 \"hearing\" is used in the sense of giving ear to, obeying. And in no other sense can it be taken in Jer 11:1. \"The words of this covenant\" are, as is clear from the succeeding context, the words of the covenant recorded in the Pentateuch, known from the reading of the Torah. The call to hear the words thereof can only have the meaning of: to give ear to them, take them to heart. Hence Chr. B. Mich. and Schnur. have referred the words to the Jews: Listen, ye Jews and ye citizens of Jerusalem, to the words of the covenant, and make them know to one another, and exhort one another to observe them. But this paraphrase is hardly consistent with the wording of the verse. Others fancied that the priests and elders were addressed; but if so, these must necessarily have been named. Clearly it is to the prophets in general that the words are spoken, as Kimchi observed; and we must not take \"hear ye\" as if the covenant was unknown to the prophets, but as intended to remind the prophets of them, that they might enforce them upon the people. Taken thus, this introductory verse serves to exalt the importance of the truths mentioned, to mark them out as truths which God had commanded all the prophets to proclaim. If it be the prophets in general who are addressed in Jer 11:2, the transition to \"and say thou\" is easily explained. Jeremiah, too, must himself do that which was the bounden duty of all the prophets, must make the men of Judah and Jerusalem call to mind the curse overhanging transgressors of the covenant. The words: Cursed is the man, etc., are taken from Deu 27:26, from the directions for the engagement to keep the covenant, which the people were to solemnise upon their entry into Canaan, and which, acc. to Jos 8:30., they did solemnise. The quotation is made freely from memory. Instead of \"that heareth not the words of this covenant,\" we find in Deut. l.c.: \"the confirmeth not (יקים) the words of this law to do them.\" The choice there of the word יקים is suggested by its connection with the act of solemnisation enjoined. The recitation and promulgation of the law upon Mount Gerizim and Ebal (Deut 27) had no other aim than that of solemnly binding the people to keep or follow the law; and this is what Jeremiah means by \"hearing.\" The law to be established is the law of the covenant, i.e., the covenant made by Jahveh with Israel, and spoken of in Deu 28:68 and Deu 29:8 as the \"words of this covenant.\" This covenant, which Moses had made with the sons of Israel in the land of Moab (Deu 28:68), was but a renewal of that solemnly concluded at Sinai (Ex 24). And so Jeremiah speaks of this covenant as the one which Jahveh commanded the fathers in the day, i.e., at the time, of their leaving Egypt. \"In the day that,\" etc., as in Jer 7:22. \"Out of the iron furnace:\" this metaphor for the affliction endured by Israel in Egypt is taken from Deu 4:20. The words: hearken unto my voice and do them (the words of the covenant), suggest Deu 27:1-2; and the words: so shall ye be my people, suggest Deu 29:12, a passage which itself points back to ex. Jer 6:7 (Jer 19:5.), Lev 27:12; Deu 7:6, etc. That I may establish, i.e., perform, the oath which I have sworn unto your fathers, i.e., the patriarchs Abraham, Isaac, and Jacob (Deu 7:8, etc.), promising to give them a land flowing, etc. The frequently repeated description of the promised land; cf. Exo 3:8, Exo 3:17; Deu 6:3, etc. כּיּום , as in Deu 2:30; Deu 4:20, etc., is not: at this time, now (Graf), but: as this day, meaning: as is even now the case, sc. that ye still possess this precious land. The assenting reply of the prophet: אמן יהוה, yea, or so be it (γένοιτο, lxx), Lord, corresponds to the אמן with which the people, acc. to Deu 27:15., were to take on themselves the curses attached to the breaking of the law, curses which they did take on themselves when the law was promulgated in Canaan. As the whole congregation did on that occasion, so here the prophet, by his \"yea,\" expresses his adherence to the covenant, and admits that the engagement is yet in full force for the congregation of God; and at the same time indicates that he, on his part, is ready to labour for the fulfilment of the covenant, so that the people may not become liable to the curse of the law.\nJer 11:6-8\nHaving set forth the curse to which transgressors of the law are exposed, God commands the prophet to proclaim the words of the covenant to the inhabitants of Judah and Jerusalem, and to call upon them to do these. \"All these words\" are those subsequently specified, i.e., the commandments of the law (cf. Jer 11:2). Jeremiah is to proclaim these, because, in spite of unremitting exhortation to hear and give heed to the voice of the Lord, the fathers had paid no regard thereto. קתא, not: read aloud (Hitz., Graf), but: proclaim, make known, as in Jer 2:2; Jer 3:12, etc. העיד with בּ, to testify against any one, equivalent to: solemnly to enforce on one with importunate counsel and warning; cf. Deu 30:19; Psa 50:7, etc. On השׁכּם והעד, see at Jer 7:13. - But they have not hearkened, Jer 11:8, running almost literally in the words of Jer 7:24. \"And I brought upon them,\" etc., i.e., inflicted upon them the punishments with which transgressors of the law were threatened, which curses had been, in the case of the greater part of the people, the ten tribes, carried to the extreme length, i.e., to the length of their banishment from their own land into the midst of the heathen; cf. Kg2 17:13.\nJer 11:9-13\nThe people's breach of the covenant, and the consequences of this. - Jer 11:9. \"And Jahveh said unto me: Conspiracy is found among the men of Judah and the inhabitants of Jerusalem. Jer 11:10. They are turned back to the iniquities of their forefathers, which refused to give ear to my words, and they are gone after other gods to serve them; the house of Israel and the house of Judah have broken my covenant which I made with their fathers. Jer 11:11. Behold, I bring evil upon them, from which they cannot escape; and though they cry to me, I will not hear them. Jer 11:12. And the cities of Judah and the inhabitants of Jerusalem shall go and cry unto the gods unto whom they offer incense, but they shall not help them in the time of their trouble. Jer 11:13. For as many as are thy cities, so many are thy gods become, O Judah; and as many as are the streets of Jerusalem, so many altars have ye set up to Shame, altars to offer odours to Baal.\"\nJeremiah is once more to enforce the words of the covenant upon the people, because they have broken the covenant, returned to the idolatry of the fathers. Conspiracy is found, is to be seen. The people's defection from Jahveh, their breach of faith towards the covenant God, is called conspiracy, because it had become as universal as if it had been initiated by a formal preconcertment. \"The former fathers,\" forefathers of the people, are the Israelites under Moses, who broke the covenant by idolatry while still at Sinai, and those of the time of the Judges. With והמּה the subject is changed; \"they\" are not the forefathers, but the prophet's contemporaries. In the last clause of Jer 11:10 is comprehended the apostasy of the whole people: Like Israel, Judah too has broken the covenant. Israel has been punished for this by being cast out among the heathen, the like doom awaits Judah.\nJer 11:11-13\nBecause of the covenant broken, the Lord will bring on Judah and Jerusalem evil out of which they shall not come forth, i.e., not merely, from which they shall not escape safely, but: in which they shall find no way of rescue; for it in this calamity they cry to the Lord, He will not hear them. Nor will the gods whom they serve, i.e., the false gods, help them then. As to \"as many as are,\" etc., see on Jer 2:28. \"(The) Shame,\" i.e., Baal, as at Jer 3:24.\nJer 11:14-17\nNeither entreaty on their behalf nor their hypocritical worship will avert judgment. - Jer 11:14. \"But thou, pray not for this people, neither lift up for them cry or prayer; for I hear them not in the time that they cry unto me for their trouble. Jer 11:15. What would my beloved in my house? they who practise guile? Shall vows and holy flesh remove they calamity from thee? then mayest thou exult. Jer 11:16. A green olive, fair for its goodly fruit, Jahveh called thy name; with the noise of great tumult He set fire to it, and its branches brake. Jer 11:17. And Jahveh of hosts, that planted thee, hath decreed evil against thee, for the evil of the house of Israel and of the house of Judah which they themselves have done, to provoke me, in that they have offered odours to Baal.\"\nWe have already, in Jer 7:16, met with the declaration that the Lord will not accept any intercession for the covenant-breaking people (Jer 11:14); the termination of this verse differs slightly in the turn to takes. - בּעד רעתם the ancient commentators have almost unanimously rendered: tempore mali eorum, as if they had read בּעת (this is, in fact, the reading of some codd.); but hardly on sufficient grounds. בּעד gives a suitable sense, with the force of the Greek ἀμφί, which, like the German um, passes into the sense of wegen, as the English about passes into that of concerning. - In Jer 11:15-17 we have the reason why the Lord will hear neither the prophet's supplication nor the people's cry in their time of need. Jer 11:15 is very obscure; and from the Masoretic text it is hardly possible to obtain a suitable sense. \"The beloved\" of Jahveh is Judah, the covenant people; cf. Deu 33:12, where Benjamin is so called, and Jer 12:7, where the Lord calls His people ידידוּת נפשׁי. \"What is to my beloved in my house?\" i.e., what has my people to do in my house - what does it want there? \"My house\" is the temple of the Lord in Jerusalem, as appears from the mention of holy flesh in the second clause. The main difficulty lies in the words עשׂותהּ המזמּתה הרבּים. Hitz. takes עשׂותהּ to be the subject of the clause, and makes the suffix point back to ידידי, which, as collective, is to be construed generis faem.: what should the accomplishment of his plans be to my beloved in my house? But as adverse to this we must note, a. the improbability of ידיד as used of the people being feminine; b. the fact that even if we adopt Hitz.'s change of המזמּתה into המזמּות, yet the latter word does not mean plans or designs to bring offerings. The phrase is clearly to be taken by itself as a continuation of the question; and the suffix to be regarded, with Ew., Umbr., etc., as pointing, in the Aramaic fashion, to the object following: they who practise guile. מזמּה, a thinking out, devising, usually of hurtful schemes, here guile, as in Psa 139:20; Job 21:27. What is meant is the hypocrisy of cloaking their apostasy from God by offering sacrifices in the temple, of concealing their idolatry and passing themselves off as worshippers of Jahve. On the form מזמּתה, see Ew. 173, g, Gesen. 80, Rem. 2,f. הרבּים makes no sense. It belongs manifestly to the words which follow; for it can neither be subject to עשׂותהּ, nor can it be joined to המזמּתה as its genitive. The lxx render: μὴ εὐχαὶ καὶ κρέα ἅγια ἀφελοῦσιν ἀπὸ σοῦ τὰς κακίας σου; and following this, Dathe, Dahl., Ew., Hitz. hold הנדרים to be the original reading. On the other hand, Maur., Graf, and Ng. think we should read הרנּים (after Psa 32:7) or הרנּים myinirah, crying, loud supplication; on the ground of Buxtorf's hint, Anticrit. p. 661, that probably the Alexandrians had הרבּים in their text, but, changing the ב for נ, read הרנים. We must make our choice between these two conjectures; for even if הרבּים did not stand in the codex used by the Alexandrians, it cannot have been the original word. The form רנּים is, indeed, sufficiently attested by רנּי פלט, Psa 32:7; but the meaning of exultation which it has there is here wholly out of place. And we find no case of a plural to רנּה, which means both exultation and piteous, beseeching cry (e.g., Jer 7:16). So that, although רנּה is in the lxx occasionally rendered by δέησις (Jer 11:14; Jer 14:12, etc.) or προσευχή (Kg1 8:28), we prefer the conjecture הנדרים; for \"vow\" is in better keeping with \"holy flesh,\" i.e., flesh of sacrifice, Hag 2:12, since the vow was generally carried out by offering sacrifice. - Nor do the following words, 'יעברוּ מעליך וגו, convey any meaning, without some alteration. As quoted above, they may be translated: shall pass away from thee. But this can mean neither: they shall be torn from thee, nor: they shall disappoint thee. And even if this force did lie in the words, no statement can begin with the following כּי רעתכי gniwollo. If this be a protasis, the verb is wanting. We shall have to change it, after the manner of the lxx, to יעברוּ מעליכי רעתכי: shall vows and holy flesh (sacrifice) avert thine evil from thee? For the form יעברוּ as Hiph. cf. ידרכוּ, Jer 9:2. \"Thine evil\" with the double force: thy sin and shame, and the disaster impending, i.e., sin and (judicial) suffering. There is no occasion for any further changes. אז, rendered ἤ by the lxx, and so read או by them, may be completely vindicated: then, i.e., if this were the case, if thou couldst avert calamity by sacrifice, then mightest thou exult. Thus we obtain the following as the sense of the whole verse: What mean my people in my temple with their hypocritical sacrifices? Can vows and offerings, presented by you there, avert calamity from you? If it could be so, well might you shout for joy.\nJer 11:16-17\nThis idea is carried on in Jer 11:16, Jer 11:17. Judah (Israel) was truly a noble planting of God's, but by defection from the Lord, its God and Creator, it has drawn down on itself this ruin. Jahveh called Judah a green olive with splendid fruit. For a comparison of Israel to an olive, cf. Hos 14:7, Ps. 52:10; Psa 128:3. The fruit of the tree is the nation in its individual members. The naming of the name is the representation of the state of the case, and so here: the growth and prosperity of the people. The contrasted state is introduced by לקול ה' without adversative particle, and is thus made to seem the more abrupt and violent (Hitz.). Noise of tumult (המלּה, occurring besides here only in Eze 1:24 as equivalent to המון), i.e., of the tumult of war, cf. Isa 13:4; not: roar of the thunderstorm or crash of thunder (Ng., Graf). עליה for בּהּ (OT:871a), cf. Jer 17:27; Jer 21:14, etc. The suffix is regulated by the thing represented by the olive, i.e., Judah as a kingdom. Its branches brake; רעע, elsewhere only transitive, here intransitive, analogously to רצץ in Isa 42:4. Hitz. renders less suitably: its branches look bad, as being charred, robbed of their gay adornment. On this head cf. Eze 31:12. The setting of fire to the olive tree Israel came about through its enemies, who broke up one part of the kingdom after the other, who had already destroyed the kingdom of the ten tribes, and were now about to destroy Judah next. That the words apply not to Judah only, but to Israel as well, appears from Jer 11:17, where the Lord, who has planted Israel, is said to have spoken, i.e., decreed evil for the sin of the two houses, Israel and Judah. דּבּר is not directly = decree, but intimates also the utterance of the decree by the prophet. להם after עשׂוּ is dat. incomm.: the evil which they have done to their hurt; cf. Jer 44:3, where the dative is wanting. Hitz. finds in להם an intimation of voluntary action, as throwing back the deed upon the subject as an act of free choice; cf. Ew. 315, a.",
+      "anchor": true
+    },
+    {
+      "src": "KD",
+      "ref": "Jeremiah 14:9",
+      "note_ref": "KD/24/14/9",
+      "cites": [
+        "Jeremiah 14:11"
+      ],
+      "text": "The pleader makes further appeal to God's almighty power. It is impossible that Jahveh can let Himself look like a man at his wit's end or a nerveless warrior, as He would seem to be if He should not give help to His people in their present need. Since the time of A. Schultens the ἁπ. λεγ. נדהם is rendered, after the Arab. dahama, to make an unforeseen attack, by stupefactus, attonitus, one who, by reason of a sudden mischance, has lost his presence of mind and is helpless. This is in keeping with the next comparison, that with a warrior who has no strength to help. The passage closes with an appeal to the relation of grace which Jahveh sustains towards His people. ואתּה comes in adversatively: yet art Thou in our midst, i.e., present to Thy people. Thy name is named upon us, i.e., Thou hast revealed Thyself to us in Thy being as God of salvation; see on Jer 7:10. אל־תּנּחנוּ, lit., lay us not down, i.e., let us not sink."
+    },
+    {
+      "src": "KD",
+      "ref": "Jeremiah 14:10",
+      "note_ref": "KD/24/14/10",
+      "cites": [
+        "Jeremiah 14:11"
+      ],
+      "text": "The Lord's answer. - Jer 14:10. \"Thus saith Jahveh unto this people: Thus they loved to wander, their feet they kept not back; and Jahveh hath no pleasure in them, now will He remember their iniquities and visit their sins. Jer 14:11. And Jahveh hath said unto me: Pray not for this people for their good. Jer 14:12. When they fast, I hear not their cry; and when they bring burnt-offering and meat-offering, I have no pleasure in them; but by sword, and famine, and pestilence will I consume them. Jer 14:13. Then said I: Ah Lord Jahveh, behold, the prophets say to them, Ye shall see no sword, and famine shall not befall you, but assured peace give I in this place. Jer 14:14. And Jahveh said unto me: Lies do the prophets prophesy in my name: I have not sent them, nor commanded them, nor spoken to them; lying vision, and divination, and a thing of nought, and deceit of their heart they prophesy to you. Jer 14:15. Therefore thus saith Jahveh concerning the prophets that prophesy in my name, when I have not sent them, who yet say, Sword and famine shall not be in this land: By sword and famine shall these prophets perish. Jer 14:16. And the people to whom they prophesy shall lie cast out upon the streets of Jerusalem, by reason of the famine and of the sword, and none will bury them, them and their wives, their sons and their daughters; and I pour their wickedness upon them. Jer 14:17. And thou shalt say to them this word: Let mine eyes run down with tears day and night and let them not cease; for with a great breach is broken the virgin-daughter of my people, with a very grievous blow. Jer 14:18. If I go forth into the field, behold the slain with the sword; and if I come into the city, behold them that pine with famine; for prophet and priest pass into a land and know it not.\"\nTo the prophet's prayer the Lord answers in the first place, Jer 14:10, by pointing to the backsliding of the people, for which He is now punishing them. In the \"thus they love,\" etc., lies a backward reference to what precedes. The reference is certainly not to the vain going for water (Jer 14:3), as Chr. B. Mich. and R. Salomo Haccohen thought it was; nor is it to the description of the animals afflicted by thirst, Jer 14:5 and Jer 14:6, in which Ng. finds a description of the passionate, unbridled lust after idolatry, the real and final cause of the ruin that has befallen Israel. Where could be the likeness between the wild ass's panting for breath and the wandering of the Jews? That to which the \"thus\" refers must be sought for in the body of the prayer to which Jahveh makes answer, as Ros. rightly saw. Not by any means in the fact that in Jer 14:9 the Jews prided themselves on being the people of God and yet went after false gods, so that God answered: ita amant vacillare, as good as to say: ita instabiles illos esse, ut nunc ab ipso, nunc ab aliis auxilium quaerant (Ros.); for נוּע cannot here mean the waving and swaying of reeds, but only the wandering after other gods, cf. Jer 2:23, Jer 2:31. This is shown by the addition: they kept not back their feet, cf. with Jer 2:25, where in the same reference the withholding of the feet is enjoined. Graf is right in referring huts to the preceding prayer: \"Thus, in the same degree as Jahveh has estranged Himself from His people (cf. Jer 14:8 and Jer 14:9), have they estranged themselves from their God.\" They loved to wander after strange gods, and so have brought on themselves God's displeasure. Therefore punishment comes on them. The second clause of the verse is a reminiscence of Hos 8:13. - After mentioning the reason why He punishes Judah, the Lord in Jer 14:11. rejects the prayer of the prophet, because He will not hear the people's cry to Him. Neither by means of fasts nor sacrifice will they secure God's pleasure. The prophet's prayer implies that the people will humble themselves and turn to the Lord. Hence God explains His rejection of the prayer by saying that He will give no heed to the people's fasting and sacrifices. The reason of this appears from the context - namely, because they turn to Him only in their need, while their heart still cleaves to the idols, so that their prayers are but lip-service, and their sacrifices a soulless formality. The suffix in רצם refers not to the sacrifices, but, like that in רנּתם, to the Jews who, by bringing sacrifices, seek to win God's love. כּי, but, introducing the antithesis to \"have no pleasure in them.\" The sword in battle, famine, and pestilence, at the siege of the cities, are the three means by which God designs to destroy the backsliding people; cf. Lev 26:25.\nIn spite of the rejection of his prayer, the prophet endeavours yet again to entreat God's favour for the people, laying stress, Jer 14:13, on the fact that they had been deceived and confirmed in their infatuation by the delusive forecastings of the false prophets who promised peace. Peace of truth, i.e., peace that rests on God's faithfulness, and so: assured peace will I give you. Thus spoke these prophets in the name of Jahveh; cf. on this Jer 4:10; Jer 5:12. Hitz. and Graf propose to change שׁלום אמת into שׁלום ואמת, acc. to Jer 33:6 and Isa 39:8, because the lxx have ἀλήθειαν καὶ εἰρήνην. But none of the passages cited furnishes sufficient ground for this. In Jer 33:6 the lxx have rendered εἰρήνην καὶ πίστιν, in Isa 39:8, εἰρήνη καὶ δικαιοσύνη; giving thereby a clear proof that we cannot draw from their rendering any certain inferences as to the precise words of the original text. Nor do the parallels prove anything, since in them the expression often varies in detail. But there can be no doubt that in the mouth of the pseudo-prophets \"assured peace\" is more natural than \"peace and truth.\" But the Lord does not allow this excuse. He has not sent the prophets that so prophesy: they prophesy lying vision, divination, falsehood, and deceit, and shall themselves be destroyed by sword and famine. The cumulation of the words, \"lying vision,\" etc., shows God's wrath and indignation at the wicked practices of these men. Graf wants to delete ו before אליל, and to couple אליל with קסם, so as to make one idea: prophecy of nought. For this he can allege none other than the erroneous reason that קסם, taken by itself, does not sufficiently correspond to \"lying vision,\" inasmuch as, he says, it has not always a bad sense attached to it; whereas the fact is that it is nowhere used for genuine prophecy. The Chet. אלוּל and תּרמוּת are unusual formations, for which the usual forms are substituted in the Keri. Deceit of their heart is not self-deceit, but deceit which their heart has devised; cf. Jer 23:26. But the people to whom these prophets prophesied are to perish by sword and famine, and to lie unburied in the streets of Jerusalem; cf. Jer 8:2; Jer 16:4. They are not therefore held excused because false prophets told them lies, for they have given credit to these lies, lies that flattered their sinful passions, and have not been willing to hear or take to heart the word of the true prophets, who preached repentance and return to God.\n(Note: The Berleburg Bible says: \"They wish to have such teachers, and even to bring it about that there shall be so many deceiving workers, because they can hardly even endure or listen to the upright ones. That is the reason why it is to go no better with them than we see it is.\" Calvin too has suggested the doubt: posset tamen videri parum humaniter agere Deus, quod tam duras paenas infligit miseris hominibus, qui aliunde decepti sunt, and has then given the true solution: certum est, nisi ultro mundus appeteret mendacia, non tantam fore efficaciam diaboli ad fallendum. Quod igitur ita rapiuntur homines ad imposturas, hoc fit eorum culpa, quoniam magis propensi sunt ad vanitatem, quam ut se Deo et verbo ejus subjiciant.)\nTo Hitz. it seems surprising that, in describing the punishment which is to fall on seducers and seduced, there should not be severer judgment, in words at least, levelled against the seducers as being those involved in the deeper guilt; whereas the very contrary is the case in the Hebrew text. Hitz. further proposes to get rid of this discrepancy by conjectures founded on the lxx, yet without clearly informing us how we are to read. But the difficulty solves itself as soon as we pay attention to the connection. The portion of the discourse before us deals with the judgment which is to burst on the godless people, in the course of which those who had seduced the people are only casually mentioned. For the purpose in hand, it was sufficient to say briefly of the seducers that they too should perish by sword and famine who affirmed that these punishments should not befall the people, whereas it was necessary to set before the people the terrors of this judgment in all their horror, in order not to fail of effect. With the reckoning of the various classes of persons: they, their wives, etc., cf. the account of their participation in idolatry, Jer 7:18. Hitz. rightly paraphrases ושׁפכתּי: and in this wise will I pour out. רעתם, not: the calamity destined for them, but: their wickedness which falls on them with its consequences, cf. Jer 2:19, Hos 9:15, for propheta videtur causam reddere, cur Deus horribile illud judicium exequi statuerit contra Judaeos, nempe quoniam digni erant tali mercede (Calv.)."
+    },
+    {
+      "src": "MHC",
+      "ref": "Jeremiah 7:16",
+      "note_ref": "MHC/24/7/16",
+      "cites": [
+        "Jeremiah 7:16"
+      ],
+      "text": "God had shown them, in the foregoing verses, that the temple and the service of it, of which they boasted and in which they trusted, should not avail to prevent the judgment threatened. But there was another thing which might stand them in some stead, and which yet they had no value for, and that was the prophet's intercession for them; his prayers would do them more good than their own pleas: now here that support is taken from them; and their case is said indeed who have lost their interest in the prayers of God's ministers and people.\nI. God here forbids the prophet to pray for them (Jer 7:16): \"The decree has gone forth, their ruin is resolved on, therefore pray not thou for this people, that is, pray not for the preventing of this judgment threatened; they have sinned unto death, and therefore pray not for their life, but for the life of their souls,\" Jo1 5:16. See here, 1. That God's prophets are praying men; Jeremiah foretold the destruction of Judah and Jerusalem, and yet prayed for their preservation, not knowing that the decree was absolute; and it is the will of God that we pray for the peace of Jerusalem. Even when we threaten sinners with damnation we must pray for their salvation, that they may turn and live. Jeremiah was hated, and persecuted, and reproached, by the children of his people, and yet he prayed for them; for it becomes us to render good for evil. 2. That God's praying prophets have a great interest in heaven, how little soever they have on earth. When God has determined to destroy this people, he bespeaks the prophet not to pray for them, because he would not have his prayers to lie (as prophets' prayers seldom did) unanswered. God said to Moses, Let me alone, Exo 22:10. 3. It is an ill omen to a people when God restrains the spirits of his ministers and people from praying for them, and gives them to see their case so desperate that they have no heart to speak a good word for them. 4. Those that will not regard good ministers' preaching cannot expect any benefit by their praying. If you will not hear us when we speak from God to you, God will not hear us when we speak to him for you.\nII. He gives him a reason for this prohibition. Praying breath is too precious a thing to be lost and thrown away upon a people hardened in sin and marked for ruin.\n1. They are resolved to persist in their rebellion against God, and will not be turned back by the prophet's preaching. For this he appeals to the prophet himself, and his own inspection and observation (Jer 7:17): Seest thou not what they do openly and publicly, without either shame or fear, in the cities of Judah and in the streets of Jerusalem? This intimates both that the sin was evident and could not be denied and that the sinners were impudent and would not be reclaimed; they committed their wickedness even in the prophet's presence and under his eye; he saw what they did, and yet they did it, which was an affront to his office, and to him whose officer he was, and bade defiance to both. Now observe,\n(1.) What the sin is with which they are here charged - it is idolatry, Jer 7:18. Their idolatrous respects are paid to the queen of heaven, the moon, either in an image or in the original, or both. They worshipped it probably under the name of Ashtaroth, or some other of their goddesses, being in love with the brightness in which they saw the moon walk, and thinking themselves indebted to her for her benign influences or fearing her malignant ones, Job 31:26. The worshipping of the moon was much in use among the heathen nations, Jer 44:17, Jer 44:19. Some read it the frame or workmanship of heaven. The whole celestial globe with all its ornaments and powers was the object of their adoration. They worshipped the host of heaven, Act 7:42. The homage they should have paid to their Prince they paid to the statues that beautified the frontispiece of his palace; they worshipped the creatures instead of him that made them, the servants instead of him that commands them, and the gifts instead of him that gave them. With the queen of heaven they worshipped other gods, images of things not only in heaven above, but in earth beneath, and in the waters under the earth; for those that forsake the true God wander endlessly after false ones. To these deities of their own making they offer cakes for meat-offerings, and pour out drink-offerings, as if they had their meat and drink from them and were obliged to make to them their acknowledgments: and see how busy they are, and how every hand is employed in the service of these idols, according as they used to be employed in their domestic services. The children were sent to gather wood; the fathers kindled the fire to heat the oven, being of the poorer sort that could not afford to keep servants to do it, yet they would rather do it themselves than it should be undone; the women kneaded the dough with their own hands, for perhaps, though they had servants to do it, they took a pride in showing their zeal for their idols by doing it themselves. Let us be instructed, even by this bad example, in the service of our God. [1.] Let us honour him with our substance, as those that have our subsistence from him, and eat and drink to the glory of him from whom we have our meat and drink. [2.] Let us not decline the hardest services, nor disdain to stoop to the meanest, by which God may be honoured; for none shall kindle a fire on God's altar for nought. Let us think it an honour to be employed in any work for God. [3.] Let us bring up our children in the acts of devotion; let them, as they are capable, be employed in doing something towards the keeping up of religious exercises.\n(2.) What is the direct tendency of this sin: \"It is that they may provoke me to anger; they cannot design any thing else in it. But (Jer 7:19) do they provoke me to anger? Is it because I am hard to be pleased, or easily provoked? Or am I to bear the blame of the resentment? No; it is their own doing; they may thank themselves, and they alone shall bear it.\" Is it against God that they provoke him to wrath? Is he the worse for it? Does it do him any real damage? No; is it not against themselves, to the confusion of their own faces? It is malice against God, but it is impotent malice; it cannot hurt him: nay, it is foolish malice; it will hurt themselves. They show their spite against God, but they do the spite to themselves. Canst thou think any other than that a people, thus desperately set upon their own ruin, should be abandoned?\n2. God is resolved to proceed in his judgments against them, and will not be turned back by the prophet's prayers (Jer 7:20): Thus saith the Lord God, and what he saith he will not unsay, nor can all the world gainsay it; hear it therefore, and tremble. \"Behold, my anger and my fury shall be poured out upon this place, as the flood of waters was upon the old world or the shower of fire and brimstone upon Sodom; since they will anger me, let them see what will come of it.\" They shall soon find, (1.) That there is no escaping this deluge of fire, either by flying from it or fencing against it; it shall be poured out on this place, though it be a holy place, the Lord's house. It shall reach both man and beast, like the plagues of Egypt, and, like some of them, shall destroy the trees of the field and the fruit of the ground, which they had designed and prepared for Baal, and of which they had made cakes to the queen of heaven. (2.) There is no extinguishing it: It shall burn and shall not be quenched; prayers and tears shall then avail nothing. When his wrath is kindled but a little, much more when it is kindled to such a degree, there shall be no quenching it. God's wrath is that fire unquenchable which eternity itself will not see the period of. Depart, you cursed, into everlasting fire."
+    },
+    {
+      "src": "MHC",
+      "ref": "Jeremiah 11:11",
+      "note_ref": "MHC/24/11/11",
+      "cites": [
+        "Jeremiah 11:14"
+      ],
+      "text": "This paragraph, which contains so much of God's wrath, might very well be expected to follow upon that which goes next before, which contained so much of his people's sin. When God found so much evil among them we cannot think it strange if it follows, Therefore I will bring evil upon them (Jer 11:11), the evil of punishment for the evil of sin; and there is no remedy, no relief: the decree has gone forth and the sentence will be executed.\nI. They cannot help themselves, but will be found too weak to contest with God's judgments: it is evil which they shall not be able to escape, or to go forth out of, by any evasion whatsoever. Note, Those that will not submit to God's government shall not be able to escape his wrath. There is no fleeing from his justice, no avoiding his cognizance. Evil pursues sinners and entangles them in snares out of which they cannot extricate themselves.\nII. Their God will not help them; his providence shall no way favour them: Though they shall cry unto me, I will not hearken to them. In their affliction they will seek the God whom before they slighted, and cry to him whom before they would not vouchsafe to speak to. But how can they expect to speed? For he has plainly told us that he that turns away his ears from hearing the law, as they did, for they inclined not their ear (Jer 11:8), even his prayer shall be an abomination to him, as the word of the Lord was now to them a reproach.\nIII. Their idols shall not help them, Jer 11:12. They shall go, and cry to the gods to whom they now offer incense, and put them in mind of the costly services wherewith they had honoured them, expecting they should now have relief from them, but in vain. They shall be sent to the gods whom they served (Jdg 10:14; Deu 32:37, Deu 32:38), and what the better? They shall not save them at all, shall do nothing towards their salvation, nor give them any prospect of it; they shall not afford them the least comfort, nor relief, nor mitigation of their trouble. It is God only that is a friend at need, a present powerful help in time of trouble. The idols cannot help themselves; how then should they help their worshippers? Those that make idols of the world and the flesh will in vain have recourse to them in a day of distress. If the idols could have done any real kindness to their worshippers, they would have done it for this people, who had renounced the true God to embrace them, had multiplied them according to the number of their cities (Jer 11:13), nay, in Jerusalem, according to the number of their streets. Suspecting both their sufficiency and their readiness to help them, they must have many, lest a few would not serve; they must have them dispersed in every corner, lest they should be out of the way when they had occasion for them. In Jerusalem, the city which God had chosen to put his name there, publicly in the streets of Jerusalem, in every street, they had altars to that shameful thing, that shame, even to Baal, which they ought to have been ashamed of, with which they did reproach the Lord and bring confusion upon themselves. But now in their distress their many gods, and many altars, should stand them in stead. Note, Those that will not be ashamed of their commission of sin as a wicked thing will be ashamed of their expectations from sin as a fruitless thing.\nIV. Jeremiah's prayers shall not help them, Jer 11:14. What God had said to him before (Jer 7:16) he here says again, Pray not thou for this people. This is not designed for a command to the prophet, so much as for a threatening to the people, that they should have no benefit by the prayers of their friends for them. God would give no encouragement to the prophets to pray for them, would not stir up the spirit of prayer, but cast a damp upon it, would put it into their hearts to pray, not for the body of the people, but for the remnant among them, to pray for their eternal salvation, not for their deliverance from the temporal judgments that were coming upon them; and what other prayers were put up for them should not be heard. Those are in a sad case indeed that are cut off from the benefit of prayer. \"I will not hear them when they cry, and therefore to not thou pray for them.\" Note, Those that have so far thrown themselves out of God's favour that he will not hear their prayers cannot expect benefit by the prayers of others for them.\nV. The profession they make of religion shall stand them in no stead, Jer 11:15. They were originally God's beloved, his spouse, he was married to them by the covenant of peculiarity; even the unbelieving Jews are said to be beloved for the fathers' sake, Rom 11:28. As such they had a place in God's house; they were admitted to worship in the courts of his temple; they partook of God's altar; they ate of the flesh of their peace-offerings here called the holy flesh, which God had the honour of and they had the comfort of. This they gloried in, and trusted to. What harm could come to those who were God's beloved, who were under the protection of his house? Even when they did evil yet they rejoiced and gloried in this, made a mighty noise of this. And when their evil was (so the margin reads it), when trouble came upon them, they rejoiced in this, and made this their confidence; but their confidence would deceive them, for God has rejected it, they themselves having forfeited the privileges they so much boasted of. They have wrought lewdness with many, have been guilty of spiritual whoredom, have worshipped many idols; and therefore, 1. God's temple will yield them no protection; it is fit that the adulteress, especially when she has so often repeated her whoredoms and has grown so impudent in them and irreclaimable, should be put away, and turned out of doors: \"What has my beloved to do in my house? She is a scandal to it, and therefore it shall no longer be a shelter to her.\" 2. God's altar will yield them no satisfaction, nor can they expect any comfort from that: \"The holy flesh has passed from thee, that is, an end will soon be put to thy sacrifices, when the temple shall be laid in ruins; and where then will the holy flesh be, that thou art so proud of?\" A holy heart will be a comfort to us when the holy flesh has passed from us; an inward principle of grace will make up the want of the outward means of grace. But woe unto us if the departure of the holy flesh be accompanied with the departure of the Holy Spirit.\nVI. God's former favours to them shall stand them in no stead, Jer 11:16, Jer 11:17. Their remembrance of them shall be no comfort to them under their troubles, and God's remembrance of them shall be no argument for their relief. 1. It is true God had done great things for them; that people had been favourites above any people under the sun; they had been the darlings of heaven. God had called Israel's name a green olive-tree, and had made them so, for he miscalls nothing; he had planted them (Jer 11:17), had formed them into a people, with all the advantages they could have to make them a fruitful and flourishing people, so good was their law and so good was their land. One would think no other than that a people so planted, so watered, so cultivated, should be, as the olive-tree is, ever green, in respect both of piety and prosperity, Psa 52:8. God called them fair and of goodly fruit, both good for food and pleasant to the eye, both amiable and serviceable to God and man, for which the greenness and fatness of the olive both are honoured, Jdg 9:9. 2. It is as true that they have done evil things against God. He had planted them a green olive, a good olive, but they had degenerated into a wild olive, Rom 11:17. Both the house of Israel. and the house of Judah had done evil, had provoked God to anger in burning incense unto Baal, setting up other mediators between them and the supreme God besides the promised Messiah; nay, setting up other gods in competition with the true and living God, for they had gods many, as well as lords many. 3. When they have conducted themselves so ill they can expect no other than that, notwithstanding what good he has done to them and designed for them, he should now bring upon them the evil he has pronounced against them. He that planted this green olive-tree, and expected fruit from it, finding it barren and grown wild, has kindled fire upon it, to burn it as it stands; for, being without fruit, it is twice dead, plucked up by the roots (Jde 1:12), it is cut down and cast into the fire, the fittest place for trees that cumber the ground, Mat 3:10. The branches of it, the high and lofty boughs (so the word signifies), are broken are broken down, both princes and priests cut off. And thus it proves that the evil done against God, to provoke him to anger, is really done against themselves; they wrong their own souls; God is out of their reach, but they ruin themselves. See Jer 7:19. Note, Every sin against God is a sin against ourselves, and so it will be found sooner or later.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Jeremiah 14:10",
+      "note_ref": "MHC/24/14/10",
+      "cites": [
+        "Jeremiah 14:11"
+      ],
+      "text": "The dispute between God and his prophet, in this chapter, seems to be like that between the owner and the dresser of the vineyard concerning the barren fig-tree, Luk 13:7. The justice of the owner condemns it to be cut down; the clemency of the dresser intercedes for a reprieve. Jeremiah had been earnest with God, in prayer, to return in mercy to this people. Now here,\nI. God overrules the plea which he had offered in their favour, and shows him that it would not hold. In answer to it thus he says concerning this people, Jer 14:10. He does not say, concerning my people, for he disowns them, because they had broken covenant with him. It is true they were called by his name, and had the tokens of his presence among them; but they had sinned, and provoked God to withdraw. This the prophet had owned, and had hoped to obtain mercy for them, notwithstanding this, through intercession and sacrifice; therefore God here tells him, 1. That they were not duly qualified for a pardon. The prophet had owned that their backslidings were many; and, though they were so, yet there was hope for them if they returned. But this people show no disposition at all to return; they have wandered, and they have loved to wander; their backslidings have been their choice and their pleasure, which should have been their shame and pain, and therefore they will be their ruin. They cannot expect God should take up his rest with them when they take such delight in going astray from him after their idols. It is not through necessity or inadvertency that they wander, but they love to wander. Sinners are wanderers from God; their wanderings forfeit God's favour, but it is their loving to wander that quite cuts them off from it. They were told what their wanderings would come to that one sin would hurry them on to another, and all to ruin; and yet they have not taken warning and refrained their feet. So far were they from returning to their God that neither his prophets nor his judgments could prevail upon them to give themselves the least check in a sinful pursuit. This is that for which God is now reckoning with them. When he denies them rain from heaven he is remembering their iniquity and visiting their sin; that is it for which their fruitful land is thus turned into barrenness. 2. That they had no reason to expect that the God they had rejected should accept them; no, not though they betook themselves to fasting and prayer and put themselves to the expense of burnt-offerings and sacrifice: The Lord doth not accept them, Jer 14:10. He takes no pleasure in them (so the word is); for what pleasure can the holy God take in those that take pleasure in his rivals, in any service, in any society, rather than his? \"When they fast (Jer 14:12), which is a proper expression of repentance and reformation, - when they offer a burnt offering and an oblation, which was designed to be an expression of faith in a Mediator, - though their prayers be thus enforced, and offered up in those vehicles that used to be acceptable, yet, because they do not proceed from humble, penitent, and renewed hearts, but still they love to wander, therefore I will not hear their cry, be it ever so loud; nor will I accept them, neither their persons nor their performances.\" It had been long since declared, The sacrifice of the wicked is an abomination to the Lord; and those only are accepted that do well, Gen 4:7. 3. That they had forfeited all benefit by the prophet's prayers for them because they had not regarded his preaching to them. This is the meaning of that repeated prohibition given to the prophet (Jer 14:11): Pray not thou for this people for their good, as before, Jer 7:15; Jer 11:14. This did not forbid him thus to express his good-will to them (Moses continued to intercede for Israel after God had said, Let me alone, Exo 32:10), but it forbade them to expect any good effect from it as long as they turned away their ear from hearing the law. Thus was the doom of the impenitent ratified, as that of Saul's rejection was by that word to Samuel, When wilt thou cease to mourn for Saul? It therefore follows (Jer 14:12), I will consume them, not only by this famine, but by the further sore judgments of sword and pestilence; for God has many arrows in his quiver, and those that will not be convinced and reclaimed by one shall be consumed by another.\nII. The prophet offers another plea in excuse for the people's obstinacy, and it is but an excuse, but he was willing to say whatever their case would bear; it is this, That the prophets, who pretended a commission from heaven, imposed upon them, and flattered them with assurances of peace though they went on in their sinful way, Jer 14:13. He speaks of it with lamentation: \"Ah! Lord God, the poor people seem willing to take notice of what comes in thy name, and there are those who in thy name tell them that they shall not see the sword nor famine; and they say it as from thee, with all the gravity and confidence of prophets: I will continue you in this place, and will give you assured peace here, peace of truth. I tell them the contrary; but I am one against many, and every one is apt to credit that which makes for them; therefore, Lord, pity and spare them, for their leaders cause them to err.\" This excuse would have been of some weight if they had not had warning given them, before, of false prophets, and rules by which to distinguish them; so that if they were deceived it was entirely their own fault. But this teaches us, as far as we can with truth, to make the best of bad, and judge as charitably of others as their case will bear.\nIII. God not only overrules this plea, but condemns both the blind leaders and the blind followers to fall together into the ditch. 1. God disowns the flatteries (Jer 14:14): They prophesy lies in my name. They had no commission from God to prophesy at all: I neither sent them, nor commanded them, nor spoke unto them. They never were employed to go on any errand at all from God; he never made himself known to them, much less by them to the people; never any word of the Lord came to them, no call, no warrant, no instruction, much less did he send them on this errand, to rock them asleep in security. No; men may flatter themselves, and Satan may flatter them, but God never does. It is a false vision, and a thing of nought. Note, What is false and groundless in vain and worthless. The vision that is not true, be it ever so pleasing, is good for nothing; it is the deceit of their heart, a spider's web spun out of their own bowels, and in it they think to shelter themselves, but it will be swept away in a moment and prove a great cheat. Those that oppose their own thoughts of God's word (God indeed says so, but they think otherwise) walk in the deceit of their heart, and it will be their ruin. 2. He passes sentence upon the flatterers, Jer 14:15. As for the prophets, who put this abuse upon the people by telling them they shall have peace, and this affront upon God by telling them so in God's name, let them know that they shall have no peace themselves. They shall fall first by those very judgments which they have flattered others with the hopes of an exemption from. They undertook to warrant people that sword and famine should not be in the land; but it shall soon appear how little their warrants are good for, when they themselves shall be cut off by sword and famine. How should they secure others or foretel peace to them when they cannot secure themselves, nor have such a foresight of their own calamities as to get out of the way of them? Note, The sorest punishment await those who promise sinners impunity in their sinful ways. 3. He lays the flattered under the same doom: The people to whom they prophesy lies, and who willingly suffer themselves to be thus imposed upon, shall die by sword and famine, Jer 14:16. Note, The unbelief of the deceived, with all the falsehood of the deceivers, shall not make the divine threatenings of no effect; sword and famine will come, whatever they say to the contrary; and those will be least safe that are most secure. Impenitent sinners will not escape the damnation of hell by saying that they can never believe there is such a thing, but will feel what they will not fear. It is threatened that this people shall not only fall by sword and famine, but that they shall be as it were hanged up in chains, as monuments of that divine justice which they set at defiance; their bodies shall be cast out, even in the streets of Jerusalem, which of all places, one would think, should be kept clear from such nuisances: there they shall lie unburied; their nearest relations, who should do them that last office of love, being so poor that they cannot afford it, or so weakened with hunger that they are not able to attend it, or so overwhelmed with grief that they have no heart to it, or so destitute of natural affection that they will not pay them so much respect. Thus will God pour their wickedness upon them, that is, the punishment of their wickedness; the full vials of God's wrath shall be poured upon them, to which they have made themselves obnoxious. Note, When sinners are overwhelmed with trouble they must in it see their own wickedness poured upon them. This refers to the wickedness both of the false prophets and of the people; the blind lead the blind, and both fall together into the ditch, where they will be miserable comforters one to another."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Timothy 2:1",
+      "note_ref": "MHC/54/2/1",
+      "cites": [
+        "1 Timothy 2:1"
+      ],
+      "text": "Here is, I. A charge given to Christians to pray for all men in general, and particularly for all in authority. Timothy must take care that this be done. Paul does not send him any prescribed form of prayer, as we have reason to think he would if he had intended that ministers should be tied to that way of praying; but, in general, that they should make supplications, prayers, intercessions, and giving of thanks: supplications for the averting of evil, prayers for the obtaining of good, intercessions for others, and thanksgivings for mercies already received. Paul thought it enough to give them general heads; they, having the scripture to direct them in prayer and the Spirit of prayer poured out upon them, needed not any further directions. Observe, The design of the Christian religion is to promote prayer; and the disciples of Christ must be praying people. Pray always with all prayer, Eph 6:18. There must be prayers for ourselves in the first place; this is implied here. We must also pray for all men, for the world of mankind in general, for particular persons who need or desire our prayers. See how far the Christian religion was from being a sect, when it taught men this diffusive charity, to pray, not only for those of their own way, but for all men. Pray for kings (Ti1 2:2); though the kings at this time were heathens, enemies to Christianity, and persecutors of Christians, yet they must pray for them, because it is for the public good that there should be civil government, and proper persons entrusted with the administration of it, for whom therefore we ought to pray, yea, though we ourselves suffer under them. For kings, and all that are in authority, that is, inferior magistrates: we must pray for them, and we must give thanks for them, pray for their welfare and for the welfare of their kingdoms, and therefore must not plot against them, that in the peace thereof we may have peace, and give thanks for them and for the benefit we have under their government, that we may lead a quiet and peaceable life in all godliness and honesty. Here see what we must desire for kings, that God will so turn their hearts, and direct them and make use of them, that we under them may lead a quiet and peaceable life. He does not say, \"that we may get preferments under them, grow rich, and be in honour and power under them;\" no, the summit of the ambition of a good Christian is to lead a quiet and peaceable life, to get through the world unmolested in a low private station. We should desire that we and others may lead a peaceable life in all godliness and honesty, implying that we cannot expect to be kept quiet and peaceable unless we keep in all godliness and honesty. Let us mind our duty, and then we may expect to be taken under the protection both of God and the government. In all godliness and honesty. Here we have our duty as Christians summed up in two words: godliness, that is, the right worshipping of God; and honesty, that is, a good conduct towards all men. These two must go together; we are not truly honest if we are not godly, and do not render to God his due; and we are not truly godly if we are not honest, for God hates robbery for burnt-offering. Here we may observe, 1. Christians are to be men much given to prayer: they ought to abound herein, and should use themselves to prayers, supplications, etc. 2. In our prayers we are to have a generous concern for others as well as for ourselves; we are to pray for all men, and to give thanks for all men; and must not confine our prayers nor thanksgiving to our own persons or families. 3. Prayer consists of various parts, of supplications, intercessions, and thanksgivings; for we must pray for the mercies we want, as well as be thankful for mercies already received; and we are to deprecate the judgments which our own sins or the sins of others have deserved. 4. All men, yea, kings themselves, and those who are in authority, are to be prayed for. They want our prayers, for they have many difficulties to encounter, many snares to which their exalted stations expose them. 5. In praying for our governors, we take the most likely course to lead a peaceable and quiet life. The Jews at Babylon were commanded to seek the peace of the city whither the Lord had caused them to be carried captives, and to pray to the Lord for it; for in the peace thereof they should have peace, Jer 29:7. 6. If we would lead a peaceable and quiet life, we must live in all godliness and honesty; we must do our duty to God and man. He that will love life, and see good days, let him refrain his tongue from evil, and his lips that they speak no guile; let him eschew evil, and do good; let him seek peace, and pursue it, Pe1 3:10, Pe1 3:11. Now the reason he gives for this is because this is good in the sight of God our Saviour; that is, the gospel of Christ requires this. That which is acceptable in the sight of God our Saviour we should do, and should abound in.\nII. As a reason why we should in our prayers concern ourselves for all men, he shows God's love to mankind in general, Ti1 2:4.\n1. One reason why all men are to be prayed for is because there is one God, and that God bears a good will to all mankind. There is one God (Ti1 2:5), and one only, there is no other, there can be no other, for there can be but one infinite. This one God will have all men to be saved; he desires not the death and destruction of any (Eze 33:11), but the welfare and salvation of all. Not that he has decreed the salvation of all, for then all men would be saved; but he has a good will to the salvation of all, and none perish but by their own fault, Mat 23:37. He will have all to be saved, and to come to the knowledge of the truth, to be saved in the way that he has appointed and not otherwise. It concerns us to get the knowledge of the truth, because that is the way to be saved; Christ is the way and the truth, and so he is the life.\n2. There is one Mediator, and that mediator gave himself a ransom for all. As the mercy of God extends itself to all his works, so the mediation of Christ extends itself thus far to all the children of men that he paid a price sufficient for the salvation of all mankind; he brought mankind to stand upon new terms with God, so that they are not now under the law as a covenant of works, but as a rule of life. They are under grace; not under the covenant of innocence, but under a new covenant: He gave himself a ransom. Observe, The death of Christ was a ransom, a counter-price. We deserved to have died. Christ died for us, to save us from death and hell; he gave himself a ransom voluntarily, a ransom for all; so that all mankind are put in a better condition than that of devils. He died to work out a common salvation: in order hereunto, he put himself into the office of Mediator between God and man. A mediator supposes a controversy. Sin had made a quarrel between us and God; Jesus Christ is a Mediator who undertakes to make peace, to bring God and man together, in the nature of an umpire or arbitrator, a days - man who lays his hand upon u both, Job 9:33. He is a ransom that was to be testified in due time; that is, in the Old Testament times, his sufferings and the glory that should follow were spoken of as things to be revealed in the last times, Pe1 1:10, Pe1 1:11. And they are accordingly revealed, Paul himself having been ordained a preacher and an apostle, to publish to the Gentiles the glad tidings of redemption and salvation by Jesus Christ. This doctrine of Christ's mediation Paul was entrusted to preach to every creature, Mar 16:15. He was appointed to be a teacher of the Gentiles; besides his general call to the apostleship, he was commissioned particularly to preach to the Gentiles, in faith and truth, or faithfully and truly. Note, (1.) It is good and acceptable in the sight of God and our Saviour that we pray for kings and for all men, and also that we lead a peaceable and quiet life; and this is a very good reason why we should do the one as well as the other. (2.) God has a good will to the salvation of all; so that it is not so much the want of a will in God to save them as it is a want of will in themselves to be saved in God's way. Here our blessed Lord charges the fault: You will not come unto me that you may have life, Joh 5:40. I would have gathered you, and you would not. (3.) Those who are saved must come to the knowledge of the truth, for this is God's appointed way to save sinners. Without knowledge the heart cannot be good; if we do not know the truth, we cannot be ruled by it. (4.) It is observable that the unity of God is asserted, and joined with the unity of the Mediator; and the church of Rome might as well maintain a plurality of gods as a plurality of mediators. (5.) He that is a Mediator in the New Testament sense, gave himself a ransom. Vain then is the pretence of the Romanists that there is but one Mediator of satisfaction, but many of intercession; for, according to Paul, Christ's giving himself a ransom was a necessary part of the Mediator's office; and indeed this lays the foundation for his intercession. (6.) Paul was ordained a minister, to declare this to the Gentiles, that Christ is the one Mediator between God and men, who gave himself a ransom for all. This is the substance of which all ministers are to preach, to the end of the world; and Paul magnified his office, as he was the apostle of the Gentiles, Rom 11:13. (7.) Ministers must preach the truth, what they apprehend to be so, and they must believe it themselves; they are, like our apostle, to preach in faith and verity, and they must also be faithful and trusty.\nIII. A direction how to pray, Ti1 2:8. 1. Now, under the gospel, prayer is not to be confined to any one particular house of prayer, but men must pray every where: no place is amiss for prayer, no place more acceptable to God than another, Joh 4:21. Pray every where. We must pray in our closets, pray in our families, pray at our meals, pray when we are on journeys, and pray in the solemn assemblies, whether more public or private. 2. It is the will of God that in prayer we should lift up holy hands: Lifting up holy hands, or pure hands, pure from the pollution of sin, washed in the fountain opened for sin and uncleanness. I will wash my hands, etc., Psa 26:6. 3. We must pray in charity: Without wrath, or malice, or anger at any person. 4. We must pray in faith without doubting (Jam 1:6), or, as some read it, without disputing, and then it falls under the head of charity."
+    },
+    {
+      "src": "TYN",
+      "ref": "Jeremiah 7:16",
+      "note_ref": "TYN/24/7/16",
+      "cites": [
+        "Jeremiah 7:16"
+      ],
+      "text": "7:16 The Lord commanded Jeremiah not to pray . . . for these people because it would not do any good (15:1; cp. Exod 32:10; Deut 9:14)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Jeremiah 7:17",
+      "note_ref": "TYN/24/7/17",
+      "cites": [
+        "Jeremiah 7:16"
+      ],
+      "text": "7:17-18 Pagan worship had become a family affair; each member of a family provided some part of the ritual. The object of their worship was Ashtoreth, the Queen of Heaven, the mother goddess of the Canaanites with her family of deities (see 44:17-19)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Jeremiah 11:12",
+      "note_ref": "TYN/24/11/12",
+      "cites": [
+        "Jeremiah 11:14"
+      ],
+      "text": "11:12 The people of Judah and Jerusalem prayed and worshiped in their time of trouble, but not to the Lord; instead, they prayed to their idols. They were bonded to unreal and powerless images of wood and stone instead of to the one true God."
+    },
+    {
+      "src": "TYN",
+      "ref": "Jeremiah 11:13",
+      "note_ref": "TYN/24/11/13",
+      "cites": [
+        "Jeremiah 11:14"
+      ],
+      "text": "11:13 Idolatry was so rampant in Judah that not a town or street could be found without an idol present."
+    },
+    {
+      "src": "TYN",
+      "ref": "Jeremiah 11:14",
+      "note_ref": "TYN/24/11/14",
+      "cites": [
+        "Jeremiah 11:14"
+      ],
+      "text": "11:14 The Lord told Jeremiah not to weep or pray for the people of Jerusalem (see 7:16); the Lord had shut his ears to any prayers they might direct to him. Because the people were committed to worshiping Baal, any prayer they offered would be a charade."
+    },
+    {
+      "src": "TYN",
+      "ref": "Jeremiah 11:15",
+      "note_ref": "TYN/24/11/15",
+      "cites": [
+        "Jeremiah 11:14"
+      ],
+      "text": "11:15 The people’s worship included the words and ceremonies the Lord required, but their worship was insincere; they did not love God or their neighbors."
+    },
+    {
+      "src": "TYN",
+      "ref": "Jeremiah 14:10",
+      "note_ref": "TYN/24/14/10",
+      "cites": [
+        "Jeremiah 14:11"
+      ],
+      "text": "14:10 The Lord’s answer to their self-serving prayer cut to the heart of the issue. Their status as God’s people had been destroyed by their wickedness, so their prayer was absurd and God’s judgment would proceed."
+    },
+    {
+      "src": "TYN",
+      "ref": "Jeremiah 14:11",
+      "note_ref": "TYN/24/14/11",
+      "cites": [
+        "Jeremiah 14:11"
+      ],
+      "text": "14:11-12 For the third time (see 7:16; 11:14), God told Jeremiah not to pray for the people of Judah and Jerusalem. It would be pointless for the people to fast, since the Lord had decided to pay no attention. The priests’ presentation of burnt offerings and grain offerings, which the Lord had given Moses as a way of worshiping him (see Lev 1–2), would be wasted effort, because the Lord would not accept them. Instead, the Lord would respond with war, famine, and disease."
+    },
+    {
+      "src": "TYN",
+      "ref": "Jeremiah 14:13",
+      "note_ref": "TYN/24/14/13",
+      "cites": [
+        "Jeremiah 14:11"
+      ],
+      "text": "14:13-16 their prophets: The government of Judah supported a corps of prophets who promoted the religious views of the king and his advisers. The Lord often condemned them, along with the officials and the priests. Here, the Lord exposed them as impostors and described what would happen to them and to the people to whom they prophesied."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Timothy 2:1",
+      "note_ref": "TYN/54/2/1",
+      "cites": [
+        "1 Timothy 2:1"
+      ],
+      "text": "2:1–3:13 Paul moves to the areas of conduct in God’s household that were affected by the false teachers (3:15). Community life had been corrupted in worship and gender roles (2:1-15) and leadership (3:1-13).\n2:1-15 This unit deals first with prayer (2:1-7) and with the deportment of men and women (2:8-10). It closes with the question of women and teaching (2:11-15).\n2:1-7 Here, prayer focuses on the church’s mission, which suggests that the false teachers had brought the church into disrepute in the wider society (cp. 3:6-7; 6:1; Titus 2:5) and hampered its mission to the Gentiles.\n2:1 all people: The prayers of the false teachers and their disciples were evidently not consonant with God’s will to save all kinds of people (2:3-4)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Timothy 2:2",
+      "note_ref": "TYN/54/2/2",
+      "cites": [
+        "1 Timothy 2:1"
+      ],
+      "text": "2:2 all who are in authority: Those who had the power to persecute or to protect the church (see also Rom 13:1-7; 1 Pet 2:13-17). • live peaceful and quiet lives: The point was not for Christians to blend in and be unnoticed, but to display the beauty of the Good News and allow the church’s mission to proceed without unnecessary complications (cp. 2 Tim 3:12; 1 Pet 3:13-17). • The word godliness and its cognates (also at 1 Tim 3:16; 4:7-8; 5:4; 6:3, 5-6, 11) sum up the beliefs, attitudes, and lifestyles that accord with right and reverential knowledge of God, obedience, and authentic worship."
+    },
+    {
+      "src": "GNV",
+      "ref": "Jeremiah 7:15",
+      "note_ref": "GNV/24/7/15",
+      "cites": [
+        "Jeremiah 7:16"
+      ],
+      "text": "I will send you into captivity as I have done Ephraim, that is, the ten tribes."
+    },
+    {
+      "src": "GNV",
+      "ref": "Jeremiah 7:16",
+      "note_ref": "GNV/24/7/16",
+      "cites": [
+        "Jeremiah 7:16"
+      ],
+      "text": "To assure them that God had determined with himself to punish their wickedness, he showeth that the prayer of the godly can nothing avail them, whiles they remain in their obstinacy against God, and will not use the means that he useth to call them to repentance, Jer. 11:14 and 14:11."
+    },
+    {
+      "src": "GNV",
+      "ref": "Jeremiah 7:18",
+      "note_ref": "GNV/24/7/18",
+      "cites": [
+        "Jeremiah 7:16"
+      ],
+      "text": "That is, they sacrifice to the Sun, Moon and Stars, which they called the queen of heaven, Jer. 44:17; 2 Kings 23:5."
+    },
+    {
+      "src": "GNV",
+      "ref": "Jeremiah 11:13",
+      "note_ref": "GNV/24/11/13",
+      "cites": [
+        "Jeremiah 11:14"
+      ],
+      "text": "Read Jer. 2:28."
+    },
+    {
+      "src": "GNV",
+      "ref": "Jeremiah 11:14",
+      "note_ref": "GNV/24/11/14",
+      "cites": [
+        "Jeremiah 11:14"
+      ],
+      "text": "Read Jer. 7:16 and 14:11."
+    },
+    {
+      "src": "GNV",
+      "ref": "Jeremiah 11:15",
+      "note_ref": "GNV/24/11/15",
+      "cites": [
+        "Jeremiah 11:14"
+      ],
+      "text": "My people of Israel, whom I have hitherto so greatly loved.\nMeaning, that they offer not in the Temple to God, but on the altars of Baal and the idols, and so rejoiced in their wickedness."
+    },
+    {
+      "src": "GNV",
+      "ref": "Jeremiah 11:16",
+      "note_ref": "GNV/24/11/16",
+      "cites": [
+        "Jeremiah 11:14"
+      ],
+      "text": "Of the Babylonians and Chaldeans."
+    },
+    {
+      "src": "GNV",
+      "ref": "Jeremiah 14:9",
+      "note_ref": "GNV/24/14/9",
+      "cites": [
+        "Jeremiah 14:11"
+      ],
+      "text": "As one that hath strength to help, and yet is afraid to put to his hand."
+    },
+    {
+      "src": "GNV",
+      "ref": "Jeremiah 14:11",
+      "note_ref": "GNV/24/14/11",
+      "cites": [
+        "Jeremiah 14:11"
+      ],
+      "text": "Read Jer. 7:16 and 11:14."
+    },
+    {
+      "src": "GNV",
+      "ref": "Jeremiah 14:13",
+      "note_ref": "GNV/24/14/13",
+      "cites": [
+        "Jeremiah 14:11"
+      ],
+      "text": "He pitieth the people, and accuseth the false prophets, which deceived them: but the Lord answered, that both the prophets, which deceived, and the people, which suffered themselves to be seduced, shall perish, Jer. 23:15 and 27:8, 9 and 29:8."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Timothy 2:1",
+      "note_ref": "GNV/54/2/1",
+      "cites": [
+        "1 Timothy 2:1"
+      ],
+      "text": "Having dispatched those things which pertain to doctrine, he speaketh now in the second place of the other part of the ministry of the word, to wit, of public prayers. And first of all declaring this question, for whom we ought to pray: he teacheth that we must pray for all men, and especially for all manner of magistrates, which thing was at that time somewhat doubted of, seeing that kings, yea and the most part of magistrates were at that time enemies of the Church."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Timothy 2:2",
+      "note_ref": "GNV/54/2/2",
+      "cites": [
+        "1 Timothy 2:1"
+      ],
+      "text": "An argument taken of the end: to wit, because that magistrates are appointed to this end, that men might peaceably and quietly live in all godliness and honesty, and therefore must we commend them especially to God, that they may faithfully execute so necessary an office.\nThis word containeth all kind of duty, which is to be used amongst men in all their affairs."
+    }
+  ]
+}

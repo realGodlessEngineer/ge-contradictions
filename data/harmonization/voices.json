@@ -1,0 +1,72 @@
+{
+  "_comment": "Committed attribution map for the seven public-domain voices used by the harmonization sweep. text_sources.attribution is NULL in bible_reference.db for all seven, so author/work/year are hand-authored here. full_name is copied verbatim from text_sources for traceability. license_code is the DB's assertion (all PD); the sweep re-checks it at runtime.",
+  "license_required": "PD",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "display": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD",
+      "kind": "commentary",
+      "full_name": "John Gill's Exposition of the Entire Bible (1746-63)"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "display": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD",
+      "kind": "commentary",
+      "full_name": "Jamieson, Fausset, and Brown Commentary (1871)"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "display": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD",
+      "kind": "commentary",
+      "full_name": "Adam Clarke's Commentary on the Bible (1832)"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "display": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD",
+      "kind": "commentary",
+      "full_name": "Keil and Delitzsch Commentary on the Old Testament",
+      "flag": "Year not present in text_sources.full_name; supplied from standard scholarship (English ed., T&T Clark, 1861-75). Verse-block anchored (not per-verse) — sweep pulls the containing block."
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "display": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD",
+      "kind": "commentary",
+      "full_name": "Matthew Henry's Commentary on the Whole Bible (1706-10)"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "display": "Tyndale Open Bible Commentary",
+      "license_code": "PD",
+      "kind": "commentary",
+      "full_name": "Tyndale Open Bible Commentary",
+      "flag": "OWNER REVIEW: name + missing year are atypical for a public-domain-by-age work. DB asserts license_code=PD, so it passes the gate, but its 'dated' attribution is unresolved. Recommend confirming provenance/date before shipping any TYN excerpt."
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "display": "Geneva Bible (1599)",
+      "license_code": "PD",
+      "kind": "translation",
+      "full_name": "Geneva Bible (1599)",
+      "flag": "kind=translation, not commentary: the 'notes' are the Geneva annotators' marginal glosses (short). Attribute to the translation, not an individual."
+    }
+  }
+}

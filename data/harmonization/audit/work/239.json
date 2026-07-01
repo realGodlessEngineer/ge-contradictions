@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 239,
+  "question": "Who was David's second son?",
+  "summary": "2 Samuel 3:3 names David's second son born in Hebron as Chileab, son of Abigail. 1 Chronicles 3:1 names David's second son born in Hebron as Daniel, son of Abigail. Same mother, same birth-order slot, different name.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Harmonizers read Chileab and Daniel as two names for the same son of Abigail, the birth-name Daniel later overlaid by the nickname \"like his father.\"",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Ryren Cadora presses that the text simply gives the second son two different names with no explanation, a variation he attributes to the manuscripts' transmission rather than to a deliberate dual naming.",
+    "skeptic": {
+      "name": "Ryren Cadora",
+      "work": "Bible Contradictions #33: Who were David's sons born in Hebron? (The Atheist Papers)",
+      "year": "2014",
+      "attribution": "Ryren Cadora, \"Bible Contradictions #33: Who were David's sons born in Hebron?\", The Atheist Papers (2014)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on 1 Chronicles 3:1",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact pair, holding that David's second son \"probably had two names\" — Daniel (\"God is my Judge\") and Chileab (\"like to the father\") — citing the Targum and Jarchi. Row-surfaced harmonizing commentator used because Haley's coverage of this specific Chileab/Daniel pair could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions / carm / defendinginerrancy) engages the Chileab-vs-Daniel second-son tension. gotquestions.org/sons-of-David.html lists \"Daniel\" but never mentions Chileab or harmonizes the two names; defendinginerrancy 1_Chronicles_3.1.php and 2_Samuel_3.3.php both 404; gotquestions Chileab-Daniel.html / who-was-Chileab.html / Chileab-in-the-Bible.html all 404. Link omitted per the verify-the-page-engages-the-tension rule."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "239#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "1 Chronicles 3:1",
+      "full_note_ref": "CLARKE/13/3/1",
+      "excerpt_text": "In Sa2 3:3, this person is called Chileab; he probably had two names. The Targum says, \"The second, Daniel, who was also called Chileab, because he was in every respect like to his father.\"",
+      "on_tension_rationale": "Names BOTH the second son's names (Daniel/Chileab), explicitly states the two-names harmonization, and gives the mechanism via the Targum — the single strongest reconcile voice for the second-son name difference. Both sentences end on real source periods.",
+      "source_note_text": "The second, Daniel - In Sa2 3:3, this person is called Chileab; he probably had two names. The Targum says, \"The second, Daniel, who was also called Chileab, because he was in every respect like to his father.\" The Targumist refers here to the import of the word כלאב ke-le-ab, like to the father. Jarchi says the two names were given to this person because David, having taken Abigail immediately after the death of Nabal, it could not be ascertained whether this child were the son of David or of Nabal, therefore David called him דניאל Daniel, God is my Judge, and כלאב Chileab, he who is like to the father; probably from the striking resemblance he bore to David, his reputed father. \"God is my Judge, I have not fathered another man's child; this is entirely like unto myself."
+    }
+  ]
+}

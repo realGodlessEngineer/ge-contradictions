@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 287,
+  "question": "When did Ahaziah begin to reign?",
+  "summary": "2 Kings 8:25 dates Ahaziah's accession to the twelfth year of Joram king of Israel. 2 Kings 9:29 dates the same accession to the eleventh year of Joram. The two notices contradict each other within the same book, four chapters apart.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders read the two dates as one accession told two ways — a co-regency begun in Joram's eleventh year, sole rule in his twelfth.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells (Skeptic's Annotated Bible) presses the plain arithmetic — the same accession is dated to two different years of Joram, and notes that textual scholars read the eleventh-year notice as a later correction of the twelfth.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible, \"When did Ahaziah begin to reign?\" (skepticsannotatedbible.com/contra/ahaziah.html)",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (online ed., 2013)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on 2 Kings 9:29",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact pair, harmonizing the eleventh-year (2 Kgs 9:29) and twelfth-year (2 Kgs 8:25) notices via a viceroy/co-regency-then-sole-reign distinction."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/2_Kings_8.25.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in 2 Kings 8:25?",
+        "note": "Live apologetic page citing both 2 Kgs 8:25 and 9:29; harmonizes via Judah's accession-year vs Israel's non-accession-year reckoning (the eleventh year by one system = the twelfth by the other)."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "287#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "2 Kings 9:29",
+      "full_note_ref": "CLARKE/12/9/29",
+      "excerpt_text": "Then he began to reign as viceroy to his father in his sickness; Ch2 21:18, Ch2 21:19. But in Joram's twelfth year he began to reign alone; Kg2 8:26.",
+      "on_tension_rationale": "Clarke names both notices and resolves the eleventh-vs-twelfth-year gap by distinguishing Ahaziah's co-regency (viceroy during his father's terminal illness) from his sole reign — the strongest single harmonization on the row.",
+      "source_note_text": "In the eleventh year of Joram - The note in our margin contains as good an account of this chronological difficulty as can be reasonably required: Then he began to reign as viceroy to his father in his sickness; Ch2 21:18, Ch2 21:19. But in Joram's twelfth year he began to reign alone; Kg2 8:26."
+    }
+  ]
+}

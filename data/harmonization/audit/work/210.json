@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 210,
+  "question": "Is it OK to marry a Moabite?",
+  "summary": "Deuteronomy 23:3 bars Moabites from the assembly of Yahweh to the tenth generation, and Ezra 9-10 commands the forced divorce of foreign wives including Moabites. The book of Ruth celebrates the marriage of Boaz to the Moabite Ruth as the source of the Davidic line. The legal/post-exilic tradition forbids Moabite intermarriage; the Ruth tradition presents it as the conduit of messianic descent.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Harmonizers read the Mosaic ban as not covering Moabite women, and treat Ruth as a converted proselyte exempt from it.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "André LaCocque argues the book of Ruth is a deliberate counter-narrative to the post-exilic intermarriage purge of Ezra-Nehemiah, celebrating as the conduit of David's line the very Moabite union those texts condemn.",
+    "skeptic": {
+      "name": "André LaCocque",
+      "work": "Ruth: A Continental Commentary",
+      "year": "2004",
+      "attribution": "André LaCocque, Ruth: A Continental Commentary (Fortress Press, 2004)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on Ruth 4:13",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke addresses this passage directly, arguing the Deuteronomy 23:3 ban on Moabites did not extend to women and that Ruth, as a proselyte already incorporated by marriage, was an exempt case."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Boaz-Ruth-and-the-Law.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Was it against the Mosaic Law for Boaz to marry Ruth, according to Deuteronomy 23:3?",
+        "note": "live apologetic treatment of the Boaz-Ruth marriage against the Moabite prohibition"
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "210#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Ruth 4:13",
+      "full_note_ref": "CLARKE/8/4/13",
+      "excerpt_text": "The law of Moses had prohibited the Moabites, even to the tenth generation, from entering into the congregation of the Lord; but this law, the Jews think, did not extend to women; and even if it had, Ruth's might be considered an exempt case, as she had been already incorporated into the family by marriage; and left her own country, people, and gods, to become a proselyte to the true God in the land of Israel.",
+      "on_tension_rationale": "Clarke names the exact Deuteronomy 23 prohibition the contradiction turns on and offers the two stock harmonizations (the ban excludes women; Ruth is an exempt proselyte) for why Boaz's Moabite marriage was lawful.",
+      "source_note_text": "So Boaz took Ruth - The law of Moses had prohibited the Moabites, even to the tenth generation, from entering into the congregation of the Lord; but this law, the Jews think, did not extend to women; and even if it had, Ruth's might be considered an exempt case, as she had been already incorporated into the family by marriage; and left her own country, people, and gods, to become a proselyte to the true God in the land of Israel."
+    }
+  ]
+}

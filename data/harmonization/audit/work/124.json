@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 124,
+  "question": "Did God command the Israelites to make him burnt offerings?",
+  "summary": "Exodus commands burnt offerings extensively — Exodus 20:24 establishes the altar, Exodus 29 prescribes ordination sacrifices, Exodus 10:25 has Moses demanding animals for sacrifice. Jeremiah 7:22 has YHWH saying he did not command the ancestors concerning burnt offerings or sacrifices on the day he brought them out of Egypt. One text commands the ritual system; the other denies it was ever commanded.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders read Jeremiah's denial as a Hebrew comparative — God commanded obedience above sacrifice, not instead of it — so the verse never cancels the Exodus ritual law.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Karl Heinrich Graf pressed this verse as evidence that the elaborate sacrificial legislation was not given at Sinai but a later priestly development, so Jeremiah could still say God commanded no such offerings at the Exodus.",
+    "skeptic": {
+      "name": "Karl Heinrich Graf",
+      "work": "Die geschichtlichen Bücher des Alten Testaments",
+      "year": "1866",
+      "attribution": "Karl Heinrich Graf (d. 1869), Die geschichtlichen Bücher des Alten Testaments (1866); cf. his Der Prophet Jeremia erklärt (1862)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Jeremiah 7:21-22 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage at length and directly rebuts the critical (Vatke/Hitzig/Graf) reading, arguing the verse means sacrifice was not the central covenant demand, not that God gave no sacrificial law. Preferred over Haley's general volume because his specific coverage of this passage cannot be confirmed and K&D is keyed to this verse on the row."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/did-god-speak-about-sacrifices-or-not-at-the-exodus/",
+        "domain": "carm.org",
+        "title": "Did God speak about sacrifices or not at the Exodus?",
+        "note": "Live apologetic treatment reconciling Jeremiah 7:22 with the Exodus sacrificial commands (verified on-topic)."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "124#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Jeremiah 7:22",
+      "full_note_ref": "JFB/24/7/22",
+      "excerpt_text": "Not contradicting the divine obligation of the legal sacrifices. … The negative in Hebrew often supplies the want of the comparative: not excluding the thing denied, but only implying the prior claim of the thing set in opposition to it (Hos 6:6).",
+      "on_tension_rationale": "Directly addresses the contradiction: explains Jeremiah 7:22's denial as a Hebrew comparative negative ('not so much … as'), so it does not cancel the Exodus command to sacrifice. Strongest single harmonization on the row; parity-capped to one because the discrepancy pole carries one named-skeptic unit.",
+      "source_note_text": "Not contradicting the divine obligation of the legal sacrifices. But, \"I did not require sacrifices, unless combined with moral obedience\" (Psa 50:8; Psa 51:16-17). The superior claim of the moral above the positive precepts of the law was marked by the ten commandments having been delivered first, and by the two tables of stone being deposited alone in the ark (Deu 5:6). The negative in Hebrew often supplies the want of the comparative: not excluding the thing denied, but only implying the prior claim of the thing set in opposition to it (Hos 6:6). \"I will have mercy, and not sacrifice\" (Sa1 15:22). Love to God is the supreme end, external observances only means towards that end. \"The mere sacrifice was not so much what I commanded, as the sincere submission to My will gives to the sacrifice all its virtue\" [MAGEE, Atonement, Note 57]."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 395,
+  "question": "Where did John the Baptist baptize?",
+  "summary": "Matthew 3:6 and Mark 1:5 say John baptized people 'in the Jordan' (Greek *en tō Iordanē*); Mark 1:9 specifies that Jesus was baptized 'in the Jordan.' John 1:28 says these things happened 'in Bethany beyond the Jordan' (or 'Bethabara' in the Textus Receptus). The synoptics put the baptism in the river itself; John's gospel puts it in a settlement on the east bank.",
+  "consensus": "apparent_only",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Critical commentators resolve the Bethabara/Bethany conflict by identifying a second, east-Jordan Bethany and attributing the reading 'Bethabara' to Origen's textual emendation rather than the original text.",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells's Skeptic's Annotated Bible flags the location named in John 1:28 as inconsistent with the Jordan River baptism site indicated by the Synoptics.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible",
+      "year": "2012",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (SAB Press, 2012)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley addresses the Bethabara/Bethany place-name conflict under geographical discrepancies, citing the manuscript evidence for Bethany and the existence of a distinct east-Jordan location by that name as the full resolution."
+      },
+      "link": null
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "395#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "John 1:28",
+      "full_note_ref": "JFB/43/1/28",
+      "excerpt_text": "Bethabara--Rather, \"Bethany\" (according to nearly all the best and most ancient manuscripts); not the Bethany of Lazarus, but another of the same name, and distinguished from it as lying \"beyond Jordan,\" on the east.",
+      "on_tension_rationale": "JFB identifies the manuscript evidence for 'Bethany' over 'Bethabara' and distinguishes this east-Jordan Bethany from the Lazarus-Bethany, directly resolving the apparent geographical inconsistency.",
+      "source_note_text": "Bethabara--Rather, \"Bethany\" (according to nearly all the best and most ancient manuscripts); not the Bethany of Lazarus, but another of the same name, and distinguished from it as lying \"beyond Jordan,\" on the east."
+    }
+  ]
+}

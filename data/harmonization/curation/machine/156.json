@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 156,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the conflict away by distinguishing nature's general rule from the lawful Nazirite exception, and by noting Ezekiel's priests were not Nazirites at all.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells, whose Skeptic's Annotated Bible juxtaposes the Nazirite command to grow the hair (and Ezekiel's ban on priestly long hair) against Paul's verdict that long hair shames a man, treating them as a flat contradiction.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (\"Is it OK for men to have long hair?\")",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (1992-; SAB Press ed. 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Corinthians 11:14",
+      "excerpt_text": "The fact that nature has provided woman, and not man, with long hair, proves that man was designed to be uncovered, and woman covered. The Nazarite, however, wore long hair lawfully, as being part of a vow sanctioned by God (Num 6:5).",
+      "full_note_ref": "JFB/46/11/14",
+      "on_tension_rationale": "Directly names both poles — Paul's general rule against male long hair AND the Nazirite who wore it lawfully — and resolves the conflict by treating the vow as a God-sanctioned exception. The single strongest on-tension reconcile on the row.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Ezekiel 44:17",
+      "excerpt_text": "They must not shave their heads, in imitation of the Gentile priests, and as the priests of the Romish church do; nor, on the other hand, must they suffer their locks to grow long, as the beaux, or that they might be thought Nazarites, when really they were not; but they must be grave and modest, must poll their heads and keep their hair short.",
+      "full_note_ref": "MHC/26/44/17",
+      "on_tension_rationale": "Harmonizes Ezekiel 44:20 with the Nazirite passages by distinguishing the categories: Ezekiel's priests were not Nazirites, so the ban on priestly long hair does not conflict with the Nazirite command; explicitly invokes the 1 Cor 11:14 standard.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Ezekiel 44:20",
+      "excerpt_text": "To let the hair grow long would have been improper; therefore the Lord commands them to poll - cut the hair short, but not to shave.",
+      "full_note_ref": "CLARKE/26/44/20",
+      "on_tension_rationale": "Addresses the Ezekiel pole of the tension: the priest steers a middle course (neither shaved nor long), so the prohibition on priestly long hair is a deliberate, limited rule rather than a flat ban contradicting the Nazirite.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 1 Corinthians 11:14",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Treats this passage directly: distinguishes nature's general rule against male long hair from the Nazirite, who 'wore long hair lawfully, as being part of a vow sanctioned by God (Num 6:5).' Preferred over Haley, whose specific coverage of this passage could not be confirmed."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/1_Corinthians_11.14.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: 1 Corinthians 11:14 — How can nature teach that long hair is wrong for a man when length of hair is culturally relative?",
+        "note": "live apologetic treatment naming the Nazirite vow as a sanctioned exception to the general rule"
+      }
+    }
+  }
+}

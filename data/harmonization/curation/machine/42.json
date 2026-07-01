@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 42,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read the two numbers as distinct, sequential periods — the forty days of rain falling within the longer hundred and fifty days the waters stood at their height.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Julius Wellhausen pressed this as a seam between sources, arguing the forty-day rain (J) and the hundred-and-fifty-day flood (P) are two incompatible chronologies a redactor stitched together, not stages of one count.",
+      "skeptic": {
+        "name": "Julius Wellhausen",
+        "work": "Die Composition des Hexateuchs und der historischen Bücher des Alten Testaments",
+        "year": "1889",
+        "attribution": "Julius Wellhausen (d. 1918), Die Composition des Hexateuchs (1889)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Genesis 7:24",
+      "excerpt_text": "The breaking up of the fountains of the great deep, and the raining forty days and nights, had raised the waters fifteen cubits above the highest mountains; after which forty days it appears to have continued at this height for one hundred and fifty days more. \"So,\" says Dr. Lightfoot, \"these two sums are to be reckoned distinct, and not the forty days included in the one hundred and fifty …",
+      "full_note_ref": "CLARKE/1/7/24",
+      "on_tension_rationale": "Clarke directly addresses the 40-vs-150 numerical tension, arguing the two figures are distinct sequential periods (40 days of rain, then 150 days at height) rather than two answers to the same duration question. Strongest single reconcile; parity-capped on this discrepancy_first row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Genesis 7:24",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact tension at Gen 7:24, arguing (with Lightfoot) that the forty days and the hundred and fifty days are distinct, successive periods rather than the same span counted twice. Used in place of Haley, whose specific coverage of this 40-vs-150 pair could not be confirmed; Clarke is a harmonizing commentator already surfaced on the row and keyed to the passage."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Genesis_7.24.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in Genesis 7:24?",
+        "note": "Live apologetic treatment that distinguishes the forty days (duration of rainfall) from the hundred and fifty days (duration the waters prevailed); confirmed on-topic and on the allowlist."
+      }
+    }
+  }
+}

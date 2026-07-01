@@ -1,0 +1,85 @@
+{
+  "rate_target": 0.25,
+  "seed": 1337,
+  "excerpts_total": 33,
+  "excerpts_sampled": 17,
+  "contradictions_total": 17,
+  "contradictions_with_work": 17,
+  "by_consensus": {
+    "apparent_only": {
+      "total": 5,
+      "sampled": 2
+    },
+    "probable_harmonization": {
+      "total": 18,
+      "sampled": 7
+    },
+    "probable_contradiction": {
+      "total": 3,
+      "sampled": 3
+    },
+    "genuine_contradiction": {
+      "total": 4,
+      "sampled": 4
+    },
+    "genuinely_disputed": {
+      "total": 3,
+      "sampled": 1
+    }
+  },
+  "by_voice": {
+    "GILL": {
+      "total": 9,
+      "sampled": 4
+    },
+    "CLARKE": {
+      "total": 6,
+      "sampled": 3
+    },
+    "KD": {
+      "total": 3,
+      "sampled": 2
+    },
+    "JFB": {
+      "total": 6,
+      "sampled": 4
+    },
+    "GNV": {
+      "total": 4,
+      "sampled": 1
+    },
+    "MHC": {
+      "total": 3,
+      "sampled": 2
+    },
+    "TYN": {
+      "total": 2,
+      "sampled": 1
+    }
+  },
+  "by_pole": {
+    "reconcile": {
+      "total": 33,
+      "sampled": 17
+    }
+  },
+  "sampled_uids": [
+    "1#0",
+    "3#0",
+    "4#0",
+    "87#0",
+    "171#0",
+    "189#0",
+    "214#0",
+    "256#0",
+    "298#0",
+    "340#0",
+    "425#0",
+    "439#0",
+    "459#0",
+    "468#0",
+    "470#0",
+    "496#0",
+    "513#0"
+  ]
+}

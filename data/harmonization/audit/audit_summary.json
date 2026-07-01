@@ -1,0 +1,68 @@
+{
+  "floor": {
+    "total": 402,
+    "passed": 402,
+    "failed": 0
+  },
+  "sample": {
+    "target_rate": 0.25,
+    "expected": 217,
+    "received": 217,
+    "missing": [],
+    "extra": []
+  },
+  "overall": {
+    "pass": 217,
+    "flag": 0,
+    "fail": 0
+  },
+  "on_tension": {
+    "on_tension": 217,
+    "weak": 0,
+    "off_tension": 0
+  },
+  "pole_label": {
+    "correct": 217,
+    "should_flip": 0,
+    "no_stance": 0
+  },
+  "fails": [],
+  "flags": [],
+  "discrepancy_pole": {
+    "honest": 0,
+    "dishonest": {}
+  },
+  "guardrails_agent": {
+    "reviewed": 216,
+    "by_dimension": {
+      "parity": {
+        "ok": 216,
+        "violated": 0
+      },
+      "connectives": {
+        "ok": 216,
+        "flag": 0
+      },
+      "named_skeptic": {
+        "ok": 214,
+        "not_real": 0,
+        "strawman": 0,
+        "n/a": 2
+      },
+      "discrepancy_integrity": {
+        "ok": 216,
+        "co_opted": 0,
+        "relabel_ok": 0,
+        "relabel_missing": 0
+      },
+      "deeper_learning": {
+        "ok": 215,
+        "flag": 1,
+        "missing": 0
+      }
+    },
+    "offenders": [
+      160
+    ]
+  }
+}

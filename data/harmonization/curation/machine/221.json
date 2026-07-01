@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 221,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators answer that Saul's slaughter left survivors and that \"Agagite\" is a dynastic label, so a later Amalekite of Agag's line is unsurprising though unprovable.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The critical objection, pressed by L. B. Paton, is that Esther is an unhistorical festival novella in which \"the Agagite\" is a literary echo of 1 Samuel 15 rather than a real genealogy, so the two passages do not describe one continuous history.",
+      "skeptic": {
+        "name": "Lewis Bayles Paton",
+        "work": "A Critical and Exegetical Commentary on the Book of Esther (ICC)",
+        "year": "1908",
+        "attribution": "Lewis Bayles Paton (d. 1932), A Critical and Exegetical Commentary on the Book of Esther, International Critical Commentary (1908)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "1 Samuel 15:4",
+      "excerpt_text": "For it follows from the very nature of the case that many escaped, and consequently there is nothing striking in the fact that Amalekites are mentioned again at a later period (Sa1 27:8; Sa1 30:1; Sa2 8:12).",
+      "full_note_ref": "KD/9/15/4",
+      "on_tension_rationale": "Directly answers the herem-was-total premise: the ban left survivors, so the line of Amalek (and so an Agagite) could persist into Persian times.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Esther 3:1",
+      "excerpt_text": "whom both the Targums make to descend from Amalek, and to be of the stock or family of Agag, the common name of the kings of Amalek … but this is not clear and certain",
+      "full_note_ref": "GILL/17/3/1",
+      "on_tension_rationale": "Treats Haman's claimed descent from Agag as a tradition, not an asserted fact, deflating the assumption that Esther 3:1 affirms an unbroken Agag line.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Esther 3:1",
+      "excerpt_text": "This is certainly possible, though it can by no means be proved. … In 1 Sam 15, too, Agag is not the nomen propr. of the conquered king, but a general nomen dignitatis of the kings of Amalek, as Pharaoh and Abimelech were of the kings of Egypt and Gerar.",
+      "full_note_ref": "KD/17/3/1",
+      "on_tension_rationale": "Makes the title-not-name move: 'Agag' is a dynastic title, so 'Agagite' need not mean descent from the specific Agag killed by Samuel, and the descent itself is unprovable.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Esther 3:1",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly: argues 'Agag' is a dynastic title rather than a proper name and that Haman's descent from the Amalekite king, while possible, cannot be proved."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Haman-the-Agagite.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who was Haman the Agagite?",
+        "note": "Live apologetic treatment connecting Haman's Agagite identity to Saul's incomplete obedience in 1 Samuel 15."
+      }
+    }
+  }
+}

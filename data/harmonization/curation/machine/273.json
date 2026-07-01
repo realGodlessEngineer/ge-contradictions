@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 273,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders treat the two names as variants of one woman and resolve the two fathers as father-versus-grandfather, with Maachah a granddaughter of Absalom through Tamar and Uriel.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The critical objection is pressed by Ernst Bertheau, who argues the differing names and fathers reflect a corrupt, confused text rather than a single reconcilable genealogy.",
+      "skeptic": {
+        "name": "Ernst Bertheau",
+        "work": "Die Bücher der Chronik",
+        "year": "1873",
+        "attribution": "Ernst Bertheau (d. 1888), Die Bücher der Chronik (1873)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Kings 15:2",
+      "excerpt_text": "his mother's name was Maachah—or Michaiah (Ch2 13:2), probably altered from the one to the other on her becoming queen, as was very common under a change of circumstances. She is called the daughter of Abishalom, or Absalom (Ch2 11:21), of Uriel (Ch2 13:2). Hence, it has been thought probable that Tamar, the daughter of Absalom (Sa2 14:27; Sa2 18:18), had been married to Uriel, and that Maachah was their daughter.",
+      "full_note_ref": "JFB/11/15/2",
+      "on_tension_rationale": "Directly harmonizes both the name difference (Maachah/Michaiah, variant on becoming queen) and the father difference (Abishalom vs Uriel, via Tamar married to Uriel).",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "2 Chronicles 13:1",
+      "excerpt_text": "It is most probable that she was a grand-daughter of Absalom, by his daughter Tamar (Sa2 14:27), and that her immediate father was this Uriel.",
+      "full_note_ref": "MHC/14/13/1",
+      "on_tension_rationale": "Distinct voice resolving the two-fathers tension as father (Uriel) versus grandfather (Absalom) through Tamar.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 1 Kings 15:2",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats this passage directly, harmonizing both the name (Maachah/Michaiah) and the father (Abishalom/Uriel) differences via the Tamar-Uriel descent."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page from an allowlisted apologetics domain could be verified for this specific passage; link omitted."
+      }
+    }
+  }
+}

@@ -1,0 +1,603 @@
+{
+  "contradiction_id": 100,
+  "question": "Who appeared to Moses in the burning bush?",
+  "summary": "Exodus 3:2 says \"the angel of the LORD\" appeared to Moses in the flame, and Acts 7:35 confirms it was an angel. But Exodus 3:4 in the same passage shifts and says \"God called unto him out of the midst of the bush,\" and Mark 12:26 has Jesus himself affirm that God spoke to Moses at the bush. Same encounter, two different speakers.",
+  "consensus": "probable_harmonization",
+  "consensus_id": 4,
+  "category": "History & Narrative Events",
+  "contradiction_type": "factual_historical",
+  "testament_scope": "OT_vs_NT",
+  "books_in_tension": "Exodus, Mark, Acts",
+  "refs_raw": [
+    "Exodus 3:4",
+    "Mark 12:26",
+    "Exodus 3:2",
+    "Acts 7:35"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Exodus 3:4",
+      "book": "Exodus",
+      "bolls": 2,
+      "ranges": [
+        [
+          3,
+          4,
+          4
+        ]
+      ]
+    },
+    {
+      "raw": "Mark 12:26",
+      "book": "Mark",
+      "bolls": 41,
+      "ranges": [
+        [
+          12,
+          26,
+          26
+        ]
+      ]
+    },
+    {
+      "raw": "Exodus 3:2",
+      "book": "Exodus",
+      "bolls": 2,
+      "ranges": [
+        [
+          3,
+          2,
+          2
+        ]
+      ]
+    },
+    {
+      "raw": "Acts 7:35",
+      "book": "Acts",
+      "bolls": 44,
+      "ranges": [
+        [
+          7,
+          35,
+          35
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 50,
+  "notes_raw_count": 56,
+  "notes_dropped": 6,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Exodus 3:1",
+      "note_ref": "GILL/2/3/1",
+      "cites": [
+        "Exodus 3:2"
+      ],
+      "text": "Now Moses kept the flock of Jethro his father in law, the priest of Midian,.... Who was either the same with Reuel or Raguel, spoken of in the preceding chapter; or, as others think, a son of his, the father being now dead; seeing it was now forty years since Moses came into Midian, Act 7:30. Demetrius (c), an Heathen writer, expressly says that Jothor a son of Raguel, and Zipporah or Sepphora, as he calls her, was his daughter, whom Moses married: now this was the business Moses was chiefly concerned in during his stay in Midian; keeping the sheep of his father-in-law, in which great personages have have employed, and who have afterwards been called to the kingly office, as David; and this was an emblem of his feeding and ruling the people of Israel, and in it he was an eminent type of Christ, the great shepherd and bishop of souls: no doubt there were other things besides this in which Moses exercised himself in this course of time, and improved himself in the knowledge of things, natural, civil, and religious, and which the more qualified him for the important work he was designed for: it is thought that in this interval he wrote the book of Genesis, and also the book of Job:\nand he led the flock to the backside of the desert; of Sinai or Arabia, on the back part of which, it seems, were goodly pastures; and hither he led his flock to feed, which was about three days' journey from Egypt, Exo 5:3 or rather into the desert (d), for Horeb or Sinai was not behind the desert, but in it:\nand came to the mountain of God, even to Horeb; so called either because of the appearance of God at this time, after related, or because of his giving the law and making the covenant with the people of Israel there; and it should be observed that that transaction was past when Moses wrote this book. Hither he led the sheep, they delighting in mountains, hence sometimes mountainous places are called (e), because sheep delight to feed upon them (f).\n(c) Apud Euseb. Praepar. Evangel. l. 9. c. 29. p. 439. (d) , Sept. \"in desertum\", Syr. Samar, so Noldius, p. 11. No. 76. (e) Homer. Odyss. 11. prope finem. (f) , Theocrit. Idyll. 3."
+    },
+    {
+      "src": "GILL",
+      "ref": "Exodus 3:2",
+      "note_ref": "GILL/2/3/2",
+      "cites": [
+        "Exodus 3:4",
+        "Exodus 3:2"
+      ],
+      "text": "And the Angel of the Lord appeared unto him,.... Not a created angel, but the Angel of God's presence and covenant, the eternal Word and Son of God; since he is afterwards expressly called Jehovah, and calls himself the God of Abraham, Isaac, and Jacob, which a created angel would never do: the appearance was:\nin a flame of fire, out of the midst of a bush; not in a tall, lofty, spreading oak or cedar, but in a low thorny bramble bush, which it might have been thought would have been consumed in an instant of time:\nand he looked, and, behold, the bush burned with fire, and the bush was not consumed; this was not imaginary, but a real thing; there wassuch a bush, and Jehovah appeared in it in this manner, and though it was all on fire yet was not consumed, but remained entire after it: reference is frequently had to it as a matter of fact, Deu 33:16. Artapanus (g), an Heathen writer, had got some hint of it; his account is this, that while Moses was praying to God, and entreating the afflictions of his people might cease, he was propitious to him, and on a sudden fire broke out of the earth and burned, when there was no matter nor anything of a woody sort in the place: nor need this account Moses gives be thought incredible, when so many things similar to it are affirmed by Heathen writers, who speak of a whole forest in flames without fire, and of a spear that burned for two hours, and yet nothing of it consumed; and of a servant's coat all on fire, and yet after it was extinguished no trace or mark of the flames were to be seen on it; and several other things of the like kind are related by Huetius (h) out of various authors: as to the mystical signification of this bush, some make it to be a type of Christ, and of his manifestation in the flesh; of the union of the two natures in him, and of their distinction of the glory of the one, and of the meanness of the other; of his sustaining the wrath of God, and remaining fearless and unhurt by it; and of his delivering and preserving his people from it: the Jews commonly interpret it of the people of Israel, in the furnace of affliction in Egypt, and yet not consumed; nay, the more they were afflicted the more they grew; and it may be a symbol of the church and people of God, in all ages, under affliction and distress: they are like to a thorn bush both for their small quantity, being few, and for their quality, in themselves weak and strengthless, mean and low; have about them the thorns of corruptions and temptations, and who are often in the fire of afflictions and persecutions, yet are not consumed; which is owing to the person, presence, power, and grace of Christ being among them; See Gill on Act 7:30.\n(g) Apud Euseb. ib. c. 27. p. 434. (h) Alnetan. Quaest. l. 2. c. 12. sect. 10. p. 193, 194."
+    },
+    {
+      "src": "GILL",
+      "ref": "Exodus 3:3",
+      "note_ref": "GILL/2/3/3",
+      "cites": [
+        "Exodus 3:4",
+        "Exodus 3:2"
+      ],
+      "text": "And Moses said, I will now turn aside,.... From the place where he was, and the flock he was feeding, and get nearer to the bush, which seems to have been on one side of him and not directly before him:\nand see this great sight, why the bush is not burnt; inquire into, and find out, if he could, the reason of this strange and amazing sight; how it could be that a bush should be on fire and yet not burnt up, which might have been expected would have been destroyed at once; for what is a thorn or bramble bush to devouring flames of fire, as these appeared to be?"
+    },
+    {
+      "src": "GILL",
+      "ref": "Exodus 3:4",
+      "note_ref": "GILL/2/3/4",
+      "cites": [
+        "Exodus 3:4",
+        "Exodus 3:2"
+      ],
+      "text": "And when the Lord saw that he turned aside to see,.... Who is before called the Angel of the Lord, here Jehovah, the omniscient and omnipresent Being, who observing Moses turning aside and going onward to gratify his curiosity, by examining more narrowly this strange phenomenon:\nGod called unto him out of the midst of the bush; with an articulate voice, being the eternal Word:\nand said, Moses, Moses; for the Lord knows his people distinctly, and can call them by name; and the repetition of his name not only shows familiarity and a strong vehement affection for him, but haste to stop him, that he might proceed no further; and this was done in order to stir him up to hearken to what would be said to him:\nand he said, here am I; ready to hear what shall be said, and to obey whatever is commanded."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 12:24",
+      "note_ref": "GILL/41/12/24",
+      "cites": [
+        "Mark 12:26"
+      ],
+      "text": "And as touching the dead, that they rise,.... For the proof of the doctrine of the resurrection of the dead,\nhave ye not read in the book of Moses; that is, in the law of Moses; for though it was divided into five parts, it was but one book; just as the Psalms are called the Book of Psalms, Act 1:20, and the Prophets, the Book of the Prophets, Act 7:42. The book of Exodus is particularly intended; for the passage referred to is in Exo 3:6,\nhow in the bush God spake unto him, or \"out of the bush\", as the Syriac and Persic versions read;\nsaying, I am the God of Abraham, and the God of Isaac, and the God of Jacob? See Gill on Mat 22:31, Mat 22:32."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 12:25",
+      "note_ref": "GILL/41/12/25",
+      "cites": [
+        "Mark 12:26"
+      ],
+      "text": "He is not the God of the dead,.... This is our Lord's reasoning upon the passage; showing from hence, that since God is the God of these persons, they must be now alive in their souls, for God is not the God of the dead; and that their bodies must rise again, or he will not be the God of their whole persons;\nbut the God, of the living: the word \"God\", in this clause, is omitted in the Vulgate Latin, Syriac, and Arabic versions, but retained in the Persic and Ethiopic versions; See Gill on Mat 22:32;\nye therefore do greatly err; signifying, that it was not a slight mistake, an error of small importance, but a very great one; inasmuch as it was contrary to the Scriptures, and derogated from the power of God, and destroyed that covenant interest, which God has in his people, and particularly in the principal men of their nation, who were the fathers and founders of them."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 12:26",
+      "note_ref": "GILL/41/12/26",
+      "cites": [
+        "Mark 12:26"
+      ],
+      "text": "And one of the Scribes came,.... Matthew calls him a lawyer, Mat 22:35, an interpreter of the law, as a Scribe was:\nand having heard them reasoning together; being present at the dispute between Christ and the Sadducees, which he diligently attended to:\nand perceiving that he had answered them well: in a most beautiful manner. The Jews have adopted the very Greek word here used, and make use of it in the same sense as (n), \"he answered him well\": or, as the gloss upon it, \"praise worthily\"; in a manner deserving praise; and is the same with (o), \"thou hast said well\", or beautifully; and so the answer here was with great solidity, and judgment, and strength of argument, to their utter confusion and silence; whereby he understood he had considerable knowledge in the law, and yet was willing to try if he could not puzzle him with a question relating to it:\nasked him, which is the first commandment of all? of all the commandments in the law, moral and ceremonial.\n(n) T. Bab. Sabbat, fol. 108. 1. (o) Zohar in Lev. fol. 2. 3. & 15. 1."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 12:27",
+      "note_ref": "GILL/41/12/27",
+      "cites": [
+        "Mark 12:26"
+      ],
+      "text": "Jesus answered him, the first of all the commandments is,.... Christ replied at once, without taking any time to consider of it, that the chief and principal of all the commands of the law, and what is of the greatest importance is,\nhear, O Israel, the Lord our God is one Lord. The Vulgate Latin, and Arabic versions read, \"one God\"; but the Syriac, and Ethiopic render it, \"one Lord\"; and that rightly, agreeably to the Greek text, and to Deu 6:4, from whence this is taken. This passage of Scripture, to the end of the ninth verse, is the first of the sections which were put into their phylacteries; See Gill on Mat 23:5; and was repeated twice every day, morning and evening; which is by the Jews called from the first word , \"the reading of the Shema\": concerning the exact time of the reciting of this, morning and evening, and of the posture in which they do it, reclining in the evening, and standing in the morning, and of the prayers before and after it, various rules are given in their Misna (p), or oral law; it is a precept of great esteem and veneration with them, and attended to with much solemnity. The account Maimonides (q) gives of it is this:\n\"twice every day they read Keriath Shema; (i.e. \"hear, O Israel\", &c.) in the evening and in morning, as it is said, Deu 6:7. \"When thou liest down, and when thou risest up\"; in the hour it is the custom of men to lie down, and this is night; and in the hour it is the custom of men to stand, and this is day: and what does he read? three sections; and they are these, \"hear\", &c. Deu 6:4, and it shall come to pass, \"if ye shall hearken\", &c. Deu 11:13, \"and Moses said\", &c. Exo 13:3, and they read the section, \"hear, O Israel\", first, because there is in it the unity of God, and the love of him and his doctrine; for it is, , \"the great root\", or \"foundation\", on which all hangs or depends.''\nAnd it is observable, that the last letter of the word \"hear\", and the last of the word \"one\", are both written in very large characters in the Hebrew Bible, to denote the greatness of the command, and to cause attention to it. The Jews seek for mysteries in these letters, and think the unusual size of them, points at some very great things: they observe, that the first of these letters is numerically \"seventy\", and directs to the seventy names of the law, and the seventy ways in which it may be interpreted, and the seventy nations of the world, from whom the Israelites are distinguished, by their belief of the one God (r); and that the latter stands for the number \"four\", and shows that the Lord is the one God, in heaven and in earth, in all the world, and in the four parts of it; and that both these letters put together, make a word, which signifies \"a witness\"; showing that this passage is a glorious testimony of the unity of God, and that the Israelites are witnesses of it, by believing and professing it; and that should they depart from the faith of it, God would be a witness against them: and now, though there is no solid foundation for such interpretations, yet this shows what an opinion they had of the greatness of this command; to which, may be added, they ask (s),\n\"why does, \"hear, O Israel\", &c. go before that passage in Deu 11:13. \"And it shall come to pass, if ye shall hearken diligently unto my commandments\", &c. but because a man must take upon him, first the yoke of the kingdom of heaven, and after that he must take upon him the yoke of the commandments.''\nThe sense is, that he must first make a confession of his faith in God, which is contained in Deu 6:4 and then he must obey his commands; so that they plainly considered this, as the first and greatest of all. These words are frequent in the mouths of the modern Jews, in proof of the unity of God, and against a plurality in the Deity; but the ancient ones, not only consider them as a good and sufficient proof, that there is but one God, but as expressive of a Trinity in the Godhead: with a view to this text they observe (t), that\n\"Jehovah, \"our God, Jehovah\"; these are, , \"three degrees\" (or persons) with respect to this sublime mystery, \"in the beginning, God\", or \"Elohim, created\", &c.''\nAnd again (u),\n\"there is an unity which is called Jehovah the first, our God, Jehovah; behold! they are all one, and therefore called one: lo! these three names are as one; and although we call them one, and they are one; but by the revelation of the Holy Ghost it is made known, and they are by the sight of the eye to be known, that \"these three are one\", (see Jo1 5:7,) and this is the mystery of the voice that is heard; the voice is one; and there are three things, fire, and wind, and water, and they are all one, in the mystery of the voice, and they are not but one: so here, Jehovah, our God, Jehovah, these, , \"three modes, forms\", or \"things\", are one.''\nOnce more they (w) say,\n\"there are two, and one is joined to them, and they are three; and when they are three, they are one: these are the two names of hear, O Israel, which are Jehovah, Jehovah, and Elohenu, or our God, is joined unto them; and it is the seal of the ring of truth.''\nTo which I shall subjoin one passage more, where R. Eliezer is asking his father R. Simeon ben Jochai, why Jehovah is sometimes called Elohim, he replies (x), among other things;\n\"come see, there are \"three degrees\", (or persons,) and every degree is by itself; although they are all one, and bound together in one, and one is not separated from another.''\nTo believe this, is the first and chief commandment in the law, and is the principal article of the Christian faith; namely, to believe that there is one God, and that there are three persons, Father, Son, and Spirit, in the Godhead.\n(p) Berncot, c. 1. sect. 1, 2, 3, 4. (q) Hilch. Keriat Shema, c. 1. sect. 1, 2. (r) Baal Hatturim, in Deut. vi. 4. (s) Misn. Berncot, c. 2. sect. 2. (t) Zohar in Gen. fol. 1. 3. (u) Zohar in Exod. fol. 18. 3, 4. (w) Ib. in Num. fol. 67. 3. (x) Zohar in Lev. fol. 27. 2."
+    },
+    {
+      "src": "GILL",
+      "ref": "Acts 7:33",
+      "note_ref": "GILL/44/7/33",
+      "cites": [
+        "Acts 7:35"
+      ],
+      "text": "Then said the Lord to him,.... To Moses, who through curiosity had made too near an approach:\nput off thy shoes from thy feet; in token of humility, obedience, and reverence:\nfor the place where thou standest is holy ground; not really, but relatively, on account of the divine presence in it, and only so long as that continued."
+    },
+    {
+      "src": "GILL",
+      "ref": "Acts 7:34",
+      "note_ref": "GILL/44/7/34",
+      "cites": [
+        "Acts 7:35"
+      ],
+      "text": "I have seen, I have see the affliction of my people, &c. The repetition of the phrase denotes the certainty of it, the exquisite and exact knowledge the Lord took of the affliction of his people, and how much his heart was affected with it:\nwhich is in Egypt; from whence Moses had fled and had left them, he being now in the land of Midian, which was the place of his sojourning: and\nI have heard their groaning; under their various oppressions and burdens, and by reason of the cruel usage of their taskmasters:\nand am come down to deliver them; not by local motion, or change of place, God being omnipresent, who fills all places at all times; but by the effects of his grace and power.\nAnd now come, I will send thee into Egypt; to Pharaoh, the king of it, Exo 3:10 to require of him to let the children of Israel go, and to deliver them out of their bondage."
+    },
+    {
+      "src": "GILL",
+      "ref": "Acts 7:35",
+      "note_ref": "GILL/44/7/35",
+      "cites": [
+        "Acts 7:35"
+      ],
+      "text": "This Moses, whom they refused,.... That is, the Israelites; the Ethiopic version reads, \"his kinsmen denied\"; those of his own nation, and even of his family: \"saying, who made thee a ruler and a judge?\" as Dathan, or whoever said the words in Act 7:27.\nthe same did God send to be a ruler and a deliverer; or \"a redeemer\"; so the Jews often call Moses, saying (z).\n\"as was the first redeemer, so shall be the last Redeemer.''\nHe was an eminent type of the Messiah; and the redemption of the people of Israel out of the Egyptian bondage, by him, was emblematical of redemption from the bondage of sin, Satan, and the law by Jesus Christ; and as Moses had his mission and commission from God, so had Jesus Christ, as Mediator; and as Moses was despised by his brethren, and yet made the ruler and deliverer of them, so, though Jesus was set at nought by the Jews, yet he was made both Lord and Christ, and exalted to be a Prince and a Saviour. Moses was sent \"by the hands of the angel, which appeared to him in the bush\"; and who was the second person in the Godhead; the Father sent him by the Son, not as an instrument, but as having the power and authority over him, to govern, direct, and assist him. The Alexandrian copy, and the Vulgate Latin version read, \"with the hand of the angel\"; he sent Moses along with him to be used by him as an instrument in his hand, to deliver the people of Israel; nor does this at all contradict what the Jews say (a) at the time of the passover:\n\"and the Lord hath brought us out of Egypt, , \"not by the hands of an angel\", nor by the hands of a seraph, nor by the hands of a messenger, but the holy blessed God, by his own glory, by himself;''\nfor he did not deliver them by a created angel, but by an uncreated one.\n(z) Bemidbar Rabba, sect. 11. fol. 202. 2. Midrash Ruth, fol. 33. 2. & Midrash Kohelet, fol. 63. 2. (a) Haggada Shel Pesach. p. 13. Ed. Rittangel."
+    },
+    {
+      "src": "GILL",
+      "ref": "Acts 7:36",
+      "note_ref": "GILL/44/7/36",
+      "cites": [
+        "Acts 7:35"
+      ],
+      "text": "He brought them out,.... Of Egypt, and delivered them from all their oppressions in it:\nafter that he had shown wonders and signs in the land of Egypt; by turning his rod into a serpent, and by his rod swallowing up the rods of the Egyptians, and by the ten plagues, which were inflicted on Pharaoh, and his people, for not letting the children of Israel go:\nand in the Red sea; by dividing the waters of it, so that the people of Israel went through it as on dry ground, which Pharaoh and his army attempting to do, were drowned. This sea is called the Red sea, not from the natural colour of the water, which is the same with that of other seas; nor from the appearance of it through the rays of the sun upon it, or the shade of the red mountains near it; but from Erythrus, to whom it formerly belonged, and whose name signifies red; and is no other than Esau, whose name was Edom, which signifies the same; it lay near his country: it is called in the Hebrew tongue the sea of Suph, from the weeds that grew in it; and so it is in the Syriac version here:\nand in the wilderness forty years; where wonders were wrought for the people in providing food for them, and in preserving them from their enemies, when at last they were brought out of it into Canaan's land, by Joshua. This exactly agrees with what has been before observed on Act 7:23 from the Jewish writings, that Moses was forty years in Pharaoh's court, forty years in Midian, and forty years in the wilderness."
+    },
+    {
+      "src": "JFB",
+      "ref": "Exodus 3:2",
+      "note_ref": "JFB/2/3/2",
+      "cites": [
+        "Exodus 3:4",
+        "Exodus 3:2"
+      ],
+      "text": "the angel of the Lord appeared unto him in a flame of fire--It is common in Scripture to represent the elements and operations of nature, as winds, fires, earthquakes, pestilence, everything enlisted in executing the divine will, as the \"angels\" or messengers of God. But in such cases God Himself is considered as really, though invisibly, present. Here the preternatural fire may be primarily meant by the expression \"angel of the Lord\"; but it is clear that under this symbol, the Divine Being was present, whose name is given (Exo 3:4, Exo 3:6), and elsewhere called the angel of the covenant, Jehovah-Jesus.\nout of the midst of a bush--the wild acacia or thorn, with which that desert abounds, and which is generally dry and brittle, so much so, that at certain seasons, a spark might kindle a district far and wide into a blaze. A fire, therefore, being in the midst of such a desert bush was a \"great sight.\" It is generally supposed to have been emblematic of the Israelites' condition in Egypt--oppressed by a grinding servitude and a bloody persecution, and yet, in spite of the cruel policy that was bent on annihilating them, they continued as numerous and thriving as ever. The reason was \"God was in the midst of them.\" The symbol may also represent the present state of the Jews, as well as of the Church generally in the world."
+    },
+    {
+      "src": "JFB",
+      "ref": "Exodus 3:4",
+      "note_ref": "JFB/2/3/4",
+      "cites": [
+        "Exodus 3:4",
+        "Exodus 3:2"
+      ],
+      "text": "when the Lord saw that he turned aside to see--The manifestations which God anciently made of Himself were always accompanied by clear, unmistakable signs that the communications were really from heaven. This certain evidence was given to Moses. He saw a fire, but no human agent to kindle it; he heard a voice, but no human lips from which it came; he saw no living Being, but One was in the bush, in the heat of the flames, who knew him and addressed him by name. Who could this be but the Divine Being?"
+    },
+    {
+      "src": "JFB",
+      "ref": "Exodus 3:5",
+      "note_ref": "JFB/2/3/5",
+      "cites": [
+        "Exodus 3:4"
+      ],
+      "text": "put off thy shoes--The direction was in conformity with a usage which was well known to Moses, for the Egyptian priests observed it in their temples, and it is observed in all Eastern countries where the people take off their shoes or sandals, as we do our hats. But the Eastern idea is not precisely the same as the Western. With us, the removal of the hat is an expression of reverence for the place we enter, or rather of Him who is worshipped there. With them the removal of the shoes is a confession of personal defilement and conscious unworthiness to stand in the presence of unspotted holiness."
+    },
+    {
+      "src": "JFB",
+      "ref": "Exodus 3:6",
+      "note_ref": "JFB/2/3/6",
+      "cites": [
+        "Exodus 3:4"
+      ],
+      "text": "I am the God . . . come down to deliver--The reverential awe of Moses must have been relieved by the divine Speaker (see Mat 22:32), announcing Himself in His covenant character, and by the welcome intelligence communicated. Moreover, the time, as well as all the circumstances of this miraculous appearance, were such as to give him an illustrious display of God's faithfulness to His promises. The period of Israel's journey and affliction in Egypt had been predicted (Gen 15:13), and it was during the last year of the term which had still to run that the Lord appeared in the burning bush."
+    },
+    {
+      "src": "JFB",
+      "ref": "Acts 7:35",
+      "note_ref": "JFB/44/7/35",
+      "cites": [
+        "Acts 7:35"
+      ],
+      "text": "This Moses whom they refused, saying, Who made thee a ruler and a judge, &c.--Here, again, \"the stone which the builders refused is made the head of the corner\" (Psa 118:22)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Acts 7:37",
+      "note_ref": "JFB/44/7/37",
+      "cites": [
+        "Acts 7:35"
+      ],
+      "text": "This is that Moses which said . . . A prophet . . . him shall ye hear--This is quoted to remind his Moses-worshipping audience of the grand testimony of their faithful lawgiver, that he himself was not the last and proper object of the Church's faith, but only a humble precursor and small model of Him to whom their absolute submission was due."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Exodus 3:1",
+      "note_ref": "CLARKE/2/3/1",
+      "cites": [
+        "Exodus 3:2"
+      ],
+      "text": "Jethro his father-in-law - Concerning Jethro, see Clarke's note on Exo 2:18. Learned men are not agreed on the signification of the word חתן chothen, which we translate father-in-law, and which in Gen 19:14, we translate son-in-law. It seems to be a general term for a relative by marriage, and the connection only in which it stands can determine its precise meaning. It is very possible that Reuel was now dead, it being forty years since Moses came to Midian; that Jethro was his son, and had succeeded him in his office of prince and priest of Midian; that Zipporah was the sister of Jethro; and that consequently the word חתן chothen should be translated brother-in-law in this place: as we learn from Gen 34:9, Deu 7:3, Jos 23:12, and other places, that it simply signifies to contract affinity by marriage. If this conjecture be right, we may well suppose that, Reuel being dead, Moses was continued by his brother-in-law Jethro in the same employment he had under his father.\nMountain of God - Sometimes named Horeb, at other times Sinai. The mountain itself had two peaks; one was called Horeb, the other Sinai. Horeb was probably the primitive name of the mountain, which was afterwards called the mountain of God, because God appeared upon it to Moses; and Mount Sinai, סיני, from סנה seneh, a bush, because it was in a bush or bramble, in a flame of fire, that this appearance was made."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Exodus 3:2",
+      "note_ref": "CLARKE/2/3/2",
+      "cites": [
+        "Exodus 3:4",
+        "Exodus 3:2"
+      ],
+      "text": "The angel of the Lord - Not a created angel certainly; for he is called יהוה Jehovah, Exo 3:4, etc., and has the most expressive attributes of the Godhead applied to him, Exo 3:14, etc. Yet he is an angel, מלאך malach, a messenger, in whom was the name of God, Exo 23:21; and in whom dwelt all the fullness of the Godhead bodily, Col 2:9; and who, in all these primitive times, was the Messenger of the covenant, Mal 3:1. And who was this but Jesus, the Leader, Redeemer, and Savior of mankind? See Clarke's note on Gen 16:7.\nA flame of fire, out of the midst of a bush - Fire was, not only among the Hebrews but also among many other ancient nations, a very significant emblem of the Deity. God accompanied the Israelites in all their journeying through the wilderness as a pillar of fire by night; and probably a fire or flame in the holy of holies, between the cherubim, was the general symbol of his presence; and traditions of these things, which must have been current in the east, have probably given birth, not only to the pretty general opinion that God appears in the likeness of fire, but to the whole of the Zoroastrian system of fire-worship. It has been reported of Zoroaster, or Zeradusht, that having retired to a mountain for the study of wisdom, and the benefit of solitude, the whole mountain was one day enveloped with flame, out of the midst of which he came without receiving any injury; on which he offered sacrifices to God, who, he was persuaded, had then appeared to him. M. Anquetil du Perron gives much curious information on this subject in his Zend Avesta. The modern Parsees call fire the off-spring of Ormusd, and worship it with a vast variety of ceremonies. Among the fragments attributed to Aeschylus, and collected by Stanley in his invaluable edition of this poet, p. 647, col. 1, we find the following beautiful verses:\nΧωριζε θνητων τον Θεον, και μη δοκει\nὉμοιον αυτῳ σαρκινον καθεσταναι.\nΟυκ οισθα δ' αυτον· ποτε μεν ὡς πυρ φαινεται\nΑπλαστον ὁρμῃ· ποτε δ' ὑδωρ, ποτε δε γνοφος.\n\"Distinguish God from mortal men; and do not suppose that any thing fleshly is like unto him. Thou knowest him not: sometimes indeed he appears as a formless and impetuous Fire, sometimes as water, sometimes as thick darkness.\" The poet proceeds:\nΤρεμει δ' ορη, και γαια, και πελεριος\nΒυθος θαλασσης, κωρεων ὑψος μεγα,\nὉταν επιβλεψῃ γοργον ομμα δεσποτου.\n\"The mountains, the earth, the deep and extensive sea, and the summits of the highest mountains tremble whenever the terrible eye of the Supreme Lord looks down upon them.\"\nThese are very remarkable fragments, and seem all to be collected from traditions relative to the different manifestations of God to the Israelites in Egypt, and in the wilderness. Moses wished to see God, but he could behold nothing but an indescribable glory: nothing like mortals, nothing like a human body, appeared at any time to his eye, or to those of the Israelites. \"Ye saw no manner of similitude,\" said Moses, \"on the day that the Lord spake unto you in Horeb, out of the midst of the Fire,\" Deu 4:15. But sometimes the Divine power and justice were manifested by the indescribable, formless, impetuous, consuming flame; at other times he appeared by the water which he brought out of the flinty rock; and in the thick darkness on Horeb, when the fiery law proceeded from his right hand, then the earth quaked and the mountain trembled: and when his terrible eye looked out upon the Egyptians through the pillar of cloud and fire, their chariot wheels were struck off, and confusion and dismay were spread through all the hosts of Pharaoh; Exo 14:24, Exo 14:25.\nAnd the bush was not consumed - 1. An emblem of the state of Israel in its various distresses and persecutions: it was in the fire of adversity, but was not consumed. 2. An emblem also of the state of the Church of God in the wilderness, in persecutions often, in the midst of its enemies, in the region of the shadow of death - yet not consumed. 3. An emblem also of the state of every follower of Christ: cast down, but not forsaken; grievously tempted, but not destroyed; walking through the fire, but still unconsumed! Why are all these preserved in the midst of those things which have a natural tendency to destroy them! Because God Is In The Midst Of Them; it was this that preserved the bush from destruction; and it was this that preserved the Israelites; and it is this, and this alone, that preserves the Church, and holds the soul of every genuine believer in the spiritual life. He in whose heart Christ dwells not by faith, will soon be consumed by the world, the flesh, and the devil."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Exodus 3:5",
+      "note_ref": "CLARKE/2/3/5",
+      "cites": [
+        "Exodus 3:4"
+      ],
+      "text": "Put off thy shoes - It is likely that from this circumstance all the eastern nations have agreed to perform all the acts of their religious worship barefooted. All the Mohammedans, Brahmins, and Parsees do so still. The Jews were remarked for this in the time of Juvenal; hence he speaks of their performing their sacred rites barefooted; Sat. vi., ver. 158:\nObservant ubi festa mero pede sabbata reges.\nThe ancient Greeks did the same. Jamblichus, in the life of Pythagoras, tells us that this was one of his maxims, Ανυποδητος θυε και προσκυνει, Offer sacrifice and worship with your shoes off. And Solinus asserts that no person was permitted to enter into the temple of Diana, in Crete, till he had taken off his shoes. \"Aedem Numinis (Dianae) praeterquam nudus vestigio nulles licito ingreditur.\" Tertullian observes, de jejunio, that in a time of drought the worshippers of Jupiter deprecated his wrath, and prayed for rain, walking barefooted. \"Cum stupet caelum, et aret annus, nudipedalia, denunciantur.\" It is probable that נעלים nealim, in the text, signifies sandals, translated by the Chaldee סנדל sandal, and סנדלא sandala, (see Gen 14:23), which was the same as the Roman solea, a sole alone, strapped about the foot As this sole must let in dust, gravel, and sand about the foot in travelling, and render it very uneasy, hence the custom of frequently washing the feet in those countries where these sandals were worn. Pulling off the shoes was, therefore, an emblem of laying aside the pollutions contracted by walking in the way of sin. Let those who name the Lord Jesus Christ depart from iniquity. In our western countries reverence is expressed by pulling off the hat; but how much more significant is the eastern custom! \"The natives of Bengal never go into their own houses with their shoes on, nor into the houses of others, but always leave their shoes at the door. It would be a great affront not to attend to this mark of respect when visiting; and to enter a temple without pulling off the shoes would be an unpardonable offense.\" - Ward.\nThe place whereon thou standest is holy ground - It was not particularly sanctified by the Divine presence; but if we may credit Josephus, a general opinion had prevailed that God dwelt on that mountain; and hence the shepherds, considering it as sacred ground, did not dare to feed their flocks there. Moses, however, finding the soil to be rich and the pasturage good, boldly drove his flock thither to feed on it - Antiq., b. ii., c. xii., s. 1."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Exodus 3:6",
+      "note_ref": "CLARKE/2/3/6",
+      "cites": [
+        "Exodus 3:4"
+      ],
+      "text": "I am the God of thy father - Though the word אבי abi, father, is here used in the singular, St Stephen, quoting this place, Act 7:32, uses the plural, Ὁ Θεος των πατερων σου, The God of thy Fathers; and that this is the meaning the following words prove: The God of Abraham, the God of Isaac, and the God of Jacob. These were the fathers of Moses in a direct line. This reading is confirmed by the Samaritan and by the Coptic. Abraham was the father of the Ishmaelites, and with him was the covenant first made. Isaac was the father of the Edomites as well as the Israelites, and with him was the covenant renewed. Jacob was the father of the twelve patriarchs, who were founders of the Jewish nation, and to him were the promises particularly confirmed. Hence we see that the Arabs and Turks in general, who are descendants of Ishmael; the Edomites, now absorbed among the Jews, (see Clarke's note on Gen 25:23), who are the descendants of Esau; and the Jewish people, wheresoever scattered, who are the descendants of Jacob, are all heirs of the promises included in this primitive covenant; and their gathering in with the fullness of the Gentiles may be confidently expected.\nAnd Moses hid his face - For similar acts, see Kg1 19:13; Isa 6:1, Isa 6:5; Neh 9:9; Psa 106:44; Act 7:34. He was afraid to look - he was overawed by God's presence, and dazzled with the splendor of the appearance."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Mark 12:23",
+      "note_ref": "CLARKE/41/12/23",
+      "cites": [
+        "Mark 12:26"
+      ],
+      "text": "When they shall rise - This clause is wanting in BCDL, four others, Syriac, later Arabic, later Persic, Coptic, Saxon, and two of the Itala. Griesbach leaves it doubtful.",
+      "anchor": true
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Mark 12:27",
+      "note_ref": "CLARKE/41/12/27",
+      "cites": [
+        "Mark 12:26"
+      ],
+      "text": "But the God of the living - Θεος, God, is left out by ABCDKL, and in more than forty others, Syriac, one Arabic, one Persic, Coptic, Armenian, Gothic, Saxon, Vulgate, Itala, and Origen. Griesbach has omitted it."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Acts 7:30",
+      "note_ref": "CLARKE/44/7/30",
+      "cites": [
+        "Acts 7:35"
+      ],
+      "text": "In a flame of fire in a bush - See this and the following verses largely explained in the notes on Exo 3:1-8 (note).",
+      "anchor": true
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Acts 7:36",
+      "note_ref": "CLARKE/44/7/36",
+      "cites": [
+        "Acts 7:35"
+      ],
+      "text": "He brought them out, after that he had showed wonders, etc. - Thus the very person whom they had rejected, and, in effect, delivered up into the hands of Pharaoh that he might be slain, was the person alone by whom they were redeemed from their Egyptian bondage. And does not St. Stephen plainly say by this, that the very person, Jesus Christ, whom they had rejected and delivered up into the hands of Pilate to be crucified, was the person alone by whom they could be delivered out of their spiritual bondage, and made partakers of the inheritance among the saints in light? No doubt they felt that this was the drift of his speech."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Acts 7:37",
+      "note_ref": "CLARKE/44/7/37",
+      "cites": [
+        "Acts 7:35"
+      ],
+      "text": "This is that Moses, which said - A prophet, etc. - This very Moses, so highly esteemed and honored by God, announced that very prophet whom ye have lately put to death. See the observations at Deu 18:22 (note)."
+    },
+    {
+      "src": "KD",
+      "ref": "Exodus 3:1",
+      "note_ref": "KD/2/3/1",
+      "cites": [
+        "Exodus 3:2"
+      ],
+      "text": "When Moses was keeping the flock of Jethro, his father-in-law, he drove them on one occasion behind the desert, and came to the mountains of Horeb. רעה היה, lit. \"he was feeding:\" the participle expresses the continuance of the occupation. המּדבּר אחר does not mean ad interiora deserti (Jerome); but Moses drove the sheep from Jethro's home as far as Horeb, so that he passed through a desert with the flock before he reached the pasture land of Horeb. For \"in this, the most elevated ground of the peninsula, you find the most fertile valleys, in which even fruit-trees grow. Water abounds in this district; consequently it is the resort of all the Bedouins when the lower countries are dried up\" (Rosenmller). Jethro's home was separated from Horeb, therefore, by a desert, and is to be sought to the south-east, and not to the north-east. For it is only a south-easterly situation that will explain these two facts: First, that when Moses returned from Midian to Egypt, he touched again at Horeb, where Aaron, who had come from Egypt, met him (Exo 4:27); and, secondly, that the Israelites never came upon any Midianites on their journey through the desert, whilst the road of Hobab the Midianite separated from theirs as soon as they departed from Sinai (Num 10:30).\n(Note: The hypothesis, that, after the calling of Moses, this branch of the Midianites left the district they had hitherto occupied, and sought out fresh pasture ground, probably on the eastern side of the Elanitic Gulf, is as needless as it is without support.)\nHoreb is called the Mount of God by anticipation, with reference to the consecration which it subsequently received through the revelation of God upon its summit. The supposition that it had been a holy locality even before the calling of Moses, cannot be sustained. Moreover, the name is not restricted to one single mountain, but applies to the central group of mountains in the southern part of the peninsula (vid., Exo 19:1). Hence the spot where God appeared to Moses cannot be precisely determined, although tradition has very suitably given the name Wady Shoeib, i.e., Jethro's Valley, to the valley which bounds the Jebel Musa towards the east, and separates it from the Jebel ed Deir, because it is there that Moses is supposed to have fed the flock of Jethro. The monastery of Sinai, which is in this valley, is said to have been built upon the spot where the thorn-bush stood, according to the tradition in Antonini Placent. Itinerar. c. 37, and the annals of Eutychius (vid., Robinson, Palestine)."
+    },
+    {
+      "src": "KD",
+      "ref": "Exodus 3:2",
+      "note_ref": "KD/2/3/2",
+      "cites": [
+        "Exodus 3:4",
+        "Exodus 3:2"
+      ],
+      "text": "Here, at Horeb, God appeared to Moses as the Angel of the Lord \"in a flame of fire out of the midst of the thorn-bush\" (סנה, βάτος, rubus), which burned in the fire and was not consumed. אכּל, in combination with איננּוּ, must be a participle for מאכּל. When Moses turned aside from the road or spot where he was standing, \"to look at this great sight\" (מראה), i.e., the miraculous vision of the bush that was burning and yet not burned up, Jehovah called to him out of the midst of the thorn-bush, \"Moses, Moses (the reduplication as in Gen 22:11), draw not nigh hither: put off thy shoes from off thy feet, for the place whereon thou standest is holy ground\" (אדמה). The symbolical meaning of this miraculous vision, - that is to say, the fact that it was a figurative representation of the nature and contents of the ensuing message from God, - has long been admitted. The thorn-bush in contrast with the more noble and lofty trees (Jdg 9:15) represented the people of Israel in their humiliation, as a people despised by the world. Fire and the flame of fire were not \"symbols of the holiness of God;\" for, as the Holy One, \"God is light, and in Him is no darkness at all\" (Jo1 1:5), He \"dwells in the light which no man can approach unto\" (Ti1 6:16); and that not merely according to the New Testament, but according to the Old Testament view as well, as is evident from Isa 10:17, where \"the Light of Israel\" and \"the Holy One of Israel\" are synonymous. But \"the Light of Israel became fire, and the Holy One a flame, and burned and consumed its thorns and thistles.\" Nor is \"fire, from its very nature, the source of light,\" according to the scriptural view. On the contrary, light, the condition of all life, is also the source of fire. The sun enlightens, warms, and burns (Job 30:28; Sol. Sol 1:6); the rays of the sun produce warmth, heat, and fire; and light was created before the sun. Fire, therefore, regarded as burning and consuming, is a figurative representation of refining affliction and destroying punishment (Co1 3:11.), or a symbol of the chastening and punitive justice of the indignation and wrath of God. It is in fire that the Lord comes to judgment (Dan 7:9-10; Eze 1:13-14, Eze 1:27-28; Rev 1:14-15). Fire sets forth the fiery indignation which devours the adversaries (Heb 10:27). He who \"judges and makes war in righteousness' has eyes as a flame of fire (Rev 19:11-12). Accordingly, the burning thorn-bush represented the people of Israel as they were burning in the fire of affliction, the iron furnace of Egypt (Deu 4:20). Yet, though the thorn-bush was burning in the fire, it was not consumed; for in the flame was Jehovah, who chastens His people, but does not give them over unto death (Psa 118:18). The God of Abraham, Isaac, and Jacob had come down to deliver His people out of the hand of the Egyptians (Exo 3:8). Although the affliction of Israel in Egypt proceeded from Pharaoh, yet was it also a fire which the Lord had kindled to purify His people and prepare it for its calling. In the flame of the burning bush the Lord manifested Himself as the \"jealous God, who visits the sins of the fathers upon the children unto the third and fourth generations of them that hate Him, and showeth mercy unto thousands of them that love Him and keep His commandments\" (Exo 20:5; Deu 5:9-10), who cannot tolerate the worship of another god (Exo 34:14), and whose anger burns against idolaters, to destroy them (Deu 6:15). The \"jealous God\" was a \"consuming fire\" in the midst of Israel (Deu 4:24). These passages show that the great sight which Moses saw not only had reference to the circumstances of Israel in Egypt, but was a prelude to the manifestation of God on Sinai for the establishment of the covenant (Exo 19 and 20), and also a representation of the relation in which Jehovah would stand to Israel through the establishment of the covenant made with the fathers. For this reason it occurred upon the spot where Jehovah intended to set up His covenant with Israel. But, as a jealous God, He also \"takes vengeance upon His adversaries\" (Nah 1:2.). Pharaoh, who would not let Israel go, He was about to smite with all His wonders (Exo 3:20), whilst He redeemed Israel with outstretched arm and great judgments (Exo 6:6). - The transition from the Angel of Jehovah (Exo 3:2) to Jehovah (Exo 3:4) proves the identity of the two; and the interchange of Jehovah and Elohim, in Exo 3:4, precludes the idea of Jehovah being merely a national God. The command of God to Moses to put off his shoes, may be accounted for from the custom in the East of wearing shoes or sandals merely as a protection from dirt. No Brahmin enters a pagoda, no Moslem a mosque, without first taking off at least his overshoes (Rosenm. Morgenl. i. 261; Robinson, Pal. ii. p. 373); and even in the Grecian temples the priests and priestesses performed the service barefooted (Justin, Apol. i. c. 62; Bhr, Symbol. ii. 96). when entering other holy places also, the Arabs and Samaritans, and even the Yezidis of Mesopotamia, take off their shoes, that the places may not be defiled by the dirt or dust upon them (vid., Robinson, Pal. iii. 100, and Layard's Nineveh and its Remains). The place of the burning bush was holy because of the presence of the holy God, and putting off the shoes was intended to express not merely respect for the place itself, but that reverence which the inward man (Eph 3:16) owes to the holy God."
+    },
+    {
+      "src": "KD",
+      "ref": "Exodus 3:6",
+      "note_ref": "KD/2/3/6",
+      "cites": [
+        "Exodus 3:4"
+      ],
+      "text": "Jehovah then made Himself known to Moses as the God of his fathers, Abraham, Isaac, and Jacob, reminding him through that name of the promises made to the patriarchs, which He was about to fulfil to their seed, the children of Israel. In the expression, \"thy father,\" the three patriarchs are classed together as one, just as in Exo 18:4 (\"my father\"), \"because each of them stood out singly in distinction from the nation, as having received the promise of seed directly from God\" (Baumgarten). \"And Moses hid his face, for he was afraid to look upon God.\" The sight of the holy God no sinful man can bear (cf. Kg1 19:12)."
+    },
+    {
+      "src": "MHC",
+      "ref": "Exodus 3:1",
+      "note_ref": "MHC/2/3/1",
+      "cites": [
+        "Exodus 3:4",
+        "Exodus 3:2"
+      ],
+      "text": "The years of the life of Moses are remarkably divided into three forties: the first forty he spent as a prince in Pharaoh's court, the second a shepherd in Midian, the third a king in Jeshurun; so changeable is the life of men, especially the life of good men. He had now finished his second forty, when he received his commission to bring Israel out of Egypt. Note, Sometimes it is long before God calls his servants out of that work which of old he designed them for, and has been graciously preparing them for. Moses was born to be Israel's deliverer, and yet not a word is said of it to him till he is eighty years of age. Now obverve,\nI. How this appearance of God to him found him employed. He was keeping the flock (tending sheep) near mount Horeb, Exo 3:1. This was a poor employment for a man of his parts and education, yet he rests satisfied with it, and thus learns meekness and contentment to a high degree, for which he is more celebrated in sacred writ than for all his other learning. Note, 1. In the calling to which we are called we should abide, and not be given to change. 2. Even those that are qualified for great employments and services must not think it strange if they be confined to obscurity; it was the lot of Moses before them, who foresaw nothing to the contrary but that he should die, as he had lived a great while, a poor despicable shepherd. Let those that think themselves buried alive be content to shine like lamps in their sepulchres, and wait till God's time come for setting them on a candlestick. Thus employed Moses was, when he was honoured with this vision. Note, (1.) God will encourage industry. The shepherds were keeping their flocks when they received the tidings of our Saviour's birth, Luk 2:8. Satan loves to find us idle; God is well pleased when he find us employed. (2.) Retirement is a good friend to our communion with God. When we are alone, the Father is with us. Moses saw more of God in a desert than ever he had seen in Pharaoh's court.\nII. What the appearance was. To his great surprise he saw a bush burning, when he perceived no fire either from earth or heaven to kindle it, and, which was more strange, it did not consume, Exo 3:2. It was an angel of the Lord that appeared to him; some think, a created angel, who speaks in the language of him that sent him; others, the second person, the angel of the covenant, who is himself Jehovah. It was an extraordinary manifestation of the divine presence and glory; what was visible was produced by the ministry of an angel, but he heard God in it speaking to him. 1. He saw a flame of fire; for our God is a consuming fire. When Israel's deliverance out of Egypt was promised to Abraham, he saw a burning lamp, which signified the light of joy which that deliverance should cause (Gen 15:17); but now it shines brighter, as a flame of fire, for God in that deliverance brought terror and destruction to his enemies, light and heat to his people, and displayed his glory before all. See Isa 10:17. 2. This fire was not in a tall and stately cedar, but in a bush, a thorny bush, so the word signifies; for God chooses the weak and despised things of the world (such as Moses, now a poor shepherd), with them to confound the wise; he delights to beautify and crown the humble. 3. The bush burned, and yet was not consumed, an emblem of the church now in bondage in Egypt, burning in the brick-kilns, yet not consumed; perplexed, but not in despair; cast down, but not destroyed.\nIII. The curiosity Moses had to enquire into this extraordinary sight: I will turn aside and see, Exo 3:3. He speaks as one inquisitive and bold in his enquiry; whatever it was, he would, if possible, know the meaning of it. Note, Things revealed belong to us, and we ought diligently to enquire into them.\nIV. The invitation he had to draw near, yet with a caution not to come too near, nor rashly.\n1. God gave him a gracious call, to which he returned a ready answer, Exo 3:4. When God saw that he took notice of the burning bush, and turned aside to see it, and left his business to attend it, then God called to him. If he had carelessly neglected it as an ignis fatuus - a deceiving meteor, a thing not worth taking notice of, it is probable that God would have departed, and said nothing to him; but, when he turned aside, God called to him. Note, Those that would have communion with God must attend upon him, and approach to him, in those ordinances wherein he is pleased to manifest himself, and his power and glory, though it be in a bush; they must come to the treasure, though in an earthen vessel. Those that seek God diligently shall find him, and find him their bountiful rewarder. Draw nigh to God, and he will draw nigh to you. God called him by name, Moses, Moses. This which he heard could not but surprise him much more than what he saw. The word of the Lord always went along with the glory of the Lord, for every divine vision was designed for divine revelation, Job 4:16, etc.; Job 32:14-15. Divine calls are then effectual, (1.) When the Spirit of God makes them particular, and calls us by name. The word calls, Ho, every one! The Spirit, by the application of that, calls, Ho, such a one! I know thee by name, Exo 33:12. (2.) When we return an obedient answer to them, as Moses here, \"Here am I, what saith my Lord unto his servant? Here am I, not only to hear what is said, but to do what I am bidden.\"\n2. God gave him a needful caution against rashness and irreverence in his approach, (1.) He must keep his distance; draw near, but not too near; so near as to hear, but not so near as to pry. His conscience must be satisfied, but not his curiosity; and care must be taken that familiarity do not breed contempt. Note, In all our approaches to God, we ought to be deeply affected with the infinite distance there is between us and God, Ecc 5:2. Or this may be taken as proper to the Old Testament dispensation, which was a dispensation of darkness, bondage, and terror, from which the gospel happily frees us, giving us boldness to enter into the holiest, and inviting us to draw near. (2.) He must express his reverence, and his readiness to obey: Put off thy shoes from off thy feet, as a servant. Putting off the shoe was then what putting off the hat is now, a token of respect and submission. \"The ground, for the present, is holy ground, made so by this special manifestation of the divine presence, during the continuance of which it must retain this character; therefore tread not on that ground with soiled shoes.\" Keep thy foot, Ecc 5:1. Note, We ought to approach to God with a solemn pause and preparation; and, though bodily exercise alone profits little, yet we ought to glorify God with our bodies, and to express our inward reverence by a grave and reverent behaviour in the worship of God, carefully avoiding everything that looks light, and rude, and unbecoming the awfulness of the service.\nV. The solemn declaration God made of his name, by which he would be known to Moses: I am the God of thy father, Exo 3:6. 1. He lets him know that it is God who speaks to him, to engage his reverence and attention, his faith and obedience; for this is enough to command all these: I am the Lord. Let us always hear the word as the word of God, Th1 2:13. 2. He will be known as the God of his father, his pious father Amram, and the God of Abraham, Isaac, and Jacob, his ancestors, and the ancestors of all Israel, for whom God was now about to appear. By this God designed, (1.) To instruct Moses in the knowledge of another world, and to strengthen his belief of a future state. Thus it is interpreted by our Lord Jesus, the best expositor of scripture, who from this proves that the dead are raised, against the Sadducees. Moses, says he, showed it at the bush (Luk 20:37), that is, God there showed it to him, and in him to us, Mat 22:31, etc. Abraham was dead, and yet God is the God of Abraham; therefore Abraham's soul lives, to which God stands in relation; and, to make his soul completely happy, his body must live again in due time. This promise made unto the fathers, that God would be their God, must include a future happiness; for he never did anything for them in this world sufficient to answer to the vast extent and compass of that great word, but, having prepared for them a city, he is not ashamed to be called their God, Heb 11:16; and see Act 26:6, Act 26:7; Act 24:15. (2.) To assure Moses of the fulfillment of all those particular promises made to the fathers. He may confidently expect this, for by these words it appears that God remembered his covenant, Exo 2:24. Note, [1.] God's covenant-relation to us as our God is the best support in the worst of times, and a great encouragement to our faith in particular promises. [2.] When we are conscious to ourselves of our own great unworthiness we may take comfort from God's relation to our fathers, Ch2 20:6.\nVI. The solemn impression this made upon Moses: He hid his face, as one both ashamed and afraid to look upon God. Now that he knew it was a divine light his eyes were dazzled with it; he was not afraid of a burning bush till he perceived that God was in it. Yea, though God called himself the God of his father, and a God in covenant with him, yet he was afraid. Note, 1. The more we see of God the more cause we shall see to worship him with reverence and godly fear. 2. Even the manifestations of God's grace and covenant-love should increase our humble reverence of him.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Mark 12:18",
+      "note_ref": "MHC/41/12/18",
+      "cites": [
+        "Mark 12:26"
+      ],
+      "text": "The Sadducees, who were the deists of that age, here attack our Lord Jesus, it should seem, not as the scribes, and Pharisees, and chief-priests, with any malicious design upon his person; they were not bigots and persecutors, but sceptics and infidels, and their design was upon his doctrine, to hinder the spreading of that: they denied that there was any resurrection, and world of spirits, any state of rewards and punishments on the other side of death: now those great and fundamental truths which they denied, Christ had made it his business to establish and prove, and had carried the notion of them much further that ever it was before carried; and therefore they set themselves to perplex his doctrine.\nI. See here the method they take to entangle it; they quote the ancient law, by which, if a man died without issue, his brother was obliged to marry his widow, Mar 12:19. They suppose a case to happen that, according to that law, seven brothers were, successively, the husbands of one woman, Mar 12:20. Probably, these Sadducees, according to their wonted profaneness, intended hereby to ridicule that law, and so to bring the whole frame of the Mosaic institution into contempt, as absurd and inconvenient in the practice of it. Those who deny divine truths, commonly set themselves to disparage divine laws and ordinances. But this was only by the by; their design was to expose the doctrine of the resurrection; for they suppose that if there be a future state, it must be such a one as this, and then the doctrine, they think, is clogged either with this invincible absurdity, that a woman in that state must have seven husbands, or else with this insolvable difficulty, whose wife must she be. See with what subtlety these heretics undermine the truth; they do not deny it, nor say, There can be no resurrection; nay, they do not seem to doubt of it, nor say, If there be a resurrection, whose wife shall she be? as the devil to Christ, If thou be the Son of God. But, as though these beasts of the field were more subtle than the serpent himself, they pretend to own the truth, as if they were not Sadducees, no not they; who said that they denied the resurrection? They take it for granted that there is a resurrection, and would be thought to desire instruction concerning it, when really they are designing to give a fatal stab, and think that they shall do it. Note, It is the common artifice of heretics and Sadducees to perplex and entangle the truth, which they have not the impudence to deny.\nII. See here the method Christ takes to clear and establish this truth, which they attempted to darken, and give a shock to. This was a matter of moment, and therefore Christ does not pass it over lightly, but enlarges upon it, that, if they should not be reclaimed, yet others might be confirmed.\n1. He charges the Sadducees with error, and charges that upon their ignorance. They who banter the doctrine of the resurrection as some do in our age, would be thought the only knowing men, because the only free thinkers, when really they are the fools in Israel, and the most enslaved and, prejudiced thinkers in the world. Do ye not therefore err? Ye cannot but be sensible of it yourselves, and that the cause of your error is, (1.) Because ye do not know the scriptures. Not but that the Sadducees had read the scriptures, and perhaps were ready in them; yet they might be truly said not to know the scriptures, because they did not know the sense and meaning of them, but put false constructions upon them; or they did not receive the scriptures as the word of God, but set up their own corrupt reasonings in opposition to the scripture, and would believe nothing but what they could see. Note, A right knowledge of the scripture, as the fountain whence all revealed religion now flows, and the foundation on which it is built, is the best preservative against error. Keep the truth, the scripture-truth, and it shall keep thee. (2.) Because ye know not the power of God. They could not but know that God is almighty, but they would not apply that doctrine to this matter, but gave up the truth to the objections of the impossibility of it, which would all have been answered, if they had but stuck to the doctrine of God's omnipotence, to which nothing is impossible. This therefore which God hath spoken once, we are concerned to hear twice, to hear and believe, to hear and apply - that power belongs to God, Psa 62:11; Rom 4:19-21. The same power that made soul and body and preserved them while they were together, can preserve the body safe, and the soul active, when they are parted, and can unite them together again; for behold, the Lord's arm is not shortened. The power of God, seen in the return of the spring (Psa 104:30), in the reviving of the corn (Joh 12:24), in the restoring of an abject people to their prosperity (Eze 37:12-14), in the raising of so many to life, miraculously, both in the Old Testament and in the New, and especially in the resurrection of Christ (Eph 1:19, Eph 1:20), are all earnests of our resurrection by the same power (Phi 3:21); according to the mighty working whereby he is able to subdue all things to himself.\n2. He sets aside all the force of their objection, by setting the doctrine of the future state in a true light (Mar 12:25); When they shall rise from the dead, they neither marry, nor are given in marriage. It is a folly to ask, Whose wife shall she be of the seven? For the relation between husband and wife, though instituted in the earthly paradise, will not be known in the heavenly one. Turks and infidels expect sensual pleasures in their fools' paradise, but Christians know better things - that flesh and blood shall not inherit the kingdom of God (Co1 15:50); and expect better things - even a full satisfaction in God's love and likeness (Psa 17:15); they are as the angels of God in heaven, and we know that they have neither wives nor children. It is no wonder if we confound ourselves with endless absurdities, when we measure our ideas of the world of spirits by the affairs of this world of sense.\nIII. He builds the doctrine of the future state, and of the blessedness of the righteous in that state, upon the covenant of God with Abraham, which God was pleased to own, being after Abraham's death, Mar 12:26, Mar 12:27. He appeals to the scriptures; Have ye not read in the book of Moses? We have some advantage in dealing with those that have read the scriptures, though many that have read them, wrest them, as these Sadducees did, to their own destruction. Now that which he refers them to is, what God says to Moses at the bush, I am the God of Abraham; not only, I was so, but I am so; I am the portion and happiness of Abraham, a God all-sufficient to him. Note, It is absurd to think that God's relation to Abraham should be continued, and thus solemnly recognised, if Abraham was annihilated, or that the living God should be the portion and happiness of a man that is dead, and must be for ever so; and therefore you must conclude, 1. That Abraham's soul exists and acts as a state of separation from the body. 2. That therefore, some time or other, the body must rise again; for there is such an innate inclination in a human soul towards its body, as would make a total and everlasting separation inconsistent with the ease and repose, much more with the bliss and joy of those souls that have the Lord for their God. Upon the whole matter, he concludes, Ye therefore do greatly err. Those that deny the resurrection, greatly err, and ought to be told so.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Mark 12:28",
+      "note_ref": "MHC/41/12/28",
+      "cites": [
+        "Mark 12:26"
+      ],
+      "text": "The scribes and Pharisees were (however bad otherwise) enemies to the Sadducees; now one would have expected that, when they heard Christ argue so well against the Sadducees, they would have countenanced him, as they did Paul when he appeared against the Sadducees (Act 23:9); but it had not the effect: because he did not fall in with them in the ceremonials of religion, he agreeing with them in the essentials, gained him no manner of respect with them. Only we have here an account of one of them, a scribe, who had so much civility in him as to take notice of Christ's answer to the Sadducees, and to own that he had answered well, and much to the purpose (Mar 12:28); and we have reason to hope that he did not join with the other scribes in persecuting Christ; for here we have his application to Christ for instruction, and it was such as became him; not tempting Christ, but desiring to improve his acquaintance with him.\nI. He enquired, Which is the first commandment of all? Mar 12:28. He doth not mean the first in order, but the first in weight and dignity; \"Which is that command which we ought to have in a special manner an eye to, and our obedience to which will lay a foundation for our obedience to all the rest?\" Not that any commandment of God is little (they are all the commands of a great God), but some are greater than others, moral precepts than rituals, and of some we may say, They are the greatest of all.\nII. Christ gave him a direct answer to this enquiry, Mar 12:29-31. Those that sincerely desire to be instructed concerning their duty, Christ will guide in judgment, and teach his way. He tells him,\n1. That the great commandment of all, which is indeed inclusive of all, is, that of loving God with all our hearts. (1.) Where there is a commanding principle in the soul, there is a disposition to every other duty. Love is the leading affection of the soul; the love of God is the leading grace in the renewed soul. (2.) Where this is not, nothing else that is good is done, or done aright, or accepted, or done long. Loving God with all our heart, will effectually take us off fRom. and arm us against, all those things that are rivals with him for the throne in our souls, and will engage us to every thing by which he may be honoured, and with which he will be pleased; and no commandment will be grievous where this principle commands, and has the ascendant. Now here in, Mark, our Saviour prefixes to this command the great doctrinal truth upon which it is built (Mar 12:29); Hear, O Israel, The Lord our God is one Lord; if we firmly believe this, it will follow, that we shall love him with all our heart. He is Jehovah, who has all amiable perfections in himself; he is our God, to whom we stand related and obliged; and therefore we ought to love him, to set our affections on him, let out own desire toward him, and take a delight in him; and he is one Lord, therefore he must be loved with our whole heart; he has the sole right to us, and therefore ought to have the sole possession of us. If he be one, our hearts must be one with him, and since there is no God besides, no rival must be admitted with him upon the throne.\n2. That the second great commandment is, to love our neighbour as ourselves (Mar 12:31), as truly and sincerely as we love ourselves, and in the same instances, and we must show it by doing as we would be done by. As we must therefore love God better than ourselves, because he is Jehovah, a being infinitely better than we are, and must love him with all our heart, because he is one Lord, and there is no other like him; so we must love our neighbour as ourselves, because he is of the same nature with ourselves; our hearts are fashioned alike, and my neighbour and myself are of one body, of one society, that of the world of mankind; and if a fellow-Christian, and of the same sacred society, the obligation is the stronger. Hath not one God created us? Mal 2:10. Has not one Christ redeemed us? Well might Christ say, There is no other commandment greater than these; for in these all the law is fulfilled, and if we make conscience of obedience to these, all other instances of obedience will follow of course.\nIII. The scribe consented to what Christ said, and descanted upon it, Mar 12:32, Mar 12:33. 1. He commends Christ's decision of this question; Well, Master, thou hast said the truth. Christ's assertions needed not the scribe's attestations; but this scribe, being a man in authority, thought it would put some reputation upon what Christ said, to have it commended by him; and it shall be brought in evidence against those who persecuted Christ, as a deceiver, that one of themselves, even a scribe of their own, confessed that he said the truth, and said it well. And thus must we subscribe to Christ's sayings, must set to our seal that they are true. 2. He comments upon it. Christ had quoted that great doctrine, that the Lord our God is one Lord; and this he not only assented to, but added, \"There is none other but he; and therefore we must have no other God besides.\" This excludes all rivals with him, and secures the throne in the heart entire for him. Christ had laid down that great law, of loving God with all our hearts; and this also he explains - that it is loving him with the understanding, as those that know what abundant reason we have to love him. Our love to God, as it must be an entire, so it must be an intelligent, love; we must love him with all the understanding, ex holēs tēs suneseōs - out of the whole understanding; our rational powers and faculties must all be set on work to lead out the affections of our souls toward God. Christ has said, \"To love God and our neighbour is the greatest commandment of all;\" \"Yea,\" saith the scribe, \"it is better, it is more than all whole-burnt-offerings and sacrifices, more acceptable to God, and will turn to a better account to ourselves.\" There were those who held, that the law of sacrifices was the greatest commandment of all; but this scribe readily agreed with our Saviour in this - that the law of love to God and our neighbour is greater than that of sacrifice, even than that of whole-burnt-offerings, which were intended purely for the honour of God.\nIV. Christ approved of what he said, and encouraged him to proceed in his enquiries of him, Mar 12:34. 1. He owned that he understood well, as far as he went; so far, so good. Jesus saw that he answered discreetly, and was the more pleased with it, because he had of late met with so many even of the scribes, men of letters, that answered indiscreetly, as those that had no understanding, nor desired to have any. He answered nounechōs - as one that had a mind; as a rational intelligent man, as one that had his wits about him; as one whose reason was not blinded, whose judgment was not biassed, and whose forethought was not fettered, by the prejudices which other scribes were so much under the power of. He answered as one that allowed himself liberty and leisure to consider, as one that had considered. 2. He owned that he stood fair for a further advance; \"Thou art not far from the kingdom of God, the kingdom of grace and glory; thou art in a likely way to be a Christian, a disciple of Christ. For the doctrine of Christ insists most upon these things, and is designed, and has a tendency direct, to bring thee to this.\" Note, There is hope of those who make a good use of the light they have, and go as far as that will carry them, that by the grace of God they will be led further, by the clearer discoveries God has to make to them. What became of this scribe we are not told, but would willingly hope that he took the hint Christ hereby gave him, and that, having been told by him, so much to his satisfaction, what was the great commandment of the law, he proceeded to enquire of him, or his apostles, what was the great commandment of the gospel too. Yet, if he did not, but took, up here, and went no further, we are not to think it strange; for there are many who are not far from the kingdom of God, and yet never come thither. Now, one would think, this should have invited many to consult him: but it had a contrary effect; No man, after that, durst ask him any question; every thing he said, was spoken with such authority and majesty, that every one stood in awe of him; those that desired to learn, were ashamed to ask, and those that designed to cavil, were afraid to ask."
+    },
+    {
+      "src": "MHC",
+      "ref": "Acts 7:30",
+      "note_ref": "MHC/44/7/30",
+      "cites": [
+        "Acts 7:35"
+      ],
+      "text": "Stephen here proceeds in his story of Moses; and let any one judge whether these are the words of one that was a blasphemer of Moses or no; nothing could be spoken more honourably of him. Here is,\nI. The vision which he saw of the glory of God at the bush (Act 7:30): When forty years had expired (during all which time Moses was buried alive in Midian, and was now grown old, and one would think past service), that it might appear that all his performances were products of a divine power and promise (as it appeared that Isaac was a child of promise by his being born of parents stricken in years), now, at eighty years old, he enters upon that post of honour to which he was born, in recompence for his self-denial at forty years old. Observe, 1. Where God appeared to him: In the wilderness of Mount Sinai, Act 7:30. And, when he appeared to him there, that was holy ground (Act 7:33), which Stephen takes notice of, as a check to those who prided themselves in the temple, that holy place, as if there were no communion to be had with God but there; whereas God met Moses, and manifested himself to him, in a remote obscure place in the wilderness of Sinai. They deceive themselves if they think God is confined to places; he can bring his people into a wilderness, and there speak comfortably to them. 2. How he appeared to him: In a flame of fire (for our God is a consuming fire), and yet the bush, in which this fire was, though combustible matter, was not consumed, which, as it represented the state of Israel in Egypt (where, though they were in the fire of affliction, yet they were not consumed), so perhaps it may be looked upon as a type of Christ's incarnation, and the union between the divine and human nature: God, manifested in the flesh, was as the flame of fire manifested in the bush. 3. How Moses was affected with this: (1.) He wondered at the sight, Act 7:31. It was a phenomenon with the solution of which all his Egyptian learning could not furnish him. He had the curiosity at first to pry into it: I will turn aside now, and see this great sight; but the nearer he drew the more he was struck with amazement; and, (2.) He trembled, and durst not behold, durst not look stedfastly upon it; for he was soon aware that it was not a fiery meteor, but the angel of the Lord; and no other than the Angel of the covenant, the Son of God himself. This set him a trembling. Stephen was accused for blaspheming Moses and God (Act 6:11), as if Moses had been a little god; but by this it appears that he was a man, subject to like passions as we are, and particularly that of fear, upon any appearance of the divine majesty and glory.\nII. The declaration which he heard of the covenant of God (Act 7:32): The voice of the Lord came to him; for faith comes by hearing; and this was it: I am the God of Isaac, and the God of Jacob; and therefore, 1. \"I am the same that I was.\" The covenant God made with Abraham some ages ago was, I will be to thee a God, a God all-sufficient. \"Now,\" saith God, \"that covenant is still in full force; it is not cancelled nor forgotten, but I am, as I was, the God of Abraham, and now I will make it to appear so;\" for all the favours, all the honours God put upon Israel, were founded upon this covenant with Abraham, and flowed from it. 2. \"I will be the same that I am.\" For if the death of Abraham, Isaac, and Jacob, cannot break the covenant-relation between God and them (as by this it appears it cannot), then nothing else can: and then he will be a God, (1.) To their souls, which are now separated from their bodies. Our Saviour by this proves the future state, Mat 22:31, Mat 22:32. Abraham is dead, and yet God is still his God, therefore Abraham is still alive. God never did that for him in this world which would answer the true intent and full extent of that promise, that he would be the God of Abraham; and therefore it must be done for him in the other world. Now this is that life and immortality which are brought to light by the gospel, for the full conviction of the Sadducees, who denied it. Those therefore who stood up in defence of the gospel, and endeavoured to propagate it, were so far from blaspheming Moses that they did the greatest honour imaginable to Moses, and that glorious discovery which God made of himself to him at the bush. (2.) To their seed. God, in declaring himself thus the God of their fathers, intimated his kindness to their seed, that they should be beloved for the fathers' sakes, Rom 11:28; Deu 7:8. Now the preachers of the gospel preached up this covenant, the promise made of God unto the fathers; unto which promise those of the twelve tribes that did continue serving God hoped to come, Act 26:6, Act 26:7. And shall they, under colour of supporting the holy place and the law, oppose the covenant which was made with Abraham and his seed, his spiritual seed, before the law was given, and long before the holy place was built? Since God's glory must be for ever advanced, and our glorying for ever silenced, God will have our salvation to be by promise, and not by the law; the Jews therefore who persecuted the Christians, under pretence that they blasphemed the law, did themselves blaspheme the promise, and forsook all their own mercies that were contained in it.\nIII. The commission which God gave him to deliver Israel out of Egypt. The Jews set up Moses in competition with Christ, and accused Stephen as a blasphemer because he did not do so too. But Stephen here shows that Moses was an eminent type of Christ, as he was Israel's deliverer. When God had declared himself the God of Abraham he proceeded, 1. To order Moses into a reverent posture: \"Put off thy shoes from thy feet. Enter not upon sacred things with low, and cold, and common thoughts. Keep thy foot, Ecc 5:1. Be not hasty and rash in thy approaches to God; tread softly.\" 2. To order Moses into a very eminent service. When he is ready to receive commands, he shall have commission. He is commissioned to demand leave from Pharaoh for Israel to go out of his land, and to enforce that demand, Act 7:34. Observe, (1.) The notice God took both of their sufferings and of their sense of their sufferings: I have seen, I have seen their affliction, and have heard their groaning. God has a compassionate regard to the troubles of his church, and the groans of his persecuted people; and their deliverance takes rise from his pity. (2.) The determination he fixed to redeem them by the hand of Moses: I am come down to deliver them. It should seem, though God is present in all places, yet he uses that expression here of coming down to deliver them because that deliverance was typical of what Christ did, when, for us men, and for our salvation, he came down from heaven; he that ascended first descended. Moses is the man that must be employed: Come, and I will send thee into Egypt: and, if God send him, he will own him and give him success.\nIV. His acting in pursuance of this commission, wherein he was a figure of the Messiah. And Stephen takes notice here again of the slights they had put upon him, the affronts they had given him, and their refusal to have him to reign over them, as tending very much to magnify his agency in their deliverance. 1. God put honour upon him whom they put contempt upon (Act 7:35): This Moses whom they refused (whose kind offers and good offices they rejected with scorn, saying, Who made thee a ruler and a judge? Thou takest too much upon thee, thou son of Levi, Num 16:3), this same Moses did God send to be a ruler, and a deliverer, by the hand of the angel which appeared to him in the bush. It may be understood either that God sent to him by the hand of the angel going along with him he became a complete deliverer. Now, by this example, Stephen would intimate to the council that this Jesus whom they now refused, as their fathers did Moses, saying, Who made thee a prophet and a king? Who gave thee this authority? even this same has God advanced to be a prince and a Saviour, a ruler and a deliverer; as the apostles had told them awhile ago (Act 5:30, Act 5:31), that the stone which the builders refused was become the head-stone in the corner, Act 4:11. 2. God showed favour to them by him, and he was very forward to serve them, though they had thrust him away. God might justly have refused them his service, and he might justly have declined it; but it is all forgotten: they are not so much as upbraided with it, Act 4:36. He brought them out, notwithstanding, after he had shown wonders and signs in the land of Egypt (which were afterwards continued for the completing of their deliverance, according as the case called for them) in the Red Sea and in the wilderness forty years. So far is he from blaspheming Moses that he admires him as a glorious instrument in the hand of God for the forming of the Old Testament church. But it does not at all derogate from his just honour to say that he was but an instrument, and that he is outshone by this Jesus, whom he encourages these Jews yet to close with, and to come into his interest, not fearing but that then they should be received into his favour, and receive benefit by him, as the people of Israel were delivered by Moses, though they had once refused him.\nV. His prophecy of Christ and his grace, Act 4:37. He not only was a type of Christ (many were so that perhaps had not an actual foresight of his day), but Moses spoke of him (Act 4:37): This is that Moses who said unto the children of Israel, A prophet shall the Lord your God raise up unto you of your brethren. This is spoken of as one of the greatest honours God put upon him (nay, as that which exceeded all the rest), that by him he gave notice to the children of Israel of the great prophet that should come into the world, raised their expectation of him, and required them to receive him. When his bringing them out of Egypt is spoken of it is with an emphasis of honour, This is that Moses, Exo 6:26. And so it is here, This is that Moses. Now this is very full to Stephen's purpose; in asserting that Jesus should change the customs of the ceremonial law, he was so far from blaspheming Moses that really he did him the greatest honour imaginable, by showing how the prophecy of Moses was accomplished, which was so clear, that, as Christ told them himself, If they had believed Moses, they would have believed him, Joh 5:46. 1. Moses, in God's name, told them that, in the fulness of time, they should have a prophet raised up among them, one of their own nation, that should be like unto him (Deu 18:15, Deu 18:18), - a ruler and a deliverer, a judge and a lawgiver, like him, - who should therefore have authority to change the customs that he had delivered, and to bring in a better hope, as the Mediator of a better testament. 2. He charged them to hear that prophet, to receive his dictates, to admit the change he would make in their customs, and to submit to him in every thing; \"and this will be the greatest honour you can do to Moses and to his law, who said, Hear you him; and came to be a witness to the repetition of this charge by a voice from heaven, at the transfiguration of Christ, and by his silence gave consent to it,\" Mat 17:5.\nVI. The eminent services which Moses continued to do to the people of Israel, after he had been instrumental to bring them out of Egypt, Act 7:38. And herein also he was a type of Christ, who yet so far exceeds him that it is no blasphemy to say, \"He has authority to change the customs that Moses delivered.\" It was the honour of Moses, 1. That he was in the church in the wilderness; he presided in all the affairs of it for forty years, was king in Jeshurun, Deu 33:5. The camp of Israel is here called the church in the wilderness; for it was a sacred society, incorporated by a divine charter under a divine government, and blessed with divine revelation. The church in the wilderness was a church, though it was not yet perfectly formed, as it was to be when they came to Canaan, but every man did that which was right in his own eyes, Deu 12:8, Deu 12:9. It was the honour of Moses that he was in that church, and many a time it had been destroyed if Moses had not been in it to intercede for it. But Christ is the president and guide of a more excellent and glorious church than that in the wilderness was, and is more in it, as the life and soul of it, than Moses could be in that. 2. That he was with the angel that spoke to him in the mount Sinai, and with our fathers - was with him in the holy mount twice forty days, with the angel of the covenant, Michael, our prince. Moses was immediately conversant with God, but never lay in his bosom as Christ did from eternity. Or these words may be taken thus: Moses was in the church in the wilderness, but it was with the angel that spoke to him in mount Sinai, that is, at the burning bush; for that was said to be at mount Sinai (Act 7:30); that angel went before him, and was guide to him, else he could not have been a guide to Israel; of this God speaks (Exo 23:20), I send an angel before thee, and Exo 33:2. And see Num 20:16. He was in the church with the angel, without whom he could have done no service to the church; but Christ is himself that angel which was with the church in the wilderness, and therefore has an authority above Moses. 3. That he received the lively oracles to give unto them; not only the ten commandments, but the other instructions which the Lord spoke unto Moses, saying, Speak them to the children of Israel. (1.) The words of God are oracles, certain and infallible, and of unquestionable authority and obligation; they are to be consulted as oracles, and by them all controversies must be determined. (2.) They are lively oracles, for they are the oracles of the living God, not of the dumb and dead idols of the heathens: the word that God speaks is spirit and life; not that the law of Moses could give life, but it showed the way to life: If thou wilt enter into life, keep the commandments. (3.) Moses received them from God, and delivered nothing as an oracle to the people but what he had first received from God. (4.) The lively oracles which he received from God he faithfully gave to the people, to be observed and preserved. It was the principal privilege of the Jews that to them were committed the oracles of God; and it was by the hand of Moses that they were committed. As Moses gave them not that bread, so neither did he give them that law from heaven (Joh 6:32), but God gave it to them; and he that gave them those customs by his servant Moses might, no doubt, when he pleased, change the customs by his Son Jesus, who received more lively oracles to give unto us than Moses did.\nVII. The contempt that was, after this, and notwithstanding this, put upon him by the people. Those that charged Stephen with speaking against Moses would do well to answer what their own ancestors had done, and they tread in their ancestors' steps. 1. They would not obey him, but thrust him from them, Act 7:39. They murmured at him, mutinied against him, refused to obey his orders, and sometimes were ready to stone him. Moses did indeed give them an excellent law, but by this it appeared that it could not make the comers there unto perfect (Heb 10:1), for in their hearts they turned back again into Egypt, and preferred their garlic and onions there before the manna they had under the guidance of Moses, or the milk and honey they hoped for in Canaan. Observe, Their secret disaffection to Moses, with their inclination to Egyptianism, if I may so call it. This was, in effect, turning back to Egypt; it was doing it in heart. Many that pretend to be going forward towards Canaan, by keeping up a show and profession of religion, are, at the same time, in their hearts turning back to Egypt, like Lot's wife to Sodom, and will be dealt with as deserters, for it is the heart that God looks at. Now, if the customs that Moses delivered to them could not prevail to change them, wonder not that Christ comes to change the customs, and to introduce a more spiritual way of worship. 2. They made a golden calf instead of him, which besides the affront that was thereby offered to God, was a great indignity to Moses: for it was upon this consideration that they made the calf, because \"as for this Moses, who brought us out of the land of Egypt, we know not what is become of him; therefore make us gods of gold;\" as if a calf were sufficient to supply the want of Moses, and as capable of going before them into the promised land. So they made a calf in those days when the law was given them, and offered sacrifices unto the idol, and rejoiced in the work of their own hands. So proud were they of their new god that when they had sat down to eat and drink, they rose up to play! By all this it appears that there was a great deal which the law could not do, in that it was weak through the flesh; it was therefore necessary that this law should be perfected by a better hand, and he was no blasphemer against Moses who said that Christ had done it.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "Exodus 3:1",
+      "note_ref": "TYN/2/3/1",
+      "cites": [
+        "Exodus 3:2"
+      ],
+      "text": "3:1–4:28 This section presents Moses’ call to rescue the Israelites from Egyptian bondage. It is divided into two subsections, 3:1–4:17 and 4:18-28. The first deals with the call itself, while the second addresses the full implications of accepting that call. Moses was not presented with a mere vocational change; he faced an entire reorientation of his life.\n3:1-10 In these verses, the stage is set for the reorientation of Moses’ life.\n3:1 Sinai is the name usually used for the mountain where God later revealed himself in the covenant (see, e.g., 16:1; 19:1-2). Here and in 17:6 and 33:6 the Hebrew text uses the proper name Horeb. Both names presumably refer to the same mountain, so the NLT consistently uses Sinai."
+    },
+    {
+      "src": "TYN",
+      "ref": "Exodus 3:2",
+      "note_ref": "TYN/2/3/2",
+      "cites": [
+        "Exodus 3:4",
+        "Exodus 3:2"
+      ],
+      "text": "3:2 Technically, the angel of the Lord is the Lord’s officially authorized envoy, but the expression may be used more broadly of other visible manifestations of the Lord (see Gen 16:9-13; Judg 13:3, 6, 21-22). • In the Bible, blazing fire often represents God’s transcendent holiness (see Exod 19:18; Gen 15:17; 1 Kgs 18:38-39; Isa 33:14). • didn’t burn up: This may show that God does not wish to consume the vehicle that he sets ablaze for his purposes."
+    },
+    {
+      "src": "TYN",
+      "ref": "Exodus 3:4",
+      "note_ref": "TYN/2/3/4",
+      "cites": [
+        "Exodus 3:4",
+        "Exodus 3:2"
+      ],
+      "text": "3:4 Moses! Moses! God knows his people by name, and individuals are important to him."
+    },
+    {
+      "src": "TYN",
+      "ref": "Exodus 3:5",
+      "note_ref": "TYN/2/3/5",
+      "cites": [
+        "Exodus 3:4"
+      ],
+      "text": "3:5 The soil around the bush was holy ground, while the soil on the bottom of Moses’ sandals was common. The common cannot touch the holy without being transformed or destroyed (see “Clean, Unclean, and Holy” Theme Note). At the outset of the Exodus, God was making it plain that he is absolutely “other” than his creation, a reality that cannot be overlooked in a proper divine-human relationship. The word holy occurs only a few times in the Bible prior to Exod 3:5. It now becomes the central descriptor of God in the Old Testament. In other Semitic languages, the same root occurs infrequently. It does not describe a moral quality in these other languages but simply what is “other than” human. The pagan gods, for instance, were “holy” only in the sense of being “other”—they did everything humans do, good and evil, but on a larger scale. In the Bible, by contrast, moral perfection is a central idea of the term holy. The one true God is the only being in the universe who truly stands apart from this world and is worthy of being called “holy” in this general sense. The true God is perfectly consistent and moral in his character. Here, at the burning bush, God revealed his otherness. Later at Sinai, he revealed his moral character in his requirements for those who would be his covenant partners (see Exod 19:6; 20:1–23:33; see also Lev 11:45; 1 Pet 1:13-16)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Mark 12:24",
+      "note_ref": "TYN/41/12/24",
+      "cites": [
+        "Mark 12:26"
+      ],
+      "text": "12:24-27 Jesus’ response had two elements. First, he rebuked the Sadducees’ ignorance of the Scriptures (i.e., the Old Testament), where the resurrection of the dead is referred to most clearly in the Prophets (Isa 26:19; Ezek 37:1-14) and the Writings (Job 19:26; Pss 16:9-11; 49:15; 73:23-26; Dan 12:2). However, the Sadducees accepted only the Torah (Genesis—Deuteronomy), so Jesus answered them from the Torah. The reference to God as the God of Abraham, the God of Isaac, and the God of Jacob (see Exod 3:6, 15-16) showed that God’s covenant with the patriarchs could not be broken by death. They were still alive (Matt 8:11-12; 13:17; Luke 16:19-31; John 8:56), for God is the God of the living, not the dead. God’s covenant relationship with his people extends beyond their physical death, which means that the afterlife must be a reality. • Second, Jesus challenged the Sadducees’ ignorance of God’s power. They thought that life in the resurrection would have to be an extension of mortal life. Instead, it is life raised to an entirely new level. In this new existence, there is no need for sexual reproduction because there is no more death. The intimacy of marriage is superseded by fellowship with a multitude of fellow believers and with God (Mark 10:29-30; Matt 19:28-29; Luke 18:29-30; Rev 21:1-4). It is in this respect that resurrected believers will be like the angels in heaven. • Jesus’ argument demonstrates his wisdom before his opponents and affirms the hope of the resurrection for his followers. Jesus is “the resurrection and the life” (John 11:25); he has conquered death and assured those who believe in him that they will “not perish but have eternal life” (John 3:16)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Mark 12:28",
+      "note_ref": "TYN/41/12/28",
+      "cites": [
+        "Mark 12:26"
+      ],
+      "text": "12:28-34 After the three hostile challenges of 11:27–12:27, the reader might expect the next question to Jesus to be hostile (see 11:28; 12:13, 15, 19-23), but this was not a hostile counter. Earlier references in Mark to the teachers of religious law have portrayed them as antagonistic (2:6-7, 16; 3:22; 7:1, 5; 8:31; 9:14; 10:33; 11:18, 27), and Jesus will warn the crowds against their hypocrisy (12:38-40), but this teacher was positively inclined toward Jesus (12:28, 32) and praised him (12:32-33). Jesus described the man’s answer to his question as having understanding, and Jesus said that the man was not far from the Kingdom of God (12:34).\n12:28 Of all the commandments: The Torah (Genesis—Deuteronomy) contains 613 separate commandments, and Jewish teachers frequently debated about which were more important than others. No command was considered unimportant, but some were recognized as more fundamental than others (see Matt 22:40). Rabbi Hillel’s answer to this question was, “What is hateful to you, do not do to your neighbor” (Babylonian Shabbat 31a; see also Tobit 4:15). Other suggestions included Prov 3:6; Isa 33:15-16; 56:1; Amos 5:4; Mic 6:8; and Hab 2:4."
+    },
+    {
+      "src": "TYN",
+      "ref": "Acts 7:16",
+      "note_ref": "TYN/44/7/16",
+      "cites": [
+        "Acts 7:35"
+      ],
+      "text": "7:16 a certain price: Four hundred pieces of silver, according to Gen 23:16.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "Acts 7:37",
+      "note_ref": "TYN/44/7/37",
+      "cites": [
+        "Acts 7:35"
+      ],
+      "text": "7:37 This verse quotes Deut 18:15. Moses had prophesied that the Messiah would come, and it had happened as Moses said."
+    },
+    {
+      "src": "GNV",
+      "ref": "Exodus 3:1",
+      "note_ref": "GNV/2/3/1",
+      "cites": [
+        "Exodus 3:2"
+      ],
+      "text": "Called also Sinai.\nIt was so called after the law was given.\nOr, far within the desert."
+    },
+    {
+      "src": "GNV",
+      "ref": "Exodus 3:2",
+      "note_ref": "GNV/2/3/2",
+      "cites": [
+        "Exodus 3:4",
+        "Exodus 3:2"
+      ],
+      "text": "This signifieth that the Church is not consumed by the fire of affliction, because God is in the midst thereof."
+    },
+    {
+      "src": "GNV",
+      "ref": "Exodus 3:4",
+      "note_ref": "GNV/2/3/4",
+      "cites": [
+        "Exodus 3:4",
+        "Exodus 3:2"
+      ],
+      "text": "Whom he calleth the Angel, verse 2."
+    },
+    {
+      "src": "GNV",
+      "ref": "Exodus 3:5",
+      "note_ref": "GNV/2/3/5",
+      "cites": [
+        "Exodus 3:4"
+      ],
+      "text": "Resign thyself up to me, Ruth 4:7; Josh. 5:15.\nBecause of my presence."
+    },
+    {
+      "src": "GNV",
+      "ref": "Mark 12:18",
+      "note_ref": "GNV/41/12/18",
+      "cites": [
+        "Mark 12:26"
+      ],
+      "text": "The resurrection of the body is avouched against the foolish ignorance and malice of the Sadducees.",
+      "anchor": true
+    },
+    {
+      "src": "GNV",
+      "ref": "Mark 12:28",
+      "note_ref": "GNV/41/12/28",
+      "cites": [
+        "Mark 12:26"
+      ],
+      "text": "Sacrifices and outward worship, never pleased God, unless such necessary duties as we owe to God and our neighbors went afore."
+    },
+    {
+      "src": "GNV",
+      "ref": "Acts 7:35",
+      "note_ref": "GNV/44/7/35",
+      "cites": [
+        "Acts 7:35"
+      ],
+      "text": "By the power."
+    },
+    {
+      "src": "GNV",
+      "ref": "Acts 7:37",
+      "note_ref": "GNV/44/7/37",
+      "cites": [
+        "Acts 7:35"
+      ],
+      "text": "He acknowledgeth Moses for the lawgiver, but so that he proveth by his own witness, that the Law had respect to a more perfect thing, that is to say, to the prophetic office which tended to Christ, the head of all Prophets."
+    }
+  ]
+}

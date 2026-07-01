@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 427,
+  "question": "Is there an unforgivable sin?",
+  "summary": "The Synoptic Jesus identifies one sin that will never be forgiven \"neither in this world, neither in the world to come\" — blasphemy against the Holy Spirit (Matt 12:31-32; Mark 3:29; Luke 12:10). The post-Easter writings reverse the limit: Acts 10:43 says \"whosoever believeth\" receives remission of sins, Acts 13:39 says \"by him all that believe are justified from all things,\" Colossians 2:13 says \"all trespasses\" are forgiven, and 1 John 1:9 promises cleansing from \"all unrighteousness.\" One stream of texts excludes a sin from forgiveness; the other promises forgiveness without exclusion.",
+  "consensus": "genuinely_disputed",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Classical commentators confine the 'unpardonable sin' to a specific, deliberate post-Pentecost rejection of the Spirit, leaving the universal pardon texts in Acts and the epistles fully intact for all other sinners.",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Bart Ehrman notes that the unqualified 'all sins forgiven' promises in Acts and the Pauline epistles sit in unresolved tension with Jesus's explicit exception for blasphemy against the Holy Spirit.",
+    "skeptic": {
+      "name": "Bart Ehrman",
+      "work": "Jesus, Interrupted",
+      "year": "2009",
+      "attribution": "Bart Ehrman, Jesus, Interrupted (HarperOne, 2009)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats the blasphemy-against-the-Spirit passages in relation to the universal forgiveness promises, arguing that the 'unpardonable sin' refers to a settled, willful rejection of the Spirit's testimony rather than any ordinary sin, which harmonizes the exception with the broader pardon texts."
+      },
+      "link": null
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "427#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Matthew 12:31",
+      "full_note_ref": "JFB/40/12/31",
+      "excerpt_text": "all sin--whether in its ordinary or its more aggravated forms--shall find forgiveness with God…There is no sin whatever, it seems, of which it may be said.",
+      "on_tension_rationale": "JFB explicitly addresses the apparent scope conflict: the universal pardon in v. 31a is the governing principle; the exception in v. 32 must be understood within it, not as canceling it.",
+      "source_note_text": "Wherefore I say unto you, All manner of sin and blasphemy shall be forgiven unto men--The word \"blasphemy\" properly signifies \"detraction,\" or \"slander.\" In the New Testament it is applied, as it is here, to vituperation directed against God as well as against men; and in this sense it is to be understood as an aggravated form of sin. Well, says our Lord, all sin--whether in its ordinary or its more aggravated forms--shall find forgiveness with God. Accordingly, in Mark (Mar 3:28) the language is still stronger: \"All sin shall be forgiven unto the sons of men, and blasphemies wherewith soever they shall blaspheme.\" There is no sin whatever, it seems, of which it may be said. \"That is not a pardonable sin.\" This glorious assurance is not to be limited by what follows; but, on the contrary, what follows is to be explained by this.\nbut the blasphemy against the Holy Ghost shall not be forgiven unto men."
+    }
+  ]
+}

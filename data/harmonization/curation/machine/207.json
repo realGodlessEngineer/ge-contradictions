@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 207,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The harmonizing tradition closes the posture gap by having Sisera momentarily rouse and rise at the first blow, then drop dead at Jael's feet.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Susan Niditch argues the poem and prose are distinct interpretations, not a single harmonizable event: the song's repeated sinking and falling 'between her feet' pictures Sisera upright when struck, which cannot simply be reconciled with the prose's man slain fast asleep on the ground.",
+      "skeptic": {
+        "name": "Susan Niditch",
+        "work": "Judges: A Commentary (Old Testament Library)",
+        "year": "2008",
+        "attribution": "Susan Niditch, Judges: A Commentary, Old Testament Library (Louisville: Westminster John Knox, 2008)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Judges 5:27",
+      "excerpt_text": "Perhaps at her first approach to him, and attempt to drive the nail, or at the blow she gave, he rose up, but she had done the business so effectually at the first stroke, that he dropped at once, and laid down his head again … where he bowed, there he fell down dead; and struggled and stirred no more …",
+      "full_note_ref": "GILL/7/5/27",
+      "on_tension_rationale": "Directly harmonizes the poem's standing/bowing/falling posture (5:27) with the prose's fast-asleep, lying-down Sisera (4:21) by positing he briefly rose at the first blow then dropped dead. This is the single strongest on-tension reconcile note on the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Judges 5:27",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, reconciling the poem's upright-then-falling Sisera with the prose's sleeping Sisera by having him rouse and rise at Jael's first blow before dropping dead."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page addressing the specific asleep-vs-standing posture conflict could be confirmed; defendinginerrancy.com's Judges 5 page treats only the ethics of Jael's deed, not the posture discrepancy."
+      }
+    }
+  }
+}

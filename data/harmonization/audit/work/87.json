@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 87,
+  "question": "Who was Dishon's father?",
+  "summary": "Genesis 36:20-21 and 1 Chronicles 1:38 list Dishon as one of Seir's sons, making Seir the father. A few verses later, Genesis 36:24-25 and 1 Chronicles 1:40-41 say Dishon is Anah's son — and since Anah is Seir's son in 36:20, that makes Dishon Seir's grandson, not son.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders distinguish two Horites named Dishon — a son of Seir and a grandson through Anah — so the lists describe different men, not one father.",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells' Skeptic's Annotated Bible presses the Genesis 36 list as self-contradictory, since the text names Dishon a son of Seir and also a child of Anah.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "Skeptic's Annotated Bible",
+      "year": "1999",
+      "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/anah.html"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Genesis 36:22",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill distinguishes Dishon son of Seir from Dishon son of Anah in this very list, the harmonization keyed directly to the passage."
+      },
+      "link": null
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "87#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Genesis 36:22",
+      "full_note_ref": "GILL/1/36/22",
+      "excerpt_text": "And these are the sons of Dishon,…. Not of Dishon the son of Anah, but of Dishon the son of Seir",
+      "on_tension_rationale": "Directly resolves the tension by distinguishing two men named Dishon — son of Seir versus son of Anah — which dissolves the grandfather/father conflict.",
+      "source_note_text": "And these are the sons of Dishon,.... Not of Dishon the son of Anah, but of Dishon the son of Seir, Gen 36:21; and they are the four following:\nHemdan, and Eshban, and Ithran, and Cheran; the first of these is called Amram, or rather Chamram, Ch1 1:41."
+    }
+  ]
+}

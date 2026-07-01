@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 16,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders deny Genesis 2 dates plant creation, reading its \"shrub/herb of the field\" as the later cultivated garden, not the day-three vegetation.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by C. Dennis McKinsey, who argues that Genesis 1 makes the fruit trees on day three and man three days later, while Genesis 2 has God make the man before the trees.",
+      "skeptic": {
+        "name": "C. Dennis McKinsey",
+        "work": "The Encyclopedia of Biblical Errancy",
+        "year": "1995",
+        "attribution": "C. Dennis McKinsey, The Encyclopedia of Biblical Errancy (Amherst, NY: Prometheus Books, 1995)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 2:5",
+      "excerpt_text": "Although the growth of the shrubs and sprouting of the herbs are represented here as dependent upon the rain and the cultivation of the earth by man, we must not understand the words as meaning that there was neither shrub nor herb before the rain and dew, or before the creation of man, and so draw the conclusion that the creation of the plants occurred either after or contemporaneously with the creation of man, in direct contradiction to Gen 1:11-12. The creation of the plants is not alluded to here at all, but simply the planting of the garden in Eden.",
+      "full_note_ref": "KD/1/2/5",
+      "on_tension_rationale": "K&D names the apparent contradiction (Gen 2 reading plants as after/contemporaneous with man, 'in direct contradiction to Gen 1:11-12') and resolves it by the shrub/herb-of-the-field vs. day-three-vegetation distinction — the strongest specific-passage harmonization on the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Genesis 2:5",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this passage directly, arguing Gen 2:5 does not date plant creation but describes the later 'shrub/herb of the field' (cultivated growth), so it does not contradict the day-three vegetation of Gen 1:11-12."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/two-Creation-accounts.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why are there two different Creation accounts in Genesis chapters 1-2?",
+        "note": "live apologetic treatment addressing the plant/order conflict between Genesis 1 and Genesis 2:5"
+      }
+    }
+  }
+}

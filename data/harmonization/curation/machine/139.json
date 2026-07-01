@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 139,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders deny that one situation is in view: the differing animals are graded by the offerer's rank and by the kind of offence, not assigned arbitrarily to the same case.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, compiling the Skeptic's Annotated Bible, lists these texts together as conflicting, noting the law names a different required animal — bullock, ram, or female goat — for the one situation of inadvertent sin.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); contradiction catalogued at skepticsannotatedbible.com"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Leviticus 4:3",
+      "excerpt_text": "The former case required offering a bull, a large, expensive animal. … The latter case required a lesser animal—a male goat for a lay leader or a female sheep or goat for a common person. … The distinction stresses the responsibilities of leaders.",
+      "full_note_ref": "TYN/3/4/3",
+      "on_tension_rationale": "Directly answers the 'three animals for one situation' charge by grounding the differing animals in the offerer's rank, not arbitrary inconsistency — the strongest single harmonization on the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Leviticus 4 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this passage directly, explaining that the sin-offering ritual 'differed, with regard to the animals sacrificed... according to the position which the person presenting them happened to occupy,' and distinguishing the trespass-offering's ram from the sin-offering animals."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/sin-offering.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What is a sin offering?",
+        "note": "Live apologetic treatment covering Leviticus 4 and Numbers 15 together, explaining the animal varies by the offerer's identity and circumstance."
+      }
+    }
+  }
+}

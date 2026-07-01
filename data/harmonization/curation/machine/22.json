@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 22,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read God's \"Where art thou?\" not as ignorance but as a summons designed to draw a guilty Adam into confession.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Robert G. Ingersoll presses the same depiction the other way: Genesis shows a God who has the form of a man, walks the garden, and is heard by voice — a locally present, embodied deity hard to square with an all-seeing, all-knowing one.",
+      "skeptic": {
+        "name": "Robert G. Ingersoll",
+        "work": "Some Mistakes of Moses",
+        "year": "1879",
+        "attribution": "Robert G. Ingersoll (d. 1899), Some Mistakes of Moses (1879)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Genesis 3:9",
+      "excerpt_text": "and said unto him, where art thou? which is said, not as ignorant of the place where he was, nor of what he had done, nor of the circumstances he was in, or of the answers he would make; but rather it shows all the reverse, that he knew where he was, what he had done, and in what condition he was, and therefore it was in vain to seek to hide himself …",
+      "full_note_ref": "GILL/1/3/9",
+      "on_tension_rationale": "Directly addresses the core tension: God's question 'Where art thou?' does not imply ignorance of Adam's location but presupposes full knowledge of it — the strongest, most on-point harmonization on the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Genesis 3:9",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, arguing the question 'Where art thou?' is asked 'not as ignorant of the place where he was' but to bring Adam to confession — the harmonizing reading keyed to this verse. Used because Haley's specific-passage coverage could not be confirmed."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/why-does-God-ask-questions.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why does God ask questions if He is omniscient?",
+        "note": "live apologetic treatment that explicitly addresses God's 'Where are you?' in Genesis 3:9 against omniscience"
+      }
+    }
+  }
+}

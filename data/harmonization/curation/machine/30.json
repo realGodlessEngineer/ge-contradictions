@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 30,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The leading harmonization reads the Hebrew “little son” of 9:24 as a comparative, not a superlative, so the list order itself encodes relative age and Ham is simply Noah’s younger son.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "John Skinner’s critical commentary treats the Shem–Japheth birth-order material as a composite, internally ambiguous text whose data cannot be combined into one coherent sequence.",
+      "skeptic": {
+        "name": "John Skinner",
+        "work": "A Critical and Exegetical Commentary on Genesis (ICC)",
+        "year": "1910",
+        "attribution": "John Skinner (d. 1925), A Critical and Exegetical Commentary on Genesis, ICC (1910)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 9:24",
+      "excerpt_text": "In Gen 9:24 Ham is called הקּטן בּנו “his (Noah’s) little son,” and it is questionable whether the adjective is to be taken as comparative in the sense of “the younger,” or as superlative, meaning “the youngest.” … no other course is open than to follow the lxx, Vulg. and others, and take “the little” here and “the great” in Gen 10:21 as used in a comparative sense, Ham being represented here as Noah’s younger son, and Shem in Gen 10:21 as Japhet’s elder brother. Consequently the order in which the three names stand is also an indication of their relative ages.",
+      "full_note_ref": "KD/1/9/18",
+      "on_tension_rationale": "Directly addresses both poles of the tension: it parses the Hebrew haqqaton of 9:24, chooses the comparative reading to avoid a flat clash with Gen 10:21, and argues the Shem-Ham-Japheth list order itself marks relative age — the single excerpt that resolves the 9:24-vs-list-order conflict.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Genesis 9:24 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this exact discrepancy at Gen 9:24, parsing the Hebrew “little son” and reconciling 9:24 with Gen 10:21 by a comparative reading; Haley’s coverage of this specific passage could not be confirmed, so the harmonizing commentator already on the row is used."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/sons-of-Noah.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who were the sons of Noah?",
+        "note": "Live apologetic treatment stating Japheth was the oldest (Gen 10:21) and Ham the youngest (Gen 9:24), with Shem listed first by prominence rather than age."
+      }
+    }
+  }
+}

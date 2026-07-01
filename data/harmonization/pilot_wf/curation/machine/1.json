@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 1,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators resolve the tension by distinguishing senses of \"heaven\" — the supreme heaven of God made in the beginning versus the visible firmament named on day two — and by reading the New Testament texts as preparing, not creating, that place.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Thomas Paine pressed the broader objection that Genesis 1 gives an incoherent account of creation, charging that its ordering of the heavens, light, and firmament \"demonstrated nothing but their ignorance.\"",
+      "skeptic": {
+        "name": "Thomas Paine",
+        "work": "The Age of Reason",
+        "year": "1794",
+        "attribution": "Thomas Paine (d. 1809), The Age of Reason (1794)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Genesis 1:1",
+      "excerpt_text": "By the heaven some understand the supreme heaven, the heaven of heavens, the habitation of God, and of the holy angels; and this being made perfect at once, no mention is after made of it, as of the earth … but rather the lower and visible heavens are meant, at least are not excluded, that is, the substance of them …",
+      "full_note_ref": "GILL/1/1/1",
+      "on_tension_rationale": "Directly harmonizes Gen 1:1 vs Gen 1:6-8 by distinguishing the supreme heaven (made in the beginning) from the lower/visible heavens (the firmament of day two), the core of the 'when was heaven created' tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Genesis 1:1",
+      "excerpt_text": "As the word … shamayim is plural, we may rest assured that it means more than the atmosphere, to express which some have endeavored to restrict its meaning. Nor does it appear that the atmosphere is particularly intended here, as this is spoken of, Gen 1:6, under the term firmament.",
+      "full_note_ref": "CLARKE/1/1/1",
+      "on_tension_rationale": "Distinct voice making the same sense-distinction: the 'heaven' of Gen 1:1 is not the atmosphere/firmament of Gen 1:6, so the two days describe different referents, not a contradiction.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 25:34",
+      "excerpt_text": "The place itself, where this happiness is to be enjoyed, was actually made on the first day of the creation, when the heavens were formed, and the foundations of the earth were laid, and the glory itself long before.",
+      "full_note_ref": "GILL/40/25/34",
+      "on_tension_rationale": "Harmonizes Matthew 25:34 ('prepared from the foundation of the world') with Gen 1:1 timing — the place was made at creation, addressing the NT side of the chronological tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Genesis 1:1",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, distinguishing the supreme heaven of Gen 1:1 from the visible firmament-heaven of Gen 1:6-8 and reconciling the 'prepared from the foundation of the world' timing of Matthew 25:34 and John 14:2."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page found that squarely treats the multi-sense 'when was heaven created' distinction (Gen 1:1 vs the firmament-Heaven of Gen 1:8 plus the NT 'prepared from the foundation' timing); link omitted rather than guessed."
+      }
+    }
+  }
+}

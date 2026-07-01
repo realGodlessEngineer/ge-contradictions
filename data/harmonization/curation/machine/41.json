@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 41,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The strongest harmonization severs the link: the antediluvian Nephilim drowned, and the Numbers 13 giants are merely a separately-named group, not survivors.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Source critic Richard Elliott Friedman reads Gen 6:4, Numbers 13 and the later giant texts as one J-stratum tradition that simply never assumes the giants were killed by the flood, leaving the extinction notice and the surviving Nephilim as an unreconciled seam between strands.",
+      "skeptic": {
+        "name": "Richard Elliott Friedman",
+        "work": "The Bible with Sources Revealed",
+        "year": "2003",
+        "attribution": "Richard Elliott Friedman, The Bible with Sources Revealed (San Francisco: HarperSanFrancisco, 2003)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Genesis 6:4",
+      "excerpt_text": "The context implies that they were the offspring of the \"sons of God\" and would be destroyed in the flood. Numbers 13:31-33 uses the same term to describe other giants who were hostile toward God's people and would also be destroyed …",
+      "full_note_ref": "TYN/1/6/4",
+      "on_tension_rationale": "Directly addresses the survival problem: the pre-flood Nephilim drowned, and the Numbers 13 giants are a distinct group reusing the name, also marked for destruction -- so they are not antediluvian survivors. Strongest single harmonization on the row; trailing parenthetical (Deut 2:11 / repa'im) trimmed as off-tension, marked with the elision character.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Genesis 6:4",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill engages the survival reading at exactly this verse and rejects it: the Nephilim of Gen 6:4 belong to the antediluvian period, 'for this is not to be understood after the flood, as Aben Ezra, Ben Melech.' Used in place of Haley, whose coverage of this specific discrepancy could not be confirmed; this is a row-surfaced harmonizing commentator keyed to the passage, per spec."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Nephilim.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who were the Nephilim?",
+        "note": "Live apologetic treatment that addresses the post-flood reappearance of the Nephilim in Numbers 13:33 and the 'and also afterward' clause of Genesis 6:4. Verified real and on-topic; allowlisted domain."
+      }
+    }
+  }
+}

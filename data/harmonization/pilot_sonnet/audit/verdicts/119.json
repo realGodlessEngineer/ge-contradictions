@@ -1,0 +1,22 @@
+{
+  "contradiction_id": 119,
+  "excerpts": [
+    {
+      "excerpt_uid": "119#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "pass",
+      "action": null,
+      "reason": "All segments verified verbatim in the embedded Gill note; the several ellipsis joins each preserve Gill's harmonizing sense (they skip a 'not Aaron/Joshua' aside and a clause about the mediator but keep the core argument intact: angels were the instrumental agents through whom God, the ultimate author, spoke and wrote the law -- 'all this might be done by the means of angels'). Directly addresses the Exod 19-20 (God speaks directly) vs Gal 3:19/Acts 7:53/Heb 2:2 (angel mediation) tension and reconciles it. Correct reconcile pole."
+    }
+  ],
+  "guardrails": {
+    "parity": "ok",
+    "connectives": "flag",
+    "named_skeptic": "not_real",
+    "discrepancy_integrity": "co_opted",
+    "deeper_learning": "ok",
+    "reason": "NAMED_SKEPTIC = not_real: Bart Ehrman is a real scholar and Jesus, Interrupted (2009) is a real book, but the attribution is fabricated. Full-text search of the Internet Archive copy of Jesus, Interrupted found NO discussion of Galatians 3:19, the law being 'ordained/given by angels', Acts 7:53, Hebrews 2:2, or 'who gave the law to Moses' (angels vs God at Sinai). Jesus, Interrupted is a NT/Gospel-focused popular work (chapters on Gospel contradictions, authorship, canon, historical Jesus); its OT-problems material (creation accounts, divine-name Exod 6:3 vs Gen 15:7, plagues, Pentateuch authorship) does not include this tension, and Ehrman's blog OT-problems posts likewise do not raise it. The connective's specific claim that Ehrman argues the angel-mediation tradition 'degrades Torah's authority' is the angels-as-diminishment reading associated with Galatians scholarship (e.g. Betz), not with this Ehrman book. Real critic attached to a passage/work he never treated -> not_real. CONNECTIVES = flag as a direct consequence: the discrepancy connective puts a fabricated, over-specific argument in Ehrman's mouth ('reflects a Second Temple tradition that degrades Torah's authority'), which is an unsupported/strawman-risk attribution. DISCREPANCY_INTEGRITY = co_opted: genuinely_disputed/reconcile_first row whose only discrepancy content is this unverifiable named skeptic; with the skeptic removed the row is harmonizer-only with no confirmed nameable skeptic and no relabel_flag -> recommend substituting a real critic who actually presses Gal 3:19 as a degradation/contradiction of the Exodus account, or setting relabel_flag. parity ok structurally. deeper_learning ok: Haley (1874) is a real PD work that treats the Sinai-mediation question and is on-topic; no link supplied (optional)."
+  }
+}

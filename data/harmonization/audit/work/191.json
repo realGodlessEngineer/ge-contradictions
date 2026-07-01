@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 191,
+  "question": "Did Joshua remove the twelve stones from the Jordan River?",
+  "summary": "Joshua 4:20 says the twelve stones taken out of the Jordan were set up at Gilgal, but Joshua 4:9 — fifteen verses earlier — says the twelve stones were set up in the midst of the Jordan and \"are there unto this day.\"",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Harmonizers read the chapter as describing two distinct sets of twelve stones — one carried out and set up at Gilgal, one left standing in the riverbed.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The Hebraist Benjamin Kennicott argued the riverbed memorial \"flatly contradicts the rest of the chapter,\" holding the text corrupt and emending \"in the midst\" to \"from the midst\" so that only the single Gilgal set was meant.",
+    "skeptic": {
+      "name": "Benjamin Kennicott",
+      "work": "The State of the Printed Hebrew Text of the Old Testament Considered (Dissertation the First)",
+      "year": "1753",
+      "attribution": "Benjamin Kennicott (d. 1783), The State of the Printed Hebrew Text of the Old Testament Considered, Dissertation the First (1753)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Joshua 4:9",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this specific passage at length, defending the two-sets-of-stones reading against Kennicott's emendation and concluding no textual change is needed."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/stones-of-remembrance.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What is the significance of the stones of remembrance in Joshua 4:9?",
+        "note": "live apologetic treatment of the Joshua 4 memorial stones, distinguishing the Gilgal set from the riverbed set"
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "191#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Joshua 4:9",
+      "full_note_ref": "CLARKE/6/4/9",
+      "excerpt_text": "It seems from this chapter that there were two sets of stones erected as a memorial of this great event; twelve at Gilgal, Jos 4:20 and twelve in the bed of Jordan, Jos 4:9. The twelve stones in the bed of Jordan might have been so placed on a base of strong stone-work so high as always to be visible, and serve to mark the very spot where the priests stood with the ark.",
+      "on_tension_rationale": "Directly resolves the 4:9-vs-4:20 tension by asserting two separate sets of twelve stones (Gilgal set + riverbed set) and explaining how the riverbed set stayed visible 'unto this day' — the strongest, most explicit harmonization on the row.",
+      "source_note_text": "And Joshua set up twelve stones in the midst of Jordan - It seems from this chapter that there were two sets of stones erected as a memorial of this great event; twelve at Gilgal, Jos 4:20 and twelve in the bed of Jordan, Jos 4:9. The twelve stones in the bed of Jordan might have been so placed on a base of strong stone-work so high as always to be visible, and serve to mark the very spot where the priests stood with the ark. The twelve stones set up at Gilgal would stand as a monument of the place of the first encampment after this miraculous passage. Though this appears to me to be the meaning of this place, yet Dr. Kennicott's criticism here should not be passed by. \"It is well known,\" says he, \"that when Joshua led the Israelites over Jordan, he was commanded to take twelve stones out of the midst of Jordan, to be a memorial that the ground in the very midst of that river had been made dry. But where was this memorial to be set up? The ninth verse says; Joshua set up these stones In the midst of Jordan. But is it likely that the stones should be placed or set down where they were taken up; and that the memorial should be erected there where, when the river was again united, it would be concealed, and of course could be no memorial at all? This however flatly contradicts the rest of the chapter, which says these stones were pitched in Gilgal, where Israel lodged in Canaan for the first time. The solution of this difficulty is, that בתוך bethoch In the midst, should be here מתוך mittoch, From the midst, as in Jos 4:3, Jos 4:8, Jos 4:20, and as the word is here also in the Syrian version. The true rendering therefore is, And Joshua set up the twelve stones (taken) From the midst of Jordan,\" etc. I confess I see no need for this criticism, which is not supported by a single MS. either in his own or De Rossi's collection, though they amount to four hundred and ninety-four in number. Twelve stones might be gathered in different parts of the bed of the Jordan, and be set up as a pillar in another, and be a continual visible memorial of this grand event. And if twelve were set up in Gilgal as a memorial of their first encampment in Canaan, it is still more likely that twelve would be set up in the bed of the river to show where it had been divided, and the place where the whole Israelitish host had passed over dry-shod. The reader may follow the opinion he judges most likely."
+    }
+  ]
+}

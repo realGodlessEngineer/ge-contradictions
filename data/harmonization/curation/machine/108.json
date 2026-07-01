@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 108,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The commentators read the martial titles as God acting in defense and judgment within history, not as a violent essence at odds with his peaceful character.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharpest form of the objection is pressed by Marcion of Sinope, who argued the warlike creator-God of the Hebrew scriptures could not be the compassionate God of peace proclaimed by Jesus, and so must be a different deity.",
+      "skeptic": {
+        "name": "Marcion of Sinope",
+        "work": "Antitheses",
+        "year": "c. 144",
+        "attribution": "Marcion of Sinope (d. c. 160), Antitheses (c. 144), reconstructed from Tertullian's Adversus Marcionem"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Exodus 15:3",
+      "excerpt_text": "The Lord is a warrior: He will aggressively defend his own. He is not an oppressor, nor does he fight for the love of violence.",
+      "full_note_ref": "TYN/2/15/3",
+      "on_tension_rationale": "Directly distinguishes God's martial action (defending his people) from violence/oppression, harmonizing the warrior title with a non-violent character.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Romans 15:33",
+      "excerpt_text": "The Lord of hosts, the God of battle, is the God of peace, the author and lover of peace.",
+      "full_note_ref": "MHC/45/15/30",
+      "on_tension_rationale": "Explicitly fuses the two contested titles in one sentence, asserting the God of battle and the God of peace are the same God.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Exodus 15:3",
+      "excerpt_text": "Besides, the object of Moses was to show that man had no part in this victory, but that the whole was wrought by the miraculous power of God, and that therefore he alone should have all the glory.",
+      "full_note_ref": "CLARKE/2/15/3",
+      "on_tension_rationale": "Reads the 'man of war' title as describing a particular deliverance wrought by God's power, not a martial essence, deflecting the warlike characterization.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Tertullian, Against Marcion (Adversus Marcionem, c. 207-208)",
+        "author": "Tertullian",
+        "year": "c. 207",
+        "note": "Tertullian's five books answer Marcion's exact charge, defending the warlike Creator of the Old Testament as the one God who is also the God of peace, against the claim that the two cannot be the same deity."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/is-the-lord-a-god-of-peace-or-of-war/",
+        "domain": "carm.org",
+        "title": "CARM: Is the Lord a God of peace or of war? He is both",
+        "note": "live apologetic treatment reading the martial titles in their deliverance/judgment context alongside God's peaceful nature"
+      }
+    }
+  }
+}

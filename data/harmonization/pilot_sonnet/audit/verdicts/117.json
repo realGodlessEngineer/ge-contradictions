@@ -1,0 +1,22 @@
+{
+  "contradiction_id": 117,
+  "excerpts": [
+    {
+      "excerpt_uid": "117#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "pass",
+      "action": null,
+      "reason": "Contiguous span verified verbatim in the embedded Gill note ('It seems best therefore to understand the whole as a parable...spurious brood of children.'). No ellipsis. Directly resolves the 'God commanded the fornication his own law forbids' tension by adopting the parabolic/symbolic reading in which no literal marriage to a harlot occurred. Correct reconcile pole."
+    }
+  ],
+  "guardrails": {
+    "parity": "ok",
+    "connectives": "ok",
+    "named_skeptic": "not_real",
+    "discrepancy_integrity": "co_opted",
+    "deeper_learning": "flag",
+    "reason": "NAMED_SKEPTIC = not_real: Dennis McKinsey is a real critic and The Encyclopedia of Biblical Errancy (Prometheus Books, 1995, ISBN 9780879759261) is a real 1995 work, but I could NOT positively confirm that McKinsey's Encyclopedia specifically engages the Hosea marriage-command contradiction. Multiple targeted searches (McKinsey + Hosea/Gomer/'wife of whoredoms'/'God commanded fornication') returned no evidence of this specific engagement, and the defendinginerrancy.com Hosea 1:2 page names no skeptic for this objection. Per the spec's default-to-not_real rule when the specific engagement is unconfirmed, the attribution is flagged: real critic + real book, but THIS objection is not verifiably his (possible plausible-but-unconfirmed attribution / over-specific work-year pairing). DISCREPANCY_INTEGRITY = co_opted as a consequence: this discrepancy_first/probable_harmonization row leans reconcile and the discrepancy pole rests on an unverifiable named skeptic; if the skeptic cannot be substantiated, the row is effectively harmonizer-supported with no confirmed nameable skeptic and no relabel_flag set -> recommend either substantiating a real skeptic who presses Hosea-as-literal-fornication or setting relabel_flag. DEEPER_LEARNING = flag: pd_work (Haley 1874) is real and on-topic and DOES treat the Hosea sign-act question (ok in isolation), BUT the curated link is BROKEN/guessed: gotquestions.org/Hosea-wife-prostitute.html returns HTTP 404. The real GotQuestions page is gotquestions.org/Hosea-marry-prostitute.html. The supplied URL is an off-target/guessed slug -> flag. parity ok and connectives technically accurate to what they introduce, but the named_skeptic and link failures are the load-bearing problems on this row."
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "contradiction_id": 269,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the two totals as different slices of one administrative pyramid — Gill counts the top tier of 250 together with the 300 above the 3,300 to reach the 550.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "filled",
+      "connective": "A harmonizing commentary itself concedes the figures cannot simply be added or distinguished — the underlying text is corrupt in one of the two books.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "discrepancy",
+      "source_code": "JFB",
+      "verse_ref": "2 Chronicles 8:10",
+      "excerpt_text": "It is generally agreed that the text of one of these passages is corrupt.",
+      "full_note_ref": "JFB/14/8/10",
+      "on_tension_rationale": "JFB, a harmonizing commentary, concedes that the 250/550 divergence is a genuine textual corruption rather than two reconcilable counts — a verbatim discrepancy-direction concession from a gathered note (spec line 81-84).",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Kings 9:21",
+      "excerpt_text": "in Ch2 8:10 they are said to be but two hundred and fifty; now it may be observed, as is by the Jewish writers, that there were three sorts of those rulers; the lowest rank and order of them consisted of 3300, the next of three hundred which were over the 3300, and being numbered with them made 3600, Ch2 2:18 and the highest rank of them were two hundred and fifty, and the middlemost and highest being joined together, as they are here, made five hundred and fifty.",
+      "full_note_ref": "GILL/11/9/21",
+      "on_tension_rationale": "Gill directly addresses 550 vs 250: a three-tier scheme where the top rank of 250 joined to the 300 middle rank yields the 550 of Kings, so the numbers describe overlapping groups, not a contradiction.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on 1 Kings 9:23",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, offering two harmonizations of 550 vs 250: the rabbinic three-tier count (250 + 300 = 550) and Abarbanel's distinction between overseers of temple work and overseers throughout the kingdom."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No live page on an allowlisted domain (gotquestions.org, carm.org, defendinginerrancy.com) for this specific contradiction could be verified; candidate URLs returned HTTP 404, so link is omitted rather than fabricated."
+      }
+    }
+  }
+}

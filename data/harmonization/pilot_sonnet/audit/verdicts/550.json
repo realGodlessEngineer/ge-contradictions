@@ -1,0 +1,22 @@
+{
+  "contradiction_id": 550,
+  "excerpts": [
+    {
+      "excerpt_uid": "550#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "pass",
+      "action": null,
+      "reason": "Verbatim in source_note_text (no ellipsis; only permitted quote normalization). Gill explicitly harmonizes 2 Cor 6:14 with 1 Cor 7:12-14: the 'unequally yoked' command is 'not... a dehortation from entering into marriage contracts with such persons; for such marriages the apostle, in his former epistle, had allowed to be lawful' and refers rather 'to joining with unbelievers in acts of idolatry.' Directly on this contradiction's tension; reconcile label correct."
+    }
+  ],
+  "guardrails": {
+    "parity": "ok",
+    "connectives": "flag",
+    "named_skeptic": "strawman",
+    "discrepancy_integrity": "co_opted",
+    "deeper_learning": "flag",
+    "reason": "NAMED_SKEPTIC STRAWMAN (primary failure): the discrepancy pole attributes to Bart D. Ehrman, The New Testament: A Historical Introduction (2012), the claim that '2 Corinthians 6:14-17 issues a categorical separation command that sits in real tension with 1 Corinthians 7's accommodation of mixed marriages.' This MISREPRESENTS Ehrman's actual position in that very work: Ehrman argues 2 Cor 6:14-7:1 is a NON-PAULINE interpolation / fragment of a different (likely opponents') letter mistakenly compiled into 2 Corinthians — i.e., he denies Paul wrote 6:14, which DISSOLVES the within-Paul self-contradiction rather than pressing it. Ehrman is a real critic engaging this passage, but the objection put in his mouth is the opposite of his stance; this is a false-concession/strawman skeptic. Recommend: set not_real/strawman and either re-source a critic who genuinely presses a Paul-vs-Paul reading, or relabel the discrepancy pole. DISCREPANCY_INTEGRITY co_opted: with the named skeptic removed as invalid, this discrepancy_first/reconcile_first row would be left harmonizer-only (Gill reconcile excerpt) with no legitimate skeptic and no relabel_flag — a co-opted real-contradiction row. consensus is 'genuinely_disputed', so a relabel to harmonizer-only is NOT obviously justified; a genuine skeptic is needed. CONNECTIVE FLAG: the discrepancy connective carries the strawmanned attribution and additionally hedges with 'and other critical scholars' to launder the misattribution. parity OK mechanically (counts balance), but editorially undermined by the invalid skeptic. deeper_learning FLAG: defense.pd_work (Haley 1874) is real and acceptable; the gotquestions unequally-yoked.html link is LIVE and on allowlisted gotquestions.org and on-topic for 2 Cor 6:14, BUT the link note overclaims — it states the page is 'reconciling 2 Corinthians 6:14 with 1 Corinthians 7:12-14,' whereas the live page discusses 2 Cor 6:14 generally and does NOT actually reconcile it with 1 Cor 7:12-14. Note overstates the page's content; soften or re-point."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 439,
+  "question": "When did the transfiguration occur?",
+  "summary": "Matthew 17:1 and Mark 9:2 both state that the transfiguration occurred \"after six days\" following Jesus' prediction about some standing there not tasting death before seeing the kingdom. Luke 9:28 instead reports it occurred \"about an eight days after these sayings.\" Two different numerical intervals between the same saying and the same event.",
+  "consensus": "probable_harmonization",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Commentators across three centuries read the gap as one of counting, not fact: Luke tallies the two terminal days inclusively while Matthew and Mark count only the days between.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The objection is catalogued by Steve Wells, whose Skeptic's Annotated Bible lists the six-vs-eight-day gap as a contradiction — though even he leaves it among the minor numerical divergences, and Luke's own \"about\" concedes the figure is approximate.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (SAB Books, 2013); skepticsannotatedbible.com/contra/transfig.html"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's standard harmonizing manual treats this class of synoptic numerical divergence — including the transfiguration interval — under inclusive vs. exclusive day-reckoning."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/after-how-many-days-did-jesus-take-the-three-men-up-the-mountain/",
+        "domain": "carm.org",
+        "title": "CARM: After how many days did Jesus take the three men up the mountain?",
+        "note": "Live apologetic treatment; reads Luke's hosei (“about”) as a rounded approximation alongside Matthew/Mark's precise six."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "439#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Luke 9:28",
+      "full_note_ref": "JFB/42/9/28",
+      "excerpt_text": "an eight days after these sayings—including the day on which this was spoken and that of the Transfiguration. Matthew and Mark say (Mat 17:1; Mar 9:2) “after six days,” excluding these two days.",
+      "on_tension_rationale": "States the harmonization head-on: Luke's eight includes both terminal days, Matthew/Mark's six excludes them — the exact tension in the summary.",
+      "source_note_text": "JESUS TRANSFIGURED. (Luk 9:28-36)\nan eight days after these sayings--including the day on which this was spoken and that of the Transfiguration. Matthew and Mark say (Mat 17:1; Mar 9:2) \"after six days,\" excluding these two days. As the \"sayings\" so definitely connected with the transfiguration scene are those announcing His death--at which Peter and all the Twelve were so startled and scandalized--so this scene was designed to show to the eyes as well as the heart how glorious that death was in the view of Heaven.\nPeter, James, and John--partners before in secular business; now sole witnesses of the resurrection of Jairus' daughter (Mar 5:37), the transfiguration, and the agony in the garden (Mar 14:33).\na mountain--not Tabor, according to long tradition, with which the facts ill comport, but some one near the lake.\nto pray--for the period He had now reached was a critical and anxious one. (See on Mat 16:13). But who can adequately translate those \"strong cryings and tears?\" Methinks, as I steal by His side, I hear from Him these plaintive sounds, \"Lord, who hath believed Our report? I am come unto Mine own and Mine own receive Me not; I am become a stranger unto My brethren, an alien to My mother's children: Consider Mine enemies, for they are many, and they hate Me with cruel hatred. Arise, O Lord, let not man prevail. Thou that dwellest between the cherubim, shine forth: Show Me a token for good: Father, glorify Thy name.\""
+    }
+  ]
+}

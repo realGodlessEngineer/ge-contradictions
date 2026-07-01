@@ -1,0 +1,90 @@
+{
+  "contradiction_id": 4,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders distinguish the day-one light from the day-four luminaries, treating the sun as the constituting or gathering of an already-existing light rather than a second, conflicting division.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Thomas Paine objects that Genesis describes days, evenings, and mornings before the sun exists, since it is the sun that causes day and night the order strikes him as plainly incoherent.",
+      "skeptic": {
+        "name": "Thomas Paine",
+        "work": "The Age of Reason",
+        "year": "1794",
+        "attribution": "Thomas Paine (d. 1809), The Age of Reason (1794)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 4,
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Genesis 1:3",
+      "excerpt_text": "Many have asked, “How could light be produced on the first day, and the sun, the fountain of it, not created till the fourth day?”… I therefore conclude, that as God has diffused the matter of caloric or latent heat through every part of nature, without which there could be neither vegetation nor animal life, that it is caloric or latent heat which is principally intended by the original word.",
+      "full_note_ref": "CLARKE/1/1/3",
+      "license_code": "PD",
+      "on_tension_rationale": "Names the contradiction outright and resolves it by distinguishing the day-one 'light' (a diffused light/heat) from the sun later constituted on day four, so light and its division can precede the luminaries.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 4,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Genesis 1:14",
+      "excerpt_text": "the body of fire and light produced on the first day was now distributed and formed into several luminous bodies of sun, moon, and stars, for these were “from light”; lights produced from that light, or made out of it… as the light by its circular motion did for the first three days, or the diurnal motion of the earth on its axis, then and now…",
+      "full_note_ref": "GILL/1/1/14",
+      "license_code": "PD",
+      "on_tension_rationale": "Harmonizes the two divisions by making the day-four luminaries a redistribution of the day-one light, so the same light that divided day from night on day one is concentrated into the sun and moon on day four.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 4,
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Genesis 1:16",
+      "excerpt_text": "Both these lights may be said to be “made” on the fourth day—not created, indeed, for it is a different word that is here used, but constituted, appointed to the important and necessary office of serving as luminaries to the world, and regulating by their motions and their influence the progress and divisions of time.",
+      "full_note_ref": "JFB/1/1/16",
+      "license_code": "PD",
+      "on_tension_rationale": "Distinguishes creating from constituting: the luminaries were not first created on day four but appointed to their light-dividing office, so the day-one division of light from darkness is not duplicated or contradicted.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Genesis 1:3",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke states the objection in its own words and keys the harmonization to this passage, distinguishing the diffused day-one light from the sun constituted on the fourth day."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/light-first-sun-fourth.html",
+        "domain": "gotquestions.org",
+        "title": "How could there be light on the first day of Creation if the sun was not created until the fourth day?",
+        "note": "Live apologetic treatment of exactly this day-one vs day-four light/division tension."
+      }
+    }
+  }
+}

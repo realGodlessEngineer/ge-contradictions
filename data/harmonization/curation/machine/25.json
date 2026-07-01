@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 25,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the psalms' \"thou didst not desire\" as relative, not absolute: God instituted and accepted sacrifice, yet his essential will is for obedience and a contrite heart, before which mere ritual is rejected.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Julius Wellhausen presses the tension historically, arguing the prophetic and psalmic strand reflects an ethical religion of the heart set over against the sacrificial cult, which he held to be a later, Priestly development rather than the original Mosaic will of God.",
+      "skeptic": {
+        "name": "Julius Wellhausen",
+        "work": "Prolegomena to the History of Israel",
+        "year": "1885",
+        "attribution": "Julius Wellhausen (d. 1918), Prolegomena to the History of Israel (Eng. trans. 1885; German Prolegomena 1883, orig. Geschichte Israels 1878)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Psalm 40:6",
+      "excerpt_text": "These were desired, willed, and appointed by God, and that very early, even from the times of our first parents; and, when performed aright, were acceptable to God, quite down to the times of the Messiah … he likewise ever preferred love to himself, and of the neighbour, obedience to the commands of the moral law, and works of mercy to men, before all the sacrifices of the ceremonial law",
+      "full_note_ref": "GILL/19/40/6",
+      "on_tension_rationale": "Directly holds both halves together: God genuinely 'desired, willed, and appointed' sacrifice (matching Abel/Leviticus) yet 'preferred' obedience and mercy above all the ceremonial sacrifices — the core harmonization that the psalm's denial is comparative, not a flat rejection.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Psalm 40:6",
+      "excerpt_text": "When it is said of God, that He does not delight in and desire such non-personal sacrifices, there is as little intention as in Jer 7:22 (cf. Amo 5:21.) of saying that the sacrificial Tra is not of divine origin, but that the true, essential will of God is not directed to such sacrifices. … God — says David — desires not outward sacrifices, but obedience",
+      "full_note_ref": "KD/19/40/7",
+      "on_tension_rationale": "Explicitly denies that 'God does not desire sacrifice' means the sacrificial law is not from God; it means God's true, essential will is obedience rather than outward sacrifice — addressing the exact tension between the commanded cult and the psalm's denial.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Psalm 50:13",
+      "excerpt_text": "to obey is better than sacrifice, and to love God and our neighbour better than all burnt-offerings, so much better that God by his prophets often told them that their sacrifices were not only not acceptable, but abominable, to him, while they lived in sin",
+      "full_note_ref": "MHC/19/50/7",
+      "on_tension_rationale": "Frames God's repudiation of sacrifice (here and in the prophets) as a matter of priority and of the worshipper's state — abominable 'while they lived in sin' — rather than a denial that God ever wanted offerings, harmonizing the cultic command with the psalm's rejection.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Psalm 40:6",
+        "author": "John Gill",
+        "year": "1746-63",
+        "note": "Gill treats this passage directly, holding that God 'desired, willed, and appointed' sacrifice yet always preferred obedience and mercy above it, so the psalm's denial is comparative rather than an absolute rejection of the cult."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/obedience-better-than-sacrifice.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why is obedience better than sacrifice?",
+        "note": "Live apologetic treatment of the locus classicus (1 Samuel 15:22) of this tension, arguing 'the problem is not the offerings but the disobedience' — the standard harmonization for why God says he does not desire sacrifice."
+      }
+    }
+  }
+}

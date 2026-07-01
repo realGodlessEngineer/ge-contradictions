@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 48,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders harmonize by splitting the spheres: the \"own sin\" texts bind human courts, while Adamic death in Romans 5 is what God alone deals out.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Thomas Paine pressed the sharpest form of the objection, holding that Paul's scheme of inheriting Adam's guilt is an outrage to moral justice, which cannot transfer one person's punishment to the innocent.",
+      "skeptic": {
+        "name": "Thomas Paine",
+        "work": "The Age of Reason",
+        "year": "1794-1807",
+        "attribution": "Thomas Paine (d. 1809), The Age of Reason (1794-1807)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Deuteronomy 24:16",
+      "excerpt_text": "every man shall be put to death for his own sin: which is but just and reasonable; see Eze 18:4; which is no contradiction to Exo 20:5; that respects what God himself would do, this what Israel, or the civil magistrates in it, should do …",
+      "full_note_ref": "GILL/5/24/16",
+      "on_tension_rationale": "Gill names the contradiction outright and offers the canonical harmonization for this very pair: the OT 'own sin' commands govern what human magistrates may do, while transgenerational/Adamic punishment (Exo 20:5, paralleled by Romans 5:12) is reserved to God's own action. This is the strongest single reconcile move on the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Deuteronomy 24:16",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact tension at Deut 24:16, explicitly denying any contradiction with Exo 20:5 by distinguishing what God himself does from what human courts may do; used in place of Haley, whose specific coverage of this passage-pair could not be confirmed."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/parents-sin.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Are children punished for the sins of their parents?",
+        "note": "Live apologetic treatment reconciling Ezekiel 18:20 with Exodus 20:5 via the guilt-versus-consequence and divine-versus-human distinction."
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 513,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators resolve the tension by distinguishing two offers: the drugged potion Jesus refused before death, and the plain sour wine he received in his thirst at the end.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, who catalogued the passage, presses it as a flat contradiction: John has Jesus receive the vinegar and then die, where Mark and Matthew have him refuse the offered drink.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (\"Did Jesus drink on the cross?\")",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), contradiction \"Did Jesus drink on the cross?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "John 19:29",
+      "excerpt_text": "This vinegar must not be confounded with the vinegar and gall mentioned Mat 27:34, and Mar 15:23. That, being a stupifying potion, intended to alleviate his pain, he refused to drink; but of this he took a little, and then expired, Joh 19:30.",
+      "full_note_ref": "CLARKE/43/19/29",
+      "on_tension_rationale": "Clarke names all three cited passages and resolves the exact tension: the drugged drink (Matt/Mark) was refused, the later plain vinegar (John) was taken — two distinct offers, not one.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "John 19:19",
+      "excerpt_text": "They had given him vinegar to drink before they crucified him (Mat 27:34), but the prophecy was not exactly fulfilled in that, because that was not in his thirst; therefore now he said, I thirst, and called for it again: then he would not drink, but now he received it",
+      "full_note_ref": "MHC/43/19/19",
+      "on_tension_rationale": "Henry distinguishes the two occasions explicitly — the earlier offer Jesus 'would not drink,' the later one in his thirst 'he received it' — the core two-drinks harmonization. (Block-anchored note.)",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Mark 15:21",
+      "excerpt_text": "was different from what the soldiers gave him, which was vinegar mixed with gall … but he received it not; nor would he so much as taste of it, as he did of the other",
+      "full_note_ref": "GILL/41/15/21",
+      "on_tension_rationale": "Gill marks the wine-and-myrrh (refused) as a different drink from the vinegar Jesus did taste 'of the other,' carrying the same two-drinks distinction from the Markan side.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats this passage directly, distinguishing the drugged drink Jesus refused from the later undrugged drink he accepted."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Jesus-vinegar-on-the-cross.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why did they give Jesus vinegar at the cross?",
+        "note": "Live apologetic treatment harmonizing the refusal (Matthew/Mark) with the acceptance (John) as separate offers."
+      }
+    }
+  }
+}

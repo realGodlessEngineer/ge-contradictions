@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 116,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the Gospel \"hate\" as a Semitic idiom of comparative preference, so loving Christ more leaves the command to honor parents intact.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharpest objection is pressed by E. P. Sanders, who argues that \"let the dead bury their dead\" required a follower to violate the binding duty to bury and honor a parent — a rare point where Jesus contravened the Mosaic law.",
+      "skeptic": {
+        "name": "E. P. Sanders",
+        "work": "Jesus and Judaism",
+        "year": "1985",
+        "attribution": "E. P. Sanders (d. 2022), Jesus and Judaism (Philadelphia: Fortress, 1985), 252-255"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Luke 14:26",
+      "excerpt_text": "And hate not - Matthew, Mat 10:37, expresses the true meaning of this word, when he says, He who loveth his father and mother More than me.",
+      "full_note_ref": "CLARKE/42/14/26",
+      "on_tension_rationale": "Directly defuses the central tension: 'hate' (Luke 14:26) is glossed as a Hebrew idiom meaning 'love less than me' (Matt 10:37), so it does not negate honoring parents.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Luke 14:26",
+      "excerpt_text": "not that proper hatred of any, or all of these, is enjoined by Christ; for this would be contrary to the laws of God, to the first principles of nature, to all humanity, to the light of nature, to reason and divine revelation: but that these are not to be preferred to Christ, or loved more than he, as it is explained in Mat 10:37 …",
+      "full_note_ref": "GILL/42/14/25",
+      "on_tension_rationale": "States plainly that literal hatred of parents is not commanded — it would contradict the law of God — and that the saying means only not preferring them above Christ, harmonizing with the honor command.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Luke 14:26",
+      "excerpt_text": "If the matter stands between God and him, as Theophylact saith: and therefore these words are not spoken simply, but by comparison.",
+      "full_note_ref": "GNV/42/14/26",
+      "on_tension_rationale": "Frames the 'hate' saying as comparative ('not simply, but by comparison'), engaging only when love of family conflicts with love of God — a distinct voice harmonizing the tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on Luke 14:26",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, reading the Gospel 'hate' as a Hebrew idiom for loving less (Matt 10:37; Gen 29:30-31), reconciling it with the command to honor parents."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/hate-father-mother.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What did Jesus mean when He instructed us to hate our father and mother (Luke 14:26)?",
+        "note": "live apologetic treatment harmonizing Luke 14:26 with the fifth commandment"
+      }
+    }
+  }
+}

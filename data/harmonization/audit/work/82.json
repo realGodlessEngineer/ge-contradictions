@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 82,
+  "question": "Who did Jacob wrestle with?",
+  "summary": "Genesis 32 has Jacob wrestling \"a man\" at the Jabbok, after which Jacob insists he has \"seen God face to face\" and names the place Peniel. Hosea 12:4 reaches back to the same episode and calls the opponent an angel. Man, God, or angel — the tradition couldn't make up its mind.",
+  "consensus": "probable_harmonization",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "The commentators treat “man,” “God,” and “angel” as three labels for one figure — the visible Angel of the covenant who appeared in human form.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells, compiler of the Skeptic’s Annotated Bible (the upstream source for this entry), presses the plain wording: Genesis calls Jacob’s opponent a man whom Jacob then names God, while Hosea calls him an angel — three different answers to one question.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic’s Annotated Bible (“Who did Jacob wrestle with?”, skepticsannotatedbible.com/contra/wrestle.html)",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic’s Annotated Bible (2013), “Who did Jacob wrestle with?”"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Genesis 32:24",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Treats this exact pair directly: harmonizes the Genesis “man”/“God” labels with the Hosea “angel” label by identifying the figure as the Angel of the covenant in visible form. Used as the textual anchor because Haley’s specific coverage of the Genesis-32-vs-Hosea-12 identity question could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page squarely treats the man/God/angel identity tension with Hosea 12:4. gotquestions.org/Jacob-wrestling-with-God.html is live but does not cite Hosea 12:4 or harmonize the angel label; who-did-Jacob-wrestle-with.html is a 404. Link omitted rather than use an off-tension page."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "82#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Genesis 32:24",
+      "full_note_ref": "JFB/1/32/24",
+      "excerpt_text": "This mysterious person is called an angel (Hos 12:4) and God (Gen 32:28, Gen 32:30; Hos 12:5); and the opinion that is most supported is that he was “the angel of the covenant,” who, in a visible form, appeared to animate the mind and sympathize with the distress of his pious servant.",
+      "on_tension_rationale": "Directly reconciles all three identity labels at issue (man→angel per Hos 12:4→God), resolving them as one figure, the Angel of the covenant in visible form. Strongest single harmonization of the man/God/angel tension.",
+      "source_note_text": "There wrestled a man with him--This mysterious person is called an angel (Hos 12:4) and God (Gen 32:28, Gen 32:30; Hos 12:5); and the opinion that is most supported is that he was \"the angel of the covenant,\" who, in a visible form, appeared to animate the mind and sympathize with the distress of his pious servant. It has been a subject of much discussion whether the incident described was an actual conflict or a visionary scene. Many think that as the narrative makes no mention in express terms either of sleep, or dream, or vision, it was a real transaction; while others, considering the bodily exhaustion of Jacob, his great mental anxiety, the kind of aid he supplicated, as well as the analogy of former manifestations with which he was favored--such as the ladder--have concluded that it was a vision [CALVIN, HESSENBERG, HENGSTENBERG]. The moral design of it was to revive the sinking spirit of the patriarch and to arm him with confidence in God, while anticipating the dreaded scenes of the morrow. To us it is highly instructive; showing that, to encourage us valiantly to meet the trials to which we are subjected, God allows us to ascribe to the efficacy of our faith and prayers, the victories which His grace alone enables us to make."
+    }
+  ]
+}

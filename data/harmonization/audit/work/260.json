@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 260,
+  "question": "What was Solomon's gift to Hiram?",
+  "summary": "1 Kings 5:11 says Solomon gave Hiram 20,000 measures of wheat and 20 measures of pure oil annually for his household. 2 Chronicles 2:10 says Solomon gave 20,000 measures of wheat, 20,000 measures of barley, 20,000 baths of wine, and 20,000 baths of oil to the timber workers. The commodities, quantities, and recipients differ.",
+  "consensus": "genuinely_disputed",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Commentators harmonize by recipient: the 1 Kings list is Hiram's annual palace supply, while the larger Chronicles list pays the woodcutters on Lebanon.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Otto Thenius, in his critical commentary on Kings, treated the two accounts as not standing as written and emended one from the other rather than reading them as separate payments.",
+    "skeptic": {
+      "name": "Otto Thenius",
+      "work": "Die Bücher der Könige (Erklärung der Bücher der Könige)",
+      "year": "1849",
+      "attribution": "Otto Thenius (d. 1876), Die Bücher der Könige (1849; 2nd ed. 1873)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on 1 Kings 5:8-11",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this passage directly, arguing the two accounts are 'so clear' that critics who confounded them and emended one from the other are mistaken: the 1 Kings list is the payment for the wood delivered to Hiram's court, the Chronicles list the provision for the tree-fellers."
+      },
+      "link": {
+        "url": null
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "260#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "2 Chronicles 2:10",
+      "full_note_ref": "JFB/14/2/10",
+      "excerpt_text": "There is no discrepancy between that passage and this. The yearly supplies of wine and oil, mentioned in the former, were intended for Huram's court in return for the cedars sent him; while the articles of meat and drink specified here were for the workmen on Lebanon.",
+      "on_tension_rationale": "Explicitly denies the discrepancy and resolves it by distinguishing recipients: the 1 Kings supplies were for Hiram's court, the 2 Chronicles supplies for the Lebanon workmen.",
+      "source_note_text": "behold, I will give to thy servants . . . beaten wheat--Wheat, stripped of the husk, boiled, and saturated with butter, forms a frequent meal with the laboring people in the East (compare Kg1 5:11). There is no discrepancy between that passage and this. The yearly supplies of wine and oil, mentioned in the former, were intended for Huram's court in return for the cedars sent him; while the articles of meat and drink specified here were for the workmen on Lebanon."
+    }
+  ]
+}

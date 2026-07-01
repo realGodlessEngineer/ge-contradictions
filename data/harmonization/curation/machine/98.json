@@ -1,0 +1,74 @@
+{
+  "contradiction_id": 98,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders split three ways: the reward was mistranslated, it was for the midwives' mercy and not their lie, or there was no real lie at all.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "filled",
+      "connective": "Even within the harmonizing tradition the Geneva annotators concede the deception itself was sinful, which is precisely the point a divine reward strains against.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Exodus 1:20",
+      "excerpt_text": "God dealt well with the midwives—This represents God as rewarding them for telling a lie. This difficulty is wholly removed by a more correct translation.",
+      "full_note_ref": "JFB/2/1/20",
+      "on_tension_rationale": "JFB names the contradiction outright (God appears to reward a lie) and resolves it by re-translation, so 'make a house' = give progeny rather than reward deceit. Directly on the reward-for-lying tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Exodus 1:20",
+      "excerpt_text": "Thus God rewarded them, \"not, however, because they lied, but because they were merciful to the people of God; it was not their falsehood therefore that was rewarded, but their kindness (more correctly, their fear of God), their benignity of mind, not the wickedness of their lying; and for the sake of what was good, God forgave what was evil.\" (Augustine, contra mendac. c. 19.)",
+      "full_note_ref": "KD/2/1/20",
+      "on_tension_rationale": "Keil & Delitzsch quote Augustine to distinguish the rewarded virtue (mercy/fear of God) from the lie, which is conceded as evil but forgiven. The classic 'rewarded for the kindness, not the falsehood' harmonization, exactly on tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Exodus 1:19",
+      "excerpt_text": "Now I contend that there was neither lie direct nor even prevarication in the case. … Here then is a fact, boldly announced in the face of danger; and we see that God was pleased with this frankness of the midwives, and he blessed them for it.",
+      "full_note_ref": "CLARKE/2/1/19",
+      "on_tension_rationale": "Clarke takes the third harmonizing route — denying a lie occurred at all ('neither lie direct nor even prevarication') — so God blessed a frank true statement, not deceit. Ellipsis joins two non-adjacent on-tension sentences without altering his argument.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "discrepancy",
+      "source_code": "GNV",
+      "verse_ref": "Exodus 1:19",
+      "excerpt_text": "Their disobedience herein was lawful, but their dissembling evil.",
+      "full_note_ref": "GNV/2/1/19",
+      "on_tension_rationale": "The Geneva annotators concede within the note that the midwives' deception ('dissembling') was evil, even while approving their disobedience — a verbatim concession that the lie was genuinely sinful, which is the genuine-conflict horn of a reward-for-lying.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Exodus 1:19",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke takes up the skeptical charge directly — 'The Hebrew midwives told palpable lies, and God commends them for it; thus we may do evil that good may come of it' — and answers it at length, arguing there was no lie and that God blessed their boldness, not deceit. A passage-specific public-domain defense surfaced on this row."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Exodus_1.15-21.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in Exodus 1:15–21?",
+        "note": "Live apologetic treatment of God blessing the midwives who deceived Pharaoh, arguing a hierarchy of moral obligations (saving innocent life over obedience to government)."
+      }
+    }
+  }
+}

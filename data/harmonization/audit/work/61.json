@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 61,
+  "question": "How long was the Egyptian Captivity?",
+  "summary": "The Bible gives three different answers to how long Israel was in Egypt: 400 years in Genesis 15:13 and Acts 7:6, four generations in Genesis 15:16, and 430 years in Exodus 12:40 and Galatians 3:17. Even inside a single chapter (Genesis 15), the numbers don't line up, and the New Testament inherits the mess.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "The standard harmonization reads the figures as round numbers and stretches the 430 to cover the whole sojourn from Abraham's entry into Canaan, following the Septuagint and Samaritan text of Exodus 12:40.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The sharpest objection is pressed by the biblical scholar Steven DiMattei, who argues the 400 and 430 figures come from two once-separate textual traditions and were never meant to agree.",
+    "skeptic": {
+      "name": "Steven DiMattei",
+      "work": "Genesis 1 & 2 / contradictionsinthebible.com, \"400 Years of Slavery in Egypt OR 430?\"",
+      "year": "2014",
+      "attribution": "Steven DiMattei, contradictionsinthebible.com (2014)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Exodus 12:40",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact difficulty directly, concedes it is \"allowed on all hands to be extremely difficult,\" and resolves it via the Samaritan Pentateuch and Septuagint reading of Exod 12:40 (Canaan + Egypt = 430), matched to the chronology and to Paul in Gal 3:17."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted live page found that engages THIS 400-vs-430 sojourn-length tension: gotquestions.org/400-years-Egypt.html does not address the discrepancy, and defendinginerrancy.com's Galatians 3:17 page treats the Abraham-to-Law gap rather than the 400/430 conflict. Link omitted per spec rather than forced."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "61#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Exodus 12:40",
+      "full_note_ref": "JFB/2/12/40",
+      "excerpt_text": "These additions are important, for the period of sojourn in Egypt did not exceed two hundred fifteen years; but if we reckon from the time that Abraham entered Canaan and the promise was made in which the sojourn of his posterity in Egypt was announced, this makes up the time to four hundred thirty years.",
+      "on_tension_rationale": "Directly harmonizes Exod 12:40's 430 with the much shorter actual Egypt stay by adopting the LXX/Samaritan whole-sojourn reading (Canaan + Egypt from Abraham), the strongest single reconcile statement on the row; ends on a real source period.",
+      "source_note_text": "the sojourning of the children of Israel . . . four hundred and thirty years--The Septuagint renders it thus: \"The sojourning of the children and of their fathers, which they sojourned in the land of Canaan and in the land of Egypt.\" These additions are important, for the period of sojourn in Egypt did not exceed two hundred fifteen years; but if we reckon from the time that Abraham entered Canaan and the promise was made in which the sojourn of his posterity in Egypt was announced, this makes up the time to four hundred thirty years."
+    }
+  ]
+}

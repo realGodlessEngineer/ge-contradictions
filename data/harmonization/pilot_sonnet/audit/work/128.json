@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 128,
+  "question": "Is it OK to use perfume?",
+  "summary": "Proverbs 27:9 says ointment and perfume rejoice the heart — a wisdom-literature endorsement. Exodus 30:37 forbids making the specific holy anointing oil for personal use. SAB frames these as contradicting a universal prohibition of perfume, but the Exodus text is about one sacred recipe, not perfume generally.",
+  "consensus": "apparent_only",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Every commentator treats Exodus 30:37 as a narrow prohibition on one specific sacred recipe, leaving common perfume entirely untouched — Proverbs 27:9 and the Exodus prohibition address wholly different objects.",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells (Skeptic's Annotated Bible) lists this pair as a contradiction, treating Exodus 30:37 as a blanket prohibition on perfume that conflicts with Proverbs 27:9's endorsement of it.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "Skeptic's Annotated Bible",
+      "year": "2013",
+      "attribution": "Steve Wells, Skeptic's Annotated Bible (2013)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley addresses this class of apparent contradiction by showing that Exodus ceremonial restrictions on sacred recipes do not constitute general moral prohibitions on the items in question — a distinction that resolves the Exod 30:37 vs. Prov 27:9 pairing directly."
+      },
+      "link": null
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "128#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Proverbs 27:9",
+      "full_note_ref": "GILL/20/27/8",
+      "excerpt_text": "Meaning not the holy anointing oil for sacred use, or the perfume or incense offered on the altar of incense; but common oil or ointment used at entertainments, poured on the heads of the guests; and incense in censing of rooms, which were very delightful, pleased the senses, and so exhilarated the heart",
+      "on_tension_rationale": "Gill explicitly distinguishes the 'holy anointing oil' and altar incense (the subject of Exod 30:37's ban) from the common perfume and oil endorsed by Proverbs 27:9 — directly resolving the apparent contradiction.",
+      "source_note_text": "Ointment and perfume rejoice the heart,.... Meaning not the holy anointing oil for sacred use, or the perfume or incense offered on the altar of incense; but common oil or ointment used at entertainments, poured on the heads of the guests; and incense in censing of rooms, which were very delightful, pleased the senses, and so exhilarated the heart;\nso doth the sweetness of a man's friend by hearty counsel; so the sweet and pleasant words, the wise and cordial counsel of a man's friend, rejoice his heart; he takes it well, he is highly delighted with it; he receives it kindly, and pursues it to advantage: or \"by counsel of soul\" (c), such as relates to the welfare of the soul here and hereafter; such is the counsel Christ gives, to buy of him gold tried in the fire, white raiment eye salve; and such as the Scriptures give, which, with the saints, are the men of their counsel, as they were David's; and which ministers of the Gospel give, who are therefore like ointment and perfume, \"a sweet savour of life unto life\": some render the words, and they will bear it, \"so the sweetness of a man's friend, more than the counsel of his soul\" (d) or than his own; that is, the sweet counsel of a friend is better than his own, and more rejoices his heart, and gives him more pleasure than that does; and this way go the Jewish commentators.\n(c) \"a consilio animae\", Montanus; \"propter consilium animae\", Pagninus, Gejerus, Michaelis. (d) \"Magis quam consilium animae, sub. propriae\", Vatablus, Baynus; \"quam consilium proprium\", Junius & Tremellius, Mercerus, Amama."
+    }
+  ]
+}

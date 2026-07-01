@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 154,
+  "question": "How many male Levites more than one month old did Moses and Aaron count?",
+  "summary": "Numbers 3:39 gives the total of all male Levites a month old and upward as 22,000. But the same chapter breaks the count into clans — 7,500 Gershonites (3:22), 8,600 Kohathites (3:28), and 6,200 Merarites (3:34) — which sums to 22,300, not 22,000. The 300-Levite gap is internal to a single chapter.",
+  "consensus": "genuinely_disputed",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders treat the 300-Levite gap as either a copyist's slip in the clan figures or a deliberate exclusion of the Levites' own first-born from the total.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steven DiMattei counts the unbalanced totals a real contradiction, though he concedes it is a minor one that likely entered through the manuscript tradition rather than authorial intent.",
+    "skeptic": {
+      "name": "Steven DiMattei",
+      "work": "Genesis 1 and the Creationism Debate / contradictionsinthebible.com (#218)",
+      "year": "2014",
+      "attribution": "Steven DiMattei, contradictionsinthebible.com, \"#218. The total number of Levites is 22,300 OR 22,000?\" (2014)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Numbers 3:39",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats this exact 300-Levite gap directly at Num 3:39, surveying the first-born, round-number, and scribal-transcription harmonizations."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page on an allowlisted apologetics domain (gotquestions.org / carm.org / defendinginerrancy.com) could be confirmed for this specific passage; link omitted rather than guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "154#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Numbers 3:39",
+      "full_note_ref": "JFB/4/3/39",
+      "excerpt_text": "The separate numbers stated in Num 3:22, Num 3:28, Num 3:34, when added together, amount to twenty-two thousand three hundred. The omission of the three hundred is variously accounted for--by some, because they might be first-born who were already devoted to God and could not be counted as substitutes; and by others, because in Scripture style, the sum is reckoned in round numbers. The most probable conjecture is, that as Hebrew letters are employed for figures, one letter was, in the course of transcription, taken for another of like form but smaller value.",
+      "on_tension_rationale": "Directly states the 22,300 sum and lays out the three standard harmonizations of the 300 gap (first-born devoted, round numbers, scribal letter-error). The single strongest reconcile note on the row.",
+      "source_note_text": "twenty and two thousand--The result of this census, though made on conditions most advantageous to Levi, proved it to be by far the smallest in Israel. The separate numbers stated in Num 3:22, Num 3:28, Num 3:34, when added together, amount to twenty-two thousand three hundred. The omission of the three hundred is variously accounted for--by some, because they might be first-born who were already devoted to God and could not be counted as substitutes; and by others, because in Scripture style, the sum is reckoned in round numbers. The most probable conjecture is, that as Hebrew letters are employed for figures, one letter was, in the course of transcription, taken for another of like form but smaller value."
+    }
+  ]
+}

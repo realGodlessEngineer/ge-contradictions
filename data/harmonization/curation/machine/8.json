@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 8,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the first-person plurals not as a plurality of gods but as the one God's inner fullness — Keil & Delitzsch take 'let us' as a plural of majesty pointing to the triune Divine Being, not a council of other deities.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Mark S. Smith argues these passages preserve Israel's older divine-council worldview — Psalm 82 and Deuteronomy 32:8-9 depict Yahweh among a pantheon of gods — a polytheistic substratum that the later strict-monotheism texts only gradually overwrote.",
+      "skeptic": {
+        "name": "Mark S. Smith",
+        "work": "The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts",
+        "year": "2001",
+        "attribution": "Mark S. Smith, The Origins of Biblical Monotheism: Israel's Polytheistic Background and the Ugaritic Texts (Oxford University Press, 2001)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 1:26",
+      "excerpt_text": "No other explanation is left, therefore, than to regard it as pluralis majestatis, - an interpretation which comprehends in its deepest and most intensive form (God speaking of Himself and with Himself in the plural number, not reverentiae causa, but with reference to the fullness of the divine powers and essences which He possesses) the truth that lies at the foundation of the trinitarian view, viz., that the potencies concentrated in the absolute Divine Being are something more than powers and attributes of God; that they are hypostases, which in the further course of the revelation of God in His kingdom appeared with more and more distinctness as persons of the Divine Being.",
+      "full_note_ref": "KD/1/1/24",
+      "on_tension_rationale": "Directly answers 'how many gods': K&D canvass the readings of the plural 'let us make man' and reject both the angelic-council and the literal-plurality options, landing on a plural-of-majesty that expresses the fullness of the one Divine Being (the Trinitarian truth) — so the plural verses are read as the single God speaking within himself, not as multiple gods.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Genesis 1:26",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat the plural 'let us make man' directly, surveying the majestic-plural, self-address, and angelic-council readings and arguing the plural expresses the fullness of the one Divine Being rather than a plurality of gods."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/God-plural.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why does God refer to Himself in the plural in Genesis 1:26 and 3:22?",
+        "note": "Live apologetic treatment of the first-person plural passages, arguing they reflect the Trinity (or a plural of majesty) rather than belief in multiple gods."
+      }
+    }
+  }
+}

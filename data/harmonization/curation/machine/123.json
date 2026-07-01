@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 123,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders collapse the drive-out and exterminate commands into one program, reading \"drive out\" not as expulsion but as the very extermination Deuteronomy 7 prescribes.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steven DiMattei presses the row directly, arguing the dispossession texts (Exodus 23; Numbers 33) and Deuteronomy's herem of utter annihilation come from different documentary sources and \"cannot be harmonized.\"",
+      "skeptic": {
+        "name": "Steven DiMattei",
+        "work": "Contradictions in the Bible, \"Were the Israelites to dispossess the indigenous Canaanites OR utterly destroy them?\" (contradictionsinthebible.com/dispossess-or-destroy)",
+        "year": "2013",
+        "attribution": "Steven DiMattei, Contradictions in the Bible (online), \"Dispossess or Destroy?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Numbers 33:50",
+      "excerpt_text": "ye shall drive out all the inhabitants of the land from before you—not, however, by expulsion, but extermination (Deu 7:1).",
+      "full_note_ref": "JFB/4/33/50",
+      "on_tension_rationale": "The single sharpest harmonizing sentence on the row: JFB explicitly reads Numbers' 'drive out' as NOT expulsion but the extermination of Deut 7:1, collapsing the dispossess vs. annihilate axis into one command. Verbatim; the '--' em-dash typeset normalized to em-dash per the allowed typography rule; sentence ends on a source period. Parity-capped to one excerpt against the single named skeptic on a discrepancy_first row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Exodus 23:20-33",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this passage directly, reconciling the 'hornet'/drive-out promise with the extermination command by reading expulsion and destruction as conditional, progressive stages of one conquest ('not drive them away at once ... He would drive them out by degrees'), and noting Israel's failure to exterminate is what left Canaanites in the land."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page squarely harmonizes THIS pair (drive-out/dispossess vs. exterminate). gotquestions.org/Canaanites-extermination.html defends the morality of the herem but does not reconcile the drive-out language with it; defendinginerrancy.com Deuteronomy_20.16-18_(2).php addresses the same passage but a different mechanism (spare far-off cities vs. destroy Canaanite cities), not the dispossess-vs-annihilate axis. Link omitted, not guessed."
+      }
+    }
+  }
+}

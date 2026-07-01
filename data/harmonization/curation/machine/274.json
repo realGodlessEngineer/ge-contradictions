@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 274,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the repeated 'Maachah the daughter of Abishalom' as one woman kept on as queen-mother, so Asa is her grandson and Abijam's son, not his brother.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Otto Thenius read v. 10's verbatim repetition to mean Abijam had married his own mother, and on that basis proposed emending the text.",
+      "skeptic": {
+        "name": "Otto Thenius",
+        "work": "Die Bücher der Könige (Kurzgefasstes exegetisches Handbuch zum Alten Testament)",
+        "year": "1849",
+        "attribution": "Otto Thenius (d. 1876), Die Bücher der Könige (1849)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "1 Kings 15:9",
+      "excerpt_text": "This notice, which agrees verbatim with Kg1 15:2, cannot mean that Abijam had his own mother for a wife; though Thenius finds this meaning in the passage, and then proceeds to build up conjectures concerning emendations of the text. We must rather explain it, as Ephr. Syr., the Rabbins, and others have done, as signifying that Maacah, the mother of Abijam, continued during Asa's reign to retain the post of queen-mother or הגּבירה, i.e., sultana valide, till Asa deposed her on account of her idolatry (Kg1 15:13), probably because Asa's own mother had died at an early age.",
+      "full_note_ref": "KD/11/15/9",
+      "on_tension_rationale": "KD names the exact tension (the verbatim repetition of the mother-formula at v.2 and v.10) and rejects the brothers/own-mother reading, explaining Maachah as the surviving queen-mother (grandmother) of Asa — the core harmonization.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Kings 15:10",
+      "excerpt_text": "his mother's name was Maachah--She was properly his grandmother, and she is here called \"the king's mother,\" from the post of dignity which at the beginning of his reign she possessed.",
+      "full_note_ref": "JFB/11/15/10",
+      "on_tension_rationale": "JFB states directly that the 'mother' of Asa in v.10 is properly his grandmother, titled 'the king's mother' by virtue of office — resolving why the same Maachah is named for both kings without making them brothers.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "1 Kings 15:10",
+      "excerpt_text": "That is, his grandmother, as David is oft times called father of them, whose grandfather he was.",
+      "full_note_ref": "GNV/11/15/10",
+      "on_tension_rationale": "Geneva note glosses Asa's 'mother' as grandmother, citing the Hebrew kinship-term idiom (father = grandfather), the linguistic basis for the harmonization in a distinct early voice.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on 1 Kings 15:10",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Keil & Delitzsch treat this passage directly, rejecting the 'Abijam married his own mother' reading and explaining Maachah as the surviving queen-mother (grandmother) retained into Asa's reign."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page found that treats THIS tension (Maachah named as mother of both Abijam and Asa); CARM's 'Who was King Abijah's mother?' addresses only the Maacah/Micaiah name-spelling variant, so it is omitted."
+      }
+    }
+  }
+}

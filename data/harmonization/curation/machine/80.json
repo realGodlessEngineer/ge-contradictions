@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 80,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read the conflict diachronically: Jacob's double marriage predates Sinai, so no law yet existed to break, and Leviticus 18:18 legislates against precisely the rivalry his case produced.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Source critic Steven DiMattei presses the sharpest objection: the conflict is not a timing gap but two authors — the Yahwist's Genesis 29, where marrying sisters is unremarked, against the Priestly Leviticus centuries later, which condemns it.",
+      "skeptic": {
+        "name": "Steven DiMattei",
+        "work": "Contradictions in the Bible #50, \"Is it lawful to marry your wife's sister OR not? (Gen 29:28 vs Lev 18:18)\"",
+        "year": "2013",
+        "attribution": "Dr. Steven DiMattei, Contradictions in the Bible #50 (contradictionsinthebible.com, 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 29:27",
+      "excerpt_text": "This bigamy of Jacob must not be judged directly by the Mosaic law, which prohibits marriage with two sisters at the same time (Lev 18:18), or set down as incest (Calvin, etc.), since there was no positive law on the point in existence then.",
+      "full_note_ref": "KD/1/29/27",
+      "on_tension_rationale": "Directly names Lev 18:18 and resolves the tension by chronology — no positive law existed when Jacob married, so the patriarchal marriage cannot be Torah-illegal. The strongest single reconcile on the row.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Genesis 29:28",
+      "excerpt_text": "It is evident that the marriage of both sisters took place nearly about the same time, and that such a connection was then allowed, though afterwards prohibited (Lev 18:18).",
+      "full_note_ref": "JFB/1/29/28",
+      "on_tension_rationale": "Explicitly states the diachronic-development harmonization: the sister-marriage was allowed in Jacob's day, prohibited only later by Lev 18:18. Distinct voice, concise.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Genesis 29:28",
+      "excerpt_text": "Connections of this kind are now called incestuous; but it appears they were allowable in those ancient times. … It was probably because of this that the law was made, Thou shalt not take a wife to her sister, to vex her, besides the other in her life-time. After this, all such marriages were strictly forbidden.",
+      "full_note_ref": "CLARKE/1/29/28",
+      "on_tension_rationale": "Adds the causal claim that Jacob's case itself prompted the later prohibition; ellipsis joins the 'allowable then' clause to the 'law made later' clause, preserving Clarke's diachronic argument. Distinct voice.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Genesis 29:27 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this exact pair: argues Jacob's marriage to two sisters cannot be judged by Lev 18:18 because no positive law existed then, and that the case prepared the way for the later prohibition. Row-surfaced harmonizing commentator used per spec because Haley's coverage of this specific pair could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted (gotquestions.org / carm.org / defendinginerrancy.com) page squarely engages the Jacob-vs-Lev-18:18 tension on verification: gotquestions Jacob-Leah-Rachel.html and close-relative-relationship.html mention the verses but do not address the apparent conflict, and defendinginerrancy Genesis_29.21-30.php covers a different difficulty. Link omitted rather than attaching an off-topic page."
+      }
+    }
+  }
+}

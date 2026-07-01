@@ -1,0 +1,410 @@
+{
+  "contradiction_id": 52,
+  "question": "Who was the father of Uz, Hul, and Gether?",
+  "summary": "Genesis 10:23 lists Uz, Hul, and Gether as sons of Aram (making them Aram's generation, great-grandsons of Shem). 1 Chronicles 1:17, however, lists the same three names as direct sons of Shem — skipping Aram entirely.",
+  "consensus": "probable_harmonization",
+  "consensus_id": 4,
+  "category": "Genealogy & Identity",
+  "contradiction_type": "genealogical",
+  "testament_scope": "OT_internal",
+  "books_in_tension": "Genesis, 1 Chronicles",
+  "refs_raw": [
+    "1 Chronicles 1:17",
+    "Genesis 10:23"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "1 Chronicles 1:17",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          1,
+          17,
+          17
+        ]
+      ]
+    },
+    {
+      "raw": "Genesis 10:23",
+      "book": "Genesis",
+      "bolls": 1,
+      "ranges": [
+        [
+          10,
+          23,
+          23
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 33,
+  "notes_raw_count": 36,
+  "notes_dropped": 3,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Genesis 10:21",
+      "note_ref": "GILL/1/10/21",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "Unto Shem also, the father of all the children of Eber,.... And for the sake of those Shem is particularly said to be the father of, is this genealogy given, and indeed the whole book of Genesis wrote: Eber was the great-grandson of Shem, and is here spoken of by anticipation, and Shem is called not the father of either of his immediate sons, but of the posterity of this man; because the Hebrews sprung from him in his line, among whom the church of God and the true religion were preserved, and from whom the Messiah was to come, as he did: the word Eber, Jarchi interprets, \"beyond the river, Euphrates\" or \"Tigris\", or both, as describing the seat of the posterity of Shem; but as this too much straitens them, since they inhabited on both sides, Dr. Hyde (d) has shown that the word used may refer to both, to those beyond these rivers, and to those on this side; see Num 24:24.\nthe brother of Japheth the elder; he was the brother of Ham too, but he is not mentioned because of the behaviour towards his father, and because of the curse that was upon him and his; but Shem's relation to Japheth is expressed to show that they were alike in their disposition; and it may be to signify, that in times to come their posterity would unite in spiritual things, which has been fulfilled already in part, and will be more fully by the coalition of the Jews, the posterity of Shem, and of the Gentiles, the posterity of Japheth, in the Christian church state: and from hence we learn that Japheth was the eldest of Noah's sons, though some render the words, \"the elder brother of Japheth\" (e); and so make Shem to be the eldest; but as this is contrary to the accents, so to the history: for Noah was five hundred years old when he began to beget sons, Gen 5:32 he was six hundred when he went into the ark, Gen 7:11 two years after the flood Shem begat Arphaxad, when he was one hundred years old, and Noah six hundred and two, Gen 11:10 so that Shem must be born when Noah was five hundred and two years old; and since he begot children, there must be one two years older than Shem, which can be no other than Japheth, since Ham is called his younger son, Gen 9:24.\neven to him were children born, who are reckoned as follow.\n(d) Hist. Relig. Pers. c. 2. p. 47, 48. (e) \"fratre Japheth majore\". V. L. Samar. Syr. Ar. \"frater major natu ipsius Japheth\", Tigurine version; \"fratri Japheti majori\", Cocceius; so some in Vatablus."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 10:22",
+      "note_ref": "GILL/1/10/22",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "The children of Shem,.... Whose names are\nElam and Ashur, and Arphaxad, and Lud, and Aram; and who, as Josephus (f) says, inhabited Asia, from Euphrates to the Indian ocean: his first born, Elam, was the father of the Elymaeans, from whom sprung the Persians, as the same writer observes, and his posterity are called Elamites, Act 2:10 their country Elam, and is sometimes mentioned with Media, when the Persians and Medes are intended, Isa 21:2 see also Isa 22:6, &c. in Daniel's time, Shushan, in the province of Elam, was the seat of the kings of Persia: the country of Elymais, so called from this man, is said by Pliny (g) to be divided from Susiane by the river Eulaeus, and to join with Persia; and the famous city of Elymais, the metropolis of the country, is placed by Josephus (h) in Persia. Ashur, the second son of Shem, gives name to Assyria, a country frequently mentioned in Scripture; and which, according to Ptolemy (i), was bounded on the north by part of Armenia the great, and the mountain Niphates, on the west by Mesopotamia and the river Tigris, on the south by Susiane, and on the east by part of Media. Strabo says (k) they call Babylonia, and great part of the country about it, Assyria, in which was Ninus or Nineveh, the chief city of the Assyrian empire; and which was built by Ashur, as Josephus (l) affirms, and says he gave the name of Assyrians to his subjects: Arphaxad, the third son of Shem, from him that part of Assyria, which lay northward next to Armenia, was called Arphaxitis, as it is probable that was its original name, though corruptly called by Ptolemy (m) Arrapachitis: Josephus says (n), he gave name to the Arphaxadaeans, whom he ruled over, now called Chaldeans; and indeed the name of the Chaldeans may as well be derived from the latter part of Arphaxad's name, \"Chashad\", as from Chesed, the son of Nahor, and brother of Abraham, as it more commonly is; since the Chaldeans were called Chasdim before Chesed was born, and were a nation when Abraham came out of Ur, before Chesed could be old or considerable enough to build towns and found a nation; see Gen 11:31 though Bochart treats this as a mere dream, yet he is obliged to have recourse to the usual refuge, that Ur was called Ur of the Chaldees, by anticipation. The fourth son of Shem was Lud, from whom sprung the Lydians, a people of Asia minor, and whose country is called Lydia, including Mysia and Caria, which all lay by the river Maeander; and Lud, in the Phoenician language, signifies bending and crooked, as that river was, being full of windings and turnings: some think that the posterity of Lud are carried too far off from those of his brethren, but know not where else to fix them. From Aram, the last son of Shem, sprung the Aramaeans, called by the Greeks Syrians, as Josephus (o) observes; and by Homer (p) and Hesiod (q) and so says Strabo (r); some by the Arimi understand the Syrians, now called Arami; and elsewhere (s) he observes, that they who are by us called Syrians, are by the Syrians themselves called Aramaeans, and this is the name they give to themselves to this day: the country inhabited by them included Mesopotamia and Syria, and particularly all those places that have the name of Aram added to them, as Padan Aram, and Aram Naharaim (which is Mesopotamia), Aram of Damascus, Aram Zobah, Aram Maacha, and Aram Beth Rehob, Gen 28:2 and the title of Psa 60:1, the Septuagint version here adds, \"and Cainan\", but without any authority.\n(f) Antiqu. l. 1. c. 6. sect. 4. (g) Nat. Hist. l. 6. c. 27. (h) Antiqu. l. 12. c. 8. sect. 1. (i) Geograph. l. 6. c. 1. (k) Ib. l. 16. p. 507. (l) Antiqu. l. 1. c. 6. sect. 4. (m) Ut supra. (Geograph. l. 6. c. 1.) (n) Ut supra. (Antiqu. l. 1. c. 6. sect. 4.). So R. Gedaliah, in Shalshalet Hakabala, fol. 76. 2. (o) Ut supra. (Antiqu. l. 1. c. 6. sect. 4.) (p) Iliad. 2. (q) Theogonia. (r) Geograph. l. 13. p. 431. l. 16. p. 540. (s) Ib. l. 1. p. 28."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 10:23",
+      "note_ref": "GILL/1/10/23",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "And the children of Aram,.... The four following persons are called the sons of Shem, Ch1 1:17 being his grandsons, which is not unusual in Scripture:\nUz, and Hul, and Gether, and Mash: the first of these sons of Aram, Uz, is generally thought to be the founder of Damascus; so Josephus (t) says. Usus founded Trachonitis and Damascus, which lies between Palestine and Coelesyria: there was a place called Uz in Idumea, Lam 4:21 and another in Arabia, where Job dwelt, Job 1:1 but neither of them seems to be the seat of this man and his posterity, who, in all probability, settled in Syria: his second son Hul, whom Josephus (u) calls Ulus, according to him, founded Armenia; which notion may be strengthened by observing that Cholobotene is reckoned a part of Armenia by Stephanus (w); which is no other than Cholbeth, that is, the house or seat of Chol, the same with Hul; and there are several places in Armenia, as appears from Ptolemy (x), which begin with Chol or Col, as Cholus, Cholua, Choluata, Cholima, Colsa, Colana, Colchis: but perhaps it may be better to place him in Syria, in the deserts of Palmyrene, as Junius and Grotius; since among the cities of Palmyrene, there is one called Cholle, according to Ptolemy (y). Gether, the third son, is made by Josephus (z) to be the father of the Bactrians; but these were too far off to come from this man, and were not in the lot of Shem: Bochart (a) finds the river Getri, which the Greeks call Centrites, between Armenia and the Carduchi, whereabout, he conjectures, might be the seat of this man; but perhaps it may be more probable, with Grotius and Junius, to place him in Coelesyria, where are the city Gindarus of Ptolemy (b), and a people called Gindareni, by Pliny (c); though Bishop Patrick thinks it probable that Gadara, the chief city of Peraea, placed by Ptolemy (d) in the Decapolis of Coelesyria, had its name from this man: Mr. Broughton derives Atergate and Derceto, names of a Syrian goddess, from him, which was worshipped at Hierapolis in Coelesyria, as Pliny says (e). The last of the sons of Aram, Mash, is called Meshech, in Ch1 1:17 and here the Septuagint version calls him Masoch; his posterity are supposed to settle in Armenia, about the mountain Masius, thought to be the same with Ararat, and which the Armenians call Masis; perhaps the people named Moscheni, mentioned by Pliny (f), as dwelling near Armenia and Adiabene, might spring from this man.\n(t) Ut supra. (Antiqu. l. 1. c. 6. sect. 4.) (u) Ibid. (w) Apud Bochart. Phaleg. l. 2. c. 9. col. 81. (x) Geograph. l. 5. c. 13. (y) Geograph. l. 5. c. 15. (z) Ut supra. (Antiqu. l. 1. c. 6. sect. 4.) (a) Phaleg. l. 2. c. 10. (b) Geograph. l. 5. c. 15. (c) Nat. Hist. l. 5. c. 23. (d) Ut supra. (Geograph. l. 5. c. 15.) (e) Nat. Hist. l. 5. c. 23. (f) Ib. l. 6. c. 9."
+    },
+    {
+      "src": "GILL",
+      "ref": "Genesis 10:24",
+      "note_ref": "GILL/1/10/24",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "And Arphaxad begat Salah,.... Or Shelach which signifies \"a sending forth\"; that is, of waters: it is part of the name of Methuselah, given him by his father, as prophetic of the flood, see Gen 5:21 and Arphaxad, who was born two years after the flood, gives this name to his first born, as commemorative of it: according to some, from him are the Susians (g); and in Susiana is found a city called Sele, by Ptolemy (h); but this seems not to be a sufficient proof:\nand Salah begat Eber; from whom, Josephus (i) says, the Jews were called Hebrews from the beginning; and which, perhaps, is as good a derivation of their name as can be given, and seems to be confirmed by Num 24:24 though some derive it from Abraham's passing over the rivers in his way from Chaldea into Syria; but be it so, why might not this name be given to Eber, as prophetic of that passage, or of the passage of his posterity over the Euphrates into Canaan, as well as Eber gave to his son Peleg his name, as a prediction of the division of the earth in his time? the Septuagint version of this text inserts a Cainan between Arphaxad and Salah, but is not to be found in any Hebrew copy, nor in the Samaritan, Syriac, and Arabic versions, nor in Josephus, see Luk 3:36.\n(g) Vid. Bochart. Phaleg. l. 2. c. 13. col. 92. (h) Geograph. l. 6. c. 3. (i) Ut supra. (Antiqu. l. 1. c. 6. sect. 4.)"
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 1:1",
+      "note_ref": "GILL/13/1/1",
+      "cites": [
+        "1 Chronicles 1:17"
+      ],
+      "text": "Adam, Seth,.... These first four verses exactly agree with the account of the antediluvian patriarchs in Gen 5:1, the first letter in Adam is larger than usual, as a memorial, as Buxtorf (m) observes, of the first and only man, from whence mankind had their beginning, and whose history the author had undertaken to write.\n, the first letter in Adam is larger than usual, as a memorial, as Buxtorf (m) observes, of the first and only man, from whence mankind had their beginning, and whose history the author had undertaken to write.\n1 Chronicles 1:5\nch1 1:5\nch1 1:5\nch1 1:5The sons of Japheth, Gomer,.... Here begins the genealogy of the sons of Noah after the flood; of the sons of Japheth the elder, in this and the two following verses; next of the sons of Ham, the younger brother, Ch1 1:8, then of Shem, whose posterity are mentioned last, because from him, in the line of Heber, sprang Abraham, the ancestor of the Jewish nation, of whom the Messiah was to come, for whose sake this genealogy is given, Ch1 1:17. The whole is the same with the account in",
+      "anchor": true
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 10:21",
+      "note_ref": "JFB/1/10/21",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "Unto Shem--The historian introduces him with marked distinction as \"the father of Eber,\" the ancestor of the Hebrews."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 10:23",
+      "note_ref": "JFB/1/10/23",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "Aram--In the general division of the earth, the countries of Armenia, Mesopotamia, and Syria, fell to his descendants."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 10:24",
+      "note_ref": "JFB/1/10/24",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "Arphaxad--The settlement of his posterity was in the extensive valley of Shinar, on the Tigris, towards the southern extremity of Mesopotamia, including the country of Eden and the region on the east side of the river."
+    },
+    {
+      "src": "JFB",
+      "ref": "Genesis 10:25",
+      "note_ref": "JFB/1/10/25",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "Peleg; for in his days was the earth divided--After the flood (Gen 11:10-16) the descendants of Noah settled at pleasure and enjoyed the produce of the undivided soil. But according to divine instruction, made probably through Eber, who seems to have been distinguished for piety or a prophetic character, the earth was divided and his son's name, \"Peleg,\" was given in memory of that event (see Deu 32:8; Act 17:26)."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 1:17",
+      "note_ref": "JFB/13/1/17",
+      "cites": [
+        "1 Chronicles 1:17"
+      ],
+      "text": "Uz, and Hul, and Gether, and Meshech--or, \"Mash\"; these were the children of Aram, and grandsons of Shem (Gen 10:23)."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 1:18",
+      "note_ref": "JFB/13/1/18",
+      "cites": [
+        "1 Chronicles 1:17"
+      ],
+      "text": "Arphaxad begat Shelah--Cainan, the father's name, is omitted here. (See Luk 3:36)."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 1:19",
+      "note_ref": "JFB/13/1/19",
+      "cites": [
+        "1 Chronicles 1:17"
+      ],
+      "text": "Peleg--(See on Gen 10:25)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 10:21",
+      "note_ref": "CLARKE/1/10/21",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "Shem also, the father of all the children of Eber - It is generally supposed that the Hebrews derived their name from Eber or Heber, son of Shem; but it appears much more likely that they had it from the circumstance of Abraham passing over (for so the word עבר abar signifies) the river Euphrates to come into the land of Canaan. See the history of Abraham, Gen 14:13 (note)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 10:22",
+      "note_ref": "CLARKE/1/10/22",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "Elam - From whom came the Elamites, near to the Medes, and whose chief city was Elymais.\nAsshur - Who gave his name to a vast province (afterwards a mighty empire) called Assyria.\nArphaxad - From whom Arrapachitis in Assyria was named, according to some; or Artaxata in Armenia, on the frontiers of Media, according to others.\nLud - The founder of the Lydians. In Asia Minor; or of the Ludim, who dwelt at the confluence of the Euphrates and Tigris, according to Arias Montanus.\nAram - The father of the Arameans, afterwards called Syrians."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 10:23",
+      "note_ref": "CLARKE/1/10/23",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "Uz - Who peopled Caelosyria, and is supposed to have been the founder of Damascus.\nHul - Who peopled a part of Armenia.\nGether - Supposed by Calmet to have been the founder of the Itureans, who dwelt beyond the Jordan, having Arabia Desert on the east, and the Jordan on the west.\nMash - Who inhabited mount Masius in Mesopotamia, and from whom the river Mazeca, which has its source in that mountain, takes its name."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Genesis 10:24",
+      "note_ref": "CLARKE/1/10/24",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "Salah - The founder of the people of Susiana.\nEber - See Gen 10:21. The Septuagint add Cainan here, with one hundred and thirty to the chronology."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 1:13",
+      "note_ref": "CLARKE/13/1/13",
+      "cites": [
+        "1 Chronicles 1:17"
+      ],
+      "text": "Canaan begat Zidon - \"Canaan begat Bothniam, his first-born, who built Sidon.\" - T.",
+      "anchor": true
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 1:19",
+      "note_ref": "CLARKE/13/1/19",
+      "cites": [
+        "1 Chronicles 1:17"
+      ],
+      "text": "The name of the one was Peleg - \"Because in his days the inhabitants of the earth were divided according to their languages. And the name of his brother was Joktan, because in his days the years of men began to be shortened, on account of their iniquities.\" - T."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 10:21",
+      "note_ref": "KD/1/10/21",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "Descendants of Shem. - Gen 10:21. For the construction, vid., Gen 4:26. Shem is called the father of all the sons of Eber, because two tribes sprang from Eber through Peleg and Joktan, viz., the Abrahamides, and also the Arabian tribe of the Joktanides (Gen 4:26.). - On the expression, \"the brother of Japhet הגּדול,\" see Gen 9:24. The names of the five sons of Shem occur elsewhere as the names of the tribes and countries; at the same time, as there is no proof that in any single instance the name was transferred from the country to its earliest inhabitants, no well-grounded objection can be offered to the assumption, which the analogy of the other descendants of Shem renders probable, that they were originally the names of individuals. As the name of a people, Elam denotes the Elymaeans, who stretched from the Persian Gulf to the Caspian Sea, but who are first met with as Persians no longer speaking a Semitic language. Asshur: the Assyrians who settled in the country of Assyria, Ἀτουρία, to the east of the Tigris, but who afterwards spread in the direction of Asia Minor. Arphaxad: the inhabitants of Ἀῤῥαπαχῖχτις in northern Assyria. The explanation given of the name, viz., \"fortress of the Chaldeans\" (Ewald), \"highland of the Chaldeans\" (Knobel), \"territory of the Chaldeans\" (Dietrich), are very questionable. Lud: the Lydians of Asia Minor, whose connection with the Assyrians is confirmed by the names of the ancestors of their kings. Aram: the ancestor of the Aramaeans of Syria and Mesopotamia."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 10:23",
+      "note_ref": "KD/1/10/23",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "Descendants of Aram. Uz: a name which occurs among the Nahorides (Gen 22:21) and Horites (Gen 36:28), and which is associated with the Αἰσῖται of Ptolemy, in Arabia deserta towards Babylon; this is favoured by the fact that Uz, the country of Job, is called by the lxx χώρα Αὐσῖτις, although the notion that these Aesites were an Aramaean tribe, afterwards mixed up with Nahorides and Horites, is mere conjecture. Hul: Delitzsch associates this with Cheli (Cheri), the old Egyptian name for the Syrians, and the Hylatae who dwelt near the Emesenes (Plin. 5, 19). Gether he connects with the name give in the Arabian legends to the ancestor of the tribes Themd and Ghadis. Mash: for which we find Meshech in Ch1 1:17, a tribe mentioned in Psa 120:5 along with Kedar, and since the time of Bochart generally associated with the πορος Μάσιον above Nisibis."
+    },
+    {
+      "src": "KD",
+      "ref": "Genesis 10:25",
+      "note_ref": "KD/1/10/25",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "Among the descendants of Arphaxad, Eber's eldest son received the name of Peleg, because in his days the earth, i.e., the population of the earth, was divided, in consequence of the building of the tower of Babel (Gen 11:8). His brother Joktan is called Kachtan by the Arabians, and is regarded as the father of all the primitive tribes of Arabia. The names of his sons are given in Gen 10:26-29. There are thirteen of them, some of which are still retained in places and districts of Arabia, whilst others are not yet discovered, or are entirely extinct. Nothing certain has been ascertained about Almodad, Jerah, Diklah, Obal, Abimael, and Jobab. Of the rest, Sheleph is identical with Salif or Sulaf (in Ptl. 6, 7, Σαλαπηνοί), an old Arabian tribe, also a district of Yemen. Hazarmaveth (i.e., forecourt of death) is the Arabian Hadhramaut in South-eastern Arabia on the Indian Ocean, whose name Jauhari is derived from the unhealthiness of the climate. Hadoram: the Ἀδραμῖται of Ptol. 6, 7, Atramitae of Plin. 6, 28, on the southern coast of Arabia. Uzal: one of the most important towns of Yemen, south-west of Mareb. Sheba: the Sabaeans, with the capital Saba or Mareb, Mariaba regia (Plin.), whose connection with the Cushite (Gen 10:7) and Abrahamite Sabaeans (Gen 25:3) is quite in obscurity. Ophir has not yet been discovered in Arabia; it is probably to be sought on the Persian Gulf, even if the Ophir of Solomon was not situated there. Havilah appears to answer to Chaulaw of Edrisi, a district between Sanaa and Mecca. But this district, which lies in the heart of Yemen, does not fit the account in Sa1 15:7, nor the statement in Gen 25:18, that Havilah formed the boundary of the territory of the Ishmaelites. These two passages point rather to Χαυλοταῖοι, a place on the border of Arabia Petraea towards Yemen, between the Nabataeans and Hagrites, which Strabo describes as habitable."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 1:1",
+      "note_ref": "KD/13/1/1",
+      "cites": [
+        "1 Chronicles 1:17"
+      ],
+      "text": "Adam, Seth,.... These first four verses exactly agree with the account of the antediluvian patriarchs in Gen 5:1, the first letter in Adam is larger than usual, as a memorial, as Buxtorf (m) observes, of the first and only man, from whence mankind had their beginning, and whose history the author had undertaken to write.\n, the first letter in Adam is larger than usual, as a memorial, as Buxtorf (m) observes, of the first and only man, from whence mankind had their beginning, and whose history the author had undertaken to write.\n1 Chronicles 1:5\nch1 1:5\nch1 1:5\nch1 1:5The sons of Japheth, Gomer,.... Here begins the genealogy of the sons of Noah after the flood; of the sons of Japheth the elder, in this and the two following verses; next of the sons of Ham, the younger brother, Ch1 1:8, then of Shem, whose posterity are mentioned last, because from him, in the line of Heber, sprang Abraham, the ancestor of the Jewish nation, of whom the Messiah was to come, for whose sake this genealogy is given, Ch1 1:17. The whole is the same with the account in",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Genesis 10:21",
+      "note_ref": "MHC/1/10/21",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "Two things especially are observable in this account of the posterity of Shem: -\nI. The description of Shem, Gen 10:21. We have not only his name, Shem, which signifies a name, but two titles to distinguish him by: -\n1. He was the father of all the children of Eber. Eber was his great grandson; but why should he be called the father of all his children, rather than of all Arphaxad's, or Salah's, etc.? Probably because Abraham and his seed, God's covenant-people, not only descended from Heber, but from him were called Hebrews; Gen 14:13, Abram the Hebrew. Paul looked upon it as his privilege that he was a Hebrew of the Hebrews, Phi 3:5. Eber himself, we may suppose, was a man eminent for religion in a time of general apostasy, and a great example of piety to his family; and, the holy tongue being commonly called from him the Hebrew, it is probable that he retained it in his family, in the confusion of Babel, as a special token of God's favour to him; and from him the professors of religion were called the children of Eber. Now, when the inspired penman would give Shem an honourable title, he calls him the father of the Hebrews. Though when Moses wrote this, they were a poor despised people, bond-slaves in Egypt, yet, being God's people, it was an honour to a man to be akin to them. As Ham, though he had many sons, is disowned by being called the father of Canaan, on whose seed the curse was entailed (Gen 9:22), so Shem, though he had many sons, is dignified with the title of the father of Eber, on whose seed the blessing was entailed. Note, a family of saints is more truly honourable than a family of nobles, Shem's holy seed than Ham's royal seed, Jacob's twelve patriarchs than Ishmael's twelve princes, Gen 17:20. Goodness is true greatness.\n2. He was the brother of Japheth the elder, by which it appears that, though Shem is commonly put first, he was not Noah's first-born, but Japheth was older. But why should this also be put as part of Shem's title and description, that he was the brother of Japheth, since it had been, in effect, said often before? And was he not as much brother to Ham? Probably this was intended to signify the union of the Gentiles with the Jews in the church. The sacred historian had mentioned it as Shem's honour that he was the father of the Hebrews; but, lest Japheth's seed should therefore be looked upon as for ever shut out from the church, he here reminds us that he was the brother of Japheth, not in birth only, but in blessing; for Japheth was to dwell in the tents of Shem. Note, (1.) Those are brethren in the best manner that are so by grace, and that meet in the covenant of God and in the communion of saints. (2.) God, in dispensing his grace, does not go by seniority, but the younger sometimes gets the start of the elder in coming into the church; so the last shall be first and the first last.\nII. The reason of the name of Peleg (Gen 10:25): Because in his days (that is, about the time of his birth, when his name was given him), was the earth divided among the children of men that were to inhabit it; either when Noah divided it by an orderly distribution of it, as Joshua divided the land of Canaan by lot, or when, upon their refusal to comply with that division, God, in justice, divided them by the confusion of tongues: whichsoever of these was the occasion, pious Heber saw cause to perpetuate the remembrance of it in the name of his son; and justly may our sons be called by the same name, for in our days, in another sense, is the earth, the church, most wretchedly divided."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 1:1",
+      "note_ref": "MHC/13/1/1",
+      "cites": [
+        "1 Chronicles 1:17"
+      ],
+      "text": "This paragraph has Adam for its first word and Abraham for its last. Between the creation of the former and the birth of the latter were 2000 years, almost the one-half of which time Adam himself lived. Adam was the common father of our flesh, Abraham the common father of the faithful. By the breach which the former made of the covenant of innocency, we were all made miserable; by the covenant of grace made with the latter, we all are, or may be, made happy. We all are, by nature, the seed of Adam, branches of that wild olive. Let us see to it that, by faith, we become the seed of Abraham (Rom 4:11, Rom 4:12), that we be grafted into the good olive and partake of its root and fatness.\nI. The first four verses of this paragraph, and the last four, which are linked together by Shem (Ch1 1:4, Ch1 1:24), contain the sacred line of Christ from Adam to Abraham, and are inserted in his pedigree, Luk 3:34-38, the order ascending as here it descends. This genealogy proves the falsehood of that reproach, As for this man, we know not whence he is. Bishop Patrick well observes here that, a genealogy being to be drawn of the families of the Jews, this appears as the peculiar glory of the Jewish nation, that they alone were able to derive their pedigree from the first man that God created, which no other nation pretended to, but abused themselves and their posterity with fabulous accounts of their originals, the Arcadians fancying that they were before the moon, the people of Thessaly that they sprang from stones, the Athenians that they grew out of the earth, much like the vain imaginations which some of the philosophers had of the origin of the universe. The account which the holy scripture gives both of the creation of the world and of the rise of nations carries with it as clear evidences of its own truth as those idle traditions do of their own vanity and falsehood.\nII. All the verses between repeat the account of the replenishing of the earth by the sons of Noah after the flood. 1. The historian begins with those who were strangers to the church, the sons of Japhet, who were planted in the isles of the Gentiles, those western parts of the world, the countries of Europe. Of these he gives a short account (Ch1 1:5-7), because with these the Jews had hitherto had little or no dealings. 2. He proceeds to those who had many of them been enemies to the church, the sons of Ham, who moved southward towards Africa and those parts of Asia which lay that way. Nimrod the son of Cush began to be an oppressor, probably to the people of God in his time. But Mizraim, from whom came the Egyptians, and Canaan, from whom came the Canaanites, are both of them names of great note in the Jewish story; for with their descendants the Israel of God had severe struggles to get out of the land of Egypt and into the land of Canaan; and therefore the branches of Mizraim are particularly recorded (Ch1 1:11, Ch1 1:12), and of Canaan, Ch1 1:13-16. See at what a rate God valued Israel when he gave Egypt for their ransom (Isa 43:3), and cast out all these nations before them, Psa 80:8. 3. He then gives an account of those that were the ancestors and allies of the church, the posterity of Shem, Ch1 1:17-23. These peopled Asia, and spread themselves eastward. The Assyrians, Syrians, Chaldeans, Persians, and Arabians, descended from these. At first the originals of the respective nations were known; but at this day, we have reason to think, the nations are so mingled with one another, by the enlargement of commerce and dominion, the transplanting of colonies, the carrying away of captives, and many other circumstances, that no one nation, no, nor the greatest part of any, is descended entire from any one of these fountains. Only this we are sure of, that God has created of one blood all nations of men; they have all descended from one Adam, one Noah. Have we not all one father? Has not one God created us? Mal 2:10. Our register hastens to the line of Abraham, breaking off abruptly from all the other families of the sons of Noah but that of Arphaxad, from whom Christ was to come. The great promise of the Messiah (says bishop Patrick) was translated from Adam to Seth, from him to Shem, from him to Eber, and so to the Hebrew nation, who were entrusted, above all nations, with that sacred treasure, till the promise was performed and the Messiah had come, and then that nation was made not a people.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 10:21",
+      "note_ref": "TYN/1/10/21",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "10:21 Shem, the older brother of Japheth, was the father of the Semitic peoples. The descendants listed represent countries east of Israel (modern Iraq, Iran, and Syria). The narrator lists these locations within Mesopotamia since Abram, the father of Israel, originated from this area (see 11:27-32). • Eber receives special attention because of his connection with Abram (see study note on 10:24)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 10:22",
+      "note_ref": "TYN/1/10/22",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "10:22 The descendants of Elam lived in the region of modern southwestern Iran (see 14:1, 9; Ezra 4:9; Isa 11:11). • The descendants of Asshur were later Assyrians who lived under Nimrod’s jurisdiction (see Gen 10:11). Sumerians descended from Ham were ousted by Mesopotamian Semites. • Arphaxad possibly settled northeast of Nineveh; his descendants are further described in 11:12-26. • Lud was near the Tigris River; its people were related to the Lydians (see 10:13). • Aram was a kingdom of tribes that lived in the Mesopotamian plains."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 10:23",
+      "note_ref": "TYN/1/10/23",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "10:23 The patriarchs later interacted with the descendants of Aram (see 25:20; 31:20; Deut 26:5). • Uz was the chief Aramean tribe, possibly located northeast of the Jordan; it was Job’s home (see Job 1:1; see also Lam 4:21). • Hul is unknown. He possibly founded Armenia. • Gether is unknown; he was possibly the founder of the Syrians. • Mash might be associated with Mount Masus in northern Mesopotamia or with a part of the Lebanon Mountains."
+    },
+    {
+      "src": "TYN",
+      "ref": "Genesis 10:24",
+      "note_ref": "TYN/1/10/24",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "10:24 Shelah is unknown, but may be short for Methushelah (cp. 38:5, 11). • Eber was the ancestor of Abram the Hebrew (11:10-26); his name is at the root of the term “Hebrew” (see 14:13; 39:14; 40:15; 41:12; Exod 2:11; 3:18)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 1:13",
+      "note_ref": "TYN/13/1/13",
+      "cites": [
+        "1 Chronicles 1:17"
+      ],
+      "text": "1:13 ancestor of the Hittites: Hebrew ancestor of Heth.",
+      "anchor": true
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 10:21",
+      "note_ref": "GNV/1/10/21",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "Of whom came the Hebrews or Jews.\nIn his stock the Church was preserved: therefore Moses leaveth off speaking of Japheth and Ham, and entreateth of Shem more at large."
+    },
+    {
+      "src": "GNV",
+      "ref": "Genesis 10:25",
+      "note_ref": "GNV/1/10/25",
+      "cites": [
+        "Genesis 10:23"
+      ],
+      "text": "This division came by the diversity of languages, as appeareth, Gen. 11:9."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 1:17",
+      "note_ref": "GNV/13/1/17",
+      "cites": [
+        "1 Chronicles 1:17"
+      ],
+      "text": "Of whom came the Syrians, and therefore they are called Aramites throughout all the Scripture."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 1:18",
+      "note_ref": "GNV/13/1/18",
+      "cites": [
+        "1 Chronicles 1:17"
+      ],
+      "text": "Of him came the Hebrews, which were afterward called Israelites of Israel, which was Jacob: and Jews of Judah because of the excellency of that tribe."
+    }
+  ]
+}

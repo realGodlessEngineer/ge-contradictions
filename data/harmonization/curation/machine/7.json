@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 7,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Genesis 2:19's verb as a pluperfect — God had already formed the animals on day six and now brings them to Adam — so the two accounts state one sequence, not two.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Julius Wellhausen pressed the sharpest form of the objection: Genesis 1 (P) and Genesis 2 (J) are independent documents, and in J the man is formed before the animals, an order that cannot be folded into P's animals-then-humans sequence without dissolving one source into the other.",
+      "skeptic": {
+        "name": "Julius Wellhausen",
+        "work": "Prolegomena to the History of Israel",
+        "year": "1885",
+        "attribution": "Julius Wellhausen (d. 1918), Prolegomena to the History of Israel (Eng. trans. 1885; German Prolegomena zur Geschichte Israels, 1883)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 2:18",
+      "excerpt_text": "The circumstance that in Gen 2:19 the formation of the beasts and birds is connected with the creation of Adam by the imperf. c. ו consec., constitutes to objection to the plan of creation given in Gen 1. … so that our modern style of expressing the same thought would be simply this: \"God brought to Adam the beasts which He had formed.\"",
+      "full_note_ref": "KD/1/2/18",
+      "on_tension_rationale": "K&D names the exact grammatical hook critics use (the waw-consecutive 'and God formed' in 2:19) and answers it: it is no objection to Gen 1's order, because the verb means God brought animals He had already formed — the pluperfect/retrospective reading that harmonizes the two sequences. This is the single strongest on-tension harmonization on the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Genesis 2:18-19 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Keil & Delitzsch treat this passage directly, arguing the waw-consecutive in Gen 2:19 raises no objection to Gen 1's order and is best read as 'God brought to Adam the beasts which He had formed' — the canonical pluperfect harmonization of the creation sequence."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/two-Creation-accounts.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why are there two different Creation accounts in Genesis chapters 1-2?",
+        "note": "Live apologetic treatment that directly addresses the animals-before-or-after-man order and defends the pluperfect ('had formed') reading of Genesis 2:19."
+      }
+    }
+  }
+}

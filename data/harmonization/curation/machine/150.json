@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 150,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the Deuteronomic exclusion as a temporary, age-of-infancy ordinance that Isaiah's promise supersedes once God's kingdom opens to all nations.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharpest reading is pressed by Joseph Blenkinsopp, who argues Isaiah 56 self-consciously revokes the Deuteronomic ban — a deliberate reversal of standing law, not a complementary development.",
+      "skeptic": {
+        "name": "Joseph Blenkinsopp",
+        "work": "Isaiah 56-66 (Anchor Bible)",
+        "year": "2003",
+        "attribution": "Joseph Blenkinsopp, Isaiah 56-66, Anchor Bible (New York: Doubleday, 2003)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Deuteronomy 23:1",
+      "excerpt_text": "This law, however, was one of the ordinances intended for the period of infancy, and has lost its significance with the spread of the kingdom of God over all the nations of the earth (Isa 56:4).",
+      "full_note_ref": "KD/5/23/1",
+      "on_tension_rationale": "K&D harmonizes the exact conflict: the Deut 23:1 eunuch-exclusion is cast as a temporary 'period of infancy' ordinance now superseded, with explicit cross-reference to Isa 56:4 as the abrogating text. Directly addresses the tension rather than the verse generally.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Deuteronomy 23:1",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Keil & Delitzsch treat this passage directly, reading Deut 23:1 as a temporary ordinance 'intended for the period of infancy' that loses force under the expanded kingdom, citing Isa 56:4; preferred over Haley because his specific-passage coverage could not be confirmed and K&D is a harmonizing commentator already surfaced on this row.",
+        "link": null
+      }
+    }
+  }
+}

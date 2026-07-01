@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 43,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders invoke Lightfoot's draft-of-the-ark calculation: the keel grounded on a submerged peak while the visible tops were still about eleven cubits underwater.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by the Skeptic's Annotated Bible, which argues the ark cannot rest on a mountain in the seventh month if the mountaintops were not yet visible until the tenth.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How long was the ark afloat?\"",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (\"How long was the ark afloat?\", skepticsannotatedbible.com/contra/float.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Genesis 8:4",
+      "excerpt_text": "On the 16th of Sivan they had abated but four cubits; and yet on the next day the ark rested on one of the hills, when the waters must have been as yet eleven cubits above it. Thus it appears that the ark drew eleven cubits of water.",
+      "full_note_ref": "CLARKE/1/8/4",
+      "on_tension_rationale": "Directly resolves the 8:4-vs-8:5 timing: the ark could 'rest' (keel grounded) while the waters — and therefore the visible tops — were still about eleven cubits above it, so resting precedes seeing without contradiction.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Genesis 8:4",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke applies Lightfoot's draft-of-the-ark calculation directly to this passage, explaining how the ark could rest in the seventh month while the mountaintops were not seen until the tenth: the vessel drew about eleven cubits, so its keel grounded on a submerged peak before the tops cleared the water."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted live page (gotquestions.org / carm.org / defendinginerrancy.com) was found that actually reconciles the Gen 8:4-vs-8:5 timing; the GotQuestions Noah-on-the-ark page states both dates but offers no reconciliation, so no link is supplied."
+      }
+    }
+  }
+}

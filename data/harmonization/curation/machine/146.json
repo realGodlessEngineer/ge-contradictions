@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 146,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read Jesus as upholding, not repealing, the Mosaic penalty — he declines to act as executioner and disqualifies the accusers, yet affirms the woman deserved stoning.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The skeptical case is pressed by Steve Wells in The Skeptic's Annotated Bible, who reads Jesus' refusal to condemn the adulteress as flatly overturning the Law's command that she be put to death.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How should adulterers be punished?\" (skepticsannotatedbible.com/contra/adultery_punishment.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online), \"How should adulterers be punished?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "John 8:6",
+      "excerpt_text": "though he passed no sentence upon the woman, and so took not upon him the judiciary power, with which they could accuse him to the Roman governor, yet he manifestly appeared to agree with Moses, that such an one deserved to be stoned; wherefore they could not charge him with being contrary to Moses …",
+      "full_note_ref": "GILL/43/8/6",
+      "on_tension_rationale": "Directly harmonizes the pair: Jesus is said to 'agree with Moses' that the adulteress 'deserved to be stoned,' so John 8 does not repeal Lev 20:10 — he merely declines the magistrate's role. Verbatim contiguous span trimmed at the semicolon-clause; source continues, so closed with the elision marker.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "John 8:3",
+      "excerpt_text": "He neither reflected upon the law nor excused the prisoner's guilt, nor did he on the other hand encourage the prosecution or countenance their heat … Christ owns it was fit the prisoner should be prosecuted, but appeals to their consciences whether they were fit to be the prosecutors.",
+      "full_note_ref": "MHC/43/8/1",
+      "on_tension_rationale": "Frames Jesus as neither overturning the Law nor excusing the sin: he 'owns it was fit the prisoner should be prosecuted,' shifting the issue to the accusers' fitness — the core both-true harmonization. Two non-adjacent verbatim sentences joined sense-preservingly (concession that the Law stands + the redirection to the accusers); first clause trimmed before '; see the good effect of consideration' so closed with the elision marker, second ends on a source period.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "John 8:5",
+      "excerpt_text": "Therefore he said, I do not condemn thee, i.e. to death, because violence had been used.",
+      "full_note_ref": "CLARKE/43/8/5",
+      "on_tension_rationale": "Reads Jesus' 'I do not condemn thee' as a qualified, case-specific acquittal ('to death,' on Clarke's reading because the woman had suffered violence) rather than an abrogation of the capital statute — a distinct voice keeping John 8 compatible with the Mosaic penalty. Verbatim full sentence ending on a source period; no truncation marker.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on John 8:6",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact pair at the verse, arguing Jesus 'manifestly appeared to agree with Moses, that such an one deserved to be stoned' while declining the judiciary power — the row-surfaced harmonizing commentator keyed to the passage (Haley's coverage of this specific Lev 20:10 / John 8 pair could not be confirmed)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/woman-caught-in-adultery.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What is the story of the woman caught in adultery?",
+        "note": "Live apologetic treatment of John 8; argues Jesus' response 'flawlessly preserved both Roman and Jewish law' while exposing the accusers, i.e. did not abolish the Mosaic penalty. On-topic for the Lev 20:10 vs John 8 tension."
+      }
+    }
+  }
+}

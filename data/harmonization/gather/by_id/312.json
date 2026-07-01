@@ -1,0 +1,774 @@
+{
+  "contradiction_id": 312,
+  "question": "How many generations were between Levi and Moses?",
+  "summary": "Exodus 6:16-20 and 1 Chronicles 6:1-3 and 1 Chronicles 23:6-12 all give the same three-generation chain from Levi to Moses: Levi -> Kohath -> Amram -> Moses. Meanwhile 1 Chronicles 7:22-27 gives a parallel chain through Ephraim — son of Joseph, who was Levi's brother, both sons of Jacob — that includes ten generations down to Joshua. Moses and Joshua are contemporaries. Yet one line is three generations long and the other is ten, supposedly covering the same span of time.",
+  "consensus": "probable_contradiction",
+  "consensus_id": 2,
+  "category": "Numbers & Measurements",
+  "contradiction_type": "numerical",
+  "testament_scope": "OT_internal",
+  "books_in_tension": "Exodus, 1 Chronicles",
+  "refs_raw": [
+    "Exodus 6:16-20",
+    "1 Chronicles 6:1-3",
+    "1 Chronicles 23:6-12",
+    "1 Chronicles 7:22-27"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Exodus 6:16-20",
+      "book": "Exodus",
+      "bolls": 2,
+      "ranges": [
+        [
+          6,
+          16,
+          20
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 6:1-3",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          6,
+          1,
+          3
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 23:6-12",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          23,
+          6,
+          12
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 7:22-27",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          7,
+          22,
+          27
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 71,
+  "notes_raw_count": 105,
+  "notes_dropped": 34,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Exodus 6:16",
+      "note_ref": "GILL/2/6/16",
+      "cites": [
+        "Exodus 6:16-20"
+      ],
+      "text": "And the sons of Gershom, Libni, and Shimi, according to their families. He had only two sons, from whom came the families of the Libnites and Shimites; see Num 3:21.\n.\nExodus 6:18\nexo 6:18\nexo 6:18\nexo 6:18And the sons of Kohath, Amram, and Izhar, and Hebron, and Uzziel,.... So they are reckoned in Ch1 6:18 though only the family of the Hebronites are mentioned in Num 26:58.\nand the years of the life of Kohath were one hundred and thirty three years. A Jewish chronologer says (f) he died one hundred years before the going out of Egypt: just the same number of years is ascribed to him by Polyhistor from Demetrius, an Heathen historian (g).\n(f) Shalshalet Hakabalaut, ut supra. (fol. 5. 1.) (g) Apud Euseb. ut supra. (Praepar. Evangel. l. 9. c. 21. p. 425.)"
+    },
+    {
+      "src": "GILL",
+      "ref": "Exodus 6:17",
+      "note_ref": "GILL/2/6/17",
+      "cites": [
+        "Exodus 6:16-20"
+      ],
+      "text": "And the sons of Merari, Mahali, and Mushi,.... From whence sprung the families of the Mahalites, and Mushites, Num 3:33,\nthese are the families of Levi, according to their generations: the families that descended from him and his sons, according to the order of their birth."
+    },
+    {
+      "src": "GILL",
+      "ref": "Exodus 6:18",
+      "note_ref": "GILL/2/6/18",
+      "cites": [
+        "Exodus 6:16-20"
+      ],
+      "text": "And Amram took him Jochebed his father's sister to wife,.... This Amram was the first son of Kohath, and the father of Moses, as after related, and so must be the same with the man of the house of Levi, and his wife the daughter of Levi, as in Exo 2:1 and though such a marriage was afterwards prohibited, Moses does not conceal it, though it may seem to reflect some dishonour on him and his family; he writing not for his own glory, but for the sake of truth, and the good of mankind, and especially the church and people of God. Indeed the Vulgate Latin version, and the Septuagint, Samaritan, and Syriac versions, make her to be his first cousin, the daughter of his father's brother, his uncle's daughter: and so does Polyhistor from Demetrius (h); but in Num 26:59, she is expressly said to be a daughter of Levi, born to him in Egypt, and therefore must be his father's sister:\nand she bare him Aaron and Moses: and Miriam also, though not mentioned, it being for the sake of these two that the genealogy is made:\nand the years of the life of Amram were one hundred and thirty seven years: just the age of his grandfather Levi, Exo 6:16. A Jewish chronologer (i) says he died in the thirtieth year of Moses: but the Arabic writers (k) say in the fifty sixth or fifty seventh, and at the end of A. M. 3810. Polyhistor (l) from Demetrius makes his age to be one hundred and thirty six, and him to be the father of Moses and Aaron, and Aaron to be three years older than Moses, exactly according to the Scripture account.\n(h) Apud Euseb. ut supra. (Praepar. Evangel. l. 9. c. 21. p. 425.) (i) Shalshalet Hakabala, ut supra. (fol. 5. 1.) (k) Patricides, p. 26. Elmacinus, p. 46. apud Hottinger. Smegma Oriental. l. 1. c. 8. p. 392. (l) Apud Euseb. ut supra."
+    },
+    {
+      "src": "GILL",
+      "ref": "Exodus 6:19",
+      "note_ref": "GILL/2/6/19",
+      "cites": [
+        "Exodus 6:16-20"
+      ],
+      "text": "And the sons of Izhar, Korah, and Nepheg, and Zichri. These seem to be mentioned for the sake of Korah, concerning whom is a remarkable history in the following book; for the other two are nowhere else spoken of.\nAnd the sons of Izhar, Korah, and Nepheg, and Zichri. These seem to be mentioned for the sake of Korah, concerning whom is a remarkable history in the following book; for the other two are nowhere else spoken of.\nExodus 6:22\nexo 6:22\nexo 6:22\nexo 6:22And the sons of Uzziel, Mishael, and Elzaphan, and Zichri. The two first of these were the men that were ordered by Moses to carry out of the camp the two sons of Aaron, who were killed by lightning for offering strange fire, Lev 10:4."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 6:1",
+      "note_ref": "GILL/13/6/1",
+      "cites": [
+        "1 Chronicles 6:1-3"
+      ],
+      "text": "The sons of Levi,.... After an account of the chief of the tribes of Judah and Simeon, of Reuben, Gad, and the half tribe of Manasseh, follows that of Levi, and his posterity; the kingdom being given to Judah, the birthright to Joseph, and the priesthood to Levi: the immediate sons of Levi were\nGershon, Kohath, and Merari; as in Gen 46:11, from these sprung the three families of the Levites."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 6:2",
+      "note_ref": "GILL/13/6/2",
+      "cites": [
+        "1 Chronicles 6:1-3"
+      ],
+      "text": "And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel,.... Given in the same order as in Exo 6:18; see Gill on Exo 6:18.\n.\n1 Chronicles 6:3\nch1 6:3\nch1 6:3\nch1 6:3And the children of Amram, Aaron, and Moses, and Miriam,.... Very memorable persons: Aaron was the high priest, Moses the prophet and lawgiver, and Miriam a prophetess, see Mic 6:4,\nthe sons also of Aaron, Nadab and Abihu, Eleazar and Ithamar; the two first were destroyed by fire from heaven for offering strange fire, Lev 10:1 and the third succeeded his father in the high priesthood; the line of which is drawn from Aaron through him unto the Babylonish captivity, from hence to the end of the fifteenth verse, where it ends: Jehozadak is the same with Josedech, Hag 1:1 who went young into Babylon, and whose son Joshua, born in the captivity, came out of it on the proclamation of Cyrus, Ezr 2:2. According to Josephus (e), and other Jewish writers (f), in the times of Uzzi, Ch1 6:6 the priesthood was translated into the family of Ithamar, of which Eli was the first high priest; where it continued to the times of Solomon, when it was restored to Zadok, of the line of Eleazar. It is particularly observed of Azariah, Ch1 6:10 that he it was that executed the priest's office in the temple built by Solomon; not that he was the first that officiated in it, that was Zadok; but this seems to be Azariah, who was the high priest in the times of Uzziah, who opposed him when he would have offered incense in the temple, Ch2 26:17, which may be the reason why he is so particularly taken notice of here; though some think this is to be understood of Johanan, the father of Azariah, supposed to the same with Jehoiada, who, in the times of Athaliah, was the instrument of preserving both church and state, Kg2 11:4, the temple in which he ministered is described as built by Solomon, because at the time of the writing of this there was another temple built, or building, by Zerubbabel.\n(e) Antiqu. l. 5. c. 11. sect. 5. (f) Juchasin, fol. 136. 1."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 6:3",
+      "note_ref": "GILL/13/6/3",
+      "cites": [
+        "1 Chronicles 6:1-3"
+      ],
+      "text": "The sons of Levi, Gershon, Kohath, and Merari. Which is repeated from Ch1 6:1 for the sake of their posterity, whose names are given in the three following verses, in the same manner as in Exo 6:17.\n.\n1 Chronicles 6:20\nch1 6:20\nch1 6:20\nch1 6:20Of Gershon, Libni his son,.... Whose genealogy runs thus, Jahath, called Jehiel, Ch1 23:8. Zimmah, between whom was Shimei, Ch1 6:42. Joah, the same with Ethan, Ch1 6:42. Iddo, called Adaiah, Ch1 6:41. Zerah, Jeaterai, whose name was also Ethni, Ch1 6:41, the posterity of Shimei, the brother of Libni, are omitted."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 7:22",
+      "note_ref": "GILL/13/7/22",
+      "cites": [
+        "1 Chronicles 7:22-27"
+      ],
+      "text": "The son of Asher,.... Which, and his two grandsons born before Jacob went down to Egypt, are here reckoned as in Gen 46:17 only it is here added Malchiel his second grandson:\nwho is the father of Birzavith; which Jarchi interprets, prince of a city of this name, which signifies pure oil; which it might have from the abundance of olives about it, Asher being a tribe which abounded with them, see Deu 33:24 though some of the Rabbins take it to be the name of a man, whose daughters, they say, as Jarchi observes, were very beautiful, having much oil to anoint with, and were married to kings and priests anointed with oil."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 7:23",
+      "note_ref": "GILL/13/7/23",
+      "cites": [
+        "1 Chronicles 7:22-27"
+      ],
+      "text": "And Heber,.... The other grandson of Asher; and son of Beriah:\nbegat Japhlet, and Shomer, and Hotham, and Shuah their sister; a place on the borders of Ephraim is called the coast of Japhleti; but whether from this Japhlet is uncertain."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 7:24",
+      "note_ref": "GILL/13/7/24",
+      "cites": [
+        "1 Chronicles 7:22-27"
+      ],
+      "text": "And the sons of Japhlet; Pasach, and Bimhal, and Ashvath; these are the children of Japhlet. Of whom we read not elsewhere,\nAnd the sons of Japhlet; Pasach, and Bimhal, and Ashvath; these are the children of Japhlet. Of whom we read not elsewhere,\n1 Chronicles 7:34\nch1 7:34\nch1 7:34\nch1 7:34And the sons of Shamer,.... Or Shomer, the brother of Japhlet, Ch1 7:32.\nAhi, and Rohgah, Jehubbah, and Aram; of whom nothing is known but their names."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 7:25",
+      "note_ref": "GILL/13/7/25",
+      "cites": [
+        "1 Chronicles 7:22-27"
+      ],
+      "text": "And the sons of his brother Helem,.... Or Helem his brother, that is, the brother of Shomer, who, according to Hillerus (n), is Hotham, Ch1 7:32.\nZophah, and Imna, and Shelesh, and Aram; nowhere else mentioned.\n(n) Onomastic. Sacr. p. 551."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 23:6",
+      "note_ref": "GILL/13/23/6",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "And David divided them into courses among the sons of Levi,.... Into three classes, according to the number of them, which follow: namely:\nGershon, Kohath, and Merari; see Exo 6:16."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 23:7",
+      "note_ref": "GILL/13/23/7",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "Of the Gershonites were Laadan and Shimei. These two were the immediate posterity of Gershon; are the same with Libni and Shimhi, and heads of families, Exo 6:17.\n.\n1 Chronicles 23:8\nch1 23:8\nch1 23:8\nch1 23:8The sons of Laadan; the chief was Jehiah, and Zetham, and Joel. Not his immediate sons, but some that descended from him."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 23:8",
+      "note_ref": "GILL/13/23/8",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "The sons of Shimei,.... Not him that was the son of Gershon, but a descendant of Laadan, his son, as Kimchi observes:\nShelomith, and Haziel, and Haran, these were the chief of the fathers of Laadan; of the families that sprang from him."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 23:9",
+      "note_ref": "GILL/13/23/9",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "And the sons of Shimei,.... The son of Gershon, and brother of Laadan, according to Kimchi, which seems right:\nwere Jahath, Zina, and Jeush, and Beriah; these four were the sons of Shimei; descendants of his in the times of David."
+    },
+    {
+      "src": "JFB",
+      "ref": "Exodus 6:14",
+      "note_ref": "JFB/2/6/14",
+      "cites": [
+        "Exodus 6:16-20"
+      ],
+      "text": "THE GENEALOGY OF MOSES. (Exo. 6:14-30)\nThese be the heads of their fathers' houses--chiefs or governors of their houses. The insertion of this genealogical table in this part of the narrative was intended to authenticate the descent of Moses and Aaron. Both of them were commissioned to act so important a part in the events transacted in the court of Egypt and afterwards elevated to so high offices in the government and Church of God, that it was of the utmost importance that their lineage should be accurately traced. Reuben and Simeon being the oldest of Jacob's sons, a passing notice is taken of them, and then the historian advances to the enumeration of the principal persons in the house of Levi [Exo 6:16-19]."
+    },
+    {
+      "src": "JFB",
+      "ref": "Exodus 6:20",
+      "note_ref": "JFB/2/6/20",
+      "cites": [
+        "Exodus 6:16-20"
+      ],
+      "text": "Amram took him Jochebed his father's sister to wife--The Septuagint and Syriac versions render it \"his cousin.\""
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 7:21",
+      "note_ref": "JFB/13/7/21",
+      "cites": [
+        "1 Chronicles 7:22-27"
+      ],
+      "text": "whom the men of Gath . . . slew, &c.--This interesting little episode gives us a glimpse of the state of Hebrew society in Egypt; for the occurrence narrated seems to have taken place before the Israelites left that country. The patriarch Ephraim was then alive, though he must have arrived at a very advanced age; and the Hebrew people, at all events those of them who were his descendants, still retained their pastoral character. It was in perfect consistency with the ideas and habits of Oriental shepherds that they should have made a raid on the neighboring tribe of the Philistines for the purpose of plundering their flocks. For nothing is more common among them than hostile incursions on the inhabitants of towns, or on other nomad tribes with whom they have no league of amity. But a different view of the incident is brought out, if, instead of \"because,\" we render the Hebrew particle \"when\" they came down to take their cattle, for the tenor of the context leads rather to the conclusion that \"the men of Gath\" were the aggressors, who, making a sudden foray on the Ephraimite flocks, killed the shepherds including several of the sons of Ephraim. The calamity spread a deep gloom around the tent of their aged father, and was the occasion of his receiving visits of condolence from his distant relatives, according to the custom of the East, which is remarkably exemplified in the history of Job (Job 2:11; compare Joh 11:19).\nNext: 1 Chronicles Chapter 8"
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 23:5",
+      "note_ref": "JFB/13/23/5",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "praised the Lord with the instruments which I made--David seems to have been an inventor of many of the musical instruments used in the temple (Amo 6:5)."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 23:6",
+      "note_ref": "JFB/13/23/6",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "David divided them into courses among the sons of Levi--These are enumerated according to their fathers' houses, but no more of these are mentioned here than the twenty-four thousand who were engaged in the work connected with the Lord's house. The fathers' houses of those Levites corresponded with the classes into which they [JOSEPHUS, Antiquities] as well as the priests were divided (see on Ch1 24:20-31; Ch1 26:20-28)."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 23:7",
+      "note_ref": "JFB/13/23/7",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "SONS OF GERSHON. (Ch1 23:7-11)\nthe Gershonites--They had nine fathers' houses, six descended from Laadan, and three from Shimei."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 23:12",
+      "note_ref": "JFB/13/23/12",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "OF KOHATH. (Ch1 23:12-20)\nThe sons of Kohath--He was the founder of nine Levitical fathers' houses."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Exodus 6:14",
+      "note_ref": "CLARKE/2/6/14",
+      "cites": [
+        "Exodus 6:16-20"
+      ],
+      "text": "These be the heads - ראשי rashey, the chiefs or captains. The following genealogy was simply intended to show that Moses and Aaron came in a direct line from Abraham, and to ascertain the time of Israel's deliverance. The whole account from Exo 6:14-26 inclusive, is a sort of parenthesis, and does not belong to the narration; and what follows from Exo 6:28 is a recapitulation of what was spoken in the preceding chapters."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Exodus 6:16",
+      "note_ref": "CLARKE/2/6/16",
+      "cites": [
+        "Exodus 6:16-20"
+      ],
+      "text": "The years of the life of Levi - \"Bishop Patrick observes that Levi is thought to have lived the longest of all Jacob's sons, none of whose ages are recorded in Scripture but his and Joseph's, whom Levi survived twenty-seven years, though he was much the elder brother. By the common computation this would be twenty-three years: by Kennicott's computation at the end of Genesis 31. (See Clarke's note at Gen 31:55) Levi's birth is placed twenty-four years before that of Joseph; his death, therefore, would be only three years later. But this is not the only difficulty in ancient chronologies. Kohath, the second son of Levi, according to Archbishop Usher was thirty years old when Jacob came into Egypt, and lived there one hundred and three years. He attained to nearly the same age with Levi, to one hundred and thirty-three years; and his son Amram, the father of Moses, lived to the same age with Levi. We may observe here how the Divine promise, Gen 15:16, of delivering the Israelites out of Egypt in the fourth generation was verified; for Moses was the son of Amram, the son of Kohath, the son of Levi, the son of Jacob.\" - Dodd."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Exodus 6:20",
+      "note_ref": "CLARKE/2/6/20",
+      "cites": [
+        "Exodus 6:16-20"
+      ],
+      "text": "His father's sister - דדתו dodatho. The true meaning of this word is uncertain. Parkhurst observes that דוד dod signifies an uncle in Sa1 10:14; Lev 10:4, and frequently elsewhere. It signifies also an uncle's son, a cousin-german: compare Jer 32:8 with Exo 6:12, where the Vulgate renders דדי dodi by patruelis mei, my paternal cousin; and in Amo 6:10, for דודו dodo, the Targum has קריביה karibiah, his near relation. So the Vulgate, propinquus ejus, his relative, and the Septuagint, οἱ οικειοι αυτων, those of their household. The best critics suppose that Jochebed was the cousin-german of Amram, and not his aunt. See Clarke's note on Exo 2:1.\nBare him Aaron and Moses - The Samaritan, Septuagint, Syriac, and one Hebrew MS. add, And Miriam their sister. Some of the best critics suppose these words to have been originally in the Hebrew text."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Exodus 6:21",
+      "note_ref": "CLARKE/2/6/21",
+      "cites": [
+        "Exodus 6:16-20"
+      ],
+      "text": "Korah - Though he became a rebel against God and Moses, (see Num 16:1, etc)., yet Moses, in his great impartiality, inserts his name among those of his other progenitors."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 6:1",
+      "note_ref": "CLARKE/13/6/1",
+      "cites": [
+        "1 Chronicles 6:1-3"
+      ],
+      "text": "The sons of Levi - It has been well remarked that the genealogy of Levi is given here more ample and correct than that of any of the others.\nAnd this is perhaps an additional proof that the author was a priest, felt much for the priesthood, and took care to give the genealogy of the Levitical and sacerdotal families, from the most correct tables; for with such tables we may presume he was intimately acquainted."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 6:4",
+      "note_ref": "CLARKE/13/6/4",
+      "cites": [
+        "1 Chronicles 6:1-3"
+      ],
+      "text": "Eleazar begat Phinehas - As the high priesthood continued in this family for a long time, the sacred historian confines himself to this chiefly, omitting Nadab and Abihu, and even the family of Ithamar."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 7:21",
+      "note_ref": "CLARKE/13/7/21",
+      "cites": [
+        "1 Chronicles 7:22-27"
+      ],
+      "text": "Whom the men of Gath - slew - We know nothing of this circumstance but what is related here. The Targum paraphrases the whole thus: \"These were the leaders of the house of Ephraim; and they computed their period [or boundary, כיצא kitsa] from the time in which the Word of the Lord of the universe spake with Abraham between the divisions, [i.e., the separated parts of the covenant sacrifice; see Gen 15:9-21], but they erred, for they should have counted from the time in which Isaac was born; they went out of Egypt therefore thirty years before the period: for, thirty years before the birth of Isaac the Word of the Lord of the universe spake with Abraham between the divisions. And when they went out of Egypt, there were with them two hundred thousand warriors of the tribe of Ephraim, whom the men of Gath, the natives of the land of the Philistines, slew, because they came down that they might carry away their cattle. 22. - And Ephraim their father mourned for them many days, and all his brethren came to comfort him. 23. - And he went in to his wife, and she conceived and bare a son, and called his name Beriah, (בריעה in evil), because he was born in the time in which this evil happened to his house."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 7:24",
+      "note_ref": "CLARKE/13/7/24",
+      "cites": [
+        "1 Chronicles 7:22-27"
+      ],
+      "text": "His daughter was Sherah - That is, remnant; \"called so,\" says the Targum, \"because she was the remnant that escaped from the slaughter mentioned above.\""
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 23:5",
+      "note_ref": "CLARKE/13/23/5",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "Four thousand praised the Lord - David made this distribution according to his own judgment, and from the dictates of his piety; but it does not appear that he had any positive Divine authority for such arrangements. As to the instruments of music which he made they are condemned elsewhere; see Amo 6:5, to which this verse is allowed to be the parallel."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 23:11",
+      "note_ref": "CLARKE/13/23/11",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "Therefore they were in one reckoning - The family of Shimei, being small, was united with that of Laadan, that the two families might do that work which otherwise belonged to one, but which would have been too much for either of these separately."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 23:13",
+      "note_ref": "CLARKE/13/23/13",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "To bless in his name - To bless the people by invoking the name of the Lord."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 23:14",
+      "note_ref": "CLARKE/13/23/14",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "Moses the man of God - \"Moses the prophet of God,\" - T."
+    },
+    {
+      "src": "KD",
+      "ref": "Exodus 6:14",
+      "note_ref": "KD/2/6/14",
+      "cites": [
+        "Exodus 6:16-20"
+      ],
+      "text": "The Genealogy of Moses and Aaron. - \"These are their (Moses' and Aaron's) father's-houses.\" בּית־אבות father's-houses (not fathers' house) is a composite noun, so formed that the two words not only denote one idea, but are treated grammatically as one word, like בּית־עצבּים idol-houses (Sa1 31:9), and בּית־בּמות high-place-houses (cf. Ges. 108, 3; Ewald, 270c). Father's house was a technical term applied to a collection of families, called by the name of a common ancestor. The father's-houses were the larger divisions into which the families (mishpachoth), the largest subdivisions of the tribes of Israel, were grouped. To show clearly the genealogical position of Levi, the tribe-father of Moses and Aaron, among the sons of Jacob, the genealogy commences with Reuben, the first-born of Jacob, and gives the names of such of his sons and those of Simeon as were the founders of families (Gen 46:9-10). Then follows Levi; and not only are the names of his three sons given, but the length of his life is mentioned (Exo 6:16), also that of his son Kohath and his descendant Amram, because they were the tribe-fathers of Moses and Aaron. But the Amram mentioned in Exo 6:20 as the father of Moses, cannot be the same person as the Amram who was the son of Kohath (Exo 6:18), but must be a later descendant. For, however the sameness of names may seem to favour the identity of the persons, if we simply look at the genealogy before us, a comparison of this passage with Num 3:27-28 will show the impossibility of such an assumption. \"According to Num 3:27-28, the Kohathites were divided (in Moses' time) into the four branches, Amramites, Izharites, Hebronites, and Uzzielites, who consisted together of 8600 men and boys (women and girls not being included). Of these, about a fourth, or 2150 men, would belong to the Amramites. Now, according to Exo 18:3-4, Moses himself had only two sons. Consequently, if Amram the son of Kohath, and tribe-father of the Amramites, was the same person as Amram the father of Moses, Moses must have had 2147 brothers and brothers' sons (the brothers' daughters, the sisters, and their daughters, not being reckoned at all). But as this is absolutely impossible, it must be granted that Amram the son of Kohath was not the father of Moses, and that an indefinitely long list of generations has been omitted between the former and his descendant of the same name\" (Tiele, Chr. des A. T. p. 36).\n(Note: The objections of M. Baumgarten to these correct remarks have been conclusively met by Kurtz (Hist. of O. C. vol. ii. p. 144). We find a similar case in the genealogy of Ezra in Ezr 7:3, which passes over from Azariah the son of Meraioth to Azariah the son of Johanan, and omits five links between the two, as we may see from Ch1 6:7-11. In the same way the genealogy before us skips over from Amram the son of Kohath to Amram the father of Moses without mentioning the generations between.)\nThe enumeration of only four generations, viz., Levi, Iohath, Amram, Moses, is unmistakeably related to Gen 15:16, where it is stated that the fourth generation would return to Canaan. Amram's wife Jochebed, who is merely spoken of in general terms as a daughter of Levi (a Levitess) in Exo 2:1 and Num 26:59, is called here the דּודה \"aunt\" (father's sister) of Amram, a marriage which was prohibited in the Mosaic law (Lev 18:12), but was allowed before the giving of the law; so that there is no reason for following the lxx and Vulgate, and rendering the word, in direct opposition to the usage of the language, patruelis, the father's brother's daughter. Amram's sons are placed according to their age: Aaron, then Moses, as Aaron was three years older than his brother. Their sister Miriam was older still (vid., Exo 2:4). In the lxx, Vulg., and one Hebrew MS, she is mentioned here; but this is a later interpolation. In Exo 6:21. not only are the sons of Aaron mentioned (Exo 6:23), but those of two of Amram's brothers, Izhar and Uzziel (Exo 6:21, Exo 6:22), and also Phinehas, the son of Aaron's son Eleazar (Exo 6:25); as the genealogy was intended to trace the descent of the principal priestly families, among which again special prominence is given to Aaron and Eleazar by the introduction of their wives. On the other hand, none of the sons of Moses are mentioned, because his dignity was limited to his own person, and his descendants fell behind those of Aaron, and were simply reckoned among the non-priestly families of Levi. The Korahites and Uzzielites are mentioned, but a superior rank was assigned to them in the subsequent history to that of other Levitical families (cf. Num 16-17; Num 26:11, and Num 3:30 with Lev 10:4). Aaron's wife Elisheba was of the princely tribe of Judah, and her brother Naashon was a tribe-prince of Judah (cf. Num 2:3). אבות ראשׁי (Exo 6:25), a frequent abbreviation for בית־אבות ראשׁי, heads of the father's-houses of the Levites. In Exo 6:26 and Exo 6:27, with which the genealogy closes, the object of introducing it is very clearly shown in the expression, \"These are that Aaron and Moses,\" at the beginning of Exo 6:26; and again, \"These are that Moses and Aaron,\" at the close of Exo 6:27. The reversal of the order of the names is also to be noticed. In the genealogy itself Aaron stands first, as the elder of the two; in the conclusion, which leads over to the historical narrative that follows, Moses takes precedence of his elder brother, as being the divinely appointed redeemer of Israel. On the expression, \"according to their armies,\" see Exo 7:4."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 6:1",
+      "note_ref": "KD/13/6/1",
+      "cites": [
+        "1 Chronicles 6:1-3"
+      ],
+      "text": "The sons of Levi,.... After an account of the chief of the tribes of Judah and Simeon, of Reuben, Gad, and the half tribe of Manasseh, follows that of Levi, and his posterity; the kingdom being given to Judah, the birthright to Joseph, and the priesthood to Levi: the immediate sons of Levi were\nGershon, Kohath, and Merari; as in Gen 46:11, from these sprung the three families of the Levites."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 6:2",
+      "note_ref": "KD/13/6/2",
+      "cites": [
+        "1 Chronicles 6:1-3"
+      ],
+      "text": "And the sons of Kohath; Amram, Izhar, and Hebron, and Uzziel,.... Given in the same order as in Exo 6:18; see Gill on Exo 6:18.\n.\n1 Chronicles 6:3\nch1 6:3\nch1 6:3\nch1 6:3And the children of Amram, Aaron, and Moses, and Miriam,.... Very memorable persons: Aaron was the high priest, Moses the prophet and lawgiver, and Miriam a prophetess, see Mic 6:4,\nthe sons also of Aaron, Nadab and Abihu, Eleazar and Ithamar; the two first were destroyed by fire from heaven for offering strange fire, Lev 10:1 and the third succeeded his father in the high priesthood; the line of which is drawn from Aaron through him unto the Babylonish captivity, from hence to the end of the fifteenth verse, where it ends: Jehozadak is the same with Josedech, Hag 1:1 who went young into Babylon, and whose son Joshua, born in the captivity, came out of it on the proclamation of Cyrus, Ezr 2:2. According to Josephus (e), and other Jewish writers (f), in the times of Uzzi, Ch1 6:6 the priesthood was translated into the family of Ithamar, of which Eli was the first high priest; where it continued to the times of Solomon, when it was restored to Zadok, of the line of Eleazar. It is particularly observed of Azariah, Ch1 6:10 that he it was that executed the priest's office in the temple built by Solomon; not that he was the first that officiated in it, that was Zadok; but this seems to be Azariah, who was the high priest in the times of Uzziah, who opposed him when he would have offered incense in the temple, Ch2 26:17, which may be the reason why he is so particularly taken notice of here; though some think this is to be understood of Johanan, the father of Azariah, supposed to the same with Jehoiada, who, in the times of Athaliah, was the instrument of preserving both church and state, Kg2 11:4, the temple in which he ministered is described as built by Solomon, because at the time of the writing of this there was another temple built, or building, by Zerubbabel.\n(e) Antiqu. l. 5. c. 11. sect. 5. (f) Juchasin, fol. 136. 1."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 6:3",
+      "note_ref": "KD/13/6/3",
+      "cites": [
+        "1 Chronicles 6:1-3"
+      ],
+      "text": "The sons of Levi, Gershon, Kohath, and Merari. Which is repeated from Ch1 6:1 for the sake of their posterity, whose names are given in the three following verses, in the same manner as in Exo 6:17.\n.\n1 Chronicles 6:20\nch1 6:20\nch1 6:20\nch1 6:20Of Gershon, Libni his son,.... Whose genealogy runs thus, Jahath, called Jehiel, Ch1 23:8. Zimmah, between whom was Shimei, Ch1 6:42. Joah, the same with Ethan, Ch1 6:42. Iddo, called Adaiah, Ch1 6:41. Zerah, Jeaterai, whose name was also Ethni, Ch1 6:41, the posterity of Shimei, the brother of Libni, are omitted."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 7:22",
+      "note_ref": "KD/13/7/22",
+      "cites": [
+        "1 Chronicles 7:22-27"
+      ],
+      "text": "The son of Asher,.... Which, and his two grandsons born before Jacob went down to Egypt, are here reckoned as in Gen 46:17 only it is here added Malchiel his second grandson:\nwho is the father of Birzavith; which Jarchi interprets, prince of a city of this name, which signifies pure oil; which it might have from the abundance of olives about it, Asher being a tribe which abounded with them, see Deu 33:24 though some of the Rabbins take it to be the name of a man, whose daughters, they say, as Jarchi observes, were very beautiful, having much oil to anoint with, and were married to kings and priests anointed with oil."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 7:23",
+      "note_ref": "KD/13/7/23",
+      "cites": [
+        "1 Chronicles 7:22-27"
+      ],
+      "text": "And Heber,.... The other grandson of Asher; and son of Beriah:\nbegat Japhlet, and Shomer, and Hotham, and Shuah their sister; a place on the borders of Ephraim is called the coast of Japhleti; but whether from this Japhlet is uncertain."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 7:24",
+      "note_ref": "KD/13/7/24",
+      "cites": [
+        "1 Chronicles 7:22-27"
+      ],
+      "text": "And the sons of Japhlet; Pasach, and Bimhal, and Ashvath; these are the children of Japhlet. Of whom we read not elsewhere,\nAnd the sons of Japhlet; Pasach, and Bimhal, and Ashvath; these are the children of Japhlet. Of whom we read not elsewhere,\n1 Chronicles 7:34\nch1 7:34\nch1 7:34\nch1 7:34And the sons of Shamer,.... Or Shomer, the brother of Japhlet, Ch1 7:32.\nAhi, and Rohgah, Jehubbah, and Aram; of whom nothing is known but their names."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 7:25",
+      "note_ref": "KD/13/7/25",
+      "cites": [
+        "1 Chronicles 7:22-27"
+      ],
+      "text": "And the sons of his brother Helem,.... Or Helem his brother, that is, the brother of Shomer, who, according to Hillerus (n), is Hotham, Ch1 7:32.\nZophah, and Imna, and Shelesh, and Aram; nowhere else mentioned.\n(n) Onomastic. Sacr. p. 551."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 23:6",
+      "note_ref": "KD/13/23/6",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "And David divided them into courses among the sons of Levi,.... Into three classes, according to the number of them, which follow: namely:\nGershon, Kohath, and Merari; see Exo 6:16."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 23:7",
+      "note_ref": "KD/13/23/7",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "Of the Gershonites were Laadan and Shimei. These two were the immediate posterity of Gershon; are the same with Libni and Shimhi, and heads of families, Exo 6:17.\n.\n1 Chronicles 23:8\nch1 23:8\nch1 23:8\nch1 23:8The sons of Laadan; the chief was Jehiah, and Zetham, and Joel. Not his immediate sons, but some that descended from him."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 23:8",
+      "note_ref": "KD/13/23/8",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "The sons of Shimei,.... Not him that was the son of Gershon, but a descendant of Laadan, his son, as Kimchi observes:\nShelomith, and Haziel, and Haran, these were the chief of the fathers of Laadan; of the families that sprang from him."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 23:9",
+      "note_ref": "KD/13/23/9",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "And the sons of Shimei,.... The son of Gershon, and brother of Laadan, according to Kimchi, which seems right:\nwere Jahath, Zina, and Jeush, and Beriah; these four were the sons of Shimei; descendants of his in the times of David."
+    },
+    {
+      "src": "MHC",
+      "ref": "Exodus 6:14",
+      "note_ref": "MHC/2/6/14",
+      "cites": [
+        "Exodus 6:16-20"
+      ],
+      "text": "I. We have here a genealogy, not an endless one, such as the apostle condemns (Ti1 1:4), for it ends in those two great patriots Moses and Aaron, and comes in here to show that they were Israelites, bone of their bone and flesh of their flesh whom they were sent to deliver, raised up unto them of their brethren, as Christ also should be, who was to be the prophet and priest, the Redeemer and lawgiver, of the people of Israel, and whose genealogy also, like this, was to be carefully preserved. The heads of the houses of three of the tribes are here named, agreeing with the accounts we had, Gen. 46. Dr. Lightfoot thinks that Reuben, Simeon, and Levi, are thus dignified here by themselves for this reason, because they were left under marks of infamy by their dying father, Reuben for his incest and Simeon and Levi for their murder of the Shechemites; and therefore Moses would put this particular honour upon them, to magnify God's mercy in their repentance and remission, as a pattern to those that should afterwards believe: the two former seem rather to be mentioned only for the sake of a third, which was Levi, from whom Moses and Aaron descended, and all the priests of the Jewish church. Thus was the tribe of Levi distinguished betimes. Observe here, 1. That Kohath, from whom Moses and Aaron, and all the priests, derived their pedigree, was a younger son of Levi, Exo 6:16. Note, The grants of God's favours do not go by seniority of age and priority of birth, but the divine sovereignty often prefers the younger before the elder, so crossing hands. 2. That the ages of Levi, Kohath, and Amram, the father, grandfather, and great grandfather, of Moses, are here recorded; they all lived to a great age, Levi to 137, Kohath to 133, and Amram to 137. Moses himself came much short of them, and fixed seventy or eighty for the ordinary stretch of human life (Psa 90:10); for now that God's Israel was multiplied and had become a great nation, and divine revelation was by the hand of Moses committed to writing and no longer trusted to tradition, the two great reasons for the long lives of the patriarchs had ceased, and therefore henceforward fewer years must serve men. 3. That Aaron married Elisheba (the same name with that of the wife of Zecharias, Elizabeth, as Miriam is the same with Mary), daughter of Amminadab, one of the chief of the fathers of the tribe of Judah; for the tribes of Levi and Judah often intermarried, Exo 6:23. 4. It must not be omitted that Moses has recorded the marriage of his father Amram with Jochebed his own aunt (Exo 6:20); and it appears by Num 26:59 that it must be taken strictly for his father's own sister, at least by the half blood. This marriage was afterwards forbidden as incestuous (Lev 18:12), which might be looked upon as a blot upon his family, though before that law; yet Moses does not conceal it, for he sought not his own praise, but wrote with a sincere regard to truth, whether it smiled or frowned upon him. 5. He concludes it with a particular mark of honour on the persons he is writing of, though he himself was one of them, Exo 6:26, Exo 6:27. These are that Moses and Aaron whom God pitched upon to be his plenipotentiaries in this treaty. These were those to whom God spoke (Exo 6:26), and who spoke to Pharaoh on Israel's behalf, Exo 6:27. Note, Communion with God and serviceableness to his church are things that, above any other, put true honour upon men. Those are great indeed with whom God converses and whom he employs on his service. Such were that Moses and Aaron; and something of this honour have all his saints, who are made to our God kings and priests.\nII. In the close of the chapter Moses returns to his narrative, from which he had broken off somewhat abruptly (Exo 6:13), and repeats, 1. The charge God had given him to deliver his message to Pharaoh (Exo 6:29): Speak all that I say unto thee, as a faithful ambassador. Note, Those that go on God's errand must not shun to declare the whole counsel of God. 2. His objection against it, Exo 6:30. Note, Those that have at any time spoken unadvisedly with their lips ought often to reflect upon it with regret, as Moses seems to do here."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 6:1",
+      "note_ref": "MHC/13/6/1",
+      "cites": [
+        "1 Chronicles 6:1-3"
+      ],
+      "text": "The priests and Levites were more concerned than any other Israelites to preserve their pedigree clear and to be able to prove it, because all the honours and privileges of their office depended upon their descent. And we read of those who, though perhaps they really were children of the priests, yet, because they could not find the register of their genealogies, nor make out their descent by any authentic record, were, as polluted, put from the priesthood, and forbidden to eat of the holy things, Ezr 2:62, Ezr 2:63. It is but very little that is here recorded of the genealogies of this sacred tribe. I. The first fathers of it are here named twice, Ch1 6:1, Ch1 6:16. Gershom, Kohath, and Merari, are three names which we were very conversant with in the book of Numbers, when the families of the Levites were marshalled and had their work assigned to them. Aaron, and Moses, and Miriam, we have known much more of than their names, and cannot pass them over here without remembering that this was that Moses and Aaron whom God honoured in making them instruments of Israel's deliverance and settlement and figures of him that was to come, Moses as a prophet and Aaron as a priest. And the mention of Nadab and Abihu (though, having no children, there was no occasion to bring them into the genealogy) cannot but remind us of the terrors of that divine justice which they were made monuments of for offering strange fire, that we may always fear before him. 2. The line of Eleazar, the successor of Aaron, is here drawn down to the time of the captivity, Ch1 6:4-15. It begins with Eleazar, who came out of the house of bondage in Egypt, and ends with Jehozadak, who went into the house of bondage in Babylon. Thus, for their sins, they were left as they were found, which might also intimate that the Levitical priesthood did not make anything perfect, but this was to be done by the bringing in of a better hope. All these here named were not high priests; for, in the time of the judges, that dignity was, upon some occasion or other, brought into the family of Ithamar, of which Eli was; but in Zadok it returned again to the right line. Of Azariah it is here said (v. 10), He it is that executed the priest's office in the temple that Solomon built. It is supposed that this was that Azariah who bravely opposed the presumption of king Uzziah when he invaded the priest's office (Ch2 26:17, Ch2 26:18), though he ventured his neck by so doing. This was done like a priest, like one that was truly zealous for his God. He that thus boldly maintained and defended the priest's office, and made good its barriers against such a daring insult, might well be said to execute it; and this honour is put upon him for it; while Urijah, one of his successors, for a base compliance with King Ahaz, in building him an idolatrous altar, has the disgrace put upon him of being left out of this genealogy, as perhaps some others are. But some think that this remark upon this Azariah should have been added to his grandfather of the same name (Ch1 6:9), who was the son of Ahimaaz, and that he was the priest who first officiated in Solomon's temple. 3. Some other of the families of the Levites are here accounted for. One of the families of Gershom (that of Libni) is here drawn down as far as Samuel, who had the honour of a prophet added to that of a Levite. One of the families of Merari (that of Mahli) is likewise drawn down for several descents, Ch1 6:29, Ch1 6:30."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 7:20",
+      "note_ref": "MHC/13/7/20",
+      "cites": [
+        "1 Chronicles 7:22-27"
+      ],
+      "text": "We have here an account,\nI. Of the tribe of Ephraim. Great things we read of that tribe when it came to maturity. Here we have an account of the disasters of its infancy, while it was in Egypt as it should seem; for Ephraim himself was alive when those things were done, which yet is hard to imagine if it were, as is here computed, seven generations off. Therefore I am apt to think that either it was another Ephraim or that those who were slain were the immediate sons of that Ephraim that was the son of Joseph. In this passage, which is related here only, we have, 1. The great breach that was made upon the family of Ephraim. The men of Gath, Philistines, giants, slew many of the sons of that family, because they came down to take away their cattle, Ch1 7:21. It is uncertain who were the aggressors here. Some make the men of Gath the aggressors, men born in the land of Egypt, but now resident in Gath, supposing that they came down into the land of Goshen, to drive away the Ephraimites' cattle, and slew the owners, because they stood up in the defence of them. Many a man's life has been exposed and betrayed by his wealth; so far is it from being a strong city. Others think that the Ephraimites made a descent upon the men of Gath to plunder them, presuming that the time had come when they should be put in possession of Canaan; but they paid dearly for their rashness and precipitation. Those that will not wait God's time cannot expect God's blessing. I rather think that the men of Gath came down upon the Ephraimites, because the Israelites in Egypt were shepherds, not soldiers, abounded in cattle of their own, and therefore were not likely to venture their lives for their neighbours' cattle: and the words may be read, The men of Gath slew them, for they came down to take away their cattle. Zabad the son of Ephraim, and Shuthelah, and Ezer, and Elead (his grandchildren), were, as Dr. Lightfoot thinks, the men that were slain. Jacob had foretold that the seed of Ephraim should become a multitude of nations (Gen 48:19), and yet that plant is thus nipped in the bud. God's providences often seem to contradict his promises; but, when they do so, they really magnify the promise, and make the performance of it, notwithstanding, so much more illustrious. The Ephraimites were the posterity of Joseph, and yet his power could not protect them, though some think he was yet living. The sword devours one as well as another. 2. The great grief which oppressed the father of the family hereupon: Ephraim mourned many days. Nothing brings the aged to the grave with more sorrow than their following the young that descend from them to the grave first, especially if in blood. It is often the burden of those that live to be old that they see those go before them of whom they said, These same shall comfort us. It was a brotherly friendly office which his brethren did, when they came to comfort him under this great affliction, to express their sympathy with him and concern for him, and to suggest that to him which would support and quiet him under this sad providence. Probably they reminded him of the promise of increase which Jacob had blessed him when he laid his right hand upon his head. Although his house was not so with God as he hoped, but a house of mourning, a shattered family, yet that promise was sure, Sa2 23:5. 3. The repair of this breach, in some measure, by addition of another son to his family in his old age (Ch1 7:23), like Seth, another seed instead of that of Abel whom Cain slew, Gen 4:25. When God thus restores comfort to his mourners, makes glad according to the days wherein he afflicted, setting the mercies over against the crosses, we ought therein to take notice of the kindness and tenderness of divine Providence; it is as if it repented God concerning his servants, Psa 90:13, Psa 90:15. Yet joy that a man was born into his family could not make him forget his grief; for he gives a melancholy name to his son, Beriah - in trouble, for he was born when the family was in mourning, when it went evil with his house. It is good to have in remembrance the affliction and the misery, the wormwood and the gall, that our souls may be humbled within us, Lam 3:19, Lam 3:20. What name more proper for man that is born of a woman than Beriah, because born into a troublesome world? It is added, as a further honour to the house of Ephraim, (1.) That a daughter of that tribe, Sherah by name, at the time of Israel's setting in Canaan, built some cities, either at her own charge or by her own care; one of them bore her name, Uzzen-sherah, Ch1 7:24. A virtuous woman may be as great an honour and blessing to a family as a mighty man. (2.) That a son of that tribe was employed in the conquest of Canaan, Joshua the son of Nun, Ch1 7:27. In this also the breach made on Ephraim's family was further repaired; and perhaps the resentment of this injury formerly done by the Canaanites to the Ephraimites might make him more vigorous in the war.\nII. Of the tribe of Asher. Some men of note of that tribe are here named. Their militia was not numerous in comparison with some other tribes, only 26,000 men in all; but their princes were choice and mighty men of valour, chief of the princes (Ch1 7:40), and perhaps it was their wisdom that they coveted not to make their trained bands numerous, but rather to have a few, and those apt to the war and serviceable men."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 23:1",
+      "note_ref": "MHC/13/23/1",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "Here we have, I. The crown entailed, according to the divine appointment, Ch1 23:1. David made Solomon king, not to reign with him, or reign under him, but only to reign after him. This he did, 1. When he was old and full of days. He was but seventy years old when he died, and yet he was full of days, satur dierum - satisfied with living in this world. When he found himself going off, he made provision for the welfare of the kingdom after his decease, and pleased himself with the hopeful prospect of a happy settlement both in church and state. 2. He did it in parliament, in a solemn assembly of all the princes of Israel, which made Adonijah's attempt to break in upon Solomon's title and set it aside, notwithstanding this public recognition and establishment of it, the more impudent, impious, and ridiculous. Note, The settling or securing of the crown in the interests of the temple is a great blessing to the people and a great satisfaction to those who are themselves leaving the world.\nII. The Levites numbered, according to the rule in Moses's time, from thirty years old to fifty, Num 4:2, Num 4:3. Their number in Moses's time. by this rule, was 8580 (Num 4:47, Num 4:48), but now it had increased above four-fold, much more in proportion than the rest of the tribes; for the serviceable men of Levi's tribe were now 38,000, unless we suppose that here those were reckoned who were above fifty, which was not the case there. Joab had not numbered the Levites (Ch1 21:6), but David now did, not in pride, but for a good purpose, and then he needed not fear wrath for it.\nIII. The Levites distributed to their respective posts (Ch1 23:4, Ch1 23:5), that every hand might be employed (for, of all men, an idle Levite makes the worst figure), and that every part of the work might be carefully done. Now it was for the honour of God that so great a number of servants attended his house and the business of it. Much of the state of great men consists in the greatness of their retinue. When God kept house in Israel see what a great household he had, and all well fed and well taught. But what were these to the attendants of his throne above, and the innumerable company of angels? It was the happiness of Israel that they had among them such a considerable body of men who were obliged by their office to promote and keep up religion among them. If the worship of God go to decay in Israel, let it not be said that it was for want of due provision for the support of it, but that those who should have done it were careless and false. The work assigned the Levites was four-fold: - 1. Some, and indeed far the greater number, were to set forward the work of the house of the Lord: 24,000, almost two-thirds, were appointed for this service, to attend the priests in killing the sacrifices, flaying them, washing them, cutting them up, burning them, to have the meat-offerings and drink-offerings ready, to carry out dirt, and keep all the vessels and utensils of the temple clean, and every thing in its place, that the service might be performed both with expedition and with exactness. These served 1000 a-week, and so went round in twenty-four courses. Perhaps while the temple was in building some of these were employed to set forward that work, to assist the builders, at least to quicken them, and keep good order among them, and the decorum which became temple-work. 2. Others were officers and judges, not in the affairs of the temple, and in the controversies that arose there (for there, we may suppose, the priests presided), but in the country. They were magistrates, to give the laws of God in charge, to resolves difficulties, and to determine controversies that arose upon them. Of these there were 6000, in the several parts of the kingdom, that assisted the princes and elders of every tribe in the administration of justice. 3. Others were porters, to guard all the avenues of the house of God, to examine those that desired entrance, and to resist those that would force an entrance. These were the life-guards of the temple, and probably were armed accordingly. 4. Others were singers and players on instruments, whose business it was to keep up that part of the service; this was a new-erected office.\nIV. The Levites mustered, and disposed of into their respective families and kindreds, that an account of them might the better be kept, and those that neglected their duty might be the more easily discovered, by calling over the roll, and obliging them to answer to their names, which each family might do for itself. When those of the same family were employed together it would engage them to love and assist one another. When Christ sent forth his disciples two and two he put together those that were brethren. Two families were here joined in one (Ch1 23:11) because they had not many sons. Those that are weak and little, separately, may be put together and appear considerable. That which is most observable in this account of the families of the Levites is that the posterity of Moses (that great man) stood upon the level with common Levites, and had no dignities or privileges at all peculiar to them; whilst the posterity of Aaron were advanced to the priest's office, to sanctify the most holy things, Ch1 23:13. It is said indeed of the grandson of Moses, Rehabiah, that his sons were highly multiplied, Ch1 23:17, margin. When God proposed to him that, if he would let fall his intercession for Israel, he would make of him a great nation, he generously refused it, in recompence for which his family is here greatly increased, and makes up in number what it wants in figure, in the tribe of Levi. Now, 1. The levelling of Moses' family with the rest is an evidence of his self-denial. Such an interest had he both with God and man that if he had aimed to raise his own family, to dignify and enrich that, he might easily have done so; but he was no self-seeking man, as appears from his leaving to his children no marks of distinction, which was a sign that he had the spirit of God and not the spirit of the world. 2. The elevation of Aaron's family above the rest was a recompence for his self-denial. When Moses (his younger brother) was made a god to Pharaoh, and he only his prophet or spokesman, to observe his orders and do as he was bidden, Aaron never disputed it, nor insisted upon his seniority, but readily took the inferior post God put him in, submitted to Moses, and, upon occasion, called him his lord; and because he thus submitted himself, in his own person, to his junior, in compliance with the will of God, God highly exalted his family, even above that of Moses himself. Those that are content to stoop are in the fairest way to rise. Before honour is humility.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "Exodus 6:14",
+      "note_ref": "TYN/2/6/14",
+      "cites": [
+        "Exodus 6:16-20"
+      ],
+      "text": "6:14-30 This genealogical interlude places Moses and Aaron among the families of Israel. That it is an interlude is clear because 6:30 is a repetition of 6:12. There is a recurring emphasis in Exodus on Yahweh as the God of the ancestors, both explicitly (from 3:6 on) and implicitly (from 1:1 on). What was about to happen was not an unrelated action by some new god who was devaluing impotent older gods (a typical theme in ancient pagan literature). Unlike pagan gods, whose only purpose is personal power, and who are in constant conflict among themselves, the true God has a single, overarching purpose: He wants his creation to find its fulfillment in proper relation to him. Although he enacts that purpose in ever-expanding displays of creativity, the new activities are always consistent with what he has already revealed of himself. Moses and Aaron did not suddenly appear out of the unknown, but were an integral part of that same people to whom God first revealed himself and through whom he was about to give an even grander revelation. The genealogies of Jesus have a similar purpose (Matt 1:1-16; Luke 3:23-38).\n6:14-16 The genealogy works its way through Jacob’s first and second sons to the third, Levi, the ancestor of Moses and Aaron. Having reached Levi, it dispenses with the other nine sons."
+    },
+    {
+      "src": "TYN",
+      "ref": "Exodus 6:16",
+      "note_ref": "TYN/2/6/16",
+      "cites": [
+        "Exodus 6:16-20"
+      ],
+      "text": "6:16-20 This genealogy of Levi’s descendants focuses on Aaron and Moses; four generations are given in the genealogy from Levi to Aaron and Moses (cp. Gen 15:16). Since the people of Israel had lived in Egypt for 430 years (see Exod 12:40-41; Gen 15:13), this genealogy skips numerous generations. In Gen 46:11, Gershon, Kohath, and Merari are listed as the actual sons of Levi who moved down to Egypt with their father and the rest of Jacob’s family. Amram’s wife, Jochebed, gave birth to his sons (Exod 6:20). This is very concrete language, so there is no reason to believe that there were unnamed generations between Amram and Aaron and Moses. This suggests that the unnamed generations were between Kohath (son of Levi) and Amram (father of Aaron and Moses)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Exodus 6:18",
+      "note_ref": "TYN/2/6/18",
+      "cites": [
+        "Exodus 6:16-20"
+      ],
+      "text": "6:18 The descendants (literally sons) of Kohath included Amram, Izhar, Hebron, and Uzziel: The Hebrew word for “sons” can also mean “descendants,” which accommodates the possibility of unnamed generations."
+    },
+    {
+      "src": "TYN",
+      "ref": "Exodus 6:20",
+      "note_ref": "TYN/2/6/20",
+      "cites": [
+        "Exodus 6:16-20"
+      ],
+      "text": "6:20-25 The descendants of Kohath’s sons now become the focus of the genealogy. The families of Aaron son of Amram and Korah son of Izhar are given a more detailed listing (6:23-24), followed by one of Aaron’s sons, Eleazar (6:25). The focus is clearly on Aaron’s line through Eleazar, who received the high priesthood. The fact that Aaron and Korah were cousins makes it easier to see why Aaron’s elevation to high priesthood was so galling to Korah (see Num 16:1-3); family rivalry is nothing new. The later rebellion might explain why Korah and his sons are given particular mention in this genealogy."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 6:1",
+      "note_ref": "TYN/13/6/1",
+      "cites": [
+        "1 Chronicles 6:1-3"
+      ],
+      "text": "6:1-81 By its substantial scope and placement in the center of the genealogical lists, this section gives special significance to the priestly tribe of Levi.\n6:1-48 This section provides the genealogies of the three most significant groups of the tribe of Levi: the high priests (6:1-15), the three clans of Levites (6:16-30), and the singers (6:31-47). Each genealogy begins with an introduction, followed by the list of names.\n6:1 The three sons of Levi are introduced, but their actual genealogies are postponed to follow the list of high priests."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 6:2",
+      "note_ref": "TYN/13/6/2",
+      "cites": [
+        "1 Chronicles 6:1-3"
+      ],
+      "text": "6:2-15 After the Exile, the community of Judea, for whom Chronicles was written, needed to establish unequivocally the legitimate ancestry of the priests. This genealogy of Kohath established continuity between the ancestors known from the Pentateuch and the later high priests down to the exile of Judah in 586 BC; other records connected the priests following the Exile with this line (see Ezra 3:2; 7:1-6; Hag 1:1). Not all who served as high priest were included in this listing."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 7:20",
+      "note_ref": "TYN/13/7/20",
+      "cites": [
+        "1 Chronicles 7:22-27"
+      ],
+      "text": "7:20-27 The genealogy of the descendants of Ephraim includes a story illustrating the circumstances of the tribe’s settlement in Canaan (7:21-24). The genealogy ends with Joshua son of Nun, who led Israel into the Promised Land."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 7:22",
+      "note_ref": "TYN/13/7/22",
+      "cites": [
+        "1 Chronicles 7:22-27"
+      ],
+      "text": "7:22 The father of Ezer and Elead is recorded as Ephraim, but Ephraim the son of Joseph could not have settled in Canaan after the Exodus. The traditional solution was to imagine an early exodus for the family of Ephraim. Other possibilities are that the name Ephraim is a scribal mistake or that Ephraim referred to the tribe rather than the son of Joseph who bore the name."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 23:6",
+      "note_ref": "TYN/13/23/6",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "23:6-23 David divided the Levites into divisions according to their ancestral families. The number of available clerics far exceeded the requirements for a single Temple; the divisions provided a necessary time-sharing mechanism that enabled all the priests and Levites to serve in the Temple periodically (cp. Luke 1:5, 8)."
+    },
+    {
+      "src": "GNV",
+      "ref": "Exodus 6:14",
+      "note_ref": "GNV/2/6/14",
+      "cites": [
+        "Exodus 6:16-20"
+      ],
+      "text": "This genealogy showeth of whom Moses and Aaron came."
+    },
+    {
+      "src": "GNV",
+      "ref": "Exodus 6:16",
+      "note_ref": "GNV/2/6/16",
+      "cites": [
+        "Exodus 6:16-20"
+      ],
+      "text": "For he was 42 years old, when he came into Egypt, and there lived 94."
+    },
+    {
+      "src": "GNV",
+      "ref": "Exodus 6:20",
+      "note_ref": "GNV/2/6/20",
+      "cites": [
+        "Exodus 6:16-20"
+      ],
+      "text": "Which kind of marriage was after in the law forbidden, Lev. 18:12."
+    },
+    {
+      "src": "GNV",
+      "ref": "Exodus 6:21",
+      "note_ref": "GNV/2/6/21",
+      "cites": [
+        "Exodus 6:16-20"
+      ],
+      "text": "Moses and he were brothers’ children, whose rebellion was punished, Num. 16:1."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 7:21",
+      "note_ref": "GNV/13/7/21",
+      "cites": [
+        "1 Chronicles 7:22-27"
+      ],
+      "text": "Which was one of the five principal cities of the Philistines, slew the Ephraimites."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 7:22",
+      "note_ref": "GNV/13/7/22",
+      "cites": [
+        "1 Chronicles 7:22-27"
+      ],
+      "text": "Or, kinsfolk."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 7:24",
+      "note_ref": "GNV/13/7/24",
+      "cites": [
+        "1 Chronicles 7:22-27"
+      ],
+      "text": "Or, neice."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 7:25",
+      "note_ref": "GNV/13/7/25",
+      "cites": [
+        "1 Chronicles 7:22-27"
+      ],
+      "text": "To wit, of Ephraim."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 23:5",
+      "note_ref": "GNV/13/23/5",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "Hebrew, I made, meaning David."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 23:7",
+      "note_ref": "GNV/13/23/7",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "Or, Libni, 1 Chron. 6:17."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 23:11",
+      "note_ref": "GNV/13/23/11",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "Or, Zina."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 23:13",
+      "note_ref": "GNV/13/23/13",
+      "cites": [
+        "1 Chronicles 23:6-12"
+      ],
+      "text": "That is, to serve in the most holy place, and to consecrate the holy things."
+    }
+  ]
+}

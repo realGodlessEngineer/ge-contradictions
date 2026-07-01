@@ -1,0 +1,22 @@
+{
+  "contradiction_id": 158,
+  "excerpts": [
+    {
+      "excerpt_uid": "158#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "pass",
+      "action": null,
+      "reason": "Verbatim in source_note_text (contiguous, no ellipsis). Directly addresses the named tension (why Num 13:30 names only Caleb while Num 14:6 adds Joshua) via a sequencing harmonization. Reconcile pole is correct."
+    }
+  ],
+  "guardrails": {
+    "parity": "ok",
+    "connectives": "ok",
+    "named_skeptic": "ok",
+    "discrepancy_integrity": "ok",
+    "deeper_learning": "flag",
+    "reason": "parity ok: reconcile_first row, one reconcile excerpt vs one named-skeptic discrepancy connective; the surfaced K&D sequencing note is the strongest reconcile. connectives ok: both the reconcile connective (Caleb spoke first/alone) and the discrepancy connective (omission of Joshua treated as a factual contradiction) are accurate, on-tension, and do not overclaim. named_skeptic OK and CONFIRMED: Steve Wells / Skeptic's Annotated Bible genuinely lists this contradiction -- SAB num/13.html flags 'Who argued in favor of occupying Canaan during the Exodus?' linking Num 13:30 (Caleb alone) against Num 14:6, and Wells is the SAB author. Minor: the year '2013' is arbitrary (SAB is a continuously maintained 1999-2026 site, not a dated edition) but not clearly false. discrepancy_integrity ok: discrepancy pole is named_skeptic and real. deeper_learning FLAG: Haley's An Examination of the Alleged Discrepancies of the Bible (1874) is a genuine PD harmonization catalog (full text at archive.org/details/examinationof00hale and christianresearcher.com PDF), but I could NOT positively confirm Haley treats this specific Caleb/Joshua spies verse-pair, and the note's specific framing ('common biblical idiom' of naming one spokesman) is attributed without verification. No link supplied. Recommend a human confirm Haley actually covers Num 13:30/14:6 before shipping the specific claim."
+  }
+}

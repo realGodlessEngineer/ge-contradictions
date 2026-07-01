@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 148,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the two laws as covering different cases: the light seven-day impurity for an accidental encounter, the karet penalty only for knowing, willful intercourse.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Eve Levavi Feinstein argues the two rulings cannot be reconciled by intent because they stem from different Priestly strata: the author of Leviticus 15:24, from the older P source, treats the act as mere ritual impurity and was simply unaware of the Holiness school's later prohibition and karet penalty in Leviticus 20:18.",
+      "skeptic": {
+        "name": "Eve Levavi Feinstein",
+        "work": "Sex During Menstruation: From Impurity to Prohibition (TheTorah.com)",
+        "year": "2016",
+        "attribution": "Eve Levavi Feinstein (Ph.D., Hebrew Bible, Harvard), \"Sex During Menstruation: From Impurity to Prohibition,\" TheTorah.com (2016)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Leviticus 15:24",
+      "excerpt_text": "In Lev 20:18, persons guilty of this are condemned to death; here only to a seven days' separation; because, in the former case, Moses speaks of the act when both the man and woman were acquainted with the situation: in the latter, he speaks of a case where the circumstance was not known till afterwards; at least, so it appears these two places should be understood, so as to be reconciled.",
+      "full_note_ref": "CLARKE/3/15/24",
+      "on_tension_rationale": "Names BOTH conflicting verses (Lev 20:18 death vs Lev 15:24 seven days' separation) and states the harmonization explicitly via the knowledge distinction (acquainted with the situation vs not known till afterwards) and even uses the word 'reconciled' — the single strongest reconcile excerpt on the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Leviticus 15:24",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact pair directly, distinguishing Lev 15:24 (offense unknown till afterwards, seven days' separation) from Lev 20:18 (both parties knowing, death/karet), 'so as to be reconciled.' Row-surfaced harmonizer keyed to the passage; Haley's coverage of this specific pair is unconfirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page engages the severity gap. gotquestions.org/sex-period.html cites BOTH Lev 15:24 and Lev 20:18 but does NOT harmonize the lenient-vs-karet tension — it pivots to 'ceremonial law no longer applies' (WebFetch-confirmed). carm.org / defendinginerrancy.com have no on-topic page. Link omitted per spec rather than cite an off-tension page."
+      }
+    }
+  }
+}

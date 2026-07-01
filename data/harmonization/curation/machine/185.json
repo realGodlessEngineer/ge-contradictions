@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 185,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the two verses as one point: the law curses any failure to keep it perfectly, so relying on works of the law (which no one fully renders) can only condemn.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, compiling the Skeptic's Annotated Bible, presses the pair at face value: Deuteronomy curses those who do not keep the law, yet Paul says those who are of the works of the law are under a curse.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (\"Are those who obey the law cursed?\", skepticsannotatedbible.com/contra/cursed.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (contra/cursed.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Deuteronomy 27:26",
+      "excerpt_text": "for the law requires obedience, and that perfect and constant, and in failure thereof curses, in proof of which the apostle produces this passage … for the reconciliation of these Scriptures, as to what seeming difference there is between them …",
+      "full_note_ref": "GILL/5/27/26",
+      "on_tension_rationale": "Gill's note on the Deuteronomy verse itself names the apparent conflict ('seeming difference') and frames the harmonization: the law curses failure to keep it, which is exactly what Paul presses in Gal 3:10. Most directly on-tension sentence in the gather. Joined across the internal 'see Gill on Gal 3:10' cross-ref (sense-preserving ellipsis); truncated before the trailing colon-clause -> trailing marker.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Galatians 3:10",
+      "excerpt_text": "They who depend on the works of the law cannot share the blessing, for they are under the curse \"written,\" Deu 27:26, Septuagint. PERFECT obedience is required by the words, \"in all things.\" CONTINUAL obedience by the word, \"continueth.\" No man renders this obedience …",
+      "full_note_ref": "JFB/48/3/10",
+      "on_tension_rationale": "Names Deut 27:26 explicitly and supplies the mechanism that dissolves the tension: the law demands perfect + continual obedience, which no one renders, so depending on the works of the law brings the curse rather than the blessing. Curly->straight quotes only; last sentence truncated before the '(compare Rom 3:19-20).' parenthetical -> trailing marker.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Galatians 3:10",
+      "excerpt_text": "as many as are of the works of the law are under the curse, as many as depend upon the merit of their own works as their righteousness, as plead not guilty, and insist upon their own justification, the cause will certainly go against them; for it is written, Cursed is every one that continueth not in all things which are written in the book of the law, to do them, Gal 3:10, and Deu 27:26.",
+      "full_note_ref": "MHC/48/3/6",
+      "on_tension_rationale": "Henry sets both verses side by side (Gal 3:10 and Deu 27:26) and reads them as one verdict: those who rely on the merit of their own works lose the case before the law because the law curses any failure to keep it. Complete sentence ending on a real source period -> no truncation marker.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Galatians 3:10",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact pair directly: his note on Deuteronomy 27:26 sends the reader to his Galatians 3:10 note 'for the reconciliation of these Scriptures,' which argues the curse falls not on doing the law but on the impossibility of doing it perfectly, so reliance on works of the law condemns."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/works-of-the-law.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What are the works of the law (Romans 3:20; Galatians 2:16)?",
+        "note": "Live apologetic treatment; cites Galatians 3:10 and argues that reliance on the works of the law brings the curse because complete obedience is impossible (the harmonizing move). Does not cite Deut 27:26 by name but squarely engages the core tension."
+      }
+    }
+  }
+}

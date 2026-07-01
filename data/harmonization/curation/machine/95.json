@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 95,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read 70 and 75 as the same migration counted by two text traditions — the Hebrew total versus the Septuagint that Stephen followed, with extra Joseph-line descendants added.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection was pressed by the Jewish polemicist Isaac of Troki, who charged that Stephen's seventy-five flatly errs against the seventy fixed in the Hebrew of Genesis, Exodus, and Deuteronomy.",
+      "skeptic": {
+        "name": "Isaac ben Abraham of Troki",
+        "work": "Chizzuk Emunah (Faith Strengthened)",
+        "year": "1593",
+        "attribution": "Isaac ben Abraham of Troki (d. 1594), Chizzuk Emunah (Faith Strengthened), pt. 2, ch. 63"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Genesis 46:8",
+      "excerpt_text": "In the speech of Stephen (Act 7:14) the number is stated to be seventy-five; but as that estimate includes five sons of Ephraim and Manasseh (Ch1 7:14-20), born in Egypt, the two accounts coincide.",
+      "full_note_ref": "JFB/1/46/8",
+      "on_tension_rationale": "Directly names the 70-vs-75 gap and resolves it: the extra five (Joseph's grandsons via Ephraim/Manasseh) account for Stephen's larger figure, so 'the two accounts coincide.'",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Acts 7:14",
+      "excerpt_text": "But there is no contradiction; Moses and Stephen are speaking of different things; Moses speaks of the seed of Jacob, which came out of his loins, who came into Egypt, and so excludes his sons' wives; Stephen speaks of Jacob and all his kindred, among whom his sons' wives must be reckoned, whom Joseph called to him …",
+      "full_note_ref": "GILL/44/7/14",
+      "on_tension_rationale": "Explicitly denies the contradiction and supplies a distinct harmonization (different scope of 'who is counted' — Moses' loins-descendants vs Stephen's wider kindred including wives).",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Acts 7:14",
+      "excerpt_text": "The number seventy-five is probably taken from the Septuagint (the Greek translation of the Old Testament) for Gen 46:27. The Septuagint includes three descendants of Ephraim and two of Manasseh at Gen 46:20, making for a total of five more persons, whereas the Hebrew text does not include descendants for Joseph's sons.",
+      "full_note_ref": "TYN/44/7/14",
+      "on_tension_rationale": "Locates the discrepancy in the textual source (Stephen follows the LXX, which adds five Joseph-line descendants) — the strongest text-critical statement of the harmonization, distinct from JFB/GILL.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Acts 7:14",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill works the 70/75 numbers line by line, answers Isaac of Troki's charge that Stephen erred, and shows the Septuagint count of seventy-five need not be a corruption."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Acts_7.14.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in Acts 7:14?",
+        "note": "live apologetic treatment of the 70-vs-75 count, surveying the Septuagint-source and counting-method explanations"
+      }
+    }
+  }
+}

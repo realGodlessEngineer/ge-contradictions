@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 164,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders harmonize the totals by partitioning the dead — Paul counts only those felled by the plague itself, while Moses adds those executed by the judges.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The classic objection comes from Isaac of Troki, who pressed Paul's \"twenty-three thousand\" as a plain contradiction of Moses' \"twenty-four thousand\" for the very same Baal-Peor plague.",
+      "skeptic": {
+        "name": "Isaac ben Abraham of Troki",
+        "work": "Chizzuk Emunah (Faith Strengthened)",
+        "year": "1593",
+        "attribution": "Isaac ben Abraham of Troki (d. 1594), Chizzuk Emunah / Faith Strengthened (1593), Part 2, ch. 36; Eng. trans. Moses Mocatta (1851)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Numbers 25:9",
+      "excerpt_text": "Only twenty-three thousand perished (Co1 10:8) from pestilence. Moses includes those who died by the execution of the judges [Num 25:5].",
+      "full_note_ref": "JFB/4/25/9",
+      "on_tension_rationale": "Directly names both figures (23,000 / 24,000) and reconciles them by distinguishing plague-deaths from judge-executions — the standard harmonization, stated in the fewest verbatim sentences.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on 1 Corinthians 10:8",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact discrepancy at length, arguing Moses counts all the dead (including those hanged) while Paul counts only those who 'fell' by the plague in one day, so the totals agree."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Numbers_25.9.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Numbers 25:9 - Why does this verse say that 24,000 died when 1 Corinthians 10:8 offers a different number?",
+        "note": "live apologetic treatment of the 24,000 vs. 23,000 difference (Geisler & Howe solution)"
+      }
+    }
+  }
+}

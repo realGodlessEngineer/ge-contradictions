@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 197,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators harmonize the double listing as a sequence: the towns were Judah's first allotment, then ceded to Dan when Dan's territory was carved from Judah.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "W. F. Albright argued the Judah town-list is a separate administrative document of a different date from the tribal-boundary framework, so towns like Eshtaol and Zorah stand assigned to both Judah and Dan because the lists never represented one coherent distribution.",
+      "skeptic": {
+        "name": "W. F. Albright",
+        "work": "The Administrative Divisions of Israel and Judah, JPOS 5",
+        "year": "1925",
+        "attribution": "W. F. Albright (d. 1971), \"The Administrative Divisions of Israel and Judah,\" Journal of the Palestine Oriental Society 5 (1925)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Joshua 15:33",
+      "excerpt_text": "These places though first given to Judah, afterwards fell to the lot of Dan, Jos 19:41.",
+      "full_note_ref": "CLARKE/6/15/33",
+      "on_tension_rationale": "Directly addresses the Eshtaol/Zorah double-assignment: states the towns were Judah's first, then passed to Dan — the core harmonizing move keyed to both cited passages.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Joshua 15:33 and 19:41",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, explaining that Eshtaol and Zorah were first given to Judah and afterwards fell to the lot of Dan; chosen as the row-surfaced harmonizer keyed to this passage because Haley's specific coverage of this overlap could not be confirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted-domain page addresses the specific Eshtaol/Zorah Judah-vs-Dan double-assignment; link omitted rather than cite an off-topic page."
+      }
+    }
+  }
+}

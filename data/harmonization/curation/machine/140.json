@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 140,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Deuteronomy as an abbreviated restatement that silently presupposes Leviticus' locust exception rather than revoking it.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The source-critical objection is pressed by August Knobel, who argued the Deuteronomist dropped the edible-locust permission because his later age had given up the prohibition's earlier rationale — i.e., D no longer allows what Leviticus does.",
+      "skeptic": {
+        "name": "August Wilhelm Knobel",
+        "work": "Die Bücher Numeri, Deuteronomium und Josua (and Die Bücher Exodus und Leviticus)",
+        "year": "1857-1861",
+        "attribution": "August W. Knobel (d. 1863), Die Bücher Exodus und Leviticus (1857) and Die Bücher Numeri, Deuteronomium und Josua (1861)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Leviticus 11:20",
+      "excerpt_text": "In Deu 14:19 the edible kinds of locusts are passed over, because it was not the intention of Moses to repeat every particular of the earlier laws in these addresses.",
+      "full_note_ref": "KD/3/11/20",
+      "on_tension_rationale": "Directly explains the Deut 14:19 vs Lev 11:21-23 tension: Deuteronomy omits (does not prohibit) the permitted locusts because it abbreviates the earlier law; the same note then rebuts Knobel's prohibition reading.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Deuteronomy 14:19",
+      "excerpt_text": "14:19-20 winged insects: Cp. Lev 11:20-23.",
+      "full_note_ref": "TYN/5/14/19",
+      "on_tension_rationale": "Treats Deut 14:19-20 as cross-referencing the Leviticus list (which includes the edible-locust exception) rather than overriding it, harmonizing the two laws as one body.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Leviticus 11:20 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this passage directly and harmonizingly, explaining the Deut 14:19 omission as abbreviation, not prohibition, and explicitly rebutting Knobel's source-critical reading that D revokes the locust permission."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page on an allowlisted domain could be verified for this specific tension; link omitted rather than guessed."
+      }
+    }
+  }
+}

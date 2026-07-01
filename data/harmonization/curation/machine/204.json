@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 204,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The harmonizing tradition reads the two verses across time: Judah's capture and burning was real but not permanent, and the Jebusites soon retook the city.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "On the critical reading pressed by George Foot Moore in the International Critical Commentary, Judges 1 is a composite chapter whose isolated notices cannot be made into one coherent account: a notice that Judah took and burned Jerusalem stands beside the report that the Jebusites were never dislodged and remain 'unto this day.'",
+      "skeptic": {
+        "name": "George Foot Moore",
+        "work": "A Critical and Exegetical Commentary on Judges (International Critical Commentary)",
+        "year": "1895",
+        "attribution": "George Foot Moore (d. 1931), A Critical and Exegetical Commentary on Judges, ICC (1895)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Judges 1:8",
+      "excerpt_text": "But even after this capture, and notwithstanding the fact that it had been set on fire, it did not come into the sole and permanent possession of the Israelites. After the conquerors had advanced still farther, to make war upon the Canaanites in the mountains, in the Negeb, and in the shephelah (vv. 9ff.), the Jebusites took it again and rebuilt it, so that in the following age it was regarded by the Israelites as a foreign city (Jdg 19:11-12).",
+      "full_note_ref": "KD/7/1/8",
+      "on_tension_rationale": "Directly explains how both verses stand: 1:8's capture and burning was genuine but temporary, and the Jebusites retook and rebuilt the city, which is why 1:21 reports them still dwelling there.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament: Joshua, Judges, Ruth (1861-75), on Judges 1:8",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this passage directly, explicitly reconciling the Jerusalem notices in Josh 15:63 and Judges 1:8, 1:21 by a temporary Judahite capture followed by Jebusite repossession, lasting until David's conquest."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted-domain page treating this specific Judges 1:8 vs. 1:21 tension could be verified; omitted rather than guessed."
+      }
+    }
+  }
+}

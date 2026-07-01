@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 145,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders narrow each harsh text — Paul's ban to idolatrous fellowship, Deuteronomy's death penalty to a judicial act — so that universal goodwill still stands alongside refusal of religious partnership.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells lists this contradiction directly, juxtaposing the command to stone kin who entice to other gods and the order to shun unbelievers against the same Bible's call to love neighbor and enemy alike — answers he holds cannot all be true.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (\"How should nonbelievers be treated?\")",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (SAB Books, 2013; online at skepticsannotatedbible.com/contra/nonbelievers.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "2 Corinthians 6:14",
+      "excerpt_text": "here it must signify not only that they should not associate with the Gentiles in their idolatrous feasts, but that they should not apostatize from Christianity …",
+      "full_note_ref": "CLARKE/47/6/14",
+      "on_tension_rationale": "Limits the 'no fellowship with unbelievers' command to idolatrous worship and apostasy, not ordinary social contact — the central harmonizing move dissolving the separation-vs-love tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 5:44",
+      "excerpt_text": "all men, even enemies, are to be loved with a natural love, as men; though they cannot be loved with a spiritual affection, as brethren in Christ …",
+      "full_note_ref": "GILL/40/5/44",
+      "on_tension_rationale": "Distinguishes universal natural love (owed even to enemies/unbelievers) from spiritual fellowship reserved for believers — reconciles 'love your enemies' with the separation/no-fellowship texts.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Deuteronomy 13:6",
+      "excerpt_text": "Piety and duty must overcome affection or compassion, and an accusation must be lodged before a magistrate.",
+      "full_note_ref": "JFB/5/13/6",
+      "on_tension_rationale": "Frames the killing of the enticer as a judicial act before a magistrate, not private hatred or revenge — recasting Deuteronomy 13's severity as theocratic justice rather than a denial of neighbor-love.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats the 'love thy neighbour / hate thine enemy' tension directly, arguing the law never commanded hatred and that Jesus corrects a Pharisaic gloss, not Scripture itself."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Matthew_5.43.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in Matthew 5:43?",
+        "note": "live apologetic treatment of love-of-enemies versus the alleged Old Testament command to hate enemies"
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 67,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders deny any limit on God: His omnipotent aid was on offer everywhere, and the failure in the valley was Judah's distrust, not divine inability.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the plain wording: Genesis 18:14 says nothing is too hard for the LORD, yet Judges 1:19 says He could not drive out the valley's people because of iron chariots — so some things are too hard even for God.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"Can God stop iron chariots?\" (skepticsannotatedbible.com/contra/iron.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (online; print ed. 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Judges 1:19",
+      "excerpt_text": "The war was of the Lord, whose omnipotent aid would have ensured their success in every encounter, whether on the mountains or the plains, with foot soldiers or cavalry. It was distrust, the want of a simple and firm reliance on the promise of God, that made them afraid of the iron chariots …",
+      "full_note_ref": "JFB/7/1/19",
+      "on_tension_rationale": "Directly answers the omnipotence tension: God's power was sufficient on the plains as on the mountains; the 'could not' of Judges 1:19 is relocated from God's ability to Judah's distrust — the single strongest harmonization on the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Judges 1:19",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "Treats this passage directly: God's omnipotent aid would have ensured success on the plains as on the mountains, so the 'could not' is Judah's distrust, not a limit on God. Anchored to a row-surfaced harmonizing commentator keyed to the passage, as Haley's specific coverage of this exact pair could not be confirmed."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/is-the-lord-omnipotent-or-not/",
+        "domain": "carm.org",
+        "title": "CARM: Is the Lord God omnipotent or not?",
+        "note": "Live apologetic treatment citing Judges 1:19 and the omnipotence framing; argues the failure was human, not divine. Verified on-topic and on the allowlist."
+      }
+    }
+  }
+}

@@ -1,0 +1,324 @@
+{
+  "contradiction_id": 239,
+  "question": "Who was David's second son?",
+  "summary": "2 Samuel 3:3 names David's second son born in Hebron as Chileab, son of Abigail. 1 Chronicles 3:1 names David's second son born in Hebron as Daniel, son of Abigail. Same mother, same birth-order slot, different name.",
+  "consensus": "probable_contradiction",
+  "consensus_id": 2,
+  "category": "Genealogy & Identity",
+  "contradiction_type": "genealogical",
+  "testament_scope": "OT_internal",
+  "books_in_tension": "2 Samuel, 1 Chronicles",
+  "refs_raw": [
+    "2 Samuel 3:3",
+    "1 Chronicles 3:1"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "2 Samuel 3:3",
+      "book": "2 Samuel",
+      "bolls": 10,
+      "ranges": [
+        [
+          3,
+          3,
+          3
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 3:1",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          3,
+          1,
+          1
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 24,
+  "notes_raw_count": 25,
+  "notes_dropped": 1,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 3:1",
+      "note_ref": "GILL/10/3/1",
+      "cites": [
+        "2 Samuel 3:3"
+      ],
+      "text": "Now there was a long war between the house of Saul and the house of David,.... The recent battle, though so much in favour of David, did not, put an end to the war between him and Ishbosheth, which lasted five years longer; for it was when Ishbosheth had reigned two years that that battle was fought, and he reigned five years longer; for not till his death, and when David had reigned above seven years in Hebron, was he made king over all Israel; and during this time peace was not made, but the war carried on; though perhaps not in pitched battles, of which we no more read, but in skirmishes:\nbut David waxed stronger and stronger; he having the advantage in all such skirmishes, and persons continually coming over to his side from the several tribes:\nand the house of Saul waxed weaker and weaker: being always worsted whenever they skirmished with David's men, and by continual revolts from them. This is reckoned an emblem of the kingdoms of Christ and antichrist, the one increasing more and more, as it has and will do, and the other decreasing, and before long will be consumed; and of the two parties in a regenerate man, grace and indwelling sin, the one as to its exercise growing stronger and stronger, and the other as to its influence on the outward conversation weaker and weaker."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 3:2",
+      "note_ref": "GILL/10/3/2",
+      "cites": [
+        "2 Samuel 3:3"
+      ],
+      "text": "And unto David were sons born in Hebron,.... He was married before he came there, had wives in his state of exile, but had no children by them there, at least no sons; if any, only daughters:\nand his firstborn was Amnon, of Ahinoam the Jezreelitess; who being mentioned first, and her son his firstborn, seems to have been his wife before be took Abigail; he had not much comfort of this firstborn son of his; see Sa2 13:1."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 3:3",
+      "note_ref": "GILL/10/3/3",
+      "cites": [
+        "2 Samuel 3:3"
+      ],
+      "text": "And the second, Chileab, of Abigail the wife of Nabal the Carmelite,.... That is: who had been the wife of Nabal. This son's name is called Daniel, Ch1 3:1; and was the first name he had, and which his father gave him, because as if he should say, \"God hath judged me\", and pleaded the cause of his reproach from Nabal, Sa1 25:39; but why he should be called Chileab is not easy to say; the name is commonly thought to signify \"like unto his father\", or \"all father\": had all the features of his father, and was exceedingly like him; the Jews have a fabulous story concerning this (w), not worth relating:\nand the third, Absalom the son of Maacah, the daughter of Talmai king of Geshur; in Sa1 27:8 we read of David's invading the land of the Geshurites; and the Jews say (x) that he then took the daughter of this king captive, and she being a beautiful woman married her, after made a proselyte according to the law in Deu 21:10; but it should be observed that David slew all the women of that country, and left not any alive; and besides that lay to the south of Judah, whereas this Geshur, of which Talmai was king, was a part of Syria, Sa2 15:8; and lay to the north of the land of Israel; and with this king David hereby entered into an alliance, to strengthen his interest against Ishbosheth in those parts; of the trouble he met with from Absalom, see Sa2 13:1, &c. contrary to the expectations he had raised when he gave him the name of Absalom, or Leabsalom, as in Ch1 3:2; that is, one given \"for his father's peace\".\n(w) Jarchi, Kimchi, & Abarbinel in loc. (x) Tanchuma apud Abarbinel in loc."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 3:4",
+      "note_ref": "GILL/10/3/4",
+      "cites": [
+        "2 Samuel 3:3"
+      ],
+      "text": "And the fourth, Adonijah the son of Haggith,.... The same that usurped the throne before his father's death, to anticipate Solomon, and died by his order, Kg1 1:5,\nand the fifth, Shephatiah the son of Abital; of whom we read nowhere else."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 3:1",
+      "note_ref": "GILL/13/3/1",
+      "cites": [
+        "1 Chronicles 3:1"
+      ],
+      "text": "Now these were the sons of David,.... The six following born in Hebron, who are reckoned in the same order as in Sa2 3:2, only here the second son is called Daniel, who there goes by the name of Chileab; he had two names, the reason of which see there; and here David's wife, Eglah, is said in the Targum to be Michal, Saul's daughter; see Gill on Sa2 3:5, to which is added an account of his reign both in Hebron and Jerusalem, agreeably to Sa2 5:5.\n.\n1 Chronicles 3:5\nch1 3:5\nch1 3:5\nch1 3:5And these were born unto him in Jerusalem,.... Whose names follow, in all nine; there are but seven mentioned in Sa2 5:14 the reason of which see in the notes there; See Gill on Sa2 5:14. See Gill on Sa2 5:15. See Gill on Sa2 5:16. it may be observed that Bathsheba is here called Bathshua, and her father Ammiel, whose name is Eliam in Sa2 11:3, names of much the same signification."
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Samuel 3:2",
+      "note_ref": "JFB/10/3/2",
+      "cites": [
+        "2 Samuel 3:3"
+      ],
+      "text": "unto David were sons born in Hebron--The six sons mentioned had all different mothers."
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Samuel 3:3",
+      "note_ref": "JFB/10/3/3",
+      "cites": [
+        "2 Samuel 3:3"
+      ],
+      "text": "Chileab--(\"his father's picture\")--called also Daniel (Ch1 3:1).\nMaacah the daughter of Talmai king of Geshur--a region in Syria, north of Israel. This marriage seems to have been a political match, made by David, with a view to strengthen himself against Ish-bosheth's party, by the aid of a powerful friend and ally in the north. Piety was made to yield to policy, and the bitter fruits of this alliance with a heathen prince he reaped in the life of the turbulent Absalom."
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Samuel 3:5",
+      "note_ref": "JFB/10/3/5",
+      "cites": [
+        "2 Samuel 3:3"
+      ],
+      "text": "Eglah David's wife--This addition has led many to think that Eglah was another name for Michal, the first and proper wife, who, though she had no family after her insolent ridicule of David (Sa2 6:23), might have had a child before."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 3:3",
+      "note_ref": "JFB/13/3/3",
+      "cites": [
+        "1 Chronicles 3:1"
+      ],
+      "text": "Eglah his wife--supposed to be another name of Michal, who, though she had no son after her mockery of David for dancing before the ark [Sa2 6:16, Sa2 6:20], might have had one previous to that time. She has the title of wife appended to her name because she was his proper wife; and the mention of her name last probably arose from the circumstance that, having been withdrawn from David and married to another husband but afterwards restored, she had in reality become the last of his wives."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Samuel 3:1",
+      "note_ref": "CLARKE/10/3/1",
+      "cites": [
+        "2 Samuel 3:3"
+      ],
+      "text": "There was long war - Frequent battles and skirmishes took place between the followers of David and the followers of Ish-bosheth, after the two years mentioned above, to the end of the fifth year, in which Ish-bosheth was slain by Rechab and Baanah."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 3:1",
+      "note_ref": "CLARKE/13/3/1",
+      "cites": [
+        "1 Chronicles 3:1"
+      ],
+      "text": "The second, Daniel - In Sa2 3:3, this person is called Chileab; he probably had two names. The Targum says, \"The second, Daniel, who was also called Chileab, because he was in every respect like to his father.\" The Targumist refers here to the import of the word כלאב ke-le-ab, like to the father. Jarchi says the two names were given to this person because David, having taken Abigail immediately after the death of Nabal, it could not be ascertained whether this child were the son of David or of Nabal, therefore David called him דניאל Daniel, God is my Judge, and כלאב Chileab, he who is like to the father; probably from the striking resemblance he bore to David, his reputed father. \"God is my Judge, I have not fathered another man's child; this is entirely like unto myself."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 3:3",
+      "note_ref": "CLARKE/13/3/3",
+      "cites": [
+        "1 Chronicles 3:1"
+      ],
+      "text": "By Eglah his wide - The Targum, Jarchi, and others, maintain that this was Michal, the daughter of Saul; but this does not well agree with Sa2 6:23 : Michal had no child to the day of her death. Yet she might have had a child before the time that is mentioned above."
+    },
+    {
+      "src": "KD",
+      "ref": "2 Samuel 3:2",
+      "note_ref": "KD/10/3/2",
+      "cites": [
+        "2 Samuel 3:3"
+      ],
+      "text": "Growth of the House of David. - Proof of the advance of the house of David is furnished by the multiplication of his family at Hebron. The account of the sons who were born to David at Hebron does not break the thread, as Clericus, Thenius, and others suppose, but is very appropriately introduced here, as a practical proof of the strengthening of the house of David, in harmony with the custom of beginning the history of the reign of every king with certain notices concerning his family (vid., Sa2 5:13.; Kg1 3:1; Kg1 14:21; Kg1 15:2, Kg1 15:9, etc.). We have a similar list of the sons of David in Ch1 3:1-4. The first two sons were born to him from the two wives whom he had brought with him to Hebron (Sa1 25:42-43). The Chethibh וילדו is probably only a copyist's error for ויּוּלדוּ, which is the reading in many Codices. From Ahinoam - the first-born, Amnon (called Aminon in Sa2 13:20); from Abigail - the second, Chileab. The latter is also called Daniel in Ch1 3:1, and therefore had probably two names. The lamed before Ahinoam and the following names serves as a periphrasis for the genitive, like the German von, in consequence of the word son being omitted (vid., Ewald, 292, a.). The other four were by wives whom he had married in Hebron: Absalom by Maachah, the daughter of Talmai king of Geshur, a small kingdom in the north-east of Bashan (see at Deu 3:14); Adonijah by Haggith; Shephatiah by Abital; and Ithream by Eglah. The origin of the last three wives is unknown. The clause appended to Eglah's name, viz., \"David's wife,\" merely serves as a fitting conclusion to the whole list (Bertheau on Ch1 3:3), and is not added to show that Eglah was David's principal wife, which would necessitate the conclusion drawn by the Rabbins, that Michal was the wife intended."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 3:1",
+      "note_ref": "KD/13/3/1",
+      "cites": [
+        "1 Chronicles 3:1"
+      ],
+      "text": "Now these were the sons of David,.... The six following born in Hebron, who are reckoned in the same order as in Sa2 3:2, only here the second son is called Daniel, who there goes by the name of Chileab; he had two names, the reason of which see there; and here David's wife, Eglah, is said in the Targum to be Michal, Saul's daughter; see Gill on Sa2 3:5, to which is added an account of his reign both in Hebron and Jerusalem, agreeably to Sa2 5:5.\n.\n1 Chronicles 3:5\nch1 3:5\nch1 3:5\nch1 3:5And these were born unto him in Jerusalem,.... Whose names follow, in all nine; there are but seven mentioned in Sa2 5:14 the reason of which see in the notes there; See Gill on Sa2 5:14. See Gill on Sa2 5:15. See Gill on Sa2 5:16. it may be observed that Bathsheba is here called Bathshua, and her father Ammiel, whose name is Eliam in Sa2 11:3, names of much the same signification."
+    },
+    {
+      "src": "MHC",
+      "ref": "2 Samuel 3:1",
+      "note_ref": "MHC/10/3/1",
+      "cites": [
+        "2 Samuel 3:3"
+      ],
+      "text": "Here is, I. The struggle that David had with the house of Saul before his settlement in the throne was completed, Sa2 3:1. 1. Both sides contested. Saul's house, though beheaded and diminished, would not fall tamely. It is not strange between them, but one would wonder it should be a long war, when David's house had right on its side, and therefore God on its side; but, though truth and equity will triumph at last, God made for wise and holy ends prolonged the conflict. The length of this war tried the faith and patience of David, and made his establishment at last the more welcome to him. 2. David's side got ground. The house of Saul waxed weaker and weaker, lost places, lost men, sunk in its reputation, grew less considerable, and was foiled in every engagement. But the house of David grew stronger and stronger. Many deserted the declining cause of Saul's house, and prudently came into David's interest, being convinced that he would certainly win the day. The contest between grace and corruption in the hearts of believers, who are sanctified but in part, may fitly be compared to this recorded here. There is a long war between them, the flesh lusted against the spirit and the spirit against the flesh; but, as the work of sanctification is carried on, corruption, like the house of Saul, grows weaker and weaker; while grace, like the house of David, grows stronger and stronger, till it come to a perfect man, and judgment be brought forth unto victory.\nII. The increase of his own house. Here is an account of six sons he had by six several wives, in the seven years he reigned in Hebron. Perhaps this is here mentioned as that which strengthened David's interest. Every child, whose welfare was embarked in the common safety, was a fresh security given to the commonwealth for his care of it. He that has his quiver filled with these arrows shall speak with his enemy in the gate, Psa 127:5. As the death of Saul's sons weakened his interest, so the birth of David's strengthened his. 1. It was David's fault thus to multiply wives, contrary to the law (Deu 17:17), and it was a bad example to his successors. 2. It does not appear that in these seven years he had above one son by each of these wives; some have had as numerous a progeny, and with much more honour and comfort, by one wife. 3. We read not that any of these sons came to be famous (three of them were infamous, Amnon, Absalom, and Adonijah); we have therefore reason to rejoice with trembling in the building up of our families. 4. His son by Abigail is called Chileab (Sa2 3:3), whereas (Ch1 3:1) he is called Daniel. Bishop Patrick mentions the reason which the Hebrew doctors give for these names, that his first name was Daniel - God has judged me (namely, against Nabal), but David's enemies reproached him, and said, \"It is Nabal's son, and not David's,\" to confute which calumny Providence so ordered it that, as he grew up, he became, in his countenance and features, extremely like David, and resembled him more than any of his children, upon which he gave him the name of Chileab, which signifies, like his father, or the father's picture. 5. Absalom's mother is said to be the daughter of Talmai king of Geshur, a heathen prince. Perhaps David thereby hoped to strengthen his interest, but the issue of the marriage was one that proved his grief and shame. 6. The last is called David's wife, which therefore, some think, was Michal, his first and most rightful wife, called here by another name; and, though she had no child after she mocked David, she might have had before.\nThus was David's house strengthened; but it was Abner that made himself strong for the house of Saul, which is mentioned (Sa2 3:6) to show that, if he failed them, they would fall of course."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 3:1",
+      "note_ref": "MHC/13/3/1",
+      "cites": [
+        "1 Chronicles 3:1"
+      ],
+      "text": "We had an account of David's sons, Sa2 3:2, etc., and Sa2 5:14, etc. 1. He had many sons; and no doubt wrote as he thought, Psa 127:5. Happy is the man that hath his quiver full of these arrows. 2. Some of them were a grief to him, as Amnon, Absalom, and Adonijah; and we do not read of any of them that imitated his piety or devotion except Solomon, and he came far short of it. 3. One of them, which Bath-sheba bore to him, he called Nathan, probably in honour of Nathan the prophet, who reproved him for his sin in that matter and was instrumental to bring him to repentance. It seems he loved him the better for it as long as he lived. It is wisdom to esteem those our best friends that deal faithfully with us. From this son of David our Lord Jesus descended, as appears Luk 3:31. 4. Here are two Elishamas, and two Eliphelets, Ch1 3:6, Ch1 3:8. Probably the two former were dead, and therefore David called two more by their names, which he would not have done if there had been any ill omen in this practice as some fancy. 5. David had many concubines; but their children are not named, as not worthy of the honour (Ch1 3:9), the rather because the concubines had dealt treacherously with David in the affair of Absalom. 6. Of all David's sons Solomon was chosen to succeed him, perhaps not for any personal merits (his wisdom was God's gift), but so, Father, because it seemed good unto thee."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Samuel 3:1",
+      "note_ref": "TYN/10/3/1",
+      "cites": [
+        "2 Samuel 3:3"
+      ],
+      "text": "3:1-39 The house of David increased, while Saul’s house dwindled. The crucial occasion came when Abner, the real political power in Saul’s camp, switched allegiance to David, taking a considerable number of his northern kinsmen with him.\n3:1 a long war: This civil war likely continued for most of the seven-plus years that David ruled from Hebron. The truce called by Joab and Abner (2:26-28) was short-lived."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Samuel 3:2",
+      "note_ref": "TYN/10/3/2",
+      "cites": [
+        "2 Samuel 3:3"
+      ],
+      "text": "3:2-5 One way David “became stronger and stronger” (3:1) was by taking more wives and having a son through each. Three of David’s Hebron-born sons died violent deaths, two during David’s reign (Amnon, Absalom), and one shortly after his death (Adonijah)."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Samuel 3:3",
+      "note_ref": "TYN/10/3/3",
+      "cites": [
+        "2 Samuel 3:3"
+      ],
+      "text": "3:3 Geshur was a small Canaanite kingdom in upper Transjordan (the area east of the Jordan) near the Sea of Galilee. Marrying into neighboring royal families created political alliances and secured David’s position against the northern tribes. Solomon also followed this practice (1 Kgs 3:1; 11:1)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 3:1",
+      "note_ref": "TYN/13/3/1",
+      "cites": [
+        "1 Chronicles 3:1"
+      ],
+      "text": "3:1-24 The genealogy of David continues the genealogy of Ram (2:10-17), which included David as the seventh son of Jesse (2:15). David’s genealogy is divided into three sections: David’s sons (3:1-9); the kings of Judah down to Jehoiachin and Zedekiah (3:10-16), who were exiled to Babylon; and the descendants of Jehoiachin down to the time of the Chronicler (3:17-24).\n3:1-9 The list of David’s sons relies on information from Samuel (2 Sam 3:2-5; 5:14-16); the list is divided between sons . . . born while David ruled in Hebron, and those born . . . in Jerusalem."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Samuel 3:1",
+      "note_ref": "GNV/10/3/1",
+      "cites": [
+        "2 Samuel 3:3"
+      ],
+      "text": "That is, without intermission enduring two years, which was the whole reign of Ishbosheth."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Samuel 3:3",
+      "note_ref": "GNV/10/3/3",
+      "cites": [
+        "2 Samuel 3:3"
+      ],
+      "text": "Who is called also Daniel, 1 Chron. 3:1."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Samuel 3:5",
+      "note_ref": "GNV/10/3/5",
+      "cites": [
+        "2 Samuel 3:3"
+      ],
+      "text": "Within seven years and six months."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 3:1",
+      "note_ref": "GNV/13/3/1",
+      "cites": [
+        "1 Chronicles 3:1"
+      ],
+      "text": "He returneth to the genealogy of David, to show that Christ came of his stock.\nWhich 2 Sam. 3:3, is called Chileab, born of her that was Nabal’s wife the Carmelite."
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 250,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read David's \"clean hands\" as relative covenant-loyalty, not sinlessness — a verdict on the whole course of his life that openly excepts Uriah and his repented sins.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells in the Skeptic's Annotated Bible, who lines up David's boast of righteousness and clean hands against the texts that name his sins and asks which the canon means.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (\"Did David sin?\")",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Did David sin?\" (skepticsannotatedbible.com/contra/david_sin.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "2 Samuel 22:21",
+      "excerpt_text": "The righteousness and cleanness of hands, i.e., the innocence, which David attributed to himself, were not perfect righteousness or holiness before God, but the righteousness of his endeavours and deeds as contrasted with the unrighteousness and wickedness of his adversaries and pursuers, and consisted in the fact that he endeavoured earnestly and sincerely to walk in the ways of God and to keep the divine commandments.",
+      "full_note_ref": "KD/10/22/21",
+      "on_tension_rationale": "Directly resolves the core tension: David's claimed 'cleanness of hands' (2 Sam 22:21) is read as relative righteousness vs. his enemies, NOT sinlessness, so it does not collide with his admitted sins; the note even cross-refs 1 Kings 15:5 in its surrounding lines.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "2 Samuel 22:22",
+      "excerpt_text": "David composed these words much earlier (22:1), before his sin with Bathsheba. Still, his claim to being blameless should not be construed as a claim to perfection.",
+      "full_note_ref": "TYN/10/22/22",
+      "on_tension_rationale": "Two-pronged harmonization of exactly this row: dates the 'righteousness' boast before the Bathsheba/Uriah affair, AND denies it asserts sinless perfection — dissolving the 'none vs. one vs. two' count.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "2 Samuel 22:2",
+      "excerpt_text": "God had recompensed him, though not for his righteousness, as if that had merited any thing at the hand of God, yet according to his righteousness, which he was well pleased with, and had an eye to. … The matter of Uriah is an exception (Kg1 15:5), like that in Hezekiah's character, Ch2 32:31.",
+      "full_note_ref": "MHC/10/22/2",
+      "on_tension_rationale": "Block-anchored note whose on-tension sentences explain how God 'recompensed' David 'according to his righteousness' (2 Sam 22:21-25) without it being merit or sinlessness, then explicitly names the Uriah exception (1 Kings 15:5) — harmonizing all three canonical answers.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on 2 Samuel 22:21 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly: David's 'cleanness of hands' is the relative righteousness of his endeavours, not perfect holiness before God, and is cross-referenced to the historical verdict of 1 Kings 15:5 — the harmonizing reading the row turns on."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/1_Kings_15.5.php",
+        "domain": "defendinginerrancy.com",
+        "title": "1 Kings 15:5—Is this the only sin David committed? (Geisler & Howe)",
+        "note": "Live apologetic treatment of this exact tension: David is 'blameless and upright' generally (like Job), not sinless; the verdict is relative and describes his overall trajectory, and he repented immediately when confronted (2 Sam 12; 1 Chr 21:8)."
+      }
+    }
+  }
+}

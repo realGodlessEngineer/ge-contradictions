@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 243,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders concede the received numbers disagree but trace it to scribal transmission — a confounded Hebrew numeral or a dropped 'chariot' — not to a real conflict between the authors; others read 700 as officers/ranks within the 7,000.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed at face value by Steve Wells (Skeptic's Annotated Bible), who sets the two verses side by side and asks simply how many horsemen David took — seven hundred or seven thousand.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"How many horsemen did David take?\" (skepticsannotatedbible.com/contra/horsemen.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (skepticsannotatedbible.com)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Chronicles 18:4",
+      "excerpt_text": "In Sa2 8:4 David is said to have taken seven hundred horsemen, whereas here it is said that he took seven thousand. This great discrepancy in the text of the two narratives seems to have originated with a transcriber in confounding the two Hebrew letters which indicate the numbers, and in neglecting to mark or obscure the points over one of them.",
+      "full_note_ref": "JFB/13/18/4",
+      "on_tension_rationale": "The single fullest reconcile note: names BOTH numbers (700 vs 7000), states the discrepancy openly, and gives the textual-corruption mechanism (confounded Hebrew number-letters). Two contiguous complete sentences ending on real source periods, no truncation marker.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "2 Samuel 8:4",
+      "excerpt_text": "which may be reconciled by observing, with Kimchi and Abarbinel, that here the chief officers are meant, there all the chariots and horsemen that were under their command are mentioned, which together made up that large number; or else here are meant the ranks and companies of horse David took, which were seven hundred; and these having ten in a company or rank, made seven thousand …",
+      "full_note_ref": "GILL/10/8/4",
+      "on_tension_rationale": "Distinct non-textual harmonization: 700 = chief officers (with the rest under their command), or 700 ranks of ten = 7,000. Uses the word 'reconciled'. Truncated mid-sentence before the source's continuation → ' …'.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "2 Samuel 8:3",
+      "excerpt_text": "Instead of 1700 horse-soldiers, we find in the Chronicles (Ch1 18:4) 1000 chariots and 7000 horsemen. Consequently the word receb has no doubt dropped out after אלף in the text before us, and the numeral denoting a thousand has been confounded with the one used to denote a hundred; for in the plains of Syria seven thousand horsemen would be a much juster proportion to twenty thousand foot than seventeen hundred.",
+      "full_note_ref": "KD/10/8/3",
+      "on_tension_rationale": "Distinct scholarly textual reconstruction: a word ('receb', chariot) dropped out and the thousand/hundred numeral was confounded; judges 7,000 the juster proportion. Block-anchored note; on-tension sentences sit deep inside. Contiguous sentences ending on a real source period, no truncation marker; Hebrew word preserved verbatim.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 1 Chronicles 18:4",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats this exact pair directly, attributing the 700/7000 difference to a transcriber confounding the Hebrew number-letters (citing Davidson's Hermeneutics). Anchored to a row-surfaced harmonizing commentator keyed to the passage; Haley's specific coverage of this pair could not be confirmed."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/2_Samuel_8.4.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: 2 Samuel 8:4 — Did David capture 1,700 horsemen or 7,000 as 1 Chronicles 18:4 says?",
+        "note": "Live, on-topic; cites both 2 Sam 8:4 and 1 Chr 18:4 and harmonizes via a copyist omitting 'chariot', concluding 1 Chronicles retains the correct 7,000."
+      }
+    }
+  }
+}

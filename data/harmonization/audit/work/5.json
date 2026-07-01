@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 5,
+  "question": "From what were the fowls created?",
+  "summary": "Genesis 1:20-21 has God commanding the waters to bring forth birds. Genesis 2:19 instead says God formed every fowl of the air 'out of the ground.' The two creation accounts give the birds two different sources.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "The strongest defense denies that Genesis 1:20 ever sourced the birds from water — the Hebrew is imperative, leaving the element unstated, so nothing conflicts with 2:19.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The sharpest objection comes from J. W. Colenso, who reads Genesis 1 and 2 as two separate sources (Elohist and Jehovist) whose creation reports cannot be harmonized into one consistent order or origin for the creatures.",
+    "skeptic": {
+      "name": "J. W. Colenso",
+      "work": "The Pentateuch and Book of Joshua Critically Examined",
+      "year": "1862-1879",
+      "attribution": "J. W. Colenso (d. 1883), The Pentateuch and Book of Joshua Critically Examined (1862-79)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Genesis 1:20",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly: argues the Hebrew of Gen 1:20 does not make birds spring from the water and is silent on the element, removing the apparent conflict with Gen 2:19."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/two-Creation-accounts.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why are there two different Creation accounts in Genesis chapters 1-2?",
+        "note": "Live apologetic treatment addressing Gen 2:19 and the 'had formed' pluperfect harmonization."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "5#0",
+      "pole": "reconcile",
+      "source_code": "KD",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "verse_ref": "Genesis 1:20",
+      "full_note_ref": "KD/1/1/20",
+      "excerpt_text": "Earlier translators, on the contrary, have rendered the latter as a relative clause, after the πετεινὰ πετόμενα of the lxx, \"and with birds that fly;\" thus making the birds to spring out of the water, in opposition to Gen 2:19. Even with regard to the element out of which the water animals were created the text is silent …",
+      "on_tension_rationale": "K&D directly names the Gen 2:19 conflict and argues it arises only from a faulty relative-clause rendering of 1:20; the Hebrew imperative leaves the element unstated, so birds are not said to come from water. This is the row's strongest verbatim harmonization of the exact water-vs-ground tension.",
+      "source_note_text": "The Fifth Day. - \"God said: Let the waters swarm with swarms, with living beings, and let birds fly above the earth in the face (the front, i.e., the side turned towards the earth) of the firmament.\" ישׁרצוּ and יעופף are imperative. Earlier translators, on the contrary, have rendered the latter as a relative clause, after the πετεινὰ πετόμενα of the lxx, \"and with birds that fly;\" thus making the birds to spring out of the water, in opposition to Gen 2:19. Even with regard to the element out of which the water animals were created the text is silent; for the assertion that שׁרץ is to be understood \"with a causative colouring\" is erroneous, and is not sustained by Exo 8:3 or Psa 105:30. The construction with the accusative is common to all verbs of multitude. שׁרץ and שׁרץ, to creep and swarm, is applied, \"without regard to size, to those animals which congregate together in great numbers, and move about among one another.\" חיּה גפשׁ, anima viva, living soul, animated beings (vid., Gen 2:7), is in apposition to שׁרץ, \"swarms consisting of living beings.\" The expression applies not only to fishes, but to all water animals from the greatest to the least, including reptiles, etc. In carrying out His word, God created (Gen 1:21) the great \"tanninim,\" - lit., the long-stretched, from תּנן, to stretch-whales, crocodiles, and other sea-monsters; and \"all moving living beings with which the waters swarm after their kind, and all (every) winged fowl after its kind.\" That the water animals and birds of every kind were created on the same day, and before the land animals, cannot be explained on the ground assigned by early writers, that there is a similarity between the air and the water, and a consequent correspondence between the two classes of animals. For in the light of natural history the birds are at all events quite as near to the mammalia as to the fishes; and the supposed resemblance between the fins of fishes and the wings of birds, is counterbalanced by the no less striking resemblance between birds and land animals, viz., that both have feet. The real reason is rather this, that the creation proceeds throughout from the lower to the higher; and in this ascending scale the fishes occupy to a great extent a lower place in the animal economy than birds, and both water animals and birds a lower place than land animals, more especially the mammalia. Again, it is not stated that only a single pair was created of each kind; on the contrary, the words, \"let the waters swarm with living beings,\" seem rather to indicate that the animals were created, not only in a rich variety of genera and species, but in large numbers of individuals. The fact that but one human being was created at first, by no means warrants the conclusion that the animals were created singly also; for the unity of the human race has a very different signification from that of the so-called animal species. - (Gen 1:22). As animated beings, the water animals and fowls are endowed, through the divine blessing, with the power to be fruitful and multiply. The word of blessing was the actual communication of the capacity to propagate and increase in numbers."
+    }
+  ]
+}

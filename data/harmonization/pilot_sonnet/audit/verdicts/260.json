@@ -1,0 +1,22 @@
+{
+  "contradiction_id": 260,
+  "excerpts": [
+    {
+      "excerpt_uid": "260#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "pass",
+      "action": null,
+      "reason": "Verbatim -- excerpt_text equals the entire source_note_text exactly. JFB's note directly states the two-transaction resolution: 1 Kgs 5:11 is the annual palace/household supply, distinct from 2 Chr 2:10 which is for the forest workmen. Reconcile pole is correct. (Note: JFB harmonizes only the recipient distinction, not the commodity/quantity differences -- barley and wine appearing in Chronicles -- but as a reconcile excerpt it is on-tension and correctly labeled.)"
+    }
+  ],
+  "guardrails": {
+    "parity": "ok",
+    "connectives": "ok",
+    "named_skeptic": "not_real",
+    "discrepancy_integrity": "co_opted",
+    "deeper_learning": "flag",
+    "reason": "named_skeptic NOT_REAL: Dennis McKinsey is a real critic, but I could NOT confirm he engaged the Solomon-to-Hiram provisions tension (1 Kgs 5:11 vs 2 Chr 2:10). It is absent from the Tektonics rebuttal index of his Encyclopedia and from targeted newsletter searches; the modern source that actually lists this is Steve Wells/SAB. Unconfirmed -> not_real. parity ok and the discrepancy connective ('two-transaction harmonization is an ad hoc invention unsupported by either text') is a plausible objection and accurate on-tension AS A STANCE, but it rests on the unverified McKinsey attribution -- so the connective ships only if a real skeptic is confirmed. discrepancy_integrity CO_OPTED: genuinely_disputed row left with a single harmonizer excerpt plus an unverified skeptic and no relabel_flag; note the surfaced JFB excerpt addresses only the recipient distinction and does NOT resolve the commodity/quantity differences, so the reconcile is weaker than the connective implies. deeper_learning FLAG: Haley (1874) is a real PD catalog plausibly covering this, but I could not confirm his specific 'complementary halves / household stipend + workers' rations' argument is in the text as attributed; no link supplied. Recommend substituting a verifiable skeptic (Wells/SAB) or setting relabel_flag, and confirming the Haley treatment."
+  }
+}

@@ -1,0 +1,75 @@
+{
+  "contradiction_id": 524,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Classical commentators harmonize the two agents by reading the Father's sending and the Son's sending as complementary acts within a single Trinitarian economy, not competing claims.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells (Skeptic's Annotated Bible) presses this as a genuine contradiction: John 14:16/26 assigns the sending to the Father, while John 15:26 assigns it to Jesus, and no amount of Trinitarian harmonizing dissolves the difference in agent.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 524,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "John 14:26",
+      "excerpt_text": "whom the Father will send in my name. The mission of the Spirit is here ascribed to the Father, but not to the exclusion of the Son, who is also said to send him, Joh 15:26, which was not so proper to be mentioned here, because he speaks of his being sent, \"in his name\"; that is, at his request, through his mediation and intercession, in his room and stead, acting, the same part, and bearing the same flame of an advocate or comforter, and for the glory and honour of his name",
+      "full_note_ref": "GILL/43/14/26",
+      "license_code": "PD",
+      "on_tension_rationale": "Gill directly addresses the apparent contradiction between Father-sends (John 14:26) and Son-sends (John 15:26), arguing the two are complementary, not contradictory, because the Father's sending is 'not to the exclusion of the Son'.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 524,
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "verse_ref": "John 15:26",
+      "excerpt_text": "He had said (Joh 14:16), I will pray the Father, and he shall send you the Comforter, which bespeaks the Spirit to be the fruit of the intercession Christ makes within the veil: here he says, I will send him, which bespeaks him to be the fruit of his dominion within the veil. The Spirit was sent, [1.] By Christ as Mediator, now ascended on high to give gifts unto men, and all power being given to him. [2.] From the Father: \"Not only from heaven, my Father's house\" … \"but according to my Father's will and appointment, and with his concurring power and authority.\"",
+      "full_note_ref": "MHC/43/15/26",
+      "license_code": "PD",
+      "on_tension_rationale": "Matthew Henry directly reconciles the two sending-agents by distinguishing Christ's intercession (John 14:16) from Christ's mediatorial dominion (John 15:26), arguing both Father and Son send the Spirit in different but complementary respects.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats Trinitarian agency questions including the Spirit's procession and mission, providing the standard harmonizing framework for passages where Father and Son both appear as sender."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/who-sends-the-Holy-Spirit.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who sends the Holy Spirit — the Father or the Son?",
+        "note": "Live apologetic treatment of John 14:16, 14:26, and 15:26 explaining the complementary agency of Father and Son in the Spirit's mission."
+      }
+    }
+  }
+}

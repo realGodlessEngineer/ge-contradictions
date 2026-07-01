@@ -1,0 +1,22 @@
+{
+  "contradiction_id": 528,
+  "excerpts": [
+    {
+      "excerpt_uid": "528#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "pass",
+      "action": null,
+      "reason": "Verbatim in source_note_text (no ellipsis; only permitted quote normalization). Gill characterizes the Colossians 2:18 object as self-invented, carnally-reasoned speculation about angels 'never seen... nor could ever discern... in the Scriptures... the birth of his own mind' — drawing exactly the object-distinction the reconcile pole needs: condemned fleshly speculation vs commended faith in revealed unseen realities (Heb 11:1 / John 20:29). On-tension; reconcile label correct."
+    }
+  ],
+  "guardrails": {
+    "parity": "ok",
+    "connectives": "flag",
+    "named_skeptic": "ok",
+    "discrepancy_integrity": "ok",
+    "deeper_learning": "ok",
+    "reason": "named_skeptic OK: 'Should we believe in unseen things?' is a genuine Skeptic's Annotated Bible (Steve Wells) contradiction; SAB lists Heb 11:1 / 2 Cor 4:18 / 2 Cor 5:7 / John 20:29 against Col 2:18 — matching the work file. Wells genuinely flags the surface tension. CONNECTIVE FLAG (named_skeptic side): the discrepancy connective is mostly fair but appends an editorializing rider — 'the object-distinction harmonization depends on a theological classification the texts themselves do not articulate' — which is the generator's own critical gloss, not something Wells/SAB argues (SAB simply juxtaposes the verses). It mildly overstates what the named skeptic actually presses; a human should glance at it. The skeptic is real and his core objection fairly stated, so named_skeptic itself is OK, but the connective overclaims on his behalf. parity OK: one reconcile excerpt vs one named-skeptic connective on a reconcile_first row; reconcile not out-quoting the lean pole. discrepancy_integrity OK: discrepancy pole is named_skeptic. deeper_learning OK: defense.pd_work (Haley 1874) is a real PD harmonizing work treating commended-faith vs condemned-speculation; defense.link is null (allowed — link is optional, pd_work is the required element and is present)."
+  }
+}

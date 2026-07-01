@@ -1,0 +1,85 @@
+{
+  "contradiction_id": 214,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders hold that 'Vashni' is no name but a copyist's corruption of the Hebrew for 'and the second,' the firstborn Joel having dropped from the text, as the versions confirm.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The Skeptic's Annotated Bible presses it flatly: 1 Samuel names Joel as Samuel's firstborn, while 1 Chronicles 6:28 lists 'Vashni' first, as if a different son.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 214,
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "1 Chronicles 6:28",
+      "excerpt_text": "It is now generally thought by the best critics that, through an error of the copyists, an omission has been made of the oldest son's name, and that Vashni, which is not the name of a person, merely signifies “and the second.” This critical emendation of the text makes all clear, as well as consistent with other passages relating to the family of Samuel.",
+      "full_note_ref": "JFB/13/6/28",
+      "license_code": "PD",
+      "on_tension_rationale": "Directly resolves the Joel/Vashni conflict by treating 'Vashni' as not a name at all but a corruption of the Hebrew for 'and the second,' with the firstborn Joel's name dropped by a copyist.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 214,
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "1 Chronicles 6:28",
+      "excerpt_text": "The word יואל Joel is lost out of the text in this place, and ושני vesheni, which signifies the second, and which refers to Abiah, is made here into a proper name. The Septuagint, Vulgate, and Chaldee, copy this blunder; but the Syriac and Arabic read as in Sa1 8:2.",
+      "full_note_ref": "CLARKE/13/6/28",
+      "license_code": "PD",
+      "on_tension_rationale": "Gives the same copyist-error harmonization with the Hebrew and the versional evidence: Joel dropped out, 'vesheni' ('the second') mistaken for a name, and the Syriac and Arabic still agreeing with 1 Samuel 8:2.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 214,
+      "pole": "reconcile",
+      "source_code": "KD",
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "verse_ref": "1 Samuel 8:2",
+      "excerpt_text": "The sons are also mentioned again in Ch1 6:13, though the name of the elder has either been dropped out of the Masoretic text or has become corrupt.",
+      "full_note_ref": "KD/9/8/1",
+      "license_code": "PD",
+      "on_tension_rationale": "A distinct critical voice giving the same resolution from the 1 Samuel side: the elder son's name in the Chronicles parallel was either dropped from the Masoretic text or corrupted.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary (1871), on 1 Chronicles 6:28",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB keys the harmonization to this passage, explaining 'Vashni' as a copyist's corruption of 'and the second' rather than a rival name for Samuel's firstborn."
+      },
+      "link": null
+    }
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 85,
+  "question": "Who was Anah?",
+  "summary": "Three statements inside Genesis 36 and 1 Chronicles can't all be true of the same person: Anah is Zibeon's daughter (Gen 36:2, 14), Anah is Seir's son and Zibeon's brother (Gen 36:20; 1 Chr 1:38), and Anah is Zibeon's son (Gen 36:24; 1 Chr 1:40). The Edomite genealogy preserves three mutually exclusive identities for Anah.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders resolve Anah's shifting identity textually, following the Samaritan, Septuagint, and Syriac that read \"son\" for the Masoretic \"daughter\" in Genesis 36:2, 14.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells presses the plain Masoretic text, where Anah is at once Zibeon's daughter, Zibeon's son, and Seir's son — making Zibeon both Anah's father and brother.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible, \"Who was Anah?\" (skepticsannotatedbible.com/contra/anah.html)",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Who was Anah?\" (2013)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Genesis 36:2",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats the Anah identity contradiction directly, resolving the son/daughter conflict via the Samaritan, Septuagint, and Syriac reading of 'son' (Haley's specific coverage of this pair unconfirmed; row-surfaced harmonizing commentator keyed to the passage per spec)."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page (gotquestions.org/carm.org/defendinginerrancy.com) squarely treats the Anah son/daughter/brother identity contradiction; the gotquestions Anah slug 404s and the nearest defendinginerrancy page (Genesis 26:34) covers Esau's wife count, not Anah's identity. Link omitted rather than guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "85#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Genesis 36:2",
+      "full_note_ref": "CLARKE/1/36/2",
+      "excerpt_text": "But this same Anah is said to be the son of Zibeon, Gen 36:24, though in this and Gen 36:14 he is said to be the daughter of Zibeon. But the Samaritan, the Septuagint, (and the Syriac, in Gen 36:2), read son instead of daughter, which Houbigant and Kennicott contend to be the true reading.",
+      "on_tension_rationale": "Directly states the son-vs-daughter-of-Zibeon conflict across Gen 36:2/14/24 and offers the textual-variant harmonization (Sam/LXX/Syriac 'son'). Two adjacent verbatim sentences, both ending on real source periods. Strongest single reconcile; parity-capped to 1 against the discrepancy pole's lone named-skeptic count.",
+      "source_note_text": "His wives - It appears that Esau's wives went by very different names. Aholibamah is named Judith, Gen 26:34; Adah is called Bashemath in the same place; and she who is here called Bashemath is called Mahalath, Gen 28:9. These are variations which cannot be easily accounted for; and they are not of sufficient importance to engross much time. It is well known that the same persons in Scripture are often called by different names.\nAnah the daughter of Zibeon - But this same Anah is said to be the son of Zibeon, Gen 36:24, though in this and Gen 36:14 he is said to be the daughter of Zibeon. But the Samaritan, the Septuagint, (and the Syriac, in Gen 36:2), read son instead of daughter, which Houbigant and Kennicott contend to be the true reading. Others say that daughter should be referred to Aholibamah, who was the daughter of Anah, and granddaughter of Zibeon. I should rather prefer the reading of the Samaritan, Septuagint, and Syriac, and read, both here and in Gen 36:14, \"Aholibamah, the daughter of Anah the son of Zibeon,\" and then the whole will agree with Gen 36:24."
+    }
+  ]
+}

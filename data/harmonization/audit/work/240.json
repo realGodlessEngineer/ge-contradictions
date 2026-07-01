@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 240,
+  "question": "Who were the sons of David born in Hebron?",
+  "summary": "2 Samuel 3:2-5 lists David's six sons born in Hebron as Amnon, Chileab, Absalom, Adonijah, Shephatiah, and Ithream. 1 Chronicles 3:1-4 lists them as Amnon, Daniel, Absalom, Adonijah, Shephatiah, and Ithream. The lists agree on five of six, but the second son's name differs.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "The standard harmonization treats Chileab and Daniel as two names of one son, so the lists name the same person twice.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Hans Wilhelm Hertzberg notes that in Chronicles \"the name Daniel surprisingly takes the place of Chileab,\" with the old versions adding still further forms, treating the difference as a textual deviation rather than a settled second name.",
+    "skeptic": {
+      "name": "Hans Wilhelm Hertzberg",
+      "work": "I & II Samuel: A Commentary (Old Testament Library)",
+      "year": "1964",
+      "attribution": "Hans Wilhelm Hertzberg, I & II Samuel: A Commentary, Old Testament Library (Philadelphia: Westminster, 1964)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, The Holy Bible ... with a Commentary and Critical Notes, on 1 Chronicles 3:1 (1832)",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, arguing the second son \"probably had two names\" (Chileab in 2 Sam 3:3, Daniel in 1 Chron 3:1) and citing the Targum and Jarchi for the harmonizing tradition."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page on an allowlisted domain could be verified for this specific Chileab/Daniel case; link omitted rather than guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "240#0",
+      "pole": "reconcile",
+      "source_code": "KD",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "verse_ref": "2 Samuel 3:2",
+      "full_note_ref": "KD/10/3/2",
+      "excerpt_text": "The latter is also called Daniel in Ch1 3:1, and therefore had probably two names.",
+      "on_tension_rationale": "Directly states the harmonizing inference for the Chileab/Daniel difference: one son with two names. Strongest single reconcile sentence; parity-capped to 1 on this discrepancy_first row.",
+      "source_note_text": "Growth of the House of David. - Proof of the advance of the house of David is furnished by the multiplication of his family at Hebron. The account of the sons who were born to David at Hebron does not break the thread, as Clericus, Thenius, and others suppose, but is very appropriately introduced here, as a practical proof of the strengthening of the house of David, in harmony with the custom of beginning the history of the reign of every king with certain notices concerning his family (vid., Sa2 5:13.; Kg1 3:1; Kg1 14:21; Kg1 15:2, Kg1 15:9, etc.). We have a similar list of the sons of David in Ch1 3:1-4. The first two sons were born to him from the two wives whom he had brought with him to Hebron (Sa1 25:42-43). The Chethibh וילדו is probably only a copyist's error for ויּוּלדוּ, which is the reading in many Codices. From Ahinoam - the first-born, Amnon (called Aminon in Sa2 13:20); from Abigail - the second, Chileab. The latter is also called Daniel in Ch1 3:1, and therefore had probably two names. The lamed before Ahinoam and the following names serves as a periphrasis for the genitive, like the German von, in consequence of the word son being omitted (vid., Ewald, 292, a.). The other four were by wives whom he had married in Hebron: Absalom by Maachah, the daughter of Talmai king of Geshur, a small kingdom in the north-east of Bashan (see at Deu 3:14); Adonijah by Haggith; Shephatiah by Abital; and Ithream by Eglah. The origin of the last three wives is unknown. The clause appended to Eglah's name, viz., \"David's wife,\" merely serves as a fitting conclusion to the whole list (Bertheau on Ch1 3:3), and is not added to show that Eglah was David's principal wife, which would necessitate the conclusion drawn by the Rabbins, that Michal was the wife intended."
+    }
+  ]
+}

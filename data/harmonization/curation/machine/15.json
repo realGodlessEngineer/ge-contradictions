@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 15,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders deny any clash over duration: the Hebrew yom in Genesis 2:4 is the idiomatic \"when,\" a summary covering the whole six-day week, not a rival one-day creation.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Source critics, classically Julius Wellhausen, argue Genesis 2:4 belongs to a separate (J) account whose single-\"day\" framing was never meant to be squared with the six-day schema of the Priestly account in Genesis 1.",
+      "skeptic": {
+        "name": "Julius Wellhausen",
+        "work": "Prolegomena to the History of Israel",
+        "year": "1885",
+        "attribution": "Julius Wellhausen (d. 1918), Prolegomena to the History of Israel (Eng. trans. 1885; German 1883)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Genesis 1:5",
+      "excerpt_text": "The Hebrew yom can refer to daylight (1:5a), to a 24-hour period (1:5b), or to an unspecified time period (2:4b, “When,” literally in the day; cp. Exod 20:8-11).",
+      "full_note_ref": "TYN/1/1/5",
+      "on_tension_rationale": "Directly distinguishes the senses of the very word at issue, stating that the 'day' of 2:4b is an unspecified time period ('When'), not the same as a 24-hour creation day — the precise hinge of the contradiction.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Genesis 2:4",
+      "excerpt_text": "meaning not any particular day, not the first day, in which the heavens and the earth were created; but referring to the whole time of the six days, in which everything in them, and relating to them, were made.",
+      "full_note_ref": "GILL/1/2/4",
+      "on_tension_rationale": "Reads 'in the day' of Gen 2:4 as a summary of the whole six-day week rather than a single day, explicitly harmonizing the one-'day' wording with the six-day account.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Genesis 2:4",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill's note on Gen 2:4 treats this passage directly, reading 'in the day' as the whole six-day creation period rather than a single day (Haley's specific coverage of this verse could not be confirmed, so a harmonizing commentator already on the row is used)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/genesis-days.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Does Genesis chapter 1 mean literal 24-hour days?",
+        "note": "Live apologetic treatment of the meaning of yom, including Genesis 2:4's use of 'day' for an unspecified time period."
+      }
+    }
+  }
+}

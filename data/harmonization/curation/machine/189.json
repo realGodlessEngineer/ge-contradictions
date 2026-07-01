@@ -1,0 +1,60 @@
+{
+  "contradiction_id": 189,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Matthew as an abbreviated account: Matthew compresses the scene so the centurion 'approaches' directly, while Luke preserves the elders and friends as intermediaries.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The Skeptic's Annotated Bible presses the wording head-on: Matthew has the centurion come and speak in person, whereas Luke says he sent others and never came himself.",
+      "skeptic": {
+        "name": "Skeptic's Annotated Bible (Steve Wells)",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (1999– )"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 189,
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "verse_ref": "Luke 7:3",
+      "excerpt_text": "With his tendency to abbreviate accounts, Matthew has the centurion approaching Jesus (Matt 8:5-13). Luke tells the full story in which Jewish elders, and later the centurion’s friends, act as intermediaries.",
+      "full_note_ref": "TYN/42/7/3",
+      "license_code": "PD",
+      "on_tension_rationale": "Resolves the tension by compositional abbreviation: Matthew compresses the account so the centurion 'approaches' directly, while Luke preserves the intermediaries. Squarely answers the wording difference without the weaker 'he probably came at last' move.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats the centurion accounts under the harmonizing maxim that what one does through agents is credited to the principal, the same agency reasoning the commentators apply here."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Matthew_8.5-13_(cf._Luke_7.2-10).php",
+        "domain": "defendinginerrancy.com",
+        "title": "Matthew 8:5–13 (cf. Luke 7:2–10)—Is there a mistake in the accounts concerning Jesus and the centurion?",
+        "note": "Live apologetic treatment arguing a sent representative spoke as the centurion himself, so Matthew's direct attribution is compatible with Luke's intermediaries."
+      }
+    }
+  }
+}

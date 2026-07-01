@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 4,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders distinguish the day-one \"light\" from the day-four light-bearers: an elementary or already-present illumination, only later concentrated in or unveiled as the sun and moon.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Thomas Paine pressed the plainest objection: since the sun is what makes day, night, evening and morning, an account that has three days with mornings and evenings before the sun is created betrays its authors' ignorance.",
+      "skeptic": {
+        "name": "Thomas Paine",
+        "work": "The Age of Reason",
+        "year": "1794-1807",
+        "attribution": "Thomas Paine (d. 1809), The Age of Reason (1794-1807)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 1:2",
+      "excerpt_text": "The first thing created by the divine Word was \"light,\" the elementary light, or light-material, in distinction from the \"lights,\" or light-bearers, bodies of light, as the sun, moon, and stars, created on the fourth day, are called.",
+      "full_note_ref": "KD/1/1/2",
+      "on_tension_rationale": "Directly resolves the day-1-vs-day-4 tension by distinguishing elementary light (day 1) from the light-bearers (day 4); the strongest single harmonization on the row.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Genesis 1:3",
+      "excerpt_text": "Whether the sun was created at the same time with, or long before, the earth, the dense accumulation of fogs and vapors which enveloped the chaos had covered the globe with a settled gloom. But by the command of God, light was rendered visible; the thick murky clouds were dispersed, broken, or rarefied, and light diffused over the expanse of waters.",
+      "full_note_ref": "JFB/1/1/3",
+      "on_tension_rationale": "Harmonizes by allowing the sun to already exist but be obscured, so day-1 light is the sun's light rendered visible, not light without a source.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Genesis 1:3",
+      "excerpt_text": "The light was made before either Sun or Moon was created: therefore we must not attribute that to the creatures that are God's instruments, which only appertaineth to God.",
+      "full_note_ref": "GNV/1/1/3",
+      "on_tension_rationale": "Treats light-before-luminaries as deliberate theology rather than error: light is God's, the sun and moon only His instruments.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Genesis 1:3-4",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this passage directly, distinguishing the day-one elementary light from the day-four light-bearers and arguing the days remain ordinary days."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/light-first-sun-fourth.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: How could there be light on the first day of Creation if the sun was not created until the fourth day?",
+        "note": "live apologetic treatment of this exact contradiction"
+      }
+    }
+  }
+}

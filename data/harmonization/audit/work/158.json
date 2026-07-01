@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 158,
+  "question": "Who argued in favor of occupying Canaan during the Exodus?",
+  "summary": "Numbers 13:30 says only Caleb stilled the people and argued for going up to take the land. Numbers 14:6-9, just one chapter later, says both Joshua and Caleb tore their clothes and argued for occupying the good land YHWH had promised.",
+  "consensus": "genuinely_disputed",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Commentators harmonize by sequence and emphasis: Caleb spoke first and most forcefully in 13:30, while Joshua stood with him and joined the open appeal in 14:6.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steven DiMattei argues the two scenes are a source-critical doublet — the Yahwist's Judah-centered version features Caleb alone, while the Priestly version adds Joshua of Ephraim for a unified Israel, so the single-vs-double speaker is a seam, not a sequence.",
+    "skeptic": {
+      "name": "Steven DiMattei",
+      "work": "Contradictions in the Bible, #238 (\"In the face of there being giants in the land, who encourages the people to have faith in Yahweh: Caleb alone OR Caleb and Joshua?\")",
+      "year": "2013",
+      "attribution": "Steven DiMattei, Contradictions in the Bible #238 (contradictionsinthebible.com, 2013)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Numbers 13:30",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this exact pair: Caleb alone in 13:30 is harmonized with Joshua at his side in 14:6 on the ground that Caleb was the first to speak."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page engages this specific tension. GotQuestions' Joshua-and-Caleb.html quotes both Numbers 13:30 and 14:6-9 but does not address why Caleb appears alone in 13:30; no carm.org / defendinginerrancy.com article treats the pair. Link omitted rather than guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "158#0",
+      "pole": "reconcile",
+      "source_code": "KD",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "verse_ref": "Numbers 13:30",
+      "full_note_ref": "KD/4/13/30",
+      "excerpt_text": "The fact that Caleb only is mentioned, though, according to Num 14:6, Joshua also stood by his side, may be explained on the simple ground, that at first Caleb was the only one to speak and maintain the possibility of conquering Canaan.",
+      "on_tension_rationale": "Names both 13:30 and 14:6 and harmonizes the single-vs-double speaker directly: Caleb spoke first; Joshua stood with him. The strongest single reconcile on the row.",
+      "source_note_text": "As these tidings respecting the towns and inhabitants of Canaan were of a character to excite the people, Caleb calmed them before Moses by saying, \"We will go up and take it; for we shall overcome it.\" The fact that Caleb only is mentioned, though, according to Num 14:6, Joshua also stood by his side, may be explained on the simple ground, that at first Caleb was the only one to speak and maintain the possibility of conquering Canaan."
+    }
+  ]
+}

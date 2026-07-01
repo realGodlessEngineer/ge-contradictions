@@ -1,0 +1,49 @@
+{
+  "contradiction_id": 6,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The strongest defense argues the Hebrew of Genesis 1 never actually names a material for the birds, so the apparent water-versus-ground conflict rests on a mistranslation.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Source critic Richard Elliott Friedman reads Genesis 2 (J) as a separate account in which God hand-forms the animals from the ground, a different picture from Genesis 1 (P), where they are brought forth from the waters.",
+      "skeptic": {
+        "name": "Richard Elliott Friedman",
+        "work": "Who Wrote the Bible?",
+        "year": "1987",
+        "attribution": "Richard Elliott Friedman, Who Wrote the Bible? (1987)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 1:20",
+      "excerpt_text": "Earlier translators, on the contrary, have rendered the latter as a relative clause, after the πετεινὰ πετόμενα of the lxx, \"and with birds that fly;\" thus making the birds to spring out of the water, in opposition to Gen 2:19. Even with regard to the element out of which the water animals were created the text is silent …",
+      "full_note_ref": "KD/1/1/20",
+      "on_tension_rationale": "Directly engages the water-vs-ground tension by name (\"in opposition to Gen 2:19\") and harmonizes it: the Hebrew text is silent on the element birds/water-animals were made from, so the conflict dissolves as a translation artifact.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Genesis 1:20",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly, arguing the Hebrew of Gen 1:20 is silent on the element animals were formed from and that the water-origin rendering is an erroneous translation that needlessly conflicts with Gen 2:19."
+      },
+      "link": {
+        "url": null
+      }
+    }
+  }
+}

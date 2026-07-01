@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 281,
+  "question": "Has anyone ever ascended into heaven?",
+  "summary": "John 3:13 has Jesus say flatly that no human has ascended into heaven except the Son of Man. Genesis 5:24 and Hebrews 11:5 say Enoch was taken by God — and 2 Kings 2:11 has Elijah taken up in a whirlwind. The Johannine claim contradicts the texts the Johannine author would have known.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders read \"ascended\" in John 3:13 as ascending to fetch down divine knowledge, not bodily translation, so Enoch and Elijah pose no exception.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells of the Skeptic's Annotated Bible — the upstream source for this row — presses the plain wording: John 3:13 says no one but the Son of Man has ascended, yet Genesis 5:24, Hebrews 11:5, and 2 Kings 2:11 already had Enoch and Elijah taken up.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "Skeptic's Annotated Bible, \"Has anyone ever ascended into heaven?\" (skepticsannotatedbible.com/contra/enoch.html)",
+      "year": "2013",
+      "attribution": "Steve Wells, Skeptic's Annotated Bible, \"Has anyone ever ascended into heaven?\""
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on John 3:13",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, conceding Enoch and Elijah were taken up but reading John 3:13's \"ascended\" as going up to bring down the knowledge of heavenly things; Haley's coverage of this specific pair could not be confirmed, so the row-surfaced harmonizing commentator is used per spec."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/John_3.13.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: John 3:13 — How could Christ say no one has ascended to heaven when Elijah had?",
+        "note": "live apologetic treatment; cites John 3:13 against Enoch and Elijah and harmonizes via the authoritative-testimony / heavenly-knowledge sense"
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "281#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "John 3:13",
+      "full_note_ref": "GILL/43/3/12",
+      "excerpt_text": "Though Enoch and Elias had, yet not by their own power, nor in the sense our Lord designs; whose meaning is, that no man had, or could go up to heaven, to bring from thence the knowledge of divine and heavenly things …",
+      "on_tension_rationale": "The single note that explicitly names Enoch and Elias, concedes they were taken up, and resolves the tension by restricting John 3:13's \"ascended\" to ascending-to-fetch-down-divine-knowledge — the exact harmonization of this contradiction. Truncated at a source semicolon, so ends with the elision marker.",
+      "source_note_text": "And no man hath ascended into heaven,.... Though Enoch and Elias had, yet not by their own power, nor in the sense our Lord designs; whose meaning is, that no man had, or could go up to heaven, to bring from thence the knowledge of divine and heavenly things; in which sense the phrase is used in Deu 30:12, and which may be illustrated by Joh 1:18; wherefore inasmuch as Nicodemus had acknowledged Christ to he a teacher come from God, our Lord, would have him know, that he was the only teacher of heavenly things, as being the only person that had been in heaven, and in the bosom of the Father; and therefore, if he, and the rest of the Jews, did not receive instructions from him, they must for ever remain ignorant; for there never had been, nor was, nor could be, any mere man that could go up to heaven, and learn the mysteries of God, and of the kingdom of heaven, and return and instruct men in them:\nbut he that came down from heaven; meaning himself, who is the Lord from heaven, and came from thence to do the will of God by preaching the Gospel, working miracles, obeying the law, and suffering death in the room of his people, and thereby obtaining eternal redemption for them. Not that he brought down from heaven with him, either the whole of his human nature, or a part of it; either an human soul, or an human body; nor did he descend locally, by change of place, he being God omnipresent, infinite and immense, but by assumption of the human nature into union with his divine person:\neven the son of man which is in heaven; at the same time he was then on earth: not that he was in heaven in his human nature, and as he was the son of man; but in his divine nature, as he was the Son of God; see Joh 1:18; though this is predicated of his person, as denominated from the human nature, which was proper to him only in his divine nature; for such is omnipresence, or to be in heaven and earth at the same time: just as on the other hand God is said to purchase the church with his blood, and the Lord of glory is said to be crucified, Act 20:28, where those things are spoken of Christ, as denominated from his divine nature, which were proper only to his human nature; and is what divines call a communication of idioms or properties; and which will serve as a key to open all such passages of Scripture: and now as a proof of our Lord's having been in heaven, and of his being a teacher come from God, and such an one as never was, or can be, he opens and explains a type respecting himself, in the following verse."
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 229,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read 19:24 not as a rival origin but as a renewal of a proverb already coined in chapter 10, so only one saying with one source is in view.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Julius Wellhausen, the founder of the source-critical analysis of Samuel, argued that the two prophesying scenes are independent parallel traditions, each supplying its own explanation of the saying — a doublet rather than a single proverb re-applied.",
+      "skeptic": {
+        "name": "Julius Wellhausen",
+        "work": "Der Text der Bücher Samuelis",
+        "year": "1871",
+        "attribution": "Julius Wellhausen (d. 1918), Der Text der Bücher Samuelis (1871)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "1 Samuel 19:24",
+      "excerpt_text": "This new occurrence in Saul's life occasioned a renewal of the proverb: \"Is Saul also among the prophets?\" The words \"wherefore they say\" do not imply that the proverb was first used at this time, but only that it received a new exemplification and basis in the new event in Saul's experience. The origin of it has been already mentioned in Sa1 10:12, and the meaning of it was there explained.",
+      "full_note_ref": "KD/9/19/18",
+      "on_tension_rationale": "Directly answers the doublet charge: explicitly denies that 19:24 originates the proverb, asserting one origin (10:12) and treating 19:24 as a renewal — the single strongest harmonization of this exact tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament: The Books of Samuel (1861-75), on 1 Samuel 19:18-24",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Keil treats this passage directly, arguing the proverb originated at 10:12 and was merely renewed at 19:24, against the doublet reading."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Saul-also-among-the-prophets.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does it mean that Saul is also among the prophets?",
+        "note": "live apologetic treatment addressing both the chapter 10 and chapter 19 occurrences of the proverb"
+      }
+    }
+  }
+}

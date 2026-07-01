@@ -1,0 +1,65 @@
+{
+  "contradiction_id": 198,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the two lists as parallel records that drifted apart in transmission — the Chronicles list is an independent, partly corrupted copy whose variant names (and the same city placed under a different tribe) reflect renaming and copyist error, not a real disagreement about where Aijalon lay.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells' Skeptic's Annotated Bible presses the pair head-on: Joshua 21 gives Aijalon out of the tribe of Dan while 1 Chronicles 6 gives the same Levitical city out of Ephraim, so the two passages name different tribes for it.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"What tribe was Aijalon from?\" (skepticsannotatedbible.com/contra/aijalon.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online), \"What tribe was Aijalon from?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Joshua 21:9",
+      "excerpt_text": "There is a similar list in 1 Chron 6:54-81, though in some respects differently arranged, and with many variations in the names, and corruptions of different kinds in the text, which show that the author of the Chronicles has inserted an ancient document that was altogether independent of the book before us.",
+      "full_note_ref": "KD/6/21/9",
+      "on_tension_rationale": "The strongest, most direct harmonization on this row: K&D's lead note treats the Chronicles Levitical-city list as an independent document carrying name variations and textual corruptions — exactly the mechanism that puts Aijalon under Dan in Joshua but Ephraim in Chronicles. The block also explicitly lists Aijalon under Dan ('From Dan they received Elthekeh and Gibbethon ... Ajalon'). Block-anchored note; the on-tension sentence is the framing parenthetical.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Chronicles 6:67",
+      "excerpt_text": "The names of the cities given here are considerably different from those applied to them (Jos 21:13-19). In the lapse of centuries, and from the revolutions of society, changes might have been expected to take place in the form or dialectic pronunciation of the names of those cities; and this will sufficiently account for the variations that are found in the lists as enumerated here and in an earlier book.",
+      "full_note_ref": "JFB/13/6/67",
+      "on_tension_rationale": "Directly on the 1 Chronicles 6 pole: JFB concedes the Chronicles names are 'considerably different' from Joshua 21 and accounts for the divergence by centuries of change and dialect — the harmonization that the differing tribal attribution is a transmission/renaming artifact, not a factual conflict.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "1 Chronicles 6:54",
+      "excerpt_text": "We know it is common for cities to have several names … and time changes names.",
+      "full_note_ref": "MHC/13/6/54",
+      "on_tension_rationale": "States the harmonizing principle in its barest form on the Chronicles pole: cities bearing several names and names changing over time is offered as why the two Levitical-city lists do not match. Distinct third voice. Ellipsis join trims the worked example list ('Sarum and Salisbury ... Almon (Jos 21:18);') while preserving the author's sense.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Joshua 21:9 (with 1 Chronicles 6:54-81)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "The row-surfaced harmonizer keyed directly to this passage: K&D treat the Chronicles list as 'an ancient document that was altogether independent,' itemize its name variations and 'corruptions of different kinds in the text,' and list Aijalon among the Dan towns — the standard harmonization of the Dan-vs-Ephraim attribution as a transmission/renaming difference (Haley's specific coverage of this exact pair unconfirmed)."
+      },
+      "link": null
+    }
+  }
+}

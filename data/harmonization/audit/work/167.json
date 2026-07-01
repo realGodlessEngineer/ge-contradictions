@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 167,
+  "question": "What is the correct recipe for the new moon sacrifice?",
+  "summary": "Numbers 28:11-15 prescribes the new moon offering as two young bulls, one ram, seven male lambs, and a goat for sin offering. Ezekiel 46:6 prescribes one bull, one ram, and six lambs. Two different sacrificial recipes for the same monthly festival.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders concede the numbers differ but read Ezekiel's temple vision as a distinct, future economy whose offerings were never meant to match the Mosaic recipe.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Julius Wellhausen pressed exactly these Ezekiel-vs-Pentateuch sacrificial divergences as evidence that the two cannot be a single law, arguing the Priestly festival legislation post-dates Ezekiel rather than being presupposed by him.",
+    "skeptic": {
+      "name": "Julius Wellhausen",
+      "work": "Prolegomena to the History of Israel",
+      "year": "1885",
+      "attribution": "Julius Wellhausen (d. 1918), Prolegomena to the History of Israel (Eng. trans. 1885; German 1878)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Ezekiel 46:5",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, granting the offerings differ from Numbers 28 and reconciling the difference as a deliberate feature of a distinct future economy (citing Kimchi's 'new thing to be done in future time')."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page treats this specific Ezekiel-vs-Numbers offering-recipe discrepancy; defendinginerrancy's Ezekiel 40-48 page addresses only the Ezekiel-vs-NT abolition-of-sacrifice question, so it is omitted rather than overstated."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "167#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Ezekiel 46:5",
+      "full_note_ref": "GILL/26/46/5",
+      "excerpt_text": "This is also different from the law of Moses, which required two young bullocks and a ram, and seven lambs, Num 28:11, whereas here only one bullock: and six lambs, and a ram; they shall be without blemish; and here Kimchi acknowledges again that this is a new thing to be done in future time.",
+      "on_tension_rationale": "Names the exact recipe difference (2 bulls/1 ram/7 lambs vs 1 bull/1 ram/6 lambs) and harmonizes it as a deliberate 'new thing... in future time' rather than the same law — the strongest single on-tension reconcile.",
+      "source_note_text": "And in the day of the new moon it shall be a young bullock without blemish,.... This is also different from the law of Moses, which required two young bullocks and a ram, and seven lambs, Num 28:11, whereas here only one bullock:\nand six lambs, and a ram; they shall be without blemish; and here Kimchi acknowledges again that this is a new thing to be done in future time. Some have observed, that the seven lambs under the law showed that perfection might be hoped for and expected; but, there being but six now, that this is not yet attained, nor will be till the saints get to heaven; though perfection is come by the priesthood of Christ, whose sacrifice is a perfect and complete one, and by which his people are perfected, and they are complete in him, yet they have no perfection in themselves."
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "contradiction_id": 524,
+  "excerpts": [
+    {
+      "excerpt_uid": "524#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "pass",
+      "action": null,
+      "reason": "Verbatim in source_note_text (no ellipsis; only permitted quote normalization). Gill explicitly addresses the John 14:26 (Father-sends) vs John 15:26 (Son-sends) agent tension and harmonizes it — 'The mission of the Spirit is here ascribed to the Father, but not to the exclusion of the Son, who is also said to send him, Joh 15:26.' Squarely on this contradiction's tension; reconcile label correct."
+    }
+  ],
+  "guardrails": {
+    "parity": "ok",
+    "connectives": "ok",
+    "named_skeptic": "ok",
+    "discrepancy_integrity": "ok",
+    "deeper_learning": "flag",
+    "reason": "named_skeptic OK: 'Who sent the Holy Ghost?' is a genuine Skeptic's Annotated Bible (Steve Wells) contradiction, and SAB lists exactly this verse set — John 15:26 (Jesus sends) against John 14:16/14:26 (Father sends). The discrepancy connective fairly represents Wells' actual position (he presses it as a real agent contradiction). parity OK: one reconcile excerpt vs one named-skeptic connective; reconcile not out-quoting the lean pole on a reconcile_first row. connectives OK: reconcile connective ('complementary acts within a single Trinitarian economy') accurately introduces the Gill excerpt and does not overclaim. discrepancy_integrity OK: discrepancy pole is named_skeptic. DEEPER_LEARNING FLAG: defense.pd_work (Haley 1874) is a real PD work and acceptable, BUT defense.link URL https://www.gotquestions.org/who-sends-the-Holy-Spirit.html returns HTTP 404 — it is a guessed/non-existent page (the generator's 'verify live before shipping' note was warranted). A real on-topic gotquestions page on this question exists (e.g. eternal-procession.html / Spirit-of-truth.html), but the cited URL is dead. Flag: replace or drop the link before shipping."
+  }
+}

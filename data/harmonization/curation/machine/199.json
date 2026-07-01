@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 199,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read \"son of Zerah\" as a telescoped genealogy — ben naming a remote ancestor while Carmi remains Achan's immediate father.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is catalogued by Steve Wells in the Skeptics Annotated Bible, who asks plainly whether Achan's father was Carmi (Josh 7:1) or Zerah (Josh 7:24; 22:20).",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); contradiction \"Who was Achan's father?\" (skepticsannotatedbible.com/contra/achan.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Joshua 22:19",
+      "excerpt_text": "Did not Achan the son of Zerah,.... One that descended from Zerah the son of Judah …",
+      "full_note_ref": "GILL/6/22/19",
+      "on_tension_rationale": "Directly glosses the bare \"son of Zerah\" of 22:20 as \"one that descended from Zerah,\" i.e. a remote ancestor, dissolving the apparent father conflict with 7:1.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Joshua 7:1",
+      "excerpt_text": "Judah had two sons by Tamar: Pharez and Zarah. Zarah was father of Zabdi, and Zabdi of Carmi, the father of Achan.",
+      "full_note_ref": "CLARKE/6/7/1",
+      "on_tension_rationale": "Lays out the full line — Zarah (Zerah) the ancestor, Carmi the immediate father — showing 7:1's chain and 7:24/22:20's shorthand describe the same man.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Joshua 7:1",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke spells out the genealogy (Zarah > Zabdi > Carmi > Achan) and the span between Achan and Zerah, treating this passage's father/ancestor question directly."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page treating this specific contradiction could be confirmed (GotQuestions' Achan/Zerah pages do not address the father-vs-ancestor discrepancy); link omitted rather than guessed."
+      }
+    }
+  }
+}

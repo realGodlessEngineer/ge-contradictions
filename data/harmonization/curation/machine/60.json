@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 60,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the absolute-ownership texts and Satan's offer as compatible: God owns the earth outright, while Satan's dominion is a usurped, permitted, deputed sway — and the gift to humankind is stewardship, not transfer of title.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Thomas Paine treats the temptation account as an absurd legend that casts the devil as proprietor of the world's kingdoms — a being who has them “to give” — which sits awkwardly with the texts that make the earth God's alone.",
+      "skeptic": {
+        "name": "Thomas Paine",
+        "work": "The Age of Reason",
+        "year": "1794",
+        "attribution": "Thomas Paine (d. 1809), The Age of Reason, Part I (1794)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Luke 4:6",
+      "excerpt_text": "That is surely so, for he is prince of the world yet not absolutely, and is the sovereign over it, but by sufferance, and way of entreaty, and therefore he saith not true, that he can give it to whom he will.",
+      "full_note_ref": "GNV/42/4/6",
+      "on_tension_rationale": "Directly resolves the Satan-offer prong: Satan's dominion is real but 'not absolutely' and held 'by sufferance,' and his claim to give the kingdoms is false — preserving God's absolute ownership.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Matthew 4:9",
+      "excerpt_text": "In this sense he speaks what is not devoid of truth, when he says, “All this is delivered unto me.” But how does he deliver this “to whomsoever he will?” As employing whomsoever he pleases of his willing subjects in keeping men under his power. In this case his offer to our Lord was that of a deputed supremacy commensurate with his own, though as his gift and for his ends.",
+      "full_note_ref": "JFB/40/4/9",
+      "on_tension_rationale": "The fullest harmonization: Satan's claim is partly true (he is 'prince/god of this world') but only as a permitted sway over willing subjects — a 'deputed supremacy,' not ownership that competes with God's.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Psalms 115:16",
+      "excerpt_text": "for though he has given it to them for their use, yet he has still a claim upon it, and can and does dispose of it, and order all things in it, according to his pleasure; and men, from the highest to the lowest, are accountable to him, being but stewards, and at most but deputies and viceroys, under him …",
+      "full_note_ref": "GILL/19/115/16",
+      "on_tension_rationale": "Resolves the Psalm 115:16 prong: the earth 'given to the children of men' is a grant for use/stewardship, with God retaining his claim and ownership — men are 'but stewards... deputies and viceroys, under him.'",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Matthew 4:9",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats this passage directly, reading Satan's 'All this is delivered unto me' as a real but merely permitted, deputed sway over willing subjects rather than ownership rivaling God's absolute possession of the earth."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Jesus-temptations.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What was the meaning and purpose of Jesus' temptations?",
+        "note": "Live apologetic treatment of the third temptation and Satan's claimed authority over the kingdoms of the world."
+      }
+    }
+  }
+}

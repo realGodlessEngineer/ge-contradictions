@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 243,
+  "question": "How many horsemen did David take?",
+  "summary": "2 Samuel 8:4 says David captured from Hadadezer a thousand chariots and seven hundred horsemen. 1 Chronicles 18:4 reports the identical event as a thousand chariots and seven thousand horsemen — a tenfold discrepancy in the cavalry count.",
+  "consensus": "probable_harmonization",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders concede the received numbers disagree but trace it to scribal transmission — a confounded Hebrew numeral or a dropped 'chariot' — not to a real conflict between the authors; others read 700 as officers/ranks within the 7,000.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The objection is pressed at face value by Steve Wells (Skeptic's Annotated Bible), who sets the two verses side by side and asks simply how many horsemen David took — seven hundred or seven thousand.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "Skeptic's Annotated Bible, \"How many horsemen did David take?\" (skepticsannotatedbible.com/contra/horsemen.html)",
+      "year": "2013",
+      "attribution": "Steve Wells, Skeptic's Annotated Bible (skepticsannotatedbible.com)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 1 Chronicles 18:4",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats this exact pair directly, attributing the 700/7000 difference to a transcriber confounding the Hebrew number-letters (citing Davidson's Hermeneutics). Anchored to a row-surfaced harmonizing commentator keyed to the passage; Haley's specific coverage of this pair could not be confirmed."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/2_Samuel_8.4.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: 2 Samuel 8:4 — Did David capture 1,700 horsemen or 7,000 as 1 Chronicles 18:4 says?",
+        "note": "Live, on-topic; cites both 2 Sam 8:4 and 1 Chr 18:4 and harmonizes via a copyist omitting 'chariot', concluding 1 Chronicles retains the correct 7,000."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "243#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "1 Chronicles 18:4",
+      "full_note_ref": "JFB/13/18/4",
+      "excerpt_text": "In Sa2 8:4 David is said to have taken seven hundred horsemen, whereas here it is said that he took seven thousand. This great discrepancy in the text of the two narratives seems to have originated with a transcriber in confounding the two Hebrew letters which indicate the numbers, and in neglecting to mark or obscure the points over one of them.",
+      "on_tension_rationale": "The single fullest reconcile note: names BOTH numbers (700 vs 7000), states the discrepancy openly, and gives the textual-corruption mechanism (confounded Hebrew number-letters). Two contiguous complete sentences ending on real source periods, no truncation marker.",
+      "source_note_text": "And David took from him a thousand chariots--(See on Sa2 8:3-14). In Sa2 8:4 David is said to have taken seven hundred horsemen, whereas here it is said that he took seven thousand. This great discrepancy in the text of the two narratives seems to have originated with a transcriber in confounding the two Hebrew letters which indicate the numbers, and in neglecting to mark or obscure the points over one of them. We have no means of ascertaining whether seven hundred or seven thousand be the more correct. Probably the former should be adopted [DAVIDSON'S HERMENUTICS].\nbut reserved of them an hundred chariots--probably to grace a triumphal procession on his return to Jerusalem, and after using them in that way, destroy them like the rest."
+    }
+  ]
+}

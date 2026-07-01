@@ -1,0 +1,896 @@
+{
+  "contradiction_id": 424,
+  "question": "What were the names of the apostles?",
+  "summary": "The New Testament gives four lists of the Twelve (Matt 10:2-4; Mark 3:14-19; Luke 6:13-16; Acts 1:13) and they don't match. Matthew and Mark name \"Thaddaeus\" (or in some Matthean manuscripts \"Lebbaeus whose surname was Thaddaeus\"); Luke and Acts replace this figure with \"Judas the brother of James\"; and Simon is called \"the Cananaean\" in Matthew/Mark and \"the Zealot\" in Luke/Acts. The lists overlap on nine names but disagree on the tenth slot, which is filled by two different names.",
+  "consensus": "genuinely_disputed",
+  "consensus_id": 3,
+  "category": "Jesus & the Gospels",
+  "contradiction_type": "compositional",
+  "testament_scope": "NT_internal",
+  "books_in_tension": "Matthew, Mark, Luke, John, Acts",
+  "refs_raw": [
+    "Matthew 10:2-4",
+    "Mark 3:14-19",
+    "Luke 6:13-16",
+    "Acts 1:13",
+    "John 6:71"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Matthew 10:2-4",
+      "book": "Matthew",
+      "bolls": 40,
+      "ranges": [
+        [
+          10,
+          2,
+          4
+        ]
+      ]
+    },
+    {
+      "raw": "Mark 3:14-19",
+      "book": "Mark",
+      "bolls": 41,
+      "ranges": [
+        [
+          3,
+          14,
+          19
+        ]
+      ]
+    },
+    {
+      "raw": "Luke 6:13-16",
+      "book": "Luke",
+      "bolls": 42,
+      "ranges": [
+        [
+          6,
+          13,
+          16
+        ]
+      ]
+    },
+    {
+      "raw": "Acts 1:13",
+      "book": "Acts",
+      "bolls": 44,
+      "ranges": [
+        [
+          1,
+          13,
+          13
+        ]
+      ]
+    },
+    {
+      "raw": "John 6:71",
+      "book": "John",
+      "bolls": 43,
+      "ranges": [
+        [
+          6,
+          71,
+          71
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 84,
+  "notes_raw_count": 112,
+  "notes_dropped": 28,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "Matthew 10:2",
+      "note_ref": "GILL/40/10/2",
+      "cites": [
+        "Matthew 10:2-4"
+      ],
+      "text": "Now the names of the twelve apostles are these,.... This is the first time these disciples are called \"apostles\", they were learners before; now being instructed, they are sent forth to preach publicly, and therefore are called apostles, or messengers, persons that were sent: so the elders of the priesthood are called , \"the apostles\", or messengers \"of the sanhedrim\" (n), to whom the high priest were delivered, before the day of atonement. So six months in the year, \"apostles\", or messengers, were sent by the (o) sanhedrim, throughout all the land of Israel, and to the captive Jews in other parts, to give notice of the new moon; in allusion to which, the disciples might be so called. It was proper to give the names of them, for the truth of the history, and confirmation of it; for the sake of the persons themselves, and the honour done them; and for the exclusion and detection of false apostles.\nThe first, Simon, who is called Peter; his pure Hebrew name was Simeon, as he is called, Act 15:14 but in the then Jerusalem dialect, and in Rabbinical language, this name is frequently read and pronounced \"Simon\", as here: we often read of R. Simon, and of R. Juda bar Simon, in both Talmuds (p). This apostle is also called Peter, to distinguish him from Simon the Canaanite, and which signifies a stone, or rock, in allusion to the object of his faith, and the steadiness of it. He is said to be the \"first\"; not that he was the head of the rest of the apostles, or had any primacy, dominion, and authority over them; but because he was first called, and was the first that was to open the door of faith to the Gentiles: but chiefly he is said to be so for order's sake; for, some one in the account must be named first, and he as proper as any:\nand Andrew his brother; who was called at the same time with him, and therefore are put together. This name is also to be met with in the Talmudic writings; see Gill on Mat 4:18.\nJames the son of Zebedee, and John his brother; these two were called next and together, and therefore are placed in this order: the former is so called, to distinguish him from another James, the son of Alphaeus, after mentioned; and the latter is the beloved disciple; these were surnamed \"Boanerges\", that is, \"sons of thunder\".\n(n) Misn. Yoma, c. 1. sect. 5. (o) Misn. Roshhashana, c. 1. sect. 3. & Maimon. & Bartenora in ib. (p) T. Hieros. Shekalim, fol. 46. 4. Bab. Sabbath, fol. 55. 1. & Bava Kama, fol. 47. 2."
+    },
+    {
+      "src": "GILL",
+      "ref": "Matthew 10:3",
+      "note_ref": "GILL/40/10/3",
+      "cites": [
+        "Matthew 10:2-4"
+      ],
+      "text": "Philip and Bartholomew,.... The first of these was called next; his name is a Greek one, which his parents, though Jews, might take from the Greeks that dwelt among them, see Joh 12:20 mention is made of one R. Phelipi, and Phulipa, in the Jewish writings (q). The latter of these, Bartholomew, is conjectured, by Dr. Lightfoot, to be the same with Nathanael, he being called next in order after Philip; and that his name was Nathanael, , \"Bar Talmai\", or \"the son of Talmai\", or \"Ptolomy\": a name once common to the kings of Egypt: so Talmai, king of Geshur, is by the Septuagint, in Sa2 3:3 Sa2 13:37 called Tholmi, and in Ch1 3:2 Tholmai: hence it appears, that Bartholomew is no other than Bartholmi, or the son of Tholmi. We read of one R. Jonathan, , \"ben Abtolemus\", in the Talmud (r), whether the same name with this, may be considered.\nThomas, and Matthew the publican: by the other evangelists Matthew is mentioned first; but he being the writer of this Gospel, puts Thomas first, which is an instance of his modesty; and also calls himself the \"publican\", which the other do not: this he mentions, to magnify the grace of God in his vocation. The Jews (s) speak of \"Matthai\", or \"Matthew\", as a disciple of Jesus. Thomas was sometimes called Didymus; the one was his Hebrew, the other his Greek name, and both signify a \"twin\", as it is very likely he was: mention is made of R. Thoma, or Thomas bar Papias, in a Jewish writer (t). Next follow,\nJames the son of Alphaeus, and Lebbaeus, whose surname was Thaddaeus: the former of these is so called, to distinguish him from James, the son of Zebedee. This is the James, who was the brother of our Lord, Gal 1:19 and is called \"James the less\", Mar 15:40. Alphaeus his father, is the same with Cleopas, Luk 24:18 or Cleophas, Joh 19:25. The Hebrew name, which often occurs among the Jews (u), may be pronounced either Chlophi, or Alphi, or with the Greek termination Cleopas, or Alphaeus. The latter of this pair of apostles is the same person with Jude, the writer of the epistle, which bears that name, and was the brother of James, with whom he is coupled: he was called Lebbaeus, either from the town of Lebba, a sea coast town of Galilee, as Dr. Lightfoot thinks; or from the Hebrew word \"my heart\", as others, either for his prudence, or through the affections of his parents to him; as the Latins call one they love, \"meum corculum\", \"my little heart\"; or from \"a lion\", that being the motto of the tribe of Judah. His surname Thaddaeus, is thought by some to be a deflexion of Jude; or Judas, and as coming from the same root, which signifies \"to praise\", or \"give thanks\"; or from the Syriac word, \"a breast\", and may be so called for the same reason as he was Lebbaeus. Frequent mention is made of this name, \"Thaddai\", or \"Thaddaeus\", among the Talmudic (w) doctors. The Jews themselves speak (x) of one \"Thodah\", as a disciple of Jesus, by whom no doubt they mean this same disciple. Eusebius (y) mentions one Thaddaeus, as one of the seventy disciples, who was sent to Agbarus, king of Edessa, who was healed and converted by him. This Agbarus is reported to have wrote a letter to Jesus Christ, desiring him to come and cure him of his disease; to which Christ is said to return an answer, promising to send one of his disciples, who should do it; and that accordingly, after Christ's death, Thomas sent this Thaddaeus to him.\n(q) Massechet Sopherim, c. 21. sect. 7. Bereshit Rabba, sect. 71. fol. 63. 4. (r) T. Bab. Nidda, fol. 19. 1. (s) T. Bab. Sanhedrim, fol. 43. 1. (t) Juchasin, fol. 105. 2. (u) Echa Rabbati, fol. 58. 4. Midrash Kohelet, fol. 60. 4. Juchasin, fol. 92. 1. (w) T. Hieros. Celaim, fol. 27. 2. Sabbat, fol. 6. 1. Erubim, fol. 23. 3. Bab. Sabbat, fol. 123. 1. & Erubim, fol. 71. 2. Juchasin, fol. 81. 1. & 105. 2. & 108. 1. (x) T. Bab. Sanhedrim, fol. 43. l. (y) Eccl. Hist. l. 1. c. 12, 13."
+    },
+    {
+      "src": "GILL",
+      "ref": "Matthew 10:4",
+      "note_ref": "GILL/40/10/4",
+      "cites": [
+        "Matthew 10:2-4"
+      ],
+      "text": "Simon the Canaanite, and Judas Iscariot,.... This is the last couple, for they are all mentioned by pairs, because they were sent forth \"by two and two\", as the Evangelist Mark says, Mar 6:7. The former of these is called Simon the Canaanite, to distinguish him from Simon Peter, before mentioned; not that he was a Canaanite, that is, an inhabitant of the land of Canaan, a man of Canaan, as a certain woman is called a woman of Canaan, Mat 15:22 for all the disciples of Christ were Jews; though in Munster's Hebrew Gospel he is called , \"Simeon the Canaanite\", or of Canaan, as if he belonged to that country; nor is he so called from Cana of Galilee, as Jerorm and others have thought; but he was one of the \"Kanaim\", or \"Zealots\"; and therefore Luke styles him, \"Simon called Zelotes\", Luk 6:15. The Kanaites, or Zelotes, were a set of men, who, in imitation of Phinehas, who slew Zimri and Cozbi in the very act of uncleanness, when they found any persons in the act of adultery, idolatry, blasphemy, or theft, would immediately kill them without any more ado: this they did, from a pretended zeal for the honour and glory of God: nor were they accountable to any court of judicature for it; yea, such an action was highly applauded, as a very laudable one (z): under this specious name of Zealots, innumerable murders, and most horrible wickedness were committed, both before, and during the siege of Jerusalem, as Josephus (a) relates. Now Simon was one of this sect before his conversion, and still retained the name afterwards. Judas, the last of the twelve, is called Iscariot; concerning which name, the notation of it, and the reason of his being so called, many are the conjectures of learned men: some think that he belonged to the tribe of Issachar, and that he is called from thence, , \"a man of Issachar\", as a certain man is, in Jdg 10:1 others, that he takes his name from the place he belonged to, and that he was called , \"a man of Kerioth\". A place of this name is mentioned, Jos 15:25 and some manuscripts and copies in some places read Judas , of \"Caryot\". Caryota is said (b) to be a plain of the city of Jericho, about eighteen miles from Jerusalem, which abounded in palm trees, called \"Caryotae\", of which mention is made in the (c) Talmud, and other writers (d). Others think he is so called, from the Syriac word, \"secariota\", which signifies a \"purse\", or bag, because he carried the bag. Some copies read it, \"scariotes\": others are of opinion, that he is so called, from the manner of death he died, which was strangling: for \"ascara\", a word often used in the (e) Talmudic writings, signifies \"strangling\"; and is accounted by the Jews the hardest of deaths, and an evil one; and which seems to bid fair for the true reason of his name: however, it is mentioned here, as elsewhere, to distinguish him from Jude, or Judas, the true and faithful apostle of Christ; for this was he,\nwho also betrayed him; that is, Christ, as the Persic version reads it; and which is mentioned, not only for further distinction's sake, but to his great reproach. We learn from hence, that in the purest society on earth there has been an impure person; nor can it therefore be expected it should be otherwise in the best of churches, in the present state of imperfection; yea, that a man may have the highest gifts and attainments, as Judas had, ministerial gifts, and power of performing miracles, and yet be a vile person.\n(z) Misn. Sanhedrim, c. 9. sect. 6. & Bartenora, in ib. T. Avoda Zara, fol. 36. 2. Maimon. Issure Bia, c. 12. sect. 4, 5, 6. 14. & Sanhedrim, c. 18. sect. 6. & Obede Cochabim, c. 2. sect. 9. Philo de Monarchia, l. 1. p. 818. (a) De Bello Jud. l. 5. c. 1, 2. & 6. 1. Vid. Abot R. Nathan, c. 6. fol. 3. 2. (b) Vid. Wolfi Heb. Bibl. p. 410. (c) T. Bab. Beracot, fol. 50. 2. & Avoda Zara, fol. 14. 2. (d) Plin. Nat. Hist. l. 13. c. 4. (e) T. Bab. Beracot, fol. 8. 1. & Sabbat, fol. 33. 1. Sota, fol. 35. 1. Pesachim, fol. 105. 1. Taanith, fol. 19. 2. & 27. 2. Yebamot, fol. 62. 2."
+    },
+    {
+      "src": "GILL",
+      "ref": "Matthew 10:5",
+      "note_ref": "GILL/40/10/5",
+      "cites": [
+        "Matthew 10:2-4"
+      ],
+      "text": "These twelve Jesus sent forth,.... And no other but them, under the character of apostles. These had been with him a considerable time, to whom he had been gradually communicating spiritual knowledge; and by the benefit of private conference with him, and the observation they had made upon his doctrine and conduct, were greatly qualified for public usefulness: wherefore he gives them a commission, furnishes them with power and authority; and sends them forth from him by pairs, that they might be assisting to one another, and bear a joint testimony to the Gospel they preached; but before he sent them forth from his presence, he gave them some directions where they should go, and to whom they should minister, and where not:\nand he commanded them, as their Lord and Master; he gave them strict orders, which he expected them to comply with, and closely enjoined them, as they must answer it to him again,\nsaying, go not into the way of the Gentiles; meaning, not the customs' and manners of the Heathens, they were to avoid; but that they were not to steer their course, or take their journey towards them: they were not, as yet, to go among them, and preach the Gospel to them; the calling of the Gentiles was not a matter, as yet, so clearly revealed and known, nor was the time of their calling come: besides it was the will of God, that the Gospel should be first preached to the Jews, to take off all excuse from them, and that their obstinacy and perverseness in rejecting Jesus as the Messiah, might manifestly appear; and since Christ himself was the minister of the circumcision, he would have his apostles, for the present, whilst he was on earth, act agreeably to the character he bore, that there might be an entire harmony in their conduct.\nAnd into any city of the Samaritans enter ye not: the word \"any\" is supplied, and that very rightly; for, not the city of Samaria, the metropolis of that country, as the Arabic version reads it, is only meant, but any, and every city of the Samaritans: not that it was strictly unlawful and criminal to go thither; for he himself went into one of their cities, and so did his apostles, Joh 4:4 Luk 9:52 and after his death preached the Gospel there; but he judged it not proper and expedient at this time, and as yet, to do it; that is, not before their preaching it to the Jews; for there was a very great hatred subsisting between the Jews, and the Samaritans, insomuch that they had no conversation with each other in things civil or religious. The Samaritans, though they boasted of their descent from Jacob, were a mongrel sort of people, partly Jews, and partly Gentiles, a mixture of both; and therefore are distinguished from both and though they had, and held the law, and five books of Moses, yet corrupted them in many places, to serve their purpose, and countenance their religion, particularly their worshipping at Mount Gerizim; on which account they were looked upon by the Jews as apostates, idolaters, and even as Heathens (f), and are therefore here joined with them; and to shun giving offence to the Jews, seems to be the reason of this prohibition; see Gill on Joh 4:20.\n(f) T. Hieros. Shekelim, fol. 46. 2. Bartenora in Misn. Taharot, c. 5. sect. 8."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 3:14",
+      "note_ref": "GILL/41/3/14",
+      "cites": [
+        "Mark 3:14-19"
+      ],
+      "text": "And he ordained twelve,.... Or made, constituted, and appointed twelve men, out of those he called to him. The Arabic version adds, \"and called them apostles\"; which seems to be taken out of Luk 6:13.\nThat they should be with him; constantly, in private and in public; be taken into his family, and reckoned such; be his familiars, and privy to all his affairs; hear all his discourses, and see his miracles; that so they might be trained up and fitted for the great work he designed them for:\nand that he might send them forth to preach; the Gospel in Judea first, and then in all the world: for he did not at this time send them to preach, only chose; called, and appointed them; and after they had been with him some time, and were better qualified for such service, he sent them forth, as in Mat 10:1, for this constitution of them was before that mission, and was in order to it."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 3:15",
+      "note_ref": "GILL/41/3/15",
+      "cites": [
+        "Mark 3:14-19"
+      ],
+      "text": "And to have power to heal sicknesses,.... All manner of corporeal diseases that attend men and women:\nand to cast out devils; from such who were possessed with them: that is, he chose and appointed them to be his apostles, with a view of conferring such powers upon them hereafter; for as yet, they were not vested with them, nor sent out to exercise them; no, not till near twelve months after."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 3:16",
+      "note_ref": "GILL/41/3/16",
+      "cites": [
+        "Mark 3:14-19"
+      ],
+      "text": "And Simon he surnamed Peter. Or Cephas, which signifies a rock, or stone, because of his courage and constancy, his strength and fortitude, steadiness and firmness of mind: this name was imposed upon him, not at the time of his mission as an apostle; nor when he made that noble confession of his faith in Christ, as the Son of the living God, at which time this name was taken notice of; but when Christ first called him to be his disciple and apostle; see Joh 1:42.\n.\nMark 3:17\nmar 3:17\nmar 3:17\nmar 3:17And James the son of Zebedee, and John the brother of James,.... These are mentioned next, as being first called after Peter and Andrew:\nand he surnamed them Boanerges, which is, the sons of thunder: either because of their loud and sonorous voice; or their warm zeal for Christ, and fervency in their ministry: or for their courage in opposing the enemies of Christ, and the power that went along with their words; which either put to confusion and silence, or issued in conviction and conversion. The Syriac version reads, \"Benai Regesh\", and the Persic, \"Beni Reg'sch\". The Jews, as our learned countryman Mr. Broughton has observed (w), sometimes pronounce \"Scheva\" by on, as Noabyim\", for \"Nebyim\"; so here, \"Boanerges\" for Benereges\", or \"Benerges\". There is a city which was in the tribe of Dan, mentioned in Jos 19:45, which is called \"Bene-berak, the sons of lightning\"; and is spoken of in the Jewish (x) writings, as a place where several of the Rabbins met, and conversed together: the reason of this name may be inquired after.\n(w) Broughton's Requ. of Consent, in his Works, p. 620. (x) Haggada Shel Pesach. p. 6. Ed. Rittangel. & in Seder Tephillot, Ed. Basil, fol. 243. 1. Juchasin, fol. 36. 1."
+    },
+    {
+      "src": "GILL",
+      "ref": "Mark 3:17",
+      "note_ref": "GILL/41/3/17",
+      "cites": [
+        "Mark 3:14-19"
+      ],
+      "text": "And Andrew,.... The brother of Peter;\nand Philip, who was of Bethsaida;\nand Bartholomew, whom Dr. Lightfoot thinks is the same with Nathaniel: the name may be the same with , \"Bar Talmion\", with the Jews (y); See Gill on Mat 10:3. See Gill on Joh 1:41.\nand Matthew, the publican, who was called Levi;\nand Thomas, who was called Didymus, from his being a twin;\nand James, the son of Alphaeus, to distinguish him from the other James, the son of Zebedee, and who is sometimes called \"the less\";\nand Thaddaeus, whose name was also Lebbaeus, and likewise Jude, the author of the Epistle that bears that name;\nand Simon the Canaanite, or Zelotes; of these men, and their several names; see Gill on Mat 10:2. See Gill on Mat 10:3. See Gill on Mat 10:4.\n(y) Vajikra Rabba, sect. 6. fol. 151. 1."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 6:13",
+      "note_ref": "GILL/42/6/13",
+      "cites": [
+        "Luke 6:13-16"
+      ],
+      "text": "Simon, whom he also named Peter,.... Which signifies a rock, or stone, as Cephas also does, see Joh 1:42 from his constancy, steadfastness, and solidity:\nand Andrew his brother; who was called at the same time with him, and were brethren, both in nature and grace:\nJames and John: the two sons of Zebedee, who were called next:\nPhilip and Bartholomew; the latter of these is by some thought to be Nathanael."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 6:14",
+      "note_ref": "GILL/42/6/14",
+      "cites": [
+        "Luke 6:13-16"
+      ],
+      "text": "Matthew and Thomas,.... The first of these was a publican, and who also was called Levi; and the latter had besides the name of Didymus, and was he that was so unbelieving of Christ's resurrection:\nJames the son of Alphaeus; sometimes called James the less, and the brother of our Lord: and\nSimon called Zelotes; or the Canaanite; See Gill on Mat 10:4."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 6:15",
+      "note_ref": "GILL/42/6/15",
+      "cites": [
+        "Luke 6:13-16"
+      ],
+      "text": "And Judas the brother of James,.... Of that James, that was the son of Alphaeus; though the Syriac and Arabic versions call him \"the son of James\", very wrongly: this Judas was also called Thaddaeus and Lebbaeus, and is the writer of the epistle that bears his name:\nand Judas Iscariot, which also was the traitor; both his surname and his character are mentioned, to distinguish him from the other Judas: it is easy to observe, that these twelve are mentioned by pairs, or couples, and so they were sent out, two by two; see Mar 6:7 as were also the seventy disciples afterwards; see Luk 10:1 There seems to be an allusion to the pairs and couples of the Jewish fathers and doctors, who in their succession are thus paired: Jose ben Joezer, and Joseph ben Jochauan; Joshua ben Perachia, and Nathan the Arbelite; Simeon ben Shetach, and Judah ben Tabai; Shemain and Abtalion; the two sons of Bethira, whose names were Judah and Joshua; Hillell and Shammai (s): all before Christ's time.\n(s) Pirke Abot, c. 1."
+    },
+    {
+      "src": "GILL",
+      "ref": "Luke 6:16",
+      "note_ref": "GILL/42/6/16",
+      "cites": [
+        "Luke 6:13-16"
+      ],
+      "text": "And he came down with them,.... With the twelve apostles, from the top of the mountain, where he had been praying all night, and where he had been that morning, ordaining, and giving instructions to the twelve he had chosen:\nand stood in the plain; in a lower part of the mountain, in a plain place on it; which was large, and capable of holding a great number of people; for it was still upon the mount, that Christ taught his disciples, and said many of the things hereafter mentioned in this chapter; see Mat 5:1.\nAnd the company of his disciples: not only the twelve, but the large number out of which he had chosen twelve;\nand a great multitude of people; who were hearers of him, and attendants on him, and who had a great esteem for him, though they were not as yet of the number of his disciples; who came\nout of all Judea, and Jerusalem, and from the sea coast of Tyre and Sidon: drawn from these several parts by the fame of him, some for one thing, and some another; some of\nwhich came to hear him: to hear him preach, and that they might know what manner of doctrine he taught: and others of them,\nto be healed of their diseases; their bodily diseases, and some came perhaps for both."
+    },
+    {
+      "src": "GILL",
+      "ref": "John 6:69",
+      "note_ref": "GILL/43/6/69",
+      "cites": [
+        "John 6:71"
+      ],
+      "text": "He spake of Judas Iscariot, the son of Simon,.... These are the words of the evangelist, pointing out the person Christ intended, lest any other should be suspected:\nfor he it was that should betray him: as it was determined and foretold, and which Christ knew full well, and therefore said the above words:\nbeing one of the twelve; apostles, whom Christ had chosen, and which was an aggravation of his crime.\nNext: John Chapter 7"
+    },
+    {
+      "src": "GILL",
+      "ref": "Acts 1:11",
+      "note_ref": "GILL/44/1/11",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "Which also said, ye men of Galilee,.... And which was said by them, not to reproach them with their country, but partly to let them know that they knew them, who they were, and from whence they came; and partly to observe the rich and distinguishing grace of God in choosing such mean and contemptible persons to be the apostles of Christ, and eyewitnesses of his majesty:\nwhy stand ye gazing up into heaven? reproving them for their curiosity in looking after Christ with their bodily eyes, who was no more in common to be seen this way, but with an eye of faith; and for their desire after his corporeal presence, which they were not to look for; and as if they expected he would return again immediately, whereas his return will not be till the end of the world: and besides, they were not to remain on that spot, or stand gazing there; they were to go to Jerusalem, and abide there, as Christ had ordered, till they should receive the Holy Spirit in an extraordinary way; and then they were to preach a crucified Christ, and declare that he was risen from the dead, and was gone to heaven, and was ordained to be the Judge of quick and dead,\nThis same Jesus; and not another; the same in person, in body and soul:\nwhich is taken up from you into heaven; who was taken up in a cloud out of their sight, and received into heaven, where he will be till the times of the restitution of all things; and which might be matter of grief to them, because of the loss of his bodily presence; though it should have been rather joyful to them, since he was gone to the Father, and as their forerunner, to prepare a place, and make intercession for them:\nshall so come in like manner as ye have seen him go into heaven; he shall come in the same flesh, in the same human nature; he shall come in the clouds of heaven, and shall be attended with his mighty angels, as he now was; he shall descend himself in person, as he now ascended in person; and as he went up with a shout, and with the sound of a trumpet, see Psa 47:5 so he shall descend with a shout, with the voice of the archangel, and the trump of God; and, it may be, he shall descend upon the very spot from whence he ascended; see Zac 14:4 and it is a notion of the Jews, that the resurrection of the Israelites will be there: they say (m), that \"when the dead shall live, the Mount of Olives shall be cleaved asunder, and all the dead of Israel shall come out from under it; yea, even the righteous which die in captivity shall pass through a subterranean cavern, and come out from under the Mount of Olives.\n(m) Targum in Cant. viii. 5."
+    },
+    {
+      "src": "GILL",
+      "ref": "Acts 1:12",
+      "note_ref": "GILL/44/1/12",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "Then returned they unto Jerusalem,.... With great joy, after the angels had told them that he should come again in like manner:\nfrom the mount called Olivet; which was on the east side of Jerusalem, a mountain Christ much frequented, and from whence he ascended to heaven. This is the hill which in Kg1 11:7 is said to be \"before Jerusalem\"; and accordingly Jarchi interprets it of the Mount of Olives; and in Zac 14:4 it is expressly said to be \"before Jerusalem on the east\"; hence, when our Lord sat upon it, he is said to be over against the temple, Mar 13:3. It has its name from the multitude of olive trees which grew upon it: it is by the Jewish writers sometimes called , \"the Mount of Olives\" (n), as in Zac 14:4 and sometimes (o), and (p), \"the Mount of Oil\"; i.e. of olive oil, which was made out of the olives that grew upon it. It is said, that in an old edition of the Latin version of this text it is called \"the Mountain of Three Lights\"; and this reason is given for it, because on the west side it was enlightened in the night by the continual fire of the altar in the temple; and on the east side it had the first beams of the sun before the city was enlightened with them; and it produced plenty of olives, by which the light is maintained in the lamps. Josephus (q) relates, that in the earthquake in the times of Uzziah, half part of this mountain, which was to the west, was divided from it, and was rolled four furlongs to the eastern part of it, so that the ways and king's gardens were stopped up,\nWhich, is from Jerusalem a sabbath day's journey. The Syriac version renders it, \"about seven furlongs\", or near a mile; though Josephus (r) writes, that the Mount of Olives was but five furlongs from Jerusalem: perhaps this may be a mistake in the present copies of Josephus, since Chrysostom on this place cites this passage of Josephus, and reads seven furlongs; which exactly agrees with the Syriac version. A sabbath day's journey, according to the Jews, was two thousand cubits from any city or town, and which they often called, , \"the bound of the sabbath\" (s); and which they collect partly from Num 35:4 which they understand thus (t):\n\"a thousand cubits are the suburbs (of the city), and two thousand cubits the bounds of the sabbath.\nAnd these were so many middling paces; for so they say (u),\n\"a walk of two thousand middling paces, this is the bound of the sabbath.\nAnd that this was the proper space they also gather from Jos 3:4 it being the distance between the ark and the people when they marched; and though this was not fixed by the law, yet being a tradition of the elders, was strictly observed by them: so when Ruth desired to become a proselytess, the Targumist on Rut 1:16 introduces Naomi thus speaking to her,\n\"says Naomi, we are commanded to keep the sabbaths, and the good days, (or feasts,) and not to walk above \"two thousand cubits\";\ni.e. on those days; for to go further was reckoned a profanation of them: so it is said (w),\n\"the sabbath day is profaned with the hands by work, and with the feet by walking more than \"two thousand cubits\".\nYea, this was punishable with beatings (x):\n\"a man might go on the sabbath without the city two thousand cubits on every side--but if he went beyond two thousand cubits, they beat him with the beating of rebels,\nor in the same manner a rebellious son was beaten. Nay, not only they might not go out of a city or town where they were, further than this, but from whatsoever place they happened to be, as appears by these following rules (y),\n\"if anyone falls asleep in the way (or on the road), and he does not know that it was dark (and so that the sabbath is begun), he has two thousand cubits (allowed him) on every side.--Whoever is on a journey, and it is dark, and he knows a tree, or a hedge, and says, let my sabbath (or sabbatical seat) be under it, he says nothing; but if he says, let my sabbath be at the root of it, then he may go from the place of his feet, and to the root of it, two thousand cubits, and from the root of it to his house two thousand cubits; by which means he may go four thousand cubits after it is dark. But if he does not know (any), and is not expert in walking, and says, let my sabbath be in my place, (i.e. in which he stands,) then from his place he has two thousand cubits on every side.\nHence, in some copies it is here inserted, \"such being the distance that the Jews could walk\"; that is, were allowed to walk by their canons. They call two thousand cubits a mile (z); and if the Mount of Olives was seven furlongs from Jerusalem, it was pretty near a mile; but if but five furlongs, it was little more than half a mile: perhaps the true distance might be six furlongs, since Josephus says (a), the tenth legion was ordered to encamp six furlongs from Jerusalem, at the Mount of Olives, which was over against the city to the east; agreeably to which Epiphanius (b), who had been a Jew, and was born in Palestine, says,\n\"it was not lawful to go on the sabbath day beyond six furlongs,\nwhich were three quarters of a mile,\n(n) Prefat. Echa Rabbati, fol. 40. 4. Jarchi in 1 Kings xi. 7. (o) Misn. Parah, c. 3. sect. 6. Echa Rabbati, fol. 52. 4. Misn. Roshhashanah, c. 2. sect. 4. (p) Targum in Cant. viii. 5. (q) Antiqu. l. 9. c. 10. sect. 4. (r) Antiqu. l. 20. c. 7. sect. 6. (s) Midrash Kohelet, fol. 75. 2. Vid. Maimon. Hilchot Sabbat, c. 27. & 28. & Origin. Philocal. p. 14. (t) Misna Sota, c. 5. sect 3. (u) T. Bab. Erubin, fol. 42. 1. Maimon. Hilch, Sabbat, c. 27, sect. 4. (w) Zohar in Exod. fol. 27. 1. & 83. 2. (x) Maimon. Hiichot Sabbat, c. 97. sect. 1, 2. (y) Misna Erubin, c. 4. sect. 5, 7, 8. (z) Bemidbar Rabba, sect. 2. fol. 178. 4. (a) De Bello Jud. l. 5. c. 2. sect. 3. (b) Centra Haeres. l. 2. Haeres. 66."
+    },
+    {
+      "src": "GILL",
+      "ref": "Acts 1:13",
+      "note_ref": "GILL/44/1/13",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "\"Into it\", as the Arabic version reads; that is, into the city of Jerusalem, and into some house in that city; but what house it was is needless to inquire, since it cannot be known. Some think it was the house of John the Evangelist, whither he had taken Mary the mother of our Lord, Joh 19:27 which is not improbable: others, that it was the house of Mary, the mother of John Mark, where the disciples met for prayer when Peter was put into prison, Act 12:12 others, that it was the house of Simon the leper; but his house was not at Jerusalem, but in Bethany, Mat 26:6. Some have thought it was the house of Nicodemus, or of Joseph of Arimathea; but after all it seems most likely, that it was not any private house, but the temple into which the disciples immediately went, and where they continued; see Luk 24:52 and Act 2:46.\nthey went up into an upper room; which, if in a private house, they might choose for retirement and secrecy; and might be the same in which they had eaten the passover; and so a Syriac scholiast, in manuscript, on the place, says it was the same. It was usual to meet in upper rooms for devotion and religious conversation; see Gill on Mar 2:4 though this upper room might be one of the chambers in the temple; for not only from the scriptural account of the temple, there were chambers round about it, and upper chambers; see Kg1 6:5 and one of these is called the chamber of Gemariah, in which Baruch read the prophecies of Jeremiah, Jer 36:10 but also from the Jewish writings, in which frequent mention is made of the chamber Palhedrin, where the high priest was brought seven days before the day of atonement (c); and the chamber of the counsellors (d); and the chamber Gazith, where the sanhedrim sat; and the chamber of the house of Abtines (e); and the chamber of wood; and the chamber of the lepers; and the chamber of the house of oil (f); and the chamber of salt; and the chamber of Parvah; and the chamber of them that wash, besides others (g). And into a chamber, or upper room in the temple they might be let by Joses Barnabas, a Levite, one of their own company, Act 4:36 who might have the care of it, for they are said to be continually in the temple, Luk 24:53.\nWhere abode both Peter, and James, and John. The Vulgate Latin, Syriac, and Ethiopic versions read, \"Peter, and John, and James\"; and so the Alexandrian copy. These were the three favourite disciples of Christ, and are often mentioned together, as here first,\nand Andrew, Philip, and Thomas, Bartholomew, and Matthew. The Syriac and Ethiopic versions put Matthew before Bartholomew,\nJames the son of Alphaeus, and Simon Zelotes, and Judas, the brother of James; all the Oriental versions read, \"Judas the son of James\": of the names of the apostles; see Gill on Mat 10:2, Mat 10:3, Mat 10:4. They are all here mentioned but Judas the betrayer, who was dead, to show, that though one had disbelieved the resurrection of Christ, another had denied him, and all of them had forsook him, and fled; yet they were got together again, and were firm and steadfast in the faith of Christ, waiting for the pouring forth of the Spirit,\n(c) Misn. Yoma, c. 1. sect. 1. (d) T. Bab. Yoma, fol. 8. 2. (e) Ib. fol. 19. 1. (f) Misn. Middot, c. 2. sect. 5. (g) Ib. c. 5. sect. 2, 3."
+    },
+    {
+      "src": "GILL",
+      "ref": "Acts 1:14",
+      "note_ref": "GILL/44/1/14",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "These all continued, with one accord, in prayer and supplication,.... For the promise of the Spirit Christ had given them reason to expect; and that they might be preserved from their enemies, and kept faithful to their Lord; and be abundantly qualified for the preaching of the Gospel, and succeeded in it; and that their hearts might be comforted, and knit together in love: and they were unanimous in their requests, and so were under the promise of being heard; and in this work they were constant, and assiduous, and followed it with importunity. The Vulgate Latin, Syriac, and Ethiopic versions leave out the last clause, \"and supplication\"; and so likewise the Alexandrian copy: \"with the women\"; that followed Christ from Galilee, and were at his cross, and at his grave; among whom were Mary Magdalene, and Mary the wife of Cleophas, and Salome the wife of Zebedee. Some render the words, \"with their wives\"; the wives of the apostles; and as many as had wives, no doubt but they were with them; and it was necessary they should be, that they might be strengthened and confirmed in the faith of Christ. Beza's most ancient copy adds, \"and children\",\nand Mary the mother of Jesus. This is the last we hear of her; how long she lived after this, is not certain: her continuance with the apostles of Christ shows her religion and piety, and was both for the increase of her faith, and spiritual comfort:\nand with his brethren; See Gill on Mat 13:55."
+    },
+    {
+      "src": "JFB",
+      "ref": "Matthew 10:2",
+      "note_ref": "JFB/40/10/2",
+      "cites": [
+        "Matthew 10:2-4"
+      ],
+      "text": "Now the names of the twelve apostles are these--The other Evangelists enumerate the twelve in immediate connection with their appointment (Mar 3:13-19; Luk 6:13-16). But our Evangelist, not intending to record the appointment, but only the Mission of the Twelve, gives their names here. And as in the Acts (Act 1:13) we have a list of the Eleven who met daily in the upper room with the other disciples after their Master's ascension until the day of Pentecost, we have four catalogues in all for comparison.\nThe first, Simon, who is called Peter--(See on Joh 1:42).\nand Andrew his brother; James the son of Zebedee, and John his brother--named after James, as the younger of the two."
+    },
+    {
+      "src": "JFB",
+      "ref": "Matthew 10:3",
+      "note_ref": "JFB/40/10/3",
+      "cites": [
+        "Matthew 10:2-4"
+      ],
+      "text": "Philip and Bartholomew--That this person is the same with \"Nathanael of Cana in Galilee\" is justly concluded for the three following reasons: First, because Bartholomew is not so properly an individual's name as a family surname; next, because not only in this list, but in Mark's and Luke's (Mar 3:18; Luk 6:14), he follows the name of \"Philip,\" who was the instrument of bringing Nathanael first to Jesus (Joh 1:45); and again, when our Lord, after His resurrection, appeared at the Sea of Tiberias, \"Nathanael of Cana in Galilee\" is mentioned along with six others, all of them apostles, as being present (Joh 21:2).\nMatthew the publican--In none of the four lists of the Twelve is this apostle so branded but in his own, as if he would have all to know how deep a debtor he had been to his Lord. (See on Mat 1:3; Mat 9:9).\nJames the son of Alphaeus--the same person apparently who is called Cleopas or Clopas (Luk 24:18; Joh 19:25); and, as he was the husband of Mary, sister to the Virgin, James the Less must have been our Lord's cousin.\nand Lebbaeus, whose surname was Thaddaeus--the same, without doubt, as \"Judas the brother of James,\" mentioned in both the lists of Luke (Luk 6:16; Act 1:13), while no one of the name of Lebbaeus or Thaddaeus is so. It is he who in John (Joh 14:22) is sweetly called \"Judas, not Iscariot.\" That he was the author of the Catholic Epistle of \"Jude,\" and not \"the Lord's brother\" (Mat 13:55), unless these be the same, is most likely."
+    },
+    {
+      "src": "JFB",
+      "ref": "Matthew 10:4",
+      "note_ref": "JFB/40/10/4",
+      "cites": [
+        "Matthew 10:2-4"
+      ],
+      "text": "Simon the Canaanite--rather \"Kananite,\" but better still, \"the Zealot,\" as he is called in Luk 6:15, where the original term should not have been retained as in our version (\"Simon, called Zelotes\"), but rendered \"Simon, called the Zealot.\" The word \"Kananite\" is just the Aramaic, or Syro-Chaldaic, term for \"Zealot.\" Probably before his acquaintance with Jesus, he belonged to the sect of the Zealots, who bound themselves, as a sort of voluntary ecclesiastical police, to see that the law was not broken with impunity.\nand Judas Iscariot--that is, Judas of Kerioth, a town of Judah (Jos 15:25); so called to distinguish him from \"Judas the brother of James\" (Luk 6:16).\nwho also betrayed him--a note of infamy attached to his name in all the catalogues of the Twelve."
+    },
+    {
+      "src": "JFB",
+      "ref": "Matthew 10:5",
+      "note_ref": "JFB/40/10/5",
+      "cites": [
+        "Matthew 10:2-4"
+      ],
+      "text": "THE TWELVE RECEIVE THEIR INSTRUCTIONS. (Mat. 10:5-42)\nThese twelve Jesus sent forth, and commanded them, saying, Go not into the way of the Gentiles, and into any city of the Samaritans enter ye not--The Samaritans were Gentiles by blood; but being the descendants of those whom the king of Assyria had transported from the East to supply the place of the ten tribes carried captive, they had adopted the religion of the Jews, though with admixtures of their own: and, as the nearest neighbors of the Jews, they occupied a place intermediate between them and the Gentiles. Accordingly, when this prohibition was to be taken off, on the effusion of the Spirit at Pentecost, the apostles were told that they should be Christ's witnesses first \"in Jerusalem, and in all Judea,\" then \"in Samaria,\" and lastly, \"unto the uttermost part of the earth\" (Act 1:8)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Luke 6:11",
+      "note_ref": "JFB/42/6/11",
+      "cites": [
+        "Luke 6:13-16"
+      ],
+      "text": "filled with madness--The word denotes senseless rage at the confusion to which our Lord had put them, both by word and deed.\nwhat . . . do to Jesus--not so much whether to get rid of Him, but how to compass it. (See on Mat 3:6.)"
+    },
+    {
+      "src": "JFB",
+      "ref": "Luke 6:12",
+      "note_ref": "JFB/42/6/12",
+      "cites": [
+        "Luke 6:13-16"
+      ],
+      "text": "THE TWELVE APOSTLES CHOSEN--GATHERING MULTITUDES--GLORIOUS HEALING. (Luke 6:12-49)\nwent out--probably from Capernaum.\nall night in prayer . . . and when . . . day, he called, &c.--The work with which the next day began shows what had been the burden of this night's devotions. As He directed His disciples to pray for \"laborers\" just before sending themselves forth (see on Mat 9:37; Mat 10:1), so here we find the Lord Himself in prolonged communion with His Father in preparation for the solemn appointment of those men who were to give birth to His Church, and from whom the world in all time was to take a new mould. How instructive is this!"
+    },
+    {
+      "src": "JFB",
+      "ref": "Luke 6:13",
+      "note_ref": "JFB/42/6/13",
+      "cites": [
+        "Luke 6:13-16"
+      ],
+      "text": "(See on Mat 10:2-4.)"
+    },
+    {
+      "src": "JFB",
+      "ref": "Luke 6:17",
+      "note_ref": "JFB/42/6/17",
+      "cites": [
+        "Luke 6:13-16"
+      ],
+      "text": "in the plain--by some rendered \"on a level place,\" that is, a piece of high tableland, by which they understand the same thing, as \"on the mountain,\" where our Lord delivered the sermon recorded by Matthew (Mat 5:1), of which they take this following discourse of Luke to be but an abridged form. But as the sense given in our version is the more accurate, so there are weighty reasons for considering the discourses different. This one contains little more than a fourth of the other; it has woes of its own, as well as the beatitudes common to both; but above all, that of Matthew was plainly delivered a good while before, while this was spoken after the choice of the twelve; and as we know that our Lord delivered some of His weightiest sayings more than once, there is no difficulty in supposing this to be one of His more extended repetitions; nor could anything be more worthy of it."
+    },
+    {
+      "src": "JFB",
+      "ref": "John 6:69",
+      "note_ref": "JFB/43/6/69",
+      "cites": [
+        "John 6:71"
+      ],
+      "text": "And we believe,--(See on Mat 16:16). Peter seems to have added this not merely--probably not so much--as an assurance to his Lord of his heart's belief in Him, as for the purpose of fortifying himself and his faithful brethren against that recoil from his Lord's harsh statements which he was probably struggling against with difficulty at that moment. Note.--There are seasons when one's faith is tried to the utmost, particularly by speculative difficulties; the spiritual eye then swims, and all truth seems ready to depart from us. At such seasons, a clear perception that to abandon the faith of Christ is to face black desolation, ruin and death; and on recoiling from this, to be able to fall back, not merely on first principles and immovable foundations, but on personal experience of a Living Lord in whom all truth is wrapt up and made flesh for our very benefit--this is a relief unspeakable. Under that blessed Wing taking shelter, until we are again fit to grapple with the questions that have staggered us, we at length either find our way through them, or attain to a calm satisfaction in the discovery that they lie beyond the limits of present apprehension."
+    },
+    {
+      "src": "JFB",
+      "ref": "John 6:70",
+      "note_ref": "JFB/43/6/70",
+      "cites": [
+        "John 6:71"
+      ],
+      "text": "Have not I chosen . . . and one of you is a devil:--\"Well said, Simon-Barjonas, but that 'we' embraces not so wide a circle as in the simplicity of thine heart thou thinkest; for though I have chosen you but twelve, one even of these is a 'devil'\" (the temple, the tool of that wicked one).\nNext: John Chapter 7"
+    },
+    {
+      "src": "JFB",
+      "ref": "Acts 1:11",
+      "note_ref": "JFB/44/1/11",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "Ye men of Galilee, why stand ye gazing up into heaven, &c.--\"as if your now glorified Head were gone from you never to return: He is coming again; not another, but 'this same Jesus'; and 'as ye have seen Him go, in the like manner shall He come'--as personally, as visibly, as gloriously; and let the joyful expectation of this coming swallow up the sorrow of that departure.\""
+    },
+    {
+      "src": "JFB",
+      "ref": "Acts 1:12",
+      "note_ref": "JFB/44/1/12",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "RETURN OF THE ELEVEN TO JERUSALEM--PROCEEDINGS IN THE UPPER ROOM TILL PENTECOST. (Act 1:12-26)\na sabbath day's journey--about two thousand cubits."
+    },
+    {
+      "src": "JFB",
+      "ref": "Acts 1:13",
+      "note_ref": "JFB/44/1/13",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "went up into an upper room--perhaps the same \"large upper room\" where with their Lord they had celebrated the last Passover and the first Supper (Luk 22:12).\nwhere abode--not lodged, but had for their place of rendezvous.\nPeter, &c.--(See on Mat 10:2-4)."
+    },
+    {
+      "src": "JFB",
+      "ref": "Acts 1:14",
+      "note_ref": "JFB/44/1/14",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "continued with one accord--knit by a bond stronger than death.\nin prayer and supplication--for the promised baptism, the need of which in their orphan state would be increasingly felt.\nand Mary the mother of Jesus--distinguished from the other \"women,\" but \"so as to exclude the idea of her having any pre-eminence over the disciples. We find her with the rest in prayer to her glorified Son\" [WEBSTER and WILKINSON]. This is the last mention of her in the New Testament. The fable of the Assumption of the Virgin has no foundation even in tradition [ALFORD].\nwith his brethren--(See on Joh 7:3)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Mark 3:14",
+      "note_ref": "CLARKE/41/3/14",
+      "cites": [
+        "Mark 3:14-19"
+      ],
+      "text": "He ordained twelve - Εποιησε, he made twelve. Here is nothing of what we call ordaining. Christ simply appointed them to be with him; and that he might send them occasionally to preach, etc.\nTo preach - The Codex Bezae, Saxon, and all the Itala, except one, add το ευαγγελιον, the Gospel."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Mark 3:15",
+      "note_ref": "CLARKE/41/3/15",
+      "cites": [
+        "Mark 3:14-19"
+      ],
+      "text": "To have power to heal - and to cast out devils - The business of a minister of Christ is,\n1st. To preach the Gospel.\n2dly. To be the physician of souls. And,\n3dly. To wage war with the devil, and destroy his kingdom."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Mark 3:16",
+      "note_ref": "CLARKE/41/3/16",
+      "cites": [
+        "Mark 3:14-19"
+      ],
+      "text": "Simon, etc. - See on Mat 10:2 (note), etc."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Mark 3:17",
+      "note_ref": "CLARKE/41/3/17",
+      "cites": [
+        "Mark 3:14-19"
+      ],
+      "text": "Sons of thunder - A Hebraism for thunderers; probably so named because of their zeal and power in preaching the Gospel.\nThe term Boanerges is neither Hebrew nor Syriac. Calmet and others think that there is reason to believe that the Greek transcribers have not copied it exactly. בני רעם beney raam, which the ancient Greeks would pronounce Beneregem, and which means sons of thunder, was probably the appellative used by our Lord: or בני רעש beni reges, sons of tempest, which comes nearest to the Boanerges of the evangelist. St. Jerome, on Daniel 1, gives בני רעם (which he writes Benereem, softening the sound of the ע ain) as the more likely reading, and Luther, supposing our Lord spoke in Hebrew, gives the proper Hebrew term above mentioned, which he writes Bnehargem. Some think that the reason why our Lord gave this appellative to the sons of Zebedee was, their desire to bring fire down from heaven, i.e. a storm of thunder and lightning, to overturn and consume a certain Samaritan village, the inhabitants of which would not receive their Master. See the account in Luk 9:53, Luk 9:54 (note). It was a very usual thing among the Jews to give surnames, which signified some particular quality or excellence, to their rabbins. See several instances in Schoettgen."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 6:12",
+      "note_ref": "CLARKE/42/6/12",
+      "cites": [
+        "Luke 6:13-16"
+      ],
+      "text": "In prayer to God - Or, in the prayer of God: or, in the oratory of God, εν τῃ προσευχῃ του Θεου. So this passage is translated by many critics; for which Dr. Whitby gives the following reasons: As the mountain of God, Exo 3:1; Exo 4:27; the bread of God, Lev 21:17; the lamp of God, Sa1 3:3; the vessels of God, Ch1 22:19; the altar of God, Psa 43:4; the sacrifices of God, Psa 51:17; the gifts of God, Luk 21:4; the ministers of God, Co2 6:4; the tabernacle of God, Ch2 1:3; the temple of God, Mat 21:12; the synagogues of God, Psa 74:8; are all things consecrated or appropriated to God's service; so προσευχη του Θεου must, in all reason, be a house of prayer to God; whence it is called τοπος προσευχης, a place of prayer, 1 Maccabees 3:46; and so the word is certainly used Act 16:13; and by Philo, in his oration against Flaccus, where he complains that αἱ προσευχαι, their houses for prayer were pulled down, and there was no place left in which they might worship God, or pray for Caesar; and by Josephus, who says the multitude was gathered εις την προσευχην, into the house of prayer: and so Juvenal, Sat. iii. v. 296, speaks to the mendicant Jew: -\nEde ubi consistas; in qua te quaero proseucha?\nIn what house of prayer may I find thee begging?\nSee on Act 16:13 (note). But on this it may be observed, that as the mountains of God, the wind of God, the hail of God, the trees of God, etc., mean very high mountains, a very strong wind, great and terrible hail, very tall trees, etc., so προσευχη του Θεου, here, may be very properly translated the prayer of God; i.e. very fervent and earnest prayer; and though διανυκτερευων may signify, to lodge in a place for a night, yet there are various places in the best Greek writers in which it is used, not to signify a place, but to pass the night in a particular state. So Appian, Bell. Pun. Εν τοις ὁπλοις διενυκτερευϚε μεθ' ἁπαντων - He passed the night under arms with them all. Idem, Bell. Civ. lib. v. διενυκτερευον - They passed the night without food, without any regard to the body, and in the want of all things. See more examples in Kypke, who concludes by translating the passage thus: He passed the night without sleep in prayers to God. Some of the Jews imagine that God himself prays; and this is one of his petitions: Let it be my good pleasure, that my mercy overcome my wrath. See more in Lightfoot."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 6:13",
+      "note_ref": "CLARKE/42/6/13",
+      "cites": [
+        "Luke 6:13-16"
+      ],
+      "text": "He chose twelve - Εκλεξαμενος απ' αυτων, He chose twelve Out of them. Our Lord at this time had several disciples, persons who were converted to God under his ministry; and, out of these converts, he chose twelve, whom he appointed to the work of the ministry; and called them apostles, i.e. persons sent or commissioned by himself, to preach that Gospel to others by which they had themselves been saved. These were favored with extraordinary success:\n1. Because they were brought to the knowledge of God themselves.\n2. Because they received their commission from the great Head of the Church. And\n3. Because, as he had sent them, he continued to accompany their preaching with the power of his Spirit.\nThese three things always unite in the character of a genuine apostle. See on Mat 10:1-4 (note)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 6:15",
+      "note_ref": "CLARKE/42/6/15",
+      "cites": [
+        "Luke 6:13-16"
+      ],
+      "text": "Called Zelotes - Some Jews gave this name to themselves, according to Josephus, (War, b. iv. c. iii. s. 9, and vii. c. viii. s. 1), \"because they pretended to be more than ordinarily zealous for religion, and yet practised the very worst of actions.\" \"But this (says the judicious Bp. Pearce) Josephus says of the zealots, at the time when Vespasian was marching towards Jerusalem. They probably were men of a different character above forty years before; which was the time when Jesus chose his twelve apostles, one of whom had the surname of the Zealot.\" It is very probable that this name was first given to certain persons who were more zealous for the cause of pure and undefiled religion than the rest of their neighbors; but like many other sects and parties who have begun well, they transferred their zeal for the essentials of religion to nonessential things, and from these to inquisitorial cruelty and murder. See on Mat 10:4 (note)."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Luke 6:17",
+      "note_ref": "CLARKE/42/6/17",
+      "cites": [
+        "Luke 6:13-16"
+      ],
+      "text": "And stood in the plain - In Mat 5:1, which is supposed to be the parallel place, our Lord is represented as delivering this sermon on the mountain; and this has induced some to think that the sermon mentioned here by Luke, though the same in substance with that in Matthew, was delivered in a different place, and at another time; but, as Dr. Priestly justly observes, Matthew's saying that Jesus was sat down after he had gone up to the mountain, and Luke's saying that he stood on the plain when he healed the sick, before the discourse, are no inconsistencies. The whole picture is striking. Jesus ascends a mountain, employs the night in prayer; and, having thus solemnly invoked the Divine blessing, authoritatively separates the twelve apostles from the mass of his disciples. He then descends, and heals in the plain all the diseased among a great multitude, collected from various parts by the fame of his miraculous power. Having thus created attention, he likewise satisfies the desire of the people to hear his doctrine; and retiring first to the mountain whence he came, that his attentive hearers might follow him and might better arrange themselves before him - Sacro digna silentio mirantur omnes dicere. Horace. All admire his excellent sayings with sacred silence. See Bishop Newcome's notes on his Harmony of the Gospels, p. 19."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "John 6:69",
+      "note_ref": "CLARKE/43/6/69",
+      "cites": [
+        "John 6:71"
+      ],
+      "text": "We believe - On the authority of thy word; and are sure - have known, εγνωκαμεν, by the evidence of thy miracles, that thou art the Christ, the promised Messiah. And we belyfath and witen that thu eart Crist Godes Son. Anglo-Saxon. How near is the mother to the daughter tongue!\nInstead of Christ the Son of the living God, some excellent MSS., BCDL, and others, read ὁ αγιος του Θεου, the holy one of God; and this reading Griesbach has received into the text, leaving out του ζωντος, the living. Χριστος, and ἁγιος convey nearly the same meaning; but the Ethiopic, as usual, retains both. Του ζωντες is omitted by BCDL, H, the Coptic, Sahidic, Armenian, later Persic, Vulgate, all the Itala but one, and by the Anglo-Saxon; which last Griesbach has not noticed."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "John 6:70",
+      "note_ref": "CLARKE/43/6/70",
+      "cites": [
+        "John 6:71"
+      ],
+      "text": "Have not I chosen you twelve - Have I not, in an especial manner, called you to believe in my name, and chosen you to be my disciples and the propagators of my doctrine! Nevertheless, one of you is a devil, or accuser, enlisted on the side of Satan, who was a murderer from the beginning."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "John 6:71",
+      "note_ref": "CLARKE/43/6/71",
+      "cites": [
+        "John 6:71"
+      ],
+      "text": "He spake of Judas - for he it was that should betray him - Οὑτος γαρ ημελλεν αυτον παραδιδοναι, He who was about to deliver him up. By referring to this matter so often, did not our blessed Lord intend to warn Judas? Was not the evil fully exposed to his view? And who dare say that it was impossible for him to avoid what he had so often been warned against? When the temptation did take place, and his heart, in purpose, had brought forth the sin, might he not have relented, fallen at his injured master's feet, acknowledge his black offense, and implored forgiveness? And surely his most merciful Lord would have freely pardoned him.\n1. On the subject of the disciples sailing off without Christ, and the storm that overtook them, it may be necessary to make a few observations, chiefly for the encouragement of the laborers in God's vineyard. It was the duty of the disciples to depart at the commandment of the Lord, though the storm was great, and the wind contrary. It was their duty to tug at the oar, expecting the appearing of their Lord and master. So it is the duty of the ministers of Christ to embark, and sail even into the sea of persecution and dangerous trial, in order to save souls. There may be darkness for a time - they must row. The waves may rise high - they must row on. The wind may be contrary - still they must tug at the oar. Jesus will appear, lay the storm, and calm the sea, and they shall have souls for their hire. The vessel will get to land, and speedily too. There are particular times in which the Lord pours out his Spirit, and multitudes are quickly convinced and converted. \"Alas!\" says one, \"I see no fruit of my labor; no return of my prayers and tears.\" Take courage, man; tug on; thou shalt not labor in vain, nor spend thy strength for nought. What he does thou knowest not now, but thou shalt know hereafter. Great grace, and great peace await thee; take courage, and tug on!\n2. When a man forsakes the living God, and gives way to avarice, which appears to have been the case with Judas, he is fit for any thing in which Satan may choose to employ him. Beware of the love of money! The cursed lust of gold induced a disciple of Christ to betray his God: and has it not been the ruin of millions since? Few people love money merely for its own sake: they love it because it can provide them with the necessaries, conveniences, and comforts of life; those who have not God for their portion incessantly long after these things, and therefore are covetous. While a man watches unto prayer, and abides in the love of Christ Jesus the Lord, so long he is safe, for he is contented with the lot which God has given him in life. Reader, art thou like Judas (in his best state) put in trust for the poor, or for the Church of Christ. Do not covet; and take heed that thou grudge not; nor permit thy heart to be hardened by repeated sights and tales of wo. Thou art but a steward; act faithfully, and act affectionately. Because the ointment that prefigured the death of our Lord was not applied just as Judas would have it, he took offense; betrayed and sold his master; saw and wished to remedy his transgression; despaired and hanged himself. Behold the fruit of covetousness! To what excesses and miseries the love of money may lead, God alone can comprehend. If any man love the world, the love of the Father is not in him."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Acts 1:11",
+      "note_ref": "CLARKE/44/1/11",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "Gazing up into heaven - Not to the top of a mountain, to which an unbridled fancy, influenced by infidelity, would intimate he had ascended, and not to heaven.\nThis same Jesus - Clothed in human nature, shall so come in like manner - with the same body, descending from heaven by his sovereign and all-controlling power, as ye have seen him go into heaven. Thus shall he come again to judge the quick and the dead. It was a very ancient opinion among Christians, that when Christ should come again to judge the world he would make his appearance on Mount Olivet. Some think that his coming again to destroy the Jewish nation is what the angels refer to. See a connected account of the different appearances of Christ at the end of this chapter."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Acts 1:12",
+      "note_ref": "CLARKE/44/1/12",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "A Sabbath day's journey - See the difficulties in this verse explained in the note on Luk 24:50 (note). A Sabbath day's journey was seven furlongs and a half. Olivet was but five furlongs from Jerusalem; and Bethany was fifteen. The first region or tract of Mount Olivet, which was called Bethany, was distant from the city a Sabbath day's journey, or seven furlongs and a half; and the same distance did that tract called Bethphage extend from the city. When, therefore; our Lord came to the place where these two tracts touched each other, he there ascended, which place was distant from Jerusalem a Sabbath day's journey, as St. Luke here remarks. See the notes referred to above."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Acts 1:13",
+      "note_ref": "CLARKE/44/1/13",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "They went up into an upper room - This was either a room in the temple, or in the house of one of the disciples, where this holy company was accustomed to meet. In Luk 24:53, it is said that, after their return from Mount Olivet, they were continually in the temple, praising and blessing God: it is probable, therefore, that the upper room mentioned in this verse is that apartment of the temple mentioned above. But still it is not certain that this place should be so understood; as we have the fullest proofs that the upper rooms in private houses were used for the purpose of reading the law, and conferring together on religious matters. See several proofs in Lightfoot. Add to this, that the room here mentioned seems to have been the place where all the apostles lodged, οὑ ησαν καταμενοντες, and therefore most probably a private house."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "Acts 1:14",
+      "note_ref": "CLARKE/44/1/14",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "These - continued - in prayer and supplication - Waiting for the promise of the Father, according to the direction of our Lord, Luk 24:49. The words και τῃ δεησει, and in supplication, are omitted by ABC*DE, both the Syriac, the Coptic, Ethiopic, Armenian, Vulgate, Itala, and some of the primitive fathers. On this evidence, Griesbach has left them out of the text; and others contend for the propriety of this omission, because, say they, τῃ προσευχῃ and τῃ δεησει, prayer and supplication, mean the same thing. Whether the reading be genuine or spurious, this inference is not just. Prayer may simply imply any address to God, in the way of petition or request; supplication, the earnest, affectionate, and continued application to God for the blessing requested from him by prayer. Prayer asks, supplication expostulates, entreats, urges and re-urges the petition.\nWith the women - Probably those who had been witnesses of his resurrection, with the immediate relatives of the apostles. Peter we know was married, Mat 8:14, and so might others of the disciples; and therefore the wives of the apostles, as well as of other pious men, may be here intended."
+    },
+    {
+      "src": "MHC",
+      "ref": "Matthew 10:1",
+      "note_ref": "MHC/40/10/1",
+      "cites": [
+        "Matthew 10:2-4"
+      ],
+      "text": "Here we are told, I. Who they were that Christ ordained to be his apostles or ambassadors; they were his disciples, Mat 10:1. He had called them some time before to be disciples, his immediate followers and constant attendants, and he then told them that they should be made fishers of men, which promise he now performed. Note, Christ commonly confers honours and graces by degrees; the light of both, like that of the morning, shines more and more. All this while Christ had kept these twelve,\n1. In a state of probation. Though he knows what is in man, though he knew from the first what was in them (Joh 6:70), yet he took this method to give an example to his church. Note, The ministry being a great trust, it is fit that men should be tried for a time, before they are entrusted with it. Let them first be proved, Ti1 3:10. Therefore, hands must not be laid suddenly on any man, but let him first be observed as a candidate and probationer, a proposant (that is the term the French churches use), because some men's sins go before, others follow, Ti1 5:22.\n2. In a state of preparation. All this while he had been fitting them for this great work. Note, Those whom Christ intends for, and calls to, any work, he first prepares and qualifies, in some measure, for it. He prepared them, (1.) By taking them to be with him. Note, The best preparative for the work of the ministry, is an acquaintance and communion with Jesus Christ. They that would serve Christ, must first be with him (Joh 12:26). Paul had Christ revealed, not only to him, but in him, before he went to preach him among the Gentiles, Gal 1:16. By the lively acts of faith, and the frequent exercise of prayer and meditation, that fellowship with Christ must be maintained and kept up, which is a requisite qualification for the work of the ministry. (2.) By teaching them; they were with him as scholars or pupils, and he taught them privately, besides the benefit they derived from his public preaching; he opened the scriptures to them, and opened their understandings to understand the scriptures: to them it was given to know the mysteries of the kingdom of heaven, and to them they were made plain. Note, They that design to be teachers must first be learners; they must receive, that they may give; they must be able to teach others, Ti2 2:2. Gospel truths must be first committed to them, before they be commissioned to be gospel ministers. To give men authority to teach others, that have not an ability, is but a mockery to God and the church; it is sending a message by the hand of a fool, Pro 26:6. Christ taught his disciples before he sent them forth (Mat 5:2), and afterwards, when he enlarged their commission, he gave them more ample instructions, Act 1:3.\nII. What the commission was that he gave them.\n1. He called them to him, Mat 10:1. He had called them to come after him before; now he calls them to come to him, admits them to a greater familiarity, and will not have them to keep at such a distance as they had hitherto observed. They that humble themselves shall thus be exalted. The priests under the law were said to draw near and approach unto God, nearer than the people; the same may be said of gospel ministers; they are called to draw near to Christ, which, as it is an honour, so should strike an awe upon them, remembering that Christ will be sanctified in those that come nigh unto him. It is observable, that when the disciples were to be instructed, they came unto him of their own accord, Mat 5:1. But now they were to be ordained, he called them. Note, It well becomes the disciples of Christ to be more forward to learn than to teach. In the sense of our own ignorance, we must seek opportunities to be taught; and in the same sense we must wait for a call, a clear call, ere we take upon us to teach others; for no man ought to take this honour to himself.\n2. He gave them power, exousian, authority in his name, to command men to obedience, and for the confirmation of that authority, to command devils too into a subjection. Note, All rightful authority is derived from Jesus Christ. All power is given to him without limitation, and the subordinate powers that be are ordained of him. Some of his honour he put on his ministers, as Moses put some of his on Joshua. Note, It is an undeniable proof of the fulness of power which Christ used as Mediator, that he could impart his power to those he employed, and enable them to work the same miracles that he wrought in his name. He gave them power over unclean spirits, and over all manner of sickness. Note, The design of the gospel was to conquer the devil and to cure the world. These preachers were sent out destitute of all external advantages to recommend them; they had no wealth, nor learning, nor titles of honour, and they made a very mean figure; it was therefore requisite that they should have some extraordinary power to advance them above the scribes.\n(1.) He gave them power against unclean spirits, to cast them out. Note, The power that is committed to the ministers of Christ, is directly levelled against the devil and his kingdom. The devil, as an unclean spirit, is working both in doctrinal errors (Rev 16:13), and in practical debauchery (Pe2 2:10); and in both these, ministers have a charge against him. Christ gave them power to cast him out of the bodies of people; but that was to signify the destruction of his spiritual kingdom, and all the works of the devil; for which purpose the Son of God was manifested.\n(2.) He gave them power to heal all manner of sickness. He authorized them to work miracles for the confirmation of their doctrine, to prove that it was of God; and they were to work useful miracles for the illustration of it, to prove that it is not only faithful, but well worthy of all acceptation; that the design of the gospel is to heal and save. Moses's miracles were many of them for destruction; those Mahomet pretended to, were for ostentation; but the miracles Christ wrought, and appointed his apostles to work, were all for edification, and evince him to be, not only the great Teacher and Ruler, but the great Redeemer, of the world. Observe what an emphasis is laid upon the extent of their power to all manner of sickness, and all manner of disease, without the exception even of those that are reckoned incurable, and the reproach of physicians. Note, In the grace of the gospel there is a salve for every sore, a remedy for every malady. There is no spiritual disease so malignant, so inveterate, but there is a sufficiency of power in Christ, for the cure of it. Let none therefore say there is no hope, or that the breach is wide as the sea, that cannot be healed.\nIII. The number and names of those that were commissioned; they are made apostles, that is, messengers. An angel, and an apostle, both signify the same thing - one sent on an errand, an ambassador. All faithful ministers are sent of Christ, but they that were first, and immediately, sent by him, are eminently called apostles, the prime ministers of state in his kingdom. Yet this was but the infancy of their office; it was when Christ ascended on high that he gave some apostles, Eph 4:11. Christ himself is called an apostle (Heb 3:1), for he was sent by the Father, and so sent them, Joh 20:21. The prophets were called God's messengers.\n1. Their number was twelve, referring to the number of the tribes of Israel, and the sons of Jacob that were the patriarchs of those tribes. The gospel church must be the Israel of God; the Jews must be first invited into it; the apostles must be spiritual fathers, to beget a seed to Christ. Israel after the flesh is to be rejected for their infidelity; these twelve, therefore, are appointed to be the fathers of another Israel. These twelve, by their doctrine, were to judge the twelve tribes of Israel, Luk 22:30. These were the twelve stars that made up the church's crown (Rev 12:1): the twelve foundations of the new Jerusalem (Rev 21:12, Rev 21:14), typified by the twelve precious stones in Aaron's breast-plate, the twelve loaves on the table of show-bread, the twelve wells of water at Elim. This was that famous jury (and to make it a grand jury, Paul was added to it) that was impanelled to enquire between the King of kings, and the body of mankind; and, in this chapter, they have their charge given them, by him to whom all judgment was committed.\n2. Their names are here left upon record, and it is their honour; yet in this they had more reason to rejoice, that their names were written in heaven (Luk 10:20), while the high and mighty names of the great ones of the earth are buried in the dust. Observe,\n(1.) There are some of these twelve apostles, of whom we know no more, from the scripture, than their names; as Bartholomew, and Simon the Canaanite; and yet they were faithful servants to Christ and his church. Note, all the good ministers of Christ are not alike famous, nor their actions alike celebrated.\n(2.) They are names by couples; for at first they were sent forth two and two, because two are better than one; they would be serviceable to each other, and the more serviceable jointly to Christ and souls; what one forgot the other would remember, and out of the mouth of two witnesses every word would be established. Three couple of them were brethren; Peter and Andrew, James and John, and the other James and Lebbeus. Note, Friendship and fellowship ought to be kept up among relations, and to be made serviceable to religion. It is an excellent thing, when brethren by nature are brethren by grace, and those two bonds strengthen each other.\n(3.) Peter is named first, because he was first called; or because he was the most forward among them, and upon all occasions made himself the mouth of the rest, and because he was to be the apostle of the circumcision; but that gave him no power over the rest of the apostles, nor is there the least mark of any supremacy that was given to him, or ever claimed by him, in this sacred college.\n(4.) Matthew, the penman of this gospel, is here joined with Thomas (Mat 10:3), but in two things there is a variation from the accounts of Mark and Luke, Mar 3:18; Luk 6:15. There, Matthew is put first; in that order it appears he was ordained before Thomas; but here, in his own catalogue, Thomas is put first. Note, It well becomes the disciples of Christ in honour to prefer one another. There, he is only called Matthew, here Matthew the publican, the toll-gatherer or collector of the customs, who was called from that infamous employment to be an apostle. Note, It is good for those who are advanced to honour with Christ, to look unto the rock whence they were hewn; often to remember what they were before Christ called them, that thereby they may be kept humble, and divine grace may be the more glorified. Matthew the apostle was Matthew the publican.\n(5.) Simon is called the Canaanite, or rather the Canite, from Cana of Galilee, where probably he was born; or Simon the Zealot, which some make to be the signification of Kananitēs.\n(6.) Judas Iscariot is always named last, and with that black brand upon his name, who also betrayed him; which intimates that from the first, Christ knew what a wretch he was, that he had a devil, and would prove a traitor; yet Christ took him among the apostles, that it might not be a surprise and discouragement to his church, if, at any time, the vilest scandals should break out in the best societies. Such spots there have been in our feasts of charity; tares among the wheat, wolves among the sheep; but there is a day of discovery and separation coming, where hypocrites shall be unmasked and discarded. Neither the apostleship, nor the rest of the apostles, were ever the worse for Judas's being one of the twelve, while his wickedness was concealed and did not break out."
+    },
+    {
+      "src": "MHC",
+      "ref": "Matthew 10:5",
+      "note_ref": "MHC/40/10/5",
+      "cites": [
+        "Matthew 10:2-4"
+      ],
+      "text": "We have here the instructions that Christ gave to his disciples, when he gave them their commission. Whether this charge was given them in a continued discourse, or the several articles of it hinted to them at several times, is not material; in this he commanded them. Jacob's blessing his sons, is called his commanding them, and with these commands Christ commanded a blessing. Observe,\nI. The people to whom he sent them. These ambassadors are directed what places to go to.\n1. Not to the Gentiles nor the Samaritans. They must not go into the way of the Gentiles, nor into any road out of the land of Israel, whatever temptations they might have. The Gentiles must not have the gospel brought them, till the Jews have first refused it. As to the Samaritans, who were the posterity of the mongrel people that the king of Assyria planted about Samaria, their country lay between Judea and Galilee, so that they could not avoid going into the way of the Samaritans, but they must not enter into any of their cities. Christ had declined manifesting himself to the Gentiles or Samaritans, and therefore the apostles must not preach to them. If the gospel be hid from any place, Christ thereby hides himself from that place. This restraint was upon them only in their first mission, afterwards they were appointed to go into all the world, and teach all nations.\n2. But to the lost sheep of the house of Israel. To them Christ appropriated his own ministry (Mat 15:24), for he was a minister of the circumcision (Rom 15:8): and, therefore, to them the apostles, who were but his attendants and agents, must be confined. The first offer of salvation must be made to the Jews, Act 3:26. Note, Christ had a particular and very tender concern for the house of Israel; they were beloved for the fathers' sakes, Rom 11:28. He looked with compassion upon them as lost sheep, whom he, as a shepherd, was to gather out of the by-paths of sin and error, into which they were gone astray, and in which, if not brought back, they would wander endlessly; see Jer 2:6. The Gentiles also had been as lost sheep, Pe1 2:25. Christ gives this description of those to whom they were sent, to quicken them to diligence in their work, they were sent to the house of Israel (of which number they themselves lately were), whom they could not but pity, and be desirous to help.\nII. The preaching work which he appointed them. He did not send them forth without an errand; no, As ye go, preach, Mat 10:7. They were to be itinerant preachers: wherever they come they must proclaim the beginning of the gospel, saying, The kingdom of heaven is at hand. Not that they must say nothing else, but this must be their text; on this subject they must enlarge: let people know, that the kingdom of the Messiah, who is the Lord from heaven, is now to be set up according to the scriptures; from whence it follows, that men must repent of their sins and forsake them, that they might be admitted to the privileges of that kingdom. It is said (Mar 6:12), they went out, and preached that men should repent; which was the proper use and application of this doctrine, concerning the approach of the kingdom of heaven. They must, therefore, expect to hear more of this long-looked-for Messiah shortly, and must be ready to receive his doctrine, to believe in him, and to submit to his yoke. The preaching of this was like the morning light, to give notice of the approach of the rising sun. How unlike was this to the preaching of Jonah, which proclaimed ruin at hand! Jon 3:4. This proclaims salvation at hand, nigh them that fear God; mercy and truth meet together (Psa 85:9, Psa 85:10), that is, the kingdom of heaven at hand: not so much the personal presence of the king; that must not be doated upon; but a spiritual kingdom which is to be set up, when his bodily presence is removed, in the hearts of men.\nNow this was the same that John the Baptist and Christ had preached before. Note, People need to have good truths pressed again and again upon them, and if they be preached and heard with new affections, they are as if they were fresh to us. Christ, in the gospel, is the same yesterday, today, and for ever, Heb 13:8. Afterwards, indeed, when the Spirit was poured out, and the Christian church was formed, this kingdom of heaven came, which was now spoken of as at hand; but the kingdom of heaven must still be the subject of our preaching: now it is come, we must tell people it is come to them, and must lay before them the precepts and privileges of it; and there is a kingdom of glory yet to come, which we must speak of as at hand, and quicken people to diligence from the consideration of that.\nIII. The power he gave them to work miracles for the confirmation of their doctrine, Mat 10:8. When he sent them to preach the same doctrine that he had preached, he empowered them to confirm it, by the same divine seals, which could never be set to a lie. This is not necessary now the kingdom of God is come; to call for miracles now is to lay again the foundation when the building is reared. The point being settled, and the doctrine of Christ sufficiently attested, by the miracles which Christ and his apostles wrought, it is tempting God to ask for more signs. They are directed here,\n1. To use their power in doing good: not \"Go and remove mountains,\" or \"fetch fire from heaven,\" but, Heal the sick, cleanse the lepers. They are sent abroad as public blessings, to intimate to the world, that love and goodness were the spirit and genius of that gospel which they came to preach, and of that kingdom which they were employed to set up. By this it would appear, that they were the servants of that God who is good and does good, and whose mercy is over all his works; and that the intention of the doctrine they preached, was to heal sick souls, and to raise those that were dead in sin; and therefore, perhaps, that of raising the dead is mentioned; for though we read not of their raising any to life before the resurrection of Christ, yet they were instrumental to raise many to spiritual life.\n2. In doing good freely; Freely ye heave received, freely give. Those that had power to heal all diseases, had an opportunity to enrich themselves; who would not purchase such easy certain cures at any rate? Therefore they are cautioned not to make a gain of the power they had to work miracles: they must cure gratis, further to exemplify the nature and complexion of the gospel kingdom, which is made up, not only of grace, but of free grace. Gratia gratis data (Rom 3:24), freely by his grace, Buy medicines without money, and without price, Isa 55:1. And the reason is, because freely you have received. Their power to heal the sick cost them nothing, and, therefore, they must not make any secular advantage to themselves of it. Simon Magus would not have offered money for the gifts of the Holy Ghost, if he had not hoped to get money by them; Act 8:18. Note, The consideration of Christ's freeness in doing good to us, should make us free in doing good to others.\nIV. The provision that must be made for them in this expedition; it is a thing to be considered in sending an ambassador, who must bear the charge of the embassy. As to that,\n1. They must make no provision for it themselves, Mat 10:9, Mat 10:10. Provide neither gold nor silver. As, on the one hand, they shall not raise estates by their work, so, on the other hand, they shall not spend what little they have of their own upon it. This was confined to the present mission, and Christ would teach them, (1.) To act under the conduct of human prudence. They were now to make but a short excursion, and were soon to return to their Master, and to their head-quarters again, and, therefore, why should they burthen themselves with that which they would have no occasion for? (2.) To act in dependence upon Divine Providence. They must be taught to live, without taking thought for life, Mat 6:25, etc. Note, They who go upon Christ's errand, have, of all people, most reason to trust him for food convenient. Doubtless he will not be wanting to those that are working for him. Those whom he employs, as they are taken under special protection, so they are entitled to special provisions. Christ's hired servants shall have bread enough and to spare; while we abide faithful to God and our duty, and are in care to do our work well, we may cast all our other care upon God; Jehovah-jireh, let the Lord provide for us and ours as he thinks fit.\n2. They might expect that those to whom they were sent would provide for them what was necessary, Mat 10:10. The workman is worthy of his meat. They must not expect to be fed by miracles, as Elijah was: but they might depend upon God to incline the hearts of those they went among, to be kind to them, and provide for them. Though they who serve at the altar may not expect to grow rich by the altar, yet they may expect to live, and to live comfortably upon it, Co1 9:13, Co1 9:14. It is fit they should have their maintenance from their work. Ministers are, and must be, workmen, labourers, and they that are so are worthy of their meat, so as not to be forced to any other labour for the earning of it. Christ would have his disciples, as not to distrust their God, so not to distrust their countrymen, so far as to doubt of a comfortable subsistence among them. If you preach to them, and endeavour to do good among them, surely they will give you meat and drink enough for your necessities: and if they do, never desire dainties; God will pay you your wages hereafter, and it will be running on in the mean time.\nV. The proceedings they were to observe in dealing with any place, Mat 10:11-15. They went abroad they knew not whither, uninvited, unexpected, knowing none, and known of none; the land of their nativity was to them a strange land; what rule must they go by? what course must they take? Christ would not send them out without full instructions, and here they are.\n1. They are here directed how to conduct themselves toward those that were strangers to them; How to do,\n(1.) In strange towns and cities: when you come to a town, enquire who in it is worthy. [1.] It is supposed that there were some such in every place, as were better disposed than others to receive the gospel, and the preachers of it; though it was a time of general corruption and apostasy. Note, In the worst of times and places, we may charitably hope that there are some who distinguish themselves, and are better than their neighbours; some who swim against the stream, and are as wheat among the chaff. There were saints in Nero's household. Enquire who is worthy, who there are that have some fear of God before their eyes, and have made a good improvement of the light and knowledge they have. The best are far from meriting the favour of a gospel offer; but some would be more likely than others to give the apostles and their message a favourable entertainment, and would not trample these pearls under their feet. Note, Previous dispositions to that which is good, are both directions and encouragements to ministers, in dealing with people. There is most hope of the word being profitable to those who are already so well inclined, as that it is acceptable to them; and there is here and there one such. [2.] They must enquire out such; not enquire for the best inns; public houses were no proper places for them that neither took money with them (Mat 10:9), nor expected to receive any (Mat 10:8); but they must look out for accommodations in private houses, with those that would entertain them well, and expect no other recompence for it but a prophet's reward, an apostle's reward, their praying and preaching. Note, They that entertain the gospel, must neither grudge the expense of it, nor promise themselves to get by it in this world. They must enquire, not who is rich, but who is worthy; not who is the best gentleman, but who is the best man. Note, Christ's disciples, wherever they come, should ask for the good people of the place, and be acquainted with them; when we took God for our God, we took his people for our people, and like will rejoice in its like. Paul in all his travels found out the brethren, if there were any, Act 28:14. It is implied, that if they did enquire who was worthy, they might discover them. They that were better than their neighbours would be taken notice of, and any one could tell them, there lives an honest, sober, good man; for this is a character which, like the ointment of the right hand, betrays itself and fills the house with its odours. Every body knew where the seer's house was, Sa1 9:18. [3.] In the house of those they found worthy, they must continue; which intimates that they were to make so short a stay at each town, that they needed not change their lodging, but whatever house providence brought them to at first, there they must continue till they left that town. They are justly suspected, as having no good design, that are often changing their quarters. Note, It becomes the disciples of Christ to make the best of that which is, to abide by it, and not be for shifting upon every dislike or inconvenience.\n(2.) In strange houses. When they had found the house of one they thought worthy, they must at their entrance salute it. \"In those common civilities, be beforehand with people, in token of your humility. Think it not a disparagement, to invite yourselves into a house, nor stand upon the punctilio of being invited. Salute the family, [1.] To draw on further discourse, and so to introduce your message.\" (From matters of common conversation, we may insensibly pass into that communication which is good to the use of edifying.) [2.] \"To try whether you are welcome or not; you will take notice whether the salutation be received with shyness and coldness, or with a ready return. He that will not receive your salutation kindly, will not receive your message kindly; for he that is unskilful and unfaithful in a little, will also be in much, Luk 16:10. [3.] To insinuate yourselves into their good opinion. Salute the family, that they may see that though you are serious, you are not morose.\" Note, Religion teaches us to be courteous and civil, and obliging to all with whom we have to do. Though the apostles went out backed with the authority of the Son of God himself, yet their instructions were, when they came into a house, not to command it, but to salute it; for love's sake rather to beseech, is the evangelical way, Plm 1:8, Plm 1:9. Souls are first drawn to Christ with the cords of a man, and kept to him by the bands of love, Hos 11:4. When Peter made the first offer of the gospel to Cornelius, a Gentile, Peter was first saluted; see Act 10:25, for the Gentiles courted that which the Jews were courted to.\nWhen they had saluted the family after a godly sort, they must by the return, judge concerning the family, and proceed accordingly. Note, The eye of God is upon us, to observe what entertainment we give to good people and good ministers; if the house be worthy, let your peace come and rest upon it; if not, let it return to you, Mat 10:13. It seems then, that after they had enquired for the most worthy (Mat 10:11), it was possible they might light upon those that were unworthy. Note, Though it is wisdom to hearken to, yet it is folly to rely upon, common report and opinion; we ought to use a judgment of discretion, and to see with our own eyes. The wisdom of the prudent is himself to understand his own way. Now this rule is intended,\nFirst, For satisfaction to the apostles. The common salutation was, Peace be unto you; this, as they used it, was turned into gospel; it was the peace of God, the peace of the kingdom of heaven, that they wished. Now lest they should make a scruple of pronouncing this blessing upon all promiscuously, because many were utterly unworthy of it, this is to clear them of that scruple; Christ tells them that this gospel prayer (for so it was now become) should be put up for all, as the gospel proffer was made to all indefinitely, and that they should leave it to God who knows the heart, and every man's true character, to determine the issue of it. If the house be worthy, it will reap the benefit of your blessing; if now, there is no harm done, you will not lose the benefit of it; it shall return to you, as David's prayers for his ungrateful enemies did, Psa 35:13. Note, It becomes us to judge charitably of all, to pray heartily for all, and to conduct ourselves courteously to all, for that is our part, and then to leave it with God to determine what effect it shall have upon them, for that is his part.\nSecondly, For direction to them. \"If, upon your salutation, it appear that they are indeed worthy, let them have more of your company, and so let your peace come upon them; preach the gospel to them, peace by Jesus Christ; but if otherwise, if they carry it rudely to you, and shut their doors against you, let your peace, as much as in you lies, return to you. Retract what you have said, and turn your backs upon them; by slighting this, they have made themselves unworthy of the rest of your favours, and cut themselves short of them.\" Note, Great blessings are often lost by a neglect seemingly small and inconsiderable, when men are in their probation and upon their behaviour. Thus Esau lost his birthright (Gen 25:34), and Saul his kingdom, Sa1 13:13, Sa1 13:14.\n2. They are here directed how to carry it towards those that were refusers of them. The case is put (Mat 10:14) of those that would not receive them, nor hear their words. The apostles might think, that now they had such a doctrine to preach, and such a power to work miracles for the confirmation of it, no doubt but they should be universally entertained and made welcome: they are, therefore, told before, that there would be those that would slight them, and put contempt on them and their message. Note, The best and most powerful preachers of the gospel must expect to meet with some, that will not so much as give them the hearing, nor show them any token of respect. Many turn a deaf ear, even to the joyful sound, and will not hearken to the voice of the charmers, charm they never so wisely. Observe, \"They will not receive you, and they will not hear your words.\" Note, Contempt of the gospel, and contempt of gospel ministers, commonly go together, and they will either of them be construed into a contempt of Christ, and will be reckoned for accordingly.\nNow in this case we have here,\n(1.) The directions given to the apostles what to do. They must depart out of that house or city. Note, The gospel will not tarry long with those that put it away from them. At their departure they must shake off the dust of their feet, [1.] In detestation of their wickedness; it was so abominable, that it did even pollute the ground they went upon, which must therefore be shaken off as a filthy thing. The apostles must have no fellowship nor communion with them; must not so much as carry away the dust of their city with them. The work of them that turn aside shall not cleave to me, Psa 101:3. The prophet was not to eat or drink in Bethel, Kg1 13:9. [2.] As a denunciation of wrath against them. It was to signify, that they were base and vile as dust, and that God would shake them off. The dust of the apostles' feet, which they left behind them, would witness against them, and be brought in as evidence, that the gospel had been preached to them, Mar 6:11. Compare Jam 5:3. See this practised, Act 13:51, Act 18:6. Note, They who despise God and his gospel shall be lightly esteemed.\n(2.) The doom passed upon such wilful recusants, Mat 10:15. It shall be more tolerable, in the day of judgment, for the land of Sodom, as wicked a place as it was. Note, [1.] There is a day of judgment coming, when all those that refused the gospel will certainly be called to account for it; however they now make a jest of it. They that would not hear the doctrine that would save them, shall be made to hear the sentence that will ruin them. Their judgment is respited till that day. [2.] There are different degrees of punishment in that day. All the pains of hell will be intolerable; but some will be more so than others. Some sinners sink deeper into hell than others, and are beaten with more stripes. [3.] The condemnation of those that reject the gospel, will in that day be severer and heavier than that of Sodom and Gomorrah. Sodom is said to suffer the vengeance of eternal fire, Jde 1:7. But that vengeance will come with an aggravation upon those that despise the great salvation. Sodom and Gomorrah were exceedingly wicked (Gen 13:13), and that which filled up the measure of their iniquity was, that they received not the angels that were sent to them, but abused them (Gen 19:4, Gen 19:5), and hearkened not to their words, Mat 10:14. And yet it will be more tolerable for them than for those who receive not Christ's ministers and hearken not to their words. God's wrath against them will be more flaming, and their own reflections upon themselves more cutting. Son, remember I will sound most dreadfully in the ears of such as had a fair offer made them of eternal life, and chose death rather. The iniquity of Israel, when God sent them his servants the prophets, is represented as, upon that account, more heinous than the iniquity of Sodom (Eze 16:48, Eze 16:49), much more now he sent them his Son, the great Prophet."
+    },
+    {
+      "src": "MHC",
+      "ref": "Mark 3:13",
+      "note_ref": "MHC/41/3/13",
+      "cites": [
+        "Mark 3:14-19"
+      ],
+      "text": "In these verses, we have,\nI. The choice Christ made of the twelve apostles to be his constant followers and attendants, and to be sent abroad as there was occasion, to preach the gospel. Observe,\n1. The introduction to this call or promotion of disciples; He goes up into a mountain, and his errand thither was to pray. Ministers must be set apart with solemn prayer for the pouring out of the Spirit upon them; though Christ had authority to confer the gifts of the Holy Ghost, yet, to set us an example, he prayed for them.\n2. The rule he went by in his choice, and that was his own good pleasure; He called unto him whom he would. Not such as we should have thought fittest to be called, looking upon the countenance, and the height of the stature; but such as he thought fit to call, and determined to make fit for the service to which he called them: even so, blessed Jesus, because it seemed good in thine eyes. Christ calls whom he will; for he is a free Agent, and his grace is his own.\n3. The efficacy of the call; He called them to separate themselves from the crowd, and stand by him, and they came unto him. Christ calls those who were given him (Joh 17:6); and all that the Father gave him, shall come to him, Joh 6:37. Those whom it was his will to call, he made willing to come; his people shall be willing in the day of his power. Perhaps they came to him readily enough, because they were in expectation of reigning with him in temporal pomp and power; but when afterward they were undeceived in that matter, yet they had such a prospect given them of better things, that they would not say they were deceived in their Master, nor repented their leaving all to be with him.\n4. The end and intention of this call; He ordained them (probably by the imposition of hands, which was a ceremony used among the Jews), that they should be with him constantly, to be witnesses of his doctrine, manner of life, and patience, that they might fully know it, and be able to give an account of it; and especially that they might attest the truth of his miracles; they must be with him to receive instructions from him, that they might be qualified to give instructions to others. It would require time to fit them for that which he designed them for; for they must be sent forth to preach; not to preach till they were sent, and not to be sent till by a long and intimate acquaintance with Christ they were fitted. Note, Christ's ministers must be much with him.\n5. The power he gave them to work miracles; and hereby he put a very great honour upon them, beyond that of the great men of the earth. He ordained them to heal sicknesses and to cast out devils. This showed that the power which Christ had to work these miracles was an original power; that he had it not as a Servant, but as a Son in his own house, in that he could confer it upon others, and invest them with it: they have a rule in the law, Deputatus non potest deputare - He that is only deputed himself, cannot depute another; but our Lord Jesus had life in himself, and the Spirit without measure; for he could give this power even to the weak and foolish things of the world.\n6. Their number and names; He ordained twelve, according to the number of the twelve tribes of Israel. They are here named not just in the same order as they were in Matthew, nor by couples, as they were there; but as there, so here, Peter is put first and Judas last. Here Matthew is put before Thomas, probably being called in that order; but in that catalogue which Matthew himself drew up, he puts himself after Thomas; so far was he from insisting upon the precedency of his consecration. But that which Mark only takes notice of in this list of the apostles, is, that Christ called James and John Boanerges, which is, The sons of thunder; perhaps they were remarkable for a loud commanding voice, they were thundering preachers; or, rather, it denotes the zeal and fervency of their spirits, which would make them active for God above their brethren. These two (saith Dr. Hammond) were to be special eminent ministers of the gospel, which is called a voice shaking the earth, Heb 12:26. Yet John, one of those sons of thunder, was full of love and tenderness, as appears by his epistles, and was the beloved disciple.\n7. Their retirement with their Master, and close adherence to him; They went into a house. Now that this jury was impanelled, they stood together, to hearken to their evidence. They went together into the house, to settle the orders of their infant college; and now, it is likely, the bag was given to Judas, which pleased him, and made him easy.\nII. The continual crowds that attended Christ's motions (Mar 3:20); The multitude cometh together again, unsent for, and unseasonably pressing upon him, some with one errand and some with another; so that he and his disciples could not get time so much as to eat bread, much less for a set and full meal. Yet he did not shut his doors against the petitioners, but bade them welcome, and gave to each of them an answer of peace. Note, They whose hearts are enlarged in the work of God, can easily bear with great inconveniences to themselves, in the prosecution of it, and will rather lose a meal's meat at any time than slip an opportunity of doing good. It is happy when zealous hearers and zealous preachers thus meet, and encourage one another. Now the kingdom of God was preached, and men pressed into it, Luk 16:16. This was a gale of opportunity worth improving; and the disciples might well afford to adjourn their meals, to lay hold on it. It is good striking while the iron is hot.\nIII. The care of his relations concerning him (Mar 3:21); When his friends in Capernaum heard how he was followed, and what pains he took, they went out, to lay hold on him, and fetch him home, for they said, He is beside himself. 1. Some understand it of an absurd preposterous care, which had more in it of reproach to him than of respect; and so we must take it as we read it, He is beside himself; either they suspected it themselves, or it was suggested to them, and they gave credit to the suggestion, that he was gone distracted, and therefore his friends ought to bind him, and put him in a dark room, to bring him to his right mind again. His kindred, many of them, had mean thoughts of him (Joh 7:5), and were willing to hearken to this ill construction which some put upon his great zeal, and to conclude him crazed in his intellects, and under that pretence to take him off from his work. The prophets were called mad fellows, Kg2 9:11. 2. Others understand it of a well-meaning care; and then they read exestē - \"He fainteth, he has no time to eat bread, and therefore his strength will fail him; he will be stifled with the crowd of people, and will have his spirits quite exhausted with constant speaking, and the virtue that goes out of him in his miracles; and therefore let us use a friendly violence with him, and get him a little breathing-time.\" In his preaching-work, as well as his suffering-work, he was attacked with, Master, spare thyself. Note, They who go on with vigour and zeal in the work of God, must expect to meet with hindrances, both from the groundless disaffection of their enemies, and the mistaken affections of their friends, and they have need to stand upon their guard against both."
+    },
+    {
+      "src": "MHC",
+      "ref": "Luke 6:12",
+      "note_ref": "MHC/42/6/12",
+      "cites": [
+        "Luke 6:13-16"
+      ],
+      "text": "In these verses, we have our Lord Jesus in secret, in his family, and in public; and in all three acting like himself.\nI. In secret we have him praying to God, Luk 6:12. This evangelist takes frequent notice of Christ's retirements, to give us an example of secret prayer, by which we must keep up our communion with God daily, and without which it is impossible that the soul should prosper. In those days, when his enemies were filled with madness against him, and were contriving what to do to him, he went out to pray; that he might answer the type of David (Psa 109:4), For my love, they are my adversaries; but I give myself unto prayer. Observe, 1. He was alone with God; he went out into a mountain, to pray, where he might have no disturbance or interruption given him; we are never less alone than when we are thus alone. Whether there was any convenient place built upon this mountain, for devout people to retire to for their private devotions, as some think, and that that oratory, or place of prayer, is meant here by hē proseuchē tou theou, to me seems very uncertain. He went into a mountain for privacy, and therefore, probably, would not go to a place frequented by others. 2. He was long alone with God: He continued all night in prayer. We think one half hour a great deal to spend in the duties of the closet; but Christ continued a whole night in meditation and secret prayer. We have a great deal of business at the throne of grace, and we should take a great delight in communion with God, and by both these we may be kept sometimes long at prayer.\nII. In his family we have him nominating his immediate attendants, that should be the constant auditors of his doctrine and eye-witnesses of his miracles, that hereafter they might be sent forth as apostles, his messengers to the world, to preach his gospel to it, and plant his church in it, Luk 6:13. After he had continued all night in prayer, one would have thought that, when it was day, he should have reposed himself, and got some sleep. No, as soon as any body was stirring, he called unto him his disciples. In serving God, our great care should be, not to lose time, but to make the end of one good duty the beginning of another. Ministers are to be ordained with prayer more than ordinarily solemn. The number of the apostles was twelve. Their names are here recorded; it is the third time that we have met with them, and in each of the three places the order of them differs, to teach both ministers and Christians not to be nice in precedency, not in giving it, much less in taking it, but to look upon it as a thing not worth taking notice of; let it be as it lights. He that in Mark was called Thaddeus, in Matthew Lebbeus, whose surname was Thaddeus, is here called Judas the brother of James, the same that wrote the epistle of Jude. Simon, who in Matthew and Mark was called the Canaanite, is here called Simon Zelotes, perhaps for his great zeal in religion. Concerning these twelve here named we have reason to say, as the queen of Sheba did of Solomon's servants, Happy are thy men, and happy are these thy servants, that stand continually before thee, and hear thy wisdom; never were men so privileged, and yet one of them had a devil, and proved a traitor (Luk 6:16); yet Christ, when he chose him, was not deceived in him.\nIII. In public we have him preaching and healing, the two great works between which he divided his time, Luk 6:17. He came down with the twelve from the mountain, and stood in the plain, ready to receive those that resorted to him; and there were presently gathered about him, not only the company of his disciples, who used to attend him, but also a great multitude of people, a mixed multitude out of all Judea and Jerusalem. Though it was some scores of miles from Jerusalem to that part of Galilee where Christ now was, - though at Jerusalem they had abundance of famous rabbin, that had great names, and bore a mighty sway, - yet they came to hear Christ. They came also from the sea-coast of Tyre and Sidon. Though they who lived there were generally men of business, and though they bordered upon Canaanites, yet there were some well affected to Christ; such there were dispersed in all parts, here and there one. 1. They came to hear him and he preached to them. Those that have not good preaching near them had better travel far for it than be without it. It is worth while to go a great way to hear the word of Christ, and to go out of the way of other business for it. 2. They came to be cured by him, and he healed them. Some were troubled in body, and some in mind; some had diseases, some had devils; but both the one and the other, upon their application to Christ, were healed, for he has power over diseases and devils (Luk 6:17, Luk 6:18), over the effects and over the causes. Nay, it should seem, those who had no particular diseases to complain of yet found it a great confirmation and renovation to their bodily health and vigour to partake of the virtue that went out of him; for (Luk 6:19) the whole multitude sought to touch him, those that were in health as well as those that were sick, and they were all, one way or other, the better for him: he healed them all; and who is there that doth not need, upon some account or other, to be healed? There is a fulness of grace in Christ, and healing virtue in him, and ready to go out from him, that is enough for all, enough for each."
+    },
+    {
+      "src": "MHC",
+      "ref": "John 6:60",
+      "note_ref": "MHC/43/6/60",
+      "cites": [
+        "John 6:71"
+      ],
+      "text": "We have here an account of the effects of Christ's discourse. Some were offended and others edified by it; some driven from him and others brought nearer to him.\nI. To some it was a savour of death unto death; not only to the Jews, who were professed enemies to him and his doctrine, but even to many of his disciples, such as were disciples at large, who were his frequent hearers, and followed him in public; a mixed multitude, like those among Israel, that began all the discontents. Now here we have,\n1. Their murmurings at the doctrine they heard (Joh 6:60): This is a hard saying, who can hear it? (1.) They do not like it themselves: \"What stuff is this? Eat the flesh, and drink the blood, of the Son of man! If it is to be understood figuratively, it is not intelligible; if literally, not practicable. What! must we turn cannibals? Can we not be religious, but we must be barbarous?\" Si Christiani adorant quod comedunt (said Averroes), sit anima mea cum philosophis - If Christians adore what they eat, my mind shall continue with the philosophers. Now, when they found it a hard saying, if they had humbly begged of Christ to have declared unto them this parable, he would have opened it, and their understandings too; for the meek will he teach his way. But they were not willing to have Christ's sayings explained to them, because they would not lose this pretence for rejecting them - that they were hard sayings. (2.) They think it impossible that any one else should like it: \"Who can hear it? Surely none can.\" Thus the scoffers at religion are ready to undertake that all the intelligent part of mankind concur with them. They conclude with great assurance that no man of sense will admit the doctrine of Christ, nor any man of spirit submit to his laws. Because they cannot bear to be so tutored, so tied up, themselves, they think none else can: Who can hear it? Thanks be to God, thousands have heard these sayings of Christ, and have found them not only easy, but pleasant, as their necessary food.\n2. Christ's animadversions upon their murmurings.\n(1.) He well enough knew their murmurings, Joh 6:61. Their cavils were secret in their own breasts, or whispered among themselves in a corner. But, [1.] Christ knew them; he saw them, he heard them. Note, Christ takes notice not only of the bold and open defiances that are done to his name and glory by daring sinners, but of the secret slights that are put upon his doctrine by carnal professors; he knows that which the fool saith in his heart, and cannot for shame speak out; he observes how his doctrine is resented by those to whom it is preached; who rejoice in it, and who murmur at it; who are reconciled to it, and bow before it, and who quarrel with it, and rebel against it, though ever so secretly. [2.] He knew it in himself, not by any information given him, nor any external indication of the thing, but by his own divine omniscience. He knew it not as the prophets, by a divine revelation made to him (that which the prophets desired to know was sometimes hid from them, as Kg2 4:27), but by a divine knowledge in him. He is that essential Word that discerns the thoughts of the heart, Heb 4:12, Heb 4:13. Thoughts are words to Christ; we should therefore take heed not only what we say and do, but what we think.\n(2.) He well enough knew how to answer them: \"Doth this offend you? Is this a stumbling-block to you?\" See how people by their own wilful mistakes create offences to themselves: they take offence where there is none given, and even make it where there is nothing to make it of. Note, We may justly wonder that so much offence should be taken at the doctrine of Christ for so little cause. Christ speaks of it here with wonder: \"Doth this offend you?\" Now, in answer to those who condemned his doctrine as intricate and obscure (Si non vis intelligi, debes negligi - If you are unwilling to be understood, you ought to be neglected),\n[1.] He gives them a hint of his ascension into heaven, as that which would give an irresistible evidence of the truth of his doctrine (Joh 6:62): What and if you shall see the Son of man ascend up where he was before? And what then? First, \"If I should tell you of that, surely it would much more offend you, and you would think my pretensions too high indeed. If this be so hard a saying that you cannot hear it, how will you digest it when I tell you of my returning to heaven, whence I came down?\" See Joh 3:12. Those who stumble at smaller difficulties should consider how they will get over greater. Secondly, \"When you see the Son of man ascend, this will much more offend you, for then my body will be less capable of being eaten by you in that gross sense wherein you now understand it;\" so Dr. Whitby. Or, Thirdly, \"When you see that, or hear it from those that shall see it, surely then you will be satisfied. You think I take too much upon me when I say, I came down from heaven, for it was with this that you quarrelled (Joh 6:42); but will you think so when you see me return to heaven?\" If he ascended, certainly he descended, Eph 4:9, Eph 4:10. Christ did often refer himself thus to subsequent proofs, as Joh 1:50, Joh 1:51; Joh 2:14; Mat 12:40; Mat 26:64. Let us wait awhile, till the mystery of God shall be finished, and then we shall see that there was no reason to be offended at any of Christ's sayings.\n[2.] He gives them a general key to this and all such parabolical discourses, teaching them that they are to be understood spiritually, and not after a corporal and carnal manner: It is the spirit that quickeneth, the flesh profiteth nothing, Joh 6:63. As it is in the natural body, the animal spirits quicken and enliven it, and without these the most nourishing food would profit nothing (what would the body be the better for bread, if it were not quickened and animated by the spirit), so it is with the soul. First, The bare participation of ordinances, unless the Spirit of God work with them, and quicken the soul by them, profits nothing; the word and ordinances, if the Spirit works with them, are as food to a living man, if not, they are as food to a dead man. Even the flesh of Christ, the sacrifice for sin, will avail us nothing unless the blessed Spirit quicken our souls thereby, and enforce the powerful influences of his death upon us, till we by his grace are planted together in the likeness of it. Secondly, The doctrine of eating Christ's flesh and drinking his blood, if it be understood literally, profits nothing, but rather leads us into mistakes and prejudices; but the spiritual sense or meaning of it quickens the soul, makes it alive and lively; for so it follows: The words that I speak unto you, they are spirit, and they are life. To eat the flesh of Christ! this is a hard saying, but to believe that Christ died for me, to derive from that doctrine strength and comfort in my approaches to God, my oppositions to sin and preparations for a future state, this is the spirit and life of that saying, and, construing it thus, it is an excellent saying. The reason why men dislike Christ's sayings if because they mistake them. The literal sense of a parable does us no good, we are never the wiser for it, but the spiritual meaning is instructive. Thirdly, The flesh profits nothing - those that are in the flesh (so some understand it), that are under the power of a carnal mind, profit not by Christ's discourses; but the Spirit quickeneth - those that have the Spirit, that are spiritual, are quickened and enlivened by them; for they are received ad modum recipientis - so as to correspond with the state of the receiver's mind. They found fault with Christ's sayings, whereas the fault was in themselves; it is only to sensual minds that spiritual things are senseless and sapless, spiritual minds relish them; see Co1 2:14, Co1 2:15.\n[3.] He gives them an intimation of his knowledge of them, and that he had expected no better from them, though they called themselves his disciples, Joh 6:64, Joh 6:65. Now was fulfilled that of the prophet, speaking of Christ and his doctrine (Isa 53:1), Who hath believed our report? and to whom is the arm of the Lord revealed? Both these Christ here takes notice of.\nFirst, They did not believe his report: \"There are some of you who said you would leave all to follow me who yet believe not;\" and this was the reason why the word preached did not profit them, because it was not mixed with faith, Heb 4:2. They did not believe him to be the Messiah, else they would have acquiesced in the doctrine he preached, and not have quarrelled with it, though there were some things in it dark, and hard to be understood. Oportet discentum credere - Young beginners in learning must take things upon their teacher's word. Note, 1. Among those who are nominal Christians, there are many who are real infidels. 2. The unbelief of hypocrites, before it discovers itself to the world, is naked and open before the eyes of Christ. He knew from the beginning who they were of the multitudes that followed him that believed, and who of the twelve should betray him; he knew from the beginning of their acquaintance with him, and attendance on him, when they were in the hottest pang of their zeal, who were sincere, as Nathanael (Joh 1:47), and who were not. Before they distinguished themselves by an overt act, he could infallibly distinguish who believed and who did not, whose love was counterfeit and whose cordial. We may gather hence, (1.) That the apostasy of those who have long made a plausible profession of religion is a certain proof of their constant hypocrisy, and that from the beginning they believed not, but is not a proof of the possibility of the total and final apostasy of any true believers: such revolts are not to be called the fall of real saints, but the discovery of pretended ones; see Jo1 2:19. Stella cadens non stella fuit - The star that falls never was a star. (2.) That it is Christ's prerogative to know the heart; he knows who they are that believe not, but dissemble in their profession, and yet continues them room in his church, the use of his ordinances, and the credit of his name, and does not discover them in this world, unless they by their own wickedness discover themselves; because such is the constitution of his visible church, and the discovering day is yet to come. But, if we pretend to judge men's hearts, we step into Christ's throne, and anticipate his judgment. We are often deceived in men, and see cause to change our sentiments of them; but this we are sure of, that Christ knows all men, and his judgment is according to truth.\nSecondly, The reason why they did not believe his report was because the arm of the Lord was not revealed to them (Joh 6:65): Therefore said I unto you that no man can come to me, except it be given unto him of my Father; referring to Joh 6:44. Christ therefore could not but know who believed and who did not, because faith is the gift and work of God, and all his Father's gifts and works could not but be known to him, for they all passed through his hands. There he had said that none could come to him, except the Father draw him; here he saith, except it be given him of my Father, which shows that God draws souls by giving them grace and strength, and a heart to come, without which, such is the moral impotency of man, in his fallen state, that he cannot come.\n3. We have here their final apostasy from Christ hereupon: From that time many of his disciples went back, and walked no more with him, Joh 6:66. When we admit into our minds hard thoughts of the word and works of Christ, and conceive a secret dislike, and are willing to hear insinuations tending to their reproach, we are then entering into temptation; it is as the letting forth of water; it is looking back, which, if infinite mercy prevent not, will end in drawing back; therefore Obsta principiis - Take heed of the beginnings of apostasy. (1.) See here the backsliding of these disciples. Many of them went back to their houses, and families, and callings, which they had left for a time to follow him; went back, one to his farm and another to his merchandise; went back, as Orpah did, to their people, and to their gods, Rut 1:15. They had entered themselves in Christ's school, but they went back, did not only play truant for once, but took leave of him and his doctrine for ever. Note, The apostasy of Christ's disciples from him, though really a strange thing, yet has been such a common thing that we need not be surprised at it. Here were many that went back. It is often so; when some backslide many backslide with them; the disease is infectious. (2.) The occasion of this backsliding: From that time, from the time that Christ preached this comfortable doctrine, that he is the bread of life, and that those who by faith feed upon him shall live by him (which, one would think, should have engaged them to cleave more closely to him) - from that time they withdrew. Note, The corrupt and wicked heart of man often makes that an occasion of offence which is indeed matter of the greatest comfort. Christ foresaw that they would thus take offence at what he said, and yet he said it. That which is the undoubted word and truth of Christ must be faithfully delivered, whoever may be offended at it. Men's humours must be captivated to God's word, and not God's word accommodated to men's humours. (3.) The degree of their apostasy: They walked no more with him, returned no more to him and attended no more upon his ministry. It is hard for those who have been once enlightened, and have tasted the good word of God, if they fall away, to renew them again to repentance, Heb 6:4-6.\nII. This discourse was to others a savour of life unto life. Many went back, but, thanks be to God, all did not; even then the twelve stuck to him. Though the faith of some be overthrown, yet the foundation of God stands sure. Observe here,\n1. The affectionate question which Christ put to the twelve (Joh 6:67): Will you also go away? He saith nothing to those who went back. If the unbelieving depart, let them depart; it was no great loss of those whom he never had; lightly come, lightly go; but he takes this occasion to speak to the twelve, to confirm them, and by trying their stedfastness the more to fix them: Will you also go away? (1.) \"It is at your choice whether you will or no; if you will forsake me, now is the time, when so many do: it is an hour of temptation; if you will go back, go now.\" Note, Christ will detain none with him against their wills; his soldiers are volunteers, not pressed men. The twelve had now had time enough to try how they liked Christ and his doctrine, and that none of them might afterwards say that they were trepanned into discipleship, and if it were to do again they would not do it, he here allows them a power of revocation, and leaves them at their liberty; as Jos 24:15; Rut 1:15. (2.) \"It is at your peril if you do go away.\" If there was any secret inclination in the heart of any of them to depart from him, he stops it with this awakening question, \"Wilt you also go away? Think not that you hang at as loose an end as they did, and may go away as easily as they could. They have not been so intimate with me as you have been, nor received so many favours from me; they are gone, but will you also go? Remember your character, and say, Whatever others do, we will never go away. Should such a man as I flee?\" Neh 6:11. Note, The nearer we have been to Christ and the longer we have been with him, the more engagements we have laid ourselves under to him, the greater will be our sin if we desert him. (3.) \"I have reason to think you will not. Will you go away? No, I have faster hold of you than so; I hope better things of you (Heb 6:9), for you are they that have continued with me,\" Luk 22:28. When the apostasy of some is a grief to the Lord Jesus, the constancy of others is so much the more his honour, and he is pleased with it accordingly. Christ and believers know one another too well to part upon every displeasure.\n2. The believing reply which Peter, in the name of the rest, made to this question, Joh 6:68, Joh 6:69. Christ put the question to them, as Joshua put Israel to their choice whom they would serve, with design to draw out from them a promise to adhere to him, and it had the like effect. Nay, but we will serve the Lord, Peter was upon all occasions the mouth of the rest, not so much because he had more of his Master's ear than they, but because he had more tongue of his own; and what he said was sometimes approved and sometimes reprimanded (Mat 16:17, Mat 16:23) - the common lot of those who are swift to speak. This here was well said, admirably well; and probably he said it by the direction, and with the express assent, of his fellow-disciples; at least he knew their mind, and spoke the sense of them all, and did not except Judas, for we must hope the best.\n(1.) Here is a good resolution to adhere to Christ, and so expressed as to intimate that they would not entertain the least thought of leaving him: \"Lord, to whom shall we go? It were folly to go from thee, unless we knew where to better ourselves; no, Lord, we like our choice too well to change.\" Note, Those who leave Christ would do well to consider to whom they will go, and whether they can expect to find rest and peace any where but in him. See Psa 73:27, Psa 73:28; Hos 2:9. \"Whither shall we go? Shall we make our court to the world? It will certainly deceive us. Shall we return to sin? It will certainly destroy us. Shall we leave the fountain of living waters for broken cisterns?\" The disciples resolve to continue their pursuit of life and happiness, and will have a guide to it, and will adhere to Christ as their guide, for they can never have a better. \"Shall we go to the heathen philosophers, and become their disciples? They are become vain in their imaginations, and, professing themselves to be wise in other things, are become fools in religion. Shall we go to the scribes and Pharisees, and sit at their feet? What good can they do us who have made void the commandments of God by their traditions? Shall we go to Moses? He will send us back again to thee. Therefore, if ever we find the way to happiness, it must be in following thee.\" Note, Christ's holy religion appears to great advantage when it is compared with other institutions, for then it will be seen how far it excels them all. Let those who find fault with this religion find a better before they quit it. A divine teacher we must have; can we find a better than Christ? A divine revelation we cannot be without; if the scripture be not such a one, where else may we look for it?\n(2.) Here is a good reason for this resolution. It was not the inconsiderate resolve of a blind affection, but the result of mature deliberation. The disciples were resolved never to go away from Christ,\n[1.] Because of the advantage they promised themselves by him: Thou hast the words of eternal life. They themselves did not fully understand Christ's discourse, for as yet the doctrine of the cross was a riddle to them; but in the general they were satisfied that he had the words of eternal life, that is, First, That the word of his doctrine showed the way to eternal life, set it before us, and directed us what to do, that we might inherit it. Secondly, That the word of his determination must confer eternal life. His having the words of eternal life is the same with his having power to give eternal life to as many as were given him, Joh 17:2. He had in the foregoing discourse assured eternal life to his followers; these disciples fastened upon this plain saying, and therefore resolved to stick to him, when the others overlooked this, and fastened upon the hard sayings, and therefore forsook him. Though we cannot account for every mystery, every obscurity, in Christ's doctrine, yet we know, in the general, that it is the word of eternal life, and therefore must live and die by it; for if we forsake Christ we forsake our own mercies.\n[2.] Because of the assurance they had concerning him (Joh 6:69): We believe, and are sure, that thou art that Christ. if he be the promised Messiah, he must bring in an everlasting righteousness (Dan 9:24), and therefore has the words of eternal life, for righteousness reigns to eternal life, Rom 5:21. observe, First, The doctrine they believed: that this Jesus was the Messiah promised to the fathers and expected by them, and that he was not a mere man, but the Son of the living God, the same to whom God had said, Thou art my Son, Psa 2:7. In times of temptation to apostasy it is good to have recourse to our first principles, and stick to them; and, if we faithfully abide by that which is past dispute, we shall be the better able both to find and to keep the truth in matters of doubtful disputation. Secondly, The degree of their faith: it rose up to a full assurance: We are sure. We have known it by experience; this is the best knowledge. We should take occasion from others' wavering to be so much the more established, especially in that which is the present truth. When we have so strong a faith in the gospel of Christ as boldly to venture our souls upon it, knowing whom we have believed, then, and not till then, we shall be willing to venture every thing else for it.\n3. The melancholy remark which our Lord Jesus made upon this reply of Peter's (Joh 6:70, Joh 6:71): Have not I chosen you twelve, and one of you is a devil? And the evangelist tells us whom he meant: he spoke of Judas Iscariot. Peter had undertaken for them all that they would be faithful to their Master. Now Christ does not condemn his charity (it is always good to hope the best), but he tacitly corrects his confidence. We must not be too sure concerning any. God knows those that are his; we do not. Observe here, (1.) Hypocrites and betrayers of Christ are no better than devils. Judas not only had a devil, but he was a devil. One of you is a false accuser; so diabolos sometimes signifies (Ti2 3:3); and it is probable that Judas, when he sold his Master to the chief priests, represented him to them as a bad man, to justify himself in what he did. But I rather take it as we read it: He is a devil, a devil incarnate, a fallen apostle, as the devil a fallen angel. He is Satan, an adversary, an enemy to Christ. He is Abaddon, and Apollyon, a son of perdition. He was of his father the devil, did his lusts, was in his interests, as Cain, Jo1 3:12. Those whose bodies were possessed by the devil are never called devils (demoniacs, but not devils); but Judas, into whose heart Satan entered, and filled it, is called a devil. (2.) Many that are seeming saints are real devils. Judas had as fair an outside as many of the apostles; his venom was, like that of the serpent, covered with a fine skin. He cast out devils, and appeared an enemy to the devil's kingdom, and yet was himself a devil all the while. Not only he will be one shortly, but he is one now. It is strange, and to be wondered at; Christ speaks of it with wonder: Have not I? It is sad, and to be lamented, that ever Christianity should be made a cloak to diabolism. (3.) The disguises of hypocrites, however they may deceive men, and put a cheat upon them, cannot deceive Christ, for his piercing eye sees through them. He can call those devils that call themselves Christians, like the prophet's greeting to Jeroboam's wife, when she came to him in masquerade (Kg1 14:6): Come in, thou wife of Jeroboam. Christ's divine sight, far better than any double sight, can see spirits. (4.) There are those who are chosen by Christ to special services who yet prove false to him: I have chosen you to the apostleship, for it is expressly said that Judas was not chosen to eternal life (Joh 13:18), and yet one of you is a devil. Note, Advancement to places of honour and trust in the church is no certain evidence of saving grace. We have prophesied in thy name. (5.) In the most select societies on this side heaven it is no new thing to meet with those that are corrupt. Of the twelve that were chosen to an intimate conversation with an incarnate Deity, as great an honour and privilege as ever men were chosen to, one was an incarnate devil. The historian lays an emphasis upon this, that Judas was one of the twelve that were so dignified and distinguished. Let us not reject and unchurch the twelve because one of them is a devil, nor say that they are all cheats and hypocrites because one of them was so; let those that are so bear the blame, and not those who, while they are undiscovered, incorporate with them. There is a society within the veil into which no unclean thing shall enter, a church of first-born, in which are no false brethren.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "Acts 1:12",
+      "note_ref": "MHC/44/1/12",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "We are here told, I. Whence Christ ascended - from the mount of Olives (Act 1:12), from that part of it where the town of Bethany stood, Luk 24:50. There he began his sufferings (Luk 22:39), and therefore there he rolled away the reproach of them by his glorious ascension, and thus showed that his passion and his ascension had the same reference and tendency. Thus would he enter upon his kingdom in the sight of Jerusalem, and of those undutiful ungrateful citizens of his that would not have him to reign over them. It was prophesied of him (Zac 14:4), That his feet should stand upon the mount of Olives, which is before Jerusalem, should stand last there; and presently it follows, The mount of Olives shall cleave in two. From the mount of Olives he ascended who is the good olive-tree, whence we receive the unction, Zac 4:12; Rom 11:24. This mount is here said to be near Jerusalem, a sabbath day's journey from it, that is, a little way; no further than devout people used to walk out on a sabbath evening, after the public worship was over, for meditation. Some reckon it a thousand paces, others two thousand cubits; some seven furlongs, others eight. Bethany indeed was fifteen furlongs from Jerusalem (Joh 11:18), but that part of the mount of Olives which was next to Jerusalem, whence Christ began to ride in triumph, was but seven or eight furlongs off. The Chaldee paraphrast on Ruth 1 says, We are commanded to keep the sabbaths and the holy days, so as not to go above two thousand cubits, which they build upon Jos 3:4, where, in their march through Jordan, the space between them and the ark was to be two thousand cubits. God had not then thus limited them, but they limited themselves; and thus far it is a rule to us, not to journey on the sabbath any more than in order to the sabbath work; and as far as is necessary to this we are not only allowed, but enjoined, Kg2 4:23.\nII. Whither the disciples returned: They came to Jerusalem, according to their Master's appointment, though there they were in the midst of enemies; but it should seem that though immediately after Christ's resurrection they were watched, and were in fear of the Jews, yet after it was known that they were gone into Galilee no notice was taken of their return to Jerusalem, nor any further search made for them. God can find out hiding-places for his people in the midst of their enemies, and so influence Saul that he shall not seek for David any more. At Jerusalem they went up into an upper room, and there abode; not that they all lodged and dieted together in one room, but there they assembled every day, and spent time together in religious exercises, in expectation of the descent of the Spirit. Divers conjectures the learned have about this upper room. Some think it was one of the upper rooms in the temple; but it cannot be thought that the chief priests, who had the letting of these rooms, would suffer Christ's disciples constantly to reside in any of them. It was said indeed, by the same historian, that they were continually in the temple (Luk 24:53), but that was in the courts of the temple, at the hours of prayer, where they could not be hindered from attending; but, it should seem, this upper room was in a private house. Mr. Gregory, of Oxford, is of this opinion, and quotes a Syriac scholiast upon this place, who says that it was the same upper room in which they had eaten the passover; and though that was called anōgeon, this huperōon, both may signify the same. \"Whether,\" says he, \"it was in the house of St. John the evangelist, as Euodius delivered, or that of Mary the mother of John Mark, as others have collected, cannot be certain.\" Notes, ch. 12.\nIII. Who the disciples were, that kept together. The eleven apostles are here named (Act 1:13), so is Mary the mother of our Lord (Act 1:14), and it is the last time that ever any mention is made of her in the scriptures. There were others that are here said to be the brethren of our Lord, his kinsmen according to the flesh; and, to make up the hundred and twenty spoken of (Act 1:15), we may suppose that all or most of the seventy disciples were with them, that were associates with the apostles, and were employed as evangelists.\nIV. How they spent their time: They all continued with one accord in prayer and supplication. Observe, 1. They prayed, and made supplication. All God's people are praying people, and give themselves to prayer. It was now a time of trouble and danger with the disciples of Christ; they were as sheep in the midst of wolves; and, Is any afflicted? Let him pray; this will silence cares and fears. They had new work before them, great work, and, before they entered upon it, they were instant in prayer to God for his presence with them in it. Before they were first sent forth Christ spent time in prayer for them, and now they spent time in prayer for themselves. They were waiting for the descent of the Spirit upon them, and therefore abounded thus in prayer. The Spirit descended upon our Saviour when he was praying, Luk 3:21. Those are in the best frame to receive spiritual blessings that are in a praying frame. Christ had promised now shortly to send the Holy Ghost; now this promise was not to supersede prayer, but to quicken and encourage it. God will be enquired of for promised mercies, and the nearer the performance seems to be the more earnest we should be in prayer for it. 2. They continued in prayer, spent much time in it, more than ordinary, prayed frequently, and were long in prayer. They never missed an hour of prayer; they resolved to persevere herein till the Holy Ghost came, according to the promise, to pray, and not to faint. It is said (Luk 24:53), They were praising and blessing God; here, They continued in prayer and supplication; for as praise for the promise is a decent way of begging for the performance, and praise for former mercy of begging further mercy, so, in seeking to God, we give him the glory of the mercy and grace which we have found in him. 3. They did this with one accord. This intimates that they were together in holy love, and that there was no quarrel nor discord among them; and those who so keep the unity of the Spirit in the bond of peace are best prepared to receive the comforts of the Holy Ghost. It also intimates their worthy concurrence in the supplications that were made; though but one spoke, they all prayed, and if, when two agree to ask, it shall be done for them, much more when many agree in the same petition. See Mat 18:19."
+    },
+    {
+      "src": "MHC",
+      "ref": "Acts 1:15",
+      "note_ref": "MHC/44/1/15",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "The sin of Judas was not only his shame and ruin, but it made a vacancy in the college of the apostles. They were ordained twelve, with an eye to the twelve tribes of Israel, descended from the twelve patriarchs; they were the twelve stars that make up the church's crown (Rev 12:1), and for them twelve thrones were designated, Mat 19:28. Now being twelve when they were learners, if they were but eleven when they were to be teachers, it would occasion every one to enquire what had become of the twelfth, and so revive the remembrance of the scandal of their society; and therefore care was taken, before the descent of the Spirit, to fill up the vacancy, of the doing of which we now have an account, our Lord Jesus, probably, having given directions about it, among other things which he spoke pertaining to the kingdom of God. Observe,\nI. The persons concerned in this affair. 1. The house consisted of about a hundred and twenty. This was the number of the names, that is, the persons; some think the men only, distinguished from the women. Dr. Lightfoot reckons that the eleven apostles, the seventy disciples, and about thirty-nine more, all of Christ's own kindred, country, and concourse, made up this one hundred and twenty, and that these were a sort of synod, or congregation of ministers, a standing presbytery (Act 4:23), to whom none of the rest durst join themselves (Act 5:13), and that they continued together till the persecution at Stephen's death dispersed them all but the apostles (Act 8:1); but he thinks that besides these there were many hundreds in Jersualem, if not thousands, at this time, that believed; and we have indeed read of many that believed on him there, but durst not confess him, and therefore I cannot think, as he does, that they were now formed into distinct congregations, for the preaching of the word and other acts of worship; nor that there was any thing of this till after the pouring out of the Spirit, and the conversions recorded in the following chapter. Here was the beginning of the Christian church: this hundred and twenty was the grain of mustard-seed that grew into a tree, the leaven that leavened the whole lump. 2. The speaker was Peter, who had been, and still was, the most forward man; and therefore notice is taken of his forwardness and zeal, to show that he had perfectly recovered the ground he lost by his denying his Master, and, Peter being designed to be the apostle of the circumcision, while the sacred story stays among the Jews, he is still brought in, as afterwards, when it comes to speak of the Gentiles, it keeps to the story of Paul.\nII. The proposal which Peter made for the choice of another apostle. He stood up in the midst of the disciples, Act 1:15. He did not sit down, as one that gave laws, or had any supremacy over the rest, but stood up, as one that had only a motion to make, in which he paid a deference to his brethren, standing up when he spoke to them. Now in his speech we may observe,\n1. The account he gives of the vacancy made by the death of Judas, in which he is very particular, and, as became one that Christ had breathed upon, takes notice of the fulfilling of the scriptures in it. Here is,\n(1.) The power to which Judas had been advanced (Act 1:17): He was numbered with us, and had obtained part of this ministry which we are invested with. Note, Many are numbered with the saints in this world that will not be found among them in the day of separation between the precious and the vile. What will it avail us to be added to the number of Christians, if we partake not of the spirit and nature of Christians? Judas's having obtained part of this ministry was but an aggravation of his sin and ruin, as it will be of theirs who prophesied in Christ's name, and yet were workers of iniquity.\n(2.) The sin of Judas, notwithstanding his advancement to this honour. He was guide to those that took Jesus, not only informed Christ's persecutors where they might find him (which they might have done effectually though he had kept out of sight), but he had the impudence to appear openly at the head of the party that seized him. He went before them to the place, and, as if he had been proud of the honour, gave the word of command: That same is he, hold him fast. Note, Ringleaders in sin are the worst of sinners, especially if those that by their office should have been guides to the friends of Christ are guides to his enemies.\n(3.) The ruin of Judas by this sin. Perceiving the chief priests to seek the life of Christ and his disciples, he thought to save his by going over to them, and not only so, but to get an estate under them, of which his wages for his service, he hoped, would be but an earnest; but see what came of it. [1.] He lost his money shamefully enough (Act 1:18): He purchased a field with the thirty pieces of silver, which were the reward of his iniquity. He did not purchase the field, but the wages of his unrighteousness did, and it is very elegantly expressed thus, in derision of his projects to enrich himself by this bargain. He thought to have purchased a field for himself, as Gehazi did with what he got from Naaman by a lie (see Kg2 5:26), but it proved the purchase of a field to bury strangers in; and what was he or any of his the better for this? It was to him an unrighteous mammon, it deceived him; and the reward of his iniquity was the stumbling-block of his iniquity. [2.] He lost his life m ore shamefully. We were told (Mat 27:5) that he went away in despair, and was suffocated (so the word signifies there, and no more); here it is added (as latter historians add to those who went before) that, being strangled, or choked with grief and horror, he fell headlong, fell on his face (so Dr. Hammond), and partly with the swelling of his own breast, and partly with the violence of the fall, he burst asunder in the midst, so that all his bowels tumbled out. If, when the devil was cast out of a child, he tore him, threw him down, and rent him, and almost killed him (as we find Mar 9:26; Luk 9:42), no wonder if, when he had full possession of Judas, he threw him headlong, and burst him. The suffocation of him, which Matthew relates, would make him swell till he burst, which Peter relates. he burst asunder with a great noise (so Dr. Edwards), which was heard by the neighbours, and so, as it follows, it came to be known (Act 1:19): His bowels gushed out; Luke writes like a physician, understanding all the entrails of the middle and lower ventricle. Bowelling is part of the punishment of traitors. Justly do those bowels gush out that were shut up against the Lord Jesus. And perhaps Christ had an eye to the fate of Judas, when he said of the wicked servant that he would cut him in sunder, Mat 24:51.\n(4.) The public notice that was taken of this: It was known to all the dwellers in Jerusalem. It was, as it were, put into the newspapers, and was all the talk of the town, as a remarkable judgment of God upon him that betrayed his Master, Act 1:19. It was not only discoursed of among the disciples, but it was in every body's mouth, and nobody disputed the truth of the fact. It was known, that is, it was known to be true, incontestably so. Now one would think this should have awakened those to repentance that had had any hand in the death of Christ when they saw him that had the first hand thus made an example. But their hearts were hardened, and, as to those of them that were to be softened, it must be done by the word, and the Spirit working with it. Here is one proof of the notoriety of the thing mentioned, that the field which was purchased with Judas's money was called Aceldama - the field of blood, because it was bought with the price of blood, which perpetuated the infamy not only of him that sold that innocent precious blood, but of those that bought it too. Look how they will answer it, when God shall make inquisition for blood.\n(5.) The fulfilling of the scriptures in this, which had spoken so plainly of it, that it must needs be fulfilled, Act 1:16. Let none be surprised nor stumble at it, that this should be the exit of one of the twelve, for David had not only foretold his sin (which Christ had taken notice of, Joh 13:18, from Psa 41:9, He that eateth bread with me hath lifted up the heel against me), but had also foretold, [1.] His punishment (Psa 69:25): Let his habitation be desolate. This Psalm refers to the Messiah. Mention is made but two or three verses before of their giving him gall and vinegar, and therefore the following predictions of the destruction of David's enemies must be applied to the enemies of Christ, and particularly to Judas. Perhaps he had some habitation of his own at Jerusalem, which, upon this, every body was afraid to live in, and so it became desolate. This prediction signifies the same with that of Bildad concerning the wicked man, that his confidence shall be rooted out of his tabernacle, and shall bring him to the king of terrors: it shall dwell in his tabernacle, because it is none of his; brimstone shall be scattered upon his habitation, Job 18:14, Job 18:15. [2.] The substitution of another in his room. His bishopric, or his office (for so the word signifies in general) shall another take, which is quoted from Psa 109:8. With this quotation Peter very aptly introduces the following proposal. Note, We are not to think the worse of any office that God has instituted (whether magistracy or ministry) either for the wickedness of any that are in that office or for the ignominious punishment of that wickedness; nor will God suffer any purpose of his to be frustrated, any commission of his to be vacated, or any work of his to be undone, for the miscarriages of those that are entrusted therewith. The unbelief of man shall not make the promise of God of no effect. Judas is hanged, but his bishopric is not lost. It is said of his habitation, that no man shall dwell therein, there he shall have no heir; but it is not said so of his bishopric, there he shall not want a successor. It is with the officers of the church as with the members of it, if the natural branches be broken off, others shall be grafted in, Rom 11:17. Christ's cause shall never be lost for want of witnesses.\n2. The motion he makes for the choice of another apostle, Act 1:21, Act 1:22. Here observe, (1.) How the person must be qualified that must fill the vacancy. It must be one of these men, these seventy disciples, that have companied with us, that have constantly attended us, all the time that the Lord Jesus went in and out among us, preaching and working miracles for three years and a half, beginning from the baptism of John, from which the gospel of Christ commenced, unto that same day that he was taken up from us. Those that have been diligent, faithful, and constant, in the discharge of their duty in a lower station, are fittest to be preferred to a higher; those that have been faithful in a little shall be entrusted with more. And none should be employed as ministers of Christ, preachers of his gospel, and rulers in his church, but those that are well acquainted with his doctrine and doings, from first to last. None shall be an apostle but one that has companied with the apostles, and that continually; not that has visited them now and then, but been intimately conversant with them. (2.) To what work he is called that must fill up the vacancy: He must be a witness with us of his resurrection. By this it appears that others of the disciples were with the eleven when Christ appeared to them, else they could not have been witnesses with them, as competent witnesses as they, of his resurrection. The great thing which the apostles were to attest to the world was Christ's resurrection, for this was the great proof of his being the Messiah, and the foundation of our hope in him. See what the apostles were ordained to, not to a secular dignity and dominion, but to preach Christ, and the power of his resurrection.\nIII. The nomination of the person that was to succeed Judas in his office as an apostle.\n1. Two, who were known to have been Christ's constant attendants, and men of great integrity, were set up as candidates for the place (Act 1:23): They appointed two; not the eleven, they did not take upon them to determine who should be put up, but the hundred and twenty, for to them Peter spoke, and not to the eleven. The two they nominated were Joseph and Matthias, of neither of whom do we read elsewhere, except this Joseph be the same with that Jesus who is called Justus, of whom Paul speaks (Col 4:11), and who is said to be of the circumcision, a native Jew, as this was, and who was a fellow-worker with Paul in the kingdom of God and a comfort to him; and then it is observable that, though he came short of being an apostle, he did not therefore quit the ministry, but was very useful in a lower station; for, Are all apostles? Are all prophets? Some think this Joseph is he that is called Joses (Mar 6:3), the brother of James the less (Mar 15:40), and was called Joses the just, as he was called James the just. Some confound this with that Joses mentioned Act 4:36. But that was of Cyprus, this of Galilee; and, it should seem, to distinguish them, that was called Barnabas - a son of consolation; this Barsabas - a son of the oath. These two were both of them such worthy men, and so well qualified for the office, that they could not tell which of them was the fitter, but all agreed it must be one of these two. They did not propose themselves nor strive for the place, but humbly sat still, and were appointed to it.\n2. They applied to God by prayer for direction, not which of the seventy, for none of the rest could stand in competition with these in the opinion of all present, but which of these two? Act 1:24, Act 1:25. (1.) They appeal to God as the searcher of hearts: \"Thou, Lord, who knowest the hearts of all men, which we do not, and better than they know their own.\" Observe, When an apostle was to be chosen, he must be chosen by his heart, and the temper and disposition of that. Yet Jesus, who knew all men's hearts, for wise and holy ends chose Judas to be one of the twelve. It is comfortable to us, in our prayers for the welfare of the church and its ministers, that the God to whom we pray knows the hearts of all men, and has them not only under his eye, but in his hand, and turns them which way soever he will, can make them fit for his purpose, if he do not find them so, by giving them another spirit. (2.) They desire to know which of these God had chosen: Lord, show us this, and we are satisfied. It is fit that God should choose his own servants; and so far as he in any way by the disposals of his providence or the gifts of his Spirit, shows whom he hath chosen, or what he hath chosen, for us, we ought to comply with him. (3.) They are ready to receive him as a brother whom God hath chosen; for they are not contriving to have so much the more dignity themselves, by keeping out another, but desire to have one to take part of this ministry and apostleship, to join with them in the work and share with them in the honour, from which Judas by transgression fell, threw himself, by deserting and betraying his Master, from the place of an apostle, of which he was unworthy, that he might go to his own place, the place of a traitor, the fittest place for him, not only to the gibbet, but to hell - this was his own place. Note, Those that betray Christ, as they fall from the dignity of relation to him, so they fall into all misery. It is said of Balaam (Num 24:25) that he went to his own place, that is, says one of the rabbin, he went to hell. Dr. Whitby quotes Ignatius saying, There is appointed to every man idios topos - a proper place, which imports the same with that of God's rendering to every man according to his works. And our Saviour had said that Judas's own place should be such that it had been better for him that he had never been born (Mat 26:24) - his misery such as to be worse than not being. Judas had been a hypocrite, and hell is the proper place of such; other sinners, as inmates, have their portion with them, Mat 24:51. (4.) The doubt was determined by lot (Act 1:26), which is an appeal to God, and lawful to be used for determining matters not otherwise determinable, provided it be done in a solemn religious manner, and with prayer, the prayer of faith; for the lot is cast into the lap, but the whole disposal thereof is of the Lord, Pro 16:33. Matthias was not ordained by the imposition of hands, as presbyters were, for he was chosen by lot, which was the act of God; and therefore, as he must be baptized, so he must be ordained, by the Holy Ghost, as they all were not many days after. Thus the number of the apostles was made up, as afterwards, when James, another of the twelve, was martyred, Paul was made an apostle."
+    },
+    {
+      "src": "TYN",
+      "ref": "Matthew 10:1",
+      "note_ref": "TYN/40/10/1",
+      "cites": [
+        "Matthew 10:2-4"
+      ],
+      "text": "10:1 Jesus called his twelve disciples as workers in the harvest (9:37-38). The choice of twelve is not accidental—it recalls the twelve tribes of Israel. Jesus was appointing new leaders for the new people of God under his reign as Messiah (16:18-19; 18:18; 19:28; 21:43). • gave them authority (9:6-8; 28:18): Jesus enabled the Twelve to perform ministries that the Jewish leaders could not accomplish (9:32-34; 10:5-8). The authority to cast out evil spirits (8:28) and to heal are ascribed to Jesus (4:23; 8:1–9:35) in similar terms."
+    },
+    {
+      "src": "TYN",
+      "ref": "Matthew 10:2",
+      "note_ref": "TYN/40/10/2",
+      "cites": [
+        "Matthew 10:2-4"
+      ],
+      "text": "10:2-4 The four lists of the apostles (see also Mark 3:16-19; Luke 6:14-16; Acts 1:13) are all different, although the differences are minimal. The order within each list varies slightly, but only the names Thaddaeus (10:3; Mark 3:18) and Judas son of James (Luke 6:16; Acts 1:13) differ. They might be two names for the same man.\n10:2 The apostles are ambassadors or messengers, authorized and sent by an authority to represent and accomplish prescribed tasks (see 10:1-8, 40; 28:16-20). The term is also used for Paul (Gal 1:1). • first, Simon (also called Peter): Peter had priority in time (Matt 4:18-22; 16:17-19) and position as the representative leader of the apostles (see 19:27; 26:33; Acts 2:14)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Matthew 10:3",
+      "note_ref": "TYN/40/10/3",
+      "cites": [
+        "Matthew 10:2-4"
+      ],
+      "text": "10:3 Matthew (the tax collector) (see 9:9) is also called Levi (Mark 2:14)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Matthew 10:4",
+      "note_ref": "TYN/40/10/4",
+      "cites": [
+        "Matthew 10:2-4"
+      ],
+      "text": "10:4 the zealot: Zealots were militant Jews who thought violence and war were capable of accomplishing the will of God. As a Jewish nationalist, Simon was probably zealous for the law (Acts 22:3-5; Gal 1:14; Phil 3:6). Josephus blamed the Zealot party for the great war with Rome in AD 66–70. • Iscariot might refer to someone from Kerioth in southern Judea (Josh 15:25) or from Kerioth in Perea (Jer 48:24)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Mark 3:14",
+      "note_ref": "TYN/41/3/14",
+      "cites": [
+        "Mark 3:14-19"
+      ],
+      "text": "3:14-15 Jesus appointed twelve to represent Israel’s twelve tribes and to proclaim that the Kingdom of God had arrived. He called them apostles (Greek apostoloi, “emissaries”). He chose them to accompany him and to be sent out (Greek apostellō) to preach and to cast out demons. They represented Jesus and were endowed with his authority."
+    },
+    {
+      "src": "TYN",
+      "ref": "Mark 3:16",
+      "note_ref": "TYN/41/3/16",
+      "cites": [
+        "Mark 3:14-19"
+      ],
+      "text": "3:16-18 Simon and Andrew were brothers, as were James and John (1:16-20). • Peter is the Greek equivalent of the Aramaic kepa’, meaning “rock.”"
+    },
+    {
+      "src": "TYN",
+      "ref": "Mark 3:17",
+      "note_ref": "TYN/41/3/17",
+      "cites": [
+        "Mark 3:14-19"
+      ],
+      "text": "3:17 but Jesus nicknamed them “Sons of Thunder”: This nickname probably speaks of their character (cp. Luke 9:53-54)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Mark 3:18",
+      "note_ref": "TYN/41/3/18",
+      "cites": [
+        "Mark 3:14-19"
+      ],
+      "text": "3:18 Philip is fifth on all four lists of the twelve disciples (Matt 10:1-4; Luke 6:12-16; Acts 1:13); James the son of Alphaeus (not the son of Zebedee and brother of John) is always ninth. Bartholomew might be Nathanael (John 1:43-51), and Matthew is probably Levi, the tax collector (Mark 2:14; Matt 9:9). Although Thomas is referred to as “the twin” (John 11:16; 20:24; 21:2), nothing else is said in the New Testament about this. Thaddaeus (Matt 10:3) is missing from Luke’s list; he might be Judas, the son of James (Luke 6:16; Acts 1:13). That a government official (Matthew) and an anti-government activist (Simon . . . the zealot) were among the twelve apostles testifies to Jesus’ ability to change people’s hearts and overcome natural antagonism."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 6:13",
+      "note_ref": "TYN/42/6/13",
+      "cites": [
+        "Luke 6:13-16"
+      ],
+      "text": "6:13 Disciples were students and followers; apostles were specially commissioned representatives. • The number twelve symbolically represents the twelve tribes of Israel. The apostles represented the restored people of God."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 6:14",
+      "note_ref": "TYN/42/6/14",
+      "cites": [
+        "Luke 6:13-16"
+      ],
+      "text": "6:14 Simon (whom he named Peter): Peter means “rock” or “stone” (see Matt 16:18)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 6:15",
+      "note_ref": "TYN/42/6/15",
+      "cites": [
+        "Luke 6:13-16"
+      ],
+      "text": "6:15 The diversity of Jesus’ apostles is striking. • Matthew, also called Levi, was the tax collector for the Romans (see 5:27; Matt 9:9; 10:3). • Simon (who was called the zealot): Zealot probably meant that he had joined the Zealot movement, a group of Jews actively seeking to overthrow the Roman government."
+    },
+    {
+      "src": "TYN",
+      "ref": "Luke 6:16",
+      "note_ref": "TYN/42/6/16",
+      "cites": [
+        "Luke 6:13-16"
+      ],
+      "text": "6:16 Judas (son of James) was probably also called Thaddaeus (Matt 10:3; Mark 3:18). He was a different man than Judas Iscariot or Jude the half brother of Jesus (who wrote the New Testament book of Jude). • Judas Iscariot: Iscariot probably means “from Kerioth,” a village twelve miles south of Hebron."
+    },
+    {
+      "src": "TYN",
+      "ref": "John 6:70",
+      "note_ref": "TYN/43/6/70",
+      "cites": [
+        "John 6:71"
+      ],
+      "text": "6:70-71 Once again Jesus demonstrated supernatural knowledge (see 1:47-49; 4:16-19). Judas would work for evil and betray Jesus to the authorities (12:4; 13:2; Matt 26:14-16). • Iscariot means “man from Kerioth,” the home village of Judas’s family."
+    },
+    {
+      "src": "TYN",
+      "ref": "Acts 1:11",
+      "note_ref": "TYN/44/1/11",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "1:11 Jesus promised to return from heaven in the same way (see Matt 24:30; Mark 13:26; John 14:3). Jesus has gone to heaven to prepare the place for his followers (John 12:26; 14:1-4; 2 Cor 5:4; Phil 3:21; Heb 6:20)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Acts 1:12",
+      "note_ref": "TYN/44/1/12",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "1:12 The witnesses of the ascension returned to Jerusalem with joy, worship, exhilaration, and praise to God (Luke 24:52), and with their doubts assuaged (see study note on Acts 1:3)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Acts 1:13",
+      "note_ref": "TYN/44/1/13",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "1:13-26 While the apostles waited for the promised gift of the Holy Spirit (1:4-5), the whole company of 120 disciples in Jerusalem engaged in earnest prayer (1:13-14) and then appointed an apostle to replace Judas Iscariot (1:15-26).\n1:13 All eleven of the remaining apostles were present (cp. Matt 10:2-4; Mark 3:16-19; Luke 6:13-16). Judas Iscariot is omitted from this list on account of his betrayal and death (Acts 1:18-19)."
+    },
+    {
+      "src": "TYN",
+      "ref": "Acts 1:14",
+      "note_ref": "TYN/44/1/14",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "1:14 The first disciples were united in worship, fellowship, and prayer (see also 2:42, 46-47; 4:24-31; 5:12; 12:5; 13:1-3). The faithful women who had been witnesses of Jesus’ crucifixion and resurrection were present (Luke 23:49, 54-56; 24:1-10, 22). • The brothers of Jesus had not believed in him during his ministry (John 7:3-5; cp. Matt 12:46-49), but became his disciples after his resurrection."
+    },
+    {
+      "src": "GNV",
+      "ref": "Matthew 10:1",
+      "note_ref": "GNV/40/10/1",
+      "cites": [
+        "Matthew 10:2-4"
+      ],
+      "text": "The Apostles are sent to preach the Gospel in Israel."
+    },
+    {
+      "src": "GNV",
+      "ref": "Matthew 10:2",
+      "note_ref": "GNV/40/10/2",
+      "cites": [
+        "Matthew 10:2-4"
+      ],
+      "text": "Theophylact saith that Peter and Andrew are called the first, because they were first called."
+    },
+    {
+      "src": "GNV",
+      "ref": "Matthew 10:4",
+      "note_ref": "GNV/40/10/4",
+      "cites": [
+        "Matthew 10:2-4"
+      ],
+      "text": "A man of Kerioth. Now Kerioth was in the tribe of Judah, Josh. 15:25."
+    },
+    {
+      "src": "GNV",
+      "ref": "Mark 3:14",
+      "note_ref": "GNV/41/3/14",
+      "cites": [
+        "Mark 3:14-19"
+      ],
+      "text": "Chose and appointed out twelve to be familiar and conversant with him.\nThe twelve Apostles are set apart to be trained up to the office of the Apostleship."
+    },
+    {
+      "src": "GNV",
+      "ref": "Mark 3:18",
+      "note_ref": "GNV/41/3/18",
+      "cites": [
+        "Mark 3:14-19"
+      ],
+      "text": "Whom Luke also calleth Judas: and for difference’s sake, the other Judas is called Iscariot."
+    },
+    {
+      "src": "GNV",
+      "ref": "Mark 3:19",
+      "note_ref": "GNV/41/3/19",
+      "cites": [
+        "Mark 3:14-19"
+      ],
+      "text": "The disciples whom Christ had taken to be of his train and to live with him, come home to his house, to be with him always after."
+    },
+    {
+      "src": "GNV",
+      "ref": "Mark 3:21",
+      "note_ref": "GNV/41/3/21",
+      "cites": [
+        "Mark 3:14-19"
+      ],
+      "text": "None are worse enemies of the Gospel, than they that least ought.\nWord for word, they that were of him, that is, his kinfolks: for they that were mad, were brought to their kinsmen."
+    },
+    {
+      "src": "GNV",
+      "ref": "Luke 6:12",
+      "note_ref": "GNV/42/6/12",
+      "cites": [
+        "Luke 6:13-16"
+      ],
+      "text": "In that, that Christ useth earnest and long prayer, in choosing twelve of his own company, to the office of the Apostleship, he showeth how religiously we ought to behave ourselves in the choice of Ecclesiastical persons."
+    },
+    {
+      "src": "GNV",
+      "ref": "Luke 6:17",
+      "note_ref": "GNV/42/6/17",
+      "cites": [
+        "Luke 6:13-16"
+      ],
+      "text": "From all the seacoast, which is called Syro-Phoenecia."
+    },
+    {
+      "src": "GNV",
+      "ref": "John 6:70",
+      "note_ref": "GNV/43/6/70",
+      "cites": [
+        "John 6:71"
+      ],
+      "text": "The number of the professors, of Christ is very small, and among them also there be some hypocrites, and worse than all others."
+    },
+    {
+      "src": "GNV",
+      "ref": "Acts 1:11",
+      "note_ref": "GNV/44/1/11",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "That is, out of your sight."
+    },
+    {
+      "src": "GNV",
+      "ref": "Acts 1:12",
+      "note_ref": "GNV/44/1/12",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "About two miles."
+    },
+    {
+      "src": "GNV",
+      "ref": "Acts 1:13",
+      "note_ref": "GNV/44/1/13",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "Ecclesiastical assemblies to hear the word, and to make common prayer, were first instituted and kept in private houses by the Apostles.\nThey went into the house, which the Church hath chosen at that time to be a receipt for the whole assembly."
+    },
+    {
+      "src": "GNV",
+      "ref": "Acts 1:14",
+      "note_ref": "GNV/44/1/14",
+      "cites": [
+        "Acts 1:13"
+      ],
+      "text": "The Greek word signified an invincible constancy, and steadiness.\nIt is to good purpose, that this concord is mentioned: for those prayers are most acceptable to God which are made with agreeing minds and wills.\nThe disciples prayed for the sending of the holy Ghost, and also to be delivered from present dangers wherewith they were beset.\nFor it was behoovable to have the wives confirmed, who were afterward to be partakers of the dangers with their husbands.\nWith his kinfolks."
+    }
+  ]
+}

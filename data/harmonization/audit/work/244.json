@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 244,
+  "question": "How many men did David kill?",
+  "summary": "2 Samuel 10:18 reports David killed 700 men in chariots and 40,000 horsemen of the Arameans/Syrians. 1 Chronicles 19:18 reports the same battle as 7,000 men in chariots and 40,000 footmen — both the chariot men and the type of the 40,000 troops differ.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders read the gap as one count of chariots and another of the men in them — 700 chariots at ten men each yielding the 7,000.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The critical concession comes from Samuel Davidson, who held that the figures cannot both stand and that the text of one book is corrupt — a verdict the very harmonists report at this verse.",
+    "skeptic": {
+      "name": "Samuel Davidson",
+      "work": "The Hebrew Text of the Old Testament, Revised from Critical Sources",
+      "year": "1855",
+      "attribution": "Samuel Davidson (d. 1898), The Hebrew Text of the Old Testament, Revised from Critical Sources (1855)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on 2 Samuel 10:18",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact discrepancy at 2 Samuel 10:18, explaining the 700/7,000 difference as a copyist confusion of the numeral letters zain (7,000) and nun (700)."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/joshua-esther/how-many-charioteers-were-killed-700-or-7000",
+        "domain": "carm.org",
+        "title": "CARM: How many charioteers were killed, 700 or 7,000?",
+        "note": "live apologetic treatment of 2 Samuel 10:18 vs 1 Chronicles 19:18"
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "244#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "2 Samuel 10:18",
+      "full_note_ref": "GILL/10/10/18",
+      "excerpt_text": "in Ch1 19:17, they are said to be seven thousand, here seven hundred; which may be reconciled by observing, that here the chariots that held the men are numbered, there the number of the men that were in the chariots given, and reckoning ten men in a chariot, seven hundred chariots held just seven thousand men",
+      "on_tension_rationale": "Directly names the 700 vs 7,000 gap and offers the count-of-chariots vs count-of-men harmonization (10 men per chariot). Strongest single reconcile on the row.",
+      "source_note_text": "And the Syrians fled before Israel,.... After an obstinate and bloody fight between them:\nand David slew the men of seven hundred chariots of the Syrians; the word \"men\" is rightly supplied, for chariots could not be said to be slain, but the men in them; in Ch1 19:17, they are said to be seven thousand, here seven hundred; which may be reconciled by observing, that here the chariots that held the men are numbered, there the number of the men that were in the chariots given, and reckoning ten men in a chariot, seven hundred chariots held just seven thousand men; though Kimchi takes another way of reconciling the two places, by observing that here only the choicest chariots are mentioned, there all of them, but the former way seems best:\nand forty thousand horsemen; in Ch1 19:17; it is forty thousand \"footmen\", and so Josephus (c); and the same may be called both horse and foot, be cause though they might come into the field of battle on horseback, yet might dismount and fight on foot; and so one historian calls them horsemen, and the other footmen; or the whole number of the slain, horse and foot mixed together, were forty thousand; Kimchi makes use of another way of removing this difficulty, and which perhaps is the best, that here only the horsemen are numbered that were slain, and there the footmen only, and both true; an equal number of each being slain, in all eighty thousand, besides the seven thousand in the chariots:\nand smote Shobach the captain of their host, who died there; of his wounds upon the spot.\n(c) Ut supra. (Antiqu. l. 7. c. 6. sect. 3.)"
+    }
+  ]
+}

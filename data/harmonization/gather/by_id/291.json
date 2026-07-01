@@ -1,0 +1,300 @@
+{
+  "contradiction_id": 291,
+  "question": "Who was Uzziah's father?",
+  "summary": "Matthew 1:8 puts \"Joram begat Ozias [Uzziah]\" in Jesus' genealogy. 1 Chronicles 3:11-12 lists the actual lineage as Joram, Ahaziah, Joash, Amaziah, Azariah (= Uzziah). Matthew has skipped three generations.",
+  "consensus": "probable_harmonization",
+  "consensus_id": 4,
+  "category": "Genealogy & Identity",
+  "contradiction_type": "genealogical",
+  "testament_scope": "OT_vs_NT",
+  "books_in_tension": "1 Chronicles, Matthew",
+  "refs_raw": [
+    "Matthew 1:8",
+    "1 Chronicles 3:10-12"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "Matthew 1:8",
+      "book": "Matthew",
+      "bolls": 40,
+      "ranges": [
+        [
+          1,
+          8,
+          8
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 3:10-12",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          3,
+          10,
+          12
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 21,
+  "notes_raw_count": 22,
+  "notes_dropped": 1,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 3:9",
+      "note_ref": "GILL/13/3/9",
+      "cites": [
+        "1 Chronicles 3:10-12"
+      ],
+      "text": "And Solomon's son was Rehoboam,.... From hence to the end of the fourteenth verse, David's successors are reckoned, according to the order of their reign, unto Josiah and his sons:\nSolomon, Rehoboam, Abia, Asa, Jehoshaphat, Joram, Ahaziah, Joash, Amaziah, Azariah, Jotham, Ahaz, Hezekiah, Manasseh, Amon, Josiah, in all sixteen."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 3:10",
+      "note_ref": "GILL/13/3/10",
+      "cites": [
+        "1 Chronicles 3:10-12"
+      ],
+      "text": "And the sons of Josiah were, the firstborn Johanan,.... Of whom we nowhere else read; he probably died before his father Josiah:\nthe second Jehoiakim: whose name was Eliakim, changed for the former by the king of Egypt, when, he deposed his younger brother, and set him on the throne, Kg2 23:24.\nthe third Zedekiah; whose name was Mattaniah, but changed by the king of Babylon, when he placed him on the throne in the room of his brother's son, Kg2 24:17,\nthe fourth Shallum: the same with Jehoahaz, who was first made king in the room of his father; but reigning so short a time, and making so mean a figure, is mentioned last, see Jer 22:11."
+    },
+    {
+      "src": "GILL",
+      "ref": "Matthew 1:6",
+      "note_ref": "GILL/40/1/6",
+      "cites": [
+        "Matthew 1:8"
+      ],
+      "text": "And Jesse begat David the king,.... The descent of the Messiah runs in the line of David, the youngest of Jesse's sons, who was despised by his brethren, and overlooked and neglected by his father; but God chose him, and anointed him to be king, and set him on the throne of Israel; hence he is called \"David the king\"; as also because he was the first king that was of the tribe of Judah, and in the genealogy of Christ, and was an eminent type of the king Messiah, who is sometimes called by the same name, Eze 34:24 and who was to be his son, as Jesus is, and also right heir to his throne and kingdom.\nAnd David the king begat Solomon of her that had been the wife of Urias; which was Bathsheba, though not named; either because she was well known, or because of the sin she had been guilty of, which would easily be revived by mentioning her name: our translators have rightly supplied, \"that had been\", and not as the Vulgate Latin, which supplies it, \"that was the wife of Urias\", for Solomon was begotten of her, not while she was the wife of Uriah, but when she was the wife of David."
+    },
+    {
+      "src": "GILL",
+      "ref": "Matthew 1:7",
+      "note_ref": "GILL/40/1/7",
+      "cites": [
+        "Matthew 1:8"
+      ],
+      "text": "And Solomon begat Roboam,.... Called Rehoboam, Kg1 11:43 of Naamah an Ammonitess, Kg1 14:21.\nAnd Roboam begat Abia, sometimes called Abijam, as in Kg1 14:31, sometimes Abijah, Ch2 12:16 and sometimes, as here, Abia, Ch1 3:10. Him Rehoboam begat of Maachah, the daughter of Abishalom, Kg1 15:2 called Michaiah, the daughter of Uriel, Ch2 13:2. Maachah and Michaiah being the same name; or else she went by two names, as her father did.\nAnd Abia begat Asa, who was a good king; his mother's name is the same with the name of his father's mother; and perhaps it is not his proper mother, but his grandmother who is meant in Kg1 15:10. He is wrongly called Asaph in the Persic and Ethiopic versions, and in one copy."
+    },
+    {
+      "src": "GILL",
+      "ref": "Matthew 1:8",
+      "note_ref": "GILL/40/1/8",
+      "cites": [
+        "Matthew 1:8"
+      ],
+      "text": "And Asa begat Josaphat,.... Called Jehoshaphat, Kg1 15:24 whom Asa begat of Azubah, the daughter of Shilhi, Kg1 22:42. He also was a very good prince.\nAnd Josaphat begat Joram; called Jehoram, Kg1 22:50 to whom his father gave the kingdom, because he was the firstborn, Ch2 21:3.\nAnd Joram begat Ozias; called Uzziah, Ch2 26:1 and Azariah, Kg2 15:1. He was not the immediate son of Joram; there were three kings between them, Ahaziah, Joash, and Amaziah, which are here omitted; either because of the curse denounced on Ahab's family, into which Joram married, whose idolatry was punished to the third or fourth generation; or because these were princes of no good character; or because their names were not in the Jewish registers. Nor does this omission at all affect the design of the Evangelist, which is to show that Jesus, the true Messiah, is of the house of David; nor ought the Jews to complain of it, as they do (a) since such omissions are to be met with in the Old Testament, particularly in Ezr 7:2 where six generations are omitted at once; and which is taken notice of by one of their own genealogical writers, whose words are these (b);\n\"we see in the genealogy of Ezra that he hath skipped over seven generations (perhaps it should be \"six\" and not \"seven\", since six are only omitted) from Ahitub to Ahitub.''\nNor is it any objection that Joram is said to beget Ozias, which he may be said to do in the like sense, as has been before observed of Hezekiah, Isa 39:7.\n(a) R. Isaac Chizzuk Emunab, par. 2. p. 390. (b) Juchasin, fol. 10. 2."
+    },
+    {
+      "src": "GILL",
+      "ref": "Matthew 1:9",
+      "note_ref": "GILL/40/1/9",
+      "cites": [
+        "Matthew 1:8"
+      ],
+      "text": "And Ozias begat Joatham,.... Called Jotham, Kg2 15:7 him Ozias begat of Jerushah, the daughter of Zadok, Kg2 15:33.\nAnd Joatham begat Achaz, or Ahaz, Kg2 15:38 to him the sign was given, and the famous prophecy of the Messiah, Isa 7:14.\nAnd Achaz begat Ezekias, or Hezekiah, Kg2 16:20 him Ahaz begat of Abi, the daughter of Zachariah, Kg2 18:2. He was a very religious king, and had that singular favour from God to have fifteen years added to his days, Isa 38:5."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 3:8",
+      "note_ref": "JFB/13/3/8",
+      "cites": [
+        "1 Chronicles 3:10-12"
+      ],
+      "text": "nine--The number of David's sons born after his removal to Jerusalem, was eleven (Sa2 5:14), but only nine are mentioned here: two of them being omitted, either in consequence of their early deaths or because they left no issue."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 3:10",
+      "note_ref": "JFB/13/3/10",
+      "cites": [
+        "1 Chronicles 3:10-12"
+      ],
+      "text": "HIS LINE TO ZEDEKIAH. (Ch1 3:10-16)\nSolomon's son was Rehoboam, &c.--David's line is here drawn down to the captivity, through a succession of good and bad, but still influential and celebrated, monarchs. It has rarely happened that a crown has been transmitted from father to son, in lineal descent, for seventeen reigns. But this was the promised reward of David's piety. There is, indeed, observable some vacillation towards the close of this period--the crown passing from one brother to another, an even from uncle to nephew--a sure sign of disorderly times and a disjointed government."
+    },
+    {
+      "src": "JFB",
+      "ref": "Matthew 1:7",
+      "note_ref": "JFB/40/1/7",
+      "cites": [
+        "Matthew 1:8"
+      ],
+      "text": "And Solomon begat Roboam; and Roboam begat Abia; and Abia begat Asa; 8. And Asa begat Josaphat; and Josaphat begat Joram; and Joram begat Ozias--or Uzziah. Three kings are here omitted--Ahaziah, Joash, and Amaziah (Ch1 3:11-12). Some omissions behooved to be made, to compress the whole into three fourteens (Mat 1:17). The reason why these, rather than other names, are omitted, must be sought in religious considerations--either in the connection of those kings with the house of Ahab (as LIGHTFOOT, EBRARD, and ALFORD view it); in their slender right to be regarded as true links in the theocratic chain (as LANGE takes it); or in some similar disqualification."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 3:8",
+      "note_ref": "CLARKE/13/3/8",
+      "cites": [
+        "1 Chronicles 3:10-12"
+      ],
+      "text": "Nine - There are thirteen if we count the four sons of Bath-sheba, and nine without them; and in the second book of Samuel there are eleven, reckoning the above four, and without them only seven. In the book of Samuel probably only those who were alive were reckoned, while the author of the Chronicles comprises those also who were dead in this enumeration. Jarchi supposes that the duplicate Elishama and Eliphelet are those which increase the regular number seven to nine; and that the dead without posterity, as well as the living, are mentioned to increase the number of David's descendants; for, says he, the whole book is written for the honor of David and his seed."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 3:9",
+      "note_ref": "CLARKE/13/3/9",
+      "cites": [
+        "1 Chronicles 3:10-12"
+      ],
+      "text": "And Tamar their sister - This is the only daughter of David whose name is on record; and yet he is said to have had both Sons and Daughters, Sa2 5:13."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 3:9",
+      "note_ref": "KD/13/3/9",
+      "cites": [
+        "1 Chronicles 3:10-12"
+      ],
+      "text": "And Solomon's son was Rehoboam,.... From hence to the end of the fourteenth verse, David's successors are reckoned, according to the order of their reign, unto Josiah and his sons:\nSolomon, Rehoboam, Abia, Asa, Jehoshaphat, Joram, Ahaziah, Joash, Amaziah, Azariah, Jotham, Ahaz, Hezekiah, Manasseh, Amon, Josiah, in all sixteen."
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 3:10",
+      "note_ref": "KD/13/3/10",
+      "cites": [
+        "1 Chronicles 3:10-12"
+      ],
+      "text": "And the sons of Josiah were, the firstborn Johanan,.... Of whom we nowhere else read; he probably died before his father Josiah:\nthe second Jehoiakim: whose name was Eliakim, changed for the former by the king of Egypt, when, he deposed his younger brother, and set him on the throne, Kg2 23:24.\nthe third Zedekiah; whose name was Mattaniah, but changed by the king of Babylon, when he placed him on the throne in the room of his brother's son, Kg2 24:17,\nthe fourth Shallum: the same with Jehoahaz, who was first made king in the room of his father; but reigning so short a time, and making so mean a figure, is mentioned last, see Jer 22:11."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 3:10",
+      "note_ref": "MHC/13/3/10",
+      "cites": [
+        "1 Chronicles 3:10-12"
+      ],
+      "text": "David having nineteen sons, we may suppose them to have raised many noble families in Israel whom we never hear of in the history. But the scripture gives us an account only of the descendants of Solomon here, and of Nathan, Lu. 3. The rest had the honour to be the sons of David; but these only had the honour to be related to the Messiah. The sons of Nathan were his fathers as man, the sons of Solomon his predecessors as king. We have here, 1. The great and celebrated names by which the line of David is drawn down to the captivity, the kings of Judah in a lineal succession, the history of whom we have had at large in the two books of Kings and shall meet with again in the second book of Chronicles. Seldom has a crown gone in a direct line from father to son for seventeen descents together, as here. This was the recompence of David's piety. About the time of the captivity the lineal descent was interrupted, and the crown went from one brother to another and from a nephew to an uncle, which was a presage of the eclipsing of the glory of that house. 2. The less famous, and most of them very obscure, names, in which the house of David subsisted after the captivity. The only famous man of that house that we meet with at their return from captivity was Zerubbabel, elsewhere called the son of Salathiel, but appearing here to be his grandson (Ch1 3:17-19), which is usual in scripture. Belshazzar is called Nebuchadnezzar's son, but was his grandson. Salathiel is said to be the son of Jeconiah because adopted by him, and because, as some think, he succeeded him in the dignity to which he was restored by Evil-merodach. Otherwise Jeconiah was written childless: he was the signet God plucked from his right hand (Jer 22:24), and in his room Zerubbabel was placed, and therefore God saith to him (Hag 2:23), I will make thee as a signet. The posterity of Zerubbabel here bear not the same names that they do in the genealogies (Mt. 1, or Lu. 3), but those no doubt were taken from the then herald's office, the public registers which the priests kept of all the families of Judah, especially that of David. The last person named in this chapter is Anani, of whom bishop Patrick says that the Targum adds these words, He is the king Messiah, who is to be revealed, and some of the Jewish writers give this reason, because it is said (Dan 7:13), the son of man came gnim gnanani - with the clouds of heaven. The reason indeed is very foreign and far-fetched; but that learned man thinks it may be made use of as an evidence that their minds were always full of the thoughts of the Messiah and that they expected it would not be very long after the days of Zerubbabel before the set time of his approach would come."
+    },
+    {
+      "src": "MHC",
+      "ref": "Matthew 1:1",
+      "note_ref": "MHC/40/1/1",
+      "cites": [
+        "Matthew 1:8"
+      ],
+      "text": "Concerning this genealogy of our Saviour, observe,\nI. The title of it. It is the book (or the account, as the Hebrew word sepher, a book, sometimes signifies) of the generation of Jesus Christ, of his ancestors according to the flesh; or, It is the narrative of his birth. It is Biblos Geneseōs - a book of Genesis. The Old Testament begins with the book of the generation of the world, and it is its glory that it does so; but the glory of the New Testament herein excelleth, that it begins with the book of the generation of him that made the world. As God, his outgoings were of old, from everlasting (Mic 5:2), and none can declare that generation; but, as man, he was sent forth in the fulness of time, born of a woman, and it is that generation which is here declared.\nII. The principal intention of it. It is not an endless or needless genealogy; it is not a vain-glorious one, as those of great men commonly are. Stemmata, quid faciunt? - Of what avail are ancient pedigrees? It is like a pedigree given in evidence, to prove a title, and make out a claim; the design is to prove that our Lord Jesus is the son of David, and the son of Abraham, and therefore of that nation and family out of which the Messiah was to arise. Abraham and David were, in their day, the great trustees of the promise relating to the Messiah. The promise of the blessing was made to Abraham and his seed, of the dominion to David and his seed; and they who would have an interest in Christ, as the son of Abraham, in whom all the families of the earth are to be blessed, must be faithful, loyal subjects to him as the son of David, by whom all the families of the earth are to be ruled. It was promised to Abraham that Christ should descend from him (Gen 12:3; Gen 22:18), and to David that he should descend from him (Sa2 7:12; Psa 89:3, etc.; Psa 132:11); and therefore, unless it can be proved that Jesus is a son of David, and a son of Abraham, we cannot admit him to be the Messiah. Now this is here proved from the authentic records of the heralds' offices. The Jews were very exact in preserving their pedigrees, and there was a providence in it, for the clearing up of the descent of the Messiah from the fathers; and since his coming that nation is so dispersed and confounded that it is a question whether any person in the world can legally prove himself to be a son of Abraham; however, it is certain that none can prove himself to either a son of Aaron or a son of David, so that the priestly and kingly office must either be given up, as lost for ever, or be lodged in the hands of our Lord Jesus. Christ is here first called the son of David, because under that title he was commonly spoken of, and expected, among the Jews. They who owned him to be the Christ, called him the son of David, Mat 15:22; Mat 20:31; Mat 21:15. Thus, therefore, the evangelist undertakes to make out, that he is not only a son of David, but that son of David on whose shoulders the government was to be; not only a son of Abraham, but that son of Abraham who was to be the father of many nations.\nIn calling Christ the son of David, and the son of Abraham, he shows that God is faithful to his promise, and will make good every word that he has spoken; and this. 1. Though the performance be long deferred. When God promised Abraham a son, who should be the great blessing of the world, perhaps he expected it should be his immediate son; but it proved to be one at the distance of forty-two generations, and about 2000 years: so long before can God foretel what shall be done, and so long after, sometimes, does God fulfil what has been promised. Note, Delays of promised mercies, though they exercise our patience, do not weaken God's promise. 2. Though it begin to be despaired of. This son of David, and son of Abraham, who was to be the glory of his Father's house, was born when the seed of Abraham was a despised people, recently become tributary to the Roman yoke, and when the house of David was buried in obscurity; for Christ was to be a root out of a dry ground. Note, God's time for the performance of his promises is when it labours under the greatest improbabilities.\nIII. The particular series of it, drawn in the direct line from Abraham downward, according to the genealogies recorded in the beginning of the books of Chronicles (as far as those go), and which here we see the use of.\nSome particulars we may observe in the genealogy.\n1. Among the ancestors of Christ who had brethren, generally he descended from a younger brother; such Abraham himself was, and Jacob, and Judah, and David, and Nathan, and Rhesa; to show that the pre-eminence of Christ came not, as that of earthly princes, from the primogeniture of his ancestors, but from the will of God, who, according to the method of his providence, exalteth them of low degree, and puts more abundant honour upon that part which lacked.\n2. Among the sons of Jacob, besides Judah, from whom Shiloh came, notice is here taken of his brethren: Judas and his brethren. No mention is made of Ishmael the son of Abraham, or of Esau the son of Isaac, because they were shut out of the church; whereas all the children of Jacob were taken in, and, though not fathers of Christ, were yet patriarchs of the church (Act 7:8), and therefore are mentioned in the genealogy, for the encouragement of the twelve tribes that were scattered abroad, intimating to them that they have an interest in Christ, and stand in relation to him as well as Judah.\n3. Phares and Zara, the twin-sons of Judah, are likewise both named, though Phares only was Christ's ancestor, for the same reason that the brethren of Judah are taken notice of; and some think because the birth of Phares and Zara had something of an allegory in it. Zara put out his hand first, as the first-born, but, drawing it in, Phares got the birth-right. The Jewish church, like Zara, reached first at the birthright, but through unbelief, withdrawing the hand, the Gentile church, like Phares, broke forth and went away with the birthright; and thus blindness is in part happened unto Israel, till the fulness of the Gentiles become in, and then Zara shall be born - all Israel shall be saved, Rom 11:25, Rom 11:26.\n4. There are four women, and but four, named in this genealogy; two of them were originally strangers to the commonwealth of Israel, Rachab a Canaanitess, and a harlot besides, and Ruth the Moabitess; for in Jesus Christ there is neither Greek, nor Jew; those that are strangers and foreigners are welcome, in Christ, to the citizenship of the saints. The other two were adulteresses, Tamar and Bathsheba; which was a further mark of humiliation put upon our Lord Jesus, that not only he descended from such, but that is decent from them is particularly remarked in his genealogy, and no veil drawn over it. He took upon him the likeness of sinful flesh (Rom 8:3), and takes even great sinners, upon their repentance, into the nearest relation to himself. Note, We ought not to upbraid people with the scandals of their ancestors; it is what they cannot help, and has been the lot of the best, even of our Master himself. David's begetting Solomon of her that had been the wife of Urias is taken notice of (says Dr. Whitby) to show that the crime of David, being repented to, was so far from hindering the promise made to him, that it pleased God by this very woman to fulfil it.\n5. Though divers kings are here named, yet none is expressly called a king but David (Mat 1:6), David the king; because with him the covenant of royalty was made, and to him the promise of the kingdom of the Messiah was given, who is therefore said to inherit the throne of his father David, Luk 1:32.\n6. In the pedigree of the kings of Judah, between Joram and Ozias (Mat 1:8), there are three left out, namely, Ahaziah, Joash, and Amaziah; and therefore when it is said, Joram begat Ozias, it is meant, according to the usage of the Hebrew tongue, that Ozias was lineally descended from him, as it is said to Hezekiah that the sons which he should beget should be carried to Babylon, whereas they were removed several generations from him. It was not through mistake or forgetfulness that these three were omitted, but, probably, they were omitted in the genealogical tables that the evangelist consulted, which yet were admitted as authentic. Some give this reason for it: - It being Matthew's design, for the sake of memory, to reduce the number of Christ's ancestors to three fourteens, it was requisite that in this period three should be left out, and none more fit than they who were the immediate progeny of cursed Athaliah, who introduced the idolatry of Ahab into the house of David, for which this brand is set upon the family and the iniquity thus visited to the third and fourth generation. Two of these three were apostates; and such God commonly sets a mark of his displeasure upon in this world: they all three had their heads brought to the grave with blood.\n7. Some observe what a mixture there was of good and bad in the succession of these kings; as for instance (Mat 1:7, Mat 1:8), wicked Roboam begat wicked Abia; wicked Abia begat good Asa; good Asa begat good Josaphat; good Josaphat begat wicked Joram. Grace does not run in the blood, neither does reigning sin. God's grace is his own, and he gives or withholds it as he pleases.\n8. The captivity of Babylon is mentioned as a remarkable period in this line, Mat 1:11, Mat 1:12. All things considered, it was a wonder that the Jews were not lost in that captivity, as other nations have been; but this intimates the reason why the streams of that people were kept to run pure through that dead sea, because from them, as concerning the flesh, Christ was to come. Destroy it not, for a blessing is in it, even that blessing of blessings, Christ himself, Isa 65:8, Isa 65:9. It was with an eye to him that they were restored, and the desolations of the sanctuary were looked upon with favour for the Lord's sake, Dan 9:17.\n9. Josias is said to beget Jechonias and his brethren (Mat 1:11); by Jechonias here is meant Jehoiakim, who was the first-born of Josias; but, when it is said (Mat 1:12) that Jechonias begat Salathiel, that Jechonias was the son of that Jehoiakim who was carried into Babylon, and there begat Salathiel (as Dr. Whitby shows), and, when Jechonias is said to have been written childless (Jer 22:30), it is explained thus: No man of his seed shall prosper. Salathiel is here said to beget Zorobabel, whereas Salathiel begat Pedaiah, and he begat Zorobabel (Ch1 3:19): but, as before, the grandson is often called the son; Pedaiah, it is likely, died in his father's lifetime, and so his son Zorobabel was called the son of Salathiel.\n10. The line is brought down, not to Mary the mother of our Lord, but to Joseph the husband of Mary (Mat 1:16); for the Jews always reckoned their genealogies by the males: yet Mary was of the same tribe and family with Joseph, so that, both by his mother and by his supposed father, he was of the house of David; yet his interest in that dignity is derived by Joseph, to whom really according to the flesh he had no relation, to show that the kingdom of the Messiah is not founded in a natural descent from David.\n11. The centre in whom all these lines meet is Jesus, who is called Christ, Mat 1:16. This is he that was so importunately desired, so impatiently expected, and to whom the patriarchs had an eye when they were so desirous of children, that they might have the honour of coming into the sacred line. Blessed be God, we are not now in such a dark and cloudy state of expectation as they were then in, but see clearly what these prophets and kings saw as through a glass darkly. And we may have, if it be not our own fault, a greater honour than that of which they were so ambitious: for they who do the will of God are in a more honourable relation to Christ than those who were akin to him according to the flesh, Mat 12:50. Jesus is called Christ, that is, the Anointed, the same with the Hebrew name Messiah. He is called Messiah the Prince (Dan 9:25), and often God's Anointed (Psa 2:2). Under this character he was expected: Art thou the Christ - the anointed one? David, the king, was anointed (Sa1 16:13); so was Aaron, the priest (Lev 8:12), and Elisha, the prophet (Kg1 19:16), and Isaiah, the prophet (Isa 61:1). Christ, being appointed to, and qualified for, all these offices, is therefore called the Anointed - anointed with the oil of gladness above his fellows; and from this name of his, which is as ointment poured forth, all his followers are called Christians, for they also have received the anointing.\nLastly. The general summary of all this genealogy we have, Mat 1:17, where it is summed up in three fourteens, signalized by remarkable periods. In the first fourteen, we have the family of David rising, and looking forth as the morning; in the second, we have it flourishing in its meridian lustre; in the third, we have it declining and growing less and less, dwindling into the family of a poor carpenter, and then Christ shines forth out of it, the glory of his people Israel.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 3:10",
+      "note_ref": "TYN/13/3/10",
+      "cites": [
+        "1 Chronicles 3:10-12"
+      ],
+      "text": "3:10-16 The Chronicler lists the kings of Judah in father-to-son progression from Solomon to the Exile."
+    },
+    {
+      "src": "TYN",
+      "ref": "Matthew 1:7",
+      "note_ref": "TYN/40/1/7",
+      "cites": [
+        "Matthew 1:8"
+      ],
+      "text": "1:7 Asa (Greek Asaph): Probably the Old Testament king (1 Kgs 15:9-24; 1 Chr 3:10) and not the psalmist (Asaph; 1 Chr 6:39; 25:1-2; Pss 50, 73-83). Matthew’s focus is on the ancestral line from David to the Messiah."
+    },
+    {
+      "src": "TYN",
+      "ref": "Matthew 1:8",
+      "note_ref": "TYN/40/1/8",
+      "cites": [
+        "Matthew 1:8"
+      ],
+      "text": "1:8 father of (or ancestor of): The term includes several generations here (2 Chr 21:1–26:1), as it does in the case of Josiah (Matt 1:11) and Shealtiel (1:12). The genealogy omits Ahaziah, Joash, and Amaziah (2 Kgs 8:24; 1 Chr 3:11; 2 Chr 22:1, 11; 24:27), perhaps because of their association with Ahab and Jezebel."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 3:6",
+      "note_ref": "GNV/13/3/6",
+      "cites": [
+        "1 Chronicles 3:10-12"
+      ],
+      "text": "Elishama, or Elishua, 2 Sam. 5:15, and Eliphelet died, and David named those sons, which were next born, by the same names: in the book of Kings his children are mentioned which were alive, and here both they that were alive and dead.",
+      "anchor": true
+    },
+    {
+      "src": "GNV",
+      "ref": "Matthew 1:1",
+      "note_ref": "GNV/40/1/1",
+      "cites": [
+        "Matthew 1:8"
+      ],
+      "text": "Rehearsal: As the Hebrews used to speak: as Gen. 5:1, The book of the generations.\nWhich Christ is also the son of Abraham.\nJesus Christ came of Abraham of the tribe of Judah, and of the stock of David as God promised.\nOf the ancestors of whom Christ came.",
+      "anchor": true
+    },
+    {
+      "src": "GNV",
+      "ref": "Matthew 1:10",
+      "note_ref": "GNV/40/1/10",
+      "cites": [
+        "Matthew 1:8"
+      ],
+      "text": "2 Kings 20:21; 2 Kings 28:11; 1 Chron. 3:13-15"
+    }
+  ]
+}

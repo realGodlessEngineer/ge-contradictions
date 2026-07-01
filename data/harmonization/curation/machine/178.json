@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 178,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the two strands as different senses of one word — God is Father of all by creation, but Father of believers in the special sense of adoption.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Adolf von Harnack pressed the other reading: he made the universal Fatherhood of God the authentic core of Jesus' message, treating the later restriction of sonship to believers as a dogmatic narrowing that obscures it.",
+      "skeptic": {
+        "name": "Adolf von Harnack",
+        "work": "What Is Christianity? (Das Wesen des Christentums)",
+        "year": "1900",
+        "attribution": "Adolf von Harnack (d. 1930), What Is Christianity? (Das Wesen des Christentums, 1900; ET 1901)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 6:9",
+      "excerpt_text": "By \"father\", our Lord means the first person in the Trinity, who is the Father of all men by creation, and of the saints by adoption …",
+      "full_note_ref": "GILL/40/6/9",
+      "on_tension_rationale": "States the core harmonization directly: God is Father of all by creation but of believers ('the saints') by adoption — exactly the two senses the contradiction sets against each other.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Galatians 3:26",
+      "excerpt_text": "Not by nature, as Christ is the Son of God … nor by creation, as Adam and all mankind, and the angels are; but by divine adoption by an act of God's rich and sovereign grace … not that faith makes any the children of God, or puts them into such a relation; no, that is God's own act and deed …",
+      "full_note_ref": "GILL/48/3/26",
+      "on_tension_rationale": "Directly addresses Galatians 3:26 (the NT pole the question cites): distinguishes sonship 'by nature' / 'by creation' (the universal-language sense) from sonship 'by divine adoption,' and clarifies that 'by faith' does not mean faith itself creates the relation — dissolving the apparent either/or.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "John 20:17",
+      "excerpt_text": "He says not, Our Father and our God. All the deepest of the Church fathers were wont to call attention to this, as expressly designed to distinguish between what God is to Him and to us—His Father essentially, ours not so: our God essentially, His not so …",
+      "full_note_ref": "JFB/43/20/17",
+      "on_tension_rationale": "On John 20:17 (a cited verse): grounds the same graded-sonship distinction in Jesus' own careful wording ('my Father and your Father,' not 'our Father'), showing Scripture itself differentiates the senses of fatherhood the contradiction flattens.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Galatians 3:26 and Acts 17:29",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, distinguishing being God's offspring/children 'by creation' (Acts 17:29, said of 'men in common') from being children 'by adoption, and by regenerating grace, and faith in Christ Jesus' (Galatians 3:26) — the standard harmonization of the universal and by-faith language."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/all-God-children.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Are we all God's children, or only Christians?",
+        "note": "Live apologetic treatment of this exact question; distinguishes God as Creator/Father of all from children of God by adoption through faith, citing Galatians 3:26."
+      }
+    }
+  }
+}

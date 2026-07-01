@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 182,
+  "question": "Did any Moabite enter the congregation of the Lord?",
+  "summary": "Deuteronomy 23:3 and Nehemiah 13:1 explicitly forbid Moabites from ever entering the assembly of YHWH, but the book of Ruth makes a Moabite woman the great-grandmother of King David — placing her, and her descendants, squarely inside the congregation.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders argue the ban reached only male Moabites and never a proselyte wife, so Ruth's case falls outside it.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Bernard S. Jackson, weighing Ruth against the Pentateuch, concludes the book's resolution does not accord with the Deuteronomic legal norm that bars every Moabite from the assembly.",
+    "skeptic": {
+      "name": "Bernard S. Jackson",
+      "work": "Ruth, the Pentateuch and the Nature of Biblical Law",
+      "year": "2015",
+      "attribution": "Bernard S. Jackson, \"Ruth, the Pentateuch and the Nature of Biblical Law,\" in F. Giuntoli & K. Schmid (eds.), The Post-Priestly Pentateuch (FAT 101; Mohr Siebeck, 2015), pp. 75-111"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on Ruth 4:13",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact discrepancy at Ruth 4:13, arguing the Deuteronomic Moabite ban did not extend to women and that Ruth was in any case an exempt, already-incorporated proselyte. (Haley's specific coverage of this passage could not be confirmed, so the harmonizing commentator surfaced on the row is used.)"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Boaz-Ruth-and-the-Law.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Was it against the Mosaic Law for Boaz to marry Ruth, according to Deuteronomy 23:3?",
+        "note": "live apologetic treatment of the Moabite-exclusion vs. Ruth tension"
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "182#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Ruth 4:13",
+      "full_note_ref": "CLARKE/8/4/13",
+      "excerpt_text": "The law of Moses had prohibited the Moabites, even to the tenth generation, from entering into the congregation of the Lord; but this law, the Jews think, did not extend to women; and even if it had, Ruth's might be considered an exempt case, as she had been already incorporated into the family by marriage; and left her own country, people, and gods, to become a proselyte to the true God in the land of Israel.",
+      "on_tension_rationale": "Directly names the Deut 23:3 Moabite-exclusion law as the difficulty and offers the two standard harmonizations in one verbatim sentence: the ban reaches only males, and Ruth was in any case a proselyte already incorporated by marriage. Strongest single reconcile statement on the row; parity-capped to one because the discrepancy pole carries one named-skeptic connective.",
+      "source_note_text": "So Boaz took Ruth - The law of Moses had prohibited the Moabites, even to the tenth generation, from entering into the congregation of the Lord; but this law, the Jews think, did not extend to women; and even if it had, Ruth's might be considered an exempt case, as she had been already incorporated into the family by marriage; and left her own country, people, and gods, to become a proselyte to the true God in the land of Israel."
+    }
+  ]
+}

@@ -1,0 +1,817 @@
+{
+  "contradiction_id": 237,
+  "question": "How did Saul die?",
+  "summary": "1 Samuel 31:4-6 and 1 Chronicles 10:4 say Saul committed suicide by falling on his sword. 2 Samuel 1:8-10 has an Amalekite claim he killed Saul at Saul's request. 2 Samuel 21:12 says the Philistines killed Saul. 1 Chronicles 10:14 says Yahweh personally killed him. Four different causes of death across four different texts.",
+  "consensus": "genuine_contradiction",
+  "consensus_id": 1,
+  "category": "History & Narrative Events",
+  "contradiction_type": "factual_historical",
+  "testament_scope": "OT_internal",
+  "books_in_tension": "1 Samuel, 2 Samuel, 1 Chronicles",
+  "refs_raw": [
+    "1 Samuel 31:4-6",
+    "1 Chronicles 10:4",
+    "2 Samuel 1:8-10",
+    "2 Samuel 21:12",
+    "1 Chronicles 10:14"
+  ],
+  "refs_parsed": [
+    {
+      "raw": "1 Samuel 31:4-6",
+      "book": "1 Samuel",
+      "bolls": 9,
+      "ranges": [
+        [
+          31,
+          4,
+          6
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 10:4",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          10,
+          4,
+          4
+        ]
+      ]
+    },
+    {
+      "raw": "2 Samuel 1:8-10",
+      "book": "2 Samuel",
+      "bolls": 10,
+      "ranges": [
+        [
+          1,
+          8,
+          10
+        ]
+      ]
+    },
+    {
+      "raw": "2 Samuel 21:12",
+      "book": "2 Samuel",
+      "bolls": 10,
+      "ranges": [
+        [
+          21,
+          12,
+          12
+        ]
+      ]
+    },
+    {
+      "raw": "1 Chronicles 10:14",
+      "book": "1 Chronicles",
+      "bolls": 13,
+      "ranges": [
+        [
+          10,
+          14,
+          14
+        ]
+      ]
+    }
+  ],
+  "unresolved_refs": [],
+  "note_count": 73,
+  "notes_raw_count": 83,
+  "notes_dropped": 10,
+  "voices_present": [
+    "GILL",
+    "JFB",
+    "CLARKE",
+    "KD",
+    "MHC",
+    "TYN",
+    "GNV"
+  ],
+  "_note_format": "lean: src=voice code (resolve author/work/year/attribution/license via 'voices'); ref=verse_ref; note_ref=full_note_ref; cites=cited refs this note answers; anchor=block-anchored (absent=false); text=verbatim note",
+  "voices": {
+    "GILL": {
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "license_code": "PD"
+    },
+    "JFB": {
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "license_code": "PD"
+    },
+    "CLARKE": {
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "license_code": "PD"
+    },
+    "KD": {
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "license_code": "PD"
+    },
+    "MHC": {
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "license_code": "PD"
+    },
+    "TYN": {
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "license_code": "PD"
+    },
+    "GNV": {
+      "author": "Geneva Bible (annotators)",
+      "work": "Geneva Bible marginal notes",
+      "year": "1599",
+      "attribution": "Geneva Bible (1599)",
+      "license_code": "PD"
+    }
+  },
+  "notes": [
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 31:3",
+      "note_ref": "GILL/9/31/3",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "And the battle went sore against Saul,.... Pressed heavy upon him; he was the butt of the Philistines, they aimed at his person and life:\nand the archers hit him; or \"found him\" (a); the place where was, and directed their arrows at him:\nand he was sore wounded of the archers; or rather \"he was afraid\" of them, as the Targum, for as yet he was not wounded; and so the Syriac and Arabic versions render it, and is the sense Kimchi and Ben Melech give of the word: he was not afraid of death, as Abarbinel observes, he chose to die; but he was afraid he should be hit by the archers in such a way that he should not die immediately, and should be taken alive and ill used; the Philistines, especially the Cherethites, were famous for archery; See Gill on Zep 2:5.\n(a) \"et inveserust cum\", Pagninus, Montanus."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 31:4",
+      "note_ref": "GILL/9/31/4",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "Then said Saul unto his armourbearer,.... Who, the Jews (b) say, was Doeg the Edomite, promoted to this office for slaying the priests:\ndraw thy sword, and thrust me through therewith; for if he was wounded, yet not mortally, and it is certain he did not so apprehend it. It is much the sword of the armourbearer should be sheathed in a battle; but perhaps he was preparing for flight, and so had put it up in its scabbard:\nlest these uncircumcised come and thrust me through, and abuse me; lest they should not dispatch him at once, but put him to a lingering and torturing death, and insult him, and mock at him, as they did Samson:\nbut his armourbearer would not, for he was sore afraid; to lay his hand on the king the Lord's anointed, to take away his life, being more scrupulous of doing that, if this was Doeg, than of slaying the priests of the Lord; or he might be afraid of doing this, since should he survive this action, he would be called to an account by the Israelites, and be put to death for killing the king:\ntherefore Saul took a sword, and fell upon it; or rather \"the sword\", the sword of his armourbearer, and so was a suicide: the Jews endeavour to excuse this fact of Saul, because he knew he should die in battle from the words of Samuel; and being pressed sore by the archers, he saw it was impossible to escape out of their hands and therefore judged it better to kill himself than to fall by the hands of the uncircumcised; but these excuses will not do. Josephus (c) denies he killed himself; that though he attempted it, his sword would not pierce through him, and that he was killed by the Amalekite, and that that was a true account he gave to David in the following chapter; though it seems rather to be a lie, to curry favour with David, and that Saul did destroy himself.\n(b) Hieron. Trad. Heb. in lib. Reg. fol. 77. B. (c) Antiqu. l. 6. c. 14. sect. 7."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 31:5",
+      "note_ref": "GILL/9/31/5",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "And when his armourbearer saw that Saul was dead,.... By his own hands, and not by the hands of the Amalekite, which the armour bearer would scarcely have suffered:\nhe fell likewise upon his sword, and died with him; some think that Saul, and his armourbearer, died by the same sword, which was the armourbearer's; and if he was Doeg, they fell probably by the same sword with which the priests of the Lord were murdered at Nob, Sa1 22:18; and it is observed by an historian (d), that the murderers of Julius Caesar slew themselves with the same dagger they destroyed him.\n(d) Sucton. Vit. Caesar. c. 89."
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Samuel 31:6",
+      "note_ref": "GILL/9/31/6",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "So Saul died, and his three sons, and his armourbearer,.... Only with this difference, his three sons died honourably in the field of battle, but he and his armourbearer destroyed themselves. Josephus says (e) he reigned eighteen years in the life of Samuel, and after his death twenty two years, which make the forty years the apostle ascribes to him, Act 13:21; Eupolemus (f), an Heathen writer, makes him to reign twenty one years; but of the years of his reign, both before and after the death of Samuel, chronologers are not agreed, see Sa1 25:1; and See Gill on Act 13:21,\nand all his men that same day together; not all the soldiers in his army; for many of them fled and escaped, and even Abner the general of the army, but his household servants, or those that were near his person, his bodyguards.\n(e) Antiqu. l. 6. c. 14. sect. 9. (f) Apud Euseb. Praepar. Evangel. l. 9. c. 3. p. 447."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 1:7",
+      "note_ref": "GILL/10/1/7",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "And when he looked behind him,.... To see how near the enemy was, and who were pursuing him:\nhe saw me, and called unto me; by which it should rather seem that he belonged to the Philistines than to the Israelites, and as his being an Amalekite shows; for such an one would hardly be admitted among the latter, though it is most likely he was with neither, but happened to come that way just at that time:\nand I answered, here am I; ready to hear what thou hast to say, and do thy pleasure."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 1:8",
+      "note_ref": "GILL/10/1/8",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "And he said unto me, who art thou?.... Being willing to know whether a friend or an enemy, which by his coming behind him he could not tell:\nand I answered him, I am an Amalekite: which he might be; but it is not likely he should tell Saul he was, which would not recommend him to him; though indeed he was now in such circumstances, that the Amalekites had nothing to fear from him; and if he was slain by him, as Josephus (f) affirms he was, it seems to be a just retaliation on him for sparing any of that race, contrary to the will of God.\n(f) Antiqu. l. 6. c. 14. sect. 7."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 1:9",
+      "note_ref": "GILL/10/1/9",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "And he said unto me again, stand, I pray thee, upon me, and slay me,.... Which it can hardly be thought Saul would say; since he might as well have died by the hands of the uncircumcised Philistines, which he endeavoured to avoid, as by the hands of an Amalekite:\nfor anguish is come upon me; or trembling, as the Targum, not through fear of death, but through fear of falling into the hands of the Philistines, and of being ill used by them. Some render the words, \"my embroidered coat\", or \"breastplate\", or \"coat of mail\", holds me (g), or hinders me from being pierced through with the sword or spear; so Ben Gersom (h):\nbecause my life is yet whole in me: for though he had been wounded by the archers, yet he did not apprehend he had received any mortal wound, but his life was whole in him; and therefore feared he should fall into their hands alive, and be ill treated by them.\n(g) \"tunica scutulata\", Braunius; \"ocellata chlamys\", Junius & Tremellius, Piscator; \"thorax villosus seu pelliceus\", Texelii Phoenix, p. 210. (h) Vid. Braunium de Vest. Sacredot. Heb. l. 1. c. 17. sect. 9."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 1:10",
+      "note_ref": "GILL/10/1/10",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "So I stood upon him, and slew him,.... Pressed with all his weight upon his body, that so the spear might pierce through him, and slay him; thus he represents his death to be brought about:\nbecause I was sure that he could not live after that he was fallen; this is not consistent with what he had said before, both that he was leaning on his spear, and not fallen to the ground, and that his life was whole in him:\nand I took the crown that was upon his head; which made him conspicuous, and therefore the Philistines aimed at him, and pressed hard after him, Sa2 1:6; though some think that this was not on his head, but carried into the field of battle, ready to be put on if victory was on his side; and others say it was in the possession and care of Doeg, who at his death gave it to his son to carry to David, and thereby gain his favour:\nand the bracelet that was on his arm; of gold no doubt, so Josephus (i); such as great personages used to wear, men as well as women, see Gen 38:18, especially military men (k). Jarchi takes them to be the \"totaphot\" or phylacteries on the arm, which is not probable:\nand have brought them hither unto my lord; as ensigns of royalty, fit only for a king, Saul's successor, as this person, by calling him lord, owned him to be, and thought by bringing those to him to be highly he neared and rewarded.\n(i) Ut supra. (Antiqu. l. 6. c. 14. sect. 7.) (k) Vid. Liv. Hist. Decad. 1. l. 10. c. 44."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 21:10",
+      "note_ref": "GILL/10/21/10",
+      "cites": [
+        "2 Samuel 21:12"
+      ],
+      "text": "And Rizpah the daughter of Aiah took sackcloth,.... Both as a token of mourning for her sons, and as fittest to defend from the weather, the heat by day of cold by night:\nand spread it for her upon the rock; the hill on which her sons were hanged; this she spread as a canopy or tent to sit under, and be covered with it; not to cover the bodies with it, but herself, and where she sat to mourn the loss of her sons, and to watch their bodies, that they might not be devoured by birds and breasts of prey, as after observed: and here she sat\nfrom the beginning of harvest until water dropped on them out of heaven; that is, as the Jews say (n), from the sixteenth of Nisan, when barley harvest began, to the seventeenth of Marchesvan, when the former rain fell; that is, from the beginning of April to the beginning of October: but it is not likely that she continued so long watching the bodies, nor would there be any need of it to keep the birds and beasts from them; for after they had hung so many months, there would be nothing left for them; but rather the meaning is, that she continued there until it pleased God to send rain from heaven, which had been restrained, and a famine came upon it, because of the ill usage of the Gibeonites: and very probably the order from the king was, that the bodies should hang till rain came, that it might be observed what was the reason of their suffering; and no doubt Rizpah sat there praying that rain might come, and which, as Abarbinel thinks, came in a few days after, though not usual in summertime; but this was an extraordinary case, as in Sa1 12:17; and was done to show the Lord was entreated for the land; and so Josephus says (o), that upon the hanging up of these men, God caused it to rain immediately, and restored the earth to its former fruitfulness. According to the law in Deu 21:22, the bodies should have been taken down and buried the same day: but these men suffered not for their own personal, sins, but for the sins of others, and to avert a public calamity, and therefore must hang till that was removed; nor were they executed by men bound by that law; and besides their continuing on the tree was according to the will of God, till he was entreated, who could dispense with this law; to which may be added, the ceremonial and judicial laws, of which this was one, gave place to those of a moral nature (p), as this did to that of sanctifying the name of God in a public manner; hence the saying of one of the Rabbins upon this (q), which is by many wrongly expressed,\"it is better that one letter should be rooted out of the law, than that the name of God should not be sanctified openly;''that is, a lesser precept give way to a greater, or a ceremonial precept to a moral one, such as the sanctification of the name of God is:\nand suffered neither the birds of the air to rest on them by day; as it is usual for crows (r) and ravens, and such sort of birds, to light on bodies thus hung up, and pick their flesh:\nnor the beasts of the field by night; for it seems it was usual to make the gibbets, and so in some other nations the crosses, so low, that wild beasts could easily come at the bodies and devour them; so Blandina was hung upon a tree so low, that she might be exposed to the wild beasts to feed upon her, but not one of them would touch her body (s); now Rizpah, by her servants, had ways and means to frighten away the birds, and beasts from doing any injury to the carcasses.\n(n) Bemidbar Rabba, fol. 190. 1. (o) Antiqu. l. 7. c. 12. sect. 1. (p) See Stillingfleet's Origines Sacr. p. 140. (q) T. Bab. Yebamot, fol. 79. 1. (r) \"---- non pasces in cruce corvos\", Horat. Epist, l. 1. Epist. 16. ver. 48. (s) Euseb. Eccl. Hist. l. 5. c. 1. Vid. Lipsium de Cruce, l. 3. c. 11. & l. 3. c. 13."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 21:11",
+      "note_ref": "GILL/10/21/11",
+      "cites": [
+        "2 Samuel 21:12"
+      ],
+      "text": "And it was told David what Rizpah the daughter of Aiah, the concubine of Saul, had done. Whether this was told out of good will or ill will is not certain; however, it was not disagreeable to David, but served to move pity and compassion in him to the woman, and to stir him up to give an honourable interment to Saul and his sons; and which would show that this fact was not done out of personal pique and revenge to his family, but in obedience to the will of God, and the honour of his name.\nAnd it was told David what Rizpah the daughter of Aiah, the concubine of Saul, had done. Whether this was told out of good will or ill will is not certain; however, it was not disagreeable to David, but served to move pity and compassion in him to the woman, and to stir him up to give an honourable interment to Saul and his sons; and which would show that this fact was not done out of personal pique and revenge to his family, but in obedience to the will of God, and the honour of his name.\n2 Samuel 21:12\nsa2 21:12\nsa2 21:12\nsa2 21:12And David went and took the bones of Saul, and the bones of Jonathan his son, from the men of Jabeshgilead,.... Which, according to Bunting (t), was fifty two miles from Jerusalem; though perhaps David did not go thither in person to fetch them, but by his messengers, see Sa2 21:14,\nwhich had stolen them from the street of Bethshan, where the Philistines had hanged them, when the Philistines had slain Saul in Gilboa; the history of all which see in Sa1 31:8.\n(t) Travels, &c. p. 122, 143."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 21:12",
+      "note_ref": "GILL/10/21/12",
+      "cites": [
+        "2 Samuel 21:12"
+      ],
+      "text": "And he brought up from thence the bones of Saul, and the bones of Jonathan his son,.... Which had been buried there under an oak, Ch1 10:12,\nand they gathered the bones of them that were hanged; the seven sons of Saul, who had been lately hanged; who either had hung so long that their flesh was consumed, and the bones dropped upon the ground, from whence they gathered them; or they took them down and burnt the flesh off of them, and took the bones to bury them, which was not usually done (u).\n(u) Lipsins de Cruce, l. 2. c. 16."
+    },
+    {
+      "src": "GILL",
+      "ref": "2 Samuel 21:13",
+      "note_ref": "GILL/10/21/13",
+      "cites": [
+        "2 Samuel 21:12"
+      ],
+      "text": "And the bones of Saul and Jonathan his son,.... Together with those who had been hanged:\nburied they in the country of Benjamin in Zelah; a city in the tribe of Benjamin, Jos 18:28,\nin the sepulchre of Kish his father; the father of Saul, Sa1 9:1; and which, according to Fuller (w), and the position of it in his map, was not far from the hill on which the seven sons of Saul were hanged:\nand they performed all that the king commanded; that is, David's messengers and servants did; they fetched the bones of Saul and Jonathan from Jabeshgilead, and buried them with those of his seven sons hanged, in the burying place of his father Kish, and made a general mourning for them; for the Jews say (x), that by David's order Saul's coffin was carried through every tribe, and men, women, and children, came out and expressed concern:\nand after that God was entreated for the land; not after the burial of the said persons, but after the seven men were hanged up; by this the wrath of God was appeased, which was seen by his sending rain and fruitful seasons, so that the famine ceased.\n(w) Pisgah-Sight, B. 2. c. 12. p. 258. (x) Bemidbar Rabba, ut supra. (fol. 190. 1.)"
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 10:1",
+      "note_ref": "GILL/13/10/1",
+      "cites": [
+        "1 Chronicles 10:4"
+      ],
+      "text": "See Gill on Sa1 31:1.\n.\n1 Chronicles 10:13\nch1 10:13\nch1 10:13\nch1 10:13So Saul died for his transgression,.... See Gill on Sa1 31:13 A violent and dishonourable death, which was suffered on account of the sins he was guilty of:\none was, which he committed against the Lord, even against the word of the Lord, which he kept not; both in not staying for Samuel the time appointed, and by sparing the Amalekites whom he was bid to destroy, Sa1 13:13.\nand also for asking counsel of one that had a familiar spirit, to inquire of it; what he should do with respect to engaging in battle with the Philistines, Sa1 28:8 which to do was contrary to an express command of God, Lev 19:31.",
+      "anchor": true
+    },
+    {
+      "src": "GILL",
+      "ref": "1 Chronicles 10:13",
+      "note_ref": "GILL/13/10/13",
+      "cites": [
+        "1 Chronicles 10:14"
+      ],
+      "text": "And inquired not of the Lord,.... For though he did inquire in some sense in an external, careless, and hypocritical manner, yet not done seriously, sincerely, and heartily, nor with constancy; it was accounted as if he inquired not at all, Sa1 28:6 the Targum adds another reason of his death, because he killed the priests of Nob; but that is not in the text:\ntherefore he slew him; or suffered him to be slain:\nand turned the kingdom unto David the son of Jesse; translated the kingdom of Israel out of Saul's family, upon his death, into Jesse's, even unto David; for the sake of which observation this short account is given of the last end of Saul.\nNext: 1 Chronicles Chapter 11"
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 31:3",
+      "note_ref": "JFB/9/31/3",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "the battle went sore against Saul, &c.--He seems to have bravely maintained his ground for some time longer; but exhausted with fatigue and loss of blood, and dreading that if he fell alive into the enemy's hands, they would insolently maltreat him (Jos 8:29; Jos 10:24; Jdg 8:21), he requested his armor bearer to despatch him. However, that officer refused to do so. Saul then falling on the point of his sword killed himself; and the armor bearer, who, according to Jewish writers, was Doeg, following the example of his master, put an end to his life also. They died by one and the same sword--the very weapon with which they had massacred the Lord's servants at Nob."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 31:6",
+      "note_ref": "JFB/9/31/6",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "So Saul died--(see on Ch1 10:13; Hos 13:11).\nand his three sons--The influence of a directing Providence is evidently to be traced in permitting the death of Saul's three eldest and most energetic sons, particularly that of Jonathan, for whom, had he survived his father, a strong party would undoubtedly have risen and thus obstructed the path of David to the throne.\nand all his men, that same day together--his servants or bodyguard (Ch1 10:6)."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 31:7",
+      "note_ref": "JFB/9/31/7",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "the men of Israel that were on the other side of the valley--probably the valley of Jezreel--the largest and southernmost of the valleys that run between Little Hermon and the ridges of the Gilboa range direct into the Jordan valley. It was very natural for the people in the towns and villages there to take fright and flee, for had they waited the arrival of the victors, they must, according to the war usages of the time, have been deprived either of their liberty or their lives."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Samuel 31:8",
+      "note_ref": "JFB/9/31/8",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "THE PHILISTINES TRIUMPH OVER THEIR DEAD BODIES. (Sa1 31:8-10)\non the morrow, when the Philistines came to strip the slain, that they found Saul and his three sons fallen--On discovering the corpses of the slaughtered princes on the battlefield, the enemy reserved them for special indignities. They consecrated the armor of the king and his sons to the temple of Ashtaroth fastened their bodies on the temple of Shen, while they fixed the royal heads ignominiously in the temple of Dagon (Ch1 10:10); thus dividing the glory among their several deities."
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Samuel 1:2",
+      "note_ref": "JFB/10/1/2",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "a man came out of the camp from Saul--As the narrative of Saul's death, given in the last chapter, is inspired, it must be considered the true account, and the Amalekite's story a fiction of his own, invented to ingratiate himself with David, the presumptive successor to the throne. David's question, \"How went the matter?\" evinces the deep interest he took in the war, an interest that sprang from feelings of high and generous patriotism, not from views of ambition. The Amalekite, however, judging him to be actuated by a selfish principle, fabricated a story improbable and inconsistent, which he thought would procure him a reward. Having probably witnessed the suicidal act of Saul, he thought of turning it to his own account, and suffered the penalty of his grievously mistaken calculation (compare Sa2 1:9 with Sa1 31:4-5).",
+      "anchor": true
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Samuel 1:10",
+      "note_ref": "JFB/10/1/10",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "the crown--a small metallic cap or wreath, which encircled the temples, serving the purpose of a helmet, with a very small horn projecting in front, as the emblem of power.\nthe bracelet that was on his arm--the armlet worn above the elbow; an ancient mark of royal dignity. It is still worn by kings in some Eastern countries."
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Samuel 21:10",
+      "note_ref": "JFB/10/21/10",
+      "cites": [
+        "2 Samuel 21:12"
+      ],
+      "text": "RIZPAH'S KINDNESS UNTO THE DEAD. (Sa2 21:10-11)\nRizpah . . . took sackcloth, and spread it for her upon the rock--She erected a tent near the spot, in which she and her servants kept watch, as the relatives of executed persons were wont to do, day and night, to scare the birds and beasts of prey away from the remains exposed on the low-standing gibbets."
+    },
+    {
+      "src": "JFB",
+      "ref": "2 Samuel 21:12",
+      "note_ref": "JFB/10/21/12",
+      "cites": [
+        "2 Samuel 21:12"
+      ],
+      "text": "DAVID BURIES THE BONES OF SAUL AND JONATHAN IN THEIR FATHER'S SEPULCHER. (Sa2 21:12-22)\nDavid went and took the bones of Saul and the bones of Jonathan his son, &c.--Before long, the descent of copious showers, or perhaps an order of the king, gave Rizpah the satisfaction of releasing the corpses from their ignominious exposure; and, incited by her pious example, David ordered the remains of Saul and his sons to be transferred from their obscure grave in Jabesh-gilead to an honorable interment in the family vault at Zelah or Zelzah (Sa1 10:2), now Beit-jala."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 10:3",
+      "note_ref": "JFB/13/10/3",
+      "cites": [
+        "1 Chronicles 10:4"
+      ],
+      "text": "the battle went sore against Saul; and the archers hit him, and he was wounded--The Hebrew words may be thus rendered: \"The archers found (attacked) him, and he feared the archers.\" He was not wounded, at least not dangerously, when he resolved on committing suicide. The deed was the effect of sudden terror and overwhelming depression of spirits [CALMET]."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 10:4",
+      "note_ref": "JFB/13/10/4",
+      "cites": [
+        "1 Chronicles 10:4"
+      ],
+      "text": "his armour-bearer would not; for he was sore afraid--He was, of course, placed in the same perilous condition as Saul. But it is probable that the feelings that restrained him from complying with Saul's wish were a profound respect for royalty, mingled with apprehension of the shock which such a catastrophe would give to the national feelings and interests."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 10:13",
+      "note_ref": "JFB/13/10/13",
+      "cites": [
+        "1 Chronicles 10:14"
+      ],
+      "text": "Saul died for his transgression which he committed against the Lord--in having spared the king of the Amalekites and taken the flocks of the people as spoils [Sa1 15:9], as well as in having consulted a pythoness [Sa1 28:7]. Both of these acts were great sins--the first as a violation of God's express and positive command [Sa1 15:3], and the second as contrary to a well-known statute of the kingdom (Lev 19:31)."
+    },
+    {
+      "src": "JFB",
+      "ref": "1 Chronicles 10:14",
+      "note_ref": "JFB/13/10/14",
+      "cites": [
+        "1 Chronicles 10:14"
+      ],
+      "text": "And inquired not of the Lord--He had done so in form (Sa1 28:6), but not in the spirit of a humble penitent, nor with the believing confidence of a sincere worshipper. His enquiry was, in fact, a mere mockery, and his total want of all right religious impressions was manifested by his rushing from God to a wretched impostor in the service of the devil [Sa1 28:7].\nNext: 1 Chronicles Chapter 11"
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 31:3",
+      "note_ref": "CLARKE/9/31/3",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "He was sore wounded of the archers - It is likely that Saul's sons were slain by the archers, and that Saul was now mortally wounded by the same. Houbigant translates, The archers rushed upon him, from whom he received a grievous wound. He farther remarks that had not Saul been grievously wounded, and beyond hope of recovery, he would not have wished his armor-bearer to despatch him; as he might have continued still to fight, or have made his escape from this most disastrous battle. Some of the versions render it, He Feared the archers greatly; but this is by no means likely."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 31:4",
+      "note_ref": "CLARKE/9/31/4",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "Draw thy sword, and thrust me through - Dr. Delaney has some good observations on this part of the subject: \"Saul and his armor-bearer died by the same sword. That his armor-bearer died by his own sword is out of all doubt; the text expressly tells us so; and that Saul perished by the same sword is sufficiently evident. Draw Thy sword, says he to him, and thrust me through; which, when he refused, Saul, says the text, took The sword, (את החרב eth hachereb, the very sword), and fell upon it. What sword? Not his own, for then the text would have said so; but, in the plain natural grammatical construction, the sword before mentioned must be the sword now referred to, that is, his armor-bearer's, Ch1 10:4, Ch1 10:5. Now it is the established tradition of all the Jewish nation that this armor-bearer was Doeg, and I see no reason why it should be discredited; and if so, then Saul and his executioner both fell by that weapon with which they had before massacred the priests of God. So Brutus and Cassius killed themselves with the same swords with which they stabbed Caesar; and Calippus was stabbed with the same sword with which he stabbed Dio.\""
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 31:6",
+      "note_ref": "CLARKE/9/31/6",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "And all his men - Probably meaning those of his troops which were his life or body guards: as to the bulk of the army, it fled at the commencement of the battle, Sa1 31:1."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Samuel 31:7",
+      "note_ref": "CLARKE/9/31/7",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "The men of Israel that were on the other side of the valley - They appear to have been panic-struck, and therefore fled as far as they could out of the reach of the Philistines. As the Philistines possessed Beth-shan, situated near to Jordan, the people on the other side of that river, fearing for their safety, fled also."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Samuel 1:8",
+      "note_ref": "CLARKE/10/1/8",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "I am an Amalekite - Dr. Delaney remarks that an Amalekite took that crown from off the head of Saul, which he had forfeited by his disobedience in the case of Amalek."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Samuel 1:10",
+      "note_ref": "CLARKE/10/1/10",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "The crown - and the bracelet - The crown was probably no more than a royal fillet or diadem, both being the ensigns of royalty. It is sometimes customary in the East for a sovereign prince to give a crown and bracelets, when investing others with dominion or authority over certain provinces. Had Saul these in token of his being God's vicegerent, and that he held the kingdom from him alone?"
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Samuel 21:10",
+      "note_ref": "CLARKE/10/21/10",
+      "cites": [
+        "2 Samuel 21:12"
+      ],
+      "text": "Rizpah - took sackcloth - Who can read the account of Rizpah's maternal affection for her sons that were now hanged, without feeling his mind deeply impressed with sorrows?\nDid God require this sacrifice of Saul's sons, probably all innocent of the alleged crime of their father? Was there no other method of averting the Divine displeasure? Was the requisition of the Gibeonites to have Saul's sons sacrificed to God, to be considered as an oracle of God? Certainly not; God will not have man's blood for sacrifice, no more than he will have swine's blood. The famine might have been removed, and the land properly purged, by offering the sacrifices prescribed by the law, and by a general humiliation of the people.\nUntil water dropped upon them - Until the time of the autumnal rains, which in that country commence about October. Is it possible that this poor broken-hearted woman could have endured the fatigue, (and probably in the open air), of watching these bodies for more than five months? Some think that the rain dropping on them out of heaven means the removal of the famine which was occasioned by drought, by now sending rain, which might have been shortly after these men were hanged; but this by no means agrees with the manner in which the account is introduced: \"They were put to death in the days of harvest, in the first days, in the beginning of barley harvest. And Rizpah - took sackcloth, and spread it for her on the rock, from the beginning of harvest, until water dropped upon them out of heaven.\" No casual or immediately providential rain can be here intended; the reference must be to the periodical rains above mentioned."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "2 Samuel 21:12",
+      "note_ref": "CLARKE/10/21/12",
+      "cites": [
+        "2 Samuel 21:12"
+      ],
+      "text": "Took the bones of Saul - The reader will recollect that the men of Jabesh-gilead burned the bodies of Saul and his sons, and buried the remaining bones under a tree at Jabesh. See Sa1 31:12, Sa1 31:13. These David might have digged up again, in order to bury them in the family sepulcher."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 10:1",
+      "note_ref": "CLARKE/13/10/1",
+      "cites": [
+        "1 Chronicles 10:4"
+      ],
+      "text": "Now the Philistines fought against Israel - The reader will find the same history in almost the same words, in Sa1 31:1-13, to the notes on which he is referred for every thing important in this.",
+      "anchor": true
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 10:6",
+      "note_ref": "CLARKE/13/10/6",
+      "cites": [
+        "1 Chronicles 10:4"
+      ],
+      "text": "So Saul died - and all his house - Every branch of his family that had followed him to the war was cut off; his three sons are mentioned as being the chief. No doubt all his officers were slain."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 10:13",
+      "note_ref": "CLARKE/13/10/13",
+      "cites": [
+        "1 Chronicles 10:14"
+      ],
+      "text": "Saul died for his transgression - See the concluding observations on the first book of Samuel (Sa1 31:13 (note))."
+    },
+    {
+      "src": "CLARKE",
+      "ref": "1 Chronicles 10:14",
+      "note_ref": "CLARKE/13/10/14",
+      "cites": [
+        "1 Chronicles 10:14"
+      ],
+      "text": "Inquired not of the Lord - On these two last verses the Targum speaks thus: \"And Saul died for the transgression by which he transgressed against the Word of the Lord, and because he did not keep the commandment of the Lord when he warred against the house of Amalek; and because he consulted Pythons, and sought oracular answers from them. Neither did he ask counsel from before the Lord by Urim and Thummim, for he had slain the priests that were in Nob; therefore the Lord slew him, and transferred the kingdom to David the son of Jesse.\"\nA Literary friend furnishes the following remarks: -\n\"The sacred writer, in the first book of Samuel, Sa1 31:11-13, and Ch1 10:11, Ch1 10:12, after relating the defeat and death of Saul, and the ignominious treatment of his remains, thus concludes: -\n\"'And when the inhabitants of Jabesh-gilead heard of that which the Philistines had done to Saul, all the valiant men arose, and went all night, and took the body of Saul, and the bodies of his sons, from the wall of Beth-shan, and came to Jabesh, and burnt them there; and they took the bones, and buried them under a tree at Jabesh, and fasted seven days.'\n\"Often has this account been read with admiration of the bravery and devotedness of the men of Jabesh-gilead, but without considering that these men had any greater cause than others for honoring the remains of their sovereign; but, on reflection, it will be perceived that the strong impulse of gratitude prompted them to this honorable exertion. They remembered their preservation from destruction, and, which to brave men is more galling, from bearing marks of having been defeated, and being deprived of the honorable hope of wiping off disgrace, or defending their country at future seasons.\n\"Reading these verses in conjunction with the attack of Nahash, we perceive the natural feelings of humanity, of honorable respect, prompting the men of Jabesh to act as they did in rescuing the bones of Saul and his family.\n\"The father of Grecian poetry relates in how great a degree the warriors of ancient days honored the remains of their leaders; how severe were the contests for the body of the fallen chief, more determined oftentimes than the struggle for victory: this point of military honor was possibly excited or heightened by the religious idea so prevalent in his age, and after times, respecting the fate of the spirits of those who were unburied.\n\"Homer wrote of events passing at no distant period from those recorded in the first volume of Samuel; and these accounts mutually corroborate each other, being in unison, not only with the feelings of humanity, but with the customs of ancient nations. These may be farther illustrated by comparing the conduct of the Philistines with regard to Saul and his sons, with that of the hero of the Iliad towards Hector, the most finished character of the poem. Saul had been a severe scourge to the Philistines throughout a long series of years; the illustrious chief of Troy had long warded off the ruin of his country, and destroyed the flower of her foes, independently of his last victory over Patroclus, which drew on his remains that dishonor which, however, fell only on his destroyer.\n\"Should the siege of Troy be considered a fable, it may then be concluded that Homer introduced into his poems the customs and manners known to those for whose perusal he wrote, if these customs were not prevalent among his readers; but anxiety for the body of the illustrious dead, or regret for his death, has often caused success when all exertions prior to this powerful stimulus have not availed; and this even in our days.\n\"The Philistines had long been confined to the southwest angle of the promised land, and in the earlier part of Saul's reign had suffered many and severe losses; yet it appears by this chapter that, alone or in conjunction with allies, they had been able to penetrate nearly to the banks of the Jordan, to fight the battle on Mount Gilboa. This could only have been effected by a march through great part of the kingdom of Israel.\n\"Doubtless the attention of Saul in its defense might have been greatly distracted by his pursuit and fear of David, which appeared to have absorbed his whole mind; and it may account for the defenceless or weakened state of his forces.\n\"These circumstances appear to corroborate the authenticity of these books, independently of the many private transactions therein recorded; particularly the interesting and singular friendship of Jonathan and David, a transaction not likely to occur to a forger of a narrative. J.W.\""
+    },
+    {
+      "src": "KD",
+      "ref": "1 Samuel 31:1",
+      "note_ref": "KD/9/31/1",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "The account of the war between the Philistines and Israel, the commencement of which has already been mentioned in Sa1 28:1, Sa1 28:4., and Sa1 29:1, is resumed in Sa1 31:1 in a circumstantial clause; and to this there is attached a description of the progress and result of the battle, more especially with reference to Saul. Consequently, in Ch1 10:1, where there had been no previous allusion to the war, the participle נלחמים is changed into the perfect. The following is the way in which we should express the circumstantial clause: \"Now when the Philistines were fighting against Israel, the men of Israel fled before the Philistines, and slain men fell in the mountains of Gilboa\" (vid., Sa1 28:4). The principal engagement took place in the plain of Jezreel. But when the Israelites were obliged to yield, they fled up the mountains of Gilboa, and were pursued and slain there.\nSa1 31:2-6\nThe Philistines followed Saul, smote (i.e., put to death) his three sons (see at Sa1 14:49), and fought fiercely against Saul himself. When the archers (בּקּשׁת אנשׁים is an explanatory apposition to המּורים) hit him, i.e., overtook him, he was greatly alarmed at them (יחל, from חיל or חוּל),\n(Note: The lxx have adopted the rendering καὶ ἐτραυμάτισαν εἰς τὰ ὑποχόνδρια, they wounded him in the abdomen, whilst the Vulgate rendering is vulneratus est vehementer a sagittariis. In Ch1 10:3 the Sept. rendering is καὶ ἐπόνεσεν ἀπὸ τῶν τόξων, and that of the Vulgate et vulneraverunt jaculis. The translators have therefore derived יחל from חלל = חלה, and then given a free rendering to the other words. But this rendering is overthrown by the word מאד, very, vehemently, to say nothing of the fact that the verb חלל or חלה cannot be proved to be ever used in the sense of wounding. If Saul had been so severely wounded that he could not kill himself, and therefore asked his armour-bearer to slay him, as Thenius supposes, he would not have had the strength to pierce himself with his sword when the armour-bearer refused. The further conjecture of Thenius, that the Hebrew text should be read thus, in accordance with the lxx, המּררים אל ויּחל, \"he was wounded in the region of the gall,\" is opposed by the circumstance that ὑποχόνδρια is not the gall or region of the gall, but what is under the χόνδρος, or breast cartilage, viz., the abdomen and bowels.)\nand called upon his armour-bearer to pierce him with the sword, \"lest these uncircumcised come and thrust me through, and play with me,\" i.e., cool their courage upon me by maltreating me. But as the armour-bearer would not do this, because he was very much afraid, since he was supposed to be answerable for the king's life, Saul inflicted death upon himself with his sword; whereupon the armour-bearer also fell upon his sword and died with his king, so that on that day Saul and this three sons and his armour-bearer all died; also \"all his men\" (for which we have \"all his house\" in the Chronicles), i.e., not all the warriors who went out with him to battle, but all the king's servants, or all the members of his house, sc., who had taken part in the battle. Neither Abner nor his son Ishbosheth was included, for the latter was not in the battle; and although the former was Saul's cousin and commander-in-chief (see Sa1 14:50-51), he did not belong to his house or servants.\nSa1 31:7\nWhen the men of Israel upon the sides that were opposite to the valley (Jezreel) and the Jordan saw that the Israelites (the Israelitish troop) fled, and Saul and his sons were dead, they took to flight out of the cities, whereupon the Philistines took possession of them. עבר is used here to signify the side opposite to the place of conflict in the valley of Jezreel, which the writer assumed as his standpoint (cf. Sa1 14:40); so that העמק עבר is the country to the west of the valley of Jezreel, and היּרדּן עבר the country to the west of the Jordan, i.e., between Gilboa and the Jordan. These districts, i.e., the whole of the country round about the valley of Jezreel, the Philistines took possession of, so that the whole of the northern part of the land of Israel, in other words the whole land with the exception of Peraea and the tribe-land of Judah, came into their hands when Saul was slain.",
+      "anchor": true
+    },
+    {
+      "src": "KD",
+      "ref": "1 Samuel 31:8",
+      "note_ref": "KD/9/31/8",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "On the day following the battle, when the Philistines tripped the slain, they found Saul and his three sons lying upon Gilboa; and having cut off their heads and plundered their weapons, they went them (the heads and weapons) as trophies into the land of the Philistines, i.e., round about to the different towns and hamlets of their land, to announce the joyful news in their idol-temples (the writer of the Chronicles mentions the idols themselves) and to the people, and then deposited their weapons (the weapons of Saul and his sons) in the Astarte-houses. But the corpses they fastened to the town-wall of Beth-shean, i.e., Beisan, in the valley of the Jordan (see at Jos 17:11). Beth-azabbim and Beth-ashtaroth are composite words; the first part is indeclinable, and the plural form is expressed by the second word: idol-houses and Astarte-houses, like beth-aboth (father's-houses: see at Exo 6:14). On the Astartes, see at Jdg 2:13. It is not expressly stated indeed in Sa1 31:9, Sa1 31:10, that the Philistines plundered the bodies of Saul's sons as well, and mutilated them by cutting off their heads; but ראשׁו and כּליו, his (i.e., Saul's) head and his weapons, alone are mentioned. At the same time, it is every evident from Sa1 31:12, where the Jabeshites are said to have taken down from the wall of Beth-shean not Saul's body only, but the bodies of his sons also, that the Philistines had treated the corpses of Saul's sons in just the same manner as that of Saul himself. The writer speaks distinctly of the abuse of Saul's body only, because it was his death that he had chiefly in mind at the time. To the word וישׁלּחוּ we must supply in thought the object ראשׁו and כּליו from the preceding clause. גּויּת and גּויּת (Sa1 31:10 and Sa1 31:12) are the corpses without the heads. The fact that the Philistines nailed them to the town-wall of Beth-shean presupposes the capture of that city, from which it is evident that they had occupied the land as far as the Jordan. The definite word Beth-ashtaroth is changed by the writer of the Chronicles into Beth-elohim, temples of the gods; or rather he has interpreted it in this manner without altering the sense, as the Astartes are merely mentioned as the principal deities for the idols generally. The writer of the Chronicles has also omitted to mention the nailing of the corpses to the wall of Beth-shean, but he states instead that \"they fastened his skull in the temple of Dagon,\" a fact which is passed over in the account before us. From this we may see how both writers have restricted themselves to the principal points, or those which appeared to them of the greatest importance (vid., Bertheau on Ch1 10:10)."
+    },
+    {
+      "src": "KD",
+      "ref": "2 Samuel 1:1",
+      "note_ref": "KD/10/1/1",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "David receives the news of Saul's death. - Sa2 1:1-4. After the death of Saul, and David's return to Ziklag from his campaign against the Amalekites, there came a man to David on the third day, with his clothes torn and earth strewed upon his head (as a sign of deep mourning: see at Sa1 4:12), who informed him of the flight and overthrow of the Israelitish army, and the death of Saul and Jonathan.\nSa2 1:1-3\nSa2 1:1 may be regarded as the protasis to Sa2 1:2, so far as the contents are concerned, although formally it is rounded off, and ויּשׁב forms the apodosis to ויהי: \"It came to pass after the death of Saul, David had returned from the slaughter of the Amalekites (1 Samuel 30:1-26), that David remained at Ziklag two days. And it came to pass on the third day,\" etc. Both of these notices of the time refer to the day, on which David returned to Ziklag from the pursuit and defeat of the Amalekites. Whether the battle at Gilboa, in which Saul fell, occurred before or after the return of David, it is impossible to determine. All that follows from the juxtaposition of the two events in Sa2 1:1, is that they were nearly contemporaneous. The man \"came from the army from with Saul,\" and therefore appears to have kept near to Saul during the battle.\nSa2 1:4\nDavid's inquiry, \"How did the thing happen?\" refers to the statement made by the messenger, that he had escaped from the army of Israel. In the answer, אשׁר serves, like כּי in other passages, merely to introduce the words that follow, like our namely (vid., Ewald, 338, b.). \"The people fled from the fight; and not only have many of the people fallen, but Saul and Jonathan his son are also dead.\" וגם ... וגם: not only ... but also.\nSa2 1:5-10\nTo David's further inquiry how he knew this, the young man replied (Sa2 1:6-10), \"I happened to come (נקרא = נקרה) up to the mountains of Gilboa, and saw Saul leaning upon his spear; then the chariots (the war-chariots for the charioteers) and riders were pressing upon him, and he turned round and saw me, ... and asked me, Who art thou? and I said, An Amalekite; and he said to me, Come hither to me, and slay me, for the cramp (שׁבץ according to the Rabbins) hath seized me (sc., so that I cannot defend myself, and must fall into the hands of the Philistines); for my soul (my life) is still whole in me. Then I went to him, and slew him, because I knew that after his fall he would not live; and took the crown upon his head, and the bracelet upon his arm, and brought them to my lord\" (David). \"After his fall\" does not mean \"after he had fallen upon his sword or spear\" (Clericus), for this is neither implied in נפלו nor in על־חניתו נשׁען (\"supported, i.e., leaning upon his spear\"), nor are we at liberty to transfer it from Sa1 31:4 into this passage; but \"after his defeat,\" i.e., so that he would not survive this calamity. This statement is at variance with the account of the death of Saul in Sa1 31:3.; and even apart from this it has an air of improbability, or rather of untruth in it, particularly in the assertion that Saul was leaning upon his spear when the chariots and horsemen of the enemy came upon him, without having either an armour-bearer or any other Israelitish soldier by his side, so that he had to turn to an Amalekite who accidentally came by, and to ask him to inflict the fatal wound. The Amalekite invented this, in the hope of thereby obtaining the better recompense from David. The only part of his statement which is certainly true, is that he found the king lying dead upon the field of battle, and took off the crown and armlet; since he brought these to David. But it is by no means certain whether he was present when Saul expired, or merely found him after he was dead.\nSa2 1:11-12\nThis information, the substance of which was placed beyond all doubt by the king's jewels that were brought, filled David with the deepest sorrow. As a sign of his pain he rent his clothes; and all the men with him did the same, and mourned with weeping and fasting until the evening \"for Saul and for Jonathan his son, for the people of Jehovah, and for the house of Israel, because they had fallen by the sword\" (i.e., in battle). \"The people of Jehovah\" and the \"house or people of Israel\" are distinguished from one another, according to the twofold attitude of Israel, which furnished a double ground for mourning. Those who had fallen were first of all members of the people of Jehovah, and secondly, fellow-countrymen. \"They were therefore associated with them, both according to the flesh and according to the spirit, and for that reason they mourned the more\" (Seb. Schmidt). \"The only deep mourning for Saul, with the exception of that of the Jabeshites (Sa1 31:11), proceeded from the man whom he had hated and persecuted for so many years even to the time of his death; just as David's successor wept over the fall of Jerusalem, even when it was about to destroy Himself\" (O. v. Gerlach).\nSa2 1:13\nDavid then asked the bringer of the news for further information concerning his own descent, and received the reply that he was the son of an Amalekite stranger, i.e., of an Amalekite who had emigrated to Israel.\nSa2 1:14-16\nDavid then reproached him for what he had done: \"How wast thou not afraid to stretch forth thine hand to destroy the Lord's anointed?\" and commanded one of his attendants to slay him (Sa2 1:15.), passing sentence of death in these words: \"Thy blood come upon thy head (cf. Lev 20:9; Jos 2:1;(1); for thy mouth hath testified against thee, saying, I have slain the Lord's anointed.\"\n(Note: \"Thy mouth hath testified against thee, and out of it thou art judged (Luk 19:22), whether thou hast done it or not. If thou hast done it, thou receivest the just reward of thy deeds. If thou hast not done it, then throw the blame upon thine own lying testimony, and be content with the wages of a wicked flatterer; for, according to thine own confession, thou art the murderer of a king, and that is quite enough to betray thine evil heart. David could see plainly enough that the man was no murderer: he would show by his example that flatterers who boast of such sins as these should get no hearing from their superiors.\" - Berleb. Bible.)\nDavid regarded the statement of the Amalekite as a sufficient ground for condemnation, without investigating the truth any further; though it was most probably untrue, as he could see through his design of securing a great reward as due to him for performing such a deed (vid., Sa2 4:10), and looked upon a man who could attribute such an act to himself from mere avarice as perfectly capable of committing it. Moreover, the king's jewels, which he had brought, furnished a practical proof that Saul had really been put to death. This punishment was by no means so severe as to render it necessary to \"estimate its morality according to the times,\" or to defend it merely from the standpoint of political prudence, on the ground that as David was the successor of Saul, and had been pursued by him as his rival with constant suspicion and hatred, he ought not to leave the murder of the king unpunished, if only because the people, or at any rate his own opponents among the people, would accuse him of complicity in the murder of the king, if not of actually instigating the murderer. David would never have allowed such considerations as these to lead him into unjust severity. And his conduct requires no such half vindication. Even on the supposition that Saul had asked the Amalekite to give him his death-thrust, as he said he had, it was a crime deserving of punishment to fulfil this request, the more especially as nothing is said about any such mortal wounding of Saul as rendered his escape or recovery impossible, so that it could be said that it would have been cruel under such circumstances to refuse his request to be put to death. If Saul's life was still \"full in him,\" as the Amalekite stated, his position was not so desperate as to render it inevitable that he should fall into the hands of the Philistines. Moreover, the supposition was a very natural one, that he had slain the king for the sake of a reward. But slaying the king, the anointed of the Lord, was in itself a crime that deserved to be punished with death. What David might more than once have done, but had refrained from doing from holy reverence for the sanctified person of the king, this foreigner, a man belonging to the nation of the Amalekites, Israel's greatest foes, had actually done for the sake of gain, or at any rate pretended to have done. Such a crime must be punished with death, and that by David who had been chosen by God and anointed as Saul's successor, and whom the Amalekite himself acknowledge in that capacity, since otherwise he would not have brought him the news together with the royal diadem.",
+      "anchor": true
+    },
+    {
+      "src": "KD",
+      "ref": "2 Samuel 21:1",
+      "note_ref": "KD/10/21/1",
+      "cites": [
+        "2 Samuel 21:12"
+      ],
+      "text": "Three Years' Famine. - A three years' famine in the land, the occasion of which, as Jehovah declared to the king, was Saul's crime with regard to the Gibeonites, was expiated by David's delivering up to the Gibeonites, at their own request, seven of Saul's descendants, who were then hung by them upon a mountain before Jehovah. This occurrence certainly did not take place in the closing years of David's reign; on the other hand, it is evident from the remark in Sa2 21:7, to the effect that Mephibosheth was spared, that it happened after David had received tidings of Mephibosheth, and had taken him to his own table (Sa2 9:1-13). This is mentioned here as a practical illustration, on the one hand of the manner in which Jehovah visited upon the house of Saul, even after the death of Saul himself, a crime which had been committed by him; and, on the other hand, of the way in which, even in such a case as this, when David had been obliged to sacrifice the descendants of Saul to expiate the guilt of their father, he showed his tenderness towards him by the honourable burial of their bones.\nSa2 21:1-6\nA famine, which lasted for three successive years, induced David to seek the face of Jehovah, i.e., to approach God in prayer and ask the cause of this judgment which had fallen upon the land. The Lord replied, \"Because of Saul, and because of the house of blood-guiltiness, because he hath slain the Gibeonites.\" The expression \"because of the house of blood-guiltiness\" is in apposition to \"Saul,\" and determines the meaning more precisely: \"because of Saul, and indeed because of the blood-guiltiness which rests upon his house.\" הדּמים בּית signifies the house upon which blood that had been shed still rested as guilt, like הדּמים עיר in Eze 22:2; Eze 24:6, Eze 24:9, and דּמים אישׁ in Psa 5:7; Psa 27:9, etc. Nothing further is known about the fact itself. It is simply evident from the words of the Gibeonites in Sa2 21:5, that Saul, in his pretended zeal for the children of Israel, had smitten the Gibeonites, i.e., had put them to death. Probably some dissatisfaction with them had furnished Saul with a pretext for exterminating these Amoritish heathen from the midst of the people of God.\nSa2 21:2-3\nIn consequence of this answer from God, which merely indicated in a general manner the cause of the visitation that had come upon the land, David sent for the Gibeonites to ask them concerning the wrong that had been done them by Saul. But before the historian communicates their answer, he introduces an explanation respecting the Gibeonites, to the effect that they were not Israelites, but remnants of the Amorites, to whom Joshua had promised on oath that their lives should be preserved (vid., Jos 9:3.). They are called Hivites in the book of Joshua (Jos 9:7); whereas here they are designated Amorites, according to the more general name which is frequently used as comprehending all the tribes of Canaan (see at Gen 10:16 and Gen 15:16). David said to the Gibeonites, \"What shall I do for you, and wherewith shall I expiate\" (sc., the wrong done you), \"that ye may bless the inheritance (i.e., the nation) of Jehovah?\" On the use of the imperative וּברכוּ to denote the certain consequences, see Ewald, 347.\nSa2 21:4-5\nThe Gibeonites answered, \"I have not to do with silver and gold concerning Saul and his house\" (lit. it is not, does not stand, to me at silver and gold with Saul and his house), i.e., I have no money to demand of Saul, require no pecuniary payment as compensation for the blood which he shed among us (vid., Num 35:31). The Chethib לי is not to be touched, notwithstanding the לנוּ which follows. The use of the singular may be explained on the simple ground that the speaker thought of the Gibeonites as a corporation. \"And it does not pertain to us to put any one to death in Israel\" (sc., of our own accord). When David inquired still further, \"What do you mean, then, that I should do to you?\" they replied, \"(As for) the man who consumed us, and who thought against us, that we should be destroyed (נשׁמדנוּ without כּי, subordinately to דּמּה, like אעשׂה in the previous verse), so as not to continue in the whole of the territory of Israel, let seven men of his sons be given us, that we may crucify them to Jehovah at Gibeah of Saul, the chosen of Jehovah.\" וגו אשׁר אישׁ is placed at the head absolutely (cf. Gesenius, 145, 2). On crucifixion as a capital punishment, see at Num 25:4, where it has already been observed that criminals were not impaled or fastened to the cross alive, but were first of all put to death. Consequently the Gibeonites desired that the massacre, which had taken place among them by the command of Saul, should be expiated by the execution of a number of his sons - blood for blood, according to Num 35:31. They asked for the crucifixion for Jehovah, i.e., that the persons executed might be impaled, as a public exhibition of the punishment inflicted, before the face of the Lord (vid., Sa2 21:9), as the satisfaction required to expiate His wrath. Seven was a sacred number, denoting the performance of a work of God. This was to take place in Gibeah, the home and capital of Saul, who had brought the wrath of God upon the land through his crime. There is a sacred irony in the epithet applied to Saul, \"chosen of the Lord.\" If Saul was the chosen of Jehovah, his actions ought to have been in accordance with his divine election.\nSa2 21:6-10\nDavid granted the request, because, according to the law in Num 35:33, blood-guiltiness when resting upon the land could only be expiated by the blood of the criminal; but in delivering up the members of Saul's house for whom they asked, he spared Mephibosheth the son of Jonathan and grandson of Saul, for the sake of the bond of friendship which he had formed with Jonathan on oath (Sa1 18:3; Sa1 20:8, Sa1 20:16), and gave up to the Gibeonites two sons of Rizpah, a concubine of Saul (vid., Sa2 21:11 and Sa2 3:7), and five sons of Merab the daughter of Saul, whom she had borne to Adriel of Meholah. The name of Michal, which stands in the text, is founded upon an error of memory or a copyist's mistake; for it was not Michal, but Merab, Saul's eldest daughter, who was given to Adriel the Meholathite as his wife (Sa1 18:19). The Gibeonites crucified those who were delivered up to them upon the mountain at Gibeah before Jehovah (see the remarks on Sa2 21:6). \"Thus fell seven at once.\" The Chethib שׁבעתים, at which the Masoretes took such offence that they wanted to change it into שׁבעתּם, is defended by Bttcher very properly, on the ground that the dual of the numeral denotes what is uniformly repeated as if by pairing; so that here it expresses what was extraordinary in the even tin a more pictorial manner than the Keri: \"They fell sevenfold at once,\" i.e., seven in the same way. The further remark, \"they were slain in the first days of harvest, at the beginning of the barley harvest,\" belongs to what follows, for which it prepares the way. The two Keris, והמּה for והם, and בּתחלּת for תּחלּת, are needless emendations. תּחלּת is an adverbial accusative (vid., Ges. 118, 2). The harvest began with the barley harvest, about the middle of Nisan, our April.\nSa2 21:10\nAnd Rizpah took sackcloth, i.e., the coarse hairy cloth that was worn as mourning, and spread it out for herself by the rock - not as a tent, as Clericus supposes, still less as a covering over the corpses of those who had been executed, according to the exegetical handbook, but for a bed - \"from the beginning of the harvest till water was poured out upon them (the crucified) from heaven,\" i.e., till rain came as a sign that the plague of drought that had rested upon the land was appeased; after which the corpses could be openly taken down from the stakes and buried, - a fact which is passed over in the account before us, where only the principal points are given. This is the explanation which Josephus has correctly adopted; but his assumption that the rain fell at once, and before the ordinary early rain, has no foundation in the text of the Bible. \"And suffered not the birds of heaven to settle upon the corpses by day, or the wild beasts by night.\" Leaving corpses without burial, to be consumed by birds of prey and wild beasts, was regarded as the greatest ignominy that could befal the dead (see at Sa1 17:44). According to Deu 21:22-23, persons executed were not to remain hanging through the night upon the stake, but to be buried before evening. This law, however, had no application whatever to the case before us, where the expiation of guilt that rested upon the whole land was concerned. In this instance the expiatory sacrifices were to remain exposed before Jehovah, till the cessation of the plague showed that His wrath had been appeased.\nSa2 21:11-14\nWhen this touching care of Rizpah for the dead was told to David, he took care that the bones of the whole of the fallen royal house should be buried in the burial-place of Saul's family. He therefore sent for the bones of Saul and Jonathan, which the men of Jabesh had taken away secretly from the wall of Beisan, where the Philistines had fastened the bodies, and which had been buried in Jabesh (Sa1 31:10.), and had the bones of the sons and grandsons of Saul who had been crucified at Gibeah collected together, and interred all these bones at Zela in the land of Benjamin, in the family grave of Kish the father of Saul. גּנּב, to take away secretly. בּית־שׁן מּרחב, from the market-place of Bethshan, does not present any contradiction to the statement in Sa1 31:10, that the Philistines fastened the body to the wall of Bethshan, as the rechob or market-place in eastern towns is not in the middle of the town, but is an open place against or in front of the gate (cf. Ch2 32:6; Neh 8:1, Neh 8:3,Neh 8:16). This place, as the common meeting-place of the citizens, was the most suitable spot that the Philistines could find for fastening the bodies to the wall. The Chethib תּלוּם is the true Hebrew form from תּלה, whereas the Keri תּלאוּם is a formation resembling the Aramaean (cf. Ewald, 252, a.). The Keri פלשׁתּים שׁמּה is correct, however, as פלשׁתּים, being a proper name, does not take any article. In הכּות בּיום the literal meaning of יום (day) must not be strictly pressed, but the expression is to be taken in the sense of \"at the time of the smiting;\" for the hanging up of the bodies did not take place till the day after the battle (Sa1 31:8.). - In Sa2 21:14 the account is abridged, and the bones of the crucified persons are not mentioned again. The situation of Zela is unknown (see at Jos 18:28). After this had been carried out in accordance with the king's command, God suffered himself to be entreated for the land, so that the famine ceased.",
+      "anchor": true
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 10:1",
+      "note_ref": "KD/13/10/1",
+      "cites": [
+        "1 Chronicles 10:4"
+      ],
+      "text": "See Gill on Sa1 31:1.\n.\n1 Chronicles 10:13\nch1 10:13\nch1 10:13\nch1 10:13So Saul died for his transgression,.... See Gill on Sa1 31:13 A violent and dishonourable death, which was suffered on account of the sins he was guilty of:\none was, which he committed against the Lord, even against the word of the Lord, which he kept not; both in not staying for Samuel the time appointed, and by sparing the Amalekites whom he was bid to destroy, Sa1 13:13.\nand also for asking counsel of one that had a familiar spirit, to inquire of it; what he should do with respect to engaging in battle with the Philistines, Sa1 28:8 which to do was contrary to an express command of God, Lev 19:31.",
+      "anchor": true
+    },
+    {
+      "src": "KD",
+      "ref": "1 Chronicles 10:13",
+      "note_ref": "KD/13/10/13",
+      "cites": [
+        "1 Chronicles 10:14"
+      ],
+      "text": "And inquired not of the Lord,.... For though he did inquire in some sense in an external, careless, and hypocritical manner, yet not done seriously, sincerely, and heartily, nor with constancy; it was accounted as if he inquired not at all, Sa1 28:6 the Targum adds another reason of his death, because he killed the priests of Nob; but that is not in the text:\ntherefore he slew him; or suffered him to be slain:\nand turned the kingdom unto David the son of Jesse; translated the kingdom of Israel out of Saul's family, upon his death, into Jesse's, even unto David; for the sake of which observation this short account is given of the last end of Saul.\nNext: 1 Chronicles Chapter 11"
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Samuel 31:1",
+      "note_ref": "MHC/9/31/1",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "The day of recompence has now come, in which Saul must account for the blood of the Amalekites which he had sinfully spared, and that of the priests which he had more sinfully spilt; that of David too, which he would have spilt, must come into the account. Now his day has come to fall, as David foresaw, when he should descend into battle and perish, Sa1 26:10. Come and see the righteous judgments of God.\nI. He sees his soldiers fall about him, Sa1 31:1. Whether the Philistines were more numerous, better posted, and better led on, or what other advantages they had, we are not told; but it seems they were more vigorous, for they made the onset; they fought against Israel, and the Israelites fled and fell. The best of the troops were put into disorder, and multitudes slain, probably those whom Saul had employed in pursuing David. Thus those who had followed him and served him in his sin went before him in his fall and shared with him in his plagues.\nII. He sees his sons fall before him. The victorious Philistines pressed most forcibly upon the king of Israel and those about him. His three sons were next him, it is probable, and they were all three slain before his face, to his great grief (for they were the hopes of his family) and to his great terror, for they were now the guard of his person, and he could conclude no other than that his own turn would come next. His sons are named (Sa1 31:2), and it grieves us to find Jonathan among them: that wise, valiant, good man, who was as much David's friend as Saul was his enemy, yet falls with the rest. Duty to his father would not permit him to stay at home, or to retire when the armies engaged; and Providence so orders it that he falls in the common fate of his family, though he never involved himself in the guilt of it; so that the observation of Eliphaz does not hold (Job 4:7), Who ever perished being innocent? For here was one. What shall we say to it? 1. God would hereby complete the vexation of Saul in his dying moments, and the judgment that was to be executed upon his house. If the family must fall, Jonathan, that is one of it, must fall with it. 2. He would hereby make David's way to the crown the more clear and open. For, though Jonathan himself would have cheerfully resigned all his title and interest to him (we have no reason to suspect any other), yet it is very probable that many of the people would have made use of his name for the support of the house of Saul, or at least would have come in but slowly to David. If Ishbosheth (who was now left at home as one unfit for action, and so escaped) had so many friends, what would Jonathan have had, who had been the darling of the people and had never forfeited their favour? Those that were so anxious to have a king like the nations would be zealous for the right line, especially if that threw the crown upon such a head as Jonathan's. This would have embarrassed David; and, if Jonathan could have prevailed to bring in all his interest to David, then it would have been said that Jonathan had made him king, whereas God was to have all the glory. This is the Lord's doing. So that though the death of Jonathan would be a great affliction to David, yet, by making him mindful of his own frailty, as well as by facilitating his accession to the throne, it would be an advantage to him. 3. God would hereby show us that the difference between good and bad is to be made in the other world, not in this. All things come alike to all. We cannot judge of the spiritual or eternal state of any by the manner of their death; for in that there is one event to the righteous and to the wicked.\nIII. He himself is sorely wounded by the Philistines and then slain by his own hand. The archers hit him (Sa1 31:3), so that he could neither fight nor fly, and therefore must inevitably fall into their hands. Thus, to make him the more miserable, destruction comes gradually upon him, and he dies so as to feel himself die. To such an extremity was he now reduced that, 1. He was desirous to die by the hand of his own servant rather than by the hand of the Philistines, lest they should abuse him as they had abused Samson. Miserable man! He finds himself dying, and all his care is to keep his body out of the hands of the Philistines, instead of being solicitous to resign his soul into the hands of God who gave it, Ecc 12:7. As he lived, so he died, proud and jealous, and a terror to himself and all about him. Those who rightly understand the matter think it of small account, in comparison, how it is with them in death, so it may but be well with them after death. Those are in a deplorable condition indeed who, being bitter in soul, long for death, but it cometh not (Job 3:20, Job 3:21), especially those who, despairing of the mercy of god, like Judas, leap into a hell before them, to escape a hell within them. 2. When he could not obtain that favour he became his own executioner, thinking hereby to avoid shame, but running upon a heinous sin, and with it entailing upon his own name a mark of perpetual infamy, as felo de se - a self-murderer. Jonathan, who received his death-wound from the hand of the Philistines and bravely yielded to the fate of war, died on the bed of honour; but Saul died as a fool dieth, as a coward dieth - a proud fool, a sneaking coward; he died as a man that had neither the fear of God nor hope in God, neither the reason of a man nor the religion of an Israelite, much less the dignity of a prince or the resolution of a soldier. Let us all pray, Lord, lead us not into temptation, this temptation. His armour-bearer would not run him through, and he did well to refuse it; for no man's servant ought to be a slave to his master's lusts or passions of any kind. The reason given is that he was sorely afraid, not of death, for he himself ran wilfully upon that immediately; but, having a profound reverence for the king his master, he could not conquer that so far as to do him any hurt; or perhaps he feared lest his trembling hand should give him but half a blow, and so put him to the greater misery.\nIV. His armour-bearer who refused to kill him refused not to die with him, but fell likewise upon his sword, Sa1 31:5. This was an aggravating circumstance of the death of Saul, that, by the example of his wickedness in murdering himself, he drew in his servant to be guilty of the same wickedness, and perished not alone in his iniquity. The Jews say that Saul's armour-bearer was Doeg, whom he preferred to that dignity for killing the priests, and, if so, justly does his violent dealing return on his own head. David had foretold concerning him that God would destroy him for ever, Psa 52:5.\nV. The country was put into such confusion by the rout of Saul's army that the inhabitants of the neighbouring cities (on that side Jordan, as it might be read) quitted them, and the Philistines, for a time, had possession of them, till things were settled in Israel (Sa1 31:7), to such a sad pass had Saul by his wickedness brought his country, which might have remained in the hands of the uncircumcised if David had not been raised up to repair the breaches of it. See what a king he proved for whom they rejected God and Samuel. They had still done wickedly (it is to be feared) as well as he, and therefore were consumed both they and their king, as the prophet had foretold concerning them, Sa1 12:25. And to this reference is had long after. Hos 13:10, Hos 13:11, \"Where are thy saviours in all thy cities, of whom thou saidst, Give me a king and princes? I gave thee a king in my anger, and took him away in my wrath; that is, he was a plague to thee living and dying; thou couldst expect no other.\"",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Samuel 31:8",
+      "note_ref": "MHC/9/31/8",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "The scripture makes no mention of the souls of Saul and his sons, what became of them after they were dead (secret things belong not to us), but of their bodies only.\nI. How they were basely abused by the Philistines. The day after the battle, when they had recovered their fatigue, they came to strip the slain, and, among the rest, found the bodies of Saul and his three sons, Sa1 31:8. Saul's armour-bearer perhaps intended to honour his master by following the example of his self-murder, and to show thereby how well he loved him; but, if he had consulted his reason more than his passions, he would have spared that foolish compliment, not only in justice to his own life, but in kindness to his master, to whom, by the opportunity of survivorship, he might have done all the service that could be done him by any man after he was dead; for he might, in the night, have conveyed away his body, and those of his sons, and buried them decently. But such false and foolish notions these vain men have (though they would be wise) of giving and receiving honour. Nay, it should seem, Saul might have saved himself the fatal thrust and have made his escape: for the pursuers (in fear of whom he slew himself) came not to the place where he was till the next day. But whom God will destroy he infatuates and utterly consumes with his terrors. See Job 18:5, etc. Finding Saul's body (which now that it lay extended on the bloody turf was distinguishable from the rest by its length, as it was, while erect, by its height, when he proudly overlooked the surrounding crowd), they will, in that, triumph over Israel's crown, and meanly gratify a barbarous and brutish revenge by insulting the deserted corpse, which, when alive, they had stood in awe of. 1. They cut off his head. Had they designed in this to revenge the cutting off of Goliath's head they would rather have cut off the head of David, who did that execution, when he was in their country. They intended it, in general, for a reproach to Israel, who promised themselves that a crowned and an anointed head would save them from the Philistines, and a particular reproach to Saul, who was taller by the head than other men (which perhaps he was wont to boast of), but was now shorter by the head. 2. They stripped him of his armour (Sa1 31:9), and sent that to be set up as a trophy of their victory, in the house of Ashtaroth their goddess (Sa1 31:10); and we are told, Ch1 10:10 (though it is omitted here), that they fastened his head in the temple of Dagon. Thus did they ascribe the honour of their victory, not as they ought to have done to the real justice of the true God, but to the imaginary power of their false gods, and by this respect paid to pretended deities shame those who give not the praise of their achievements to the living God. Ashtaroth, the idol that Israel had many a time gone a whoring after, now triumphs over them. 3. They sent expresses throughout their country, and ordered public notice to be given in the houses of their gods of the victory they had obtained (Sa1 31:9), that public rejoicings might be made and thanks given to their gods. This David regretted sorely, Sa2 1:20. Tell it not in Gath. 4. They fastened his body and the bodies of his sons (as appears, Sa1 31:12) to the wall of Bethshan, a city that lay not far from Gilboa and very near to the river Jordan. Hither the dead bodies were dragged and here hung up in chains, to be devoured by the birds of prey. Saul slew himself to avoid being abused by the Philistines, and never was royal corpse so abused as his was, perhaps the more if they understood that he slew himself for that reason. He that thinks to save his honour by sin will certainly lose it. See to what a height of insolence the Philistines had arrived just before David was raised up, who perfectly subdued them. Now that they had slain Saul and his sons they thought the land of Israel was their own for ever, but they soon found themselves deceived. When God has accomplished his whole work by them he will accomplish it upon them. See Isa 10:6, Isa 10:7.\nII. How they were bravely rescued by the men of Jabesh-Gilead. Little more than the river Jordan lay between Beth-shan and Jabesh-Gilead, and Jordan was in that place passable by its fords; a bold adventure was therefore made by the valiant men of that city, who in the night passed the river, took down the dead bodies, and gave them decent burial, Sa1 31:11, Sa1 31:13. This they did, 1. Out of a common concern for the honour of Israel, or the land of Israel, which ought not to be defiled by the exposing of any dead bodies, and especially of the crown of Israel, which was thus profaned by the uncircumcised. 2. Out of a particular sense of gratitude to Saul, for his zeal and forwardness to rescue them from the Ammonites when he first came to the throne, Sa1 11:1-15. It is an evidence of a generous spirit and an encouragement to beneficence when the remembrance of kindnesses is thus retained, and they are thus returned in an extremity. The men of Jabesh-Gilead would have done Saul better service if they had sent their valiant men to him sooner, to strengthen him against the Philistines. But his day had come to fall, and now this is all the service they can do him, in honour to his memory. We find not that any general mourning was made for the death of Saul, as was for the death of Samuel (Sa1 25:1), only those Gileadites of Jabesh did him honour at his death; for, (1.) They made a burning for the bodies, to perfume them. So some understand the burning of them. They burnt spices over them, Sa1 11:12. And that it was usual thus to do honour to their deceased friends, at least their princes, appears by the account of Asa's funeral (Ch2 16:14), that they made a very great burning for him. Or (as some think) they burnt the flesh, because it began to putrefy. (2.) They buried the bodies, when, by burning over them, they had sweetened them (or, if they burnt them, they buried the bones and ashes), under a tree, which served for a grave-stone and monument. And, (3.) They fasted seven days, that is, each day of the seven they fasted till the evening; thus they lamented the death of Saul and the present distracted state of Israel, and perhaps joined prayers with their fasting for the re-establishment of their shattered state. Though, when the wicked perish there is shouting (that is, it is to be hoped a better state of things will ensue, which will be matter of joy), yet humanity obliges us to show a decent respect to dead bodies, especially those of princes.\nThis book began with the birth of Samuel, but now it ends with the burial of Saul, the comparing of which two together will teach us to prefer the honour that comes from God before any of the honours which this world pretends to have the disposal of."
+    },
+    {
+      "src": "MHC",
+      "ref": "2 Samuel 1:1",
+      "note_ref": "MHC/10/1/1",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "Here is, I. David settling again in Ziklag, his own city, after he had rescued his family and friends out of the hands of the Amalekites (Sa2 1:1): He abode in Ziklag. Thence he was now sending presents to his friends (Sa1 30:26), and there he was ready to receive those that came into his interests; not men in distress and debt, as his first followers were, but persons of quality in their country, mighty men, men of war, and captains of thousands (as we find, Ch1 12:1, Ch1 12:8, Ch1 12:20); such came day by day to him, God stirring up their hearts to do so, till he had a great host, like the host of God, as it is said, Ch1 12:22. The secret springs of revolutions are unaccountable, and must be resolved into that Providence which turns all hearts as the rivers of water.\nII. Intelligence brought him thither of the death of Saul. It was strange that he did not leave some spies about the camp, to bring him early notice of the issue of the engagement, a sign that he desired not Saul's woeful day, nor was impatient to come to the throne, but willing to wait till those tidings were brought to him which many a one would have sent more than half-way to meet. He that believes does not make haste, takes good news when it comes and is not uneasy while it is in the coming. 1. The messenger presents himself to David as an express, in the posture of a mourner for the deceased prince and a subject to the succeeding one. He came with his clothes rent, and made obeisance to David (Sa2 1:2), pleasing himself with the fancy that he had the honour to be the first that did him homage as his sovereign, but it proved he was the first that received from him sentence of death as his judge. He told David he came from the camp of Israel, and intimated the bad posture it was in when he said he had escaped out of it, having much ado to get away with his life, Sa2 1:3. 2. He gives him a general account of the issue of the battle. David was very desirous to know how the matter went, as one that had more reason than any to be concerned for the public; and he told him very distinctly that the army of Israel was routed, many slain, and, among the rest, Saul and Jonathan, Sa2 1:4. He named only Saul and Jonathan, because he knew David would be most solicitous to know their fate; for Saul was the man whom he most feared and Jonathan the man whom he most loved. 3. He gives him a more particular account of the death of Saul. It is probable that David had heard, by the report of others, what the issue of the war was, for multitudes resorted to him, it should seem, in consequence; but he was desirous to know the certainty of the report concerning Saul and Jonathan, either because he was not forward to believe it or because he would not proceed upon it to make his own claims till he was fully assured of it. He therefore asks, How knowest thou that Saul and Jonathan are dead? in answer to which the young man tells him a very ready story, putting it past doubt that Saul was dead, for he himself had been not only an eye-witness of his death, but an instrument of it, and therefore David might rely upon his testimony. He says nothing, in his narrative, of the death of Jonathan, knowing how ungrateful that would be to David, but accounts only for Saul, thinking (as David understood it well enough, Sa2 4:10) that he should be welcome for that, and rewarded as one that brought good tidings. The account he gives of this matter is, (1.) Very particular. That he happened to go to the place where Saul was (Sa2 1:6) as a passenger, not as a soldier, and therefore an indifferent person, that he found Saul endeavouring to run himself through with his own spear, none of his attendants being willing to do it for him; and, it seems, he could not do it dexterously for himself: his hand and heart failed him. The miserable man had not courage enough either to live or die; he therefore called this stranger to him (Sa2 1:7), enquired what countryman he was, for, provided he was not a Philistine, he would gladly receive from his hand the coup de grace (as the French call it concerning those that are broken on the wheel) - the merciful stroke, that might dispatch him out of his pain. Understanding that he was an Amalekite (neither one of his subjects nor one of his enemies), he begs this favour from him (Sa2 1:9): Stand upon me, and slay me. He is now sick of his dignity and willing to be trampled upon, sick of his life and willing to be slain. Who then would be inordinately fond of life or honour? The case may he such, even with those that have no hope in their death, that yet they may desire to die, and death flee from them, Rev 9:6. Anguish has come upon me; so we read it, as a complaint of the pain and terror his spirit was seized with. If his conscience now brought to mind the javelin he had cast at David, his pride, malice, and perfidiousness, and especially the murder of the priests, no marvel that anguish came upon him: moles (they say) open their eyes when they are dying. Sense of unpardoned guilt will make death indeed the king of terrors. Those that have baffled their convictions will perhaps, in their dying moments, be overpowered by them. The margin reads it as a complaint of the inconvenience of his clothes; that his coat of mail which he had for defence, or his embroidered coat which he had for ornament, hindered him, that he could not get the spear far enough into his body, or so straitened him, now that his body swelled with anguish, that he could not expire. Let no man's clothes be his pride, for it may so happen that they may be his burden and snare. \"Hereupon,\" saith our young man, \"I stood upon him, and slew him\" (Sa2 1:10) at which word, perhaps, he observed David look upon him with some show of displeasure, and therefore he excuses himself in the next words: \"For I was sure he could not live; his life was whole in him indeed, but he would certainly have fallen into the hands of the Philistines or given himself another thrust.\" (2.) It is doubtful whether this story be true. If it be, the righteousness of God is to be observed, that Saul, who spared the Amalekites in contempt of the divine command, received his death's wound from an Amalekite. But most interpreters think that it was false, and that, though he might happen to be present, yet he was not assisting in the death of Saul, but told David so in expectation that he would reward him for it, as having done him a piece of good service. Those who would rejoice at the fall of an enemy are apt to measure others by themselves, and to think that they will do so too. But a man after God's own heart is not to be judged of by common men. I am not clear whether this young man's story was true or no: it may consist with the narrative in the chapter before, and be an addition to it, as Peter's account of the death of Judas (Act 1:18) is to the narrative, Mat 27:5. What is there called a sword may here be called a spear, or when he fell upon his sword he leaned on his spear. (3.) However he produced that which was proof sufficient of the death of Saul, the crown that was upon his head and the bracelet that was on his arm. It should seem Saul was so foolishly fond of these as to wear them in the field of battle, which made him a fair mark for the archers, by distinguishing him from those about him; but as pride (we say) feels no cold, so it fears no danger, from that which gratifies it. These fell into the hands of this Amalekite. Saul spared the best of their spoil, and now the best of his came to one of that devoted nation. He brought them to David, as the rightful owner of them now that Saul was dead, not doubting but by his officiousness herein to recommend himself to the best preferments in his court or camp. The tradition of the Jews is that this Amalekite was the son of Doeg (for the Amalekites were descendants from Edom), and that Doeg, who they suppose was Saul's armour-bearer, before he slew himself gave Saul's crown and bracelet (the ensigns of his royalty) to his son, and bade him carry them to David, to curry favour with him. But this is a groundless conceit. Doeg's son, it is likely, was so well known to Saul that he needed not ask him as he did this Amalekite (Sa2 1:8), Who art thou? David had been long waiting for the crown, and now it was brought to him by an Amalekite. See how God can serve his own purposes of kindness to his people, even by designing (ill-designing) men, who aim at nothing but to set up themselves.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "2 Samuel 1:11",
+      "note_ref": "MHC/10/1/11",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "Here is, I. David's reception of these tidings. So far was he from falling into a transport of joy, as the Amalekite expected, that he fell into a passion of weeping, rent his clothes (Sa2 1:11), mourned and fasted (Sa2 1:12), not only for his people Israel and Jonathan his friend but for Saul his enemy. This he did, not only as a man of honour, in observance of that decorum which forbids us to insult over those that are fallen, and requires us to attend our relations to the grave with respect, whatever we lost by their life or got by their death, but as a good man and a man of conscience, that had forgiven the injuries Saul had done him and bore him no malice. He knew it, before his son wrote it (Pro 24:17, Pro 24:18), that if we rejoice when our enemy falls the Lord sees it, and it displeases him; and that he who is glad at calamities shall not go unpunished, Pro 17:5. By this it appears that those passages in David's psalms which express his desire of, and triumph in, the ruin of his enemies, proceeded not from a spirit of revenge, nor any irregular passion, but from a holy zeal for the glory of God and the public good; for by what he did here, when he heard of Saul's death, we may perceive that his natural temper was very tender, and that he was kindly affected even to those that hated him. He was very sincere, no question, in his mourning for Saul, and it was not pretended, or a copy of his countenance only. His passion was so strong, on this occasion, that it moved those about him; all that were with him, at least in complaisance to him, rent their clothes, and they fasted till even, in token of their sorrow; and probably it was a religious fast: they humbled themselves under the hand of God, and prayed for the repairing of the breaches made upon Israel by this defeat.\nII. The reward he gave to him that brought him the tidings. Instead of preferring him, he put him to death, judged him out of his own mouth, as a murderer of his prince, and ordered him to be forthwith executed for the same. What a surprise was this to the messenger, who thought he should have favour shown him for his pains. In vain did he plead that he had Saul's order for it, that it was a real kindness to him, that he must inevitably have died; all those pleas are overruled: \"Thy mouth has testified against thee, saying, I have slain the Lord's anointed (Sa2 1:16), therefore thou must die.\" Now,\n1. David herein did not do unjustly. For, (1.) The man was an Amalekite. This, lest he should have mistaken it in his narrative, he made him own a second time, Sa2 1:13. That nation, and all that belonged to it, were doomed to destruction, so that, in slaying him, David did what his predecessor should have done and was rejected for not doing. (2.) He did himself confess the crime, so that the evidence was, by the consent of all laws, sufficient to convict him; for every man is presumed to make the best of himself. If he did as he said, he deserved to die for treason (Sa2 1:14), doing that which, it is probable, he heard Saul's own armour-bearer refuse to do; if not, yet by boasting that he had done it he plainly showed that if there had been occasion he would have done it, and would have made nothing of it; and, by boasting of it to David, he showed what opinion he had of him, that he would rejoice in it, as one altogether like himself, which was an intolerable affront to him who had himself once and again refused to stretch forth his hand against the Lord's anointed. And his lying to David, if indeed it was a lie, was highly criminal, and proved, as sooner or later that sin will prove, lying against his own head.\n2. He did honourably and well. Hereby he demonstrated the sincerity of his grief, discouraged all others from thinking by doing the like to ingratiate themselves with him, and did that which might probably oblige the house of Saul and win upon them, and recommend him to the people as one that was zealous for public justice, without regard to his own private interest. We may learn from it that to give assistance to any in murdering themselves, directly or indirectly, if done wittingly, incurs the guilt of blood, and that the lives of princes ought to be, in a special manner, precious to us."
+    },
+    {
+      "src": "MHC",
+      "ref": "2 Samuel 21:10",
+      "note_ref": "MHC/10/21/10",
+      "cites": [
+        "2 Samuel 21:12"
+      ],
+      "text": "Here we have, I. Saul's sons not only hanged, but hanged in chains, their dead bodies left hanging, and exposed, till the judgment ceased, which their death was to turn away, by the sending of rain upon the land. They died as sacrifices, and thus they were, in a manner, offered up, not consumed all at once by fire, but gradually by the air. They died as anathemas, and by this ignominious usage they were represented as execrable, because iniquity was laid upon them. When our blessed Saviour was made sin for us he was made a curse for us. But how shall we reconcile this with the law which expressly required that those who were hanged should be buried on the same day? Deu 21:23. One of the Jewish rabbin wishes this passage of story expunged, that the name of God might be sanctified, which, he thinks, is dishonoured by his acceptance of that which was a violation of his law: but this was an extraordinary case, and did not fall within that law; nay, the very reason for that law is a reason for this exception. he that is thus left hanged is accursed; therefore ordinary malefactors must not be so abused; but therefore these must, because they were sacrificed, not to the justice of the nation, but for the crime of the nation (no less a crime than the violation of the public faith) and for the deliverance of the nation from no less a judgment than a general famine. Being thus made as the off-scouring of all things, they were made a spectacle to the world (Co1 4:9, Co1 4:13), God appointing, or at least allowing it.\nII. Their dead bodies watched by Rizpah, the mother of two of them, Sa2 21:10. It was a great affliction to her, now in her old age, to see her two sons, who, we may suppose, had been a comfort to her, and were likely to be the support of her declining years, cut off in this dreadful manner. None know what sorrows they are reserved for. She may not see them decently interred, but they shall be decently attended. She attempts not to violate the sentence passed upon them, that they should hang there till God sent rain; she neither steals nor forces away their dead bodies, though the divine law might have been cited to bear her out; but she patiently submits, pitches a tent of sackcloth near the gibbets, where, with her servants and friends, she protects the dead bodies from birds and beasts of prey. Thus, 1. She indulged her grief, as mourners are too apt to do, to no good purpose. When sorrow, in such cases, is in danger of growing excessive, we should rather study how to divert and pacify it than how to humour and gratify it. Why should we thus harden ourselves in sorrow? 2. She testified her love. Thus she let the world know that her sons died, not for any sin of their own, not as stubborn and rebellious sons, whose eye had despised to obey their mother; if that had been the case, she would have suffered the ravens of the valley to pick it out and the young eagles to eat it, Pro 30:17. But they died for their father's sin and therefore her mind could not be alienated from them by their hard fate. Though there is not remedy, but they must die, yet they shall die pitied and lamented.\nIII. The solemn interment of their dead bodies, with the bones of Saul and Jonathan, in the burying-place of their family. David was so far from being displeased at what Rizpah had done that he was himself stirred up by it to do honour to the house of Saul, and to these branches of it among the rest; thus it appeared that it was not out of any personal disgust to the family that he delivered them up, and that he had not desired the woeful day, but that he was obliged to do it for the public good. 1. He now bethought himself of removing the bodies of Saul and Jonathan from the place where the men of Jabesh-Gilead had decently, but privately and obscurely, interred them, under a tree, Sa1 31:12, Sa1 31:13. Though the shield of Saul was vilely cast away, as if he had not been anointed with oil, yet let not royal dust be lost in the graves of the common people. Humanity obliges us to respect human bodies, especially of the great and good, in consideration both of what they have been and what they are to be. 2. With them he buried the bodies of those that were hanged; for, when God's anger was turned away, they were no longer to be looked upon as a curse, Sa2 21:13, Sa2 21:14. When water dropped upon them out of heaven (Sa2 21:10), that is, when God sent rain to water the earth (which perhaps was not many days after they were hung up), then they were taken down, for then it appeared that God was entreated for the land. When justice is done on earth vengeance from heaven ceases. Through Christ, who was hanged on a tree and so made a curse for us, to expiate our guilt (though he was himself guiltless), God is pacified, and is entreated for us: and it is said (Act 13:29) that when they had fulfilled all that was written of him, in token of the completeness of the sacrifice and of God's acceptance of it, they took him down from the tree and laid him in a sepulchre."
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 10:1",
+      "note_ref": "MHC/13/10/1",
+      "cites": [
+        "1 Chronicles 10:4"
+      ],
+      "text": "This account of Saul's death is the same with that which we had, Sa1 31:1, etc. We need not repeat the exposition of it. Only let us observe, 1. Princes sin and the people suffer for it. It was a bad time with Israel when they fled before the Philistines and fell down slain (Ch1 10:1), when they quitted their cities, and the Philistines came and dwelt in them, Ch1 10:7. We do not find that they were at this time guilty of idolatry, as they had been before, in the days of the judges, and were afterwards, in the days of the kings. Samuel had reformed them, and they were reformed: and yet they are thus given to the spoil and to the robbers. No doubt there was enough in them to deserve this judgment; but that which divine Justice had chiefly an eye to was the sin of Saul. Note, Princes and great men should in a special manner take heed of provoking God's wrath; for, if they kindle that fire, they know not how many may be consumed by it for their sakes. 2. Parents sin and the children suffer for it. When the measure of Saul's iniquity was full, and his day came to fall (which David foresaw, Sa1 26:10), he not only descended into battle and perished himself, but his sons (all but Ishbosheth) perished with him, and Jonathan among the rest, that gracious, generous man; for all things come alike to all. Thus was the iniquity of the fathers visited upon the children, and they fell as parts of the condemned father. Note, Those that love their seed must leave their sins, lest they perish not alone in their iniquity, but bring ruin on their families with themselves, or entail a curse upon them when they are gone. 3. Sinners sin and at length suffer for it themselves, though they be long reprieved; for, although sentence be not executed speedily, it will be executed. It was so upon Saul; and the manner of his fall was such as, in various particulars, answered to his sin. (1.) He had thrown a javelin more than once at David, and missed him; but the archers hit him, and he was wounded of the archers. (2.) He had commanded Doeg to slay the priests of the Lord; and now, in despair, he commands his armour-bearer to draw his sword and thrust him through. (3.) He had disobeyed the command of God in not destroying the Amalekites, and his armour-bearer disobeys him in not destroying him. (4.) He that was the murderer of the priests is justly left to himself to be his own murderer; and his family is cut off who cut off the city of the priests. See, and say, The Lord is righteous.",
+      "anchor": true
+    },
+    {
+      "src": "MHC",
+      "ref": "1 Chronicles 10:8",
+      "note_ref": "MHC/13/10/8",
+      "cites": [
+        "1 Chronicles 10:14"
+      ],
+      "text": "Here, I. From the triumph of the Philistines over the body of Saul we may learn, 1. That the greater dignity men are advanced to the greater disgrace they are in danger of falling into. Saul's dead body, because he was king, was abused more than any other of the slain. Advancement makes men a mark for malice. 2. That, if we give not to God the glory of our successes, even the Philistines will rise up in judgment against us and condemn us; for, when they had obtained a victory over Saul, they sent tidings to their idols - poor idols, that knew not what was done a few miles off till the tidings were brought to them, nor then either! They also put Saul's armour in the house of their gods, Ch1 10:10. Shall Dagon have so honourable a share in their triumphs and the true and living God be forgotten in ours?\nII. From the triumph of the men of Jabesh-Gilead in the rescue of the bodies of Saul and his sons we learn that there is a respect due to the remains of the deceased, especially of deceased princes. We are not to enquire concerning the eternal state; that must be left to God: but we must treat the dead body as those who remember it has been united to an immortal soul and must be so again.\nIII. From the triumphs of divine Justice in the ruin of Saul we may learn, 1. That the sin of sinners will certainly find them out, sooner or later: Saul died for his transgression. 2. That no man's greatness can exempt him from the judgments of God. 3. Disobedience is a killing thing. Saul died for not keeping the word of the Lord, by which he was ordered to destroy the Amalekites. 4. Consulting with witches is a sin that fills the measure of iniquity as soon as any thing. Saul enquired of one that had a familiar spirit, and enquired not of the Lord, therefore he slew him, Ch1 10:13, Ch1 10:14. Saul slew himself, and yet it is said, God slew him. What is done by wicked hands is yet done by the determinate counsel and foreknowledge of God. Those that abandon themselves to the devil shall be abandoned to him; so shall their doom be. It is said (Sa1 28:6) that Saul did enquire of the Lord and he answered him not: but here it is said, Saul did not enquire of God; for he did not till he was brought to the last extremity, and then it was too late.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 31:2",
+      "note_ref": "TYN/9/31/2",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "31:2 Jonathan . . . Malkishua: See 14:49. This is the first mention of Saul’s son Abinadab (cp. 1 Chr 8:33; 9:39)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 31:4",
+      "note_ref": "TYN/9/31/4",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "31:4 David had once held the position of armor bearer (16:21). • kill me: This is one of many parallels between the death of Abimelech in the time of the judges (Judg 9) and Saul, Israel’s first national king (cp. Judg 9:54)."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Samuel 31:8",
+      "note_ref": "TYN/9/31/8",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "31:8 The victorious army would strip the dead to search for anything valuable (such as clothing, weapons, or jewelry) on the corpses."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Samuel 1:6",
+      "note_ref": "TYN/10/1/6",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "1:6 The Amalekite man’s second lie is, I happened to be on Mount Gilboa. Instead, he had probably scoured the area after the battle, looking for victims whose valuables he could take."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Samuel 1:9",
+      "note_ref": "TYN/10/1/9",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "1:9 Then he begged me: This is the Amalekite’s third lie; instead, Saul was probably already dead (cp. 1 Sam 31:4-6)."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Samuel 1:10",
+      "note_ref": "TYN/10/1/10",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "1:10 The Amalekite apparently got to Saul’s corpse before the Philistines did, for they would not have left royal items such as his crown and his armband on his body. • Israel’s king wore a crown (Hebrew nezer, “consecration”) as a sign of his consecration to God and status as the Lord’s anointed (1:14)."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Samuel 21:10",
+      "note_ref": "TYN/10/21/10",
+      "cites": [
+        "2 Samuel 21:12"
+      ],
+      "text": "21:10 Because the Gibeonites were not Israelites (21:2), they had no law such as the Israelite one in Deut 21:22-23 requiring the quick and proper burial of a criminal. Rizpah was intent that her sons not be further shamed after their death."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Samuel 21:11",
+      "note_ref": "TYN/10/21/11",
+      "cites": [
+        "2 Samuel 21:12"
+      ],
+      "text": "21:11-13 Rizpah’s action shamed David into likewise honoring the dead of Saul’s family."
+    },
+    {
+      "src": "TYN",
+      "ref": "2 Samuel 21:14",
+      "note_ref": "TYN/10/21/14",
+      "cites": [
+        "2 Samuel 21:12"
+      ],
+      "text": "21:14 The precise location of Zela is unknown. • the famine: See 21:1-2."
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 10:1",
+      "note_ref": "TYN/13/10/1",
+      "cites": [
+        "1 Chronicles 10:4"
+      ],
+      "text": "10:1-14 The narrative of Israel as a kingdom begins with the death of Saul, who failed to fulfill God’s purposes for him as king and for Israel as a nation. Saul’s death prepares the way for David, whom the Chronicler regarded as the first true king of Israel.",
+      "anchor": true
+    },
+    {
+      "src": "TYN",
+      "ref": "1 Chronicles 10:6",
+      "note_ref": "TYN/13/10/6",
+      "cites": [
+        "1 Chronicles 10:4",
+        "1 Chronicles 10:14"
+      ],
+      "text": "10:6-12 Saul and his three sons died . . . bringing his dynasty to an end: The Chronicler does not mention Saul’s armor bearer or the rest of his troops (see 1 Sam 31:6), emphasizing God’s action in removing Saul and replacing him with David (1 Chr 10:14)."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 31:3",
+      "note_ref": "GNV/9/31/3",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "Hebrew, found him.\nOr, afraid."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 31:4",
+      "note_ref": "GNV/9/31/4",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "So we see that his cruel life hath a desperate end: as is commonly seen in them that persecute the children of God."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Samuel 31:7",
+      "note_ref": "GNV/9/31/7",
+      "cites": [
+        "1 Samuel 31:4-6"
+      ],
+      "text": "Near to Gilboa.\nThe Tribes of Reuben and Gad, and half the tribe of Manasseh."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Samuel 1:6",
+      "note_ref": "GNV/10/1/6",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "Or, captains.\nAs I fled in the chase."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Samuel 1:8",
+      "note_ref": "GNV/10/1/8",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "He was an Amalekite born, but renounced his country, and joined with the Israelites."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Samuel 1:9",
+      "note_ref": "GNV/10/1/9",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "Hebrew, stand upon.\nI am sorry, because I am yet alive."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Samuel 1:10",
+      "note_ref": "GNV/10/1/10",
+      "cites": [
+        "2 Samuel 1:8-10"
+      ],
+      "text": "Hebrew, I stood upon him."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Samuel 21:10",
+      "note_ref": "GNV/10/21/10",
+      "cites": [
+        "2 Samuel 21:12"
+      ],
+      "text": "To make her a tent wherein she prayed to God to turn away his wrath.\nBecause drought was the cause of this famine, God by sending of rain showed that he was pacified.\nOr, rest."
+    },
+    {
+      "src": "GNV",
+      "ref": "2 Samuel 21:14",
+      "note_ref": "GNV/10/21/14",
+      "cites": [
+        "2 Samuel 21:12"
+      ],
+      "text": "For where the magistrate suffereth faults unpunished, there the plague of God lieth upon the land."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 10:3",
+      "note_ref": "GNV/13/10/3",
+      "cites": [
+        "1 Chronicles 10:4"
+      ],
+      "text": "Hebrew, found."
+    },
+    {
+      "src": "GNV",
+      "ref": "1 Chronicles 10:13",
+      "note_ref": "GNV/13/10/13",
+      "cites": [
+        "1 Chronicles 10:14"
+      ],
+      "text": "Or, witch, and sorceress."
+    }
+  ]
+}

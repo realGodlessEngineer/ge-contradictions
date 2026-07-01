@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 142,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The commentators read Isaiah's outburst as aimed at hypocritical, sin-laden worship, not at the Sabbath institution the law makes perpetual.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Julius Wellhausen presses the harder reading: he takes Isaiah's words (with Amos and Jeremiah) as evidence that the prophets did not regard the elaborate festal cult — sacrifices, new moons, sabbath assemblies — as something Yahweh had ever commanded, against the Priestly law that makes it a standing obligation.",
+      "skeptic": {
+        "name": "Julius Wellhausen",
+        "work": "Prolegomena to the History of Israel",
+        "year": "1885",
+        "attribution": "Julius Wellhausen (d. 1918), Prolegomena to the History of Israel (Eng. trans. 1885; German 1883)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Isaiah 1:13",
+      "excerpt_text": "Because they had not performed what Jehovah commanded as He commanded it, He expressly forbids them to continue it.",
+      "full_note_ref": "KD/23/1/13",
+      "on_tension_rationale": "Directly resolves the tension: the prohibition in Isa 1:13 is not a repeal of the commanded Sabbath/festal observance but a rejection of it because it was performed wrongly.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Isaiah 1:11",
+      "excerpt_text": "The Lord wanted Judah to stop the religious exercises he had commanded them to do rather than to continue them in a manner that was sinful and false (1:13).",
+      "full_note_ref": "TYN/23/1/11",
+      "on_tension_rationale": "States the harmonization plainly: the same God commanded the exercises and now rejects them, the difference being the sinful, false manner of observance, not the obligation.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Isaiah 1:11",
+      "excerpt_text": "Although God commanded these sacrifices for a time, as aids and exercises of their faith: yet because the people had not faith nor repentance, God detesteth them …",
+      "full_note_ref": "GNV/23/1/11",
+      "on_tension_rationale": "Frames the apparent conflict as God-commanded worship rejected for the worshippers' lack of faith and repentance, not abrogation of the command itself.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), at Isaiah 1:13",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this passage directly, arguing the prohibition targets festivals 'associated with wickedness' — 'Because they had not performed what Jehovah commanded as He commanded it, He expressly forbids them to continue it' — not the standing Sabbath/festal obligation."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/new-moon-Bible.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What was the significance of the new moon in Bible times?",
+        "note": "Live apologetic treatment that quotes Isaiah 1:13-14 and explains the rejection as aimed at heart-hypocrisy, not the commanded observance."
+      }
+    }
+  }
+}

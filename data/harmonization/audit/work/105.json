@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 105,
+  "question": "Who was Libni's father?",
+  "summary": "Three Levitical genealogies in Exodus 6:17, Numbers 3:18, and 1 Chronicles 6:17 list Libni as a son of Gershon (Levi's firstborn). But 1 Chronicles 6:29, tracing a completely different Levitical line, has Libni as son of Mahli and grandson of Merari (Levi's third son). Same name, two different fathers, two different Levitical branches.",
+  "consensus": "genuinely_disputed",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Henry keeps the two lines distinct — Libni heading a Gershonite family, Mahli a Merarite one — so the shared name marks two different men in two branches.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Curtis and Madsen, in the standard critical commentary, read these Levitical lists as textually disturbed — treating the Merari-line Libni as scribal duplication, not a second real man.",
+    "skeptic": {
+      "name": "Edward L. Curtis and Albert A. Madsen",
+      "work": "A Critical and Exegetical Commentary on the Books of Chronicles (ICC)",
+      "year": "1910",
+      "attribution": "Edward L. Curtis (d. 1911) & Albert A. Madsen, A Critical and Exegetical Commentary on the Books of Chronicles, ICC (Edinburgh: T&T Clark, 1910)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714), on 1 Chronicles 6",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this passage directly, distinguishing the Gershonite family of Libni from the Merarite family of Mahli and so reading the shared name as two different men in two branches."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page treats this specific Libni two-fathers tension; link omitted rather than guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "105#0",
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "verse_ref": "1 Chronicles 6:1",
+      "full_note_ref": "MHC/13/6/1",
+      "excerpt_text": "One of the families of Gershom (that of Libni) is here drawn down as far as Samuel, who had the honour of a prophet added to that of a Levite. One of the families of Merari (that of Mahli) is likewise drawn down for several descents …",
+      "on_tension_rationale": "Directly handles the two branches in tension: it assigns Libni to the Gershom line and names Mahli (not Libni) as the head of the drawn-out Merari family, supporting the harmonization that the Gershonite Libni and the Merari-line entry are distinct, keeping Libni's father as Gershon.",
+      "source_note_text": "The priests and Levites were more concerned than any other Israelites to preserve their pedigree clear and to be able to prove it, because all the honours and privileges of their office depended upon their descent. And we read of those who, though perhaps they really were children of the priests, yet, because they could not find the register of their genealogies, nor make out their descent by any authentic record, were, as polluted, put from the priesthood, and forbidden to eat of the holy things, Ezr 2:62, Ezr 2:63. It is but very little that is here recorded of the genealogies of this sacred tribe. I. The first fathers of it are here named twice, Ch1 6:1, Ch1 6:16. Gershom, Kohath, and Merari, are three names which we were very conversant with in the book of Numbers, when the families of the Levites were marshalled and had their work assigned to them. Aaron, and Moses, and Miriam, we have known much more of than their names, and cannot pass them over here without remembering that this was that Moses and Aaron whom God honoured in making them instruments of Israel's deliverance and settlement and figures of him that was to come, Moses as a prophet and Aaron as a priest. And the mention of Nadab and Abihu (though, having no children, there was no occasion to bring them into the genealogy) cannot but remind us of the terrors of that divine justice which they were made monuments of for offering strange fire, that we may always fear before him. 2. The line of Eleazar, the successor of Aaron, is here drawn down to the time of the captivity, Ch1 6:4-15. It begins with Eleazar, who came out of the house of bondage in Egypt, and ends with Jehozadak, who went into the house of bondage in Babylon. Thus, for their sins, they were left as they were found, which might also intimate that the Levitical priesthood did not make anything perfect, but this was to be done by the bringing in of a better hope. All these here named were not high priests; for, in the time of the judges, that dignity was, upon some occasion or other, brought into the family of Ithamar, of which Eli was; but in Zadok it returned again to the right line. Of Azariah it is here said (v. 10), He it is that executed the priest's office in the temple that Solomon built. It is supposed that this was that Azariah who bravely opposed the presumption of king Uzziah when he invaded the priest's office (Ch2 26:17, Ch2 26:18), though he ventured his neck by so doing. This was done like a priest, like one that was truly zealous for his God. He that thus boldly maintained and defended the priest's office, and made good its barriers against such a daring insult, might well be said to execute it; and this honour is put upon him for it; while Urijah, one of his successors, for a base compliance with King Ahaz, in building him an idolatrous altar, has the disgrace put upon him of being left out of this genealogy, as perhaps some others are. But some think that this remark upon this Azariah should have been added to his grandfather of the same name (Ch1 6:9), who was the son of Ahimaaz, and that he was the priest who first officiated in Solomon's temple. 3. Some other of the families of the Levites are here accounted for. One of the families of Gershom (that of Libni) is here drawn down as far as Samuel, who had the honour of a prophet added to that of a Levite. One of the families of Merari (that of Mahli) is likewise drawn down for several descents, Ch1 6:29, Ch1 6:30."
+    }
+  ]
+}

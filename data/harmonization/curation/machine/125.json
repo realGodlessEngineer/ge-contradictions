@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 125,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the daily bullock as the seven-day consecration rite, while the two lambs alone are the perpetual daily tamid the Numbers law repeats.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steven DiMattei argues that Numbers 28 claims the daily tamid was instituted at Sinai while Leviticus records no such offering, so Exodus 29:38-42 was a later Priestly insertion written to buttress that claim.",
+      "skeptic": {
+        "name": "Steven DiMattei",
+        "work": "Contradictions in the Bible (contradictionsinthebible.com)",
+        "year": "2014",
+        "attribution": "Steven DiMattei, Contradictions in the Bible (contradictionsinthebible.com, 2014)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Exodus 29:36",
+      "excerpt_text": "That is, every day of the seven days of consecration …",
+      "full_note_ref": "GILL/2/29/36",
+      "on_tension_rationale": "Gill explicitly limits the daily bullock of Exo 29:36 to the seven days of priestly consecration, which is precisely why it is absent from the perpetual daily tamid of Num 28 — the core harmonization of this row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Exodus 29:36",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, restricting the daily bullock to the seven days of consecration so that the perpetual daily order is the two lambs of Num 28."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": null
+      }
+    }
+  }
+}

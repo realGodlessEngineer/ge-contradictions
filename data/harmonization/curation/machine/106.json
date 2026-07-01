@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 106,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Deut 16:8 as singling out the seventh day for its solemn assembly, not shortening the feast to six days — the seven-day count of the other laws still stands.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The source-critical objection is pressed by Hermann Hupfeld, who treated Deuteronomy 16's festal law as reflecting a different, originally independent legislative source whose six-day count cannot simply be smoothed into the Priestly seven-day rule.",
+      "skeptic": {
+        "name": "Hermann Hupfeld",
+        "work": "De primitiva et vera festorum apud Hebraeos ratione",
+        "year": "1851-1864",
+        "attribution": "Hermann Hupfeld (d. 1866), De primitiva et vera festorum apud Hebraeos ratione (Halle, 1851-64)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Deuteronomy 16:8",
+      "excerpt_text": "The two clauses, “six days thou shalt eat mazzoth,” and “on the seventh day shall be azereth (Eng. Ver. ‘a solemn assembly’) to the Lord thy God,” are not placed in antithesis to each other, so as to imply (in contradiction to Deu 16:3 and Deu 16:4; Exo 12:18-19; Exo 13:6-7; Lev 23:6; Num 28:17) that the feast of Mazzoth was to last only six days instead of seven; but the seventh day is brought into especial prominence as the azereth of the feast …",
+      "full_note_ref": "KD/5/16/1",
+      "on_tension_rationale": "KD names the exact six-vs-seven tension (Deut 16:8 vs Deut 16:3-4, Exod 12-13, Lev 23) and harmonizes it: the seventh day is highlighted as the solemn assembly, not subtracted from the count. Block-anchored; the on-tension sentence is deep in the Deu 16:1-8 block.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Deuteronomy 16:1-8 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this passage directly, arguing the 'six days' / 'seventh day' clauses of Deut 16:8 are not antithetical and do not reduce the seven-day Mazzoth feast, so no contradiction with Exod 12-13 and Lev 23 stands."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page confirmed that engages the six-vs-seven count specifically as a contradiction; link omitted rather than fabricated."
+      }
+    }
+  }
+}

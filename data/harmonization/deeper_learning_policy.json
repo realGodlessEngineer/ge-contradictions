@@ -1,0 +1,17 @@
+{
+  "_comment": "Defense-side deeper-learning policy (backlog #36). Owner decision 2026-06-14: 'PD work + curated live link'. The transform agent emits deeper_learning.defense.pd_work (REQUIRED — a real PD apologetic/harmonizing work that treats THIS contradiction) and optionally deeper_learning.defense.link (a live page, ONLY from an allowlisted domain). This mirrors the critic side's pair (essay source + SAB outbound) so neither side's 'go deeper' is one-sided. Auditor verifies reality + on-topic; auditHarmonization.py checks pd_work presence + that any link domain is on the allowlist.",
+  "policy": "pd_work_plus_curated_link",
+  "pd_work_default": {
+    "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+    "author": "John Haley",
+    "year": "1874"
+  },
+  "pd_work_also_acceptable": "Any harmonizing commentator surfaced on the row (Gill, JFB, Clarke, Keil & Delitzsch, Matthew Henry, Geneva, Tyndale) keyed to this passage.",
+  "live_link_allowlist": ["gotquestions.org", "carm.org", "defendinginerrancy.com"],
+  "link_required": false,
+  "rules": [
+    "pd_work is REQUIRED on every row — the textual anchor, mirroring the critic essay source.",
+    "link is OPTIONAL: include only a real, on-topic page whose domain is on live_link_allowlist; otherwise omit it / set url null. NEVER guess or fabricate a URL.",
+    "Both pd_work and any link must genuinely address THIS contradiction — the auditor verifies and will flag invented or off-topic resources."
+  ]
+}

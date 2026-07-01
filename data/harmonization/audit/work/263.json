@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 263,
+  "question": "Which tribe was Hyram from?",
+  "summary": "1 Kings 7:13-14 says Hiram, Solomon's master craftsman, was the son of a widow from the tribe of Naphtali. 2 Chronicles 2:13-14 says his mother was from the tribe of Dan. The two texts identify the same craftsman's maternal lineage as belonging to two different Israelite tribes.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Harmonizers read the two tribes as one woman's overlapping ties — a Danite by birth widowed into Naphtali, so both labels fit.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Raymond B. Dillard argues the difference is no accident of a woman's two marriages but the Chronicler's deliberate redaction: he changed Hiram's tribe from Naphtali to Dan to make the craftsman a second Oholiab, the Danite artisan of the Tabernacle.",
+    "skeptic": {
+      "name": "Raymond B. Dillard",
+      "work": "2 Chronicles (Word Biblical Commentary, Vol. 15)",
+      "year": "1987",
+      "attribution": "Raymond B. Dillard, 2 Chronicles, Word Biblical Commentary 15 (Waco, TX: Word Books, 1987)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 1 Kings 7:14",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB names the Naphtali/Dan discrepancy at this verse and offers the dual-marriage and city-of-Dan harmonizations directly; preferred over Haley, whose specific-passage coverage is unconfirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page (gotquestions/carm/defendinginerrancy) treats this specific Naphtali/Dan tension; the GotQuestions Huram/Hiram page reflects only the 1 Kings reading and does not address the discrepancy, so no link is supplied."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "263#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "1 Kings 7:14",
+      "full_note_ref": "JFB/11/7/14",
+      "excerpt_text": "He was a widow's son of the tribe of Naphtali—In Ch2 2:14 his mother is said to have been of the daughters of Dan. The apparent discrepancy may be reconciled thus: Hiram's mother, though belonging to the tribe of Dan, had been married to a Naphtalite, so that when married afterwards to a Tyrian, she might be described as a widow of the tribe of Naphtali.",
+      "on_tension_rationale": "JFB explicitly names the Naphtali/Dan discrepancy and offers the dual-marriage harmonization that resolves it — the single strongest, most concise reconcile on the row; parity-capped to one because the discrepancy pole carries one named-skeptic connective.",
+      "source_note_text": "He was a widow's son of the tribe of Naphtali--In Ch2 2:14 his mother is said to have been of the daughters of Dan. The apparent discrepancy may be reconciled thus: Hiram's mother, though belonging to the tribe of Dan, had been married to a Naphtalite, so that when married afterwards to a Tyrian, she might be described as a widow of the tribe of Naphtali. Or, if she was a native of the city Dan (Laish), she might be said to be of the daughters of Dan, as born in that place; and of the tribe of Naphtali, as really belonging to it.\na worker in brass--This refers particularly to the works described in this chapter. But in Ch2 2:13 his artistic skill is represented as extending to a great variety of departments. In fact, he was appointed, from his great natural talents and acquired skill, to superintend the execution of all the works of art in the temple."
+    }
+  ]
+}

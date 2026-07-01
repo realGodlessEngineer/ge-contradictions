@@ -1,0 +1,85 @@
+{
+  "contradiction_id": 343,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators consistently distinguish Paul's 'foolishness' — a social label imposed by the world on gospel-wisdom — from the moral folly condemned in Psalms and Ephesians.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Dennis McKinsey, in his Biblical Errancy newsletter, pressed the flat contradiction between Paul's commendation of becoming 'a fool for Christ' and the Psalter's declaration that the foolish cannot stand before God.",
+      "skeptic": {
+        "name": "Dennis McKinsey",
+        "work": "Biblical Errancy",
+        "year": "1983",
+        "attribution": "Dennis McKinsey, Biblical Errancy (newsletter, 1983–)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 343,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Psalms 5:5",
+      "excerpt_text": "By the \"foolish\" are meant not such who are so in a natural, but in a moral sense, wicked and ungodly men. The Septuagint render the word, \"transgressors of the law\"; and the Vulgate Latin version, \"the unrighteous\"",
+      "full_note_ref": "GILL/19/5/5",
+      "license_code": "PD",
+      "on_tension_rationale": "Gill directly addresses what 'foolish' means in Psalm 5:5 — not intellectual folly but moral wickedness — which defuses the surface clash with Paul's 'fool for Christ.'",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 343,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "1 Corinthians 3:18",
+      "excerpt_text": "not that, properly speaking, folly is the way to wisdom; but that that man that would be wise in a spiritual sense, must first learn to know himself; must be convinced of, and acknowledge his own folly, embrace the Gospel of Christ, which is esteemed foolishness by the world; submit to the ordinances of Christ, which are despised by men; and take up the cross of Christ, and follow him",
+      "full_note_ref": "GILL/46/3/18",
+      "license_code": "PD",
+      "on_tension_rationale": "Gill on 1 Cor 3:18 explains that 'become a fool' is not an endorsement of moral folly but of accepting the world's derision; directly addresses the tension.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 343,
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "1 Corinthians 3:18",
+      "excerpt_text": "let him become a fool--by receiving the Gospel in its unworldly simplicity, and so becoming a fool in the world's sight [ALFORD]. Let him no longer think himself wise, but seek the true wisdom from God, bringing his understanding into captivity to the obedience of faith [ESTIUS].",
+      "full_note_ref": "JFB/46/3/18",
+      "license_code": "PD",
+      "on_tension_rationale": "JFB explicitly glosses 'become a fool' as becoming a fool only in the world's estimation — not moral folly, which resolves the surface conflict with Psalm 5:5.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats the apparent contradiction between the Pauline commendation of 'foolishness' and the Psalter's condemnation of the fool, arguing the two uses of the term are categorically distinct — the Psalm addresses moral wickedness, Paul addresses the world's verdict on gospel faith."
+      },
+      "link": null
+    }
+  }
+}

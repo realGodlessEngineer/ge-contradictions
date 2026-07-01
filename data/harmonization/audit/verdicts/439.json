@@ -1,0 +1,22 @@
+{
+  "contradiction_id": 439,
+  "excerpts": [
+    {
+      "excerpt_uid": "439#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "pass",
+      "action": null,
+      "reason": "Gill's text is verbatim in the embedded note on Luke 9:28 (only the author's trailing colon after 'intermediate days' is dropped, an allowed normalization). It squarely resolves the six-vs-eight-days tension by inclusive vs. exclusive counting: Luke takes in the day of the saying and the day of the transfiguration, while Matthew and Mark reckon only the intervening days. Correctly labeled reconcile and the strongest harmonization."
+    }
+  ],
+  "guardrails": {
+    "parity": "ok",
+    "connectives": "ok",
+    "named_skeptic": "ok",
+    "discrepancy_integrity": "ok",
+    "deeper_learning": "ok",
+    "reason": "PRIOR FLAG CLEARED. The discrepancy connective was rewritten and no longer imports the reconcile-side concession. It now reads: 'Steve Wells lists \"after six days\" (Matthew, Mark) against Luke's \"about eight days\" (Luke 9:28) as a flat numerical contradiction in the transfiguration timing.' The earlier 'though Luke's own qualifier \"about\" (hosei) concedes he is approximating' clause is gone from the discrepancy pole. I re-verified the live SAB page (contra/transfig.html): Wells lists 'after six days' (Matt 16:28-17:2; Mark 9:1-2) against Luke's 'about eight days' (Luke 9:27-28) as a flat contradiction and nowhere mentions or addresses Luke's 'about'/hosei qualifier. The rewritten connective fairly represents Wells, states the contradiction plainly, concedes nothing, and is on-tension -> named_skeptic=ok, connectives=ok. The inclusive/exclusive harmonization lives only on the reconcile connective, and the hosei-approximation argument now lives only on the DEFENSE side (the CARM link note, which describes CARM's own argument that is correct and appropriate for the defense pole). parity ok: reconcile_first row, reconcile = 1 verbatim excerpt + filled connective >= discrepancy = 1 named-skeptic connective. discrepancy_integrity ok: pole is named_skeptic (non-empty). deeper_learning ok: JFB (1871) on Luke 9:28 is a real PD work giving the inclusive/exclusive harmonization; the CARM link (carm.org/.../after-how-many-days...) is verified real, on-topic (six-vs-eight days, Luke's hosei), and on the allowlist."
+  }
+}

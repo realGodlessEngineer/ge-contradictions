@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 249,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders treat 2 Samuel 21:19 as a copyist's corruption of the fuller Chronicles reading, where Elhanan kills Goliath's brother Lahmi, not Goliath himself.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "P. Kyle McCarter Jr. presses the harder reading: 2 Samuel 21:19 is the older text, so an Elhanan who really killed Goliath was later eclipsed by David, and the Chronicles \"brother of Goliath\" is a secondary harmonization.",
+      "skeptic": {
+        "name": "P. Kyle McCarter Jr.",
+        "work": "II Samuel (Anchor Bible 9)",
+        "year": "1984",
+        "attribution": "P. Kyle McCarter Jr., II Samuel (Anchor Bible 9; Garden City, NY: Doubleday, 1984)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "2 Samuel 21:19",
+      "excerpt_text": "The words of our text are so similar to those of the Chronicles, if we only leave out the word ארגים, which probably crept in from the next line through oversight on the part of a copyist, that they presuppose the same original text, so that the difference can only have arisen from an error in copying. … Consequently we must regard the reading in the Chronicles as the correct one, and alter our text accordingly; since the assumption that there were two Goliaths is a very improbable one, and there is nothing at all strange in the reference to a brother of Goliath, who was also a powerful giant, and carried a spear like Goliath.",
+      "full_note_ref": "KD/10/21/15",
+      "on_tension_rationale": "K&D directly engage the Elhanan-killed-Goliath problem at 2 Sam 21:19: same original text, copyist error, Chronicles is the correct reading, and Elhanan killed Goliath's BROTHER — the core harmonization the discrepancy targets. Two non-adjacent verbatim sentences from the Sa2 21:19 subsection of the anchor block, joined sense-preservingly (argument premise + conclusion); both end on real source periods.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on 2 Samuel 21:19 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this exact verse: the MT presupposes the same original as Chronicles, the difference is a copyist's error, the Chronicles reading (Elhanan slew Lahmi, brother of Goliath) is correct, and the 'two Goliaths' theory is rejected. Row-surfaced harmonizer used because Haley's coverage of this specific verse could not be confirmed."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Goliath-David-Elhanan.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who killed Goliath, David or Elhanan?",
+        "note": "Live apologetic treatment; cites 2 Samuel 21:19 and 1 Chronicles 20:5, harmonizes via scribal omission of 'the brother of' (Lahmi)."
+      }
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "contradiction_id": 468,
+  "excerpts": [
+    {
+      "excerpt_uid": "468#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "pass",
+      "action": null,
+      "reason": "Adam Clarke's text is verbatim in the embedded 'Bearing his cross' note on John 19:17 (only the trailing 'see the note on Mat 27:32' clause is dropped, allowed). It is the cleanest sequence harmonization of the Jesus-vs-Simon tension: Jesus bore it all alone first, and Simon was compelled only when weakness from the ill usage stopped him -- one road to Golgotha, not two conflicting accounts. Correctly labeled reconcile and appropriately the single capped reconcile excerpt on this discrepancy_first row."
+    }
+  ],
+  "guardrails": {
+    "parity": "ok",
+    "connectives": "ok",
+    "named_skeptic": "ok",
+    "discrepancy_integrity": "ok",
+    "deeper_learning": "ok",
+    "reason": "PRIOR FLAG CLEARED. deeper_learning.pd_work was changed from the unverifiable 'John Haley (1874)' cross-bearer entry to 'Adam Clarke, Commentary (1832), on John 19:17' -- the very note surfaced as the reconcile excerpt. I independently verified Clarke genuinely treats the cross-bearer sequence in two places: his note on John 19:17 ('He bore it all alone first; when he could no longer carry the whole through weakness, occasioned by the ill usage he had received, Simon, a Cyrenian, helped him to carry it') and his note on Matthew 27:32 ('In John 19:16 we are told Christ himself bore the cross ... for a part of the way ... being exhausted ... he was found incapable of bearing it alone'), explicitly reconciling John vs the Synoptics by sequence. So pd_work is now a real PD work keyed to this exact passage -> deeper_learning ok. The CARM link (carm.org/.../did-jesus-or-simon-of-cyrene-carry-the-cross/) is verified real, on-topic (argues the Jesus-then-Simon sequence), and on the allowlist. SAB re-verified (contra/cyrenian.html): Wells sets John 19:17 against Matt 27:32 / Mark 15:21 / Luke 23:26 as a flat 'different bearers' contradiction with no concession -> discrepancy connective ('presses it flatly ... the texts simply name different bearers') is accurate, on-tension, no overclaim; named_skeptic ok (Wells real, fairly represented), connectives ok. discrepancy_integrity ok: on this discrepancy_first row the discrepancy pole is named_skeptic (non-empty), not co-opted. parity ok: lean=discrepancy (named-skeptic connective = 1) >= reconcile (1 excerpt); reconcile correctly capped to the single strongest excerpt and does not out-quote the leaning side."
+  }
+}

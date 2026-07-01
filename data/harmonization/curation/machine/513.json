@@ -1,0 +1,90 @@
+{
+  "contradiction_id": 513,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "These expositors separate two offers — a stupefying drink refused before death, and the plain sour wine Jesus received in His thirst just before He died.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The Skeptic's Annotated Bible poses the conflict directly: the Synoptic Jesus refuses the drink offered him, while the Johannine Jesus receives and drinks it.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible — \"Did Jesus drink on the cross?\"",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); skepticsannotatedbible.com/contra/drink.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 513,
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "John 19:29",
+      "excerpt_text": "This vinegar must not be confounded with the vinegar and gall mentioned Mat 27:34, and Mar 15:23. That, being a stupifying potion, intended to alleviate his pain, he refused to drink; but of this he took a little, and then expired, Joh 19:30.",
+      "full_note_ref": "CLARKE/43/19/29",
+      "license_code": "PD",
+      "on_tension_rationale": "Clarke explicitly separates the two drinks: the stupefying potion of the Synoptics was refused, while the plain vinegar of John was received, dissolving the refuse-versus-drink tension by distinguishing the offers.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 513,
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "verse_ref": "John 19:19",
+      "excerpt_text": "They had given him vinegar to drink before they crucified him (Mat 27:34), but the prophecy was not exactly fulfilled in that, because that was not in his thirst; therefore now he said, I thirst, and called for it again: then he would not drink, but now he received it",
+      "full_note_ref": "MHC/43/19/19",
+      "license_code": "PD",
+      "on_tension_rationale": "Henry assigns the refusal and the reception to two distinct moments ('then he would not drink, but now he received it'), directly reconciling the Synoptic refusal with the Johannine drinking.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 513,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Matthew 27:33",
+      "excerpt_text": "indeed Mark says, they gave him “wine mingled with myrrh”, Mar 15:23; which was either a cordial provided by his friends, and given him, and is different from what the soldiers gave him here … he thought fit to taste of it in a superficial way, to show he did not despise nor resent their offer; and that he was really athirst, and ready to drink a more disagreeable potion than that,",
+      "full_note_ref": "GILL/40/27/33",
+      "license_code": "PD",
+      "on_tension_rationale": "Gill distinguishes Mark's myrrh-wine from the soldiers' vinegar-and-gall and reads the Synoptic 'tasting' as a deliberate, superficial gesture rather than a flat refusal, harmonizing the accounts of whether He drank.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley harmonizes the drink by two distinct offers: the drugged narcotic wine Jesus refused before death, and a later undrugged drink He accepted."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Jesus-vinegar-on-the-cross.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why did they give Jesus vinegar at the cross?",
+        "note": "Live apologetic treatment distinguishing the refused pre-crucifixion drink from the vinegar Jesus received near death, addressing the refuse-versus-drink conflict directly."
+      }
+    }
+  }
+}

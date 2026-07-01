@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 35,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators dissolve the tension by distinguishing two senses of \"just\": no one is sinlessly righteous, yet a person can be called just through imputed righteousness while still not free from sin.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells in the Skeptic's Annotated Bible, who lists Noah, Lot, Joseph, Simeon, John the Baptist, Joseph of Arimathea, and Cornelius as men the Bible calls just, against Ecclesiastes 7:20's denial that any just man exists.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Has there ever been a just person?\" (skepticsannotatedbible.com/contra/just.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), \"Has there ever been a just person?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Ecclesiastes 7:20",
+      "excerpt_text": "yet no man has such a share of it as to live without sin; there was not then one on earth, there never had been, one, nor never would be, nor has been, excepting the man Christ Jesus … but this cannot be said of any other, no, not of one that is truly and really just; not externally and in his own opinion only, but who is made so by the obedience of Christ, or by his righteousness imputed to him, while he is here on earth",
+      "full_note_ref": "GILL/21/7/20",
+      "on_tension_rationale": "Directly harmonizes: 7:20 denies sinless righteousness (none but Christ), but men are 'truly and really just' by imputed righteousness while still not sinless — exactly the two-sense move that reconciles the no-just-man claim with the roster of just people.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "2 Peter 2:7",
+      "excerpt_text": "Who was a just man, being justified by the righteousness of Christ imputed to him; and having the new man formed in him, which is created in righteousness and true holiness; and living soberly, righteously, and godly, though not without sin: for there is not a just man that lives and sinneth not …",
+      "full_note_ref": "GILL/61/2/7",
+      "on_tension_rationale": "Bridges both poles from the named-just-person side: Lot is genuinely 'a just man' (imputed righteousness + godly living) yet 'not without sin,' explicitly invoking the Eccl 7:20 principle — showing the two claims are compatible.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Ecclesiastes 7:20",
+      "excerpt_text": "The verification of Ecc 7:19 by reference to the fact of the common sinfulness from which even the most righteous cannot free himself …",
+      "full_note_ref": "KD/21/7/20",
+      "on_tension_rationale": "Distinct voice reading 7:20 as a statement of universal sinfulness affecting 'even the most righteous' (Adam = the species, parallel to 1 Kgs 8:46) — i.e. the verse concerns sinlessness, not whether anyone may be called righteous.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Ecclesiastes 7:20",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact tension directly, distinguishing sinless righteousness (none but Christ) from being 'truly and really just' by imputed righteousness while still not free from sin; Haley's coverage of this specific pair could not be confirmed, so a row-surfaced harmonizing commentator keyed to the passage is used."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/none-who-does-good-no-not-one.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does it mean that \"there is none who does good, no not one\" (Psalm 14:3; Romans 3:12)?",
+        "note": "Live apologetic treatment that cites Ecclesiastes 7:20 / Romans 3:10 and resolves the universal-sinfulness claim via imputed righteousness (people can do good things, but none is inherently righteous; Christ declares righteous those who trust in Him)."
+      }
+    }
+  }
+}

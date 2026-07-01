@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 246,
+  "question": "Who was Amasa's father?",
+  "summary": "2 Samuel 17:25 identifies Amasa's father as Ithra \"an Israelite.\" 1 Chronicles 2:17 identifies him as Jether \"the Ishmaelite.\" The discrepancy is both in the form of the name and, more importantly, in the ethnicity.",
+  "consensus": "probable_harmonization",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Commentators converge on a scribal-corruption explanation: the Hebrew letters for 'Israelite' and 'Ishmaelite' are nearly identical, and Chronicles preserves the more plausible reading.",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Dennis McKinsey (Biblical Errancy) catalogued Ithra/Jether and Israelite/Ishmaelite as a straightforward genealogical discrepancy that harmonization by scribal error concedes the text is corrupt, which itself undermines inerrancy claims.",
+    "skeptic": {
+      "name": "Dennis McKinsey",
+      "work": "Biblical Errancy",
+      "year": "1983-2000",
+      "attribution": "Dennis McKinsey, Biblical Errancy newsletter (1983–2000)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats Ithra/Jether and the Israelite/Ishmaelite variant under his section on genealogical discrepancies, arguing that the nearly identical Hebrew consonants explain the textual divergence and that both designations (sojourner among Ishmaelites, naturalized Israelite) could apply to the same man."
+      },
+      "link": null
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "246#0",
+      "pole": "reconcile",
+      "source_code": "KD",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "verse_ref": "2 Samuel 17:25",
+      "full_note_ref": "KD/10/17/25",
+      "excerpt_text": "The description given of Jithra as ישׂראלי is very striking, since there was no reason whatever why it should be stated that Amasa's father was an Israelite. The Seventy have therefore given ὁ Ἰεζραηλίτης, i.e., sprung from Jezreel … but they have done so apparently from mere conjecture. The true reading is evidently היּשׁמעאלי, an Ishmaelite, according to Ch1 2:17, where the name is written Jether, a contracted form of Jithra.",
+      "on_tension_rationale": "Directly addresses the Israelite/Ishmaelite discrepancy by identifying a scribal corruption (shin-yod-resh-alef-lamed-yod → shin-mem-ayin-lamed-yod) and arguing Chronicles preserves the correct reading, with Samuel's 'Israelite' making no contextual sense.",
+      "source_note_text": "Absalom had made Amasa captain over his army instead of Joab, who had remained true to David, and had gone with his king to Mahanaim. Amasa was the son of a man named Jithra, היּשׂראלי, who had gone in to (i.e., had seduced) Abigail, the daughter of Nahash and sister of Zeruiah, Joab's mother. He was therefore an illegitimate cousin of Joab. The description given of Jithra as ישׂראלי is very striking, since there was no reason whatever why it should be stated that Amasa's father was an Israelite. The Seventy have therefore given ὁ Ἰεζραηλίτης, i.e., sprung from Jezreel, where David's wife Ahinoam came from (Sa1 27:3); but they have done so apparently from mere conjecture. The true reading is evidently היּשׁמעאלי, an Ishmaelite, according to Ch1 2:17, where the name is written Jether, a contracted form of Jithra. From the description given of Abigail as a daughter of Nahash and sister of Zeruiah, not of David, some of the earlier commentators have very justly concluded that Abigail and Zeruiah were only step-sisters of David, i.e., daughters of his mother by Nahash and not by Jesse."
+    }
+  ]
+}

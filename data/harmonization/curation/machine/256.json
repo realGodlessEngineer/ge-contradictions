@@ -1,0 +1,90 @@
+{
+  "contradiction_id": 256,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read 1 Kings 3:4 as a compressed notice of the same public, nobility-attended sacrifice Chronicles narrates in full, so the congregation is assumed, not absent.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells lists Kings (Solomon goes to Gibeon, no crowd named) against Chronicles (all the congregation goes up) as a contradiction over whether Solomon was alone.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 256,
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "author": "Jamieson, Fausset & Brown",
+      "work": "Commentary Critical and Explanatory on the Whole Bible",
+      "year": "1871",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "1 Kings 3:4",
+      "excerpt_text": "The royal progress was of public importance. It was a season of national devotion. The king was accompanied by his principal nobility (Ch2 1:2)",
+      "full_note_ref": "JFB/11/3/4",
+      "license_code": "PD",
+      "on_tension_rationale": "Directly resolves the tension: reads the bare Kings notice as the same public, nobility-attended event Chronicles describes, so the congregation's presence is assumed rather than absent.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 256,
+      "pole": "reconcile",
+      "source_code": "KD",
+      "author": "Keil & Delitzsch",
+      "work": "Biblical Commentary on the Old Testament",
+      "year": "1861-1875",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "verse_ref": "2 Chronicles 1:1",
+      "excerpt_text": "While in Kg1 3:4 it is briefly said the king went to Gibeon to sacrifice there, our historian records that Solomon summoned the princes and representatives of the people to this solemn act, and accompanied by them went to Gibeon. This sacrifice was no mere private sacrifice-it was the religious consecration of the opening of his reign, at which the estates of the kingdom were present as a matter of course.",
+      "full_note_ref": "KD/14/1/1",
+      "license_code": "PD",
+      "on_tension_rationale": "Names the exact contrast (Kings brief vs. Chronicles' summoned assembly) and treats the two as independent accounts of one event, with the congregation present as a matter of course.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 256,
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "author": "Tyndale",
+      "work": "Tyndale Open Bible Commentary",
+      "year": null,
+      "attribution": "Tyndale Open Bible Commentary",
+      "verse_ref": "2 Chronicles 1:2",
+      "excerpt_text": "Solomon’s journey to Gibeon, reported in 1 Kgs 3:4, is here elaborated. This great public venture was closely associated with Solomon taking the throne. The event included military commanders and clan leaders.",
+      "full_note_ref": "TYN/14/1/2",
+      "license_code": "PD",
+      "on_tension_rationale": "Explicitly frames Chronicles as an elaboration of the same 1 Kings 3:4 journey, supplying the public, attended character the Kings text leaves unstated.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "On 2 Chronicles 1:1 K&D set the brief Kings notice beside the Chronicler's summoned assembly and argue both report one royal consecration sacrifice at which the estates of the kingdom were present as a matter of course."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Solomon-high-place.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why did Solomon worship at a high place?",
+        "note": "Treats Solomon's Gibeon sacrifice directly, noting the whole assembly accompanied him to the tent of meeting and bronze altar there, the public character Chronicles makes explicit."
+      }
+    }
+  }
+}

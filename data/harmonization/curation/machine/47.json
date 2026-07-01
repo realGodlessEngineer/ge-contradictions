@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 47,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders distinguish scope and sense: Genesis forbids only another universal water-deluge, while Nahum's \"flood\" is a local, figurative judgment on one city.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The Skeptic's Annotated Bible (Steve Wells) presses the objection directly, reading Nahum 1:8's \"overrunning flood\" as God again destroying everything by water against the Genesis 9 promise.",
+      "skeptic": {
+        "name": "Steve Wells / Skeptic's Annotated Bible",
+        "work": "Skeptic's Annotated Bible, \"Will God flood the earth again?\" (skepticsannotatedbible.com/contra/flood-again.html)",
+        "year": "2010s",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, \"Will God flood the earth again?\" (skepticsannotatedbible.com/contra/flood-again.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Genesis 9:11",
+      "excerpt_text": "not a general deluge, otherwise notwithstanding this promise there might be, as there have been, particular inundations, which have overflowed particular countries and places, but not the whole earth …",
+      "full_note_ref": "GILL/1/9/11",
+      "on_tension_rationale": "Directly limits the Gen 9 promise to a universal deluge, explicitly allowing local inundations — the core scope harmonization against Nahum's local flood.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Genesis 9:11",
+      "excerpt_text": "This promise does not prohibit worldwide judgment, but it restricts the means by which God will do it (see 2 Pet 3:4-13).",
+      "full_note_ref": "TYN/1/9/11",
+      "on_tension_rationale": "States the promise restricts the means (water-deluge), not all judgment — squarely on the tension with Nahum's judgment-flood.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Nahum 1:8",
+      "excerpt_text": "with an overrunning flood—that is, with irresistible might which overruns every barrier like a flood. This image is often applied to overwhelming armies of invaders.",
+      "full_note_ref": "JFB/34/1/8",
+      "on_tension_rationale": "Reads Nahum's flood as a metaphor for an invading army against one city, dissolving the apparent conflict with the literal-water Genesis promise.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Genesis 9:11 and Nahum 1:8",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats both passages directly: the Genesis promise excludes only a general deluge (allowing particular inundations), and Nahum's flood is the Medo-Babylonian army 'like a flood' (or the literal river breach) against Nineveh alone."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page (gotquestions/carm/defendinginerrancy) was found that specifically engages the Nahum 1:8 vs Genesis 9 tension; the GotQuestions Noahic-covenant page does not cite Nahum 1:8."
+      }
+    }
+  }
+}

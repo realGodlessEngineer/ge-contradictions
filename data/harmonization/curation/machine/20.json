@@ -1,0 +1,79 @@
+{
+  "contradiction_id": 20,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators dissolve the tension by distinguishing two wisdoms — the human, worldly wisdom God rejects from the divine wisdom Scripture commends.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Cataloguing this as a contradiction, Steve Wells lists passages that exalt wisdom against those where wisdom is desired in the Fall, unvalued by God, or destroyed — pressing that the texts do not signal which wisdom they mean.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); skepticsannotatedbible.com"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "1 Corinthians 1:20",
+      "excerpt_text": "In God’s eyes, the human wisdom of this world is foolish. Divine wisdom lies in the message of the cross and in Jesus Christ …",
+      "full_note_ref": "TYN/46/1/20",
+      "on_tension_rationale": "Directly distinguishes the 'human wisdom' God calls foolish from the 'divine wisdom' Scripture commends — the core harmonization of the wisdom-good-vs-bad tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "1 Corinthians 1:19",
+      "excerpt_text": "I will destroy the wisdom of the wise — Των σοφων, Of wise men — of the philosophers who in their investigations seek nothing less than God, and whose highest discoveries amount to nothing in comparison of the grand truths relative to God, the invisible world, and the true end of man, which the Gospel has brought to light.",
+      "full_note_ref": "CLARKE/46/1/19",
+      "on_tension_rationale": "Limits the wisdom God destroys to that of the philosophers (human inquiry that misses God), not wisdom as such — reconciling 1 Cor 1:19 with the pro-wisdom texts.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "1 Corinthians 1:19",
+      "excerpt_text": "God is wont to punish the pride of the world in such sort, which so pleaseth itself in its own wisdom: and therefore that that is vain, yea a thing of nothing, and such as God rejecteth as unprofitable, which they so carefully labored for, and made so great account of.",
+      "full_note_ref": "GNV/46/1/19",
+      "on_tension_rationale": "Reads what God rejects as the world's self-pleasing wisdom (its pride 'in its own wisdom'), not wisdom in general — a distinct voice making the same kinds-of-wisdom distinction.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Job 37:24",
+      "excerpt_text": "He respecteth not any — No man is valuable in his sight on account of his wisdom; for what is his wisdom when compared with that of the Omniscient?",
+      "full_note_ref": "CLARKE/18/37/24",
+      "on_tension_rationale": "Addresses the Job 37:24 anti-wisdom prooftext: God 'respecteth not' human wisdom only by comparison with his own omniscience, not because wisdom itself is bad.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on 1 Corinthians 1:19",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke harmonizes the wisdom God 'destroys' as that of the philosophers, worthless in comparison with the Gospel — the passage-specific defense surfaced on this row (preferred over Haley, whose coverage of this tension could not be confirmed)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/destroy-the-wisdom-of-the-wise.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does it mean that God will destroy the wisdom of the wise (1 Corinthians 1:19)?",
+        "note": "Live apologetic treatment distinguishing human/worldly wisdom (which God destroys) from divine wisdom (which endures)."
+      }
+    }
+  }
+}

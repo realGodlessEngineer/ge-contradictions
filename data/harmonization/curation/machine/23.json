@@ -1,0 +1,65 @@
+{
+  "contradiction_id": 23,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers across the tradition read Hebrews 7:3 as a claim about Melchizedek's unrecorded priestly genealogy, not a denial that he had natural parents or Adamic descent.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "empty",
+      "connective": null,
+      "skeptic": null,
+      "empty_note": "No critic of record presses Hebrews 7:3 against universal Adamic descent; the skeptical lists treat it as a genealogy puzzle, and named critics (e.g., Paine) target the Gospel genealogies of Jesus, not this verse. Naming a skeptic here would strawman.",
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Hebrews 7:3",
+      "excerpt_text": "for no doubt, as he was a mere man, he had a father, and a mother, and a natural lineage and descent; but of these no mention is made in Scripture, and therefore said to be without them",
+      "full_note_ref": "GILL/58/7/3",
+      "on_tension_rationale": "Directly denies the literal reading: Melchizedek did have natural parents and descent (so no breach of universal Adamic descent); 'without father/mother' only means Scripture is silent about them.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Hebrews 7:3",
+      "excerpt_text": "In this way both Christ and Melchisedec were without father and without mother; i.e. were not descended from the original Jewish sacerdotal stock.",
+      "full_note_ref": "CLARKE/58/7/3",
+      "on_tension_rationale": "Reframes the phrase as priestly-stock language, not biological; resolves the apparent conflict with universal natural descent.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Hebrews 7:3",
+      "excerpt_text": "That we have no record of Melchizedek's father or mother or any of his ancestors is significant in light of the ancestral requirement upon which the Levitical priesthood was based.",
+      "full_note_ref": "TYN/58/7/3",
+      "on_tension_rationale": "Modern voice making the same harmonizing move: the verse concerns absence of genealogical record relative to priestly qualification, not literal parentlessness.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Hebrews 7:3",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage at length, marshaling Owen, Suidas, Seneca, Livy, and Horace to argue that 'without father, without mother, without descent' means a person whose pedigree is nowhere recorded, not one who literally had no parents or natural descent. Used as the PD anchor because Haley's specific coverage of Hebrews 7:3 could not be confirmed; Clarke is a harmonizing commentator already surfaced on this row, keyed directly to the verse."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Melchizedek.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who was Melchizedek?",
+        "note": "Live apologetic treatment of Hebrews 7:3 'without father or mother or genealogy,' presenting the figurative reading in which the silence of the Genesis account is purposeful rather than a literal claim of parentlessness."
+      }
+    }
+  }
+}

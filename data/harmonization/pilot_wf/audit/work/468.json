@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 468,
+  "question": "Who carried Jesus' cross?",
+  "summary": "John 19:17 has Jesus carry his own cross to Golgotha — explicitly, *bastazōn heautō ton stauron*. Matthew 27:32, Mark 15:21, and Luke 23:26 have Simon the Cyrenian compelled to carry the cross for him. One gospel has Jesus do it himself; the other three have him hand off the load.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders read the accounts as one journey in stages — Jesus carried the cross at the start, then collapsed and Simon was compelled to bear it the rest of the way.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells, who catalogued the contradiction, sets John's plain statement that Jesus bore his own cross against the Synoptics' compelling of Simon and treats them as mutually exclusive claims about the same event — the staged harmonization being an inference no gospel actually states.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible (\"Who carried Jesus's cross?\")",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), \"Who carried Jesus's cross?\" (skepticsannotatedbible.com/contra/cyrenian.html)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on John 19:17",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly: 'when he first went out to be crucified, carried his cross himself, until the Jews, meeting with Simon the Cyrenian, obliged him to bear it after him; that is, one part of it; for still Christ continued to bear a part himself' — the staged/shared-burden harmonization of John against the Synoptics."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/did-jesus-or-simon-of-cyrene-carry-the-cross/",
+        "domain": "carm.org",
+        "title": "CARM: Did Jesus or Simon of Cyrene carry the cross?",
+        "note": "Live apologetic treatment arguing both carried it — Jesus first, then Simon — so the accounts are chronologically compatible rather than contradictory."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "468#0",
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "attribution": "Geneva Bible (1599)",
+      "verse_ref": "Matthew 27:32",
+      "full_note_ref": "GNV/40/27/32",
+      "excerpt_text": "They compelled Simon to bear his burdensome cross, whereby it appeareth that Jesus was so sore handled before, that he fainted by the way, and was not able to bear his cross throughout: for John writeth that he did bear the cross, to wit, at the beginning.",
+      "on_tension_rationale": "The only note that explicitly names both poles of the tension — Simon compelled (Synoptics) vs. John's Jesus bearing the cross — and resolves it as a sequence ('to wit, at the beginning'), the canonical stages harmonization keyed directly to the John-vs-Synoptics conflict.",
+      "source_note_text": "They compelled Simon to bear his burdensome cross, whereby it appeareth that Jesus was so sore handled before, that he fainted by the way, and was not able to bear his cross throughout: for John writeth that he did bear the cross, to wit, at the beginning."
+    }
+  ]
+}

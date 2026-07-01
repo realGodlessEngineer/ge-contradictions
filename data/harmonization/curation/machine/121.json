@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 121,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators resolve the tension by ranking holiness: God is holy essentially and infinitely, while creatures are holy only derivatively, by imitation and sanctification, never equaling him.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells, who lists this as a contradiction: Revelation's claim that God 'only' is holy cannot, as worded, stand alongside the repeated commands that Israel and the church be holy.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (skepticsannotatedbible.com, 'Is only God holy?')",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013; online ed. skepticsannotatedbible.com)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Peter 1:16",
+      "excerpt_text": "God is essentially holy: the creature is holy in so far as it is sanctified by God.",
+      "full_note_ref": "JFB/60/1/16",
+      "on_tension_rationale": "Distinguishes the two senses of 'holy' directly: God's holiness is essential/intrinsic, the creature's is derived sanctification — the exact distinction that dissolves the 'only God is holy' vs. 'be holy' tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Revelation 15:4",
+      "excerpt_text": "for thou only art holy; not only perfectly holy, as man, but infinitely and essentially holy, as God, and the fountain of holiness to his people, as Mediator …",
+      "full_note_ref": "GILL/66/15/4",
+      "on_tension_rationale": "Speaks to the Revelation pole itself: 'thou only art holy' is read as God being holy in a unique, infinite, essential degree and as the source of others' holiness — not a denial that creatures can be holy.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Leviticus 19:2",
+      "excerpt_text": "It is required that Israel be a holy people, because the God of Israel is a holy God, Lev 19:2. Their being distinguished from all other people by peculiar laws and customs was intended to teach them a real separation from the world and the flesh, and an entire devotedness to God.",
+      "full_note_ref": "MHC/3/19/1",
+      "on_tension_rationale": "Frames the holiness command as imitation that never equals God's own perfect, eternal holiness — a third distinct voice making the same gradient distinction.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Leviticus 19:1-2 and 1 Peter 1:15-16",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this passage directly, harmonizing the command to be holy with God's own holiness by the imitation-without-equality distinction ('we must imitate him, though we can never equal him')."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/be-holy-for-I-am-holy.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: How should we live in light of God saying, 'Be holy for I am holy' (Leviticus 19:2; 1 Peter 1:16)?",
+        "note": "live apologetic treatment distinguishing God's essential holiness from creaturely, derived holiness"
+      }
+    }
+  }
+}

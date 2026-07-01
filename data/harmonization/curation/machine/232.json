@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 232,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read the \"alone\" of 1 Samuel as alone before the priest only: David's servants were waiting elsewhere and shared the bread.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection that the Gospels err — David came to Ahimelech alone, so others could not have eaten the showbread with him — is pressed by Isaac of Troki, and is even preserved in the commentary Gill wrote to answer it.",
+      "skeptic": {
+        "name": "Isaac of Troki",
+        "work": "Chizzuk Emunah (Faith Strengthened), Part 2, ch. 28",
+        "year": "1593",
+        "attribution": "Isaac ben Abraham of Troki (d. 1594), Chizzuk Emunah / Faith Strengthened, Part 2, ch. 28 (1593)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 12:3",
+      "excerpt_text": "though in Sa1 21:1 he is said to be \"alone, and no man with him\"; yet this must be understood either comparatively, having but very few with him, and which were as none, considering his dignity; or thus, though none came with him to Ahimelech … so that though no man was with him at the priest's house, yet there were some with him, and who partook with him in eating of the showbread.",
+      "full_note_ref": "GILL/40/12/3",
+      "on_tension_rationale": "Directly resolves the alone-vs-companions tension: explains 1 Sam 21:1's \"alone\" as alone before the priest, while servants left behind shared the showbread.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Matthew 12:3 and Mark 2:26",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact tension on the row, naming the \"he came alone to Ahimelech\" objection and answering it from 1 Sam 21:2 (servants left behind); Haley's coverage of this specific alone-vs-companions point is unconfirmed."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted page treats the specific alone-vs-companions tension; the gotquestions.org showbread page addresses only the lawfulness of David eating it, not whether he was alone, so no link is asserted."
+      }
+    }
+  }
+}

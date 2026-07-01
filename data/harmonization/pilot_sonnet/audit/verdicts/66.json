@@ -1,0 +1,22 @@
+{
+  "contradiction_id": 66,
+  "excerpts": [
+    {
+      "excerpt_uid": "66#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "pass",
+      "action": null,
+      "reason": "Re-trimmed excerpt verified verbatim against embedded JFB note. The single ellipsis join omits a textual-variant aside ('was delivered of a child--omitted in the oldest manuscripts...') about a different clause and preserves JFB's sense, linking 'at first she doubted' to 'she judged him faithful... after she had ceased to doubt.' Directly addresses the Heb 11:11 vs Gen 18:12-15 tension and harmonizes it via a staged initial-doubt-then-faith reading. Correct reconcile pole."
+    }
+  ],
+  "guardrails": {
+    "parity": "ok",
+    "connectives": "ok",
+    "named_skeptic": "ok",
+    "discrepancy_integrity": "ok",
+    "deeper_learning": "ok",
+    "reason": "reconcile_first; reconcile capped to one strongest excerpt, discrepancy carries the named skeptic. parity ok (reconcile 1 vs discrepancy 0 content + 1 skeptic connective = balanced, lean satisfied). Reconcile connective accurately summarizes the staged-faith harmonization without overclaiming. named_skeptic ok: Steve Wells is the real author of the Skeptic's Annotated Bible; the Sarah/faith pair (Heb 11:11 vs Gen 18) is a genuine, well-attested SAB contradiction and the connective fairly represents Wells's flat-contradiction framing (no strawman, no false concession). Minor note: SAB online is undated; '2013' is defensible as the printed Skeptic's Annotated Bible (Wells, 2013) but is a website attribution dressed as a book year. discrepancy_integrity ok (named_skeptic on a genuinely_disputed/reconcile_first row, not co-opted). deeper_learning ok: John Haley, An Examination of the Alleged Discrepancies of the Bible (1874) is a real PD harmonizing work that does treat the Sarah faith/laughter question; no link supplied (link optional when pd_work present)."
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 32,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders dissolve the conflict by denying the premise: the Genesis 6 \"sons of God\" are the godly Sethite line, not angels, since Christ says angels cannot marry.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Hermann Gunkel, reading Genesis 6 on its own terms, insists the \"sons of God\" are divine beings whose union with women produced the Nephilim — precisely the angelic procreation Mark 12:25 forecloses.",
+      "skeptic": {
+        "name": "Hermann Gunkel",
+        "work": "Genesis (Handkommentar zum Alten Testament)",
+        "year": "1901",
+        "attribution": "Hermann Gunkel (d. 1932), Genesis (1901)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 6:2",
+      "excerpt_text": "This is quite sufficient of itself to exclude any reference to angels. For Christ Himself distinctly states that the angels cannot marry (Mat 22:30; Mar 12:25; cf. Luk 20:34.).",
+      "full_note_ref": "KD/1/6/1",
+      "on_tension_rationale": "K&D explicitly use Mark 12:25 (angels cannot marry) to rule out the angelic reading of the Genesis 6 'sons of God', directly addressing the alleged contradiction by denying angels ever had sex.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Genesis 6:1-4",
+        "author": "Keil & Delitzsch",
+        "year": "1861-75",
+        "note": "K&D's note on Genesis 6 mounts an extended harmonizing defense of the Sethite reading, arguing from Mark 12:25 that the 'sons of God' cannot be angels and that Jude 6-7 does not describe angel marriages."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/can-angels-reproduce.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Can angels reproduce?",
+        "note": "live apologetic treatment weighing Genesis 6 against Matthew 22:30 / Mark 12:25 on angelic marriage and reproduction"
+      }
+    }
+  }
+}

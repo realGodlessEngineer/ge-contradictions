@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 119,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read the angels and Moses as mere instruments transmitting a law that remained God's own act, so the NT 'by angels...in the hand of a mediator' only describes the manner of delivery, not a rival giver.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "J. L. Martyn presses that in Galatians Paul pointedly omits God as the law's giver and credits 'angels' and a 'mediator' instead, language so distancing he asks whether Paul 'anticipates Marcion' — a model the Exodus account, where YHWH speaks directly, does not share.",
+      "skeptic": {
+        "name": "J. Louis Martyn",
+        "work": "Galatians: A New Translation with Introduction and Commentary (Anchor Bible 33A)",
+        "year": "1997",
+        "attribution": "J. Louis Martyn (d. 2015), Galatians, Anchor Bible 33A (1997)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Galatians 3:19",
+      "excerpt_text": "The ministry of angels was certainly used in giving the law; see Psa 68:17; Act 7:53; and Heb 2:2; but they were only instruments for transmitting; Moses was the mediator between God and the people, Deu 5:5.",
+      "full_note_ref": "CLARKE/48/3/19",
+      "on_tension_rationale": "Directly harmonizes the two models: angels were 'only instruments for transmitting' and Moses the human mediator, so God remains the giver — the manner, not the source, is what Galatians describes.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Galatians 3:19",
+      "excerpt_text": "the tables are said to be the work of God, and the writing the writing of God, and to be written with the finger of God, and he is said to speak all the words of it, yet this hinders not, but that all this might be done by the means of angels; who might be employed in disposing and fitting the stones in the form they were, and in writing the law upon them …",
+      "full_note_ref": "GILL/48/3/19",
+      "on_tension_rationale": "Explicitly reconciles 'the work of God' / 'spoken by God' with angelic agency — God's authorship and angelic 'means' are not mutually exclusive, dissolving the apparent either/or.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Galatians 3:19",
+      "excerpt_text": "whereas the promise was given immediately by God himself, the law was given by the ministry of angels, and the hand of a mediator.",
+      "full_note_ref": "MHC/48/3/19",
+      "on_tension_rationale": "Frames the angels-and-mediator delivery of the law as a functional contrast with the directly-given promise, treating angelic mediation as the law's mode of transmission rather than a denial of divine origin.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Galatians 3:19",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this passage directly, arguing that the law's being 'the work of God' written 'with the finger of God' is not contradicted by its being 'ordained by angels,' since the angels acted as instruments while God remained the author and Moses the mediator."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page on an allowlisted apologetics domain (gotquestions.org / carm.org / defendinginerrancy.com) specifically treats the Galatians 3:19 angels-and-mediator question; link omitted rather than substitute an off-topic page."
+      }
+    }
+  }
+}

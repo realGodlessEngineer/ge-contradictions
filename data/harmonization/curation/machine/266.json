@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 266,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the two as accommodation, not opposition: God is light in himself but veils that glory in darkness because finite creatures cannot bear its brightness.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells (Skeptic's Annotated Bible), the upstream source for this entry, presses the plain reading: the same God is placed in thick darkness by one set of authors and in unapproachable light by another, which he treats as a flat contradiction.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"Does God dwell in darkness or in light?\" (skepticsannotatedbible.com/contra/dwell.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, \"Does God dwell in darkness or in light?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "1 Kings 8:12",
+      "excerpt_text": "God is light (Jo1 1:5), and he dwells in light (Ti1 6:16), but he dwells with men in the thick darkness, makes that his pavilion, because they could not bear the dazzling brightness of his glory.",
+      "full_note_ref": "MHC/11/8/12",
+      "on_tension_rationale": "Names both poles explicitly and cites 1 Tim 6:16 ('dwells in light') alongside the 'thick darkness' of 1 Kings 8:12, harmonizing via accommodation — the single strongest on-tension reconcile note.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "2 Chronicles 6:1",
+      "excerpt_text": "He has indeed, as to us, made darkness his pavilion (Ch2 6:1), but let this house be the residence of that darkness; for it is in the upper world that he dwells in light, such as no eye can approach.",
+      "full_note_ref": "MHC/14/6/1",
+      "on_tension_rationale": "Covers the 2 Chronicles anchor and echoes 1 Tim 6:16's 'unapproachable' ('such as no eye can approach'), distinguishing the darkness shown to us from the light he dwells in above.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on 1 Kings 8:12",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this exact tension at 1 Kings 8:12: God 'is light... and he dwells in light (Ti1 6:16), but he dwells with men in the thick darkness... because they could not bear the dazzling brightness of his glory.' Anchored to the row's commentator because Haley's coverage of this specific pair could not be confirmed."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/1_Timothy_6.16_(2).php",
+        "domain": "defendinginerrancy.com",
+        "title": "1 Timothy 6:16 — Does God dwell in darkness or in light?",
+        "note": "Live, on-topic harmonization citing 1 Kings 8:12, Psalm 18:11, Psalm 97:2, and 1 Timothy 6:16; reads light/darkness as figurative of God's incomprehensibility and notes what is light to God can be darkness to us."
+      }
+    }
+  }
+}

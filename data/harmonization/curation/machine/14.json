@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 14,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The leading harmonization treats Genesis 2 not as a rival sequence but as a closer focus on day six, reading its verb for the animals as a pluperfect (\"had formed\").",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The classic source-critical objection is pressed by Julius Wellhausen, who argued the two accounts are distinct documents (P and J) whose orderings and methods of creating humanity cannot be reconciled into one narrative.",
+      "skeptic": {
+        "name": "Julius Wellhausen",
+        "work": "Prolegomena to the History of Israel",
+        "year": "1885",
+        "attribution": "Julius Wellhausen (d. 1918), Prolegomena to the History of Israel (Eng. trans. 1885)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 2:18",
+      "excerpt_text": "In Gen 1:27 the creation of the woman is linked with that of the man; but here the order of sequence is given, because the creation of the woman formed a chronological incident in the history of the human race, which commences with the creation of Adam. … so that our modern style of expressing the same thought would be simply this: \"God brought to Adam the beasts which He had formed.\"",
+      "full_note_ref": "KD/1/2/18",
+      "on_tension_rationale": "Directly addresses both halves of the tension: it frames Gen 2's order as a chronological retelling rather than a rival sequence, and reads Gen 2:19's wayyiqtol as a pluperfect (animals already formed), the standard harmonization of the animals-before/after-man conflict.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Genesis 2:18-19",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly, arguing Gen 2 gives the order of sequence within day six and that Gen 2:19's verb is to be read as a pluperfect, so it constitutes no objection to the plan of creation in Gen 1."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/two-Creation-accounts.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why are there two different Creation accounts in Genesis chapters 1-2?",
+        "note": "Live apologetic treatment defending the pluperfect reading of Genesis 2:19 and the general-to-specific literary harmonization."
+      }
+    }
+  }
+}

@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 282,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators harmonize by distinguishing senses: Jesus forbids the honorific authority-title, not the natural use of “father,” so the commandment to honor parents stands.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the wording directly: the Decalogue and Paul require honoring an earthly father while Matthew 23:9 flatly tells us to “call no man your father upon the earth.”",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible (“Is it OK to call your father (or anyone else) father?”)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, skepticsannotatedbible.com/contra/father.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 23:9",
+      "excerpt_text": "Not but that children may, and should call their natural parents, fathers … our Lord does not mean, by any of these expressions, to set aside all names and titles, of natural and civil distinction among men, but only to reject all such names and titles, as are used to signify an authoritative power over men's consciences, in matters of faith and obedience; in which, God and Christ are only to be attended to.",
+      "full_note_ref": "GILL/40/23/9",
+      "on_tension_rationale": "Directly resolves THIS tension: Jesus's words do not forbid calling a natural parent 'father' (preserving the fifth commandment) but only reject the honorific authority-title over consciences.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Matthew 23:8",
+      "excerpt_text": "Jesus does not prohibit the use of titles (especially for one's own father), but rather the assumption of undue honor by those who transmit knowledge about God.",
+      "full_note_ref": "TYN/40/23/8",
+      "on_tension_rationale": "Second distinct voice making the same sense-distinction: the prohibition targets undue honor among teachers, explicitly exempting 'one's own father' so the honor command is untouched.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Matthew 23:9",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact passage, harmonizing it with honoring natural parents by distinguishing the natural use of 'father' from the rejected authority-title over consciences."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/father-Matthew-23-9.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Did Jesus mean we should never refer to our earthly father as “father” (Matthew 23:9)?",
+        "note": "Live apologetic treatment; cites Matthew 23:9 and Exodus 20:12 and harmonizes via the humility/authority-title reading."
+      }
+    }
+  }
+}

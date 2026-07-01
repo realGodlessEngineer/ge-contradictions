@@ -1,4 +1,15 @@
 - [Project overview](project_contradictions_db.md) — SAB/Infidels/EvilBible contradictions DB with scholarly commentary and citations
+- [Sonnet named-skeptic fabrication](feedback_sonnet_named_skeptic_fabrication.md) — verify SPECIFIC engagement; McKinsey 343/362 not_real, Ehrman 427 strawman, Wells/SAB 395 real
+- [Gill self-crossref reconciliation](feedback_gill_self_crossref_reconciliation.md) — Gill note naming a verse "for the reconciliation of these Scriptures" self-confirms pd_work treats that pair (id 185)
+- [Gill 1 Tim 3:2 office qualification](feedback_gill_1tim32_office_qualification.md) — id 27: pd_work claiming Gill reads "husband of one wife" as banning polygamy to ALL inverts Gill (office qualification) → deeper_learning flag
+- [id 11 eat-animals re-audit clean](feedback_id11_eat_animals_reaudit_clean.md) — four-diet food contra all-clean; Matthew Henry on Lev 11 confirmed harmonizing pd_work; Wells/SAB eat.html real
+- [id 77 jews-many re-audit clean](feedback_id77_jews_many_clean.md) — Paine strawman remediated to Wells/SAB; Gill Deut 4:26 verse_ref correct (no offset); K&D + gotquestions deeper_learning verified
+- [Paine Age of Reason vs Letters](feedback_paine_age_of_reason_vs_letters.md) — id 33 changeable-God argument is Age of Reason Pt I 1794, not Letters (1797); skeptic real but work misattributed → connectives flag
+- [Paine blessing-curse over-attribution](feedback_paine_blessing_curse_overattribution.md) — id 77 (now REMEDIATED to Wells/SAB, clean); Paine strawman pattern on Gen/Deut numerousness; also ids 145/181/202
+- [Paine conquest dating vs completeness](feedback_paine_conquest_dating_vs_completeness.md) — id 131: Paine's Josh 15:63/Judg 1 Jebusites argument is LATE-AUTHORSHIP not total-vs-incomplete-conquest; strawman+connectives flag
+- [Paine vindictive-God verified](feedback_paine_vindictive_god_verified.md) — id 149: Paine DOES press vindictive-Bible-God vs benevolent-God in Age of Reason; named_skeptic=ok, all clean (positive counterpart to over-attribution cases)
+- [Strauss centurion §98 real](feedback_strauss_centurion_section98.md) — Strauss DID press Mt/Lk centurion came-himself-vs-messengers in §98 Cures at a distance; named_skeptic=ok for id 189
+- [Bultmann antitheses verified](feedback_bultmann_antitheses_verified.md) — id 151: Bultmann Jesus and the Word DOES press eye-for-eye antithesis as radical-demand vs FORMAL law authority; named_skeptic=ok, all clean
 - [Citation hallucination patterns](feedback_citation_hallucinations.md) — specific hallucination patterns seen in AI-drafted scholarship sections
 - [Levitical-city lacuna = conjecture not variant](feedback_levitical_cities_conjectural_not_variant.md) — Josh21/1Chr6 lost-Dan-heading is conjectural emendation, textual_variant=false; Lee-Sak JBL 136/4 (2017)
 - [Daniel Block scope-fit pattern](feedback_block_scope_fit.md) — Block miscited for non-Block commentaries; dominant Vector D pattern in batch_10
@@ -161,6 +172,7 @@
 
 - [Batch 30 pass-1-zero TERMINAL CLEAN](feedback_batch30_terminal_clean_pass1_zero.md) — batch_30 17 passes all 0; first-tier crit commentaries handled reliably by AI drafts
 - [Passing-mention parity risk calibration](feedback_passing_mention_parity_risk_calibration.md) — when NOT to apply passing-mention parity rule; avoid manufactured pages
+- [Gill Deut 3 verse offset](feedback_gill_deut_verse_offset.md) — Gill "wroth for your sakes"/Meribah harmonization is on Deut 3:26 not 3:25; harmonization 160 mislabels verse_ref
 - [Batch 31 final pipeline closure](feedback_batch31_final_pipeline_closure.md) — 31/31 pipeline complete; 6-entry final batch closed at 2 findings / 10 passes
 - [Samaritan Terah 145 real variant](feedback_samaritan_terah_145_real_variant.md) — SP Gen 11:32 Terah=145 (vs MT/LXX 205) is REAL harmonizing variant; Philo Migr.177; don't flag as fabricated
 - [Seow Ecclesiastes Persian dating](feedback_seow_ecclesiastes_persian_dating.md) — Seow AB 18C dates Qohelet to Persian period (5th-4th c.), NOT Hellenistic/3rd c.; AI inverts his stance
@@ -169,3 +181,9 @@
 - [Josephus 8.249 Maachah/Absalom/Tamar](feedback_josephus_8249_maachah_absalom_tamar.md) — Josephus connects Maachah to Absalom+Tamar but NOT Uriel/granddaughter; false-positive guard for entry 273
 - [Hosea 11:5 emendation target](feedback_hosea_115_emendation_target.md) — lo' relocates to end of 11:4 (read לו), NOT 10:15; don't conflate with 10:15's "storm/cut off" content
 - [Thiele endorsed divided-kingdom 2 Chr 16](feedback_thiele_endorsed_divided_kingdom_2chr16.md) — Thiele ENDORSED schism-era reading; resist "Thiele rejected it" auditor false-positive (entry 276)
+- [Harmonization skeptic false-concession](feedback_harmonization_skeptic_false_concession.md) — SAB discrepancy connectives sometimes claim a concession SAB never makes; verify vs live contra page
+- [Troki Chizzuk Emunah Acts 7:14](feedback_troki_chizzuk_emunah_acts714.md) — Isaac of Troki REAL skeptic, genuinely presses Acts 7:14 75-vs-Hebrew-70; first verified Karaite polemicist named_skeptic (id 95)
+- [id 117 Hosea re-roll clean](feedback_id117_hosea_reroll_clean.md) — id 117 re-run all-clean; transform fixed 2026-06-14 McKinsey not_real→Wells/SAB + 404 slug→Hosea-marry-prostitute.html; K&D pd_work verified
+- [Jackson Ruth/Pentateuch year](feedback_jackson_ruth_pentateuch_year.md) — id 182: Bernard S. Jackson REAL skeptic but work is 2015 (Mohr Siebeck FAT 101) not 2009 → connectives flag, named_skeptic ok
+- [id 107 Egyptian cattle clean](feedback_id107_egyptian_cattle_clean.md) — id 107 re-audit all-clean; Wells/SAB cattle.html real, Haley 1874 + defendinginerrancy link verified; JFB Ex 9:6 reconcile verbatim
+- [id 202 forgive re-roll clean](feedback_id202_forgive_reroll_clean.md) — id 202 re-audit all-clean; Wells/SAB contra/forgive.html exact 3-way framing verified, Gill Josh 24:19 self-source pd_work

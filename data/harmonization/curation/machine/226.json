@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 226,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Saul's question as an inquiry into David's lineage and family standing, not his identity, and treat the armour-bearer title as honorary rather than continuous service.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Julius Wellhausen argued the difficulty is real and literary: the verses in which Saul does not know David belong to a second, originally independent David tradition (absent from the shorter Greek text) that was spliced into a narrative where Saul already knew him well.",
+      "skeptic": {
+        "name": "Julius Wellhausen",
+        "work": "Der Text der Bücher Samuelis",
+        "year": "1871",
+        "attribution": "Julius Wellhausen (d. 1918), Der Text der Bücher Samuelis (1871)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "1 Samuel 17:55",
+      "excerpt_text": "But it by no means follows, that because Saul loved David on account of the beneficial effect which is playing upon the harp produced upon his mind, and appointed him his armour-bearer, therefore David had really to carry the king's armour in time of war. … It was not the name of David's father alone that he wanted to discover, but what kind of man the father of a youth who possessed the courage to accomplish so marvellous a heroic deed really was …",
+      "full_note_ref": "KD/9/17/55",
+      "on_tension_rationale": "K&D's anchor block directly rebuts the contradiction: the armour-bearer appointment was an honorary title, not permanent attendance (so David could be home keeping sheep), and Saul's 17:55 question seeks the father's character/standing, not David's identity. Two non-adjacent verbatim sentences, sense-preserving join; first ends on a source period, second truncated at a source semicolon with the elision marker.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on 1 Samuel 17:55",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this passage directly: the armour-bearer title was honorary, Saul sent David home to feed sheep so he was not in permanent service, and the 17:55 question asks about the father's character and lineage rather than David's identity; also answers the Septuagint-interpolation argument. (Haley's coverage of this specific pair could not be confirmed, so a row-surfaced harmonizing commentator keyed to the passage is used.)"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Saul-David.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why does Saul ask who David is, when he had met him earlier (1 Samuel 17:55)?",
+        "note": "Live apologetic treatment citing both 1 Samuel 16 and 17:55; harmonizes via Saul asking about the father's identity/standing (and memory lapse / chronological reordering)."
+      }
+    }
+  }
+}

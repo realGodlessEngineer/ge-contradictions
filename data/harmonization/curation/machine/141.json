@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 141,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Samuel's offering as a recognized exception — a non-priest acting under prophetic warrant and the necessity of a destroyed sanctuary, not a breach of the altar law.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Julius Wellhausen presses the sharpest form of the objection, arguing the Priestly restriction of sacrifice to Aaronide priests at one altar is a late, post-exilic construction that the older Samuel narratives know nothing of — so the two cannot both reflect the same law.",
+      "skeptic": {
+        "name": "Julius Wellhausen",
+        "work": "Prolegomena to the History of Israel",
+        "year": "1885",
+        "attribution": "Julius Wellhausen (d. 1918), Prolegomena to the History of Israel (Eng. trans. 1885; German Prolegomena zur Geschichte Israels, 1883)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "1 Samuel 7:9",
+      "excerpt_text": "Though Samuel was not a priest, yet he offered this sacrifice … His not sacrificing at the tabernacle was justified by the necessity of the case; neither tabernacle nor ark was at hand.",
+      "full_note_ref": "CLARKE/9/7/9",
+      "on_tension_rationale": "Directly concedes Samuel was not a priest and that he sacrificed away from the tabernacle, then offers the harmonizing ground (necessity, no tabernacle/ark at hand) — squarely on the priest-only/one-altar tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Leviticus 17:1-9",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry's note on the one-altar law treats this passage directly, listing Samuel's offering (1 Sam 7:9) among the cases in which the law 'was, in extraordinary cases, dispensed with,' because offered by a prophet and by special direction."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page on an allowlisted apologetics domain (gotquestions.org / carm.org / defendinginerrancy.com) could be confirmed for this specific tension; the defendinginerrancy.com 1 Samuel 1:1 page addresses only the Ephraimite-vs-Levite lineage question, not the non-priest-offering tension. Link omitted rather than fabricated."
+      }
+    }
+  }
+}

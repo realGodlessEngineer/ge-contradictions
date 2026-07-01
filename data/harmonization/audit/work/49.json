@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 49,
+  "question": "Who was Sheba's father?",
+  "summary": "The Table of Nations and its parallels give three different fathers for a man named Sheba: Raamah (Gen 10:7; 1 Chr 1:9), Jokshan son of Abraham and Keturah (Gen 25:3; 1 Chr 1:32), and Joktan son of Eber (Gen 10:26-28; 1 Chr 1:20-22). Three genealogies, three fathers.",
+  "consensus": "genuinely_disputed",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders argue the three lists name three distinct men who merely share the tribal name Sheba, the same name attaching to different lineages settled in overlapping Arabian regions.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The objection is pressed by Steve Wells, who lists Genesis 10:7, 25:3, and 10:28 side by side and asks plainly which man fathered Sheba, treating the three answers as mutually exclusive.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible, \"Who was Sheba's father?\" (skepticsannotatedbible.com/contra/sheba.html)",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; print ed. 2013)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Genesis 10:7",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, distinguishing three (indeed four) different men named Sheba across Genesis 10 and 25 rather than one figure with conflicting fathers."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page (gotquestions/carm/defendinginerrancy) was found directly engaging the three-fathers-of-Sheba tension; optional link omitted rather than stretched."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "49#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Genesis 10:7",
+      "full_note_ref": "CLARKE/1/10/7",
+      "excerpt_text": "There seem to be three different people of this name mentioned in this chapter, and a fourth in Gen 25:3.",
+      "on_tension_rationale": "Directly and minimally states the canonical harmonization: the Shebas are distinct persons who share a name, not one man with conflicting fathers.",
+      "source_note_text": "Seba - The founder of the Sabaeans. There seem to be three different people of this name mentioned in this chapter, and a fourth in Gen 25:3.\nHavilah - Supposed by some to mean the inhabitants of the country included within that branch of the river Pison which ran out of the Euphrates into the bay of Persia, and bounded Arabia Felix on the east.\nSabtah - Supposed by some to have first peopled an isle or peninsula called Saphta, in the Persian Gulf.\nRaamah - Or Ragmah, for the word is pronounced both ways, because of the ע ain, which some make a vowel, and some a consonant. Ptolemy mentions a city called Regma near the Persian Gulf; it probably received its name from the person in the text.\nSabtechah - From the river called Samidochus, in Caramanla; Bochart conjectures that the person in the text fixed his residence in that part.\nSheba - Supposed to have had his residence beyond the Euphrates, in the environs of Charran, Eden, etc.\nDedan - Supposed to have peopled a part of Arabia, on the confines of Idumea."
+    }
+  ]
+}

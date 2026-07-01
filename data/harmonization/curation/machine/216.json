@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 216,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read the two fathers as compatible by three distinct moves: Ner is a skipped-over ancestor, Ner and Abiel name one man, or \"begat\" means \"reared.\"",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, cataloguing this as a flat genealogical conflict, holds that Kish cannot at once be \"the son of Abiel\" and the son Ner \"begat,\" and that the harmonizations only multiply the names that must be merged.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "1 Samuel 9:1",
+      "excerpt_text": "But when, on the other hand, it is stated in Ch1 8:33; Ch1 9:39, that Ner begat Kish, the difference may be reconciled in the simplest manner, on the assumption that the Ner mentioned there is not the father, but the grandfather, or a still more remote ancestor of Kish, as the intervening members are frequently passed over in the genealogies.",
+      "full_note_ref": "KD/9/9/1",
+      "on_tension_rationale": "Directly resolves the two-fathers tension by reading Ner as a remote ancestor with intervening generations skipped, so both verses stand. Block-anchored note; on-tension sentence is mid-block.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Chronicles 8:33",
+      "excerpt_text": "Moreover, the father of Kish is said (Sa1 9:1) to have been Abiel, the son of Zeror, whence it would seem that Abiel and Ner were names of the same person.",
+      "full_note_ref": "JFB/13/8/33",
+      "on_tension_rationale": "Resolves the conflict by identifying Abiel and Ner as two names for one man, so Kish has a single father under two names.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Samuel 9:1",
+      "excerpt_text": "in Ch1 8:33, he is called Ner that begat Kish … when he is said to beget him, the meaning is, not that he was the parent of him, but the bringer up of him; or rather, as Kimchi thinks, Abiel had two sons, one of which was Ner …",
+      "full_note_ref": "GILL/9/9/1",
+      "on_tension_rationale": "Offers two distinct harmonizations of 'Ner begat Kish' against 'son of Abiel': begat=reared, or (Kimchi) Ner and Kish were both sons of Abiel.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on 1 Samuel 9:1",
+        "author": "Keil & Delitzsch",
+        "year": "1861-75",
+        "note": "Treats this passage directly, reconciling 'Ner begat Kish' with 'son of Abiel' by reading Ner as a remote ancestor with intervening generations omitted."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/1_Chronicles_8.33.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: 1 Chronicles 8:33 — Was Ner the father of Kish or the son of Abiel?",
+        "note": "live apologetic treatment of this exact Kish/Ner/Abiel discrepancy"
+      }
+    }
+  }
+}

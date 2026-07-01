@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 126,
+  "question": "Is it OK to drink alcohol?",
+  "summary": "The Bible's stance on alcohol is not a spectrum — it is a pile of mutually inconsistent positions. Some texts positively command drinking: wine as covenant blessing (Gen 27:28), festival wine (Deut 14:26), God commanding joyful drinking (Eccl 9:7). Others forbid it absolutely for Nazirites, priests on duty, prophets, and nursing mothers of promised sons (Num 6, Lev 10:9, Isa 28:7, Judg 13). Proverbs 20-23 issues strong warnings, while Song of Solomon and the wedding at Cana endorse it enthusiastically. What the Bible actually contains is every possible position at once.",
+  "consensus": "apparent_only",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Commentators dissolve the tension with one distinction: Scripture blesses wine used in moderation and condemns only its abuse — drunkenness, not drinking.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The objection is pressed by Steve Wells in the Skeptic's Annotated Bible, who collates the passages to argue the Bible endorses and condemns drinking at once, leaving no consistent stance.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); skepticsannotatedbible.com"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on John 2:1-11",
+        "author": "Matthew Henry",
+        "year": "1706-14",
+        "note": "Henry treats this passage directly: Christ's provision of wine at Cana 'allows a sober cheerful use of wine' while explicitly upholding the caution against surfeiting and drunkenness, which is the harmonizing tradition's core distinction."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/sin-alcohol.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does the Bible say about drinking alcohol / wine? Is it a sin for a Christian to drink alcohol / wine?",
+        "note": "Live apologetic treatment that reconciles the positive wine texts with the warnings by distinguishing moderate consumption from drunkenness."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "126#0",
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "attribution": "Tyndale Open Bible Commentary",
+      "verse_ref": "Proverbs 20:1",
+      "full_note_ref": "TYN/20/20/1",
+      "excerpt_text": "The Old Testament is not against drinking wine in moderation (3:10; 9:5; Ps 104:14-15), but it adamantly opposes excessive drinking (Prov 21:17; 23:29-35; 31:4-5).",
+      "on_tension_rationale": "States the whole reconciliation thesis directly: the OT permits moderate wine and opposes only excess, so the 'blessing' and 'warning' texts are not in conflict.",
+      "source_note_text": "20:1 Too much alcohol clouds a person’s judgment. The Old Testament is not against drinking wine in moderation (3:10; 9:5; Ps 104:14-15), but it adamantly opposes excessive drinking (Prov 21:17; 23:29-35; 31:4-5)."
+    }
+  ]
+}

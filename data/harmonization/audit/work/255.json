@@ -1,0 +1,66 @@
+{
+  "contradiction_id": 255,
+  "question": "How much did David pay for the threshing floor?",
+  "summary": "2 Samuel 24:24 says David bought the threshing floor and the oxen for fifty shekels of silver. 1 Chronicles 21:25 says David gave six hundred shekels of gold for the place. The price differs in both quantity (50 vs 600) and metal (silver vs gold).",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "The leading harmonization splits the transaction in two — the fifty silver shekels bought only the floor and oxen, the six hundred gold shekels the whole site bought afterward.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "filled",
+    "connective": "Even the harmonizing Keil & Delitzsch concede the figures cannot both stand — and credit the source-critic Otto Thenius with pressing the Chronicles number as exaggerated.",
+    "skeptic": {
+      "name": "Otto Thenius",
+      "work": "Die Bücher Samuels (Kurzgefasstes exegetisches Handbuch zum Alten Testament)",
+      "year": "1842",
+      "attribution": "Otto Thenius (d. 1876), Die Bücher Samuels (1842)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 1 Chronicles 21:25",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats this exact pair under the two-purchase harmonization (fifty silver for the floor and oxen, six hundred gold afterward for the whole site, Mount Moriah). Row-surfaced harmonizer used because Haley's coverage of this specific price-pair could not be confirmed."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/2_Samuel_24.24.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in 2 Samuel 24:24?",
+        "note": "Live, on-topic; cites both 2 Samuel 24:24 (fifty silver) and 1 Chronicles 21:25 (six hundred gold) and harmonizes via the two-purchase / larger-property reading."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "255#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "1 Chronicles 21:25",
+      "full_note_ref": "JFB/13/21/25",
+      "excerpt_text": "At first he bought only the cattle and the threshing instruments, for which he paid fifty shekels of silver (Sa2 24:24); afterwards he purchased the whole property, Mount Moriah, on which the future temple stood.",
+      "on_tension_rationale": "States the two-purchase harmonization that reconciles 50 silver with 600 gold, naming both amounts and both passages. Strongest single both-true reconcile; parity-capped to one on this discrepancy_first row.",
+      "source_note_text": "David gave . . . for the place six hundred shekels of gold--At first he bought only the cattle and the threshing instruments, for which he paid fifty shekels of silver (Sa2 24:24); afterwards he purchased the whole property, Mount Moriah, on which the future temple stood. High in the center of the mountain platform rises a remarkable rock, now covered by the dome of \"the Sakrah.\" It is irregular in its form, and measures about sixty feet in one direction and fifty feet in the other. It is the natural surface of Mount Moriah and is thought by many to be the rock of the threshing-floor of Araunah, selected by David, and continued by Solomon and Zerubbabel as \"the unhewn stone\" on which to build the altar [BARTLETT, Walks about Jerusalem; STANLEY]."
+    },
+    {
+      "excerpt_uid": "255#1",
+      "pole": "discrepancy",
+      "source_code": "KD",
+      "attribution": "Keil & Delitzsch, Biblical Commentary on the OT (1861-75)",
+      "verse_ref": "2 Samuel 24:19",
+      "full_note_ref": "KD/10/24/19",
+      "excerpt_text": "This difference cannot be reconciled by assuming that David paid his fifty shekels in gold coin, which would have been worth as much as six hundred shekels of silver, since gold was worth twelve times as much as silver. … No other course is left, therefore, than to assume that the number must be corrupt in one of the texts.",
+      "on_tension_rationale": "Rare verbatim discrepancy concession from a gathered harmonizing note: K&D reject the gold-coin harmonization outright and conclude one text's number is corrupt — i.e. the two figures cannot both stand. Two non-adjacent verbatim sentences, sense-preserving ellipsis join, both end on real source periods. Block-anchored note (anchor: true).",
+      "source_note_text": "David went up to Aravnah according to the command of God.\nSa2 24:20-21\nWhen Aravnah saw the king coming up to him with his servants (ויּשׁקף, \"he looked out,\" viz., from the enclosure of the threshing-floor), he came out, bowed low even to the earth, and asked the king what was the occasion of his coming; whereupon David replied, \"To buy the floor from thee, to build an altar to the Lord, that the plague may be turned away from the people.\"\nSa2 24:22-23\nAravnah replied, \"Let my lord the king take and offer up what seemeth good unto him: behold (i.e., there thou hast) the ox for the burnt-offering, and the threshing-machine, and the harness of the ox for wood\" (i.e., for fuel). הבּקר, the pair of oxen yoked together in front of the threshing-machine. הבּקר כּלי, the wooden yokes. \"All this giveth Aravnah, O king, to the king.\" המּלך is a vocative, and is simply omitted by the lxx, Vulgate, Syriac, and Arabic, because the translators regarded it as a nominative, which is quite unsuitable, as Aravnah was not a king. When Thenius, on the other hand, objects to this, for the purpose of throwing suspicion upon the passage, that the sentence is thus stamped as part of Aravnah's address to the king, and that in that case the words that follow, \"and Aravnah said,\" would be altogether superfluous; the former remark is correct enough, for the words \"all this giveth Aravnah ... to the king\" must form part of what Aravnah said, inasmuch as the remark, \"all this gave Aravnah to the king,\" if taken as the historian's own words, would be in most glaring contradiction to what follows, where the king is said to have bought the floor and the oxen from Aravnah. And the words that follow (\"and Aravnah said\") are not superfluous on that account, but simply indicate that Aravnah did not proceed to say the rest in the same breath, but added it after a short pause, as a word which did not directly bear upon the question put by the king. ויּאמר (and he said) is often repeated, where the same person continues speaking (see for example Sa2 15:4, Sa2 15:25, Sa2 15:27). \"Jehovah thy God accept thee graciously,\" i.e., fulfil the request thou presentest to Him with sacrifice and prayer.\nSa2 24:24\nThe king did not accept the offer, however, but said, \"No; but I will buy it of thee at a price, and will not offer burnt-offerings to the Lord my God without paying for them.\" Thus David bought the threshing-floor and the oxen for fifty shekels of silver. Instead of this, the Chronicles give \"shekels of gold, in weight six hundred.\" This difference cannot be reconciled by assuming that David paid his fifty shekels in gold coin, which would have been worth as much as six hundred shekels of silver, since gold was worth twelve times as much as silver. For there is nothing about gold shekels in our text; and the words of the Chronicles cannot be interpreted as meaning that the shekels of gold were worth six hundred shekels of silver. No other course is left, therefore, than to assume that the number must be corrupt in one of the texts. Apparently the statement in the Chronicles is the more correct of the two: for if we consider that Abraham paid four hundred shekels of silver for the site of a family burial-place, at a time when the land was very thinly populated, and therefore land must certainly have been much cheaper than it was in David's time, the small sum of fifty shekels of silver (about 6) appears much too low a price; and David would certainly pay at least fifty shekels of gold. But we are not warranted in any case in speaking of the statement in the Chronicles, as Thenius does, as \"intentionally exaggerated.\" This style of criticism, which carries two kinds of weights and measure in its bag, explaining the high numbers in the books of Samuel and Kings as corruptions of the text, and those in the Chronicles as intentional exaggerations on the part of the chronicler, is sufficiently dealt with by the remark of Bertheau, that \"this (i.e., the charge of exaggeration) could only be sustained if it were perfectly certain that the chronicler had our present text of the books of Samuel before him at the time.\"\nSa2 24:25\nAfter acquiring the threshing-floor by purchase, David built an altar to the Lord there, and offered burnt-offerings and supplicatory-offerings (shelamim: as in Jdg 20:26; Jdg 21:4; Sa1 13:9) upon it to the Lord. \"So Jehovah was entreated, and the plague was turned away from Israel.\"\nThis remark brings to a close not only the account of this particular occurrence, but also the book itself; whereas in the Chronicles it is still further stated that Jehovah answered David with fire from heaven, which fell upon the burnt-offering; and that after his prayer had been answered thus, David not only continued to offer sacrifice upon the floor of Aravnah, but also fixed upon it as the site for the temple which was afterwards to be built (Ch1 21:27; Ch1 22:1); and to this there is appended, in Sa2 22:2., an account of the preparations which David made for the building of the temple. It is not affirmed in the Chronicles, however, that David fixed upon this place as the site for the future temple in consequence of a revelation from God, but simply that he did this, because he saw that the Lord had answered him there, and because he could not go to Gibeon, where the tabernacle was standing, to seek the Lord there, on account of the sword of the angel, i.e., on account of the pestilence. The command of God build an altar upon the threshing-floor of Aravnah, and offer expiatory sacrifices upon it, when connected with His answering his prayer by turning away the plague, could not fail to be taken as a distinct intimation to David, that the site of this altar was the place where the Lord would henceforth make known His gracious presence to His people; and this hint was quite sufficient to determine the site for the temple which his son Solomon was to build."
+    }
+  ]
+}

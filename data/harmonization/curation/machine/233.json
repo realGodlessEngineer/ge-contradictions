@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 233,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers resolve the reversal by papponymy — Abiathar son of Ahimelech also had a son named Ahimelech, so both relationships can stand.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Heinrich Ewald, with Movers and Thenius, judged the Masoretic genealogy simply corrupt — “Ahimelech the son of Abiathar” is an erroneous transposition of the original “Abiathar the son of Ahimelech.”",
+      "skeptic": {
+        "name": "Heinrich Ewald",
+        "work": "The History of Israel (Geschichte des Volkes Israel)",
+        "year": "1864",
+        "attribution": "Heinrich Ewald (d. 1875), The History of Israel (Geschichte des Volkes Israel, 1864)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "2 Samuel 8:17",
+      "excerpt_text": "But the expression “Ahimelech the son of Abiathar” is apparently a very strange one, as Abiathar was a son of Ahimelech according to Sa1 22:20 … We are therefore disposed to adopt the view held by Bertheau and Oehler, viz., that Abiathar the high priest, the son of Ahimelech, had also a son named Ahimelech, as it is by no means a rare occurrence for grandfather and grandson to have the same names",
+      "full_note_ref": "KD/10/8/17",
+      "on_tension_rationale": "KD names the exact tension (Abiathar is son of Ahimelech in 1 Sam 22:20, yet 2 Sam 8:17 calls Ahimelech son of Abiathar) and offers the papponymy harmonization (a same-named grandson Ahimelech), which is the strongest reconcile on the row. The strange/grandfather-grandson clauses are joined; the intervening list of cross-references and the rejection of the transposition theory are elided without altering the sense.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on 2 Samuel 8:17",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this exact reversal at length on 2 Sam 8:17, weighing the transposition theory and defending the papponymy (same-named grandson) solution; surfaced harmonizing commentator keyed to the passage."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic page for the father/son reversal could be confirmed on an allowlisted domain; the gotquestions.org and defendinginerrancy.com entries found cover the distinct Mark 2:26 difficulty, so link is omitted rather than guessed."
+      }
+    }
+  }
+}

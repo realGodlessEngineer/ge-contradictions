@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 194,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders distinguish destroying Gezer's relief army from capturing the city itself, which Joshua's text never claims to have taken and held.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The classic critical objection is pressed by George Foot Moore, who held that Judges 1's picture of a gradual, incomplete conquest is historically truer than Joshua's claim of total extermination, so the two cannot simply both stand.",
+      "skeptic": {
+        "name": "George Foot Moore",
+        "work": "A Critical and Exegetical Commentary on Judges (International Critical Commentary)",
+        "year": "1895",
+        "attribution": "George Foot Moore (d. 1931), A Critical and Exegetical Commentary on Judges, ICC (1895)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Joshua 10:33",
+      "excerpt_text": "Joshua also smote the king of Gezer, who had come with his people to help of Lachish, and left no one remaining. Nothing is said about the capture of the town of Gezer. According to Jos 16:10 and Jdg 1:29, it was still in the possession of the Canaanites when the land was divided, though this alone is not sufficient to prove that Joshua did not conquer it, as so many of the conquered towns were occupied by the Canaanites again after the Israelites had withdrawn.",
+      "full_note_ref": "KD/6/10/28",
+      "on_tension_rationale": "Directly names Joshua 10:33 and Judges 1:29 and resolves the tension: the text records destroying Gezer's king and relief army, not the capture of the town, so Canaanites still holding Gezer in Judges 1:29 is not a contradiction. This is the strongest, most explicit harmonization on the row.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Joshua 10:33 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "Treats this exact passage: distinguishes the slaying of Gezer's king and army from the capture of the town, and explains Judges 1:29 as the town remaining in Canaanite hands. Haley's specific coverage of the Gezer verse pair could not be confirmed, so a harmonizing commentator keyed to the passage is used per spec."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No direct page on an allowlisted domain (gotquestions.org, carm.org, defendinginerrancy.com) specific to the Joshua 10:33 / Judges 1:29 Gezer pair could be verified; link omitted rather than fabricated."
+      }
+    }
+  }
+}

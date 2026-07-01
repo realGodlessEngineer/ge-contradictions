@@ -1,0 +1,22 @@
+{
+  "contradiction_id": 10,
+  "excerpts": [
+    {
+      "excerpt_uid": "10#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "pass",
+      "action": null,
+      "reason": "Gill's 'all but the tree of knowledge, of good and evil, afterwards excepted' is verbatim in source_note_text and directly harmonizes the unrestricted ch.1 grant with the ch.2 prohibition by reading an implicit exception into Gen 1:29. On-tension; reconcile label correct."
+    }
+  ],
+  "guardrails": {
+    "parity": "ok",
+    "connectives": "ok",
+    "named_skeptic": "ok",
+    "discrepancy_integrity": "ok",
+    "deeper_learning": "flag",
+    "reason": "Reconcile capped to one strong Gill excerpt; discrepancy pole names Steve Wells (Skeptic's Annotated Bible). The SAB genuinely flags Gen 1:29 vs 2:17 as a contradiction (every tree granted, then one tree forbidden), so the named skeptic is real and fairly represented — named_skeptic ok. Reconcile connective (later restriction narrows, does not contradict) is accurate and does not overclaim. DEEPER_LEARNING FLAG: defense.pd_work cites Haley (1874) with a generic note, but I could not positively confirm Haley treats this specific narrow tension (the Gen 1 food grant vs the Gen 2 single-tree prohibition) at the verse level — the searchable text and indexes did not surface it, and per skeptic posture an unconfirmed topical match is flagged rather than passed. Haley is a real PD work; the issue is unverified on-topic treatment of THIS contradiction. Parity ok."
+  }
+}

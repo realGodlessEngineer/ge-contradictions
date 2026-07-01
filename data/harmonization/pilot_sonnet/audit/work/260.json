@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 260,
+  "question": "What was Solomon's gift to Hiram?",
+  "summary": "1 Kings 5:11 says Solomon gave Hiram 20,000 measures of wheat and 20 measures of pure oil annually for his household. 2 Chronicles 2:10 says Solomon gave 20,000 measures of wheat, 20,000 measures of barley, 20,000 baths of wine, and 20,000 baths of oil to the timber workers. The commodities, quantities, and recipients differ.",
+  "consensus": "genuinely_disputed",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Commentators consistently distinguish two separate transactions: Kings records what Solomon gave Hiram's royal household annually, while Chronicles records the separate rations promised to the Lebanese timber workers.",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Dennis McKinsey (Biblical Errancy) pressed this as a genuine discrepancy, arguing that the commodities, quantities, and stated recipients differ irreconcilably between the two accounts and that the two-transaction harmonization is an ad hoc invention unsupported by either text.",
+    "skeptic": {
+      "name": "Dennis McKinsey",
+      "work": "Biblical Errancy",
+      "year": "1983-2000",
+      "attribution": "Dennis McKinsey, Biblical Errancy newsletter (1983–2000)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats the Solomon-Hiram provisions under his section on historical discrepancies, arguing that Kings and Chronicles describe complementary halves of Solomon's total payment arrangement — the royal household stipend and the workers' rations — rather than rival versions of a single transaction."
+      },
+      "link": null
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "260#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "1 Kings 5:11",
+      "full_note_ref": "JFB/11/5/11",
+      "excerpt_text": "food to his household--This was an annual supply for the palace, different from that mentioned in Ch2 2:10, which was for the workmen in the forests.",
+      "on_tension_rationale": "Directly states the two-transaction resolution: 1 Kings 5:11 is for Hiram's palace household; 2 Chr 2:10 is for the Lebanon timber workers — two distinct payments, not variant accounts of the same payment.",
+      "source_note_text": "food to his household--This was an annual supply for the palace, different from that mentioned in Ch2 2:10, which was for the workmen in the forests."
+    }
+  ]
+}

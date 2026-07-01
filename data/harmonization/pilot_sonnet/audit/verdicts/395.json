@@ -1,0 +1,22 @@
+{
+  "contradiction_id": 395,
+  "excerpts": [
+    {
+      "excerpt_uid": "395#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "pass",
+      "action": null,
+      "reason": "Excerpt is verbatim and is the entire source_note_text (JFB/43/1/28). JFB directly resolves THIS geographical tension: 'Bethany' (not Bethabara) is the best-attested reading, and it is a distinct east-Jordan Bethany 'beyond Jordan,' not the Lazarus-Bethany. That harmonizes John 1:28 with the Synoptic 'in the Jordan' by locating it as a settlement on the river's east bank. Reconcile pole correct."
+    }
+  ],
+  "guardrails": {
+    "parity": "ok",
+    "connectives": "ok",
+    "named_skeptic": "ok",
+    "discrepancy_integrity": "ok",
+    "deeper_learning": "flag",
+    "reason": "NAMED_SKEPTIC = OK: The SAB genuinely lists this contradiction — 'Where did John baptize?' (skepticsannotatedbible.com/contra/jordan.html) — pitting 'in Jordan' (Mt 3:6, Mk 1:5/1:9) against 'in Bethabara beyond Jordan' (Jn 1:28), exactly the tension in this row. Steve Wells is the real author/compiler of the SAB; the engagement is real and fairly represented. (Minor: the attribution 'The Skeptic's Annotated Bible (SAB Press, 2012)' frames the website as a 2012 print imprint; the engagement itself is authentic, so not a not_real, but the publication metadata is loose.) CONNECTIVES = OK: connective accurately says Wells/SAB 'flags the location named in John 1:28 as inconsistent with the Jordan River baptism site indicated by the Synoptics' — matches the SAB note; no overclaim. DISCREPANCY_INTEGRITY = OK: discrepancy_first pole is a real named_skeptic. PARITY = OK: one reconcile excerpt (JFB) vs. one named-skeptic connective; reconcile correctly capped, JFB is the strongest single harmonization (manuscript evidence + distinct east-Jordan Bethany). DEEPER_LEARNING = FLAG: Haley (1874) is a real PD work that does treat geographical/place-name discrepancies, but I could not positively confirm it contains this exact Bethabara/Bethany entry as the note specifically asserts ('Haley addresses the Bethabara/Bethany place-name conflict under geographical discrepancies, citing the manuscript evidence...'); plausible but unverified, so flag for a human to confirm the page-level claim. consensus='apparent_only' is consistent with the textual-variant resolution."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 102,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators relocate the tension by reading Exodus 4:10 as a natural disability and Acts 7:22 as Moses's substance, learning, and God-empowered authority — distinguishing fluency of tongue from might in matter.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, compiling the Skeptic's Annotated Bible, presses the pair directly: Moses himself disclaims eloquence and is \"slow of speech\" (Exodus 4:10), yet Stephen calls him \"mighty in words\" (Acts 7:22) — the two verses assign opposite verbal ability.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Was Moses a good speaker?\" (skepticsannotatedbible.com/contra/moses_speaker.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), \"Was Moses a good speaker?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Exodus 4:10",
+      "excerpt_text": "But how could it be said that Moses was not eloquent, when St. Stephen asserts, Act 7:22, that he was mighty in words as well as in deeds? … Though Moses was slow of speech, yet when acting as the messenger of God his word was with power, for at his command the plagues came and the plagues were stayed; thus was he mighty in words as well as in deeds: and this is probably the meaning of St. Stephen.",
+      "full_note_ref": "CLARKE/2/4/10",
+      "on_tension_rationale": "Clarke explicitly names both verses, poses the contradiction as a 'difficulty,' and resolves it (option 3) by distinguishing natural slowness of speech from God-empowered might in word — the single most on-tension reconcile on the row. Sense-preserving ellipsis joins the framing question to his own resolving sentence; both segments verbatim; closes on a real source period.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Acts 7:22",
+      "excerpt_text": "and was mighty in words; he had a command of language, and a large flow of words, and could speak properly and pertinently upon any subject; for though he was slow of speech, and of tongue, and might have somewhat of a stammering in speaking, yet he might have a just diction, a masculine style, and a powerful eloquence …",
+      "full_note_ref": "GILL/44/7/22",
+      "on_tension_rationale": "Gill harmonizes the exact pair at Acts 7:22, conceding the Exodus slowness/stammer while affirming Moses could still possess 'just diction... and a powerful eloquence' — distinguishes impediment from rhetorical power. Verbatim; truncated before the source colon, so closed with the elision marker.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Acts 7:22",
+      "excerpt_text": "mighty in words—Though defective in utterance (Exo 4:10); his recorded speeches fully bear out what is here said.",
+      "full_note_ref": "JFB/44/7/22",
+      "on_tension_rationale": "JFB cites Exo 4:10 by chapter and verse and reads Acts 7:22 as compatible: the defect was in utterance, but the recorded speeches vindicate the 'mighty in words' verdict. Verbatim; the typeset double-hyphen normalized to an em-dash; ends on a real source period.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Exodus 4:10",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact pair head-on, naming Acts 7:22 against Exodus 4:10 and offering three harmonizing solutions (a late natural infirmity, unfamiliarity with the Hebrew tongue, and God-empowered might in word). Row-surfaced harmonizer keyed to the passage; preferred here because Haley's specific coverage of this pair could not be confirmed."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/did-Moses-stutter.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Did Moses stutter?",
+        "note": "Live, on-topic apologetic treatment; cites both Exodus 4:10 and Acts 7:22 and reconciles them (Moses minimizing his ability / genuine impediment overcome by God's power)."
+      }
+    }
+  }
+}

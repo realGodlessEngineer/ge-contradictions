@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 71,
+  "question": "How old was Ishmael when he was abandoned by Abraham?",
+  "summary": "Genesis 21:14-18 describes Hagar carrying Ishmael on her shoulder, laying \"the child\" under a shrub, and being told to lift up \"the lad\" — infant language. But Genesis 17:24-25 plus Genesis 21:5-9 has Ishmael at thirteen when circumcised and Isaac weaned (age 2-3) before the abandonment scene, which puts Ishmael somewhere between 14 and 17 years old. A teenager doesn't ride on the shoulder.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders answer that the infant imagery is a translation artifact: the chronology makes Ishmael about seventeen, so only the provisions, not the boy, sat on Hagar's shoulder.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "John Skinner's critical commentary presses the source-critical objection: the expulsion narrative treats Ishmael as a small child carried and cast down, and so does not appear to know the Priestly chronology of 16:16 and 21:5 that would make him a teenager.",
+    "skeptic": {
+      "name": "John Skinner",
+      "work": "A Critical and Exegetical Commentary on Genesis (International Critical Commentary)",
+      "year": "1910",
+      "attribution": "John Skinner (d. 1925), A Critical and Exegetical Commentary on Genesis, ICC (1910)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Genesis 21:14",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke addresses this passage directly: he raises the 'appearance of cruelty' created by the infant-child reading and answers it by computing Ishmael's age (born when Abraham was 86, Isaac when he was 100, plus Isaac's weaning), concluding Ishmael was about seventeen and walked rather than was carried."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/what-happened-to-Ishmael.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What happened to Ishmael in the Bible?",
+        "note": "Live apologetic treatment that places Ishmael at about sixteen at the expulsion, addressing the age underlying this contradiction."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "71#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Genesis 21:14",
+      "full_note_ref": "CLARKE/1/21/14",
+      "excerpt_text": "What adds to the appearance of cruelty in this case is, that our translation seems to represent Ishmael as being a young child; and that Hagar was obliged to carry him, the bread, and the bottle of water on her back or shoulder at the same time. But that Ishmael could not be carried on his mother's shoulder will be sufficiently evident when his age is considered … we shall find that Ishmael was at the time of his leaving Abraham not less than seventeen years old …",
+      "on_tension_rationale": "Directly names the infant-imagery problem ('our translation seems to represent Ishmael as being a young child') and the shoulder-carrying difficulty, then resolves it by computing his age at ~17 — the strongest single harmonization on the row.",
+      "source_note_text": "Took bread, and a bottle - By the word bread we are to understand the food or provisions which were necessary for her and Ishmael, till they should come to the place of their destination; which, no doubt, Abraham particularly pointed out. The bottle, which was made of skin, ordinarily a goat's skin, contained water sufficient to last them till they should come to the next well; which, it is likely, Abraham particularly specified also. This well, it appears, Hagar missed, and therefore wandered about in the wilderness seeking more water, till all she had brought with her was expended. We may therefore safely presume that she and her son were sufficiently provided for their journey, had they not missed their way. Travelers in those countries take only, to the present day, provisions sufficient to carry them to the next village or encampment; and water to supply them till they shall meet with the next well. What adds to the appearance of cruelty in this case is, that our translation seems to represent Ishmael as being a young child; and that Hagar was obliged to carry him, the bread, and the bottle of water on her back or shoulder at the same time. But that Ishmael could not be carried on his mother's shoulder will be sufficiently evident when his age is considered; Ishmael was born when Abraham was eighty-six years of age, Gen 16:16; Isaac was born when he was one hundred years of age, Gen 21:5; hence Ishmael was fourteen years old at the birth of Isaac. Add to this the age of Isaac when he was weaned, which, from Gen 21:8, (See note Gen 21:8) was probably three, and we shall find that Ishmael was at the time of his leaving Abraham not less than seventeen years old; an age which, in those primitive times, a young man was able to gain his livelihood, either by his bow in the wilderness, or by keeping flocks as Jacob did."
+    }
+  ]
+}

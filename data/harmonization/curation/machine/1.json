@@ -1,0 +1,85 @@
+{
+  "contradiction_id": 1,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders distinguish the unseen 'heaven of heavens' made at once in Genesis 1:1 from the firmament later named Heaven, so the New Testament 'preparing' only fits up an existing glory.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Thomas Paine objects that Genesis stacks heavens, firmament, and ordered days in a sequence he judges incoherent, calling its creation account a display of ignorance rather than knowledge.",
+      "skeptic": {
+        "name": "Thomas Paine",
+        "work": "The Age of Reason",
+        "year": "1794",
+        "attribution": "Thomas Paine (d. 1809), The Age of Reason (1794)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "contradiction_id": 1,
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "author": "John Gill",
+      "work": "Exposition of the Entire Bible",
+      "year": "1746-1763",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Genesis 1:1",
+      "excerpt_text": "By the heaven some understand the supreme heaven, the heaven of heavens, the habitation of God, and of the holy angels; and this being made perfect at once, no mention is after made of it, as of the earth … but rather the lower and visible heavens are meant, at least are not excluded, that is, the substance of them…",
+      "full_note_ref": "GILL/1/1/1",
+      "license_code": "PD",
+      "on_tension_rationale": "Directly dissolves the Gen 1:1 vs 1:8 tension by distinguishing two heavens: the 'heaven of heavens' made at once in v.1, and the lower visible heavens whose firmament is later named Heaven in v.8.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 1,
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "author": "Adam Clarke",
+      "work": "Commentary on the Bible",
+      "year": "1832",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Genesis 1:1",
+      "excerpt_text": "Nor does it appear that the atmosphere is particularly intended here, as this is spoken of, Gen 1:6, under the term firmament. The word heavens must therefore comprehend the whole solar system, as it is very likely the whole of this was created in these six days…",
+      "full_note_ref": "CLARKE/1/1/1",
+      "license_code": "PD",
+      "on_tension_rationale": "Distinguishes the 'heavens' of Gen 1:1 (the whole solar system) from the firmament named Heaven in Gen 1:6-8, so the two passages refer to different things rather than contradicting on timing.",
+      "verify_state": "machine"
+    },
+    {
+      "contradiction_id": 1,
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "author": "Matthew Henry",
+      "work": "Commentary on the Whole Bible",
+      "year": "1706-1714",
+      "attribution": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+      "verse_ref": "John 14:2",
+      "excerpt_text": "The happiness of heaven, though prepared before the foundation of the world, yet must be further fitted up for man in his fallen state.",
+      "full_note_ref": "MHC/43/14/1",
+      "license_code": "PD",
+      "on_tension_rationale": "Reconciles the New Testament side of the tension: heaven is 'prepared from the foundation of the world' (Matt 25:34) yet Jesus still 'goes to prepare a place' (John 14:2), by reading the latter as a further fitting-up of an already-created glory.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Genesis 1:1",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill keys the harmonization to this passage, distinguishing the 'heaven of heavens' made at once in Genesis 1:1 from the visible firmament later named Heaven, so the various 'when' texts describe different referents."
+      },
+      "link": null
+    }
+  }
+}

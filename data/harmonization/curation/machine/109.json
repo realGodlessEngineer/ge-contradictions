@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 109,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators locate the offense not in dancing itself but in its object — idolatrous revelry round the calf, not the joyful praise distinguished from \"wanton dances.\"",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, who frames this contradiction, presses that the same book celebrates Miriam's dancing as praise yet treats the calf-dancing as a capital offense, so the text gives no single verdict on dancing.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (\"Is dancing a sin?\")",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), \"Is dancing a sin?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Exodus 15:20",
+      "excerpt_text": "Signifying their great joy: which custom the Jews observed in certain solemnities, Judg. 11:34 and 11:21, but it ought not to be a cloak to cover our wanton dances.",
+      "full_note_ref": "GNV/2/15/20",
+      "on_tension_rationale": "The Geneva annotator directly distinguishes Miriam's dancing as legitimate joyful praise from sinful 'wanton dances' — the exact both-true distinction that the dancing per se is not the offense.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Exodus 32:19",
+      "excerpt_text": "Dancing before the idol takes place in almost every Hindoo idolatrous feast …",
+      "full_note_ref": "CLARKE/2/32/19",
+      "on_tension_rationale": "Clarke locates the calf-dancing's offense in its idolatrous object ('before the idol'), implying the condemnation falls on idolatry, not on dancing as such — supporting the harmonizing reading.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Geneva Bible (1599), marginal note on Exodus 15:20",
+        "author": "Geneva Bible (annotators)",
+        "year": "1599",
+        "note": "The Geneva annotation on this very passage distinguishes the celebratory dancing of praise from sinful 'wanton dances,' directly addressing whether dancing as such is the offense."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Christian-dance.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does the Bible say about dancing? Should Christians dance?",
+        "note": "Live apologetic treatment contrasting Exodus 32's idolatrous revelry with Exodus 15's worshipful dancing and arguing the object, not the act, is condemned."
+      }
+    }
+  }
+}

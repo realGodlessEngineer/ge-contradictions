@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 280,
+  "question": "Did Jehoshaphat remove the high places?",
+  "summary": "2 Chronicles 17:5-6 says Jehoshaphat took away the high places. 1 Kings 22:42-43 and 2 Chronicles 20:31-33 say the high places were not taken away during his reign. The same king's same religious policy gets opposite verdicts, with the contradiction sitting inside Chronicles itself just like the Asa case in entry 275.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Defenders distinguish two kinds of high place — idolatrous shrines Jehoshaphat razed versus Yahweh-sites he left standing — so both verdicts describe different objects.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells (Skeptic's Annotated Bible) presses the tension at face value, juxtaposing the Chronicler's claim that Jehoshaphat removed the high places against Kings' and Chronicles' own statements that they were never taken away.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "Skeptic's Annotated Bible, \"Did Jehoshaphat remove the high places?\" (skepticsannotatedbible.com/contra/jehoshaphat.html)",
+      "year": "2013",
+      "attribution": "Steve Wells, Skeptic's Annotated Bible, \"Did Jehoshaphat remove the high places?\""
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on 1 Kings 22:43",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact pair, naming 2 Chronicles 17:6 against 1 Kings 22:43 and reconciling via two kinds of high place (idolatrous removed, Yahweh-consecrated left), with a textual-variant alternative. Row-surfaced harmonizing commentator keyed to the passage (Haley's specific-passage coverage unconfirmed)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/King-Jehoshaphat.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who was King Jehoshaphat in the Bible?",
+        "note": "Live apologetic treatment; cites 2 Chronicles 17:6 and engages the high-places tension via the chronological reading (removed early, persisted/returned by reign's end)."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "280#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "1 Kings 22:43",
+      "full_note_ref": "CLARKE/11/22/43",
+      "excerpt_text": "In Ch2 17:6, it is expressly said, that he did take away the high places. Allowing that the text is right in 2 Chron., the two places may be easily reconciled. There were two kinds of high places in the land … The former he did take away; the latter he did not.",
+      "on_tension_rationale": "Clarke is the single strongest reconcile: he names BOTH passages, asserts they 'may be easily reconciled,' runs the two-kinds-of-high-places harmonization (idolatrous removed / Yahweh-consecrated not removed), and even flags the textual-variant alternative. Parity-capped to this one excerpt on a discrepancy_first row.",
+      "source_note_text": "The high places were not taken away - In Ch2 17:6, it is expressly said, that he did take away the high places. Allowing that the text is right in 2 Chron., the two places may be easily reconciled. There were two kinds of high places in the land:\n1. Those used for idolatrous purposes.\n2. Those that were consecrated to God, and were used before the temple was built. The former he did take away; the latter he did not.\nBut some think the parallel place in Ch2 17:6 is corrupted, and that, instead of ועוד הסיר veod hesir, \"and moreover he took away,\" we should read, ולא הסיר velo hesir, \"and he did Not take away.\""
+    }
+  ]
+}
