@@ -9,12 +9,17 @@
       "empty_note": null
     },
     "discrepancy": {
-      "status": "empty",
-      "connective": null,
-      "skeptic": null,
-      "empty_note": "The numerical tension (70 named in 8:30 versus the 71-72 implied once Abimelech and the surviving Jotham are added) is real, but no specific named historical critic could be verified as having pressed THIS Gideon-numbers passage in a citable work; the skeptic tradition that lists it (e.g. the Skeptic's Annotated Bible) is anonymous. Per guardrail 4, the discrepancy pole is left empty with relabel_flag rather than co-opting a fabricated critic.",
-      "relabel_flag": true,
-      "relabel_reason": "consensus is only probable_contradiction (not genuine), the gathered commentators (JFB, Gill) treat it as a soluble round-number / separate-mother convention, and no real named skeptic who engaged this specific passage could be verified. Route to a human to decide whether 'probable_contradiction' overstates a row that may be better labeled a soluble number convention."
+      "status": "named_skeptic",
+      "connective": "Steve Wells, in the Skeptic's Annotated Bible, sets Judges 8:30's seventy sons against the seventy-one or seventy-two implied once the surviving Jotham and Abimelech are counted.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (\"How many sons did Gideon have?\")",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"How many sons did Gideon have?\" (SAB Books, 2013), skepticsannotatedbible.com/contra/sons_of_gideon.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
     }
   },
   "excerpts": [
