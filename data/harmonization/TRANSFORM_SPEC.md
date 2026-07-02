@@ -1,5 +1,11 @@
 # Harmonization excerpt TRANSFORM — agent instructions
 
+> **The machine-transform leg now reads the distilled `TRANSFORM_CONTRACT.md`** — a compact,
+> inference-only subset of the "TRANSFORM" half below (~⅓ the tokens). This file stays the
+> authoritative human reference AND the contract the **T9 dossier** leg reads (the "Dossier
+> sidecar leg — note + verse_pair" section near the end). Keep them in sync: change a
+> transform rule here and mirror it in `TRANSFORM_CONTRACT.md`.
+
 You are turning raw public-domain commentary notes into **verbatim, attributed,
 pole-classified excerpt candidates** for the "In the commentators' own words"
 surface. This is the machine pass over the mechanical sweep's output. Read this
@@ -165,8 +171,11 @@ Field rules:
   `source_code` via the `voices` codebook downstream — and do **not** repeat
   `contradiction_id` per excerpt (it is the file's top-level id).
   `on_tension_rationale` is private (not shipped).
-- `lean`: `discrepancy_first` when `consensus` is `genuine_contradiction` or
-  `probable_contradiction`; otherwise `reconcile_first`.
+- `lean`: `reconcile_first` **only** when `consensus` is `probable_harmonization` or
+  `apparent_only`; every other value (`genuine_contradiction`, `probable_contradiction`,
+  `genuinely_disputed`, null/unmapped) is `discrepancy_first` — matching the §7 rule the
+  validator/dossier/baker use (so `genuinely_disputed` is discrepancy-leaning and its
+  reconcile pole is parity-capped).
 - **Pole `status`:**
   - `filled` — ≥1 verbatim excerpt on this pole. **Must** have a `connective`.
   - `named_skeptic` — no verbatim excerpt, but a real skeptic is named with their

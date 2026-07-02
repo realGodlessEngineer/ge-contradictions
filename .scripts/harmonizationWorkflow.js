@@ -3,11 +3,11 @@ export const meta = {
   description: 'Local-agent harmonization excerpt sweep, CHUNKED: processes the next N (default 100) unprocessed contradictions per run, so the full 605 is done in ~6 batches at the owner\'s leisure. Transform + auditor on Opus (validated quality); glue/runner steps on Sonnet. READ-ONLY on both .db files; writes only into the harmonization workspace. Optional, OFF-by-default Dossier leg (EMIT_DOSSIER): after a clean floor, local Sonnet subagents (never the Batch API) author the note+verse_pair sidecar (curation/dossier/<id>.json) with a bounded mechanical-gate repair loop; discrepancy-leaning rows are left awaiting a later hand-sourced-critic pass (T10) by design.',
   phases: [
     { title: 'Discover', detail: 'list gather ids + already-done; pick this batch (Sonnet, $0)' },
-    { title: 'Transform', detail: 'biblical-contradiction-scholar (OPUS) per id -> curation/machine/<id>.json (PAID)', model: 'opus' },
+    { title: 'Transform', detail: 'biblical-contradiction-scholar-sonnet (SONNET) per id -> curation/machine/<id>.json (PAID)', model: 'sonnet' },
     { title: 'Floor', detail: 'verifyExcerpts.py gate (Sonnet runner) + targeted repair (Opus); hard gate' },
     { title: 'Dossier', detail: 'OPT-IN, default OFF (EMIT_DOSSIER=false): biblical-contradiction-scholar-sonnet (SONNET, not Batch API) per id -> curation/dossier/<id>.json note+verse_pair sidecar; buildHarmonizationTables.js DRY_RUN gate + bounded repair loop (max 2); parity_* on a discrepancy-leaning row is expected/deferred to a later hand-sourced-critic pass, not repaired', model: 'sonnet' },
     { title: 'Audit-select', detail: 'auditHarmonization.py MODE=select -> audit/work/*.json (Sonnet runner, $0)' },
-    { title: 'Auditor', detail: 'biblical-scholar-auditor (OPUS) over newly-sampled rows lacking a verdict -> verdicts/<id>.ppf (PAID)', model: 'opus' },
+    { title: 'Auditor', detail: 'biblical-scholar-auditor (SONNET via model override) over newly-sampled rows lacking a verdict -> verdicts/<id>.ppf (PAID)', model: 'sonnet' },
     { title: 'Report', detail: 'auditHarmonization.py MODE=report -> AUDIT-report.md (Sonnet runner, $0)' },
   ],
 }
@@ -24,10 +24,13 @@ export const meta = {
 // gather/by_id is always read from the real workspace (read-only input).
 //
 // MODELS: glue/runner steps (discover, floor-check, select, report) run on
-// Sonnet (mechanical — they just shell out to deterministic Python). The two
-// judgement-heavy legs stay on Opus via their pinned agent types
-// (biblical-contradiction-scholar / biblical-scholar-auditor); the verbatim
-// repair also stays on the Opus scholar for reliability (it is rare + gated).
+// Sonnet (mechanical — they just shell out to deterministic Python). Per the
+// Sonnet-5-default token directive, the two judgement-heavy legs now run on
+// Sonnet 5 too: Transform via the biblical-contradiction-scholar-sonnet agent,
+// and the Auditor via a { model: 'sonnet' } override on the (Opus-by-default)
+// biblical-scholar-auditor agent. The verbatim floor REPAIR deliberately STAYS
+// on the Opus scholar — it is rare + gated, and Opus-as-fallback for the hard
+// verbatim rescue is exactly the directive's carve-out.
 // ---------------------------------------------------------------------------
 const GATHER_DIR = 'data/harmonization/gather/by_id'
 const base = (args && args.base) || 'data/harmonization'
@@ -123,14 +126,14 @@ if (targetIds.length) {
   phase('Transform')
   const tfPrompt = (id) =>
     `Harmonization TRANSFORM pass for contradiction ${id}.\n` +
-    `1) Read data/harmonization/TRANSFORM_SPEC.md IN FULL (it is the contract; read it before producing anything).\n` +
+    `1) Read data/harmonization/TRANSFORM_CONTRACT.md IN FULL (the compact transform contract; read it before producing anything).\n` +
     `2) Read ${GATHER_DIR}/${id}.json (lean notes + voices codebook; a note's "text" is the ONLY source for excerpt_text).\n` +
     `3) Produce the machine excerpt file in EXACTLY the spec's JSON shape and write it to ${MACHINE_DIR}/${id}.json (create parent dirs as needed).\n` +
     `Hard rules: excerpt_text is VERBATIM from the note text (only the spec's allowed typography normalizations / sense-preserving ellipsis joins) — when you truncate mid-sentence end with the elision marker " …" (U+2026), NEVER add a sentence-final period the source lacks; on-tension sentences only (empty is correct, never pad); all 5 curation guardrails; parity-cap reconcile on discrepancy_first rows; a thin discrepancy pole uses the 439 model (name a REAL skeptic who actually engaged this passage, objection as an attributed connective) or set relabel_flag rather than co-opting it with harmonizers; deeper_learning.defense.pd_work is REQUIRED and must be a real PD work that treats THIS passage (prefer a harmonizing commentator already surfaced on the row when Haley's specific-passage coverage can't be confirmed), with an optional link only when it is a real page on an allowlisted domain. NEVER fabricate a critic, work, or URL — verify with WebSearch/WebFetch. Do NOT read or write any .db file.\n` +
     `Return {id, status:'ok'|'error'|'skipped', excerpts:<count written>, note:<short>}.`
 
   const tfResults = (await parallel(targetIds.map(id => () =>
-    agent(tfPrompt(id), { agentType: 'biblical-contradiction-scholar', label: `tf:${id}`, phase: 'Transform', schema: TF })
+    agent(tfPrompt(id), { agentType: 'biblical-contradiction-scholar-sonnet', label: `tf:${id}`, phase: 'Transform', schema: TF })
   ))).filter(Boolean)
   tfOk = tfResults.filter(r => r.status === 'ok')
   tfErr = tfResults.filter(r => r.status !== 'ok')
@@ -157,7 +160,7 @@ const failIds = (failures) => [...new Set((failures || [])
 const fixPrompt = (id, msgs) =>
   `Harmonization VERBATIM FIX for contradiction ${id}. The mechanical floor rejected one or more excerpts in ${MACHINE_DIR}/${id}.json as NOT VERBATIM:\n` +
   msgs.map(m => `  - ${m}`).join('\n') + `\n` +
-  `Read ${GATHER_DIR}/${id}.json (a note's "text" is the authoritative verbatim source) and ${MACHINE_DIR}/${id}.json. Correct ONLY the flagged excerpt_text so it is an exact verbatim substring of its source note, applying only the spec's allowed normalizations. In particular: when you truncate mid-sentence, end with the elision marker " …" (U+2026) — do NOT add a sentence-final period the source does not have. Change nothing else (no other excerpts, poles, or connectives). Rewrite the file in place. Do NOT touch any .db file.\n` +
+  `Read ${GATHER_DIR}/${id}.json (a note's "text" is the authoritative verbatim source) and ${MACHINE_DIR}/${id}.json. Correct ONLY the flagged excerpt_text so it is an exact verbatim substring of its source note, applying only the spec's allowed normalizations. In particular: when you truncate mid-sentence, end with the elision marker " …" (U+2026) — do NOT add a sentence-final period the source does not have. Change nothing else (no other excerpts, poles, or connectives). Apply the correction as a targeted Edit to just the flagged excerpt_text value (a surgical string replacement), NOT a full-file Write — a full rewrite re-emits the whole JSON to change one field and is wasted output; fall back to Write only if the change is too pervasive for a surgical edit. Do NOT touch any .db file.\n` +
   `Return {id, status:'ok'|'error', excerpts:<count in file>, note:<what you changed>}.`
 
 let floor = await runFloor()
@@ -224,7 +227,7 @@ if (EMIT_DOSSIER || (args && args.dossier)) {
       const dosFixPrompt = (id, msgs) =>
         `Harmonization DOSSIER FIX for contradiction ${id}. The mechanical gate (buildHarmonizationTables.js DRY_RUN) flagged these violations in ${DOSSIER_DIR}/${id}.json:\n` +
         msgs.map(m => `  - ${m}`).join('\n') + `\n` +
-        `Re-read the "Dossier sidecar leg — note + verse_pair (going forward)" section of data/harmonization/TRANSFORM_SPEC.md and correct ONLY the fields the flagged codes point at (note content/register, versePair sides, empty_note/empty_note_attr pairing, or half_line) so each violation resolves. Do not touch reconcile.quotes/discrepancy.quotes and do not alter any field not implicated by a flagged code. If any listed message is parity_leaning_is_empty or parity_count, IGNORE it -- it is expected on a discrepancy-leaning row and is not yours to fix; in particular, never set discrepancy.emptyNote/emptyNoteAttr on a discrepancy-leaning row just to silence a parity violation. Rewrite ${DOSSIER_DIR}/${id}.json in place.\n` +
+        `Re-read the "Dossier sidecar leg — note + verse_pair (going forward)" section of data/harmonization/TRANSFORM_SPEC.md and correct ONLY the fields the flagged codes point at (note content/register, versePair sides, empty_note/empty_note_attr pairing, or half_line) so each violation resolves. Do not touch reconcile.quotes/discrepancy.quotes and do not alter any field not implicated by a flagged code. If any listed message is parity_leaning_is_empty or parity_count, IGNORE it -- it is expected on a discrepancy-leaning row and is not yours to fix; in particular, never set discrepancy.emptyNote/emptyNoteAttr on a discrepancy-leaning row just to silence a parity violation. Apply each correction as a targeted Edit to just the affected field's value (a surgical replacement), NOT a full-file Write of ${DOSSIER_DIR}/${id}.json — a full rewrite re-emits the whole sidecar to change a few fields and is wasted output; fall back to Write only if the changes are too pervasive for surgical edits.\n` +
         `Return {id, status:'ok'|'error', note:<what you changed>}.`
 
       let dosGate = await runDossierGate(dossierCandidates)
@@ -295,7 +298,7 @@ const auPrompt = (id) =>
 
 const auResults = toAudit.length
   ? (await parallel(toAudit.map(id => () =>
-      agent(auPrompt(id), { agentType: 'biblical-scholar-auditor', label: `au:${id}`, phase: 'Auditor', schema: AU })
+      agent(auPrompt(id), { agentType: 'biblical-scholar-auditor', model: 'sonnet', label: `au:${id}`, phase: 'Auditor', schema: AU })
     ))).filter(Boolean)
   : []
 log(`auditor: ${auResults.filter(r => r.wrote_ppf).length}/${toAudit.length} new verdicts written`)

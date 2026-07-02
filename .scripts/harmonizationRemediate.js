@@ -66,7 +66,7 @@ const REPORT = { type: 'object', additionalProperties: false, properties: { done
 phase('Fix')
 const fixPrompt = (id) =>
   `Harmonization REMEDIATION for contradiction ${id}. The batch-1+2 sampled audit flagged ONE guardrail defect on this row. Apply the MINIMAL fix the auditor's verdict calls for — change ONLY the flagged element, nothing else.\n` +
-  `1) Read ${base}/TRANSFORM_SPEC.md IN FULL (the contract: the 439 named-skeptic model, the 5 curation guardrails, deeper-learning #36).\n` +
+  `1) Read ${base}/TRANSFORM_CONTRACT.md IN FULL (the compact transform contract: the 439 named-skeptic model, the 5 curation guardrails, deeper-learning #36).\n` +
   `2) Read the auditor's verdict ${AUDIT_DIR}/verdicts/${id}.ppf — the single G| line states the defect class + the fix direction in plain prose (the E| lines are per-excerpt and almost always PASS; do not touch excerpts on their account).\n` +
   `3) Read ${MACHINE_DIR}/${id}.json (the file you will edit) and ${GATHER_DIR}/${id}.json (a note's "text" is the ONLY authoritative verbatim source; the voices codebook resolves source attribution).\n` +
   `Apply ONLY the fix the G-line calls for (class hint: ${CLASS[id]}):\n` +
@@ -77,7 +77,7 @@ const fixPrompt = (id) =>
   `  - Do NOT alter any excerpt_text.\n` +
   `  - Do NOT change verse_ref / full_note_ref UNLESS our OWN gather note proves the current value points to the wrong note in OUR source. Changing a ref re-points the verbatim floor (it re-fetches that exact ref from bible_reference.db) and will break it. If the auditor's verse-pointer claim conflicts with our gather note (editions versify differently from biblehub), OUR GATHER NOTE WINS — leave the ref, note the discrepancy, and treat the flag as a confirmed false positive (return status:'no_change' with that explanation). [This is the expected outcome for id 160: the "for your sakes/Meribah" note is at GILL/5/3/25 in our source.]\n` +
   `  - Change nothing the G-line did not flag. Preserve JSON shape exactly per TRANSFORM_SPEC.md. Read-only on every .db file.\n` +
-  `Rewrite ${MACHINE_DIR}/${id}.json in place. Return {id, status:'fixed'|'no_change'|'error', class:'${CLASS[id]}', changed:<short what you changed>, verified:<critic/work/url you confirmed, or why no change>}.`
+  `Apply the fix as a targeted Edit to just the flagged field's value(s) (a surgical replacement), NOT a full-file Write of ${MACHINE_DIR}/${id}.json — a full rewrite re-emits the whole file to change one element and is wasted output; fall back to Write only if the change is too pervasive for a surgical edit. Return {id, status:'fixed'|'no_change'|'error', class:'${CLASS[id]}', changed:<short what you changed>, verified:<critic/work/url you confirmed, or why no change>}.`
 
 const fixResults = (await parallel(TARGET.map(id => () =>
   agent(fixPrompt(id), { agentType: 'biblical-contradiction-scholar', label: `fix:${id}`, phase: 'Fix', schema: FIX })
@@ -102,7 +102,7 @@ const failIds = (failures) => [...new Set((failures || [])
 const repairPrompt = (id, msgs) =>
   `Harmonization VERBATIM FIX for contradiction ${id}. The mechanical floor rejected an excerpt in ${MACHINE_DIR}/${id}.json as NOT VERBATIM after the remediation edit:\n` +
   msgs.map(m => `  - ${m}`).join('\n') + `\n` +
-  `Read ${GATHER_DIR}/${id}.json (a note's "text" is the authoritative verbatim source) and ${MACHINE_DIR}/${id}.json. The remediation pass should NOT have touched excerpt_text or refs — if it did, REVERT that part so the excerpt_text is again an exact verbatim substring of its source note at its full_note_ref (apply only the spec's allowed normalizations; truncations end with " …" U+2026, never a period the source lacks). Keep the legitimate guardrail fix (skeptic/connective/deeper_learning). Rewrite the file in place. Do NOT touch any .db file.\n` +
+  `Read ${GATHER_DIR}/${id}.json (a note's "text" is the authoritative verbatim source) and ${MACHINE_DIR}/${id}.json. The remediation pass should NOT have touched excerpt_text or refs — if it did, REVERT that part so the excerpt_text is again an exact verbatim substring of its source note at its full_note_ref (apply only the spec's allowed normalizations; truncations end with " …" U+2026, never a period the source lacks). Keep the legitimate guardrail fix (skeptic/connective/deeper_learning). Apply the correction as a targeted Edit to just the affected field(s) (a surgical replacement), NOT a full-file Write — a full rewrite re-emits the whole JSON to change one field and is wasted output; fall back to Write only if the change is too pervasive for a surgical edit. Do NOT touch any .db file.\n` +
   `Return {id, status:'fixed'|'error', class:'repair', changed:<what you reverted/fixed>}.`
 
 let floor = await runFloor()

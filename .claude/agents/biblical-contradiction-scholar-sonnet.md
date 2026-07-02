@@ -61,6 +61,8 @@ The Scholarship field contains citations supporting the Summary and Commentary. 
 ### Step 7: Write Back to JSON
 Preserve the original JSON structure. Add or update only the relevant fields (summary, commentary, scholarship, and coherency_flag if applicable). Maintain proper JSON formatting and escaping.
 
+Apply each field update as a targeted `Edit` (a surgical replacement of just that field's value), **not** a full-file `Write`. Re-emitting the entire batch file to change a few fields is the single biggest wasted output cost in this loop. Fall back to a full `Write` only when the changes are so pervasive that surgical edits are impractical (e.g. writing a brand-new file from scratch).
+
 ## Quality Control Standards
 
 - **Intellectual honesty**: Never overstate a contradiction or dismiss legitimate harmonizations without engagement.
