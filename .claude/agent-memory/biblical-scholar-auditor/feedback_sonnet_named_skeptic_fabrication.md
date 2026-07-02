@@ -740,3 +740,71 @@ lesson as id 138). Link carm.org/bible-difficulties/is-the-lord-omnipotent-or-no
 could not, God works through human agents") + allowlisted. Row discrepancy_first w/ discrepancy=named_skeptic
 (Wells), reconcile capped to single strongest excerpt, parity 1>=1; discrepancy_integrity ok (surfaced, NOT
 co_opted). Verdict E pass / G all-0.
+
+**McKinsey FLAGSHIP PASS (first verified McKinsey named_skeptic on a mainstream numeric-census topic) — audit
+id 328 (How many of Bethlehem and Netophah's offspring returned? Ezra 2:21-22 separate 123+56=179 vs Neh 7:26
+merged 188), 2026-07-01 — all clean, discrepancy_first:**
+- **C. Dennis McKinsey, The Encyclopedia of Biblical Errancy (Prometheus Books, 1995)** = REAL + this time
+  NEAR-VERBATIM confirmed. tektonics.org/af/eznehnumb.php directly quotes him: "we have a listing of the
+  subclans that returned from the Captivity... In the KJV, out of approximately thirty-five subclans listed
+  over half of the numbers are in disagreement" — matches the connective's "more than half of roughly
+  thirty-five matched clan totals disagree" almost word for word. Bethlehem/Netophah (123+56=179 vs 188,
+  verified via biblehub Ezra 2:21-22 / Neh 7:26) is objectively one of those mismatched subclan pairs, so
+  tying it to McKinsey's documented general census-discrepancy critique is a fair instantiation, NOT a
+  strawman/misattachment — even though tektonics' own rebuttal happens to name other examples (Seenah, Azgad,
+  Zattu, Bethel-and-Ai, Hashum, Arah, Adin) rather than this one. CONTRASTS the obscure-OT McKinsey not_real
+  defaults (ids 221/246/260/343/362/24/96) — this is the flagship census-discrepancy chapter itself, verified
+  by a directly quoted excerpt, not an inferred "sounds mainstream" guess. named_skeptic ok (0).
+- **pd_work John Haley, Examination of the Alleged Discrepancies (1874)** = ok (0) on an HONEST-DISCLOSURE
+  basis (cf. id 107/175 pattern): the note discloses Haley names the Arah variant (Ezra 2:5 vs Neh 7:10,
+  confirmed 775 vs 652 via biblehub) explicitly, then extends "the other cases, some twenty in number... from
+  a comparison of Ezra ii. 6-60, with Neh. vii. 11-67" as "explained in the same manner" (copyists' blunders)
+  — coverage is blanket, not name-specific to Bethlehem/Netophah. Verse-range check corroborates: Ezra 2:21-22
+  and Neh 7:26 both structurally fall inside those cited ranges. Exact IA djvu text unconfirmable (front-matter
+  only, same recurring Haley-fetch limitation as ids 175/298), but the specific, internally-consistent verse-
+  range citation is a strong authenticity signal → pass, not flag.
+- **link carm.org/bible-difficulties/why-are-the-statistics-in-ezra-2-and-nehemiah-7-different/** = VERIFIED
+  live, on-allowlist, on-topic (confirmed via WebFetch: "Ezra 2 and Nehemiah 7 are listings of numbered people
+  from different families... not identical," "Of 39 entries (verses), 17 do not match").
+- discrepancy_first lean: discrepancy=named_skeptic (McKinsey) counts 1, reconcile capped to single JFB
+  excerpt counts 1 → parity 1>=1 ok. discrepancy_integrity ok (surfaced, NOT co_opted).
+- JFB reconcile excerpt (Neh 7:5, "the discrepancy is sufficiently accounted for from the different
+  circumstances... registers were taken... Babylon... Judea... lapse of years... different names") verbatim
+  in embedded note (no ellipsis); explicitly labels the Ezra/Neh registry variance "the discrepancy" →
+  on_tension, correct reconcile pole. Verdict E pass / G all-0.
+
+**EHRMAN PASS on his own flagship topic — audit id 389 (How many generations, Babylonian captivity to
+Jesus? Matt 1:17 stated 14 vs Matt 1:12-16's 13-name third division), 2026-07-02 — all clean,
+discrepancy_first:**
+- **Bart D. Ehrman, Jesus, Interrupted (HarperOne, 2009)** = REAL + STRONGLY confirmed, this is one of his
+  signature genealogy examples (contrast the SAME-BOOK not_real/strawman misattachments at ids 119 Gal 3:19
+  and 427 unforgivable-sin — verify WORK+TOPIC, not just title). Archive.org full-text of Jesus, Interrupted
+  verbatim-confirms: "the problem is that the fourteen-fourteen-fourteen schema doesn't actually work... in
+  the third set of fourteen there are in fact only thirteen generations." His blog (ehrmanblog.org, member
+  comment Nov 2020 + "A Numerical Puzzle in Matthew's Genealogy") states outright **"It looks like a pure
+  slip"** — exact match to the connective "treats the shortfall as a genuine slip in Matthew's own
+  arithmetic, not a deliberate literary pattern." named_skeptic ok (0).
+- **pd_work John Haley, Examination of the Alleged Discrepancies (1874), pp. 404-405** = ok (0), UNUSUALLY
+  well corroborated via archive.org search-inside (ia800706.us.archive.org/fulltext/inside.php?item_id=
+  examinationof00hale&doc=examinationof00hale&path=/16/items/examinationof00hale&q=<term>; server/dir pulled
+  from archive.org/metadata/examinationof00hale) — bypasses the usual djvu.txt front-matter-only truncation.
+  Confirmed on p.404-405: "...nias to Christ, inclusive in each case. So Alford, Robinson," (inclusive-
+  boundary reading) + Gardiner also matches p.405 + "Dr. Mill shows that it was a common practice among the
+  Jews to distribute their genealogies into divisions according to some favorite or mystical number" (p.405,
+  verbatim) + Ebrard's alternative division ("the second begin with Solomon and end with Jechonias, the third
+  begin with Salathiel," p.405) + the Jehoiakim/Jeconiah distinction ("Jechonias in Matt. i. 11 denotes the
+  former, in vs. 12 the latter, individual," p.405). Every named authority in the work-file note (Alford,
+  Robinson, Gardiner, Ebrard, Dr. Mill, Jehoiakim/Jehoiachin) checks out verbatim at the SAME two pages —
+  a rare full match, not just topic-fit. Only "forty-two generations" as an exact phrase didn't hit (0
+  matches), but the concept (14x3) is the page's subject; not a red flag.
+- **link gotquestions.org/14-generations.html** = live, EXACT title match ("Is there an error in the counting
+  of the 14 generations in Matthew chapter 1?"), on-topic (Jehoiakim omission + literary-structure framing).
+  deeper_learning ok (0).
+- discrepancy_first lean: discrepancy=named_skeptic (Ehrman) counts 1, reconcile capped to single JFB excerpt
+  counts 1 -> parity 1>=1 ok. discrepancy_integrity ok (surfaced, NOT co_opted). JFB reconcile excerpt (Mt
+  1:17, "last division...only thirteen distinct names"... boundary moved to end 2nd division at Josiah, begin
+  3rd at Jeconiah) verbatim in embedded note (only -- to — conversion), on-tension, correct pole. Verdict E
+  pass / G all-0.
+- **NEW TECHNIQUE note:** the archive.org search-inside endpoint can be queried per-term (not just once) to
+  triangulate a cluster of named authorities onto the same page pair — much stronger corroboration than a
+  single snippet, and worth the extra round-trips when a deeper_learning note lists 4+ named scholars.

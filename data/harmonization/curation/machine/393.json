@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 393,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry folds both Gospels into one timeline: the family stayed in Bethlehem nearly two years, so the magi's house doesn't erase their Nazareth home.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Strauss objected that the accounts are incompatible since Matthew never mentions a prior Nazareth residence or what brought the family to Bethlehem.",
+      "skeptic": {
+        "name": "David Friedrich Strauss",
+        "work": "The Life of Jesus Critically Examined",
+        "year": "1835 (German); 1846 Eng. trans. by George Eliot",
+        "attribution": "David Friedrich Strauss, The Life of Jesus Critically Examined, trans. George Eliot (1835/1846)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Matthew 2:1",
+      "excerpt_text": "…for aught that appears, he continued nearly two years after at Bethlehem, and no further notice was taken of him till these wise men came.",
+      "full_note_ref": "MHC/40/2/1",
+      "on_tension_rationale": "Explains why the magi find the family already settled 'in a house' (Matt 2:11) rather than at the birth-manger: Henry has them remaining in Bethlehem for up to two years, the standard combined-timeline move that lets Matthew's silence about a prior Nazareth home coexist with Luke's Nazareth-to-Bethlehem itinerary.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats this exact discrepancy under 'Christ's infancy — order of events' (Matt. ii. 1-23 vs. Luke ii. 4-39), naming Strauss's objection that Matthew omits the residence at Nazareth before the nativity, and answering that the silence of one evangelist proves little, proposing the harmonizing order: journey from Nazareth to Bethlehem, birth, temple presentation, the magi (received in a 'house'), flight to Egypt, and settlement at Nazareth."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Jesus-birth.html",
+        "domain": "gotquestions.org",
+        "title": "Do the narratives of Jesus' birth contradict each other?",
+        "note": "live apologetic treatment arguing Joseph and Mary remained in Bethlehem after the birth, staying in the 'house' of Matthew 2:11, before eventually returning to Nazareth"
+      }
+    }
+  }
+}

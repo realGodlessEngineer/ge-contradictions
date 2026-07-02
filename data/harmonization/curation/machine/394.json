@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 394,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill reads Luke's 'returned to Galilee' as not immediate: the family went back to Bethlehem, awaited the magi, fled to Egypt, then settled at Nazareth.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "D. F. Strauss showed neither order works: Luke's forty-day timetable cannot fit the magi, flight, massacre, and return, so at most one series of events actually happened.",
+      "skeptic": {
+        "name": "David Friedrich Strauss",
+        "work": "The Life of Jesus Critically Examined",
+        "year": "1835 (German); 1846 Eng. trans. by George Eliot",
+        "attribution": "David Friedrich Strauss, The Life of Jesus Critically Examined, trans. George Eliot (1835/1846), § 37"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Luke 2:38",
+      "excerpt_text": "they returned into Galilee: not that they came from thence to Jerusalem, but from Bethlehem, where Mary gave birth, and her time for purification was now just expired: nor did they go now directly to Galilee; or, if they did, they soon came back again to Bethlehem, since here the wise men found them two years after; when by a divine warning, they went into Egypt, where they remained till Herod's death, and after came into the land of Israel, into the parts of Galilee, and dwelt at Nazareth …",
+      "full_note_ref": "GILL/42/2/38",
+      "on_tension_rationale": "Directly answers the itinerary tension by reading Luke's 'returned to Galilee' as non-immediate, inserting a return to Bethlehem, the magi's visit, and the Egypt flight before the eventual Nazareth settlement.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats this exact passage under 'Christ's infancy — order of events' (Matt. ii. 1-23 vs. Luke ii. 4-39), naming Strauss's objection and proposing the harmonizing order: presentation in the temple, then the magi, flight to Egypt, and settlement at Nazareth."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Jesus-birth.html",
+        "domain": "gotquestions.org",
+        "title": "Do the narratives of Jesus' birth contradict each other?",
+        "note": "live apologetic treatment arguing Luke 2:39 does not require an immediate return to Nazareth, leaving room for the Egypt flight"
+      }
+    }
+  }
+}

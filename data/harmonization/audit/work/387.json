@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 387,
+  "question": "Who was Jesus's paternal grandfather?",
+  "summary": "Matthew 1:16 names Jacob as the father of Joseph and therefore Jesus's paternal grandfather. Luke 3:23 names Heli as the father of Joseph. The two genealogies disagree on the most recent ancestor of Joseph, not just the distant ancestry.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Gill offers three fixes for the Jacob/Eli clash — same man, two fathers by marriage, or Luke naming Jesus's ancestry, not Joseph's.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Bart Ehrman argues stretching 'two names, one man' down mismatched fathers — Matthan/Matthat, Eleazar/Levi — is 'a bridge too far,' leaving Jacob and Heli irreconcilable.",
+    "skeptic": {
+      "name": "Bart D. Ehrman",
+      "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don't Know About Them)",
+      "year": "2009",
+      "attribution": "Bart D. Ehrman, Jesus, Interrupted (HarperOne, 2009)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats the Jacob-vs-Heli genealogy discrepancy directly under the harmonizing tradition (later editions run it at roughly pp. 325-326)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Jesus-genealogy.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why are Jesus' genealogies in Matthew and Luke so different?",
+        "note": "live apologetic treatment naming Jacob (Matthew) vs. Heli (Luke) and laying out both the levirate-marriage and Mary's-genealogy harmonizations"
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "387#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Matthew 1:16",
+      "full_note_ref": "GILL/40/1/16",
+      "excerpt_text": "It has created some difficulty with interpreters that Jacob should be here said to beget Joseph, when Joseph in Luke is said to be the son of Eli. Some have thought Joseph's father had two names, one was Jacob, and the other Eli; others take them to be two different persons, and suppose that Joseph was the natural son of the one, and the legal son of the other, either by marriage, or by adoption, or by the law of the brother's wife, Deu 25:5. But the truth of the matter is, that not Joseph, but Jesus, is by Luke called the son of Eli, as will be made to appear in its proper place.",
+      "on_tension_rationale": "States the Jacob/Eli naming conflict directly and surveys the era's standard harmonizations, landing on the 'Luke traces Jesus, not Joseph' reading that anchors the reconcile pole.",
+      "source_note_text": "And Jacob begat Joseph,.... According to an old tradition mentioned by (p) Epiphanins, this Jacob, the father of Joseph, was named Panther, and which name perhaps is originally Jewish; and it may be observed, that Joseph is sometimes called by the Jewish writers Pandera (q), and Jesus , the son of Pandira (r). It has created some difficulty with interpreters that Jacob should be here said to beget Joseph, when Joseph in Luke is said to be the son of Eli. Some have thought Joseph's father had two names, one was Jacob, and the other Eli; others take them to be two different persons, and suppose that Joseph was the natural son of the one, and the legal son of the other, either by marriage, or by adoption, or by the law of the brother's wife, Deu 25:5. But the truth of the matter is, that not Joseph, but Jesus, is by Luke called the son of Eli, as will be made to appear in its proper place. Joseph, who is here called the husband of Mary, because he not only espoused her, but, upon the advice and encouragement of the Angel, took her to be his wife, was, as is evident by this genealogy, of the house and lineage of David; though a mean and obscure person, and by trade a carpenter. Mary, which is the same name with Miriam in Hebrew, was a poor virgin that dwelt at Nazareth, a city of Galilee; yet also of the family of David, and belonged to the city of Bethlehem;\nof whom was born Jesus who is called Christ, or Messiah; being that illustrious person, who was spoken of by the Prophets of the Old Testament under that name, and whom the Jews expected. We may learn from hence, what a low condition the family of David was in, when the true Messiah came; according to ancient prophecy, it was like a stump of a tree, or like to a tree cut down to the root, Isa 11:1 and Christ who sprung from it was like a root out of a dry ground, Isa 53:2. From the whole of this genealogy it appears, that Jesus was of the seed of Abraham, of the tribe of Judah, and of the family of David; whereby several ancient prophecies have their accomplishment, and therefore he ought to be acknowledged as the true Messiah: and also that he was of the blood royal, and had his descent from the kings of Judah, and was heir apparent to the throne and kingdom of his father David. The Talmudic Jews own that Jesus, or Jesu, as they call him, was put to death because he (s), \"was nigh to the kingdom\", or nearly related to it. Yea, even in that malicious book (t) they have written of his life, they represent him as akin to queen Helena, who they say, on that account, would have saved his life. And this was so clear a point, and their forefathers were so thoroughly convinced of this matter, that they would have took him by force and made him a king, Joh 6:15 but his kingdom was to be of another kind, a spiritual, and not a temporal one.\n(p) Contra Haeres. l. 3. Haeres. 78. (q) Toldos Jesu, p. 3. (r) T. Hieros. Avoda Zara, fol. 40. 4. T. Bab. Sabbat, fol. 14. 2. & Midrash Kohelet, fol. 81. 1. (s) T. Bab. Sanhed. fol. 43. 1. (t) Toldos Jesu, p. 10."
+    }
+  ]
+}

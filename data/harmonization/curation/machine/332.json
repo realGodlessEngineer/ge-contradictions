@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 332,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the two censuses as registers taken years apart, where deaths and late arrivals shift a family's headcount even when the family names match exactly.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible sets Ezra's 139 against Nehemiah's 138 for 'the children of the porters' as one more numerical contradiction between the two return-from-exile rosters.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How many children of the porters returned from Babylon?\" (skepticsannotatedbible.com/contra/porters.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"How many children of the porters returned from Babylon?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Nehemiah 7:6",
+      "excerpt_text": "the same account is given of persons and families as there, with some little difference of numbers and names; in some instances there are more in this list, in others fewer, which may be thus accounted for; that list was made in Babylon, when, upon the edict of Cyrus, the Jews, who intended to go up with Zerubbabel, gave in their names, and they were registered; but this was made when they came to Jerusalem; now some of those that gave in their names changed their minds, and tarried in Babylon, and some might die by the way, which makes the numbers fewer in some instances; and others who did not give in their names at first, but, being better disposed towards their own country, followed after and joined those which were returning, and increased the number of others …",
+      "full_note_ref": "GILL/16/7/6",
+      "on_tension_rationale": "Directly answers the porters' 139-vs-138 gap: attributes the numeric slippage between the Babylon roster and the Jerusalem roster to deaths, defections, and late joiners, even where (as with the porters) the family names in both lists are identical. Truncated before the note's separate aside on name-variance (Bani/Binnui-type cases), which is off-tension for this purely numeric pair.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley names the Arah head-count variant (Ezra 2:5 vs Neh 7:10) explicitly, then extends the same verdict to 'the other cases, some twenty in number, which appear from a comparison of Ezra ii. 6-60, with Neh. vii. 11-67'--which spans the porters' row at Ezra 2:42 / Neh 7:45--stating they 'are to be explained in the same manner,' i.e., copyists' blunders, not conflicting facts."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/why-are-the-statistics-in-ezra-2-and-nehemiah-7-different/",
+        "domain": "carm.org",
+        "title": "CARM: Why are the statistics in Ezra 2 and Nehemiah 7 different?",
+        "note": "live apologetic treatment of the same clan-by-clan variance (notes 17 of 39 matched entries disagree)"
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "contradiction_id": 339,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry's own comment on Romans 1:19 invokes Job 11:7-9 directly, distinguishing what of God may be apprehended from nature from what can never be fully comprehended.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible sets Romans 1:20's claim that God is 'clearly seen' and leaves people 'without excuse' directly against Job 11:7's denial that searching can find God out, filing the pairing as an unresolved contradiction under this exact question.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/reason.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Romans 1:19",
+      "excerpt_text": "The being of God may be apprehended, but cannot be comprehended. We cannot by searching find him out, Job 11:7-9. Finite understandings cannot perfectly know an infinite being; but, blessed be God, there is that which may be known, enough to lead us to our chief end, the glorifying and enjoying of him; and these things revealed belong to us and to our children, while secret things are not to be pried into, Deu 29:29.",
+      "full_note_ref": "MHC/45/1/19",
+      "on_tension_rationale": "Henry's own Romans commentary quotes Job 11:7-9 by name and resolves the apparent clash by distinguishing what of God may be apprehended (enough for worship, drawn from nature) from what can never be fully comprehended (Job's point), directly bridging the two texts.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Romans 1:19",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry's own note on Romans 1:19 explicitly cites Job 11:7-9 and works the apprehend/comprehend distinction that resolves this specific pairing. (John Haley's Alleged Discrepancies of the Bible was checked directly via full-text search on the archive.org djvu.txt -- for 'Zophar', 'find out God/the Almighty', and 'eternal power and Godhead' / 'without excuse' -- and does not treat this passage at all, so Henry is used per the contract's fallback clause.)"
+      },
+      "link": null
+    }
+  }
+}

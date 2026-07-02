@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 398,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Henry treats the two forms as one substance in two functions — the same voice serving as public notification to John and a direct answer to Jesus's own prayer.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman presses the difference as real: Mark's voice addresses Jesus privately, while Matthew's third-person wording announces him publicly to the crowd.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (and Why We Don't Know About Them)",
+        "year": "2009",
+        "attribution": "Bart D. Ehrman, Jesus, Interrupted (HarperOne, 2009), pp. 39-40"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Luke 3:21",
+      "excerpt_text": "Here, and in Mark, it is expressed as spoken to Christ; in Matthew as spoken of him: This is my beloved Son. It comes all to one; it was intended to be a notification to John, and as such was properly expressed by, This is my beloved Son; and likewise an answer to his prayer, and so it is most fitly expressed by. Thou art.",
+      "full_note_ref": "MHC/42/3/21",
+      "on_tension_rationale": "Directly names both forms of the heavenly voice (Matthew's third-person 'This is' vs Mark/Luke's second-person 'Thou art') and argues they are one substance suited to two different narrative purposes, which is precisely this contradiction's tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley lists Matt. 3:17, Mark 1:11, and Luke 3:22 verbatim side by side under the heading 'Forms of report. Different.' (Doctrinal Discrepancies, pp. 153-154) and concludes that 'in each the fundamental idea is preserved under all the various forms ... precisely what the sacred writers intended.'"
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page was found treating this specific 'This is'/'Thou art' wording difference (distinct from the separate Luke 3:22 'begotten you' textual-variant question addressed on carm.org); link omitted rather than guessed."
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 386,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Traditional commentators read Solomon's royal line as failing and its legal right passing to Nathan's branch, uniting both lists in Jesus.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Thomas Paine pressed the two lists as flatly incompatible, sharing only David and Joseph's names, concluding one evangelist must be speaking falsehood.",
+      "skeptic": {
+        "name": "Thomas Paine",
+        "work": "The Age of Reason, Part the Second",
+        "year": "1795",
+        "attribution": "Thomas Paine (d. 1809), The Age of Reason, Part the Second (1795)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Luke 3:21",
+      "excerpt_text": "The difference between the two evangelists in the genealogy of Christ has been a stumbling-block to infidels that cavil at the word, but such a one as has been removed by the labours of learned men, both in the early ages of the church and in latter times, to which we refer ourselves. Matthew draws the pedigree from Solomon, whose natural line ending in Jechonias, the legal right was transferred to Salathiel, who was of the house of Nathan, another son of David, which line Luke here pursues, and so leaves out all the kings of Judah.",
+      "full_note_ref": "MHC/42/3/21",
+      "on_tension_rationale": "Names Solomon (Matthew's line) and Nathan (Luke's line) as the two Davidic sons in question and offers the legal-succession harmonization, while explicitly flagging the divergence as one skeptics ('infidels') have pressed.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats the Matthew/Luke genealogies directly, addressing the Solomon-versus-Nathan divergence under the harmonizing tradition."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Jesus-genealogy.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why are Jesus' genealogies in Matthew and Luke so different?",
+        "note": "live apologetic treatment of the Solomon/Nathan divergence"
+      }
+    }
+  }
+}

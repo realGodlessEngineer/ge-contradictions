@@ -48,7 +48,7 @@ const GLUE = 'sonnet' // model for the mechanical runner steps
 //   FORCE_BATCH = 3      -> only the id window for batch 3 ([(3-1)*count+1 .. 3*count])
 //   FORCE_IDS  = [a,b,..] -> only these explicit ids
 //   both null            -> see scope resolution below (FINALIZE-ONLY unless args.auto)
-const FORCE_BATCH = 3
+const FORCE_BATCH = null
 const FORCE_IDS = null
 
 // PAUSE THE AUDIT: when true, the run stops cleanly right after the verbatim
@@ -57,7 +57,7 @@ const FORCE_IDS = null
 // MODE=select rebuilds all work files from current machine files on a later run,
 // so the audit is fully deferrable: flip this back to false and resume/relaunch
 // to run the audit over the already-transformed batch.
-const SKIP_AUDIT = true
+const SKIP_AUDIT = false
 
 // OPT-IN, DEFAULT-OFF dossier sidecar leg ("T9" — see TRANSFORM_SPEC.md's
 // "Dossier sidecar leg — note + verse_pair (going forward)" section). When
@@ -271,7 +271,7 @@ phase('Audit-select')
 const sel = await agent(
   `Prepare and run the harmonization audit selection. Use the Bash tool from the repo root:\n` +
   `  mkdir -p ${base} && cp -n data/harmonization/deeper_learning_policy.json ${base}/ 2>/dev/null; true\n` +
-  `  MACHINE_DIR=${MACHINE_DIR} GATHER_DIR=${GATHER_DIR} AUDIT_DIR=${AUDIT_DIR} HARMON_BASE=${base} REF_DB=./bible_reference.db MODE=select python .scripts/auditHarmonization.py\n` +
+  `  MACHINE_DIR=${MACHINE_DIR} GATHER_DIR=${GATHER_DIR} AUDIT_DIR=${AUDIT_DIR} HARMON_BASE=${base} REF_DB=./bible_reference.db IDS=${targetIds.join(',')} MODE=select python .scripts/auditHarmonization.py\n` +
   `It should report a clean floor and write ${AUDIT_DIR}/_sample.json plus ${AUDIT_DIR}/work/*.json. Then read ${AUDIT_DIR}/_sample.json for the sampled contradiction ids, and list existing verdicts:\n` +
   `  ls ${AUDIT_DIR}/verdicts/*.ppf ${AUDIT_DIR}/verdicts/*.json 2>/dev/null | sed 's#.*/##; s#\\.[^.]*$##' | sort -nu\n` +
   `Return {sampled_ids, work_files, verdict_ids} (verdict_ids may be empty).`,
@@ -307,7 +307,7 @@ log(`auditor: ${auResults.filter(r => r.wrote_ppf).length}/${toAudit.length} new
 phase('Report')
 const rep = await agent(
   `Generate the cumulative harmonization audit report. Use the Bash tool from the repo root:\n` +
-  `  MACHINE_DIR=${MACHINE_DIR} GATHER_DIR=${GATHER_DIR} AUDIT_DIR=${AUDIT_DIR} HARMON_BASE=${base} REF_DB=./bible_reference.db MODE=report python .scripts/auditHarmonization.py\n` +
+  `  MACHINE_DIR=${MACHINE_DIR} GATHER_DIR=${GATHER_DIR} AUDIT_DIR=${AUDIT_DIR} HARMON_BASE=${base} REF_DB=./bible_reference.db IDS=${targetIds.join(',')} MODE=report python .scripts/auditHarmonization.py\n` +
   `Then read ${AUDIT_DIR}/audit_summary.json and ${base}/AUDIT-report.md. Return done:true plus the overall pass/flag/fail excerpt counts and a short summary string of the guardrail tallies.`,
   { agentType: 'general-purpose', label: 'report', phase: 'Report', model: GLUE, schema: REPORT }
 )

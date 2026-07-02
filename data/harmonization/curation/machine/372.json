@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 372,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill reads Jesus' question as revealing two natures in one person: truly David's son by descent, yet David's Lord by a higher nature.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharpest reading is Wilhelm Wrede's: Jesus posed this very question, he argued, because he himself was not in fact a descendant of David.",
+      "skeptic": {
+        "name": "William Wrede",
+        "work": "Jesus als Davidssohn",
+        "year": "1907",
+        "attribution": "William Wrede (1859-1906), \"Jesus als Davidssohn,\" in Vorträge und Studien (Tübingen: Mohr Siebeck, 1907), 147-77"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Mark 12:35",
+      "excerpt_text": "David, whose son you say the Messiah is, speaks of him as one superior to himself; as Lord, and as his Lord: whence is he then his son? … Our Lord meant by this, to observe to them, that the Messiah was God, as well as man; that he was not merely the son of David, as was commonly received, or a mere man, but that he had a superior nature, in which he was David's Lord, and even Lord of all.",
+      "full_note_ref": "GILL/41/12/35",
+      "on_tension_rationale": "States the David's-son/David's-Lord puzzle from Mark 12:35-37 and resolves it via a two-natures Christology, the classic harmonization the contradiction claim denies is available.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714), on Mark 12:35",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this exact pericope, arguing the scribes taught truly that Messiah is David's son but failed to also teach he is David's Lord and Son of God — both hold together."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Jesus-son-of-David.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does it mean that Jesus is the son of David?",
+        "note": "live apologetic treatment of the David's-son/David's-Lord puzzle in Mark 12:35-37 / Matthew 22:41-46"
+      }
+    }
+  }
+}

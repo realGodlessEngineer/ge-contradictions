@@ -1,0 +1,57 @@
+{
+  "contradiction_id": 390,
+  "question": "Was Joseph the father of Jesus?",
+  "summary": "Acts 2:30, Acts 13:23, Romans 1:3, 2 Timothy 2:8, Hebrews 2:16, and Revelation 22:16 all describe Jesus as physically descended from David 'according to the flesh.' Davidic descent in this canon runs exclusively through Joseph (Matt 1:6-16; Luke 3:23-31 both trace it through him). But Matthew 1:18-25 and Luke 1:31-35 say Mary conceived by the Holy Spirit and Joseph was not the biological father. If Joseph wasn't the father, the Davidic descent claim has no biological mechanism.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Gill locates the biological Davidic line in Mary herself, reading 'of the fruit of his loins' as fulfilled through her rather than through Joseph's paternity.",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Strauss presses the sharper point: the genealogies exist to prove Davidic descent through Joseph, so denying his paternity nullifies that very claim.",
+    "skeptic": {
+      "name": "D. F. Strauss",
+      "work": "The Life of Jesus Critically Examined",
+      "year": "1846",
+      "attribution": "D. F. Strauss (d. 1874), The Life of Jesus Critically Examined (1846)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's chapter on Christ's genealogy (Matt 1:16 vs Luke 3:23) argues Luke actually records Mary's own descent from David through Heli, so Jesus was David's descendant 'not only legally, through his reputed father, but actually, by direct personal descent, through his mother.'"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Mary-lineage.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What was Mary's lineage?",
+        "note": "argues Luke 3:23-38 records Mary's own descent from David through Heli, giving Jesus a biological Davidic line independent of Joseph's paternity"
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "390#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Acts 2:30",
+      "full_note_ref": "GILL/44/2/30",
+      "excerpt_text": "that of the fruit of his loins; of one that should be of his seed, that should spring from him, even the Virgin Mary, who was of the house and lineage of David: according to the flesh, he would raise up Christ …",
+      "on_tension_rationale": "Gill reads the 'fruit of his loins ... according to the flesh' language of Acts 2:30 as fulfilled through Mary's own Davidic lineage, supplying the biological mechanism the summary says is missing once Joseph is excluded as father.",
+      "source_note_text": "Therefore being a prophet,.... Who could foretell things to come, as he did many things concerning the sufferings and death of Christ, and the circumstances attending it, concerning his resurrection, ascension, and session at the right hand of God. So the title of his \"Psalms\", in the Syriac version, runs thus; the \"Book of the Psalms of David, King and Prophet\": and in the Arabic version, \"the First Book of the Psalms of David the Prophet, King of the Children of Israel\". Though the Jews (d) will not allow him, nor Solomon, nor Daniel, to be strictly and properly prophets, they make a difference between prophecy, and the Holy Spirit. They own, that the book of Psalms was written under the influence of the Holy Spirit, but not by prophecy; and therefore they place it among the Hagiographa, or holy writings, but not among the Prophets: though after all, Kimchi allows David to be a prophet, since he is called a man of God; for he says this name is not said of any but , \"of a prophet\" (e); and Peter is right in calling him so:\nand knowing that God had sworn with an oath to him; as he did in Psa 132:11.\nthat of the fruit of his loins; of one that should be of his seed, that should spring from him, even the Virgin Mary, who was of the house and lineage of David:\naccording to the flesh, he would raise up Christ; would send him forth, according to the human nature; for this phrase respects not his resurrection from the dead, but his incarnation or exhibition in the flesh, as in Act 3:26. This clause is wanting in the Vulgate Latin, Syriac, and Ethiopic versions, and in the Alexandrian copy, and should be read in a parenthesis; since it is not in the text in Psa 132:11.\nto sit on his throne; on the throne of David his father; see Gill on Luk 1:32.\n(d) Maimon. More Nevochim, par. 2. c. 45. Vid. Procop. Gazaeum in Reg. l. 2. c. 23. sect. 2. (e) Kimchi Praefat. ad Psalm."
+    }
+  ]
+}

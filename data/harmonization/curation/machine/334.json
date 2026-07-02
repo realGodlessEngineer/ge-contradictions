@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 334,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Keil and Delitzsch trace the 200-vs-245 gap to a probable copying slip — a scribe's eye jumping ahead to the 245 camels of the next verse.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible lists this as a flat contradiction — 200 singers in Ezra against 245 in Nehemiah — with no harmonizing gloss of its own.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), \"How many singing men and women returned from Babylon?\" (skepticsannotatedbible.com/contra/singers.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Ezra 2:65",
+      "excerpt_text": "In stead of 200, we find both in Nehemiah and 1 Esdras the number 245, which probably crept into the text from the transcriber fixing his eye upon the 245 of the following verse.",
+      "full_note_ref": "KD/15/2/64",
+      "on_tension_rationale": "Directly names the exact 200-vs-245 singers gap between Ezra 2:65 and Nehemiah 7:67 (citing 1 Esdras too) and proposes a specific scribal-error mechanism, treating the difference as a transmission fault rather than two conflicting original figures.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Ezra 2:64-65 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-75",
+        "note": "Haley's specific-passage coverage of the singers count could not be confirmed — his blanket statement covers the family-clan totals compared across Ezra 2:6-60/Neh 7:11-67, not the singers line at Ezra 2:65 by name — so the row's own harmonizing commentator is used instead: K&D name the exact 200-vs-245 gap and attribute it to a copyist's eye catching the '245' of the following verse (the camel count)."
+      },
+      "link": {
+        "url": "https://carm.org/why-are-the-statistics-in-ezra-2-and-nehemiah-7-different",
+        "domain": "carm.org",
+        "title": "CARM: Why are the statistics in Ezra 2 and Nehemiah 7 different?",
+        "note": "live apologetic treatment of the Ezra 2/Nehemiah 7 numeric variance (this is the same page SAB's own singers.html links to as the Christian response), the singers count among the entries that do not match"
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 377,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Jamieson, Fausset & Brown read the OT refusals as answers to hypocritical, idol-tainted prayer, not to the sincere calling Joel and Paul promise will save.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible sets Joel/Acts/Romans's unconditional 'whosoever' flatly against Matthew, Jeremiah, Ezekiel, and Micah's refusals, with no harmonizing gloss offered.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/call_on.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Jeremiah 14:12",
+      "excerpt_text": "not hear--because their prayers are hypocritical: their hearts are still idolatrous. God never refuses to hear real prayer (Jer 7:21-22; Pro 1:28; Isa 1:15; Isa 58:3).",
+      "full_note_ref": "JFB/24/14/12",
+      "on_tension_rationale": "States the harmonizing principle that resolves the whole cluster: the OT refusal texts describe hypocritical/idolatrous cries, not the sincere calling Joel/Acts/Romans promise will be heard.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), \"Piety Evinced\" (Ethical Discrepancies, p. 231)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley pairs Matthew 7:21 (and Luke 6:46) directly against 1 Corinthians 12:3, ruling that the 'Lord, Lord' of the rejected is 'mere lip-service,' not the 'hearty and spontaneous confession' Paul means -- the same distinguishing move this row's commentators apply to the wider Joel/Acts/Romans-vs-Jeremiah/Ezekiel/Micah cluster."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/whoever-calls-name-Lord-saved.html",
+        "domain": "gotquestions.org",
+        "title": "What does it mean that \"whoever calls on the name of the Lord shall be saved\" (Joel 2:32; Romans 10:13)?",
+        "note": "Live apologetic treatment of the promise-side texts (Joel/Acts/Romans); argues calling on the Lord is more than verbal utterance, but does not itself cross-reference Matthew 7:21/Jeremiah 14:12/Ezekiel 8:18/Micah 3:4."
+      }
+    }
+  }
+}

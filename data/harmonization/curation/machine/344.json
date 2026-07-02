@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 344,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read Zion and heaven as two senses of one presence: heaven the seat of God's glory, Zion the seat of his gracious nearness.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible lists these Zion-dwelling and heaven-dwelling verses side by side as a flat, unreconciled contradiction about God's residence.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Where does God dwell?\" (skepticsannotatedbible.com/contra/zion.html)",
+        "year": "2001",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/zion.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Psalm 9:11",
+      "excerpt_text": "As the special residence of his glory is in heaven, so the special residence of his grace is in his church, of which Zion was a type.",
+      "full_note_ref": "MHC/19/9/11",
+      "on_tension_rationale": "Directly reconciles the Zion-vs-heaven tension by distinguishing two senses of divine presence -- the 'special residence of glory' (heaven, matching Ps 123:1/Eccl 5:2) from the 'special residence of grace' (Zion/church, matching Ps 9:11, 76:2, 132:13-14, Joel 3:17,21) -- naming Zion a 'type' rather than a literal rival location.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874), section \"Dwells in heaven. Dwells in Zion.\" (p. 103)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley sets Psalm 123:1 (\"dwellest in the heavens\") directly against Psalm 9:11 and 76:2 (\"dwelleth in Zion\"/\"his dwelling-place in Zion\") under this exact heading and resolves it through the doctrine of omnipresence: \"An omnipresent Being may do both -- dwell in eternity, and with men too... To a mind capable of comprehending the meaning of the term 'omnipresence' these texts are seen to be in perfect harmony,\" citing \"Do not I fill heaven and earth? saith the Lord\" (Jer 23:24)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/presence-omnipresence.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: If God is omnipresent, then what is special about being in the presence of God?",
+        "note": "live apologetic treatment distinguishing God's all-pervading omnipresence from his manifest/special presence -- the same mechanism used to reconcile 'dwells in heaven' with 'dwells in Zion'"
+      }
+    }
+  }
+}

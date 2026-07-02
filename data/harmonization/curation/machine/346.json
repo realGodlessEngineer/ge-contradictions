@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 346,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry reconciles both sides: calling someone a fool is sinful only when driven by malice, not by truthful, well-meant rebuke.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses the point head-on: David, Jesus, and Paul call people fools, yet Matthew 5:22 threatens hellfire for it.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible — \"Is it OK to call someone a fool?\"",
+        "year": "1999 (site); 2013 (print ed.)",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, \"Is it OK to call someone a fool?\" (skepticsannotatedbible.com, est. 1999; print ed. 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Matthew 5:21",
+      "excerpt_text": "When this is done with mildness and for a good end, to convince others of their vanity and folly, it is not sinful. Thus James says, O vain man; and Paul, Thou fool; and Christ himself, O fools, and slow of heart. But when it proceeds from anger and malice within, it is the smoke of that fire which is kindled from hell, and falls under the same character.",
+      "full_note_ref": "MHC/40/5/21",
+      "on_tension_rationale": "Directly answers the SAB tension: Henry names the same 'fool' language from James, Paul, and Christ that the contradiction lists as 'sanctioned,' and explains why it does not conflict with Matt 5:22's prohibition — the sin is malice, not the word.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874), \"Ethical Discrepancies — Epithets of Opprobrium,\" p. 277",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley sets Matt 5:22 (\"forbidden\") directly against Matt 23:17, Luke 24:25, 1 Cor 15:36, and Gal 3:1 (\"their use sanctioned\") under the heading 'Epithets of opprobrium,' then resolves it: 'the spirit rather than the words is aimed at in the prohibition. That is, we are not prohibited calling men \"fools\" considerately and appropriately; we are forbidden to do so in the spirit of malevolent contempt.'"
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/matthew-5-22-can-we-call-someone-a-fool-or-not/",
+        "domain": "carm.org",
+        "title": "CARM: Matthew 5:22, can we call someone a fool or not?",
+        "note": "live apologetic treatment arguing the prohibition targets unrighteous anger, not truthful judgment of foolishness"
+      }
+    }
+  }
+}

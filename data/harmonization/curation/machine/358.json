@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 358,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Jamieson, Fausset & Brown resolve the tension by confining Ecclesiastes' grief to speculative human inquiry, not to wisdom as such — the sense Proverbs commends.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses the plain wording: Proverbs calls the wisdom-finder happy while Ecclesiastes says increasing wisdom only increases sorrow.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Does wisdom make people happy?\" (skepticsannotatedbible.com/contra/wisdom_happy.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Does wisdom make people happy?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Ecclesiastes 1:18",
+      "excerpt_text": "wisdom . . . knowledge--not in general, for wisdom, &c., are most excellent in their place; but speculative knowledge of man's ways (Ecc 1:13, Ecc 1:17), which, the farther it goes, gives one the more pain to find how \"crooked\" and \"wanting\" they are (Ecc 1:15; Ecc 12:12).",
+      "full_note_ref": "JFB/21/1/18",
+      "on_tension_rationale": "Directly reconciles Ecclesiastes' grief-language with Proverbs' 'happy' by restricting Ecc 1:18's complaint to speculative human inquiry into the world's crookedness, not to wisdom in general — the sense Proverbs commends.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714), on Ecclesiastes 1:12-18",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this passage directly and at length, concluding that worldly, speculative learning brings grief while 'he that increases in heavenly wisdom...increases joy,' so Ecclesiastes and Proverbs speak of different kinds of wisdom rather than contradicting each other. (Haley's full text contains no treatment of Ecclesiastes 1:18 or this pairing with Proverbs 3:13; per spec a row-surfaced harmonizing commentator keyed to the passage is used instead.)"
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Ecclesiastes_1.18.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in Ecclesiastes 1:18?",
+        "note": "live apologetic treatment distinguishing wisdom pursued 'under the sun' from wisdom grounded in the fear of the Lord"
+      }
+    }
+  }
+}

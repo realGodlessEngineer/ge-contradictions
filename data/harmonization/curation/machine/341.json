@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 341,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read the wisdom sayings as claims about final, eternal outcome rather than literal life-span promises, so Job's observation and the maxims coexist.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible catalogs this verse set, framing Job's admission against the wisdom books' insistence that the wicked's days are cut short.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/wicked_livelong.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Ecclesiastes 8:13",
+      "excerpt_text": "neither shall he prolong--not a contradiction to Ecc 8:12. The \"prolonging\" of his days there is only seeming, not real. Taking into account his eternal existence, his present days, however seemingly long, are really short. God's delay (Ecc 8:11) exists only in man's short-sighted view.",
+      "full_note_ref": "JFB/21/8/13",
+      "on_tension_rationale": "JFB explicitly denies a contradiction between the sinner's apparent long life and the claim his days are cut short, resolving it via a real/apparent and temporal/eternal distinction -- this is the exact mechanism harmonizers use for the whole cluster (Job's this-life report vs. the wisdom books' shortened-days maxims).",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Job 21:7",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry's extended note on Job 21:7 directly engages this tension -- conceding the wicked's real this-life prosperity against the friends' (and by extension, the wisdom tradition's) claims, and resolving it by appeal to a future 'world of retribution.' Haley's Examination of the Alleged Discrepancies of the Bible does not treat Job 21 or this verse cluster (confirmed by a full-text search of the archive.org djvu.txt of examinationofall00hale -- no hits for 'Job xxi', 'wicked prosper', or related phrases), so the contract's named alternative (a harmonizing commentator already surfaced on the row, keyed to the passage) is used instead."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/why-do-the-wicked-prosper.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why do the wicked prosper?",
+        "note": "live apologetic treatment of Job 21:7's core tension, arguing the wicked's prosperity is real but temporary/this-worldly against their eventual judgment"
+      }
+    }
+  }
+}

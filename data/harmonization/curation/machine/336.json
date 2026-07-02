@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 336,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Adam Clarke gives the standard harmonization: 'son of Iddo' in Ezra means grandson, since Zechariah 1:1 itself names his father as Berechiah.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses the point directly: two passages call Zechariah 'the son of Iddo,' a third makes Berechiah the intervening generation.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/iddo.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Ezra 5:1",
+      "excerpt_text": "The son of Iddo - That is, the grandson of Iddo; for Zechariah was the son of Barachiah, the son of Iddo. See his prophecy, Zac 1:1 (note).",
+      "full_note_ref": "CLARKE/15/5/1",
+      "on_tension_rationale": "Clarke states directly, on the disputed phrase itself, that Ezra's 'son of Iddo' means grandson, cross-referencing Zechariah's own genealogy naming Berechiah as the intervening father — this is the exact harmonization the contradiction turns on.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on Ezra 5:1",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact genealogy directly, identifying Zechariah as Iddo's grandson via the intervening Berechiah. Confirmed via full-text search of Haley's Examination of the Alleged Discrepancies of the Bible (1874) that Haley has no entry mentioning Iddo, Berechiah, or Barachiah, so the row's own harmonizing commentator is used per the contract's named fallback."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/prophet-Zechariah.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who was the prophet Zechariah in the Bible?",
+        "note": "Directly addresses the 'son vs. grandson of Iddo' discrepancy between Ezra and Zechariah 1:1; confirmed live and on-topic."
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 367,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Adam Clarke reads Paul's \"everlasting destruction\" as an eternal conscious state under judgment, not extinction of being.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Historian Bart Ehrman argues the Bible preserves genuinely incompatible afterlife views: Sheol's finality, Daniel's resurrection, an annihilationist strand in Jesus and Paul, and Revelation's eternal torment.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Heaven and Hell: A History of the Afterlife",
+        "year": "2020",
+        "attribution": "Bart D. Ehrman, Heaven and Hell: A History of the Afterlife (New York: Simon & Schuster, 2020)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "2 Thessalonians 1:9",
+      "excerpt_text": "It is not annihilation, for their being continues; and as the destruction is everlasting, it is an eternal continuance and presence of substantial evil, and absence of all good …",
+      "full_note_ref": "CLARKE/53/1/9",
+      "on_tension_rationale": "Directly rejects the annihilationist reading of 'everlasting destruction,' asserting the wicked's conscious existence continues forever under judgment — the reconcile pole's core move, reading the destruction texts as compatible with eternal conscious torment rather than the Sheol/annihilation strands.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley's chapter 'Future Punishment — Its Nature' directly rebuts the annihilationist reading of 2 Thessalonians 1:9 and the row's other 'perish/destroy/consume/cut off' texts (Daniel 12:2, Matthew 13:41-42, 22:13, 25:41, Mark 9:43-48, Revelation 14:10-11, 20:15), arguing at length that none of them require extinction of consciousness."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/annihilationism.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Is annihilationism biblical?",
+        "note": "Live apologetic defense of eternal conscious punishment against the annihilationist reading of destruction/perish language that this row's reconcile excerpt also rejects."
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 363,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Keil & Delitzsch reject predestination to evil outright, reading the 'vessels of wrath' of Romans 9:22 as self-chosen wickedness God ratifies, not authors.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells' Skeptic's Annotated Bible catalogs this exact verse set as a contradiction, captioned 'Does God want some to go to hell?'",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/all_saved.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Proverbs 16:4",
+      "excerpt_text": "A praedestinatio ad malum, and that in the supralapsarian sense, cannot be here taught, for this horrible dogma (horribile quidem decretrum, fateor, says Calvin himself) makes God the author of evil, and a ruler according to His sovereign caprice, and thus destroys all pure conceptions of God. What Paul, Rom 9, with reference to Exo 9:16, wishes to say is this, that it was not Pharaoh's conduct that determined the will of God, but that the will of God is always the antecedens: nothing happens to God through the obstinacy and rebellion of man which determines Him to an action not already embraced in the eternal plan, but also such an one must against his will be subservient to the display of God's glory.",
+      "full_note_ref": "KD/20/16/4",
+      "on_tension_rationale": "Explicitly denies that God predestines anyone to evil/damnation (the doctrine that would confirm the discrepancy pole) and reframes Romans 9:22's 'vessels of wrath' as ratifying self-caused wickedness within God's plan, not a positive divine desire to damn -- directly on the question 'does God want some to go to hell.'",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Proverbs 16:4 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-75",
+        "note": "K&D treat this exact tension on Proverbs 16:4 itself, explicitly rejecting predestination-to-evil and tying the verse to Romans 9:22's vessels of wrath as ratified self-determination rather than divine desire to damn. John Haley's Examination of the Alleged Discrepancies was checked via full-text search: he covers the adjacent 'God hardens hearts' discrepancy (citing John 12:40 and Romans 9:18, with Barnes/Alford/Delitzsch quotes reading hardening as withdrawal of grace) but does not address the will-to-save-all/vessels-of-wrath cluster (1 Tim 2:4, 2 Pet 3:9, Prov 16:4, Rom 9:22, 2 Thess 2:11-12) this entry turns on, so the row's own harmonizing commentator is used instead."
+      },
+      "link": {
+        "url": "https://carm.org/universalism/1-tim-24-2-pet-39-and-universalism/",
+        "domain": "carm.org",
+        "title": "CARM: 1 Tim. 2:4, 2 Pet. 3:9, and Universalism",
+        "note": "live apologetic treatment reconciling both universal-will texts (1 Tim 2:4, 2 Pet 3:9) with the doctrine of particular/effectual grace"
+      }
+    }
+  }
+}

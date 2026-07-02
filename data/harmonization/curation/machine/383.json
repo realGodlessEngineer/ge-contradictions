@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 383,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill argues both animals were literally brought and dressed with garments, so Matthew's plural \"them\" need not mean Jesus rode both at once.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman presses the sharper reading: Matthew literalized Zechariah's Hebrew parallelism into two real animals, with Jesus straddling both as he rode into the city.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible",
+        "year": "2009",
+        "attribution": "Bart D. Ehrman, Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (HarperOne, 2009), p. 50"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 21:7",
+      "excerpt_text": "And brought the ass and the colt,.... To Jesus, as Mark and Luke add, and who only make mention of the colt: both were undoubtedly brought; the colt being unloosed and taken away, the ass, its dam, followed after: … and they sat him thereon, or \"on them\": meaning either on the ass and colt, that is, on one of them, or both successively, or on the clothes they put upon them.",
+      "full_note_ref": "GILL/40/21/7",
+      "on_tension_rationale": "Gill names the exact tension (Mark and Luke mention only the colt) and glosses Matthew's 'sat...on them' as meaning one animal, both successively, or the garments — a direct harmonization of the two-animal wording with the single-colt Synoptic/Johannine accounts.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley prints the parallel Matt 21:2-3 / Mark 11:2-3 / Luke 19:30-31 accounts of sending for the ass and colt and dismisses the alleged one-or-two-animals discrepancy as ordinary variation among independent witnesses — the same tension the riding scene in Matt 21:5-7 raises."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Matthew_21.2_(cf._Mark_11.2;_Luke_19.30).php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Is there a Bible contradiction in Matthew 21:2 (cf. Mark 11:2; Luke 19:30)?",
+        "note": "Live apologetic treatment arguing both animals were present but Jesus rode only the colt, the mother accompanying as a calming presence."
+      }
+    }
+  }
+}

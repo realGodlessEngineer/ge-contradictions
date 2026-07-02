@@ -1,6 +1,6 @@
 ---
 name: project_harmonization_transform_ezra_nehemiah_cluster
-description: TRANSFORM (machine-excerpt) leg reusable pattern for the Ezra 2 / Nehemiah 7 census-list contradiction cluster (ids ~318-330); worked ids 326 (Adin), 325 (Bigvai) — Haley coverage correction
+description: TRANSFORM (machine-excerpt) leg reusable pattern for the Ezra 2 / Nehemiah 7 census-list contradiction cluster (ids ~318-330, plus adjacent ids 331/333); worked ids 326 (Adin), 325 (Bigvai) — Haley coverage correction; 333 (Delaiah/Tobiah/Nekoda), 331 (Asaph's singers) — SAB-as-skeptic confirmed, GILL/16/7/6 reconcile excerpt reused
 metadata:
   type: project
 ---
@@ -66,6 +66,75 @@ verse/clan-number differs per id.
   — a live, general (not clan-specific) CARM apologetics page covering the whole
   Ezra-2-vs-Nehemiah-7 variance; reusable across every id in the cluster, confirmed live via
   WebSearch result listing both for id 330 and again independently for id 326.
+
+## Adjacent id 333 (Delaiah/Tobiah/Nekoda, Ezra 2:60 vs Neh 7:62, 652 vs 642) — worked 2026-07-02
+Not in the 318-330 clan-total range (that's the 33-clan list at Ezra 2:3-35); this is the
+separate "could not prove Israelite descent" combined-family entry at Ezra 2:59-60/Neh
+7:61-62, so its `gather/by_id/333.json` carries a **different** note set (GILL, JFB, CLARKE,
+KD, MHC, TYN, GNV on 2:59-62/7:5-6, no JFB general note on Neh 7:5 this time) — don't assume
+the 326/330 JFB excerpt is present; check per-id.
+- **Reconcile excerpt**: no clan-specific reconciling note existed, but **GILL/16/7/6**
+  (Nehemiah 7:6, block-anchored) is a general Ezra-2-vs-Nehemiah-7 harmonization — "with some
+  little difference of numbers and names... that list was made in Babylon... but this was made
+  when they came to Jerusalem; now some of those that gave in their names changed their minds,
+  and tarried in Babylon, and some might die by the way... and others... followed after and
+  joined those which were returning" — trimmed to that span with leading+trailing `…` (starts
+  and ends mid-sentence, GILL's run-on prose uses semicolons not periods internally). MHC/16/7/5
+  had similar general content and would also have worked; only one is needed (parity cap).
+- **Discrepancy pole (named_skeptic, 439 model) — SAB confirmed, not just McKinsey guess.**
+  Verified via `WebFetch` that `skepticsannotatedbible.com/ezra/2.html?v=60` links a
+  contradiction note titled **"How many children of Delaiah, Tobiah, and Nekoda?"** to
+  `contra/delaiah.html`, whose question text is a **verbatim match** to this DB row's
+  `question` field ("How many of Delaiah, Tobiah, and Nekoda's offspring returned from
+  Babylon?") — strong confirmation this DB entry was scraped directly from that exact SAB page
+  (consistent with `scrapeContra.js` sourcing from SAB). Used **Steve Wells, Skeptic's
+  Annotated Bible (1999)**, attribution `"Steve Wells, Skeptic's Annotated Bible (1999),
+  contra/delaiah.html"` — same format as the id-313 "sons of Heman" precedent in
+  [[project_harmonization_machine_pass]]. Prefer this WebFetch-confirmation approach (checking
+  the live SAB page for the row's own verse before defaulting to McKinsey) whenever a DB
+  question's wording looks SAB-flavored — it's strictly stronger evidence than guessing
+  McKinsey covers a passage (WebSearch could not confirm McKinsey treats this specific verse
+  pair; SAB confirmation made that moot).
+- **`deeper_learning.defense.pd_work`**: **Haley** confirmed via the same curl+Grep method as
+  325/326 — his blanket sentence reads "The other cases, some twenty in number, which appear
+  from a comparison of **Ezra ii. 6-60**, with Neh. vii. 11-67, are to be explained in the same
+  manner" — the stated range's upper bound, **v. 60**, is exactly this row's verse, so Haley's
+  coverage is textually confirmed to reach it (stronger than the clan-list ids, which are
+  merely "within the range," not at its literal boundary).
+- **`deeper_learning.defense.link`**: same CARM URL as the 318-330 cluster (still live, still
+  on-topic — confirmed again via WebFetch, states "Of 39 entries (verses), 17 do not match").
+- Dry-run bake (`DRY_RUN=1 IDS=333 node .scripts/buildHarmonizationTables.js`) produced exactly
+  the two expected pre-T9/T10 violations (`note_present`, `parity_count`) and
+  `verifyExcerpts.py` 690/690 PASS — same clean pattern as 313/325/326.
+
+## Adjacent id 331 (Asaph's singers, Ezra 2:41 vs Neh 7:44, 128 vs 148) — worked 2026-07-02
+Also outside the 318-330 clan-total range — this is the **Levites/singers** sub-list
+(2:40-42), not the 33-clan laity list. `gather/by_id/331.json`'s JFB notes are both about
+priestly courses (off-tension), so the 326/330 JFB/16/7/5 excerpt is **not available** here —
+confirms per-id checking is required, not an assumption. Used the **same GILL/16/7/6** excerpt
+already identified for id 333 (see above) — clan/row-agnostic, so it's a second confirmed
+reuse of that quote outside the clan-total rows. K&D's own note on this row (`KD/15/2/40`)
+contains a side-by-side Ezra/Neh table naming 128 vs. 148 explicitly but is purely
+descriptive/taxonomic (identifies who "sons of Asaph" means, no reconciling or conceding
+sentence) — correctly excluded as off-tension per charter rule 3 even though it states the
+exact numbers. Discrepancy pole: **SAB confirmed directly** (not McKinsey) — `question` field
+("How many of Asaph's offspring returned from Babylon?") is a verbatim match to SAB's own page
+title at `contra/asaph.html` (found via `ezra/contra_list.html` entry #14) — same
+WebFetch-confirmation approach as id 333, attribution `"Steve Wells, Skeptic's Annotated Bible
+(1999), contra/asaph.html"`. `pd_work`: Haley's blanket range (`Ezra ii. 6-60` / `Neh. vii.
+11-67`) covers verse 41 (inside the range, not at a boundary the way 333's v. 60 is) — Haley
+never mentions Asaph/singers by name, only the blanket sentence, so say so honestly in the
+note. Re-verifying the Haley quote by curl+Grep surfaced a **gotcha**: the archive.org djvu OCR
+double-spaces every word (`"Ezra  ii.  6-60"`), so a tight single-space regex
+(`"Ezra ii\. 6-60"`) false-negatives on both known mirrors (`examinationofall00hale` and
+`examinationof00hale`) — re-locate by a single-word anchor (e.g. `Arah`, no internal spaces)
+first, then read outward with `Read`/`-A`, rather than grepping the multi-word phrase directly.
+`link`: same CARM URL, but this fetch's raw HTML only returned the lead paragraphs — the
+actual comparison grid is gated behind a Cloudflare Turnstile wall — so item-specific coverage
+of Asaph's singers could not be confirmed and the `link.note` says so rather than overclaiming;
+the page itself is still real/live/on-topic (confirmed via 200-status curl + WebFetch, title
+and intro match). Dry-run bake: `DRY_RUN=1 IDS=331 node .scripts/buildHarmonizationTables.js`
+→ same two expected pre-T9/T10 violations, `verifyExcerpts.py` 692/692 PASS.
 
 ## Parity outcome for this cluster
 Pre-T9/T10, `DRY_RUN=1 IDS=<id> node .scripts/buildHarmonizationTables.js` on any of these

@@ -1,0 +1,49 @@
+{
+  "contradiction_id": 382,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Tyndale's commentary distinguishes the lights' calendrical and doxological role in Genesis from the predictive reading astrology gives them.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells argues Genesis 1:14 puts the stars there 'for signs' — exactly what astrologers read — while Leviticus and Deuteronomy call that abomination.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/astrology.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Genesis 1:16",
+      "excerpt_text": "They do not predict the future, as Israel’s neighbors believed (see Jer 10:2).",
+      "full_note_ref": "TYN/1/1/16",
+      "on_tension_rationale": "Directly denies that Genesis's 'signs' function is predictive/astrological, distinguishing it from the divination practice banned in Lev 19:26 / Deut 18:10-12.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-75",
+        "note": "K&D's note on Genesis 1:14 treats the 'astrological and chronological utility' of the heavenly lights directly, distinguishing portents/prognostication of weather and events from the divinatory abuse condemned in the Law; confirmed John Haley's Examination of the Alleged Discrepancies of the Bible (1874) does not treat this passage (full-text search for 'astrolog' returned zero hits)."
+      },
+      "link": null
+    }
+  }
+}

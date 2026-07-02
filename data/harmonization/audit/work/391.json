@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 391,
+  "question": "When was Jesus born?",
+  "summary": "Matthew 2:1 places Jesus's birth 'in the days of Herod the king' — meaning before Herod the Great's death in 4 BCE. Luke 1:5 likewise puts the conception under Herod, but Luke 2:1-4 anchors the birth to the census 'when Quirinius was governor of Syria.' Quirinius's documented census was 6 CE, after Judaea became a Roman province. The two anchor points are about a decade apart and cannot both be correct.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Some harmonizers argue Quirinius held an earlier post over Judea before his formal governorship, placing Jesus's birth within that window under Herod.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Bart Ehrman states the problem plainly: Jesus was born under Herod, when Quirinius was not yet governor of Syria, and no other ancient source attests Luke's census.",
+    "skeptic": {
+      "name": "Bart D. Ehrman",
+      "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible and Why We Don't Know About Them",
+      "year": "2009",
+      "attribution": "Bart D. Ehrman, Jesus, Interrupted (HarperOne, 2009)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on Luke 2:2",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats the Cyrenius/Quirinius dating problem directly at Luke 2:2, laying out and endorsing Lardner's harmonizing solutions (an earlier census conducted by Quirinius under extraordinary powers before his formal governorship, or reading the verse as 'before Cyrenius was governor')."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Quirinius-census.html",
+        "domain": "gotquestions.org",
+        "title": "Does Luke's claim that Jesus was born in Bethlehem at the time of Quirinius' census match the historical record?",
+        "note": "live apologetic treatment of the Herod/Quirinius dating problem"
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "391#0",
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "attribution": "Tyndale Open Bible Commentary",
+      "verse_ref": "Luke 2:2",
+      "full_note_ref": "TYN/42/2/2",
+      "excerpt_text": "Quirinius held this post AD 6–9. In 6–4 BC, Quirinius also had authority over Judea, possibly through some kind of joint rule. He may have begun the census. Historical accounts mention three other censuses at that time (in Syria, Gaul, and Spain), and there was no reason not to have one in Judea, though it is not mentioned in secular records. Jesus was born around 6–4 BC, before Herod the Great died in 4 BC (see Matt 2:1-19).",
+      "on_tension_rationale": "Directly engages the roughly decade-long gap between Herod's death (4 BC) and Quirinius's attested governorship (AD 6), proposing a 'joint rule' explanation while affirming Jesus's birth date under Herod.",
+      "source_note_text": "2:2 Quirinius was governor of Syria: Quirinius held this post AD 6–9. In 6–4 BC, Quirinius also had authority over Judea, possibly through some kind of joint rule. He may have begun the census. Historical accounts mention three other censuses at that time (in Syria, Gaul, and Spain), and there was no reason not to have one in Judea, though it is not mentioned in secular records. Jesus was born around 6–4 BC, before Herod the Great died in 4 BC (see Matt 2:1-19)."
+    }
+  ]
+}

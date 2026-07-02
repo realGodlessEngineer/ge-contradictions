@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 378,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Keil and Delitzsch argue seventy's real weight is symbolic, not arithmetical — a reading that eases treating it as a rigid, exclusive count.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses further: reckoned against actual history the exile ran about 48-66 years, matching neither Jeremiah's seventy nor Baruch's seven generations.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How long was the Babylonian Captivity?\" (skepticsannotatedbible.com)",
+        "year": "n.d.",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"How long was the Babylonian Captivity?\" (skepticsannotatedbible.com, n.d.)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Jeremiah 25:11",
+      "excerpt_text": "But although this number corresponds so exactly with history, it is less its arithmetical value that is of account in Jeremiah; it is rather its symbolical significance as the number of perfection for God's works. This significance lies in the contrast of seven, as the characteristic number for works of God, with ten, the number that marks earthly completeness; and hereby prophecy makes good its distinguishing character as contrasted with soothsaying, or the prediction of contingent matters. The symbolical value of the number comes clearly out in the following verses, where the fall of Babylon is announced to come in seventy years, although it took place two years earlier.",
+      "full_note_ref": "KD/24/25/11",
+      "on_tension_rationale": "KD explicitly treats Jeremiah's 'seventy' as bearing more symbolic than arithmetical weight -- directly bearing on whether the figure was meant as a rigid literal count, which is the premise the mathematical clash with Baruch's 'seven generations' depends on.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, Jeremiah (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D's note on Jeremiah 25:11, already surfaced on this row, argues the 'seventy years' carries symbolic more than arithmetical weight -- Haley's Alleged Discrepancies does not treat Jeremiah's seventy years or Baruch anywhere in its text (verified against the full digitized work), so the harmonizing commentator already keyed to this passage is used instead."
+      },
+      "link": null
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 331,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill traces gains like Asaph's 20-singer increase to latecomers who missed Babylon's registration but later joined the company returning to Jerusalem.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible catalogues this as a flat contradiction: the same registry gives 128 in Ezra and 148 in Nehemiah.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/asaph.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Nehemiah 7:6",
+      "excerpt_text": "…and from hence to the end of Neh 7:69 the same account is given of persons and families as there, with some little difference of numbers and names; in some instances there are more in this list, in others fewer, which may be thus accounted for; that list was made in Babylon, when, upon the edict of Cyrus, the Jews, who intended to go up with Zerubbabel, gave in their names, and they were registered; but this was made when they came to Jerusalem; now some of those that gave in their names changed their minds, and tarried in Babylon, and some might die by the way, which makes the numbers fewer in some instances; and others who did not give in their names at first, but, being better disposed towards their own country, followed after and joined those which were returning, and increased the number of others …",
+      "full_note_ref": "GILL/16/7/6",
+      "on_tension_rationale": "Gill's general explanation of why the Ezra-2/Nehemiah-7 registries differ (one taken in Babylon, one at arrival in Jerusalem, with dropouts and late-joiners) directly covers an entry that rose from 128 to 148, the Asaph-singers gap cited to Nehemiah 7:44.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley names the Arah head-count variant (Ezra 2:5 vs Neh 7:10) explicitly, then extends the same verdict to 'the other cases, some twenty in number, which appear from a comparison of Ezra ii. 6-60, with Neh. vii. 11-67'--Asaph's singers (Ezra 2:41 vs Neh 7:44) falling within that stated range--stating they 'are to be explained in the same manner,' i.e., copyists' blunders."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/why-are-the-statistics-in-ezra-2-and-nehemiah-7-different/",
+        "domain": "carm.org",
+        "title": "CARM: Why are the statistics in Ezra 2 and Nehemiah 7 different?",
+        "note": "live apologetic treatment of the same Ezra-2/Nehemiah-7 statistical variance (Matt Slick, 2008); the full comparison grid is gated behind a verification wall so item-specific coverage of Asaph's singers could not be directly confirmed"
+      }
+    }
+  }
+}

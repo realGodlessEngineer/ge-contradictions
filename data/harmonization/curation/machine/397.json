@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 397,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry treats the disciples' baptizing as Jesus's own act, done by his orders and in his name.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible catalogs this exact pairing, posing John 3:22's claim that Jesus baptized against John 4:2's flat denial as a direct factual clash.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"The Baptism Contradiction\"",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/baptize.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "John 3:22",
+      "excerpt_text": "He himself baptized not, with his own hand, but his disciples by his orders and directions, as appears, Joh 4:2. But his disciples' baptizing was his baptizing.",
+      "full_note_ref": "MHC/43/3/22",
+      "on_tension_rationale": "Henry directly reconciles the two verses by treating the disciples' baptizing, done under Jesus's orders, as Jesus's own baptizing -- the standard agency harmonization for John 3:22 vs 4:2.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714)",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry's own note on John 3:22 treats this exact tension directly, citing John 4:2 and resolving it via agency ('his disciples' baptizing was his baptizing'). John Haley's Alleged Discrepancies (1874) was checked (full-text search of the archive.org djvu.txt for 'baptiz', 'John iii. 22', 'John iv. 2') and its only 'Baptism' entry treats a different pairing (Matt 28:19 vs 1 Cor 1:14-17, Paul's non-baptizing), not John 3:22/4:2, so the row's own harmonizing commentator is used instead."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/did-Jesus-baptize.html",
+        "domain": "gotquestions.org",
+        "title": "Did Jesus baptize? | GotQuestions.org",
+        "note": "live apologetic treatment resolving John 3:22 vs 4:2 via the agency/authority reading, with the added rationale that Jesus avoided baptizing personally to forestall rival factions among the baptized"
+      }
+    }
+  }
+}

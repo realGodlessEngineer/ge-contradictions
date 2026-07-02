@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 396,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry harmonizes the texts: 'came to his baptism' meant mere curiosity; only 'some' were actually baptized, the 'generality' refusing, per Luke.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses the plain sense: Matthew depicts Pharisees coming to be baptized, which Luke explicitly says never happened.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/pharisees.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Matthew 3:7",
+      "excerpt_text": "It was strange that they came to John's baptism, but their curiosity brought them to be hearers; and some of them, it is probable, submitted to be baptized, but it is certain that the generality of them did not; for Christ says (Luk 7:29, Luk 7:30), that when the publicans justified God, and were baptized of John, the Pharisees and lawyers rejected the counsel of God against themselves, being not baptized of him.",
+      "full_note_ref": "MHC/40/3/7",
+      "on_tension_rationale": "Matthew Henry cross-references Luke 7:29-30 directly, explaining that only 'some' Pharisees were actually baptized while 'the generality' refused — reconciling Matthew's 'came to his baptism' with Luke's denial that they were baptized.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Matthew 3:7",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Haley's Alleged Discrepancies was checked directly via full-text search and does not treat this specific passage; Matthew Henry's own note on Matthew 3:7 — already this row's reconcile-pole source — directly harmonizes Matthew's account with Luke 7:29-30."
+      },
+      "link": null
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 350,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators distinguish riches themselves from trusting in riches, arguing the entrance is barred not by wealth but by the idolatry it tempts — so the godly rich remain heirs of the kingdom.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells catalogs exactly these seven verses under the question \"Is wealth a sign of righteousness or of wickedness?\", presenting the Psalms/Proverbs prosperity texts and the Matthew/Luke/James woes as a genuine, uncollapsed contradiction.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/rich.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 19:23",
+      "excerpt_text": "not but that there have been, are, and will be, some that are rich, called by grace, brought into a Gospel church state, and are heirs of the kingdom of heaven; though these are but comparatively few: nor is it riches themselves that make the entrance so difficult, and clog the way, either into grace or glory, but putting trust and confidence in them …",
+      "full_note_ref": "GILL/40/19/23",
+      "on_tension_rationale": "Directly reframes Jesus's warning as targeting trust in wealth rather than wealth per se, allowing some rich to remain heirs of the kingdom — this is the move that reconciles the NT woes with the OT prosperity texts rather than merely explaining the verse in isolation.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), pp. 172-176",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Under the heading \"Worldly prosperity, a reward\" / \"a curse,\" Haley tables Psalm 112:2-3, Proverbs 15:6, Mark 10:24-25 (the Markan parallel to Matthew 19:23-24), Luke 6:20-24, Luke 12:21, and James 5:1-3 side by side, arguing righteousness only normally (not invariably) yields worldly prosperity and that the NT woes target trust in riches, not riches as such — a direct, passage-specific treatment of this contradiction."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/hard-for-a-rich-man-to-enter-the-kingdom.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does it mean that it is hard for a rich man to enter the kingdom (Matthew 19:23)?",
+        "note": "live apologetic treatment distinguishing wealth itself from trust in wealth as the actual barrier"
+      }
+    }
+  }
+}

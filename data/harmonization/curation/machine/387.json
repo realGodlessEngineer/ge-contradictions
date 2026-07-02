@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 387,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill offers three fixes for the Jacob/Eli clash — same man, two fathers by marriage, or Luke naming Jesus's ancestry, not Joseph's.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman argues stretching 'two names, one man' down mismatched fathers — Matthan/Matthat, Eleazar/Levi — is 'a bridge too far,' leaving Jacob and Heli irreconcilable.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don't Know About Them)",
+        "year": "2009",
+        "attribution": "Bart D. Ehrman, Jesus, Interrupted (HarperOne, 2009)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 1:16",
+      "excerpt_text": "It has created some difficulty with interpreters that Jacob should be here said to beget Joseph, when Joseph in Luke is said to be the son of Eli. Some have thought Joseph's father had two names, one was Jacob, and the other Eli; others take them to be two different persons, and suppose that Joseph was the natural son of the one, and the legal son of the other, either by marriage, or by adoption, or by the law of the brother's wife, Deu 25:5. But the truth of the matter is, that not Joseph, but Jesus, is by Luke called the son of Eli, as will be made to appear in its proper place.",
+      "full_note_ref": "GILL/40/1/16",
+      "on_tension_rationale": "States the Jacob/Eli naming conflict directly and surveys the era's standard harmonizations, landing on the 'Luke traces Jesus, not Joseph' reading that anchors the reconcile pole.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats the Jacob-vs-Heli genealogy discrepancy directly under the harmonizing tradition (later editions run it at roughly pp. 325-326)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Jesus-genealogy.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why are Jesus' genealogies in Matthew and Luke so different?",
+        "note": "live apologetic treatment naming Jacob (Matthew) vs. Heli (Luke) and laying out both the levirate-marriage and Mary's-genealogy harmonizations"
+      }
+    }
+  }
+}

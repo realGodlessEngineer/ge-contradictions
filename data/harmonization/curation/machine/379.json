@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 379,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Jamieson, Fausset & Brown quote both verses and resolve the clash via Fairbairn: 'Egypt' names the bondage-state, not the literal country.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible names this a flat contradiction, pairing 'shall return to Egypt' directly against 'shall not return into ... Egypt.'",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/ephraim.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Hosea 9:3",
+      "excerpt_text": "As in Hos 11:5 it is said, \"He shall not return into . . . Egypt.\" FAIRBAIRN thinks it is not the exact country that is meant, but the bondage state with which, from past experience, Egypt was identified in their minds. Assyria was to be a second Egypt to them.",
+      "full_note_ref": "JFB/28/9/3",
+      "on_tension_rationale": "JFB explicitly names the clash by quoting Hosea 11:5's 'shall not return' directly against Hosea 9:3's return-to-Egypt threat, then resolves it by citing Fairbairn's reading of 'Egypt' as a byword for a bondage-condition Assyria would replicate, not the literal country revisited.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Hosea 11:5 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-75",
+        "note": "Haley's Examination of the Alleged Discrepancies (1874) was checked against its full text and does not treat this Hosea pair, so the row's own harmonizing commentator is used instead: K&D name it outright as 'the apparent contradiction between the words, \"It will not return into the land of Egypt,\" and the threat contained in Hos 8:13; Hos 9:3, that Israel should return to Egypt,' and resolve it by reading Egypt in the earlier threats as 'a type of the land of bondage,' a typology precluded in 11:5 by the explicit contrast with Asshur."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Hosea_8.13.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in Hosea 8:13?",
+        "note": "live apologetic treatment arguing 8:13/9:3 describe Israel's idolatrous 'heart' return to Egypt while 11:5 promises no literal deportation back to Egypt, only Assyrian captivity"
+      }
+    }
+  }
+}

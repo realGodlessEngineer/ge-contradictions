@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 390,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill locates the biological Davidic line in Mary herself, reading 'of the fruit of his loins' as fulfilled through her rather than through Joseph's paternity.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Strauss presses the sharper point: the genealogies exist to prove Davidic descent through Joseph, so denying his paternity nullifies that very claim.",
+      "skeptic": {
+        "name": "D. F. Strauss",
+        "work": "The Life of Jesus Critically Examined",
+        "year": "1846",
+        "attribution": "D. F. Strauss (d. 1874), The Life of Jesus Critically Examined (1846)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Acts 2:30",
+      "excerpt_text": "that of the fruit of his loins; of one that should be of his seed, that should spring from him, even the Virgin Mary, who was of the house and lineage of David: according to the flesh, he would raise up Christ …",
+      "full_note_ref": "GILL/44/2/30",
+      "on_tension_rationale": "Gill reads the 'fruit of his loins ... according to the flesh' language of Acts 2:30 as fulfilled through Mary's own Davidic lineage, supplying the biological mechanism the summary says is missing once Joseph is excluded as father.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's chapter on Christ's genealogy (Matt 1:16 vs Luke 3:23) argues Luke actually records Mary's own descent from David through Heli, so Jesus was David's descendant 'not only legally, through his reputed father, but actually, by direct personal descent, through his mother.'"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Mary-lineage.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What was Mary's lineage?",
+        "note": "argues Luke 3:23-38 records Mary's own descent from David through Heli, giving Jesus a biological Davidic line independent of Joseph's paternity"
+      }
+    }
+  }
+}

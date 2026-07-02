@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 327,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "JFB explain the Ezra–Nehemiah clan-total gaps, Bezai's 1-person increase included, by the different times and places the two registers were drawn up, plus ordinary attrition and name-changes over the intervening years.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "McKinsey's Encyclopedia of Biblical Errancy counts the Ezra–Nehemiah return registers among the Bible's numerical errors, noting that more than half of roughly thirty-five matched clan totals disagree — Bezai's 1-person gap among them.",
+      "skeptic": {
+        "name": "C. Dennis McKinsey",
+        "work": "The Encyclopedia of Biblical Errancy",
+        "year": "1995",
+        "attribution": "C. Dennis McKinsey, The Encyclopedia of Biblical Errancy (Prometheus Books, 1995)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Nehemiah 7:5",
+      "excerpt_text": "But the discrepancy is sufficiently accounted for from the different circumstances in which the two registers were taken; that of Ezra having been made up at Babylon, while that of Nehemiah was drawn out in Judea, after the walls of Jerusalem had been rebuilt. The lapse of so many years might well be expected to make a difference appear in the catalogue, through death or other causes; in particular, one person being, according to Jewish custom, called by different names.",
+      "full_note_ref": "JFB/16/7/5",
+      "on_tension_rationale": "Explicitly labels the Ezra 2 vs. Nehemiah 7 numeric variance across the whole registry 'the discrepancy' and gives the standard harmonization (different time/place of registration, attrition, name-changes) that covers Bezai's 1-person gap.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley names the Arah head-count variant (Ezra 2:5 vs Neh 7:10) explicitly, then extends the same verdict to 'the other cases, some twenty in number, which appear from a comparison of Ezra ii. 6-60, with Neh. vii. 11-67'--Bezai's included--stating they 'are to be explained in the same manner,' i.e., copyists' blunders."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/why-are-the-statistics-in-ezra-2-and-nehemiah-7-different/",
+        "domain": "carm.org",
+        "title": "CARM: Why are the statistics in Ezra 2 and Nehemiah 7 different?",
+        "note": "live apologetic treatment of the same clan-by-clan variance"
+      }
+    }
+  }
+}

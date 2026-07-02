@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 400,
+  "question": "Is Jesus God?",
+  "summary": "John 1:1, 1:14 identifies the Word (Logos) as God and says the Word became flesh — the classic textual foundation for the deity of Christ. James 1:13 says God cannot be tempted with evil. Hebrews 4:15 (and the temptation narratives in Matthew 4, Luke 4) says Jesus was tempted in every way. If Jesus is God and God cannot be tempted, but Jesus was tempted, the syllogism collapses.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "JFB distinguishes \"tempted\" as sinful solicitation from \"tempted\" as mere trial or testing, the distinction harmonizers apply to Christ's wilderness temptation.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells presses the flat wording: James denies God can be tempted, yet Jesus plainly was — proof, he argues, that Jesus isn't God.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible, \"Is Jesus God?\" (skepticsannotatedbible.com/contra/Jesus_God.html)",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/Jesus_God.html)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible, on James 1:13",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB (already surfaced on this row) distinguishes James's 'tempted' (solicitation to evil) from the trial/testing sense used of God 'tempting' Abraham (Gen 22:1) — the semantic move harmonizers extend to Christ's wilderness temptation. (Haley's coverage of this specific Jesus-deity-and-James-1:13 pairing could not be confirmed; per spec a row-surfaced harmonizing commentator keyed to the passage is used instead.)"
+      },
+      "link": {
+        "url": "https://carm.org/about-jesus/god-cannot-be-tempted-jesus-was-tempted-therefore-jesus-cannot-be-god/",
+        "domain": "carm.org",
+        "title": "CARM: God cannot be tempted. Jesus was tempted. Therefore, Jesus cannot be God.",
+        "note": "Live apologetics page devoted specifically to this contradiction; argues the resolution turns on the (scripturally underspecified) relation between Christ's divine and human natures."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "400#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "James 1:13",
+      "full_note_ref": "JFB/59/1/13",
+      "excerpt_text": "when . . . tempted--tried by solicitation to evil. Heretofore the \"temptation\" meant was that of probation by afflictions. … God is said in Gen 22:1 to have \"tempted Abraham\"; but there the tempting meant is that of trying or proving, not that of seducement.",
+      "on_tension_rationale": "JFB explicitly distinguishes two senses of 'tempted' in James 1:13 — solicitation to evil (excluded from God) vs. trial/testing (used of God 'tempting' Abraham, Gen 22:1) — the exact semantic move harmonizers use to argue Jesus's temptation (Heb 4:15/Matt 4, the trial sense) does not fall under James's denial (the solicitation sense).",
+      "source_note_text": "when . . . tempted--tried by solicitation to evil. Heretofore the \"temptation\" meant was that of probation by afflictions. Let no one fancy that God lays upon him an inevitable necessity of sinning. God does not send trials on you in order to make you worse, but to make you better (Jam 1:16-17). Therefore do not sink under the pressure of evils (Co1 10:13).\nof God--by agency proceeding from God. The Greek is not \"tempted by,\" but, \"from,\" implying indirect agency.\ncannot be tempted with evil, &c.--\"Neither do any of our sins tempt God to entice us to worse things, nor does He tempt any of His own accord\" (literally, \"of Himself\"; compare the antithesis, Jam 1:18, \"Of His own will He begat us\" to holiness, so far is He from tempting us of His own will) [BENGEL]. God is said in Gen 22:1 to have \"tempted Abraham\"; but there the tempting meant is that of trying or proving, not that of seducement. ALFORD translates according to the ordinary sense of the Greek, \"God is unversed in evil.\" But as this gives a less likely sense, English Version probably gives the true sense; for ecclesiastical Greek often uses words in new senses, as the exigencies of the new truths to be taught required."
+    }
+  ]
+}

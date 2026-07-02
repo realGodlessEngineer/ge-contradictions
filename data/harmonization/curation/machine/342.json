@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 342,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill glosses the epilogue's \"evil ... the Lord had brought\" as ultimate divine ownership working through Satan's immediate agency, not a second, rival account of who acted.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the plain wording clash in the Skeptic's Annotated Bible, setting Job 2:7's Satan against Job 42:11's Lord as two unreconciled answers to the same question.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Who brought evil on Job?\" (skepticsannotatedbible.com/contra/job_evil.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Who brought evil on Job?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Job 42:10",
+      "excerpt_text": "and comforted him over all the evil that the Lord had brought upon him; the evil of afflictions, of body and estate; which, though by means of Satan and wicked men, was according to the will of God, and might be said to be brought on him and done to him by the Lord, Amo 3:6 …",
+      "full_note_ref": "GILL/18/42/10",
+      "on_tension_rationale": "Directly glosses the epilogue's exact phrase 'evil that the Lord had brought upon him,' naming Satan and wicked men as the actual instruments while holding it was 'according to the will of God' and so 'might be said to be brought on him ... by the Lord' -- the fullest verbatim treatment of this precise tension among the gathered notes.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible, on Job 42:10",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Treats this exact tension at the verse, reading Job 42:11's 'evil the Lord had brought' as encompassing Satan's and wicked men's agency under God's will rather than a rival cause. (Haley's djvu full text was checked directly: he treats Job 2:7/42:12 only under a different discrepancy -- whether any evil ever befalls the righteous, per Prov 12:21 -- and does not address the Satan-vs-Yahweh agency question this row turns on, so the row-surfaced harmonizing commentator is used per the contract's fallback clause.)"
+      },
+      "link": null
+    }
+  }
+}

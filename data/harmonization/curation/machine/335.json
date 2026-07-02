@@ -1,0 +1,49 @@
+{
+  "contradiction_id": 335,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Keil and Delitzsch trace Ezra's 61,000 darics and round 5,000 minas to copying and rounding errors, arguing Nehemiah's itemized 41,000 and 4,700 are the more accurate underlying figures.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible catalogues Ezra's 61,000 drams, 5,000 pounds, and 100 garments against Nehemiah 7:72's 20,000, 2,000, and 67 as a straightforward contradiction.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/gold.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Ezra 2:68",
+      "excerpt_text": "According to this statement, the Tirshatha, the heads of houses, and the rest of the people, gave together 41,000 darics in gold, 4200 mina in silver, 97 priests' garments, and 30 golden vessels. In Ezra the vessels are omitted; and instead of the 30 + 67 = 97 priests' garments, they are stated in round numbers to have been 100. The two other differences have arisen from textual errors. Instead of 61,000 darics, it is evident that we must read with Nehemiah, 41,000 (1000 + 20,000 + 20,000); and in addition to the 2200 and 2000 mina, reckon, according to Neh 7:70, 500 more, in all 4700, for which in the text of Ezra we have the round sum of 5000.",
+      "full_note_ref": "KD/15/2/68",
+      "on_tension_rationale": "K&D lay Nehemiah's three-part breakdown (Tirshatha + heads of houses + rest of people) side by side with Ezra's single total and account for both numeric gaps (61,000 vs 41,000; round 5,000 vs 4,700) as textual/rounding errors rather than two conflicting facts -- directly on the gold/silver/garments tension this contradiction turns on.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), pp. 380-382",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact passage directly (immediately after his Ezra 2:5/Neh 7:10 clan-count discussion): he tabulates Ezra 2:69's totals against Nehemiah 7:70-72's three-part breakdown and endorses Keil and Bertheau's reading -- Ezra's 61,000 darics is 'a copyist's mistake' for 41,000, and the 5,000-pound silver figure and 100-garment figure are 'round numbers' for Nehemiah's more precise 4,700 and 97."
+      },
+      "link": null
+    }
+  }
+}

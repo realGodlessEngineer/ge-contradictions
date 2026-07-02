@@ -1,0 +1,49 @@
+{
+  "contradiction_id": 351,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill reads the verses as addressing different objects: joy at the fall of God's public enemies is sanctioned, gloating over a private enemy is not.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells' Skeptic's Annotated Bible pairs these two verses under \"Should we rejoice when our enemies suffer?\" as flatly opposed answers, offering no distinction.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/rejoice.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Proverbs 24:16",
+      "excerpt_text": "Joy may be expressed at the fall of the public enemies of God and his people, as was by the Israelites at the destruction of Pharaoh and his host, Exo 15:1; and as will be by the church at the destruction of antichrist, and which they are called upon to do, Rev 18:20; partly on account of their own deliverance and safety, and chiefly because of the glory of God, and of his justice displayed therein; see Psa 58:10; but as private revenge is not to be sought, nor acted, so joy at the calamity and ruin of a private enemy, or a man's own enemy, should not be expressed; but rather he is to be pitied and helped …",
+      "full_note_ref": "GILL/20/24/16",
+      "on_tension_rationale": "Gill's note on Prov 24:16 explicitly cites Psa 58:10 by name to distinguish sanctioned joy at the fall of God's/his people's public enemies from forbidden joy at a private enemy's ruin — directly reconciling the two verses this contradiction pairs.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Proverbs 24:16",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact tension directly, distinguishing public rejoicing in divine justice from private vindictiveness and naming Psalm 58:10 by cross-reference. (John Haley's Alleged Discrepancies was checked via full-text search of the archive.org djvu and does not treat this specific verse pair; his 'Enemies cursed / Should be loved' ethical-discrepancies section uses Psalm 109 and Psalm 137 as its illustrative texts instead, so Gill is used per the contract's fallback clause.)"
+      },
+      "link": null
+    }
+  }
+}

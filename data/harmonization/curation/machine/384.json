@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 384,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read two senses of \"tempt\": God may be tried or provoked, but James denies only that God can be enticed toward evil.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, in the Skeptic's Annotated Bible, presses the commandment not to tempt God as proof the act is possible, against James 1:13's absolute denial.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Can God be tempted?\" (skepticsannotatedbible.com/contra/tempt_god.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Can God be tempted?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "James 1:13",
+      "excerpt_text": "for God cannot be tempted with evil; or \"evils\", He was tempted by the Israelites at Massah and Meribah, from which those places had their names, who by their murmuring, distrust and unbelief, proved and tried his patience and his power; and so he may be, and has been tempted by others in a like way; he may be tempted by evil men, and with evil things, but he cannot be tempted \"to evil\", as the Ethiopic version renders it; he is proof against all such temptations: he cannot be tempted by anything in himself, who is pure and holy, or by any creature or thing without him, to do any sinful action:",
+      "full_note_ref": "GILL/59/1/13",
+      "on_tension_rationale": "Directly ties James 1:13's 'cannot be tempted with evil' to the Massah/Meribah tempting-of-God tradition behind Exodus 17:2 and Deuteronomy 6:16, distinguishing being tried/provoked by the wicked (which God concededly experiences) from being enticed 'to evil' (which James denies) — the single sentence that resolves nearly the whole cluster.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on James 1:13",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Treats this exact tension at the verse, distinguishing being tempted/tried (as at Massah) from being tempted 'to evil.' Haley's coverage could not be confirmed for this specific tempt-God cluster (his book only notes in passing, without argument, that God 'tempted Abraham, yet tempts no man'), so per spec a row-surfaced harmonizing commentator keyed to the passage is used instead."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/James_1.15.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: If God doesn't tempt anyone, then why did He tempt Abraham? (on James 1:13)",
+        "note": "Live apologetic treatment of James 1:13's 'cannot be tempted' clause, distinguishing testing-of-faith from enticement-to-sin and citing Matthew 4:1-10 (Jesus's wilderness temptation), which is part of this cluster's reference set."
+      }
+    }
+  }
+}

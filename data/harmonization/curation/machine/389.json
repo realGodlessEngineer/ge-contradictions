@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 389,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "JFB concedes the third set has only thirteen distinct names but resolves it by moving the second/third boundary from Jeconiah to Josiah.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman treats the shortfall as a genuine slip in Matthew's own arithmetic, not a deliberate literary pattern.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible and Why We Don't Know About Them",
+        "year": "2009",
+        "attribution": "Bart D. Ehrman, Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible and Why We Don't Know About Them (HarperOne, 2009)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Matthew 1:17",
+      "excerpt_text": "It will be observed that the last of the three divisions of fourteen appears to contain only thirteen distinct names, including Jesus as the last. LANGE thinks that this was meant as a tacit hint that Mary was to be supplied, as the thirteenth link of the last chain, as it is impossible to conceive that the Evangelist could have made any mistake in the matter. But there is a simpler way of accounting for it. As the Evangelist himself (Mat 1:17) reckons David twice—as the last of the first fourteen and the first of the second—so, if we reckon the second fourteen to end with Josiah, who was coeval with the \"carrying away into captivity\" (Mat 1:11), and third to begin with Jeconiah, it will be found that the last division, as well as the other two, embraces fourteen names, including that of our Lord.",
+      "full_note_ref": "JFB/40/1/17",
+      "on_tension_rationale": "JFB explicitly names the third division's thirteen-name shortfall against Matthew's stated fourteen and offers a boundary-shift resolution — directly on this id's specific 14-vs-13 count tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact tension (Matt. 1:17's 'forty-two generations' vs. the 'different number' actually listed) under Historical Discrepancies, surveying the inclusive-boundary reading (Alford, Robinson, Gardiner), Ebrard's alternative division, Dr. Mill on the Jewish convention of arranging genealogies by mystical numbers, and the Jehoiakim/Jehoiachin distinction that removes the deficiency entirely."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/14-generations.html",
+        "domain": "gotquestions.org",
+        "title": "Is there an error in the counting of the 14 generations in Matthew chapter 1?",
+        "note": "live apologetic treatment naming this exact counting problem and arguing Matthew's genealogy is a legitimate literary abridgement, not a factual error"
+      }
+    }
+  }
+}

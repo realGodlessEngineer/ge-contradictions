@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 365,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Keil and Delitzsch name the crux directly, resolving it: commended mirth is enjoyment conditioned by the fear of God, not unconditional pleasure.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible sets Proverbs 17:22 and Ecclesiastes 8:15 flatly against Ecclesiastes 7:3-4 and Luke 6:25 as opposite verdicts on mirth.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/happy.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Ecclesiastes 7:2",
+      "excerpt_text": "How this saying agrees with Koheleth's ultimatum: There is nothing better than to eat and drink, etc. (Ecc 2:24, etc.), the Talmudists have been utterly perplexed to discover; Manasse ben-Israel in his Conciliador (1632) loses himself in much useless discussion. … The solution of the difficulty is easy. The ultimatum does not relate to an unconditional enjoyment of life, but to an enjoyment conditioned by the fear of God.",
+      "full_note_ref": "KD/21/7/2",
+      "on_tension_rationale": "K&D explicitly name the crux (Eccl 7's preference for the house of mourning over mirth vs. Qohelet's recurring 'eat, drink, be merry' ultimatum, the same formula behind 8:15) and resolve it by qualifying the commended enjoyment as fear-of-God-conditioned, not unconditional indulgence.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley's 'Laughter' entry lines up Proverbs 17:22 and Ecclesiastes 8:15 (commended) against Ecclesiastes 7:3-4 and Luke 6:25 (condemned) — the same verse set as this contradiction — and resolves it: 'Not laughter in the abstract, but laughter under certain circumstances, is condemned.'"
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Ecclesiastes_2.2.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Ecclesiastes 2:2 — Is laughter good or bad?",
+        "note": "Live apologetic treatment citing Prov 17:22, Eccl 7:3, Eccl 8:15, and Luke 6:25 together; resolves via Ecclesiastes 3:1,4 ('a time to laugh ... a time to mourn')."
+      }
+    }
+  }
+}

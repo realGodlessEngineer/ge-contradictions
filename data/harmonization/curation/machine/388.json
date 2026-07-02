@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 388,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry resolves the missing generation by reading \"Jechonias\" as two men — Jehoiakim in verse 11, his son Jehoiachin in verse 12 — restoring the fourteenth name.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses the plain arithmetic: 14+14+14 should total 42, but only 41 distinct names appear in Matthew's own list.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How many generations from Jesus to Abraham?\" (skepticsannotatedbible.com/contra/42.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"How many generations from Jesus to Abraham?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Matthew 1:12",
+      "excerpt_text": "Josias is said to beget Jechonias and his brethren (Mat 1:11); by Jechonias here is meant Jehoiakim, who was the first-born of Josias; but, when it is said (Mat 1:12) that Jechonias begat Salathiel, that Jechonias was the son of that Jehoiakim who was carried into Babylon, and there begat Salathiel (as Dr. Whitby shows) …",
+      "full_note_ref": "MHC/40/1/1",
+      "on_tension_rationale": "Directly resolves the 41-vs-42 count: reads 'Jechonias' in v.11 as Jehoiakim and 'Jechonias' in v.12 as his son Jehoiachin, supplying the generation the bare list otherwise lacks.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), p. 389",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact passage under the heading 'Generations, forty-two. A different number. Matt. i. 17. Matt. i. 2-16,' surveying several harmonizations including the Jehoiakim/Jehoiachin two-Jechoniases solution ('on this hypothesis... there is no deficiency')."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Matthew_1.17.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Matthew 1:17 — How many generations were listed between the captivity and Christ, 14 or 13?",
+        "note": "Live apologetic treatment arguing Jeconiah bridges both post-exilic lists, concluding 'there is no error in the text at all.'"
+      }
+    }
+  }
+}

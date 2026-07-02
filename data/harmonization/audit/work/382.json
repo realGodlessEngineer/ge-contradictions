@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 382,
+  "question": "Does the Bible condemn astrology?",
+  "summary": "Leviticus 19:26 and Deuteronomy 18:10-12 ban divination and observing 'times' — language traditionally read to include astrology — and call practitioners an abomination. Genesis 1:14 says God explicitly made the heavenly lights to function as signs. The two passages pull in opposite directions on whether reading the sky is forbidden practice or divinely sanctioned function.",
+  "consensus": "genuinely_disputed",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Tyndale's commentary distinguishes the lights' calendrical and doxological role in Genesis from the predictive reading astrology gives them.",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells argues Genesis 1:14 puts the stars there 'for signs' — exactly what astrologers read — while Leviticus and Deuteronomy call that abomination.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "Skeptic's Annotated Bible",
+      "year": "1999",
+      "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/astrology.html"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-75",
+        "note": "K&D's note on Genesis 1:14 treats the 'astrological and chronological utility' of the heavenly lights directly, distinguishing portents/prognostication of weather and events from the divinatory abuse condemned in the Law; confirmed John Haley's Examination of the Alleged Discrepancies of the Bible (1874) does not treat this passage (full-text search for 'astrolog' returned zero hits)."
+      },
+      "link": null
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "382#0",
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "attribution": "Tyndale Open Bible Commentary",
+      "verse_ref": "Genesis 1:16",
+      "full_note_ref": "TYN/1/1/16",
+      "excerpt_text": "They do not predict the future, as Israel’s neighbors believed (see Jer 10:2).",
+      "on_tension_rationale": "Directly denies that Genesis's 'signs' function is predictive/astrological, distinguishing it from the divination practice banned in Lev 19:26 / Deut 18:10-12.",
+      "source_note_text": "1:16 In the surrounding pagan cultures, the two great lights were worshiped as deities, but in Genesis they serve God and humanity (see Ps 136:7-9; Jer 31:35). The sun and moon are not named; they are simply called the larger one and the smaller one. Not including their names may have reminded Israel that they were not gods. • govern: Cp. 1:26, 28; Ps 136:9. • the stars: The starry heavens testify to God’s creative power as they proclaim his glory (Pss 19:1; 148:3). They do not predict the future, as Israel’s neighbors believed (see Jer 10:2)."
+    }
+  ]
+}

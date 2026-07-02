@@ -71,6 +71,15 @@ AUDIT_DIR = os.environ.get("AUDIT_DIR", f"{BASE}/audit")
 AUDIT_RATE = float(os.environ.get("AUDIT_RATE", "0.25"))
 AUDIT_SEED = int(os.environ.get("AUDIT_SEED", "1337"))
 MODE = os.environ.get("MODE", "select").lower()
+# Optional id scope: when IDS is set (comma/space-separated contradiction ids),
+# EVERY pass (floor, guardrail scan, stratified sample, work-file emit, report)
+# is restricted to just those contradictions. The chunked sweep uses this to
+# AUDIT PER BATCH — without it, select() samples the whole covered corpus and,
+# because discrepancy-leaning rows are force-sampled at 100% (and every row is
+# floored to >=1 audited excerpt), the first unscoped run would audit the entire
+# backlog. Unset -> identical to the previous whole-corpus behavior.
+_ids_raw = os.environ.get("IDS", "").strip()
+AUDIT_IDS = {int(x) for x in re.split(r"[,\s]+", _ids_raw) if x} if _ids_raw else None
 
 SEVEN = {"GILL", "JFB", "CLARKE", "KD", "MHC", "TYN", "GNV"}
 # SAMPLING risk-tier ONLY (select()'s force-100%-audit set for the strongest
@@ -148,8 +157,12 @@ def load_verdict(path):
 
 
 def machine_files():
-    return sorted(glob.glob(os.path.join(MACHINE_DIR, "*.json")),
-                  key=lambda p: int(re.findall(r"\d+", os.path.basename(p))[0]))
+    files = sorted(glob.glob(os.path.join(MACHINE_DIR, "*.json")),
+                   key=lambda p: int(re.findall(r"\d+", os.path.basename(p))[0]))
+    if AUDIT_IDS:
+        files = [p for p in files
+                 if int(re.findall(r"\d+", os.path.basename(p))[0]) in AUDIT_IDS]
+    return files
 
 
 # deterministic, dependency-free hash for stable sampling (no Math.random / time)
