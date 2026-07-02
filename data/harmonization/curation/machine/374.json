@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 374,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The Geneva Bible's annotators read 'no fury' as audience-bound: withheld from God's Church, poured on the 'wicked infidels' the briers and thorns represent.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptics Annotated Bible presses this exact verse, juxtaposing 'fury is not in me' with the surrounding fury texts as a plain self-contradiction.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (skepticsannotatedbible.com)",
+        "year": "1999-present; print ed. 2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (website est. 1999; print ed. 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Isaiah 27:4",
+      "excerpt_text": "Therefore he will destroy the kingdom of Satan, because he loveth his Church for his own mercy’s sake, and cannot be angry with it, but wisheth that he may pour his anger upon the wicked infidels, whom he meaneth by briers and thorns.",
+      "full_note_ref": "GNV/23/27/4",
+      "on_tension_rationale": "Directly glosses 'fury is not in me' as restricted to God's own people (the vineyard/Church) while affirming his anger still falls on 'wicked infidels' (the briers and thorns) -- the audience-distinction move that is the standard harmonization against the other cited fury texts.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley pairs Isaiah 27:4 ('Fury is not in me') directly against Nahum 1:2 ('the Lord revengeth, and is furious ... he reserveth wrath for his enemies') under his heading 'God, an angry being. -- Not angry,' arguing that the love and 'anger' ascribed to God -- his 'displeasure and disgust' at sin -- are 'opposite poles of the same moral emotion,' not a real contradiction."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/does-God-get-angry.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Does God get angry?",
+        "note": "Live apologetic treatment of the general God's-anger tension (topical, not verse-specific to Isaiah 27:4)."
+      }
+    }
+  }
+}

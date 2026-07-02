@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 312,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Keil and Delitzsch argue the Amram of Exodus 6:20 is a later namesake, not Kohath's son, so unnamed generations are compressed into the list.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Israel Finkelstein and Neil Asher Silberman press this exact clash in The Bible Unearthed: Moses is fourth-generation from Levi, Joshua twelfth-generation from Joseph.",
+      "skeptic": {
+        "name": "Israel Finkelstein and Neil Asher Silberman",
+        "work": "The Bible Unearthed: Archaeology's New Vision of Ancient Israel and the Origin of Its Sacred Texts",
+        "year": "2001",
+        "attribution": "Israel Finkelstein & Neil Asher Silberman, The Bible Unearthed (2001), p. 35"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Exodus 6:14",
+      "excerpt_text": "But as this is absolutely impossible, it must be granted that Amram the son of Kohath was not the father of Moses, and that an indefinitely long list of generations has been omitted between the former and his descendant of the same name …",
+      "full_note_ref": "KD/2/6/14",
+      "on_tension_rationale": "Directly answers the Levi-to-Moses generation count: the Amramite population math (Num 3:27-28, 8600 Kohathites / 4 branches vs. Moses having only two sons) makes the two Amrams the same person impossible, so K&D conclude the short Exodus 6 list telescopes an unstated number of generations rather than recording a literal 3-4 generation span -- directly answering why it looks so much shorter than the Ephraim-to-Joshua line.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Exodus 6:14-30",
+        "author": "Keil & Delitzsch",
+        "year": "1861-75",
+        "note": "K&D treat this exact genealogy, arguing the Amram of Exodus 6:20 is a later descendant rather than Kohath's immediate son, so the Levi-Kohath-Amram-Moses list telescopes an unstated number of generations rather than fixing a literal span."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Exodus_6.16-20.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in Exodus 6:16-20?",
+        "note": "Live apologetics treatment of the Levi-to-Moses generation count via the same telescoping/population-math argument; it does not itself cross-reference the Ephraim-to-Joshua line in 1 Chronicles 7."
+      }
+    }
+  }
+}

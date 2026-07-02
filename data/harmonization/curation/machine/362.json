@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 362,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill reads 1 Corinthians 13:7's 'believeth all things' as charity toward persons' characters, not the credulity about words and spirits the other texts warn against.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptics Annotated Bible presses these five verses as flatly incompatible answers to whether we should believe everything, not different senses of 'believe.'",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "1999 (site); 2013 (print ed.)",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Should We Believe Everything?\" (skepticsannotatedbible.com, est. 1999; print ed. SAB Books, 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Corinthians 13:6",
+      "excerpt_text": "though such a man will not believe every spirit, every preacher and teacher, nor any but such as agree with the Scriptures of truth, the standard of faith and practice; nor will he believe every word of man, which is the character of a weak and foolish man; indeed, a man of charity or love is willing to believe all the good things reported of men; he is very credulous of such things, and is unwilling to believe ill reports of persons, or any ill of men; unless it is open and glaring, and is well supported, and there is full evidence of it; he is very incredulous in this respect:",
+      "full_note_ref": "GILL/46/13/6",
+      "on_tension_rationale": "Gill's exposition of 1 Cor 13:7 explicitly distinguishes the 'believeth all things' of love (charitable belief in good reports of persons) from believing 'every spirit' or 'every word of man' -- echoing 1 John 4:1's and Proverbs 14:15's own vocabulary -- directly resolving the tension the question raises.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63)",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats 1 Corinthians 13:7 directly, distinguishing love's charitable 'believeth all things' toward persons from the credulity about words, spirits, and reports that Proverbs 14:15, 1 Thessalonians 5:21, and 1 John 4:1 warn against -- the same passage anchoring this row's reconcile pole; Haley's Alleged Discrepancies could not be confirmed (full-text search) to treat this credulity/testing cluster at all."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/love-always-trusts.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does it mean that love always trusts (1 Corinthians 13:7)?",
+        "note": "live apologetic treatment arguing that love's 'believes all things' is not gullibility or a lack of discernment, addressing the same naive-credulity reading this contradiction turns on"
+      }
+    }
+  }
+}

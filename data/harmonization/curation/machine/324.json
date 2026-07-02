@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 324,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "JFB attribute the mismatch to when and where each register was drawn up — Ezra's list compiled in Babylon, Nehemiah's re-checked later in Judea.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, in the Skeptic's Annotated Bible, presses the bare numbers: Ezra records 666, Nehemiah 667, and neither text explains or resolves the one-person gap.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How many of Adonikam's offspring returned from Babylon?\" (skepticsannotatedbible.com/contra/adonikam.html)",
+        "year": "2000",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/adonikam.html, attested by 2000)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Nehemiah 7:5",
+      "excerpt_text": "But the discrepancy is sufficiently accounted for from the different circumstances in which the two registers were taken; that of Ezra having been made up at Babylon, while that of Nehemiah was drawn out in Judea, after the walls of Jerusalem had been rebuilt.",
+      "full_note_ref": "JFB/16/7/5",
+      "on_tension_rationale": "Directly names 'the discrepancy' between the Ezra 2 and Nehemiah 7 registers and gives the general reconciling mechanism (different time/place of compilation) that covers every mismatched family total, including Adonikam's 666 vs 667.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament: Ezra, on Ezra 2:3ff.",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D set the Ezra 2 and Nehemiah 7 family totals side by side in a comparison table (including the Adonikam entry, 666/667) and attribute the surviving numeric differences across the lists to clerical/copying error rather than to an error in the original record. (Haley's 1874 Alleged Discrepancies could not be confirmed to treat this specific passage — no match for 'Adonikam' or 'Nehemiah vii. 18' in the full-text-searchable edition — so a row-surfaced harmonizing commentator keyed to the passage is used instead, per spec.)"
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/why-are-the-statistics-in-ezra-2-and-nehemiah-7-different/",
+        "domain": "carm.org",
+        "title": "CARM: Why are the statistics in Ezra 2 and Nehemiah 7 different?",
+        "note": "Live apologetic treatment of the general Ezra 2 / Nehemiah 7 numeric mismatches (of which the Adonikam entry is one instance)."
+      }
+    }
+  }
+}

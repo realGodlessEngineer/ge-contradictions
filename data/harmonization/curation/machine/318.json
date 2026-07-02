@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 318,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "JFB explain the gap as attrition: many of Arah's 775 enrolled returnees died or were hindered before departure, leaving only 652 to reach Jerusalem.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible names this exact mismatch -- Ezra's 775 against Nehemiah's 652 for the same census of Arah's family.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How many of Arah's offspring returned from Babylon?\" (skepticsannotatedbible.com/contra/arah.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"How many of Arah's offspring returned from Babylon?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Ezra 2:5",
+      "excerpt_text": "The number is stated in Neh 7:10 to have been only six hundred fifty-two. It is probable that all mentioned as belonging to this family repaired to the general place of rendezvous, or had enrolled their names at first as intending to go; but in the interval of preparation, some died, others were prevented by sickness or insurmountable obstacles, so that ultimately no more than six hundred fifty-two came to Jerusalem.",
+      "full_note_ref": "JFB/15/2/5",
+      "on_tension_rationale": "Directly addresses this contradiction's specific families and numbers (Arah, 775 vs. 652), proposing that the higher figure was an initial enrollment of intending travelers and the lower figure the actual arrivals after attrition from death, illness, or other obstacles.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley lists the Arah totals from Ezra 2:5 and Nehemiah 7:10 side by side -- 'seven hundred seventy-five' against 'six hundred and fifty-two' -- and states, 'Most probably the difference is due to copyists' blunders,' treating it as one of roughly twenty parallel numeric variances between the two registers, all explained the same way."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Ezra-Nehemiah-numbers.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why are the numbers in Ezra so different from those in Nehemiah?",
+        "note": "Live apologetic treatment of the family-count differences across the two return rosters (time/place of registration, possible age-of-counting differences, copying) -- the general harmonization under which the Arah count falls."
+      }
+    }
+  }
+}

@@ -1,0 +1,63 @@
+{
+  "contradiction_id": 395,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "These expositors read Bethabara as the Jordan's own crossing-point, so John's 'beyond Jordan' town and the Synoptics' 'in Jordan' name one riverside site.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The Skeptic's Annotated Bible poses the conflict directly: the Synoptics place the baptizing 'in Jordan,' John 1:28 sets it 'in Bethabara beyond Jordan.'",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible — \"Where did John baptize?\"",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); skepticsannotatedbible.com/contra/jordan.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Matthew 3:7",
+      "excerpt_text": "He was now baptizing in Jordan at Bethabara (Joh 1:28), the house of passage, where the children of Israel passed over …",
+      "full_note_ref": "MHC/40/3/7",
+      "on_tension_rationale": "Directly merges both location descriptions into one clause — 'baptizing in Jordan at Bethabara' — treating the Synoptic river and John's named site as the same place.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "John 1:28",
+      "excerpt_text": "…the place here mentioned; which was a passage over Jordan, where much people walked to go on the other side, beyond Jordan; and where also John was baptizing …",
+      "full_note_ref": "GILL/43/1/28",
+      "on_tension_rationale": "Identifies Bethabara as itself 'a passage over Jordan' (a ford on the river) where John baptized, so the town-name and the river-name pick out one location.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on John 1:28",
+        "author": "John Gill",
+        "year": "1746-63",
+        "note": "Gill treats John 1:28 directly, glossing Bethabara as a ford/crossing on the Jordan itself — the harmonizing reading surfaced on this row. (Checked against John Haley's Alleged Discrepancies of the Bible (1874), which does not treat this passage.)"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/John-baptizing-in-Bethabara.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What is the significance of John baptizing in Bethabara (John 1:28)?",
+        "note": "Live treatment of the Bethabara/Bethany textual and site question at John 1:28; on-topic for this verse, though framed as a name-and-site question rather than the cross-Gospel wording."
+      }
+    }
+  }
+}

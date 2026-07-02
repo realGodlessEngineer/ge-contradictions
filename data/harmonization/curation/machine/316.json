@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 316,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Clarke reads the Hebrew מת ('dead') as a participle meaning 'dying,' letting Josiah die only after reaching Jerusalem, as Chronicles states.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptics Annotated Bible presses the point bluntly: Kings has him dead at Megiddo; Chronicles has him dying in Jerusalem.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Where did Josiah die?\"",
+        "year": "1999-present (website)",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Where did Josiah die?\" (skepticsannotatedbible.com)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "2 Kings 23:30",
+      "excerpt_text": "Dead from Megiddo - The word מת meth should here be considered as a participle, dying, for it is certain he was not dead: he was mortally wounded at Megiddo, was carried in a dying state to Jerusalem, and there he died and was buried.",
+      "full_note_ref": "CLARKE/12/23/30",
+      "on_tension_rationale": "Directly resolves the Kings/Chronicles death-location tension by reinterpreting 'dead' at 2 Kings 23:30 as 'dying,' aligning Kings with Chronicles' account of Josiah dying only after reaching Jerusalem.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats the Megiddo/Jerusalem question directly, arguing that the Hebrew meth ('dead') at 2 Kings 23:30 is better read as a participle, 'dying,' so Josiah died only after reaching Jerusalem as Chronicles states (per the 1977 Baker reprint, p. 376) — the same grammatical argument surfaced here from Adam Clarke's earlier commentary."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/2_Kings_23.30.php",
+        "domain": "defendinginerrancy.com",
+        "title": "2 Kings 23:30—Did Josiah die at Megiddo or at Jerusalem?",
+        "note": "live apologetic treatment arguing Kings and Chronicles describe the same sequence: mortally wounded at Megiddo, died only after being carried to Jerusalem"
+      }
+    }
+  }
+}

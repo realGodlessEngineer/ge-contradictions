@@ -1,0 +1,46 @@
+{
+  "contradiction_id": 376,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill reads Jeremiah's 'signs of heaven' as ordinary astrology, not the extraordinary eschatological signs Christ himself predicts in Luke 21:11.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible juxtaposes the verses directly: the text cannot both forbid dismay at heaven's signs and treat them as a genuine end-times marker.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, s.v. \"Should we look for signs from heaven?\"",
+        "year": "1999",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (website est. 1999; print ed. 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Jeremiah 10:2",
+      "excerpt_text": "… not any extraordinary signs, such as are predicted in Joe 2:30, and by our Lord, as signs of the last destruction of Jerusalem, and of his coming, and of the end of the world, Mat 24:3, but ordinary signs, which are no other than the sun, and moon, and stars, which are set up for signs and seasons, and days and years, Gen 1:14, and as long as they are observed as signs of places and of times, it is well enough; but if more is attributed unto them, as portending things future, and as having an influence on the birth and death, dispositions and actions of men, when in such a conjunction, situation, and position, it is wrong; which is what is called judicial astrology, and to which the Chaldeans were much addicted, and is here condemned …",
+      "full_note_ref": "GILL/24/10/2",
+      "on_tension_rationale": "Gill directly distinguishes Jeremiah's condemned 'signs of heaven' (ordinary astrological omen-reading) from the extraordinary eschatological signs Christ predicts, citing Matt 24:3 as the parallel to Luke 21:11 -- the classic harmonizing move for this exact pairing.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible, comm. on Jeremiah 10:2 (1746-63)",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact pairing (Jeremiah's 'signs of heaven' vs. the Gospel's eschatological signs) directly, distinguishing judicial astrology from Christ's predicted portents. John Haley's Alleged Discrepancies of the Bible (1874) was checked (full text) and does not cover this specific verse pair, so Gill is used per the fallback rule."
+      }
+    }
+  }
+}

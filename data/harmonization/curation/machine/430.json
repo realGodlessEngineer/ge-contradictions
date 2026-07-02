@@ -1,0 +1,65 @@
+{
+  "contradiction_id": 430,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the two sayings as addressing different audiences: absolute allegiance is demanded against Satan's camp, but charitable latitude is extended among Christ's own sympathizers.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible catalogs the sayings as a flat contradiction — one demanding exclusive allegiance, the other conceding neutrality — and offers no harmonization of its own.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Who is for or against Jesus?\"",
+        "year": null,
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Who is for or against Jesus?\" (skepticsannotatedbible.com/contra/withme.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Matthew 12:22",
+      "excerpt_text": "In the little differences that may arise between the disciples of Christ among themselves, we are taught to lessen the matters in variance, and to seek peace, by accounting those who are not against us, to be with us (Luk 9:50); but in the great quarrel between Christ and the devil, no peace is to be sought, nor any such favourable construction to be made of any indifference in the matter; he that is not hearty for Christ, will be reckoned with as really against him: he that is cold in the cause, is looked upon as an enemy.",
+      "full_note_ref": "MHC/40/12/22",
+      "on_tension_rationale": "States the classic two-domains harmonization explicitly, naming both Matt 12:30 ('against me') and Luke 9:50 ('not against us') and drawing the line between them: no neutrality toward Satan, but charitable latitude among Christ's own.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Mark 9:40",
+      "excerpt_text": "The negative parallel to this proverb is found in Luke 11:23. These two proverbs should be understood as complementary, not contradictory, for Luke includes them both (Luke 9:50; 11:23). The exorcist casting out demons in Jesus’ name was not against Jesus, but for him.",
+      "full_note_ref": "TYN/41/9/40",
+      "on_tension_rationale": "Names the tension outright (calls Luke 11:23 the 'negative parallel') and states the complementary-proverbs reading, explicitly noting Luke contains both sayings — directly answers the 'internal to a single gospel' aggravation in the summary.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Luke 11:22",
+      "excerpt_text": "… for there were some who called themselves John's disciples, and did not attend on Christ, and yet were not against him, but cast out devils in his name; and such an one perhaps was he, that is made mention of in Mar 9:38 on occasion of whom, Christ there says some words, which may seem at first view, not so well to accord with these: but such are intended, who acted a neutral part between him and the Pharisees …",
+      "full_note_ref": "GILL/42/11/22",
+      "on_tension_rationale": "Gill names the Mark 9:38 exorcist directly and concedes the apparent clash ('may seem at first view, not so well to accord'), then resolves it by confining 'against me' to those siding with the hostile Pharisees, not independent workers of good.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714), on Matthew 12:22-30",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Haley's Examination of the Alleged Discrepancies of the Bible (1874) does not appear to treat this specific pairing (checked by full-text search of the 1874 edition), so the row's own harmonizing commentator is used instead: Henry states the same two-domains distinction directly, naming both Matt 12:30 and Luke 9:50 in one paragraph."
+      },
+      "link": null
+    }
+  }
+}

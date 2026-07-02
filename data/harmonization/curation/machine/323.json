@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 323,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Jamieson, Fausset & Brown trace the differing totals to when each register was made — Ezra's in Babylon, Nehemiah's later in Judea, after losses through death.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Thomas Paine notes Nehemiah's list 'differs in several of the particulars from that of Ezra' and judges such writers unreliable wherever exactness matters.",
+      "skeptic": {
+        "name": "Thomas Paine",
+        "work": "The Age of Reason, Part II",
+        "year": "1795",
+        "attribution": "Thomas Paine (1737-1809), The Age of Reason, Part II (1795)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Nehemiah 7:5",
+      "excerpt_text": "But the discrepancy is sufficiently accounted for from the different circumstances in which the two registers were taken; that of Ezra having been made up at Babylon, while that of Nehemiah was drawn out in Judea, after the walls of Jerusalem had been rebuilt. The lapse of so many years might well be expected to make a difference appear in the catalogue, through death or other causes …",
+      "full_note_ref": "JFB/16/7/5",
+      "on_tension_rationale": "JFB directly names the 'discrepancy' between the Ezra and Nehemiah returnee lists and gives the general timing/attrition theory that covers all the numeric gaps, including Azgad's.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats the Ezra/Nehemiah returnee-list numbers directly: he works the Arah case (Ezra 2:5 vs Neh 7:10, 775 vs 652) as his paradigm, attributes it to 'copyists' blunders,' and extends the same explanation to 'the other cases, some twenty in number, which appear from a comparison of Ezra ii. 6-60, with Neh. vii. 11-67' — the range that includes Azgad at Ezra 2:12."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Ezra-Nehemiah-numbers.html",
+        "domain": "gotquestions.org",
+        "title": "Why are the numbers in Ezra so different from those in Nehemiah? | GotQuestions.org",
+        "note": "live apologetic treatment; leans on the ~93-year gap between the two censuses (population growth, deaths, scope) rather than copying error"
+      }
+    }
+  }
+}

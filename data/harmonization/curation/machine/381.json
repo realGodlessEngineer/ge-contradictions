@@ -1,0 +1,56 @@
+{
+  "contradiction_id": 381,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read Jonah 2:3 as ascribing to God, as first cause, what the sailors carried out in 1:15 as his reluctant instruments.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses the plain wording as a genuine contradiction: one verse names the sailors, the other names God, as the one who cast Jonah in.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (skepticsannotatedbible.com, est. 1999; print ed. 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Jonah 2:2",
+      "excerpt_text": "Though the mariners did this, yet Jonah ascribes it to the Lord; he knew it was he, whom he had sinned against and offended … and overcame the reluctance of the men to it, and so worked upon them that they did it; and therefore Jonah imputes it to him, and not to them …",
+      "full_note_ref": "GILL/32/2/2",
+      "on_tension_rationale": "States plainly that the sailors physically threw Jonah, but Jonah's own prayer imputes the act to God, who overcame their reluctance and worked through them — the secondary-causation resolution of the two verses.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Jonah 2:3",
+      "excerpt_text": "Jehovah cast him into the depth of the sea, because the seamen were merely the executors of the punishment inflicted upon him by Jehovah.",
+      "full_note_ref": "KD/32/2/3",
+      "on_tension_rationale": "Directly harmonizes 1:15 and 2:3 by naming the sailors as Jehovah's executors, so 'God cast him' and 'the sailors cast him' describe the same act at two causal levels.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-75",
+        "note": "Treats this exact passage: Jonah 2:3's 'Thou castedst me' is explained as Jehovah acting through the sailors of 1:15 as his executors. (Haley's Alleged Discrepancies does not cover this specific verse pair, so the harmonizing commentator already surfaced on the row is used per the contract's fallback.)"
+      },
+      "link": null
+    }
+  }
+}

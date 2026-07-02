@@ -1,0 +1,49 @@
+{
+  "contradiction_id": 313,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry reads the two named per family as zealous volunteers chosen for this specific task, not an exhaustive roster of Heman's sons.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells' Skeptic's Annotated Bible lists this among its genealogy contradictions: the fourteen sons named in 1 Chronicles 25:4 against only Jehiel and Shimei in 2 Chronicles 29:14.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/sons_of_heman.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "2 Chronicles 29:12",
+      "excerpt_text": "Several of the Levites are here named, two of each of the three principal houses, Kohath, Gershon, and Merari (Ch2 29:12), and two of each of the three families of singers, Asaph, Heman, and Jeduthun, Ch2 29:13, Ch2 29:14. We cannot think these are named merely because they were chief in place (for then surely the high priest, or some of the heads of the courses of the priests, would have been mentioned), but because they were more zealous and active than the rest.",
+      "full_note_ref": "MHC/14/29/12",
+      "on_tension_rationale": "Explains why only two of Heman's sons appear in 2 Chronicles 29:14: they are representative, zealous Levites singled out for this cleansing task, not a complete census of Heman's fourteen sons named in 1 Chronicles 25:4.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on 2 Chronicles 29:12",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this exact passage: the two Levites named per family in 2 Chronicles 29:12-14, including Heman's, were singled out for zeal and activity in the temple-cleansing task, not offered as an exhaustive list of each patriarch's sons. (John Haley's Alleged Discrepancies was checked directly via full-text search and does not treat this passage at all, so Henry is used per the contract's fallback clause.)"
+      },
+      "link": null
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 433,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read the \"without a parable\" language as summarizing that day's crowd teaching, not Jesus's entire ministry.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptics Annotated Bible names the sharpest case: John's Jesus gives long discourses but never once tells a parable.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Did Jesus always speak in parables?\" (skepticsannotatedbible.com/contra/parables.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/parables.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 13:32",
+      "excerpt_text": "…and without a parable spake he not unto them: not that he never had preached but in a parabolical way unto them, or that he never did afterwards use any other way of speaking; for it is certain, that both before and after, he delivered himself plainly, and without figures: but the meaning is, that in that sermon, and at that time, he thought fit to make use of no other method, as appears from the many other parables he afterwards delivered …",
+      "full_note_ref": "GILL/40/13/32",
+      "on_tension_rationale": "Directly glosses the absolute clause as limited to that sermon, explicitly conceding Jesus 'both before and after' spoke plainly — the core harmonizing move against the face-value reading.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Matthew 13:34",
+      "excerpt_text": "All these things spake Jesus unto the multitude in parables; and without a parable spake he not unto them--that is, on this occasion; refraining not only from all naked discourse, but even from all interpretation of these parables to the mixed multitude.",
+      "full_note_ref": "JFB/40/13/34",
+      "on_tension_rationale": "Glosses 'without a parable spake he not unto them' with 'that is, on this occasion,' restricting the absolute-sounding clause to this single teaching session rather than Jesus's whole ministry.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Mark 4:21",
+      "excerpt_text": "But, for the present, without a parable spoke he not unto them, Mar 4:34.",
+      "full_note_ref": "MHC/41/4/21",
+      "on_tension_rationale": "Matthew Henry's own gloss inserts 'for the present' directly into the Markan clause, time-bounding the claim to that occasion — independent confirmation of the same harmonizing reading from the Mark side of the parallel.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Matthew 13:32",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact tension at the verse, arguing the 'without a parable spake he not unto them' clause describes only that sermon and conceding it is certain Jesus spoke plainly both before and after. (Haley's coverage of this specific passage could not be confirmed; per spec a row-surfaced harmonizing commentator keyed to the passage is used instead.)"
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No verified, on-topic allowlisted apologetics page found treating this specific parables tension; omitted rather than guessed."
+      }
+    }
+  }
+}

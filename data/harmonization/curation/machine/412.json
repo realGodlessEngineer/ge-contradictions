@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 412,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the two texts as answering different questions: Matthew 6 gives prayer's pattern; Romans 8:26 concerns not knowing what specifically to ask for.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses the two texts as flatly opposed: Jesus teaches a prayer, yet Paul says believers don't know what to pray for.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"Do Christians know how to pray?\"",
+        "year": null,
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, \"Do Christians know how to pray?\" (skepticsannotatedbible.com/contra/pray.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Matthew 6:9",
+      "excerpt_text": "Because we know not what to pray for as we ought, he here helps our infirmities, by putting words into our mouths; after this manner therefore pray ye, Mat 6:9.",
+      "full_note_ref": "MHC/40/6/9",
+      "on_tension_rationale": "Henry explicitly grounds the giving of the Lord's Prayer in the very ignorance Romans 8:26 names, making Matt 6:9 the answer to Paul's statement rather than a rival claim.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Romans 8:26",
+      "excerpt_text": "but what they are ignorant of is chiefly the matter of prayer: indeed the whole Bible is an instruction in general to this work, so is the prayer Christ taught his disciples, and the several prayers of saints recorded in the Scriptures; the promises of God, and their own wants and necessities, may, and do, greatly direct them; … but what of all things they seem to be, at least at some times, at a loss about, is what to pray for with respect to things temporal, such as riches, honour, friends …",
+      "full_note_ref": "GILL/45/8/26",
+      "on_tension_rationale": "Gill distinguishes the general instruction in prayer (which he says the Lord's Prayer supplies) from the specific 'matter' of temporal particulars believers still lack, directly reconciling the two texts.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Romans 8:26",
+      "excerpt_text": "It is not the proper matter of prayer that believers are at so much loss about, for the fullest directions are given them on this head: but to ask for the right things \"as they ought\" is the difficulty.",
+      "full_note_ref": "JFB/45/8/26",
+      "on_tension_rationale": "JFB states plainly that believers are not ignorant of the content of prayer, since 'the fullest directions' (including the Lord's Prayer) are given; the difficulty is asking rightly amid spiritual dimness, not not knowing what to pray for.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Matthew 6:9",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry ties Matt 6:9 directly to the Romans 8:26 language ('we know not what to pray for as we ought'), reading the Lord's Prayer as Christ's provision for that very infirmity — already surfaced as MHC/40/6/9 on this row; Haley's Alleged Discrepancies does not treat this specific pairing."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No confirmed on-topic live page on an allowlisted apologetics domain (gotquestions.org, carm.org, defendinginerrancy.com) treating this specific Matt 6:9-13 vs Romans 8:26 pairing was located; omitted rather than guessed."
+      }
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 436,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read Cain's reprieve as predating the death-penalty law, an act of sovereign forbearance rather than a rule against capital punishment.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells (Skeptic's Annotated Bible) juxtaposes the same texts: Genesis 9:6 demands murderers' deaths, yet God marks Cain so no one kills him.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Does God approve of capital punishment?\" (skepticsannotatedbible.com/contra/capital.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/capital.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Genesis 4:15",
+      "excerpt_text": "Cain complained that his punishment was too great, but the full sentence that would fall on anyone who committed Cain’s crime against him shows how gracious the Lord was to Cain. Cain deserved death (see 9:5-6).",
+      "full_note_ref": "TYN/1/4/15",
+      "on_tension_rationale": "Explicitly names the general rule Cain would fall under (9:5-6, 'Cain deserved death') and frames his being spared as an act of grace, not a denial that murder deserves death.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Genesis 9:1",
+      "excerpt_text": "Before the flood, as it should seem by the story of Cain, God took the punishment of murder into his own hands; but now he committed this judgment to men, to masters of families at first, and afterwards to the heads of countries, who ought to be faithful to the trust reposed in them.",
+      "full_note_ref": "MHC/1/9/1",
+      "on_tension_rationale": "Directly reconciles Cain's reprieve with Gen 9:6 by placing them in two administrative periods: pre-Flood, God reserved capital judgment to himself; post-Flood, he delegated it to human magistrates.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Genesis 4:15",
+      "excerpt_text": "By a special act of divine forbearance, the life of Cain was to be spared in the then small state of the human race.",
+      "full_note_ref": "JFB/1/4/15",
+      "on_tension_rationale": "Reads Cain's reprieve as a one-off act of forbearance justified by the sparse early population, not a general precedent against capital punishment for murder.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), section \"Capital punishment\"",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's own section is titled \"Capital punishment\" and sets Genesis 9:6 (\"executed\") directly against Cain's reprieve in Genesis 4:12-13 (\"spared\"), resolving it by dating: \"The case of Cain occurred some fifteen hundred years before this command was given to Noah.\""
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Genesis_4.12-13.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Why wasn't Cain given capital punishment for the murder he committed?",
+        "note": "Live apologetic treatment of this exact tension, arguing capital punishment for murder was only instituted at Genesis 9:6, after Cain's case."
+      }
+    }
+  }
+}

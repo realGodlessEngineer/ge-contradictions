@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 314,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry redefines biblical 'perfection' itself: sincerity of devotion, not sinlessness, so Asa's later failures do not undo the verdict.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible argues directly: Asa's Syrian alliance, oppression of the people, and refusal to seek the Lord belie 'perfect.'",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (\"Was Asa Perfect?\")",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (1999; rev. ed. 2013), contra/asa.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "1 Kings 15:9",
+      "excerpt_text": "Nevertheless his heart was perfect with the Lord. This affords us a comfortable note, That those may be found honest and upright with God, and be accepted of him, who yet, in some instances, come short of doing the good they might and should do. The perfection which is made the indispensable condition of the new covenant is not to be understood of sinlessness (then we were all undone), but sincerity.",
+      "full_note_ref": "MHC/11/15/9",
+      "on_tension_rationale": "Matthew Henry directly defines Asa's 'perfect' heart as sincerity rather than sinlessness, explicitly framing that definition as compatible with the defects the surrounding history records (including, elsewhere in the same commentary, the 2 Chron 16:7-9 rebuke).",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on 2 Chronicles 16:8",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact tension at the verse where it arises, distinguishing Asa's habitual sincerity ('perfect... in the general bent of it') from his momentary failure of faith when rebuked by Hanani, 'as there often is in the best of men.'"
+      },
+      "link": null
+    }
+  }
+}

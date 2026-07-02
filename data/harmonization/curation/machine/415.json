@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 415,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the Mark 16 sign as a temporary confirming gift, not proof of salvation, and read the Mark 9 exorcist as a genuine (if unaffiliated) believer.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible names the plain clash: Mark 16:17 ties exorcism to belief, yet an outsider (Mark 9:38) and rejected workers (Matthew 7:22-23) both cast out devils too.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (1999– )"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Mark 16:16",
+      "excerpt_text": "Not all of them, but some; and not always, only for a time; and which were necessary for the confirmation of the Gospel, and the establishment of Christianity in the world …",
+      "full_note_ref": "GILL/41/16/16",
+      "on_tension_rationale": "Limits the Mark 16:17 'sign' to a temporary, evidentiary function tied to spreading the gospel, not a universal proof every believer must show or that a doer must be saved — undercuts reading it as THE mark of a true Christian.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Matthew 7:21",
+      "excerpt_text": "That in thy name we have cast out devils? That may be too; Judas cast out devils, and yet was a son of perdition. Origen says, that in his time so prevalent was the name of Christ to cast out devils, that sometimes it availed when named by wicked Christians. A man might cast devils out of others, and yet have a devil, nay, be a devil himself.",
+      "full_note_ref": "MHC/40/7/21",
+      "on_tension_rationale": "Directly answers Matt 7:22's exorcist-plea with the Judas parallel: casting out devils can occur even in someone unregenerate, so the act itself does not certify genuine faith.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Mark 9:38",
+      "excerpt_text": "It can scarcely be supposed that a man who knew nothing of Christ, or who was only a common exorcist, could be able to work a miracle in Christ's name; we may therefore safely imagine that this was either one of John the Baptist's disciples, who, at his master's command, had believed in Jesus, or one of the seventy, whom Christ had sent out … but as he still held fast his faith in Christ, and walked in good conscience, the influence of his Master still continued with him, so that he could cast out demons as well as the other disciples.",
+      "full_note_ref": "CLARKE/41/9/38",
+      "on_tension_rationale": "Resolves the Mark 9:38 case by arguing the unauthorized exorcist was nonetheless a genuine believer despite not being of Jesus's band, so his exorcism does not contradict Mark 16:17's tie between the sign and belief.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Matthew 7:21-23",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats the exorcist-plea of Matthew 7:22 directly, arguing by the Judas parallel that casting out devils in Christ's name is no proof of genuine faith, since 'a man might cast devils out of others, and yet have a devil, nay, be a devil himself.'"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Matthew-7-21-23.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Does Matthew 7:21-23 mean that believers can lose salvation?",
+        "note": "Live apologetic treatment arguing that miracle-working, including casting out demons, is never a reliable indicator of genuine faith — the people Jesus rejects in Matt 7:22-23 were never true believers."
+      }
+    }
+  }
+}

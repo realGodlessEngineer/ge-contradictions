@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 413,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read 'heaven' in Revelation as the church militant or Roman world, not God's throne room, and treat the war as resolved by Christ's triumph.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible juxtaposes 'thy will be done ... in heaven' against 'there was war in heaven' as a flat yes/no contradiction.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"Is God's will always done in heaven?\"",
+        "year": null,
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, \"Is God's will always done in heaven?\" (skepticsannotatedbible.com/contra/will.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Revelation 12:7",
+      "excerpt_text": "war in heaven--What a seeming contradiction in terms, yet true! Contrast the blessed result of Christ's triumph, Luk 19:38, \"peace in heaven.\" Col 1:20, \"made peace through the blood of His cross, by Him to reconcile all things unto Himself; whether . . . things in earth, or things in heaven.\"",
+      "full_note_ref": "JFB/66/12/7",
+      "on_tension_rationale": "JFB names 'war in heaven' outright as 'a seeming contradiction in terms, yet true' and resolves the tension eschatologically, contrasting the present conflict with the future 'peace in heaven' secured by Christ (Luke 19:38; Col 1:20) -- directly on-point for why war in heaven doesn't undo Matt 6:10's premise that heaven is where God's will is perfectly done.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Revelation 12:7",
+      "excerpt_text": "Not in the third heaven, the habitation of God, the seat of the angels and glorified saints, there is no discord, jars, and contentions there, nothing but peace, love, and joy; but in the church below, which is militant, and has in it as it were a company of two armies; or rather in the Roman empire, which was the heaven of Satan, the god of this world, and of his angels …",
+      "full_note_ref": "GILL/66/12/7",
+      "on_tension_rationale": "Gill distinguishes the literal 'third heaven' (God's own abode, with 'no discord, jars, and contentions... nothing but peace, love, and joy') from the 'heaven' of Rev 12:7, relocating the war to the church militant or the Roman empire -- directly answering whether God's actual heaven ever loses its perfect peace.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), note on Revelation 12:7",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats the tension by name, calling 'war in heaven' 'a seeming contradiction in terms, yet true' and resolving it by contrasting the temporary conflict with the 'peace in heaven' secured by Christ's triumph (Luke 19:38; Col 1:20) -- the same note anchoring this row's reconcile pole. Haley's Alleged Discrepancies could not be confirmed to treat this specific pairing."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No confirmed on-topic live page on an allowlisted apologetics domain (gotquestions.org, carm.org, defendinginerrancy.com) treating this specific Matt 6:10 vs Rev 12:7 pairing was located -- gotquestions.org's own 'war in heaven' article addresses the battle's timing/identity, not this tension; omitted rather than guessed."
+      }
+    }
+  }
+}

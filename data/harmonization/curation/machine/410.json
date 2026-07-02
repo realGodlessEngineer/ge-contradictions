@@ -1,0 +1,56 @@
+{
+  "contradiction_id": 410,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read Isaiah's 'filthy rags' as the fallen self's own righteousness apart from grace, not the Spirit-wrought goodness Luke ascribes to Joseph.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells in the Skeptic's Annotated Bible, who sets Isaiah's blanket verdict against Luke's flat 'good man' label as flatly incompatible claims.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible (\"Is anyone good?\", skepticsannotatedbible.com/contra/good.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, \"Is anyone good?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Isaiah 64:6",
+      "excerpt_text": "righteousness--plural, \"uncleanness\" extended to every particular act of theirs, even to their prayers and praises. True of the best doings of the unregenerate (Phi 3:6-8; Tit 1:15; Heb 11:6).",
+      "full_note_ref": "JFB/23/64/6",
+      "on_tension_rationale": "Restricts the 'filthy rags' verdict to 'the best doings of the unregenerate,' i.e. not a claim about literally every human being — reconciles directly with Luke calling Joseph 'good.'",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Isaiah 64:6",
+      "excerpt_text": "…not of the righteousness of Christ, which was made hers by imputation; for this is not rags, but a robe, the best robe, and wedding garment … and is opposed to their own righteousness; which is what is intended here, even the best of it …",
+      "full_note_ref": "GILL/23/64/6",
+      "on_tension_rationale": "Distinguishes 'their own righteousness' (filthy rags) from 'the righteousness of Christ...made hers by imputation' (a pure robe) — the imputation move that lets Scripture call a believer 'good' while Isaiah calls unaided human righteousness filthy rags.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Isaiah 64:6",
+        "author": "Robert Jamieson, A. R. Fausset & David Brown",
+        "year": "1871",
+        "note": "JFB treats this exact verse, reading 'filthy rags' as true of 'the best doings of the unregenerate' rather than a categorical verdict on every human being — the harmonizing move this row relies on. (Checked: John Haley's Alleged Discrepancies of the Bible, 1874, does not treat Isaiah 64:6 or this pairing — no 'filthy rags,' 'Joseph of Arimathea,' or '64:6' match in the full text.)"
+      },
+      "link": null
+    }
+  }
+}

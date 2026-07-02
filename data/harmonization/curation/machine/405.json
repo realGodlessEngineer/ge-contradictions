@@ -1,0 +1,72 @@
+{
+  "contradiction_id": 405,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers place Luke's plain on the mountain itself, read one episode of descent-to-heal then reascent-to-preach, or take it as a separate, later repetition of the sermon.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "D. F. Strauss presses the plain clash — Matthew seated on the mountain, Luke standing on the plain, \"almost in contradiction\" — and dismisses both harmonizations as \"fruitless efforts at conciliation.\"",
+      "skeptic": {
+        "name": "D. F. Strauss",
+        "work": "The Life of Jesus Critically Examined",
+        "year": "1846",
+        "attribution": "D. F. Strauss (d. 1874), The Life of Jesus Critically Examined (1846)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Luke 6:16",
+      "excerpt_text": "and stood in the plain; in a lower part of the mountain, in a plain place on it; which was large, and capable of holding a great number of people; for it was still upon the mount, that Christ taught his disciples, and said many of the things hereafter mentioned in this chapter; see Mat 5:1.",
+      "full_note_ref": "GILL/42/6/16",
+      "on_tension_rationale": "Directly identifies Luke's 'plain' as a level spot on the same mountain Matthew names, so the two settings are one location, not a contradiction.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Luke 6:17",
+      "excerpt_text": "but, as Dr. Priestly justly observes, Matthew's saying that Jesus was sat down after he had gone up to the mountain, and Luke's saying that he stood on the plain when he healed the sick, before the discourse, are no inconsistencies. The whole picture is striking. Jesus ascends a mountain, employs the night in prayer; and, having thus solemnly invoked the Divine blessing, authoritatively separates the twelve apostles from the mass of his disciples. He then descends, and heals in the plain all the diseased among a great multitude, collected from various parts by the fame of his miraculous power. Having thus created attention, he likewise satisfies the desire of the people to hear his doctrine; and retiring first to the mountain whence he came, that his attentive hearers might follow him and might better arrange themselves before him …",
+      "full_note_ref": "CLARKE/42/6/17",
+      "on_tension_rationale": "Gives the single-episode harmonization in full sequence: mountain ascent to pray, descent to the plain to heal, then reascent to preach — so Matthew's 'mountain' and Luke's 'plain' both describe one continuous event.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Luke 6:17",
+      "excerpt_text": "in the plain--by some rendered \"on a level place,\" that is, a piece of high tableland, by which they understand the same thing, as \"on the mountain,\" where our Lord delivered the sermon recorded by Matthew (Mat 5:1), of which they take this following discourse of Luke to be but an abridged form. But as the sense given in our version is the more accurate, so there are weighty reasons for considering the discourses different. This one contains little more than a fourth of the other; it has woes of its own, as well as the beatitudes common to both; but above all, that of Matthew was plainly delivered a good while before, while this was spoken after the choice of the twelve; and as we know that our Lord delivered some of His weightiest sayings more than once, there is no difficulty in supposing this to be one of His more extended repetitions; nor could anything be more worthy of it.",
+      "full_note_ref": "JFB/42/6/17",
+      "on_tension_rationale": "Lays out the tableland (same-spot) reading and then argues instead for two distinct occasions, given the differing length, the added woes, and the later timing after the choosing of the Twelve.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Luke 6:17",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke keys the harmonization to this exact verse, citing Dr. Priestley to read the mountain ascent, the descent to heal in the plain, and the reascent to preach as one continuous episode. (Haley's coverage of this specific passage could not be confirmed; per spec a row-surfaced harmonizing commentator keyed to the passage is used instead.)"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Sermon-on-the-Plain.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What is the Sermon on the Plain?",
+        "note": "Live apologetic treatment that lays out both the abridgment/same-event reading and the two-distinct-occasions reading of Matthew 5:1 versus Luke 6:17."
+      }
+    }
+  }
+}
