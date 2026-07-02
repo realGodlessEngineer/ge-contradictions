@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 354,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators treat 'sleep' in Psalm 44:23 as figurative for God's seeming inactivity during a delay, not a literal claim clashing with Psalm 121:4's vigilance.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible lists this as a flat contradiction: 121:4's 'neither slumber nor sleep' against 44:23's 'why sleepest thou, O Lord?'",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Does God sleep?\" (skepticsannotatedbible.com/contra/sleep.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/sleep.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Psalms 44:23",
+      "excerpt_text": "Not that sleep properly falls upon God: the Keeper of Israel neither slumbers nor sleeps; his eyes are always upon his people; he never withdraws them from them, and he watches over them night and day: but sometimes he seems and is thought to be asleep; as when wicked men flourish and triumph over the righteous, and go on in sin with impunity; when their judgment seems to linger, and their damnation to slumber, though it does not; and when the saints are under sore afflictions, and the Lord seems to disregard them, and does not appear for their deliverance …",
+      "full_note_ref": "GILL/19/44/23",
+      "on_tension_rationale": "Directly denies that sleep literally falls on God (matching Ps 121:4's flat denial) while explaining why Ps 44:23's 'why sleepest thou' arises: God only 'seems' asleep when he delays judgment or deliverance.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Psalms 44:22",
+      "excerpt_text": "God is said to sleep when He does not interpose in whatever is taking place in the outward world here below; for the very nature of sleep is a turning in into one's own self from all relationship to the outer world, and a resting of the powers which act outwardly.",
+      "full_note_ref": "KD/19/44/22",
+      "on_tension_rationale": "States plainly that 'sleep' is figurative language for God withholding visible intervention, not a literal claim of divine slumber — the harmonizing move against Ps 121:4's flat denial.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Psalms 44:23",
+      "excerpt_text": "This style of addressing God, as indifferent, is frequent (Psa 3:7; Psa 9:19; Psa 13:1, &c.). However low their condition, God is appealed to, on the ground, and for the honor, of His mercy.",
+      "full_note_ref": "JFB/19/44/23",
+      "on_tension_rationale": "Frames the 'sleep' address as a recurring lament convention (citing parallel psalms), not a unique theological claim that God literally sleeps, which is what would clash with Ps 121:4.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), pp. 57-58",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley catalogs this exact verse pair under 'Does not sleep. / Sometimes' in his Doctrinal Discrepancies chapter (pp. 57-58), arguing that God 'in wisdom, defers the punishment of the wicked, and the deliverance of his people, so that he seems oblivious of both,' so a superficial observer might say 'he sleeps.'"
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Psalm_44.23.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Psalm 44:23—Does God sleep?",
+        "note": "live apologetic treatment reading 'sleep' as figurative for deferred judgment, harmonizing with Psalm 121:4"
+      }
+    }
+  }
+}

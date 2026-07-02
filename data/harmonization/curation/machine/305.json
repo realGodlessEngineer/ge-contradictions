@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 305,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read Matthew's \"fourteen generations\" as a stylized mnemonic grouping rather than a literal head-count, pointing to comparable compressions elsewhere in Old Testament genealogies.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharpest objection comes from Isaac of Troki, who charged that Matthew dropped Ahaziah, Joash, and Amaziah on purpose so the tally would come out to three even fourteens.",
+      "skeptic": {
+        "name": "Isaac of Troki",
+        "work": "Chizzuk Emunah (Faith Strengthened)",
+        "year": "c. 1593 (Eng. trans. Moses Mocatta, 1851)",
+        "attribution": "Isaac of Troki (1533-1594), Chizzuk Emunah [Faith Strengthened], trans. Moses Mocatta (1851)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Matthew 1:17",
+      "excerpt_text": "Such artificial aids to memory were familiar to the Jews, and much larger gaps than those here are found in some of the Old Testament genealogies. In Ezr 7:1-5 no fewer than six generations of the priesthood are omitted, as will appear by comparing it with Ch1 6:3-15.",
+      "full_note_ref": "JFB/40/1/17",
+      "on_tension_rationale": "JFB's headline comment on Matt 1:17 explains the 'fourteen' figure as a stylized memory device with an OT genealogical precedent (Ezra) for large-scale omission of generations -- directly answers why Chronicles' fuller king-list can outrun Matthew's stated count.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats Matthew's three-fourteens directly under 'Generations, forty-two / A different number' (Matt. i.17 vs. i.2-16), citing the common Jewish practice of dividing genealogies by a 'favorite or mystical number' with generations repeated or left out, and naming theories for which kings Matthew omitted."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/14-generations.html",
+        "domain": "gotquestions.org",
+        "title": "Is there an error in the counting of the 14 generations in Matthew chapter 1? | GotQuestions.org",
+        "note": "live apologetic treatment of the fourteen-generations count against the fuller 1 Chronicles 3 list"
+      }
+    }
+  }
+}

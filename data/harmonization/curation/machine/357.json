@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 357,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read testing and trust as compatible: reason is exercised but subordinated to Scripture, and 'captivity of thought' means persuasion, not coercion.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the plain reading: 'prove all things' urges independent judgment while 'lean not on thine own understanding' forbids it.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "1999 (site); 2013 (print ed.)",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, s.v. \"Should we think for ourselves?\" (skepticsannotatedbible.com, since 1999; print ed. 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Thessalonians 5:21",
+      "excerpt_text": "This precept negatives the Romish priest's assumption of infallibly laying down the law, without the laity having the right, in the exercise of private judgment, to test it by Scripture. LOCKE says, Those who are for laying aside reason in matters of revelation, resemble one who would put out his eyes in order to use a telescope.",
+      "full_note_ref": "JFB/52/5/21",
+      "on_tension_rationale": "Directly defends the exercise of private judgment/reason to test revelation -- the pro-thinking side of the tension -- against implicit-faith authoritarianism.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Proverbs 3:5",
+      "excerpt_text": "In short, not our reason and understanding at best, and much less as carnal and unsanctified, but the word of God only is our rule of judgment, and the standard of our faith and practice; and to that we should have recourse and be directed by it, and not lean to our own understandings.",
+      "full_note_ref": "GILL/20/3/5",
+      "on_tension_rationale": "Reframes 'lean not on thine own understanding' as subordinating autonomous reason to Scripture's rule rather than banning thought outright -- pairs directly with the 'prove all things by Scripture' side.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "2 Corinthians 10:5",
+      "excerpt_text": "The doctrines of the gospel and discipline of the church are the weapons of this warfare; and these are not carnal: outward force, therefore, is not the method of the gospel, but strong persuasions, by the power of truth and the meekness of wisdom. A good argument this is against persecution for conscience' sake: conscience is accountable to God only; and people must be persuaded to God and their duty, not driven by force of arms.",
+      "full_note_ref": "MHC/47/10/1",
+      "on_tension_rationale": "Glosses 2 Cor 10:5's 'captivity' of thought as achieved through persuasion and truth rather than force -- i.e. reasoned conviction, not suppression of thinking.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Robert Jamieson, A. R. Fausset & David Brown, Commentary Critical and Explanatory on the Whole Bible (1871), note on 1 Thessalonians 5:21",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "The row's own JFB excerpt is this work's direct, on-passage treatment of the 'prove all things' side of the tension (with the Locke analogy on reason and revelation); used here as the harmonizing PD work since Haley's specific-passage coverage of this pairing could not be confirmed."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/lean-not-own-understanding.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does it mean to lean not on your own understanding (Proverbs 3:5)?",
+        "note": "Live apologetic treatment distinguishing surrendering autonomous certainty about outcomes from abandoning reason altogether."
+      }
+    }
+  }
+}

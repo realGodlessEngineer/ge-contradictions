@@ -1,0 +1,64 @@
+{
+  "contradiction_id": 343,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read Paul's 'fool' as the world's mocking label for gospel faith, not the moral folly Psalm and Ephesians condemn.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible lists these verses under 'Is it good to be foolish?' as a bare contradiction, without addressing the shift in sense.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (1999- )"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "1 Corinthians 1:21",
+      "excerpt_text": "The goodness of God is wonderful, for while he goeth about to punish the pride of the world, he is very provident and careful, for the salvation of it, and teacheth men to become fools, that they may be wise to God.",
+      "full_note_ref": "GNV/46/1/21",
+      "on_tension_rationale": "States the harmonizing logic directly: God's 'foolishness' strategy is provident salvation-planning, not the moral folly Psalm 5:5 has God abhor.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Corinthians 3:18",
+      "excerpt_text": "let him become a fool that he may be wise; not that, properly speaking, folly is the way to wisdom; but that that man that would be wise in a spiritual sense, must first learn to know himself; must be convinced of, and acknowledge his own folly, embrace the Gospel of Christ, which is esteemed foolishness by the world …",
+      "full_note_ref": "GILL/46/3/18",
+      "on_tension_rationale": "Explicitly denies Paul commends literal folly; 'fool' names what the world calls foolish (the gospel), distinguishing it from the folly Psalm 5:5/Eph 5:15 condemn.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "1 Corinthians 4:10",
+      "excerpt_text": "Surely all these expressions are meant ironically; the apostles were neither fools, nor weak, nor contemptible; nor were the Corinthians, morally speaking, wise, and strong, and honorable.",
+      "full_note_ref": "CLARKE/46/4/10",
+      "on_tension_rationale": "Reads 'fools for Christ's sake' as ironic self-designation rather than a claim of actual folly, so it does not describe the same condition Psalm 5:5/Eph 5:15 condemn.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on 1 Corinthians 3:18",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Haley's Alleged Discrepancies of the Bible (1874) was checked (full text, archive.org) and does not treat this passage; Gill's note on 1 Corinthians 3:18 -- already surfaced on this row -- directly argues the harmonizing point that 'fool' names the gospel as the world sees it, not literal folly."
+      }
+    }
+  }
+}

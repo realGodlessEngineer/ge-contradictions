@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 380,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators from Gill to Keil & Delitzsch read Matthew's 'whale' as the same loosely-defined term as Jonah's 'great fish,' not a rival species claim.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bible critic Dennis McKinsey called this pairing 'the most famous scientific error by Jesus,' arguing that biologically a whale simply is not a fish.",
+      "skeptic": {
+        "name": "Dennis McKinsey",
+        "work": "The Encyclopedia of Biblical Errancy",
+        "year": "1995",
+        "attribution": "Dennis McKinsey, The Encyclopedia of Biblical Errancy (1995)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Jonah 1:17",
+      "excerpt_text": "The great fish (lxx κῆτος, cf. Mat 12:40), which is not more precisely defined, was not a whale, because this is extremely rare in the Mediterranean, and has too small a throat to swallow a man, but a large shark or sea-dog, canis carcharias, or squalus carcharias L., which is very common in the Mediterranean, and has so large a throat, that it can swallow a living man whole.",
+      "full_note_ref": "KD/32/1/17",
+      "on_tension_rationale": "Directly ties the LXX Greek kētos (also used by Matthew) to the Hebrew 'great fish,' showing the two texts share one loosely-defined term rather than naming rival species.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Jonah 1:17",
+      "excerpt_text": "The fish, through a mistranslation of , was formerly supposed to be a whale; there, as here, the original means \"a great fish.\" The whale's neck is too narrow to receive a man.",
+      "full_note_ref": "JFB/32/1/17",
+      "on_tension_rationale": "Frames 'whale' as a mistranslation of the same underlying term rendered 'great fish,' and gives the biological reason a literal-whale reading fails.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Jonah 1:17",
+      "excerpt_text": "In Mat 12:40, it is said to be a \"whale\"; but then that must be understood, not as the proper name of a fish, but as common to all great fishes; otherwise the whale, properly so called, it is said, has not a swallow large enough to take down a man; though some deny this, and assert they are capable of it.",
+      "full_note_ref": "GILL/32/1/17",
+      "on_tension_rationale": "Explicitly reconciles Matthew's 'whale' with Jonah's 'great fish' by reading 'whale' as a generic label for large sea creatures, not a taxonomic claim.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on Jonah 1:17",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke argues the Hebrew dag gadol could not denote a literal whale and explicitly cross-references his fuller treatment of the same question at Matthew 12:40, keying the harmonization directly to this passage (Haley's 1874 Discrepancies survey does not treat the Jonah fish/whale question, so Clarke is used in its place per the contract's fallback)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Jonah-whale.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Was Jonah truly swallowed by a whale?",
+        "note": "Live apologetic treatment addressing the Hebrew dag gadol vs. Greek kētos terminology directly."
+      }
+    }
+  }
+}

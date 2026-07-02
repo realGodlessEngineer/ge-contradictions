@@ -1,0 +1,50 @@
+{
+  "contradiction_id": 302,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Jamieson, Fausset & Brown split the chapiter into a plain tier 2 Kings omits and a carved tier it alone records, so both totals hold.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "filled",
+      "connective": "Keil & Delitzsch concede the \"three cubits\" reading is corrupt, emending it to \"five\" to match Jeremiah rather than harmonizing both numbers as transmitted.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Jeremiah 52:22",
+      "excerpt_text": "five cubits—so Kg1 7:16. But Kg2 25:17 has “three cubits.” There were two parts in the chapiter: the one lower and plain, of two cubits; the other, higher and curiously carved, of three cubits. The former is omitted in Kg2 25:17, as belonging to the shaft of the pillar; the latter alone is there mentioned. Here the whole chapiter of five cubits is referred to.",
+      "full_note_ref": "JFB/24/52/22",
+      "on_tension_rationale": "JFB names the specific 3-vs-5 cubit conflict between 2 Kings 25:17 and Jeremiah 52:22/1 Kings 7:16 directly and gives the two-tier (plain base + carved crown) explanation for why 2 Kings records only part of the same measurement.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "discrepancy",
+      "source_code": "KD",
+      "verse_ref": "2 Kings 25:17",
+      "excerpt_text": "Instead of אמּה שׁלשׁ we must read אמּת המשׁ, five cubits, according to Jer 52:22 and Kg1 7:16.",
+      "full_note_ref": "KD/12/25/8",
+      "on_tension_rationale": "K&D concede the \"three cubits\" reading in 2 Kings 25:17 is itself a corrupted text and explicitly emend it to \"five cubits\" to match Jeremiah 52:22/1 Kings 7:16, rather than reading the two figures as both accurate as transmitted.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley lists this exact pair — \"Chapiter's length, 5 cubits, 1 Kings vii. 16; 3 cubits, 2 Kings xxv. 17\" — under his 'confounding of similar numeral letters' explanation for numeral discrepancies (p. 382)."
+      }
+    }
+  }
+}

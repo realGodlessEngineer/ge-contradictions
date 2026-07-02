@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 315,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers argue Jehoiada and Barachias are two names for one father — synonymous in meaning — and cite Jerome's testimony to a Nazarene-Gospel reading of \"Jehoiada.\"",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharpest objection is pressed by skeptic C. Dennis McKinsey, who insists the victim Jesus names \"is actually the son of Jehoiada\" and that \"Barachias\" appears nowhere as a father's name in the Old Testament.",
+      "skeptic": {
+        "name": "C. Dennis McKinsey",
+        "work": "Biblical Errancy",
+        "year": "2000",
+        "attribution": "C. Dennis McKinsey, Biblical Errancy (2000), p. 30"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 23:34",
+      "excerpt_text": "The chief objections to its being this Zechariah are, that the names do agree; the one being the son of Jehoiada, the other the son of Barachias; … to which may be replied, that as to the difference of names, the father of this Zechariah might have two names, which is no unusual thing; besides, these two names signify much the same thing; Jehoiada signifies praise the Lord, and Barachias bless the Lord; just as Eliakim and Jehoiakim, are names of the same person, and signify the same thing, Ch2 36:4. Moreover, Jerom tells us, that in the Hebrew copy of this Gospel used by the Nazarenes, he found the name Jehoiada instead of Barachias …",
+      "full_note_ref": "GILL/40/23/34",
+      "on_tension_rationale": "This is Gill's direct answer to the naming objection itself (Jehoiada vs. Barachias): he argues the father had two names of equivalent meaning, corroborated by Jerome's report of a Nazarene-Gospel variant reading 'Jehoiada' for 'Barachias.'",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Matthew 23:34",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats the Barachias/Jehoiada naming discrepancy directly on this passage, surveying rival identifications (Zechariah son of Baruch per Josephus, the father of John the Baptist, the prophet Zechariah) before defending the identification with Zechariah son of Jehoiada via the two-names/one-meaning argument and Jerome's textual testimony. Haley's Alleged Discrepancies of the Bible (1874, examinationof00hale on Internet Archive) was checked and contains no entry for Matthew 23:35/Zacharias/Barachias, so Gill is used per the contract's fallback."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Matthew_23.34-35.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in Matthew 23:34–35?",
+        "note": "Live apologetic treatment (alternate harmonization: identifies the victim as the minor prophet Zechariah son of Berechiah rather than Zechariah son of Jehoiada)."
+      }
+    }
+  }
+}

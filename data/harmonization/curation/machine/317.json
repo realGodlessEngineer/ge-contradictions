@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 317,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Jamieson, Fausset & Brown harmonize the verses by reading Jeremiah as narrating what Chronicles leaves untold: Nebuchadnezzar changed his plan and killed Jehoiakim en route to Babylon, leaving him unburied outside Jerusalem.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharpest press of the discrepancy comes from Steve Wells's Skeptic's Annotated Bible, which reads Chronicles' fettering-for-Babylon and Jeremiah's denial of any burial as flatly incompatible claims about where Jehoiakim died.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (skepticsannotatedbible.com, est. 1999)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Jeremiah 22:19",
+      "excerpt_text": "But Ch2 36:6 states that “Nebuchadnezzar bound him in fetters to carry him to Babylon”; his treatment there is nowhere mentioned. The prophecy here, and in Jer 36:30, harmonizes these two facts. He was slain by Nebuchadnezzar, who changed his purpose of taking him to Babylon, on the way thither, and left him unburied outside Jerusalem.",
+      "full_note_ref": "JFB/24/22/19",
+      "on_tension_rationale": "Directly reconciles 2 Chronicles 36:6's fettering-for-Babylon with Jeremiah 22:19's denial of burial: argues Jehoiakim never reached Babylon, having died en route and been left exposed near Jerusalem instead.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pairing (2 Chron. 36:6 vs. Jer. 22:19/36:30, 2 Kings 24:6) under 'Historical Discrepancies' (pp. 374-375), surveying Bertheau/Hasse/Movers (the Hebrew infinitive implies Jehoiakim was not actually carried to Babylon), Bleek (slain outside the city), and Rawlinson (bound with intent, slain instead, later interred with his fathers)."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/2_Chronicles_36.6.php",
+        "domain": "defendinginerrancy.com",
+        "title": "2 Chronicles 36:6—Was Jehoiakim carried to Babylon or did he die in Jerusalem?",
+        "note": "live apologetic treatment naming this exact contradiction"
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 321,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the two censuses as registers taken years apart, where deaths and late arrivals shift a family's count and simple copying shifts a name like Bani to Binnui.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible sets Ezra's 642 against Nehemiah's 648 for 'the children of Bani' as one more numerical contradiction between the two return-from-exile rosters.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How many of Bani's offspring returned from Babylon?\" (skepticsannotatedbible.com/contra/bani.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"How many of Bani's offspring returned from Babylon?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Nehemiah 7:6",
+      "excerpt_text": "the same account is given of persons and families as there, with some little difference of numbers and names; in some instances there are more in this list, in others fewer, which may be thus accounted for; that list was made in Babylon, when, upon the edict of Cyrus, the Jews, who intended to go up with Zerubbabel, gave in their names, and they were registered; but this was made when they came to Jerusalem; now some of those that gave in their names changed their minds, and tarried in Babylon, and some might die by the way, which makes the numbers fewer in some instances; and others who did not give in their names at first, but, being better disposed towards their own country, followed after and joined those which were returning, and increased the number of others … and, as for difference of names, that may be owing to the carelessness of copiers, or to the different pronunciation of names, or some men might have two names; the matter is of no great moment.",
+      "full_note_ref": "GILL/16/7/6",
+      "on_tension_rationale": "Directly answers 'different totals, different patriarch': attributes the numeric slippage between the Babylon roster and the Jerusalem roster to deaths, defections, and late joiners, and attributes name variance (Bani/Binnui) to copyist habit or double names, covering both halves of this contradiction's tension in one continuous run of the note. Ellipsis skips an intervening aside (Abendana on genealogized vs. non-genealogized companies) that is not on-tension; excerpt ends on the source's own closing period.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "In his chapter on historical discrepancies concerning names, Haley lists 'Bani' and 'Binnui' by name among Hebrew name-pairs where a letter is 'inserted in the second form of the name' -- the exact Ezra 2:10 / Nehemiah 7:15 pair -- treating the variance as ordinary scribal transmission rather than a real disagreement."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Ezra-Nehemiah-numbers.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why are the numbers in Ezra so different from those in Nehemiah?",
+        "note": "Live apologetic treatment of the family-count differences across the two return rosters (textual transmission and the roughly 93-year gap between the Babylon and Jerusalem registers) -- the general harmonization under which the Bani/Binnui count falls."
+      }
+    }
+  }
+}

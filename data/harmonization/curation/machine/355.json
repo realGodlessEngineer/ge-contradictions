@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 355,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators distinguish wonders truly wrought by God's own power — even through Moses, Elijah, or the apostles — from Satan's merely imitative, 'lying' wonders.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible juxtaposes Psalm 136:4's exclusive claim against Satan's 'lying wonders' in 2 Thessalonians 2:9 as a flat contradiction.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Can only God work wonders?\" (skepticsannotatedbible.com/contra/wonders.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; print ed. 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Psalms 136:4",
+      "excerpt_text": "and even all the wonders which Moses and Elijah did under the Old Testament, and the apostles of Christ under the New, were done, not by their power, but by his alone; who will do still greater wonders, when he shall create all tidings new, raise the dead, and summon all nations before him, and render to everyone according to his works …",
+      "full_note_ref": "GILL/19/136/4",
+      "on_tension_rationale": "Gill's headline comment on 'alone doeth great wonders' addresses the exclusivity claim directly by explaining that other agents (Moses, Elijah, apostles) who visibly work wonders do so 'not by their power, but by his alone' — the agency/derivation move that resolves how any other wonder-worker (including, by the same logic, Satan) does not breach God's 'alone.'",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "2 Thessalonians 2:9",
+      "excerpt_text": "they were lying miracles, lying signs, and lying wonders; only appearances of what was real, and done to give credit to his presumption and imposture. Whereas God sent his messengers with real miracles, real signs, and real wonders; such Satan cannot produce.",
+      "full_note_ref": "CLARKE/53/2/9",
+      "on_tension_rationale": "Directly on-tension: Clarke reads 'lying wonders' as only appearances of what is real, then states outright that Satan cannot produce real wonders, signs, or miracles — preserving God's exclusive claim to true wonder-working.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "2 Thessalonians 2:9",
+      "excerpt_text": "lying wonders--literally, \"wonders\" or \"prodigies of falsehood.\" His \"power, signs, and wonders,\" all have falsehood for their base, essence, and aim (Joh 8:44), [ALFORD].",
+      "full_note_ref": "JFB/53/2/9",
+      "on_tension_rationale": "Glosses 'lying wonders' as having falsehood for their very 'base, essence, and aim' (citing Alford) -- a second, independent voice for the same real-vs-false distinction that keeps Satan's wonders from rivaling God's.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), pp. 120-127, article \"Miracles\"",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's 'Miracles' article treats 2 Thessalonians 2:9 directly (quoting it under 'Not a proof' of divine mission, alongside the Egyptian magicians, Deut. 13:1-3, and Matt. 24:24) and, quoting Alford, concludes Antichrist's 'lying wonders... have falsehood for their base and essence and aim' -- the same real-vs-counterfeit distinction the row's commentators draw. He does not pair this discussion with Psalm 136:4 by name, so this is the closest confirmed Haley coverage of the passage rather than a direct treatment of the exact pairing."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No live, on-topic allowlisted apologetics page (gotquestions.org / carm.org / defendinginerrancy.com) could be confirmed for this specific Psalm 136:4 / 2 Thessalonians 2:9 pairing; omitted rather than guessed."
+      }
+    }
+  }
+}

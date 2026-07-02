@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 311,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry's classic harmonization: when Samuel says God 'moved' David, this must mean God merely permitted Satan to do it, since God tempts no one.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Ralph Klein's Hermeneia commentary reads this as real theological development: postexilic tradition reassigned Yahweh's incitement to a heavenly adversary rather than charge God directly.",
+      "skeptic": {
+        "name": "Ralph W. Klein",
+        "work": "1 Chronicles: A Commentary (Hermeneia)",
+        "year": "2006",
+        "attribution": "Ralph W. Klein, 1 Chronicles: A Commentary (Hermeneia; Minneapolis: Fortress Press, 2006)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "1 Chronicles 21:1",
+      "excerpt_text": "Satan stood up against Israel, and provoked David to do it. Is is said (Sa2 24:1) that the anger of the Lord was kindled against Israel, and he moved David to do it. … We are sure that God is not the author of sin - he tempts no man; and therefore, when it is said that he moved David to do it, it must be explained by what is intimated here, that, for wise and holy ends, he permitted the devil to do it.",
+      "full_note_ref": "MHC/13/21/1",
+      "on_tension_rationale": "Matthew Henry directly names both texts' agents side by side and supplies the classic 'God permitted Satan' harmonization of the swap.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pair verbatim (\"David tempted by the Lord\" / \"Tempted by Satan\", 2 Sam. xxiv. 1 / 1 Chron. xxi. 1) at pp. 333-334, offering both the permissive-agency reading and the article-less-satan/'an adversary' reading."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/2_Samuel_24.1.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in 2 Samuel 24:1?",
+        "note": "live apologetic treatment arguing both statements are true: Satan supplied the immediate incitement, God permitted it for his own purpose"
+      }
+    }
+  }
+}

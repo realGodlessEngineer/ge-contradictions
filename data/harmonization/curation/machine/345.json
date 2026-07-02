@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 345,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators take \"pure\" as true, not decorous: Isaiah's narrator faithfully quotes an enemy's crude taunt; Ezekiel's own graphic metaphor is deliberate shock rhetoric, not indecency.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Robert G. Ingersoll pressed the objection bluntly, branding such texts among the Bible's \"grossly obscene passages not fit to be read by any decent man.\"",
+      "skeptic": {
+        "name": "Robert G. Ingersoll",
+        "work": "letter of Aug. 21, 1879, published as \"Obscene Literature\"",
+        "year": "1879",
+        "attribution": "Robert G. Ingersoll (1833-1899), letter of Aug. 21, 1879, published as \"Obscene Literature\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Isaiah 36:12",
+      "excerpt_text": "Isaiah, as a faithful historian, records the filthy and blasphemous language of the Assyrians to mark aright the true character of the attack on Jerusalem.",
+      "full_note_ref": "JFB/23/36/12",
+      "on_tension_rationale": "Distinguishes scripture's truthful record of an enemy's crude speech from scripture's own diction -- supports reading 'pure' as truthful rather than decorous.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Ezekiel 23:20",
+      "excerpt_text": "This declareth that no words are able sufficiently to express the rage of idolaters, and therefore the holy Ghost here compareth them to those which in their raging love and filthy lusts dote upon the images and paintings of them after whom they lust.",
+      "full_note_ref": "GNV/26/23/14",
+      "on_tension_rationale": "Frames Ezekiel's graphic imagery as deliberate, purposeful shock-rhetoric conveying the enormity of Judah's apostasy rather than gratuitous obscenity -- bears directly on whether such language is compatible with 'pure.'",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's 'Moral Purity' section (Doctrinal Discrepancies, headed 'Purity enjoined. Impure ideas suggested.') answers this exact objection -- that Scripture claims purity yet contains coarse/'indelicate' expressions -- tracing them to the necessary specificity of legal language and the freedom of Oriental idiom rather than to any impurity in the text itself."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page (gotquestions.org / carm.org / defendinginerrancy.com) squarely treats the 'is every word of God pure' vs. crude-language pairing; link omitted rather than guessed."
+      }
+    }
+  }
+}

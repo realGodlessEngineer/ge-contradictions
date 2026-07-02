@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 359,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the land-lot as an appeal to God's disposal, not a game of chance played for personal gain, distinguishing sacred sortition from gambling.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharpest objection comes from Steve Wells, compiler of the Skeptic's Annotated Bible, who counters that \"the God of the Bible loves lotteries and games of chance,\" cataloguing the Canaan land-lottery among the Bible's divinely sanctioned chance-decisions.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"Does the Bible Condemn Gambling?\"",
+        "year": "site est. 1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, s.v. \"Does the Bible Condemn Gambling?\" (skepticsannotatedbible.com, est. 1999)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Joshua 14:2",
+      "excerpt_text": "Since therefore the lot so well corresponded to these predictions, would it not be insolence and stupidity in the highest degree, not to acknowledge the inspiration of God in the word of Jacob and Moses, the direction of his hand in the lot, and his providence in the event?",
+      "full_note_ref": "CLARKE/6/14/2",
+      "on_tension_rationale": "Argues the lot's exact match to Jacob's and Moses's predictions proves providential direction rather than chance — directly answers the 'lot equals gambling' framing.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Numbers 26:52",
+      "excerpt_text": "The lot was to determine the portion of every tribe, not merely to prevent all occasion for dissatisfaction and complaining, but in order that every tribe might receive with gratitude the possession that fell to its lot as the inheritance assigned it by God, the result of the lot being regarded by almost all nations as determined by God Himself (cf. Pro 16:33; Pro 18:18).",
+      "full_note_ref": "KD/4/26/52",
+      "on_tension_rationale": "States the lot's outcome was 'determined by God Himself,' i.e. a providential mechanism for assigning an inheritance, not a game of chance for material gain.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Numbers 26:52",
+      "excerpt_text": "Lots were used to seek divine guidance and avoid favoritism in important matters (e.g., Num 27:21; 1 Sam 10:20; 14:41-42; Prov 18:18; Acts 1:26).",
+      "full_note_ref": "TYN/4/26/52",
+      "on_tension_rationale": "Modern study note frames sacred lots functionally — seeking guidance and avoiding favoritism — the opposite motive from gambling's pursuit of chance winnings.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Holy Bible (1832), note on Joshua 14:2",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke's note on Joshua 14:2 is a harmonizing commentator surfaced on this row who treats the land-lot passage directly, arguing at length (via Dodd/Calmet/Masius) that its precise fit with prior prophecy shows providential direction rather than chance."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/casting-lots.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions.org: What was the practice of casting lots?",
+        "note": "Live apologetic treatment arguing biblical lot-casting was never gambling, since it involved no betting or transfer of goods for material gain."
+      }
+    }
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "contradiction_id": 304,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Jamieson, Fausset & Brown close the two-day gap by splitting the act in two: the release was decreed on the twenty-fifth and only carried into effect on the twenty-seventh.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "filled",
+      "connective": "Keil & Delitzsch concede the two-day gap is a real textual fault, tracing it to a copyist's slip rather than reading the two numbers as compatible.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Jeremiah 52:31",
+      "excerpt_text": "five and twentieth day--but in Kg2 25:27, it is \"the twenty-seventh day.\" Probably on the twenty-fifth the decree for his elevation was given, and the preparations for it made by releasing him from prison; and on the twenty-seventh day it was carried into effect.",
+      "full_note_ref": "JFB/24/52/31",
+      "on_tension_rationale": "JFB names the two-day discrepancy explicitly and offers the standard decree-then-execution harmonization for it.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "discrepancy",
+      "source_code": "KD",
+      "verse_ref": "Jeremiah 52:31",
+      "excerpt_text": "The difference of date, \"on the twenty-fifth of the month\" (Jer 52:31), and \"on the twenty-seventh of the month\" in 2 Kings, has arisen through the entrance of a clerical error into one text or the other.",
+      "full_note_ref": "KD/24/52/31",
+      "on_tension_rationale": "Keil & Delitzsch concede the date conflict is real, attributing it to a scribal/copying error in transmission rather than harmonizing the two numbers as both accurate.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley catalogs this exact pair under \"Historical Discrepancies\": \"His deliverance on the twenty-seventh day of the month, 2 Kings xxv. 27; on the twenty-fifth day, Jer. lii. 31 (a mistake as to a single numeral letter)\" (p. 400)."
+      }
+    }
+  }
+}

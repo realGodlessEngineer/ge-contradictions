@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 356,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read Matthew's \"justified\" as words evidencing a converted heart at judgment, not the forensic acquittal Psalm 143:2 denies.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Skeptic compiler Steve Wells presses the verses as flatly opposed: Matthew says one \"shall be justified,\" Psalm 143:2 says none can.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible (SAB), entry \"Is anyone justified?\"",
+        "year": null,
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, s.v. \"Is anyone justified?\" (skepticsannotatedbible.com/contra/justified.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Matthew 12:37",
+      "excerpt_text": "By thy words thou shall be justified or condemned; a common rule in men's judgments, and here applied to God's. Note, The constant tenour of our discourse, according as it is gracious or not gracious, will be an evidence for us, or against us, at the great day.",
+      "full_note_ref": "MHC/40/12/22",
+      "on_tension_rationale": "Henry's gloss on the very verse in tension defines Matt 12:37's 'justified' as evidentiary vindication of character at the judgment, not forensic acquittal before God -- the sense-distinction the harmonization turns on.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Under \"Judging of David\" (p. 228), Haley treats Psalm 143:2's \"no man living be justified\" directly (there paired with Ps 7:8's plea for judgment \"according to my righteousness\") and resolves it with the same distinguish-senses move used on this row: a man may be innocent with respect to one particular charge, yet not sinless with respect to his whole life before God."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/by-your-words-you-will-be-justified.html",
+        "domain": "gotquestions.org",
+        "title": "What did Jesus mean that \"by your words you will be justified\" (Matthew 12:37)?",
+        "note": "Live apologetic treatment arguing Matt 12:37's justification is evidentiary (proof of saving faith), not the soteriological justification Psalm 143:2/Romans 3:20 deny is achievable by works."
+      }
+    }
+  }
+}

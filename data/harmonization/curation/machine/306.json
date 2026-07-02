@@ -1,0 +1,56 @@
+{
+  "contradiction_id": 306,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders read this as normal genealogical compression: Matthew telescopes generations elsewhere, so 'begat' can span Jehoiakim without denying his existence.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "filled",
+      "connective": "A modern evangelical study note states the underlying genealogical fact without qualification: Josiah was Jehoiachin's grandfather, not his father, as Matthew's begat-chain implies.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "discrepancy",
+      "source_code": "TYN",
+      "verse_ref": "Matthew 1:11",
+      "excerpt_text": "Josiah was the grandfather of Jehoiachin.",
+      "full_note_ref": "TYN/40/1/11",
+      "on_tension_rationale": "States plainly the actual generational relationship (grandfather, not father) that produces the tension between Matthew 1:11's 'begat' and 1 Chronicles 3:15-16.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Matthew 1:11",
+      "excerpt_text": "Jeconiah was Josiah's grandson, being the son of Jehoiakim, Josiah's second son (Ch1 3:15); but Jehoiakim might well be sunk in such a catalogue, being a mere puppet in the hands of the king of Egypt (Ch2 36:4).",
+      "full_note_ref": "JFB/40/1/11",
+      "on_tension_rationale": "Concedes the literal grandson relation, then supplies the specific harmonization for this tension: Jehoiakim is elided from the 'begat' chain as an insignificant puppet king, consistent with Matthew's known generation-skipping elsewhere in the same chapter.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Matthew 1:11",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats this specific passage directly, conceding Jeconiah's grandson relation to Josiah and explaining the terse 'begat' as eliding the intervening generation (Jehoiakim), consistent with Matthew's known generation-skipping earlier in the same chapter. Used in preference to Haley because Haley's specific coverage of this passage could not be confirmed."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/14-generations.html",
+        "domain": "gotquestions.org",
+        "title": "Is there an error in the counting of the 14 generations in Matthew chapter 1? | GotQuestions.org",
+        "note": "Live apologetic treatment that names Jehoiakim as the excluded intermediate generation between Josiah and Jeconiah, citing 1 Chronicles 3:15-16 directly."
+      }
+    }
+  }
+}

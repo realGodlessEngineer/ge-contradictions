@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 303,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry's commentary adopts Dr. Lightfoot's reconciliation: seven were rounded up, but two — Jeremiah and Ebed-melech — were released, leaving five executed.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible lists this as a bare head-count mismatch — five in 2 Kings 25:19 against seven in Jeremiah 52:25.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How many men were in the king's presence?\" (skepticsannotatedbible.com/contra/with_king.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/with_king.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Jeremiah 52:24",
+      "excerpt_text": "The account here agrees with that, except in one article; there it is said that there were five, here there were seven, of those that were near the king, which Dr. Lightfoot reconciles thus, that he took away seven of those that were near the king, but two of them were Jeremiah himself and Ebed-melech, who were both discharged, as we have read before, so that there were only five of them put to death, and so the number was reduced to seventy-two …",
+      "full_note_ref": "MHC/24/52/24",
+      "on_tension_rationale": "MHC's block on Jeremiah 52:24 states the five/seven variance directly and reproduces Dr. Lightfoot's reconciliation by name: seven were taken, but two (Jeremiah and Ebed-melech) were released rather than executed, leaving five put to death — the strongest, most specific harmonization in the gathered notes.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), p. 383",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley catalogs this exact head-count split in his list of numeral discrepancies — \"Persons slain, 5, 2 Kings, xxv. 19; 7, Jer. lii. 25\" — attributing it to confusion of the similarly shaped Hebrew numeral letters he (5) and zayin (7)."
+      },
+      "link": null
+    }
+  }
+}

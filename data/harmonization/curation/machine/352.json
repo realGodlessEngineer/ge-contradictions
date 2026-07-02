@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 352,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "JFB reads Paul and James as inspired but aimed at different opponents — Paul at self-justifiers, James at antinomians who twist 'faith alone' into inaction.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman presses the sharper case: Matthew ties eternal life to law-keeping and mercy (19:17; 25:31-46), which he argues cannot be squared with Paul's law-free gospel of faith.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible",
+        "year": "2009",
+        "attribution": "Bart D. Ehrman, Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (HarperOne, 2009)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "James 2:14",
+      "excerpt_text": "Whether James individually designed it or not, the Holy Spirit by him combats not Paul, but those who abuse Paul's doctrine. The teaching of both alike is inspired, and is therefore to be received without wresting of words; but each has a different class to deal with; Paul, self-justiciaries; James, Antinomian advocates of a mere notional faith. Paul urged as strongly as James the need of works as evidences of faith, especially in the later Epistles, when many were abusing the doctrine of faith (Tit 2:14; Tit 3:8).",
+      "full_note_ref": "JFB/59/2/14",
+      "on_tension_rationale": "JFB explicitly names Paul and reframes the apparent conflict as two inspired writers answering different errorists rather than contradicting each other — directly on this entry's central tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley's chapter on doctrinal discrepancies treats James vs. Paul on faith and works directly, in the same cause/evidence harmonizing tradition reflected in the JFB excerpt above."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/faith-alone.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: How can you believe in salvation by faith alone when James 2:24 says salvation is not by faith alone?",
+        "note": "live apologetic treatment of the exact Paul-vs-James faith/works tension"
+      }
+    }
+  }
+}

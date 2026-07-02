@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 310,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Keil & Delitzsch treat 'eight hundred' as original and argue Chronicles' 'three hundred' crept in from Abishai's nearby tally.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses the plain numbers: the same feat is eight hundred kills in one book, three hundred in the other.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (skepticsannotatedbible.com, 1999; print ed. 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "2 Samuel 23:8",
+      "excerpt_text": "\"He swung his spear over eight hundred slain at once.\" This is not to be understood as signifying that he killed eight hundred men at one blow, but that in a battle he threw his spear again and again at the foe, until eight hundred men had been slain. The Chronicles give three hundred instead of eight hundred; and as that number occurs again in Sa2 23:18, in the case of Abishai, it probably found its way from that verse into this in the book of Chronicles.",
+      "full_note_ref": "KD/10/23/8",
+      "on_tension_rationale": "Directly addresses the 800-vs-300 numeral gap between 2 Sam 23:8 and 1 Chr 11:11 with a text-critical harmonization: 'eight hundred' is the original figure, and Chronicles' 'three hundred' is explained as scribal contamination from the nearby Abishai tally (2 Sam 23:18), so the two texts are not reporting genuinely different facts.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pair of verses (2 Sam 23:8 / 1 Chr 11:11) under 'Historical Discrepancies,' concluding on the authority of Hervey, Keil, Kennicott, and Gesenius that the original text read 'eight hundred' and that 'Adino the Eznite' is itself a corrupted rendering of 'he swung his spear.'"
+      },
+      "link": null
+    }
+  }
+}

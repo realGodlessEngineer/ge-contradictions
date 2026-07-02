@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 368,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators distinguish Ecclesiastes' this-worldly praise of money's usefulness from Timothy's target, an idolatrous, immoderate love of money rather than money itself.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the two texts as flatly opposed verdicts on money: an answer to everything versus the root of all evil.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Is money good or bad?\" (skepticsannotatedbible.com/contra/money.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Is money good or bad?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Ecclesiastes 10:16",
+      "excerpt_text": "Money of itself answers nothing; it will neither feed nor clothe; but, as it is the instrument of commerce, it answers all the occasions of this present life. What is to be had may be had for money. But it answers nothing to the soul; it will not procure the pardon of sin, the favour of God, the peace of conscience; the soul, as it is not redeemed, so it is not maintained, with corruptible things as silver and gold.",
+      "full_note_ref": "MHC/21/10/16",
+      "on_tension_rationale": "Directly splits money's this-life utility ('answers all the occasions of this present life') from its total impotence for the soul ('answers nothing to the soul... will not procure the pardon of sin'), which is exactly the reconciling move the row needs between Ecclesiastes' pragmatic claim and Timothy's spiritual warning.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "1 Timothy 6:10",
+      "excerpt_text": "This text has been often very incautiously quoted; for how often do we hear, \"The Scripture says, Money is the root of all evil!\" No, the Scripture says no such thing. Money is the root of no evil, nor is it an evil of any kind; but the love of it is the root of all the evils mentioned here.",
+      "full_note_ref": "CLARKE/54/6/10",
+      "on_tension_rationale": "Explicitly corrects the popular misreading that Scripture calls money itself evil, insisting the text condemns only the love of money — directly undercutting the 'money is good vs. money is evil' framing of the contradiction.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Timothy 6:10",
+      "excerpt_text": "not money itself, as silver and gold, which are God's creatures, and his gifts, and may be used to, and answer many good purposes; but the love of it, and not any love of it; for there may be a lawful love of it, and desire after it, so far as it is requisite to the necessaries of life, to answer the calls of Providence, the duties we owe to God and men, to serve the interest of Christ, and do good to fellow creatures and fellow Christians: but it is an immoderate insatiable desire after it, and an inordinate love of it, which is here meant, such as is properly idolatry …",
+      "full_note_ref": "GILL/54/6/10",
+      "on_tension_rationale": "Frames money itself as a divine gift that can 'answer many good purposes' (echoing Ecclesiastes' own 'answereth all things' language), while confining Timothy's condemnation to an immoderate, idolatrous love of it — the same money-vs-love-of-money distinction the row's harmonization rests on.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on 1 Timothy 6:10",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact tension, rebutting the popular misquotation of 1 Timothy 6:10 as 'money is the root of all evil' and insisting only the love of money is condemned. Used in place of Haley: a full-text search of Haley's Alleged Discrepancies (1874, archive.org) turned up no discussion of Ecclesiastes 10:19, 1 Timothy 6:10, or the money/love-of-money distinction, so his coverage of this specific passage could not be confirmed."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/money-answer-everything.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does it mean that 'money is the answer for everything' in Ecclesiastes 10:19?",
+        "note": "Live apologetic treatment reconciling Ecclesiastes 10:19 with 1 Timothy 6:9-10's warnings about pursuing riches."
+      }
+    }
+  }
+}

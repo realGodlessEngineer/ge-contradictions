@@ -1,0 +1,64 @@
+{
+  "contradiction_id": 371,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the \"unknown name\" as a distinct, incommunicable divine name — not a denial of Jesus's other known titles.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Skeptic's Annotated Bible compiler Steve Wells presses the objection directly, juxtaposing 19:12's unknown name against the Bible's own catalogue of Jesus's titles.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible — \"What was Jesus H. Christ's real name?\"",
+        "year": null,
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, \"What was Jesus H. Christ's real name?\" (skepticsannotatedbible.com)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Revelation 19:12",
+      "excerpt_text": "And he had a name written that no man knew but he himself; which seems to be his name, the Son of God … or else his name Immanuel.",
+      "full_note_ref": "GILL/66/19/12",
+      "on_tension_rationale": "Interprets the 'unknown name' of 19:12 as the Son of God/Immanuel — a name distinct from the titles (Word of God, King of Kings) the same chapter says are written and known, resolving the apparent clash.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Revelation 19:12",
+      "excerpt_text": "A name written, that no man knew - This is a reference to what the rabbins call the shem hammephorash, or tetragrammaton, יהוה Yhvh; or what we call Jehovah. … This, therefore, is the name which no man knew but he himself.",
+      "full_note_ref": "CLARKE/66/19/12",
+      "on_tension_rationale": "Identifies the 'unknown name' specifically as the Tetragrammaton, a name Jews themselves never pronounce — a distinct name from Jesus's other titles, not a claim he has no known name at all.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Isaiah 9:6",
+      "excerpt_text": "name . . . called--His essential characteristics shall be.",
+      "full_note_ref": "JFB/23/9/6",
+      "on_tension_rationale": "States plainly that the OT 'names' given to the Messiah (Wonderful, Counsellor, etc.) denote characteristics, not a literal proper name — addressing the 'category error' point that titles aren't legal names.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible, comm. on Revelation 19:12 (1746-63)",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats Revelation 19:12's 'unknown name' directly, identifying it with the Son of God/Immanuel and distinguishing it from the titles (Word of God, King of kings) the same chapter says are written and known — the harmonizing tradition's standard move on this exact verse."
+      }
+    }
+  }
+}

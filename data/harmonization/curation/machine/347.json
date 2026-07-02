@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 347,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill argues \"doing good\" in John 5:29 is not natural virtue but grace-enabled obedience worked in believers -- leaving Paul's verdict on the unconverted untouched.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Robert G. Ingersoll pressed the sharper point: if total depravity brands even a mother's love and a stranger's charity sin, no coherent \"good\" is left for John or Paul to reward.",
+      "skeptic": {
+        "name": "Robert G. Ingersoll",
+        "work": "Heretics and Heresies",
+        "year": "1874",
+        "attribution": "Robert G. Ingersoll (1833-1899), Heretics and Heresies (lecture, 1874)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "John 5:29",
+      "excerpt_text": "they that have done good; which none of Adam's posterity naturally do, or can do of themselves: such are designed here who believe in Christ, which to do is the work of God, and the greatest and best of worlds; and without which it is impossible to please God in any; and indeed, whatever is not of faith is sin, and cannot be a good work: a good work is that which is done according to the will of God, from love to him, in faith, and with a view to his glory …",
+      "full_note_ref": "GILL/43/5/29",
+      "on_tension_rationale": "Gill's comment on the very verse that requires 'doing good' (John 5:29) concedes no one naturally does good -- agreeing with the total-depravity texts -- and relocates 'good' to grace-enabled faith-obedience, which is the harmonizing move the row needs.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), comment on John 5:29",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact tension directly in his comment on John 5:29, distinguishing the natural human inability the total-depravity texts describe from the grace-enabled 'good work' of believers, which he grounds in faith rather than unaided human virtue."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/none-who-does-good-no-not-one.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does it mean that \"there is none who does good, no not one\"?",
+        "note": "live apologetic treatment of the 'none doeth good' texts (Psalm 14:3; Romans 3:12), distinguishing capacity for isolated good acts from inherent, sin-untainted goodness"
+      }
+    }
+  }
+}

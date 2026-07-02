@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 370,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers treat pride, idleness, and neglect of the poor as the root vices that produced Sodom's sexual abomination, not a rival account of its sin.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Historian John Boswell pressed the opposite reading: Genesis and Ezekiel together describe inhospitality, not sexual immorality, making the traditional 'sodomy' identification an anachronistic retrojection.",
+      "skeptic": {
+        "name": "John Boswell",
+        "work": "Christianity, Social Tolerance, and Homosexuality: Gay People in Western Europe from the Beginning of the Christian Era to the Fourteenth Century",
+        "year": "1980",
+        "attribution": "John Boswell (1947-1994), Christianity, Social Tolerance, and Homosexuality (University of Chicago Press, 1980)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Ezekiel 16:49",
+      "excerpt_text": "If we are to take this place literally, Sodom was guilty of other crimes besides that for which she appears to have been especially punished; in addition to her unnatural crime, She is charged with pride, luxury, idleness, and uncharitableness; and these were sufficient to sink any city to the bottomless pit.",
+      "full_note_ref": "CLARKE/26/16/49",
+      "on_tension_rationale": "Clarke reads Ezekiel's pride/idleness/uncharitableness list as additional to, not a replacement for, the 'unnatural crime' of Genesis 19 -- directly reconciles the two sin-lists as cumulative rather than competing.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Isaiah 1:10",
+      "excerpt_text": "Pride, lust of the flesh, and unmerciful conduct, were the leading sins of Sodom, according to Eze 16:49; and of these, the rulers of Jerusalem, and the crowd that was subject to them and worthy of them, were equally guilty now.",
+      "full_note_ref": "KD/23/1/10",
+      "on_tension_rationale": "Keil & Delitzsch fold 'lust of the flesh' (the Genesis 19 reading) and Ezekiel's pride/unmerciful-conduct triad into one composite list of Sodom's 'leading sins,' treating the two texts as describing the same complex of vices rather than rival accounts.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Ezekiel 16:49",
+      "excerpt_text": "God, the heart-searcher, here specifies as Sodom's sin, not merely her notorious lusts, but the secret spring of them, \"pride\" flowing from \"fullness of bread,\" caused by the fertility of the soil (Gen 13:10), and producing \"idleness.\"",
+      "full_note_ref": "JFB/26/16/49",
+      "on_tension_rationale": "JFB explicitly casts pride as the underlying cause of the 'notorious lusts' from Genesis 19, making Ezekiel's diagnosis complementary (root cause) rather than contradictory (rival sin) to the traditional sexual-sin reading.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on Ezekiel 16:49",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, arguing that if taken literally Ezekiel charges Sodom with pride, luxury, idleness, and uncharitableness IN ADDITION to her 'unnatural crime,' not instead of it -- the harmonizing move this row's reconcile pole rests on. Haley's Alleged Discrepancies (1874) was checked and does not treat this specific Genesis 19/Ezekiel 16 comparison, so the surfaced commentator is used per the fallback rule."
+      },
+      "link": {
+        "url": "https://www.defendinginerrancy.com/bible-solutions/Ezekiel_16.49.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in Ezekiel 16:49?",
+        "note": "live apologetic treatment arguing Ezekiel 16:49-50's list is compatible with, not a replacement for, the sexual-sin reading of Genesis 19"
+      }
+    }
+  }
+}

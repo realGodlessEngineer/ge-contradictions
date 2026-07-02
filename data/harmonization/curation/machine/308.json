@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 308,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Keil and Delitzsch resolve the two names by levirate marriage: Pedaiah fathered Zerubbabel on Shealtiel's childless widow, so the boy was entered as Shealtiel's legal heir.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Isaac Asimov flags the divergence in his Guide to the Bible: Zerubbabel is \"elsewhere ... listed as the son of another\" (Shealtiel), left unreconciled.",
+      "skeptic": {
+        "name": "Isaac Asimov",
+        "work": "Asimov's Guide to the Bible, Vol. 1: The Old Testament",
+        "year": "1968",
+        "attribution": "Isaac Asimov, Asimov's Guide to the Bible, Vol. 1: The Old Testament (1968)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Haggai 1:1",
+      "excerpt_text": "But Shealtil also appears to have died without posterity, and simply to have left a widow, which necessitated a Levirate marriage on the part of one of the brothers (Deu 25:5-10; Mat 22:24-28). Shealtil's second brother Pedaiah appears to have performed his duty, and to have begotten Zerubbabel and Shimei by this sister-in-law (Ch1 3:19), the former of whom, Zerubbabel, was entered in the family register of the deceased uncle Shealtil, passing as his (lawful) son and heir, and continuing his family.",
+      "full_note_ref": "KD/37/1/1",
+      "on_tension_rationale": "Directly explains how Zerubbabel can be both 'son of Pedaiah' (1 Chr 3:19) and 'son of Shealtiel' (Ezra/Neh/Hag/Matt/Luke): Pedaiah is the biological father via levirate marriage to Shealtiel's widow, Shealtiel the legal father by inheritance/register.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's catalog of 'apparent contradictions' resolved by loose father/son usage or alternate names names this passage directly: \"Zerubbabel's father, 1 Chron. iii. 19 and Ezra iii. 2; Neh. xii. 1\" (p. 352)."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/1_Chronicles_3.19.php",
+        "domain": "defendinginerrancy.com",
+        "title": "1 Chronicles 3:19 -- What is the correct genealogical relationship of Pedaiah, Shealtiel, and Zerubbabel?",
+        "note": "live apologetic treatment proposing Shealtiel adopted Pedaiah's son Zerubbabel after Pedaiah's early death"
+      }
+    }
+  }
+}

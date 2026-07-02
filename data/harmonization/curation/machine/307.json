@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 307,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read Jeremiah's \"childless\" as dynastic, not literal — barring Jeconiah's descendants from David's throne, not denying he had children at all.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible juxtaposes the texts flatly: Jeremiah bars all Jeconiah's seed from David's throne, yet Matthew traces the messianic line through him.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"Was Jeconiah Childless?\"",
+        "year": "c. 2000",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, \"Was Jeconiah Childless?\" (online, c. 2000-)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Jeremiah 22:29",
+      "excerpt_text": "Jeconiah was not actually without offspring (compare Jer 22:28, \"his seed\"; Ch1 3:17-18; Mat 1:12), but he was to be \"written childless,\" as a warning to posterity, that is, without a lineal heir to his throne.",
+      "full_note_ref": "JFB/24/22/29",
+      "on_tension_rationale": "Directly reconciles all three cited passages (Jer 22:28-30, 1 Chr 3:17-18, Matt 1:12) in one sentence by reading 'childless' as barred-from-the-throne, not offspring-less.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1875)",
+        "author": "John W. Haley",
+        "year": "1875",
+        "note": "Haley treats this exact pairing directly: 'Jehoiachin, father of Salathiel. He was \"childless.\" Matt. i. 12. Jer. xxii. 30' -- explaining childless as 'with reference to a lineal successor.'"
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/did-coniah-have-children-or-not/",
+        "domain": "carm.org",
+        "title": "CARM: Did Coniah have children or not?",
+        "note": "live apologetic treatment of the same Jer 22:30 / Matt 1:12 tension"
+      }
+    }
+  }
+}
