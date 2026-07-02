@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 349,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators distinguish two senses of perfection: the law was morally blameless, as the psalm says, yet inadequate on its own to save, as Hebrews argues.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Isaac Troki presses the reverse case: he rebuts Hebrews' claim that the old covenant 'waxeth old' by citing scripture affirming God's ordinances stand forever.",
+      "skeptic": {
+        "name": "Isaac Troki",
+        "work": "Chizzuk Emunah (Faith Strengthened)",
+        "year": "1593",
+        "attribution": "Isaac Troki (d. 1594), Chizzuk Emunah / Faith Strengthened (1593; Eng. trans. Mocatta, 1851)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Hebrews 8:7",
+      "excerpt_text": "The law in its morality was blameless (Greek, \"amomos\"); but in saving us it was defective, and so not faultless (Greek, \"amemptos\").",
+      "full_note_ref": "JFB/58/8/7",
+      "on_tension_rationale": "Directly answers the perfect-vs-faultless tension by distinguishing the law's moral blamelessness (matching Ps 19:7's temimah) from its salvific inadequacy (matching Heb 8:7's amemptos) — two different predicates, not a flat contradiction.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-1763)",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill comments on both Psalm 19:7 and Hebrews 8:7 directly (not merely the general topic): he argues the 'perfect' law-language of the psalm fits the gospel/doctrine of the Lord better than the Mosaic law, and that the old covenant's 'not faultless' meant deficient in application, not sinful in itself — the harmonizing move Haley's index does not separately cover for this exact pairing."
+      },
+      "link": null
+    }
+  }
+}

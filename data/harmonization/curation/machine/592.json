@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 592,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill distinguishes the moment of the call, when the land was unnamed (Genesis 12:1), from Genesis 12:5's account of Abram already en route to Canaan.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "William Henry Burr's 1860 pamphlet lists the pair outright as a contradiction, headlined 'Abraham departed to go into Canaan' vs. 'went not knowing where.'",
+      "skeptic": {
+        "name": "William Henry Burr",
+        "work": "Self-Contradictions of the Bible",
+        "year": "1860",
+        "attribution": "William Henry Burr, Self-Contradictions of the Bible (1860), no. 92"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Hebrews 11:7",
+      "excerpt_text": "for though he went forth to go into the land of Canaan, and into the land of Canaan he came, Gen 12:5, yet, when God called him to go forth, and he prepared to obey his call, he knew not what land he was to go into; for it is only said, Gen 12:1, unto a land that I will show thee …",
+      "full_note_ref": "GILL/58/11/7",
+      "on_tension_rationale": "Directly distinguishes the moment of the call (destination unnamed, Gen 12:1) from the later departure narrated in Gen 12:5 (Canaan already the known target), resolving the apparent knowledge conflict.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-1763), on Hebrews 11:7-8",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact tension directly, distinguishing Abram's ignorance at the call (Gen 12:1) from his known destination by the time of the Gen 12:5 departure."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Hebrews_11.8.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Hebrews 11:8—Did Abraham know where he was going when he left his homeland to follow God?",
+        "note": "live apologetic treatment of this exact verse pair"
+      }
+    }
+  }
+}

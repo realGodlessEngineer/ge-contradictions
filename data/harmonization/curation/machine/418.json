@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 418,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read Mark's 'house' as Peter's home or borrowed lodging, not property Jesus owned, so the 'nowhere to lay his head' saying still holds.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible sets the 'nowhere to lay his head' saying flatly against the Capernaum house texts as a real contradiction.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, s.v. \"Was Jesus homeless?\"",
+        "year": "1999",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (skepticsannotatedbible.com, est. 1999; print ed. 2013), s.v. \"Was Jesus homeless?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Mark 2:1",
+      "excerpt_text": "In the house - The house of Peter, with whom Christ lodged when at Capernaum.",
+      "full_note_ref": "CLARKE/41/2/1",
+      "on_tension_rationale": "Clarke identifies the 'house' of Mark 2:1 as Peter's home, where Jesus was a lodger, not property he owned — directly answering the tension with Matthew 8:20/Luke 9:58's 'nowhere to lay his head.'",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Mark 2:1",
+      "excerpt_text": "Though he was in the house, wither Peter's house, or some lodgings of his own which he had taken, yet people came to him as soon as it was noised that he was in town …",
+      "full_note_ref": "MHC/41/2/1",
+      "on_tension_rationale": "Henry leaves open whether the Mark 2:1 house was Peter's or temporary lodgings Jesus had taken — either way not a settled home of his own, consistent with the homelessness saying.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on Mark 2:1",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact passage, identifying the Capernaum house as Peter's, where Jesus lodged as a guest rather than owning property — the harmonizing move surfaced on this row."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page confirmed to treat this specific 'homeless vs. Capernaum house' pairing was found (checked gotquestions.org, carm.org); omitted rather than guessed."
+      }
+    }
+  }
+}

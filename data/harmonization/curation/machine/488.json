@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 488,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the two claims as origin versus residence: Bethsaida was Peter and Andrew's native town, and Capernaum the home where they had since settled and where Jesus found them.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The objection is pressed by Steve Wells in The Skeptic's Annotated Bible, who lists Mark's Capernaum household against John's naming of Bethsaida as 'the city of Andrew and Peter' as a straightforward contradiction of place.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Where did Peter and Andrew live?\" (skepticsannotatedbible.com/contra/peters_home.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; print ed. 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Mark 1:29",
+      "excerpt_text": "they entered into the house of Simon and Andrew; who being brethren, dwelt together in a house at Capernaum, where it seems they were now inhabitants, though their native place was Bethsaida, Joh 1:44 …",
+      "full_note_ref": "GILL/41/1/29",
+      "on_tension_rationale": "Distinguishes native place (Bethsaida, citing John 1:44 by name) from where the brothers currently dwelt and were inhabitants (Capernaum) — the core reconcile move for this tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "John 1:44",
+      "excerpt_text": "the city of Andrew and Peter--of their birth probably, for they seem to have lived at Capernaum (Mar 1:29).",
+      "full_note_ref": "JFB/43/1/44",
+      "on_tension_rationale": "States the resolving distinction in one line: Bethsaida as probable birthplace, Capernaum (citing Mark 1:29) as where they actually lived.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "John 1:43",
+      "excerpt_text": "Bethsaida (“house of fishing”) was a village on Galilee’s north shore and the home of Peter, Andrew, and Philip. Later, Peter and Andrew moved to Capernaum, a village west of Bethsaida (Mark 1:21, 29).",
+      "full_note_ref": "TYN/43/1/43",
+      "on_tension_rationale": "Modern study-note version of the same harmonization: names Bethsaida as the disciples' original home and states plainly that Peter and Andrew later moved to Capernaum, directly citing Mark 1:21, 29.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), on \"Peter's residence: Capernaum. Apparently Bethsaida\" (Mark 1:21, 29 / John 1:44)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact passage pair by name, listing 'Peter's residence Capernaum. Apparently Bethsaida' and resolving it as native city (Bethsaida) versus later dwelling (Capernaum) — the same distinction the row's commentators draw."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No live, on-topic allowlisted apologetics page confirmed for this specific verse pair; the checked gotquestions.org pages (Bethsaida-in-the-Bible, Capernaum-in-the-Bible) describe the towns but do not address the Mark/John tension directly, so link is omitted rather than guessed."
+      }
+    }
+  }
+}

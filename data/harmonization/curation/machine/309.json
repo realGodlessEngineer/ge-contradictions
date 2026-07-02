@@ -1,0 +1,56 @@
+{
+  "contradiction_id": 309,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Jamieson, Fausset & Brown read Genesis's ten sons as narrowing, through the Benjamite wars, to the three clan-branches Chronicles actually enumerates.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "filled",
+      "connective": "Adam Clarke lays the four rosters side by side and concludes the discrepancies cannot honestly be reconciled.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Chronicles 7:6",
+      "excerpt_text": "The sons of Benjamin--Ten are named in Gen 46:21, but only five later (Ch1 8:1; Num 26:38). Perhaps five of them were distinguished as chiefs of illustrious families, but two having fallen in the bloody wars waged against Benjamin (Jdg 20:46), there remained only three branches of this tribe, and these only are enumerated.",
+      "full_note_ref": "JFB/13/7/6",
+      "on_tension_rationale": "Directly reconciles all three numeric rosters (ten, five, three) by proposing a historical narrowing from the patriarch's sons to the surviving clan-branches after the Benjamite wars of Judges 20.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "discrepancy",
+      "source_code": "CLARKE",
+      "verse_ref": "1 Chronicles 7:6",
+      "excerpt_text": "In Gen 46:21, ten sons of Benjamin are reckoned; viz., Bela, Becher, Ashbel, Gera, Naaman, Eri, Rosh, Muppim, Huppim, and Ard. In Num 26:38, etc., five sons only of Benjamin are mentioned, Bela, Ashbel, Ahiram, Shupham, and Hupham: and Ard and Naaman are there said to be the sons of Bela; consequently grandsons of Benjamin. In the beginning of the following chapter, five sons of Benjamin are mentioned, viz., Bela, Ashbel, Aharah, Nohah, and Rapha; where also Addar, Gera, Abihud, Abishua, Naaman, Ahoah, a second Gera, Shephuphan, and Huram, are all represented as grandsons, not sons, of Benjamin: hence we see that in many cases grandsons are called sons, and both are often confounded in the genealogical tables. To attempt to reconcile such discrepancies would be a task as endless as it would be useless. The rabbins say that Ezra, who wrote this book, did not know whether some of these were sons or grandsons; and they intimate also that the tables from which he copied were often defective, and here we must leave all such matters.",
+      "full_note_ref": "CLARKE/13/7/6",
+      "on_tension_rationale": "Adam Clarke lays out the four divergent rosters by name and then explicitly concedes reconciling them is 'a task as endless as it would be useless,' citing rabbinic doubt about whether Ezra's own source tables were reliable.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley catalogs 'Benjamin's sons, Gen. xlvi. 21, and Num. xxvi. 38, 40; 1 Chron. vii. 6' among his historical discrepancies, proposing that the same individuals may have borne different names across the lists and that some sons died between the epochs the lists reflect (he does not separately treat 1 Chron. 8:1-2)."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic, verifiable page on the sons-of-Benjamin genealogies was found on the allowlisted apologetics domains (gotquestions.org, carm.org, defendinginerrancy.com); defendinginerrancy.com's Genesis 46:8-27 page addresses the '70 souls' count, not the sons-of-Benjamin roster discrepancy, so it was not cited."
+      }
+    }
+  }
+}
