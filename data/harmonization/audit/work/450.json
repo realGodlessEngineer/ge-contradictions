@@ -1,0 +1,57 @@
+{
+  "contradiction_id": 450,
+  "question": "When did Jesus curse the fig tree?",
+  "summary": "Mark 11:12-17 has Jesus curse the barren fig tree on the way *into* Jerusalem, *then* enter the temple and cleanse it. Matthew 21:12-19 reverses the sequence: Jesus first cleanses the temple, then leaves to Bethany, and only the next morning curses the fig tree. Same two events, opposite order.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Gill argues both timelines are literally true: the merchants driven out on the day of the triumphal entry (per Matthew) simply returned overnight and were expelled a second time the next morning (per Mark).",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells's Skeptic's Annotated Bible catalogs the two timelines side by side as a flat, unresolved contradiction over whether the fig tree was cursed before or after the temple was cleared.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "Skeptic's Annotated Bible",
+      "year": "1999",
+      "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/fig_temple.html"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63)",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill's own note on Mark 11:15 treats this exact passage, proposing the temple was cleared twice: once as Matthew records it on the day of the triumphal entry, and again the next morning as Mark records it, after the merchants had returned overnight."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/curse-fig-tree.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why did Jesus curse the fig tree?",
+        "note": "explicitly contrasts Matthew's single combined account (fig tree cursed and withered after the temple cleansing) with Mark's two-day sequence (fig tree cursed before the cleansing, withering discovered the next day)"
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "450#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Mark 11:15",
+      "full_note_ref": "GILL/41/11/15",
+      "excerpt_text": "…which was done, as Matthew relates, the same day that he made his public entry into Jerusalem: wherefore it is highly probable, that upon Christ's leaving the city, they returned \"again\", and were the next morning sitting and doing business in the temple as before; and were drove out again by Christ, who, upon his return, found them there.",
+      "on_tension_rationale": "Gill directly reconciles Matthew's same-day temple cleansing with Mark's next-morning cleansing by positing a second, unrecorded expulsion: the merchants returned overnight and were driven out again the day Mark places the episode relative to the fig-tree curse.",
+      "source_note_text": "And they came to Jerusalem,.... The Ethiopic version reads, \"he came\"; that is, Christ; but not alone, for his disciples were with him: Beza says, that, one exemplar he had met with, adds \"again\", and so one of Stephens's copies; for they had been there the day before:\nand Jesus went into the temple: the Syriac and Persic versions add, \"of God\"; into the court of the Gentiles, as he did the preceding day:\nand began to cast out them that bought and sold in the temple, and overthrew the tables of the money changers, and the seats of them that sold doves; which was done, as Matthew relates, the same day that he made his public entry into Jerusalem: wherefore it is highly probable, that upon Christ's leaving the city, they returned \"again\", and were the next morning sitting and doing business in the temple as before; and were drove out again by Christ, who, upon his return, found them there. They \"that bought and sold in the temple\", were those that bought and sold lambs for the passover, which was now at hand; and the sheep and oxen for the \"Chagiga\", or feast the day following; as well as doves hereafter mentioned, for new mothers, and such as had fluxes: and that part of the temple where this business was carried on, was in a large space within the area of the temple, where shops were built for that purpose: and by \"the money changers\", whose \"tables\" are said to be \"overthrown\", are meant, such as sat at tables to receive the half shekel, who changed those that brought whole shekels, or foreign money: and who had so much for changing, which was called \"Kolbon\"; from whence they had the name of \"Collybistae\", in the text: and \"doves\", as before observed, were the offering of the poorer sort of women after birth, at the time of their purification, and of profluvious persons; of which many came from all parts, at the time of the passover: upon which account, there was a great demand for these creatures; and many sat upon seats to sell them, which Christ overturned; See Gill on Mat 21:12."
+    }
+  ]
+}

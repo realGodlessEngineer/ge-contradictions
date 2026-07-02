@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 408,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry answers the charge head-on: Jesus's 'but I say' clarifies and intensifies the commandment's true scope, not new legislation.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "NT scholar Joel Marcus argues Matthew's 'but I say' formula lets Jesus revise Sinai under his own authority while claiming mere continuity with it.",
+      "skeptic": {
+        "name": "Joel Marcus",
+        "work": "\"The Enigma of the Antitheses,\" New Testament Studies 69.2",
+        "year": "2023",
+        "attribution": "Joel Marcus, \"The Enigma of the Antitheses,\" New Testament Studies 69, no. 2 (2023): 121-37"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Matthew 5:21",
+      "excerpt_text": "He adds not any thing new, only limits and restrains some permissions which had been abused: and as to the precepts, shows the breadth, strictness, and spiritual nature of them, adding such explanatory statutes as made them more clear, and tended much toward the perfecting of our obedience to them.",
+      "full_note_ref": "MHC/40/5/21",
+      "on_tension_rationale": "Directly denies that Jesus's 'but I say' introduces new legislative content, reframing it as clarification of the sixth commandment's existing scope — the precise point at issue against the Deut 4:2 charge.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament: The Pentateuch, on Deuteronomy 4:2 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-75",
+        "note": "K&D's note on Deuteronomy 4:2 explicitly ties it to Matthew 5:17, arguing the old covenant 'was not abrogated, but only glorified and perfected, by the new' — keyed directly to this passage."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Jesus-and-the-Law.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Did Jesus contradict the Law in Matthew 5:21-22?",
+        "note": "live apologetic treatment of this exact verse pair"
+      }
+    }
+  }
+}

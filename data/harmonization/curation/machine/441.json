@@ -1,0 +1,58 @@
+{
+  "contradiction_id": 441,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the two commands as targeting different senses of 'child': the humble, trusting temperament to imitate, not the ignorance or fickleness to outgrow.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible catalogues this same word-family pairing as contradictory: becoming like a child versus putting away childish things.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/childish.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Matthew 18:1",
+      "excerpt_text": "Converting grace makes us like little children, not foolish as children (Co1 14:20), nor fickle (Eph 4:14), nor playful (Mat 11:16) …",
+      "full_note_ref": "MHC/40/18/1",
+      "on_tension_rationale": "Henry names both Pauline texts (1 Cor 14:20, Eph 4:14) inside his gloss on 'become as little children,' explicitly sorting which childlike traits Christ commends from the childish ones Paul condemns — the row's exact tension, resolved by distinguishing senses of 'child.'",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Corinthians 14:20",
+      "excerpt_text": "men--full-grown. Be childlike, not childish.",
+      "full_note_ref": "JFB/46/14/20",
+      "on_tension_rationale": "JFB's gloss on 'men' in 1 Cor 14:20 supplies the precise childlike/childish distinction the contradiction turns on, in four words, from the Pauline side of the tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714)",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry's note on Matthew 18:1-3 treats this exact pairing directly, naming 1 Corinthians 14:20 and Ephesians 4:14 by chapter and verse inside his exposition of 'become as little children' and distinguishing the childlike traits to be imitated from the childish ones Paul warns against."
+      },
+      "link": null
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 424,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry reads both name-swaps as one person under different labels: Lebbaeus/Thaddaeus is Judas the brother of James, and the Canaanite is the Zealot.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible says the four apostle lists disagree precisely at the last two slots — Lebbaeus/Thaddeus, Judas brother of James, Canaanite, Zealot.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"What were the names of the apostles?\" (skepticsannotatedbible.com/contra/apostles.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/apostles.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Luke 6:12",
+      "excerpt_text": "He that in Mark was called Thaddeus, in Matthew Lebbeus, whose surname was Thaddeus, is here called Judas the brother of James, the same that wrote the epistle of Jude. Simon, who in Matthew and Mark was called the Canaanite, is here called Simon Zelotes, perhaps for his great zeal in religion.",
+      "full_note_ref": "MHC/42/6/12",
+      "on_tension_rationale": "Henry names both diverging identifications side by side in one place — Thaddaeus/Lebbaeus = Judas the brother of James, and the Canaanite = Simon Zelotes — the exact two name-swaps this contradiction turns on.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), pp. 322-323 (\"Apostles named\")",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats the four-list discrepancy directly under the heading \"Apostles named,\" citing Alford, Meyer, Robinson, Ebrard, and Gardiner for identifying Lebbeus/Thaddeus with Judas the brother of James, and Simon Zelotes with Simon the Canaanite (\"Zelotes\" being, he notes, the Greek rendering of the Hebrew term behind \"Canaanite\")."
+      },
+      "link": {
+        "url": "https://carm.org/why-are-the-lists-of-disciples-different",
+        "domain": "carm.org",
+        "title": "CARM: Why are the lists of disciples different?",
+        "note": "Live apologetic treatment identifying Thaddaeus and Judas the son of James as the same person, the same name-swap this contradiction turns on."
+      }
+    }
+  }
+}

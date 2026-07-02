@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 414,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill reads Jesus's ban on anxious \"thought for the morrow\" as compatible with the ordinary, lawful diligence Paul later commands for one's household.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Sociologist Gerd Theissen's \"wandering charismatics\" thesis treats the Synoptic ethic of no household provision and the Pastorals' demand to provide for one's own as artifacts of two different, unreconciled stages of the earliest Jesus movement.",
+      "skeptic": {
+        "name": "Gerd Theissen",
+        "work": "The First Followers of Jesus: A Sociological Analysis of the Earliest Christianity",
+        "year": "1978",
+        "attribution": "Gerd Theissen, The First Followers of Jesus: A Sociological Analysis of the Earliest Christianity, trans. John Bowden (SCM, 1978)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 6:30",
+      "excerpt_text": "…for it is lawful to take proper care and thought for present food, drink, and raiment; but not to be anxiously concerned for futurity …",
+      "full_note_ref": "GILL/40/6/30",
+      "on_tension_rationale": "Gill explicitly distinguishes lawful, ordinary care/provision from anxious worry about the future, which is precisely the distinction apologists use to reconcile Jesus's \"take no thought\" with 1 Timothy 5:8's command to provide for one's household.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), \"Improvidence\" (Ethical Discrepancies, p. 281)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pairing directly, quoting Matthew 6:19, 25, 34 and 1 Timothy 5:8 side by side under the heading \"Improvidence\" and glossing \"take no thought\" as anxious solicitude, not a ban on ordinary economy or provision (verified via full-text search of the archive.org djvu text)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Bible-stress.html",
+        "domain": "gotquestions.org",
+        "title": "What does the Bible say about stress?",
+        "note": "live apologetic treatment citing Matthew 6:25 and 1 Timothy 5:8 together, arguing that family provision is a legitimate responsibility to be pursued in trust rather than anxiety"
+      }
+    }
+  }
+}

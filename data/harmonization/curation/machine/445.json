@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 445,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The Geneva annotators read Jesus's Matthew 20:23 disclaimer as addressing only his humbled human nature, leaving his divine omnipotence untouched.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses the plain sense: a Jesus without power to assign thrones or heal in Nazareth cannot also claim 'all power.'",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How much power did Jesus have?\" (skepticsannotatedbible.com/contra/power.html)",
+        "year": "2000",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"How much power did Jesus have?\" (online, live by 2000)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Matthew 20:23",
+      "excerpt_text": "The almightiness of Christ his divinity is not shut out by this, but it showeth the debasing of himself by taking man’s nature upon him.",
+      "full_note_ref": "GNV/40/20/23",
+      "on_tension_rationale": "Directly answers the 'is not mine to give' disclaimer by locating it in Christ's assumed human nature while expressly denying it excludes his divine omnipotence — the same two-natures move that explains why he can later say 'all power is given unto me' (Matt 28:18) and why unbelief, not incapacity, limited him at Nazareth (Mark 6:5).",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), pp. 110-111 (\"Omnipotence\")",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Under the heading 'Omnipotence — Had all power / Was not almighty,' Haley juxtaposes these same four texts (Matt 28:18, John 3:35 vs. Matt 20:23, Mark 6:5) directly against each other and resolves Matt 20:23 as a question of fitness rather than power ('the question is not one of power at all, but of fitness'), and Mark 6:5 as moral rather than physical impossibility, citing Grotius, Chrysostom, Clarke, Barnes, and Alford. (Verified via full-text search of the 1874 edition on archive.org.)"
+      },
+      "link": null
+    }
+  }
+}

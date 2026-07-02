@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 463,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The classic harmonization holds Judas hanged himself, and the rope or branch later gave way, causing the fall and rupture Acts describes.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Raymond E. Brown reads Matthew's hanging and Acts's bursting fall as independent legendary traditions explaining the same place-name, not one death seen twice.",
+      "skeptic": {
+        "name": "Raymond E. Brown",
+        "work": "The Death of the Messiah: From Gethsemane to the Grave",
+        "year": "1994",
+        "attribution": "Raymond E. Brown (1928-1998), The Death of the Messiah: From Gethsemane to the Grave, Anchor Bible Reference Library, vol. 2 (Doubleday, 1994)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 27:5",
+      "excerpt_text": "The kind and manner of his death, as recorded by Luke in Act 1:18 is, that \"falling headlong, he burst asunder the midst, and all his bowels gushed out\"; which account may be reconciled with this, by supposing the rope, with which he hanged himself, to break, when falling; it may be, from a very high place, upon a stone, or stump of a tree; when his belly burst, and his guts came out …",
+      "full_note_ref": "GILL/40/27/5",
+      "on_tension_rationale": "Directly proposes the classic harmonizing mechanism -- the rope breaking after the hanging, causing the fall and bowel-burst Acts describes -- that reconciles Matthew's hanging with Acts's headlong death.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), pp. 349-350",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Under the heading 'Judas' death -- one manner. A diverse statement,' Haley quotes Matthew 27:5 and Acts 1:18 side by side and gives the same rope-or-limb-breaking harmonization, citing Prof. Hackett's on-site measurements of the cliffs above the Valley of Hinnom as corroboration."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Judas-die.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: How did Judas die?",
+        "note": "Argues Matthew records the actual cause of death (hanging) while Acts describes the state of the body afterward (rope or branch failing, causing the fall and rupture)."
+      }
+    }
+  }
+}

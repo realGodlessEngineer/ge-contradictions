@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 435,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill reads Luke's perplexity and Mark's firm identification as successive stages of the same episode: Herod's initial doubt gave way to settled conviction once his guilty conscience took hold.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, in the Skeptic's Annotated Bible, lists Matthew 14:1-2 and Mark 6:16's flat \"It is John\" against Luke 9:9's \"but who is this?\" as two different, incompatible answers Herod gives to who Jesus is.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Did Herod think Jesus was John the Baptist?\" (skepticsannotatedbible.com/contra/herod.html)",
+        "year": "1999",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (1999), contra/herod.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Mark 6:16",
+      "excerpt_text": "These different sentiments of the people concerning Jesus, greatly perplexed the mind of Herod, as appears from Luk 9:7, for it was first given out by others, and not by Herod, that John the Baptist was risen from the dead; which he hearing of, gave him great uneasiness: … At first he could not receive it, that since he was beheaded by him, he should be restored to life; but hearing of the miracles that were done by him, his conscience accused him, his fancy worked, and at length he firmly believed it, that he must be risen: …",
+      "full_note_ref": "GILL/41/6/16",
+      "on_tension_rationale": "Gill explicitly names Luke 9:7 and stitches it to Mark 6:16 as one continuous psychological process (perplexed doubt hardening into firm belief), directly addressing why the two Gospels present Herod's mental state so differently.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Mark 6:16",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill's own note on Mark 6:16 explicitly cross-references Luke 9:7 and reconciles the two by reading Herod's Lukan perplexity as the earlier stage of the same episode that hardens into Matthew/Mark's firm identification. (Haley's An Examination of the Alleged Discrepancies of the Bible was checked directly via full-text search on the archive.org djvu.txt for 'Herod' and 'John the Baptist' and does not treat this passage at all, so Gill is used per the contract's fallback clause.)"
+      },
+      "link": null
+    }
+  }
+}

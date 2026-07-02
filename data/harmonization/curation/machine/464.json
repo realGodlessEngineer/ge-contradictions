@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 464,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill offers two harmonizing readings — Judas struck the bargain and the priests completed it, or Judas is credited because his money funded it.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman presses the two accounts as flat-out contradictory on who bought the field and why it bears the name Field of Blood.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible",
+        "year": "2009",
+        "attribution": "Bart D. Ehrman, Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (HarperOne, 2009), p. 53"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Acts 1:18",
+      "excerpt_text": "It is somewhat difficult, that Judas should be said to purchase it, when Matthew says the chief priests bought it, Mat 27:7. Both are true; Judas having received his money of the chief priests two days ago, might not only intend to purchase, but might really strike a bargain with the potter for his field; but repenting of his sin, instead of carrying the money to make good the agreement, went and threw it to the chief priests, and then hanged himself; when they, by a secret providence, might be directed to make a purchase of the same field with his money; or he may be said to purchase it, because it was purchased with his money.",
+      "full_note_ref": "GILL/44/1/18",
+      "on_tension_rationale": "Directly reconciles Matt 27:6-7 (priests bought) with Acts 1:18 (Judas purchased) via a dual harmonization: agency-transfer (Judas began the bargain, priests completed it under providence) and attributive speech (credited to Judas because it was purchased with his money).",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact passage under the 'facit per alium, facit per se' principle (p. 347): the priests bought the field, and Judas is said to have 'purchased' it only in the sense of furnishing the occasion for its purchase."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Judas-die.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: How did Judas die?",
+        "note": "live apologetic treatment addressing both the manner of Judas's death and who bought the field"
+      }
+    }
+  }
+}

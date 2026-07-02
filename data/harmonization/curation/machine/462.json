@@ -1,0 +1,46 @@
+{
+  "contradiction_id": 462,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Adam Clarke merges the second denial into one scene where the maid's charge is echoed by a man, then by others, across Matthew, Luke, and John.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "D. F. Strauss catalogued the gospels' disagreement over who challenged Peter and showed harmonizing them requires multiplying the denials past the three each evangelist claims.",
+      "skeptic": {
+        "name": "D. F. Strauss",
+        "work": "The Life of Jesus Critically Examined",
+        "year": "1846",
+        "attribution": "D. F. Strauss (d. 1874), The Life of Jesus Critically Examined (1846)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "John 18:27",
+      "excerpt_text": "After remaining here a short time, perhaps an hour, another girl sees him, and says to them who were standing by in the vestibule, that he was one of them. Peter, to avoid this charge, withdraws into the hall, and warms himself. The girl, and those to whom she had spoken, follow him; the communication between the two places being immediate. Here a man enforces the charge of the girl, according to Luke; and others urge it, according to St. John; and Peter denies Jesus vehemently.",
+      "full_note_ref": "CLARKE/43/18/27",
+      "on_tension_rationale": "Directly reconciles the second-denial challenger identity (maid in Matthew/Mark vs. a man in Luke vs. plural accusers in John) by placing them in one continuous courtyard scene rather than treating them as rival, irreconcilable witnesses.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats the denial accounts directly (pp. 424-425), arguing no single evangelist records every accusation and that the terror-stricken Peter likely repeated his denial to a shifting cast of accusers, which 'accounts for the difficulty as to the persons who accosted him, and the places where he was when the denials were uttered.'"
+      }
+    }
+  }
+}

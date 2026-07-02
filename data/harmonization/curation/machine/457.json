@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 457,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "JFB reads John 12:27 as a genuine petition paralleling Gethsemane's -- the plea and its resolution, submission to the Father's will, given together in the same verse.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Louis Ruprecht argues John rewrote the Gethsemane prayer itself: his Jesus does not ask to be spared but pointedly declines even to voice the request.",
+      "skeptic": {
+        "name": "Louis A. Ruprecht Jr.",
+        "work": "This Tragic Gospel: How John Corrupted the Heart of Christianity",
+        "year": "2008",
+        "attribution": "Louis A. Ruprecht Jr., This Tragic Gospel: How John Corrupted the Heart of Christianity (Jossey-Bass, 2008)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "John 12:27",
+      "excerpt_text": "To take this as a question--\"Shall I say, Father, save me,\" &c.--as some eminent editors and interpreters do, is unnatural and jejune. It is a real petition, like that in Gethsemane, \"Let this cup pass from Me\"; only whereas there He prefaces the prayer with an \"If it be possible,\" here He follows it up with what is tantamount to that--\"Nevertheless for this cause came I unto this hour.\" The sentiment conveyed, then, by the prayer, in both cases, is twofold: (1) that only one thing could reconcile Him to the death of the cross--its being His Father's will He should endure it--and (2) that in this view of it He yielded Himself freely to it.",
+      "full_note_ref": "JFB/43/12/27",
+      "on_tension_rationale": "JFB explicitly rejects reading v. 27 as a merely rhetorical question and instead equates it with the Gethsemane petition, arguing both express the identical twofold sentiment (a real plea, instantly resolved into free submission) -- the most direct harmonization of the two prayers in the gathered notes.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), note on John 12:27",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats John 12:27 directly as a real petition structurally parallel to the Gethsemane prayer, arguing both convey the same twofold sentiment -- reluctance overcome by submission to the Father's will. (Haley's Alleged Discrepancies was checked via full-text search of the 1874 edition for 'Gethsemane,' 'cup pass,' and John 12:27/xii.27 and has no entry treating this pairing, so this row-surfaced harmonizing commentary is used per the spec's fallback.)"
+      },
+      "link": null
+    }
+  }
+}

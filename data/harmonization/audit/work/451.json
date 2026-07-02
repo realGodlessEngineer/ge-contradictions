@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 451,
+  "question": "When did the cursed fig tree die?",
+  "summary": "Matthew 21:19-20 says the fig tree 'presently' withered after Jesus cursed it, and the disciples marveled at the speed: 'How soon is the fig tree withered away!' Mark 11:13-14, 20-21 has the disciples observe the cursed tree only the *next morning*, withered from the roots — and Peter has to remind Jesus what he said the day before. Matthew's tree dies instantly; Mark's takes overnight.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Gill resolves the timing by distinguishing the tree's instant withering from the disciples' delayed discovery of it the next morning.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "D. F. Strauss argues Matthew's flat 'immediately' cannot honestly be harmonized by importing Mark's overnight gap into wording Matthew never wrote that way.",
+    "skeptic": {
+      "name": "David Friedrich Strauss",
+      "work": "The Life of Jesus Critically Examined",
+      "year": "1846",
+      "attribution": "D. F. Strauss (1808-1874), The Life of Jesus Critically Examined (1846)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63)",
+        "author": "John Gill",
+        "year": "1746-63",
+        "note": "Gill treats this exact passage, reconciling Matthew's 'presently' with Mark's next-morning notice by distinguishing the withering itself from the disciples' delayed observation of it."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/curse-fig-tree.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why did Jesus curse the fig tree?",
+        "note": "Live apologetic treatment explicitly reconciling Matthew's compressed one-day account with Mark's two-day timeline."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "451#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Matthew 21:20",
+      "full_note_ref": "GILL/40/21/20",
+      "excerpt_text": "The next day in the morning, as Mark says: they had, heard what Christ had said to it the day before, as the same evangelist observes; but did not take notice of the immediate withering of the tree; but the next morning, as they returned from Bethany, they saw it dried up from the roots:",
+      "on_tension_rationale": "Gill directly harmonizes Matthew's instant withering with Mark's next-morning discovery by distinguishing the moment of withering (immediate) from the disciples' observation of it (delayed until the next morning).",
+      "source_note_text": "And when the disciples saw it,.... The next day in the morning, as Mark says: they had, heard what Christ had said to it the day before, as the same evangelist observes; but did not take notice of the immediate withering of the tree; but the next morning, as they returned from Bethany, they saw it dried up from the roots:\nthey marvelled; not that Christ should curse it, but that it should wither away so soon, and upon his saying what he did; which was a considerable instance of his power and Godhead, all creatures, animate and inanimate, being at his command and disposal:\nsaying, how soon is the fig tree withered away? This was said by Peter, in the name of the rest, who recollecting what Jesus had said to it the day before, and observing how the event had answered his words so soon, addressed Christ after this manner: \"master, behold the fig tree which thou cursedst is withered away\"; expressing his wonder at it, and ascribing, it to the power of Christ; of which this was an amazing proof and evidence."
+    }
+  ]
+}

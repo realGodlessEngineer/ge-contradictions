@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 458,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill answers directly: John's silence about the kiss is an omission, not a denial — the other Gospels had already recorded it.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Isaac Troki pressed that John's 'I am he' scene, where Judas merely 'stood with them,' differs from the Synoptics' kiss-sign account.",
+      "skeptic": {
+        "name": "Isaac Troki (Isaac ben Abraham of Troki)",
+        "work": "Chizzuk Emunah (Faith Strengthened), Part 2, ch. 56",
+        "year": "1593",
+        "attribution": "Isaac Troki (1533-1594), Chizzuk Emunah / Faith Strengthened, Part 2, ch. 56 (written 1593)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "John 18:5",
+      "excerpt_text": "But here is no contradiction, John does not deny that Judas gave a sign to the soldiers; though he omits it, it being so particularly observed by the other evangelists, and only relates what is not taken notice of by them, and which no ways contradicts what they have asserted …",
+      "full_note_ref": "GILL/43/18/5",
+      "on_tension_rationale": "Gill's note on John 18:5 explicitly takes up a named Jewish critic's charge that John's self-identification scene conflicts with the Synoptic kiss-sign, and this sentence is his direct answer: omission is not denial — the single most on-point sentence in the whole gathered note pool.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on John 18:5",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill's note on John 18:5 quotes and rebuts a Jewish critic (citing 'R. Isaac Chizzuk Emuna, par. 2. c. 56') who charged that John's account of Jesus identifying himself contradicts the Synoptics' kiss-sign; Gill answers that John's omission of the kiss is not a denial of it, and offers several further harmonizing scenarios for the sequence of events."
+      },
+      "link": null
+    }
+  }
+}

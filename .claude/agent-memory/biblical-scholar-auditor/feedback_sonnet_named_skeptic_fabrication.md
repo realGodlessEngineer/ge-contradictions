@@ -808,3 +808,57 @@ discrepancy_first:**
 - **NEW TECHNIQUE note:** the archive.org search-inside endpoint can be queried per-term (not just once) to
   triangulate a cluster of named authorities onto the same page pair — much stronger corroboration than a
   single snippet, and worth the extra round-trips when a deeper_learning note lists 4+ named scholars.
+
+**EHRMAN MISCITE+OVERCLAIM (new failure mode, distinct from not_real/strawman-of-scope) — audit id 438 (Did
+Jesus forewarn the apostles of his death/resurrection? Synoptic passion predictions Mark 8:31/9:31/10:33-34
+etc. vs John 20:9 disciples' ignorance), 2026-07-02 — discrepancy connective flagged, reconcile excerpt clean:**
+- **Bart D. Ehrman, Jesus: Apocalyptic Prophet of the New Millennium (Oxford, 1999), cited pp. 217-220** — he
+  IS real and DOES discuss the exact verses (Mark 8:31; 9:31; 10:33-34) as failing the "criterion of
+  dissimilarity," but at the WRONG PAGES. Verified full text via archive.org djvu.txt (identifier
+  `jesus-apocalyptic-prophet-bart-d.-ehrman`, direct fetch of the `..._djvu.txt` derivative — not private,
+  no search-inside API needed): p.93 states the general methodological point ("Passion predictions cannot
+  pass the criterion of dissimilarity. Does that mean that Jesus did not predict his own death? Not
+  necessarily. It means that if he did, we can't establish it through this criterion") and pp.208-9 names the
+  three verses explicitly. Pages 217-220 (verified by reading that span) instead cover Judas's betrayal
+  motive and the Sanhedrin blasphemy trial — an unrelated topic several pages later in the same chapter.
+  **Second, independent problem layered on the miscite: the connective overclaims Ehrman's actual position.**
+  He explicitly HEDGES ("not necessarily... we can't establish it") rather than asserting the predictions
+  "ARE later, Markan vaticinia ex eventu" as the connective states flatly; and his text never ties this to
+  John 20:9 at all (that specific inferential link is a pipeline-constructed extrapolation, not his argument).
+  → named_skeptic=strawman (2), connectives=flag (1). This is a NEW pattern for the log: unlike the usual
+  not_real (skeptic never touched this passage) or scope-strawman (real broad engagement, wrong specific
+  facet), here the skeptic engaged the EXACT verses at the EXACT methodological point, but (a) the pincite is
+  simply wrong and (b) his careful agnosticism got flattened into a confident skeptical assertion he didn't
+  make. **Lesson: even a topically-perfect named_skeptic match still needs the page range verified — "real
+  critic, real passage, real argument" is not sufficient if the certainty level has been inflated or the
+  citation points somewhere else in the same book.**
+- **Reconcile: Adam Clarke, Commentary on the Bible (1832) on John 20:9** — verbatim-confirmed (studylight.org
+  + sacred-texts.com): "It was certainly a reproach to the disciples... However, this ingenuous confession of
+  John... is a full proof of his sincerity, and of the truth of his narration." Ellipsis skips only a
+  Jonah-typology aside (Matt 12:40), sense preserved. Also serves as deeper_learning pd_work (self-source
+  pattern). Clean pass, on-tension, correct pole.
+- **link gotquestions.org/Jesus-predict-His-death.html** = live, on-topic (surveys all three Synoptic
+  predictions + disciples' recurring failure to grasp them; honestly does NOT claim to address John 20:9
+  specifically, matching its own note's careful description). deeper_learning ok (0).
+- Row is discrepancy_first; parity ok (1 reconcile excerpt >= 1 named-skeptic discrepancy); discrepancy_integrity
+  ok (0) — genuinely disputed topic with real (if mis-cited) skeptical engagement, not co_opted, no relabel
+  needed. Verdict: E pass (438#0, Clarke) / G: parity 0, connectives 1, named_skeptic 2, discrepancy_integrity 0,
+  deeper_learning 0.
+
+**EHRMAN PASS #4 — audit id 449 (one animal or two at the Triumphal Entry? Matt 21:1-7 ass+colt vs Mark
+11/Luke 19/John 12 single colt), 2026-07-02 — all clean:** Bart D. Ehrman, *Jesus Before the Gospels*
+(HarperOne, 2016) on Matthew doubling the animal by misreading Zechariah 9:9's Hebrew parallelism = REAL
+and fairly represented — confirmed via ehrmanblog.org "Did Jesus Really Have a 'Triumphal Entry' into
+Jerusalem?" (Ehrman there states "I deal the question in my book Jesus Before the Gospels and will excerpt
+the discussion here"), which contains the EXACT quote "a very peculiar memory of the event" and explicitly
+frames the two-donkey detail as unique to Matthew (not in Mark/Luke/John) — matches the connective's "found
+in no other Gospel" precisely. named_skeptic ok (0). Gill reconcile excerpt (Matt 21:2, "both were spoken
+of by Christ ... first on one, and then on the other") verbatim-confirmed in embedded note, on-tension,
+correct pole (genuine harmonization, not concession). pd_work **John Haley 1874 p.155** verbatim-confirmed
+via raw djvu.txt grep (see [[archive-org-fulltext-search-technique]] 9th confirmation) — Haley prints Matt
+21:2-3/Mark 11:2-3/Luke 19:30-31 in three parallel columns then writes "This is simply an example of three
+independent veracious witnesses, each telling his story in his own way," matching the pd_work note almost
+verbatim. Link defendinginerrancy.com/bible-solutions/Matthew_21.2_(cf._Mark_11.2;_Luke_19.30).php verified
+live, on-topic, title matches, allowlisted domain, sourced from Geisler-Howe *When Critics Ask*. Row
+discrepancy_first w/ discrepancy=named_skeptic, reconcile capped to 1 excerpt vs named-skeptic connective,
+parity 1>=1; discrepancy_integrity ok (surfaced, not co_opted). Verdict E pass / G all-0.

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 428,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the question as posed for the disciples' benefit, not John's own doubt, since he already knew and had testified to Jesus as Messiah.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "D. F. Strauss called John's later doubt 'psychologically impossible' after his baptismal testimony, concluding the Synoptic and Johannine portraits of the Baptist cannot both be historical.",
+      "skeptic": {
+        "name": "D. F. Strauss",
+        "work": "The Life of Jesus Critically Examined",
+        "year": "1846",
+        "attribution": "D. F. Strauss (d. 1874), The Life of Jesus Critically Examined (1846)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 11:3",
+      "excerpt_text": "John could not be ignorant of this, who had seen the Spirit of God descending on him at his baptism, heard a voice from heaven, declaring him the Son of God; and had so often pointed him out to others, and had borne frequent testimonies that he was the Lamb of God, and bridegroom of his church: wherefore this question was put, not upon his own account, but his disciples, that they might have from the mouth of Christ a full and satisfactory answer, which would remove all their doubts and scruples, and attach them to Christ, now he was about to die, and leave them, than which nothing was more desirable to him.",
+      "full_note_ref": "GILL/40/11/3",
+      "on_tension_rationale": "States outright that John already knew Jesus was the Son of God/Lamb of God from the baptism (John 1), then supplies the harmonizing claim that the Matt 11 question was posed for the disciples' sake, not John's own uncertainty — addresses both horns of the tension in one sentence.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714)",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry's comment on Matthew 11:2-6 is an extended, explicit treatment of this exact question, weighing whether John sent the message for his own reassurance, from prison-born impatience, or wholly for his disciples' sake, while affirming his faith did not fail."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/John-the-Baptist-doubt.html",
+        "domain": "gotquestions.org",
+        "title": "Did John the Baptist lose his faith in Jesus as the Messiah (Matthew 11:3; Luke 7:19)?",
+        "note": "live apologetic treatment of the same question"
+      }
+    }
+  }
+}

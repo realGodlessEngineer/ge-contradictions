@@ -1,0 +1,57 @@
+{
+  "contradiction_id": 448,
+  "question": "When did Jesus' temple tantrum occur?",
+  "summary": "John 2 places Jesus' violent cleansing of the temple at the very beginning of his public ministry, right after the Cana wedding miracle and years before his arrest. The Synoptics place it at the very end of his ministry: Luke 19 has him doing it the same day as the triumphal entry, Matthew 21 and Mark 11 have him doing it the day after. So depending on which gospel you read, the temple action either kicked off Jesus' career or sealed his death warrant in the final week.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Adam Clarke's harmonization holds that Jesus cleansed the temple twice, framing the act as both the opening and the closing gesture of his public ministry.",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Bart Ehrman presses the chronology directly, arguing the two-cleansings fix would mean neither Gospel tells the 'true' story, and concluding the accounts are, historically, not reconcilable.",
+    "skeptic": {
+      "name": "Bart D. Ehrman",
+      "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don't Know About Them)",
+      "year": "2009",
+      "attribution": "Bart D. Ehrman, Jesus, Interrupted (HarperOne, 2009), p. 7"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on John 2:14",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke's note on John 2:14 treats this exact chronological problem at length, surveying the historians on each side (Mann, Priestley, and Pearce for one cleansing; Calvin, Mede, L'Enfant, Beausobre, Lardner, Hurd, and Newcome for two) and concluding it is probable Christ purged the temple both to begin and to end his ministry. John Haley's Examination of the Alleged Discrepancies of the Bible (curl+grep of the examinationofall00hale/examinationof00hale djvu.txt mirrors for 'temple', 'purg', 'cleans', 'money changers', 'buyers and sellers', 'twice purged') has no dedicated treatment of this specific chronology question -- its only related John 2:15/16 citation appears under an unrelated 'Resistance' heading about whether Jesus's use of a scourge sanctions violence, not about when the cleansing occurred."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/temple-cleanse.html",
+        "domain": "gotquestions.org",
+        "title": "How many times did Jesus cleanse the temple? Why did He cleanse the temple?",
+        "note": "live apologetic treatment defending the two-cleansings reading, confirmed via WebFetch"
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "448#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "John 2:14",
+      "full_note_ref": "CLARKE/43/2/14",
+      "excerpt_text": "The vindication of God's house from profanation was the first and the last care of our Lord; and it is probable he began and finished his public ministry by this significant act.",
+      "on_tension_rationale": "States the two-cleansings harmonization directly, explaining why the temple action could stand at both the beginning (John) and the end (Synoptics) of Jesus' ministry -- the row's exact chronological tension.",
+      "source_note_text": "Found in the temple those that sold oxen, etc. - This is a similar fact to that mentioned Mat 21:12; Mar 11:15; Luk 19:45. See it explained on Mat 21:12 (note). If it be the same fact, then John anticipates three years of time in relating it here; as that cleansing of the temple mentioned by the other evangelists took place in the last week of our Lord's life. Mr. Mann, Dr. Priestley, and Bp. Pearce, contend that our Lord cleansed the temple only once; and that was at the last passover. Calvin, Mr. Mede, L'Enfant and Beausobre, Dr. Lardner, Bp. Hurd, and Bp. Newcome, contend that he purged the temple twice; and that this, mentioned by John, was the first cleansing, which none of the other evangelists have mentioned. Let the reader, says Bp. Newcome, observe the order of events.\n\"Jesus works his first miracle at Cana of Galilee, Joh 2:11; then he passes a few days at Capernaum, which bring him on his way to Jerusalem, Joh 2:12. The passover being near, he goes up to Jerusalem, Joh 2:13, and casts the traders out of the temple, Joh 2:15, Joh 2:16, At the passover he works many miracles, Joh 2:23. While he is in Jerusalem, which city he does not leave till, Joh 3:22, Nicodemus comes to him by night, Joh 3:1, Joh 3:2. Joh 3:2 contains a reference to Joh 2:23. After these things, Jesus departs from Jerusalem, and dwells and baptizes in Judea, Joh 3:22. And all these incidents take place before John was cast into prison, Joh 3:24. But the second cleansing of the temple happens most clearly during the last week of our Lord's life, after the death of the Baptist, and at a time when it would be absurd to say that afterwards Jesus dwelt and baptized in Judea.\"\nThe vindication of God's house from profanation was the first and the last care of our Lord; and it is probable he began and finished his public ministry by this significant act.\nIt certainly appears that John directly asserts an early cleansing of the temple, by the series of his history; as the other three evangelists assert a later cleansing of it. And though the act mentioned here seems to be nearly the same with that mentioned by the other evangelists, yet there are some differences. St. John alone mentions the scourge of rushes, and the casting out of the sheep and oxen. Besides, there is a considerable difference in our Lord's manner of doing it: in the cleansing mentioned by the three evangelists, he assumes a vast deal of authority, and speaks more pointedly concerning himself, than he appears to do in this cleansing mentioned by St. John: the reason which has been given is, In the first cleansing he was just entering upon his public ministry, and therefore avoided (as much as was consistent with the accomplishment of his work) the giving any offense to the Jewish rulers; but, in the last cleansing, he was just concluding his ministry, being about to offer up his life for the salvation of the world, in consequence of which he speaks fully and without reserve. For answers to all the objections made against two cleansings of the temple, see the notes at the end of Bp. Newcome's Greek Harmony of the Gospels, pp. 7-9."
+    }
+  ]
+}

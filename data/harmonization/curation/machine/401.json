@@ -1,0 +1,49 @@
+{
+  "contradiction_id": 401,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read \"masters according to the flesh\" as delegated bodily authority only — souls and exclusive worship remain God's alone.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible catalogues this exact pairing as contradictory: exclusive service to God alongside scripturally sanctioned obedience to human masters.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/serve.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Ephesians 6:1",
+      "excerpt_text": "Civil servitude is not inconsistent with Christian liberty. Those may be the Lord's freemen who are slaves to men. \"Your masters according to the flesh (Eph 6:5), that is, who have the command of your bodies, but not of your souls and consciences: God alone has dominion over these.\"",
+      "full_note_ref": "MHC/49/6/1",
+      "on_tension_rationale": "MHC's block-anchored note on Eph 6:1-9 draws the exact reconciling distinction the row needs: human masters hold only delegated, bodily/civil authority, while souls and exclusive worship remain God's alone — directly answering the tension between Matt 4:10's 'him only shalt thou serve' and the household codes' command to obey human masters.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's \"Ethical Discrepancies\" chapter (p. 293) treats this exact pairing under the heading \"Due to masters. / To God only,\" setting Col 3:22 and 1 Pet 2:18 against Matt 4:10 and Matt 23:8, and resolves it precisely as the row's reconcile pole does: \"The first series refers to civil obedience, or obedience in secular matters; the last relates to worship and religious service.\""
+      },
+      "link": null
+    }
+  }
+}

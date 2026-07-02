@@ -1,0 +1,49 @@
+{
+  "contradiction_id": 440,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill answers the row's own objection directly: their grief flowed from confusion, not comprehension, so \"exceeding sorry\" and \"understood not\" describe one and the same bewildered reaction.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharper critical reading, developed in Joseph B. Tyson's classic study of Mark's own theme, treats the disciples' incomprehension here as Mark's deliberate motif — one Matthew's Gospel reverses outright, leaving two incompatible reports of what the Twelve actually grasped.",
+      "skeptic": {
+        "name": "Joseph B. Tyson",
+        "work": "\"The Blindness of the Disciples in Mark,\" Journal of Biblical Literature 80",
+        "year": "1961",
+        "attribution": "Joseph B. Tyson, \"The Blindness of the Disciples in Mark,\" JBL 80 (1961): 261-268"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 17:23",
+      "excerpt_text": "…but this they understood not, nor indeed truly any part of what he had said; so Mark and Luke intimate: but then it may be said, how came they to be so very sorrowful, if they did not know what was said? To which may be replied, that this might be the reason of their sorrow, because they did not understand what he said, and they were afraid to ask …",
+      "full_note_ref": "GILL/40/17/23",
+      "on_tension_rationale": "Gill explicitly raises the row's own question — how could the disciples be exceeding sorry if, per Mark and Luke, they understood not — and resolves it by making their non-comprehension the cause of their sorrow rather than a rival report of a different mental state.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-1763), on Matthew 17:23",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill's own note on Matthew 17:23, already the reconcile-pole excerpt, is keyed directly to this passage. Haley's Alleged Discrepancies (1874) was checked (curl+grep of the full archive.org djvu text for 'understood not,' 'exceeding sorry,' 'Mark ix. 32,' 'Matt. xvii. 23,' and 'sorrowful') and does not treat this pairing, so Gill is used per the contract's fallback clause."
+      },
+      "link": null
+    }
+  }
+}

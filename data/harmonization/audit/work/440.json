@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 440,
+  "question": "Did the disciples understand when Jesus told them about his coming death?",
+  "summary": "Matthew 17:22-23 reports the disciples' reaction to Jesus' second passion prediction: \"they were exceeding sorry\" (*elypēthēsan sphodra*), indicating comprehension — they understood the message well enough to grieve. The Markan parallel (Mark 9:30-31) and Lukan parallel (Luke 9:44-45) report the opposite: \"they understood not that saying, and were afraid to ask him\" / \"they understood not this saying, and it was hid from them.\" Matthew has the disciples grieving in comprehension; Mark and Luke have them confused and afraid to ask.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Gill answers the row's own objection directly: their grief flowed from confusion, not comprehension, so \"exceeding sorry\" and \"understood not\" describe one and the same bewildered reaction.",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The sharper critical reading, developed in Joseph B. Tyson's classic study of Mark's own theme, treats the disciples' incomprehension here as Mark's deliberate motif — one Matthew's Gospel reverses outright, leaving two incompatible reports of what the Twelve actually grasped.",
+    "skeptic": {
+      "name": "Joseph B. Tyson",
+      "work": "\"The Blindness of the Disciples in Mark,\" Journal of Biblical Literature 80",
+      "year": "1961",
+      "attribution": "Joseph B. Tyson, \"The Blindness of the Disciples in Mark,\" JBL 80 (1961): 261-268"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-1763), on Matthew 17:23",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill's own note on Matthew 17:23, already the reconcile-pole excerpt, is keyed directly to this passage. Haley's Alleged Discrepancies (1874) was checked (curl+grep of the full archive.org djvu text for 'understood not,' 'exceeding sorry,' 'Mark ix. 32,' 'Matt. xvii. 23,' and 'sorrowful') and does not treat this pairing, so Gill is used per the contract's fallback clause."
+      },
+      "link": null
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "440#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Matthew 17:23",
+      "full_note_ref": "GILL/40/17/23",
+      "excerpt_text": "…but this they understood not, nor indeed truly any part of what he had said; so Mark and Luke intimate: but then it may be said, how came they to be so very sorrowful, if they did not know what was said? To which may be replied, that this might be the reason of their sorrow, because they did not understand what he said, and they were afraid to ask …",
+      "on_tension_rationale": "Gill explicitly raises the row's own question — how could the disciples be exceeding sorry if, per Mark and Luke, they understood not — and resolves it by making their non-comprehension the cause of their sorrow rather than a rival report of a different mental state.",
+      "source_note_text": "And they shall kill him,.... Put him to death, with the death of the cross; for the angels in rehearsing these words, affirm, that Christ told his disciples at this time, and in this place, whilst they were in Galilee, that he should be crucified, Luk 24:7.\nAnd the third day he shall be raised again: this he said for their comfort; and it is observable, that when Christ speaks of his rising again, he makes mention of the exact time, the third day, on which he should rise, according to the types and prophecies of the Old Testament:\nand they were exceeding sorry: that he should be betrayed into the hands of the Gentiles, fearing that another nation would come, and take away, and possess the worldly kingdom and grandeur they were dreaming of; and that he should die at all; and much more that he should die such a cruel and ignominious death, as that of the cross. They seem to have overlooked, and to have taken no notice of his rising again from the dead; which might have administered comfort to them, and have relieved them under their melancholy apprehensions of things; but this they understood not, nor indeed truly any part of what he had said; so Mark and Luke intimate: but then it may be said, how came they to be so very sorrowful, if they did not know what was said? To which may be replied, that this might be the reason of their sorrow, because they did not understand what he said, and they were afraid to ask; they could not tell how to reconcile the betraying of him into the hands of men, and his sufferings and death, with their notions, that the Messiah should abide for ever, and should set up a temporal kingdom, in great splendour and magnificence; and what he meant by rising again from the dead, they could not devise; they could not tell whether all this was to be understood in a literal, or mystical sense."
+    }
+  ]
+}

@@ -1,13 +1,13 @@
 {
   "floor": {
-    "total": 50,
-    "passed": 50,
+    "total": 54,
+    "passed": 54,
     "failed": 0
   },
   "sample": {
     "target_rate": 0.25,
-    "expected": 50,
-    "received": 289,
+    "expected": 49,
+    "received": 338,
     "missing": [],
     "extra": [
       "1#0",
@@ -167,17 +167,67 @@
       "3#0",
       "30#0",
       "31#0",
+      "319#0",
       "32#0",
+      "320#0",
+      "327#0",
+      "328#0",
+      "329#0",
       "33#0",
+      "331#0",
+      "332#0",
+      "333#0",
+      "334#0",
+      "335#0",
+      "336#0",
+      "337#0",
+      "338#0",
+      "339#0",
       "34#0",
       "340#0",
+      "341#0",
+      "342#0",
+      "344#0",
+      "346#0",
+      "348#0",
       "35#0",
+      "350#0",
+      "351#0",
+      "353#0",
+      "358#0",
       "36#0",
+      "363#0",
+      "364#0",
+      "365#0",
+      "366#0",
+      "367#0",
       "37#0",
+      "372#0",
+      "373#0",
+      "375#0",
+      "377#0",
+      "378#0",
+      "379#0",
       "38#0",
+      "382#0",
+      "383#0",
+      "384#0",
+      "386#0",
+      "387#0",
+      "388#0",
+      "389#0",
       "39#0",
+      "390#0",
+      "391#0",
+      "393#0",
+      "394#0",
+      "396#0",
+      "397#0",
+      "398#0",
+      "399#0",
       "4#0",
       "40#0",
+      "400#0",
       "41#0",
       "42#0",
       "425#0",
@@ -252,17 +302,17 @@
     ]
   },
   "overall": {
-    "pass": 285,
-    "flag": 4,
+    "pass": 329,
+    "flag": 9,
     "fail": 0
   },
   "on_tension": {
-    "on_tension": 289,
+    "on_tension": 338,
     "weak": 0,
     "off_tension": 0
   },
   "pole_label": {
-    "correct": 289,
+    "correct": 338,
     "should_flip": 0,
     "no_stance": 0
   },
@@ -303,6 +353,51 @@
       "overall": "flag",
       "action": "correct verse_ref/full_note_ref to Luke 2:39",
       "reason": "Verbatim Gill harmonization (return to Bethlehem, then magi, then Egypt, then Nazareth) squarely on this itinerary tension, reconcile label correct; but verse_ref/full_note_ref cite Luke 2:38 while the note text (\"they returned into Galilee...their own city Nazareth\") is confirmed (BibleStudyTools Gill archive) to be his comment on Luke 2:39 - metadata mislabel by one verse."
+    },
+    {
+      "excerpt_uid": "404#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "flag",
+      "action": "fix verse_ref/full_note_ref Matthew 4:17→4:19",
+      "reason": "Text verbatim (confirmed via biblestudytools Gill mirror); note directly reconciles Matt 4:19 \"follow me\" call against John 1:35-40 prior acquaintance, exactly this Matt/Mark-vs-John tension, a real harmonization not a concession. But verse_ref/full_note_ref mislabeled Matthew 4:17 — the actual note (opens \"And he saith unto them, follow me\") is Gill on 4:19; 4:17 is Jesus' \"Repent, for the kingdom of heaven is at hand\" preaching, unrelated text."
+    },
+    {
+      "excerpt_uid": "414#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "flag",
+      "action": "fix verse_ref 6:30->6:31",
+      "reason": "Excerpt verbatim in source_note_text; on-tension (lawful care vs anxious \"take no thought\") and reconcile-correct (Paul-compatible diligence reading). But verse_ref/full_note_ref cite Matt 6:30 while this note (\"Therefore take no thought...saying, what shall we eat...\") is Gill's exposition of Matt 6:31 (verified biblehub/biblestudytools: 6:30 is the distinct lilies/grass-of-field argument) — citation off by one verse."
+    },
+    {
+      "excerpt_uid": "416#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "flag",
+      "action": "fix verse_ref/full_note_ref Luke 8:44→8:45",
+      "reason": "Verbatim Gill text (trailing ellipsis drops only a \"See Gill on Mar 5:30\" cross-ref, sense-preserving); squarely rebuts the \"who touched me\" ignorance charge as pedagogical, on this exact tension; reconcile label correct. But verse_ref/full_note_ref say Luke 8:44 — biblehub Gill archive confirms 8:44's note is different text (woman approaching Jesus from behind in the crowd, touching the fringe); this \"And Jesus said, who touched me?....not as ignorant...\" text is Gill's note on 8:45."
+    },
+    {
+      "excerpt_uid": "420#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "flag",
+      "action": "fix verse_ref/full_note_ref to Matthew 9:9",
+      "reason": "Verbatim Gill note (confirmed biblehub.com Gill-on-Matthew-9 mirror); \"Matthew and Levi...went by two names\" reasoning squarely reconciles this exact call-scene naming tension, reconcile label correct. But verse_ref/full_note_ref cite Matthew 9:8 (the preceding paralytic-healing pericope) while the embedded text is confirmed to be Gill's comment on Matthew 9:9 (\"And as Jesus passed forth...he saw a man named Matthew\") — metadata mislabel by one verse."
+    },
+    {
+      "excerpt_uid": "456#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "flag",
+      "action": "fix verse_ref (Matt 26:34, not 26:33)",
+      "reason": "Excerpt verbatim in source_note_text and squarely on-tension (Beza/Ethiopic \"twice\" variant + second-crowing harmonization), reconcile label correct (Gill concludes Matthew and Mark \"entirely agree\"); but biblestudytools.com confirms this Gill note is on Matt 26:34 (\"Jesus said unto him, verily I say unto thee...before the cock crow, thou shalt deny me thrice\"), not 26:33 (Peter's \"I will never be offended\") -- verse_ref/full_note_ref mislabeled."
     }
   ],
   "discrepancy_pole": {
@@ -310,31 +405,31 @@
     "dishonest": {}
   },
   "guardrails_agent": {
-    "reviewed": 288,
+    "reviewed": 337,
     "by_dimension": {
       "parity": {
-        "ok": 288,
+        "ok": 337,
         "violated": 0
       },
       "connectives": {
-        "ok": 282,
-        "flag": 6
+        "ok": 327,
+        "flag": 10
       },
       "named_skeptic": {
-        "ok": 283,
+        "ok": 329,
         "not_real": 0,
-        "strawman": 2,
+        "strawman": 5,
         "n/a": 3
       },
       "discrepancy_integrity": {
-        "ok": 287,
+        "ok": 335,
         "co_opted": 0,
         "relabel_ok": 1,
-        "relabel_missing": 0
+        "relabel_missing": 1
       },
       "deeper_learning": {
-        "ok": 283,
-        "flag": 5,
+        "ok": 327,
+        "flag": 10,
         "missing": 0
       }
     },
@@ -349,7 +444,16 @@
       351,
       367,
       382,
-      387
+      387,
+      408,
+      409,
+      411,
+      420,
+      429,
+      438,
+      442,
+      446,
+      461
     ]
   }
 }

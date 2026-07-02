@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 416,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill reads Jesus's question as pedagogical rather than ignorant — asked to draw the healed woman forward publicly, not because he lacked the knowledge.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible catalogs this exact contrast under 'Did Jesus know everything?', pitting the know-all-things texts against his ignorance, surprise, and admitted not-knowing.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/jesus_knew.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Luke 8:44",
+      "excerpt_text": "This he said, not as ignorant of the person that had done it, but in order to discover her to the people, and the cure she had received, as well as her faith …",
+      "full_note_ref": "GILL/42/8/44",
+      "on_tension_rationale": "Gill states outright that Jesus's question was 'not as ignorant of the person that had done it' — directly rebutting the ignorance charge and reframing the question as pedagogical (to publicize the cure and her faith), squarely on the tension between the 'who touched me' episode and the omniscience texts.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), 'Doctrinal Discrepancies,' pp. 111-113",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley devotes a dedicated 'Omniscience' subsection pairing John 16:30, John 21:17, and Colossians 2:3 ('Knew all things') against Mark 13:32 and other seeming-ignorance texts ('Ignorant of some things'), resolving the tension through a two-natures Christology: the divine nature knew all things while the human nature, having voluntarily 'emptied' itself (Phil. 2:7-8), grew in knowledge gradually and spoke sometimes as God, sometimes as man."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/why-does-God-ask-questions.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why does God ask questions if He is omniscient?",
+        "note": "live apologetic treatment addressing Mark 5:30/Luke 8:45 directly, arguing Jesus's question was pedagogical (to bring the woman's faith to light) rather than a genuine request for information."
+      }
+    }
+  }
+}

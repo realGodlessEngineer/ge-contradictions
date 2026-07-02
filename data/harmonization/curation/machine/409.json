@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 409,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Tyndale's editors name all four positions directly, reading Mark's absolute wording as the core principle rather than excluding Matthew's and Paul's exceptions.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The Skeptic's Annotated Bible catalogs these four positions as flatly incompatible statements about whether divorce is ever allowed.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/divorce.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Mark 10:11",
+      "excerpt_text": "The parallel in Luke 16:18 agrees with Mark and mentions no exceptions to this prohibition of divorce, while Matthew’s parallel account allows an exception in cases of infidelity (Matt 19:9; see also Matt 5:32). Paul also allows an exception if an unbelieving partner deserts the marriage (1 Cor 7:15). Mark’s account focuses on the core principles—God hates divorce (Mal 2:16), marriage is meant to be for life, and divorce betrays the divine purpose of marriage.",
+      "full_note_ref": "TYN/41/10/11",
+      "on_tension_rationale": "This is the one note in the gathered set that names all four canon positions (Mark's/Luke's absolute wording, Matthew's porneia exception, Paul's desertion exception) together and states the harmonizing frame that Mark gives the core principle rather than an exhaustive rule excluding the others.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's 'Ethical Discrepancies' chapter pairs Deut 24:1-2 against Matt 5:32, Matt 19:7-8, and Luke 16:18 under the heading 'Divorce — Largely allowed. / Restricted,' arguing Moses' concession, granted 'because of the hardness of your hearts,' was tightened rather than contradicted by Christ's stricter standard (curl+grep-confirmed at examinationofall00hale_djvu.txt, ETHICAL DISCREPANCIES chapter, p. 263)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/divorce-remarriage.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does the Bible say about divorce and remarriage?",
+        "note": "Live apologetic treatment covering Matthew's porneia exception, Paul's 1 Corinthians 7:15 desertion exception, and Deuteronomy 24 as a hardness-of-heart concession; it does not directly address why Mark and Luke omit any exception clause."
+      }
+    }
+  }
+}

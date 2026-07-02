@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 427,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "JFB insists the unpardonable-sin saying cannot contradict \"all manner of sin is pardonable\" — the same gospel rule behind Acts and 1 John's promises.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The Skeptic's Annotated Bible (Steve Wells) sets Matthew 12:31-32's flat exclusion against Acts 10:43, Acts 13:39, and 1 John 1:9's promise of forgiveness without exception.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Is there an unforgivable sin?\" (skepticsannotatedbible.com/contra/unforgivable.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Is there an unforgivable sin?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Matthew 12:32",
+      "excerpt_text": "What, then, is this sin against the Holy Ghost—the unpardonable sin? One thing is clear: Its unpardonableness cannot arise from anything in the nature of sin itself; for that would be a naked contradiction to the emphatic declaration of Mat 12:31, that all manner of sin is pardonable. And what is this but the fundamental truth of the Gospel? (See Act 13:38-39; Rom 3:22, Rom 3:24; Jo1 1:7, &c.).",
+      "full_note_ref": "JFB/40/12/32",
+      "on_tension_rationale": "JFB directly reconciles the unpardonable-sin logion with the universal-forgiveness texts underlying the contradiction (cross-citing Acts 13:38-39 and 1 John 1:7), arguing the exception is not in the sin's nature but the sinner's settled rejection.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Under 'Sin forgiven — All sin pardonable / Some unpardonable,' Haley sets Acts 13:39 directly against Matt 12:32 and Mark 3:29, resolving it as: sins that are repented of are forgiven, while the blasphemy logion describes a sin that is never repented of, hence never forgiven."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/unpardonable-sin.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What is the unpardonable sin / unforgivable sin?",
+        "note": "live apologetic treatment reconciling universal forgiveness with the blasphemy-against-the-Spirit exception"
+      }
+    }
+  }
+}

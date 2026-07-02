@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 456,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill reconciles the two forms by reading \"twice\" as a manuscript variant, then argues all four evangelists mean the second, definitive crowing.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible lists this as a straightforward Gospel contradiction: three evangelists report one crowing, Mark alone two.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Did Jesus say before the cock crow or before the cock crows twice?\" (skepticsannotatedbible.com/contra/crow.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), \"Did Jesus say before the cock crow or before the cock crows twice?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 26:33",
+      "excerpt_text": "In Mark it is said, \"that this day, even in this night, before the cock crow twice, thou shalt deny me thrice\", Mar 14:30; which may be reconciled with the words of Matthew, and the other evangelists, by observing, that the word \"twice\" is not in Beza's ancient copy, which he gave to the university of Cambridge, nor is it in the Ethiopic version; which if allowed to be the true reading, the difficulty is removed at once; but whereas it is in other copies, no stress must be laid on this, nor is there any need of it: for whereas the cock crows twice in the night, once at midnight, and again near break of day; and which latter crowing being louder, and more welcome, and most taken notice of, is, by way of eminence, called the cock crowing; and is what Matthew here has respect to, and so designs the same as Mark does; and the sense of both is, that before the cock crow a second time, which is most properly the cock crowing, Peter should three times deny his master, as he did; see Mar 13:35, where cock crowing is distinguished from midnight, the first time the cock crows, and means the second time of crowing; and where Mark is to be understood in the same sense as Matthew, and both entirely agree.",
+      "full_note_ref": "GILL/40/26/33",
+      "on_tension_rationale": "Gill's note on Matt 26:33 is the passage's key harmonization: offers a text-critical route (Beza's copy and the Ethiopic version lack 'twice') and then his preferred reading (cocks crow twice nightly, and 'the cock crowing' properly denotes the second), concluding Matthew and Mark 'entirely agree' -- directly on the once-vs-twice tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pairing under 'Historical Discrepancies' (pp. 424-425), heading 'Peter's denials at one time. At another time,' citing Matt. xxvi. 34; Luke xxii. 34; John xiii. 38 against Mark xiv. 30, and gives the same two-crowings resolution: cocks crow twice nightly, and all the evangelists intend the second, proper crowing."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/did-the-cock-crow-once-or-twice-before-peters-third-denial/",
+        "domain": "carm.org",
+        "title": "CARM: Did the cock crow once or twice before Peter's third denial?",
+        "note": "live apologetic treatment of this exact Mark 14:30 vs. Matthew 26:34/Luke 22:34/John 13:38 crowing-count tension"
+      }
+    }
+  }
+}

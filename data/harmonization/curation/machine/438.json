@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 438,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Adam Clarke concedes the disciples' ignorance is a genuine reproach, but reads it as an undesigned mark of the Gospel's honesty rather than a fabrication.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman argues the detailed passion predictions are later, Markan vaticinia ex eventu — so the disciples' ignorance in John 20:9 reflects an earlier tradition.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus: Apocalyptic Prophet of the New Millennium",
+        "year": "1999",
+        "attribution": "Bart D. Ehrman, Jesus: Apocalyptic Prophet of the New Millennium (Oxford University Press, 1999), pp. 217-220"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "John 20:9",
+      "excerpt_text": "It was certainly a reproach to the disciples that they had not understood this prophecy, when our Lord had given them often the most direct information concerning it. … However, this ingenuous confession of John, in a matter so dishonorable to himself, is a full proof of his sincerity, and of the truth of his narration.",
+      "full_note_ref": "CLARKE/43/20/9",
+      "on_tension_rationale": "Clarke concedes the disciples' failure to grasp the resurrection despite Jesus' repeated direct forewarning was a genuine 'reproach,' then reframes that admitted tension as evidence of John's honesty — directly engaging the predictions-vs-John-20:9 gap rather than glossing over it.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832)",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke's note on John 20:9 directly concedes and answers this tension (the disciples' ignorance is a 'reproach' given Jesus' repeated direct forewarning), reading it as an undesigned mark of Gospel honesty rather than a fabrication."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Jesus-predict-His-death.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: How many times did Jesus predict His death?",
+        "note": "live apologetic treatment surveying all three Synoptic predictions and the disciples' recurring failure to grasp them"
+      }
+    }
+  }
+}

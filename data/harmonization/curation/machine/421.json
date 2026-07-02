@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 421,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "JFB reads 'treat him as a publican' as borrowing a Jewish social convention for outsiders, not Jesus's own verdict on tax collectors.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Skeptic's Annotated Bible presses the plain conflict: the same Gospels that call Jesus a friend of publicans make 'publican' the model for someone to shun.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/publicans.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Matthew 18:15",
+      "excerpt_text": "Lastly, If even this fail, regard him as no longer a brother Christian, but as one \"without\"—as the Jews did Gentiles and publicans.",
+      "full_note_ref": "JFB/40/18/15",
+      "on_tension_rationale": "JFB glosses the 'treat him as a publican' clause as invoking the Jews' own customary treatment of outsiders, not Jesus's or the church's personal verdict on publicans as a class — directly addressing why the same Gospel can also call Jesus their friend.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871)",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats this exact passage directly, glossing Matthew 18:17's 'as a publican' clause as borrowing the Jews' own convention for treating outsiders rather than issuing a personal verdict on tax collectors. Haley's Alleged Discrepancies (1874) does not treat this pairing (verified via curl+grep of the full archive.org djvu text: no hit near 'heathen man' or Matthew 18; Haley's only 'publicans' discussion is a different discrepancy, Matt 21:31's 'publicans and harlots enter [the kingdom]' vs. texts excluding the impure)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Bible-tax-collectors.html",
+        "domain": "gotquestions.org",
+        "title": "Why does the Bible speak so negatively about tax collectors?",
+        "note": "explains Matthew 18:17's 'treat him as a tax collector' as social separation aimed at evangelism, not contempt — resolving how Jesus could be 'a friend of publicans and sinners' while also instructing believers to distance from an unrepentant member"
+      }
+    }
+  }
+}

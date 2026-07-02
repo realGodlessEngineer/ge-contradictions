@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 411,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read Matthew's prohibition as targeting ostentatious motive, not public visibility, keeping it compatible with Jesus's tomb-side prayer and Paul's 'every place' command.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible catalogs Matthew's shut-door command against 1 Timothy's 'every place' and Jesus's own crowd-directed prayer as a flat contradiction.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/public.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Matthew 6:6",
+      "excerpt_text": "Of course, it is not the simple publicity of prayer which is here condemned. It may be offered in any circumstances, however open, if not prompted by the spirit of ostentation, but dictated by the great ends of prayer itself. It is the retiring character of true prayer which is here taught.",
+      "full_note_ref": "JFB/40/6/6",
+      "on_tension_rationale": "JFB's note states the prohibition targets ostentatious motive, not publicity itself — the exact distinction needed to reconcile Matt 6:5-6 with Jesus's crowd-directed prayer in John 11:41-42 and Paul's 'pray in every place' in 1 Tim 2:8.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's 'Doctrinal Discrepancies' chapter pairs Matt 6:5-6 directly against 1 Tim 2:8 (plus 1 Kings 8:22-23, 2 Kings 4:33, Dan 6:10-11, Luke 6:12, Acts 10:9) under the heading 'Prayer. May be in public. Should be in private,' concluding: 'It is not publicity, but ostentation in prayer, which is prohibited; not praying in public, but praying in conspicuous places to \"be seen of men.\" The motive, not the place, is the thing in question.'"
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Matthew_6.6.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in Matthew 6:6?",
+        "note": "confirmed live; explicitly reconciles Matt 6:5-6 with Daniel's, Solomon's, and Paul's (1 Tim 2:8) public prayers via the same motive-not-place distinction"
+      }
+    }
+  }
+}

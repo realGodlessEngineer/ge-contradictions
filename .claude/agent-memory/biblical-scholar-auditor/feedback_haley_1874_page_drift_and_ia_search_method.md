@@ -41,3 +41,17 @@ plain `_djvu.txt` gets truncated/summarized by the fetch model:
 Known-good anchor for future Haley 1874 citations on this specific topic:
 worldly-prosperity-as-reward/curse = pp. 188-190 (+196-197 related), NOT
 172-176.
+
+**Second confirmed anchor (id 429, "Was John the Baptist Elijah?", audited
+2026-07-02):** the "John identical with Elias. He was not Elias." heading
+(Matt 17:12-13/Mark 9:13 vs. John 1:21) — with the "figurative, but not...
+literal" / "spirit and power of the Tishbite prophet" / "if ye will receive
+it" quotes — is on **printed p. 347**; only the closing clause "show that a
+literal fulfilment was not intended" spills onto p. 348. A `pd_work` citing
+bare "p. 348" for this entry should read **pp. 347-348**. Smaller drift than
+the id-350 case (1pp vs ~15-18pp) but same failure class — flag, don't pass,
+a single off-page-boundary citation. Verified via the same IA fulltext
+technique (query `Elias` and `Tishbite` on `examinationof00hale`) plus a
+direct `_djvu.txt` fetch cross-check (grep for "Tishbite" landed at line
+20588, with the "347"/"348" running headers immediately bracketing the
+entry).

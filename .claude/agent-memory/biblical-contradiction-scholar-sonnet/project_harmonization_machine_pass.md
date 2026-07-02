@@ -1,6 +1,6 @@
 ---
 name: project_harmonization_machine_pass
-description: T5/T6 machine-excerpt TRANSFORM leg (data/harmonization/curation/machine/<id>.json) — schema drift vs TRANSFORM_CONTRACT.md, Haley-verification-via-curl+grep applies here too (incl. WebSearch-only false negatives, Grep -B/-C line-number pitfall, roman-numeral citation style, partial/adjacent-coverage judgment calls, bare-phrase-vs-proper-noun grep retries), SAB precedent for thin genealogical/theological entries, data/json's questionUrl field for fast SAB-slug lookup, carm.org/universalism link source, mega-entry (huge multi-verse thematic gather file) selection strategy, Ehrman named-skeptic precedent for afterlife/hell AND Matthew-genealogy-generation-count contradictions, Strauss named-skeptic precedent for the genealogy-vs-virgin-birth family (id 390)
+description: T5/T6 machine-excerpt TRANSFORM leg (data/harmonization/curation/machine/<id>.json) — schema drift vs TRANSFORM_CONTRACT.md, Haley-verification-via-curl+grep applies here too (incl. WebSearch-only false negatives, Grep -B/-C line-number pitfall, roman-numeral citation style, partial/adjacent-coverage judgment calls, bare-phrase-vs-proper-noun grep retries), SAB precedent for thin genealogical/theological entries, data/json's questionUrl field for fast SAB-slug lookup, carm.org/universalism link source, mega-entry (huge multi-verse thematic gather file) selection strategy, Ehrman named-skeptic precedent for afterlife/hell AND Matthew-genealogy-generation-count contradictions, Strauss named-skeptic precedent for the genealogy-vs-virgin-birth family (id 390), a scratchpad-cached Haley djvu.txt speeds up repeat curl+grep checks, defendinginerrancy.com/bible-solutions/<Book>_<ch>.<vs>.php 404s are a normal/expected outcome not a bug (id 407)
 metadata:
   type: project
 ---
@@ -400,3 +400,407 @@ search but is actually about a **different** discrepancy at the same verse (the 
 correctly rejected as off-topic rather than cited loosely. **Lesson: a search hit at the right
 verse reference is not the same as a hit on the right discrepancy — read enough of the page to
 confirm it argues the specific tension this row states, not just any tension at that address.**
+
+## Haley scores a direct, exact-heading hit on the "let your light shine" vs "not to be seen"
+## crux — worth checking BEFORE assuming a famous Sermon-on-the-Mount pair is under-served (id 407)
+"Should we let others see our good works?" (Matt 5:16 / 1 Pet 2:12 "that they may see your good
+works" vs Matt 6:1/23:3-5 "not to be seen of them") — a `Grep` of an already-cached scratchpad
+copy of the Haley djvu text (`haley.txt`, carried over from an earlier session in the same
+scratchpad dir — **check the scratchpad for a prior `haley*.txt` before re-curling the ~1.3MB
+archive.org file**, it saves a full curl round-trip) for `alms before men` came back zero hits,
+but `your light` found it immediately: a dedicated two-column heading **"Good works. / To be
+seen by men. Not to be seen by them."** (p. 279, "Ethical Discrepancies" chapter) prints Matt
+5:16 and Matt 6:1 verbatim side by side, then resolves it with the identical motive-distinction
+argument every modern commentary uses: "The glory of God, and not the praise of men, must be our
+ultimate object in exhibiting our 'good works' before others," quoting Andrew Fuller: "It is
+right to do that which men may see and must see, but not for the sake of being seen by them."
+**Lesson: this reinforces (not just repeats) the id-389 baptism-voice correction — a famous,
+heavily-anthologized NT-internal "contradiction" like this one is exactly the kind of passage
+Haley is likely to cover directly; don't assume thin coverage without checking a few keyword
+variants (a bare-phrase miss on one wording doesn't mean absence).**
+
+Reconcile excerpt used **TYN** (Tyndale Open Bible Commentary) on Matthew 6:1, not GILL/JFB/MHC —
+its note is the only one of the six voices that explicitly cross-references the other verse
+inline (`"...seek praise for oneself rather than for God (cp. 5:16)."`), making it the cleanest
+single on-tension sentence despite MHC/40/6/1 ("Not that it is unlawful to give alms when men see
+us... but not that men may see us") and MHC/40/5/13's anchor block also carrying strong,
+independently-usable candidate sentences on the identical point — worth remembering MHC's
+Matt 5:13 anchor note (`MHC/40/5/13`) as a backup/alternate excerpt for this exact row family if
+TYN is ever unavailable or a second excerpt is later permitted.
+
+Named skeptic: **Steve Wells / Skeptic's Annotated Bible** — `data/json/batch_*.json`'s
+`questionUrl` for this id pointed straight at `skepticsannotatedbible.com/contra/seegood.html`
+(checked first, per the id-348/363 lesson) and a `WebFetch` confirmed the page frames it as a
+flat "Yes"/"No" contradiction (item #472) with no motive-distinction offered on the page itself.
+
+**No allowlisted `link` found despite real effort** — multiple `WebSearch`/`WebFetch` rounds on
+`gotquestions.org` (`/let-your-light-shine.html`, `/salt-and-light.html`,
+`/they-have-their-reward.html`) each confirmed live and on-theme but **none actually references
+the other verse or names the 5:16-vs-6:1 tension** (each was individually WebFetched and
+confirmed NOT to address the pairing, not just assumed from a search snippet — the id-348
+"don't cite from a WebSearch summary alone" lesson applies to ruling a link OUT, not just IN).
+`defendinginerrancy.com/bible-solutions/Matthew_6.1.php` and `.../Matthew_5.16.php` (guessed from
+the confirmed `<Book>_<ch>.<vs>.php` pattern used successfully at id 364) both **404**. A
+non-allowlisted page (`wingulamashahidi.org`) had the exact matching title
+("Should Our Light Shine or Not? Understanding Matthew 5:16 and Matthew 6:1 in Context") — a
+useful confirmation the tension is a recognized apologetics topic, but off-allowlist and
+correctly not cited. **Set `link: null` rather than stretching a same-verse-but-off-topic
+allowlisted page into a citation** — a live, on-domain page that doesn't actually address the
+row's specific tension is not a valid `link` per the contract's "real, on-topic page" requirement.
+Dry-run bake (`DRY_RUN=1 IDS=407`) came back with **0 validator violations** (cleaner than the
+usual two pre-T9/T10 violations seen on most other worked ids) and 733/733 `verifyExcerpts.py`
+PASS — a validator-clean result is also a normal outcome, not a sign something is missing.
+
+## Steve Wells/SAB confirmed again for a non-genealogical "how should X be treated" pairing (id 421)
+"How should publicans be treated?" (Mark 2:15-16/Matt 9:10-11/11:19/Luke 5:30/7:34/15:1-2 "friend
+of publicans" vs Matt 18:15-17 "treat him as a heathen man and a publican") — `data/json/
+batch_22.json`'s `questionUrl` gave the exact SAB slug directly (`contra/publicans.html`);
+`WebFetch` confirmed the live page's actual title is **"How should heathens and publicans be
+treated?"** with a two-column "treated like friends" vs. "should be shunned" framing — matches
+this row's tension exactly, so Steve Wells / SAB is correctly the 439-model named skeptic (no
+gathered PD note concedes a real conflict; all six voices — GILL/JFB/CLARKE/MHC/TYN/GNV — are
+harmonizing). Reconcile excerpt: JFB's closing sentence on Matthew 18:15 (`JFB/40/18/15`) —
+`"Lastly, If even this fail, regard him as no longer a brother Christian, but as one \"without\"—
+as the Jews did Gentiles and publicans."` — the on-tension move is that JFB frames the "treat as
+a publican" standard as **borrowing the Jews' own social convention** for outsiders, not
+asserting Jesus's/the church's personal verdict on tax collectors, which is also how the row's
+pre-existing DB `commentary` field (Blomberg/Carson "cultural shorthand" framing) already reads
+it — worth checking a row's existing DB `commentary`/`scholarship` text for the standard
+apologetic move before hunting one from scratch. Haley's djvu (`examinationofall00hale_djvu.txt`,
+curl+Grep for `publican`/`heathen man`/`xviii. 17`) has **zero coverage of this pairing** — his
+only `publicans` hits are a wholly different discrepancy (Matt 21:31 "publicans and harlots enter
+[the kingdom]" vs. purity-exclusion texts), confirming real absence, not a search miss. Fell back
+correctly to JFB itself (already the reconcile author) as `pd_work`, per the id-364 precedent.
+Link: `gotquestions.org/Bible-tax-collectors.html` ("Why does the Bible speak so negatively about
+tax collectors?") — WebFetch-confirmed it directly reconciles this exact tension ("as an outsider
+and a candidate for evangelism," i.e., social separation aimed at eventual restoration, not
+contempt). Dry-run bake (`DRY_RUN=1 IDS=421`) gave the standard two pre-T9/T10 violations
+(`note_present`, `parity_count`) and 734/734 `verifyExcerpts.py` PASS — normal, not a bug.
+
+## Haley has a dedicated "Due to masters. / To God only." heading — exact hit for the
+## serve-God-alone-vs-obey-your-masters family (id 401)
+"Should you serve God alone?" (Matt 4:10 "him only shalt thou serve" + Matt 23:8/10 "one is
+your Master, even Christ" vs. the household codes: Eph 6:5, Col 3:22, 1 Tim 6:1, Titus 2:9,
+1 Pet 2:18 commanding servants to obey human masters) is SAB's `contra/serve.html` (confirmed
+via `data/json/batch_*.json`'s `questionUrl` field, per the id-348/363 tip — check it first).
+Consensus was `genuinely_disputed` → `discrepancy_first` per the §7 rule. Named skeptic: **Steve
+Wells**, *Skeptic's Annotated Bible* (1999) — the SAB page states the tension directly (Yes:
+Matt 4:10/23:10; No: the five household-code refs), so Wells is a clean 439-model fit (same
+attribution format as the genealogy-cluster precedent: `Steve Wells, Skeptic's Annotated Bible
+(1999), contra/<slug>.html`). Reconcile excerpt: Matthew Henry's block-anchored note on
+Ephesians 6:1 (`MHC/49/6/1`, `anchor: true`, covering all of vv1-9) buries the exact on-tension
+line deep inside: "Civil servitude is not inconsistent with Christian liberty. Those may be the
+Lord's freemen who are slaves to men. 'Your masters according to the flesh (Eph 6:5), that is,
+who have the command of your bodies, but not of your souls and consciences: God alone has
+dominion over these.'" — picked over shorter candidates on the same row (Gill/Clarke/JFB/TYN/GNV
+on Eph 6:5, Col 3:22, etc., all made the same "civil/bodily vs. spiritual/soul" move but less
+crisply) because it explicitly says "God alone," mirroring the row's own "serve ... only"
+framing most tightly.
+
+**Haley's PD text has a direct, page-specific hit** — curl+Grep of `examinationofall00hale_djvu.txt`
+for `Rabbi|masters,?\s+obey|Servants,?\s+be` (NOT a bare-phrase grep like `only shalt thou serve`,
+which came back zero hits first) found, in the "Ethical Discrepancies" chapter (p. 293), a
+side-by-side heading **"Due to masters. / To God only."** quoting Col 3:22 + 1 Pet 2:18 against
+Matt 4:10 + Matt 23:8, with the harmonization stated as a one-line rule: "The first series refers
+to civil obedience, or obedience in secular matters; the last relates to worship and religious
+service." This is the SAME chapter/mechanism as an adjacent "Parents honored. / Treated
+disrespectfully." heading a few pages earlier (Matt 23:9 "call no man father" vs. Col 3:20/Eph
+6:4) — **worth checking this whole Haley "Ethical Discrepancies" chapter (~pp. 287-294) first for
+any row in the "call no man father/rabbi/master" (Matt 23:8-10) family paired against
+household-obedience texts**, rather than defaulting straight to a row's own reconcile-excerpt
+author for `pd_work`. No allowlisted `link` was found: `gotquestions.org` has a page on Matt 23:9
+("father") but explicitly does NOT address the master/servant angle (confirmed via WebFetch), and
+`defendinginerrancy.com/bible-solutions/Ephesians_6.5.php` + its `Philemon_16.php` cross-reference
+exist and are on-verse but address a *different* question (does Eph 6:5/Philemon endorse slavery
+as an institution) rather than this row's God-alone-vs-obey-masters tension — both correctly
+rejected as off-topic rather than cited loosely; `link: null`. Dry-run bake (`DRY_RUN=1 IDS=401`)
+came back with the same two standard pre-T9/T10 violations (`note_present`, `parity_count`) and
+738/738 `verifyExcerpts.py` PASS — normal/expected.
+
+## Haley scores a direct, exact-heading hit on the disciples'-calling-order crux, PLUS a second
+## adjacent entry on the same imprisonment-chronology question — a third `examinationof00hale`
+## archive.org mirror confirmed working (id 402)
+"Which came first: the calling of Peter and Andrew or the imprisonment of John the Baptist?"
+(Matt 4:12,18-19/Mark 1:14-17 vs John 1:40-42/John 3:22-24 "John had not yet been thrown into
+prison") — curl+Grep of a **third** working archive.org mirror,
+`https://dn760000.eu.archive.org/0/items/examinationof00hale/examinationof00hale_djvu.txt`
+(reached via `curl -sIL` following the redirect from `archive.org/download/examinationof00hale/
+examinationof00hale_djvu.txt`; a third distinct identifier alongside `examinationofall00hale` and
+the second `examinationof00hale_djvu.txt` mirror already noted at id 407), for `Baptist` (only 3
+hits total, cheap to eyeball) found `prison` nearby and landed on **two separate, directly-on-topic
+entries** in the "Historical Discrepancies" chapter (pp. 406-408): a dedicated two-column heading
+**"Apostles called at one time. / At a different time."** (John 1:35-43 vs Matt 4:18-22/Mark
+1:16-20/Luke 5:1-11) giving the exact two-stage-calling harmonization ("John describes the first
+interview... They 'abode with him that day,' but afterward returned... Later... they were called
+to the apostolic office"), immediately followed a page later by the imprisonment-timing question
+itself listed among chronological-arrangement minor discrepancies ("His preaching began before
+John's imprisonment, John iii. 2, 22, 24; from that epoch, Matt. iv. 12, 17; Mark i. 14"). Both
+were cited together in `pd_work.note`. **Lesson: a bare-phrase grep for a rare, low-frequency
+proper noun ("Baptist") that only appears 2-3 times in the whole book is itself a fast, reliable
+way to jump straight to the right passage when the topical phrase (e.g. "cast into prison") comes
+back empty on a first pass** — cheaper than iterating multiple topical-phrase variants.
+
+Reconcile excerpt used **MHC** (Matthew Henry, `MHC/40/4/18`, on Matthew 4:18) rather than the
+row's other strong candidates — JFB's John 3:24 note ("Hence it is plain that our Lord's ministry
+did not commence with the imprisonment of John, though... we should have drawn that inference
+from Mat 4:12 and Mark's... express statement") and TYN's John 3:24 note (a similar synthesis) —
+because MHC is the only one that states the actual *resolving mechanism* (two distinct callings:
+an earlier acquaintance under John, a later formal summons) rather than just noting that the
+naive chronological inference from Matthew/Mark is corrected by John 3:24. When multiple notes are
+on-tension but only one is capped in (`discrepancy_first` parity-cap = 1), prefer the note that
+supplies the actual harmonizing *mechanism* over one that only flags the naive-inference problem.
+Excerpt required a **leading ellipsis** (`"…the two former, and, probably, the two latter also,
+had had acquaintance with Christ before..."`) since the on-tension clause starts mid-sentence,
+after a dropped introductory clause — confirmed via `Grep` that this leading-`…`-for-a-mid-sentence-
+start convention (not just trailing-`…`-for-truncation) is already used elsewhere in the corpus
+(e.g. id 348's excerpt), even though `TRANSFORM_CONTRACT.md`'s prose only explicitly describes the
+trailing case.
+
+Named skeptic: **Steve Wells / Skeptic's Annotated Bible** — `data/json/batch_21.json`'s
+`questionUrl` gave the exact slug (`contra/imprisonment.html`) directly; `WebFetch` confirmed the
+live page's title is a verbatim match to this row's `question` and its two-column framing matches
+the row's refs exactly, including the "not yet cast into prison" quote. Link:
+`gotquestions.org/order-calling-Jesus-disciples.html` ("Why is the order of Jesus' calling His
+disciples different in some of the gospels?") — WebFetch-confirmed live and on-topic, arguing the
+identical two-stage (introductory-meeting vs. formal-calling) harmonization as MHC and Haley.
+
+## CAUTION: ehrmanblog.org/forum/ threads are reader posts, NOT Ehrman's own words — WebFetch/
+## WebSearch AI-synthesis can misattribute a forum member's argument to Ehrman himself (id 420)
+For "What was the name of the tax collector called by Jesus?" (Matthew 9:9 "Matthew" vs Mark
+2:14/Luke 5:27 "Levi"), both a raw `WebSearch` and a `WebFetch` of
+`ehrmanblog.org/forum/the-new-testament-gospels/levi-or-matthew/` produced confident prose
+("Ehrman's view is that Matthew simply changed the name... he doesn't think the person in the
+story actually had two names") — **this is false**. Directly `curl`-ing the page with a
+browser-UA (plain WebFetch 403'd; needed `curl -A "Mozilla/5.0 ..."`) and reading the raw HTML
+showed post #1 is signed by forum member **"brown.connor4"** (a paying subscriber, not
+BDEhrman), post #2 by moderator "Robert" has empty visible content, and post #3 is by another
+member "BruceRMcF" — Ehrman himself (username `BDEhrman`, visible in the page's admin list) never
+posts in the thread. **Lesson: `ehrmanblog.org/forum/...` URLs are reader Q&A, not Ehrman's
+scholarship — always open the raw page and check the per-post username before attributing
+forum content to Ehrman by name; a WebSearch/WebFetch AI summary will confidently attribute
+reader arguments to the blog's owner if you don't verify.** This generalizes to any blog with a
+member forum (check the post author field, not just the domain).
+
+## `data/json/batch_*.json`'s `scholarship` field (not just `questionUrl`) can hand you an
+## already-vetted named-skeptic citation directly (id 440)
+For "Did the disciples understand when Jesus told them about his coming death?" (Matt 17:22-23
+"exceeding sorry" = comprehension vs Mark 9:30-31/Luke 9:44-45 "understood not... afraid to
+ask" = incomprehension — a Matthean-redaction compositional tension, not a doctrinal one), the
+same `data/json/batch_22.json` record that supplied `questionUrl`
+(`skepticsannotatedbible.com/contra/understand.html`, confirmed live) **also already carried a
+full prose `scholarship` field** from an earlier enrichment pass, citing **Tyson, Joseph B. "The
+Blindness of the Disciples in Mark," *JBL* 80 (1961): 261-268 (on Markan disciple-incomprehension
+as a redactional theme)** alongside Davies-Allison ICC, Joel Marcus AYB, Luz Hermeneia, etc.
+`WebSearch` confirmed the Tyson JBL article is real (Journal of Biblical Literature 80/3,
+Sept. 1961, pp. 261-268, Scholarly Publishing Collective abstract page). Used Tyson (a genuine
+peer-reviewed critical-scholarship article specifically on the mechanism behind this exact
+contradiction) as the discrepancy pole's `named_skeptic` instead of defaulting to Steve
+Wells/SAB — a stronger, more specific fit than the popular-level SAB Yes/No page, even though SAB
+also confirmed coverage. **Lesson: before hunting a named skeptic from scratch, grep
+`data/json/batch_*.json` for the target id and check whether it already has a `scholarship`
+field from a prior DB enrichment pass — it can contain a real, citable critical-scholarship
+source (journal article, ICC/AYB/Hermeneia commentary) more specific than SAB, not just the
+`questionUrl`.** Reconcile excerpt used GILL's note on Matthew 17:23, which uniquely poses the
+row's own tension as a rhetorical objection ("how came they to be so very sorrowful, if they did
+not know what was said?") and resolves it (sorrow was caused BY the confusion, not despite it) —
+picked over two other strong reconcile candidates on the same row (MHC's Luke 9:43 note, which
+also explicitly links "understood not" to Matthew's sorrow; CLARKE's Mark 9:32 note, which
+proposes only the 9 disciples absent from the Transfiguration didn't understand) since GILL's
+framing most tightly mirrors the contradiction's own phrasing. Required a **leading ellipsis**
+(excerpt starts mid-run-on-sentence, continuing after "and have relieved them under their
+melancholy apprehensions of things;"). Haley's PD text (curl+Grep of a scratchpad-cached
+`haley_full.txt`/`haley_djvu.txt` for `understood not`, `exceeding sorry`, `Mark ix. 32`,
+`Matt. xvii. 23`, `sorrowful` — all zero/irrelevant hits) does not treat this passage, consistent
+with the pattern that literary/compositional (not doctrinal/ethical) tensions are under-served by
+the classic PD harmonizer canon; fell back to GILL itself (already the reconcile author) as
+`pd_work` per the contract's fallback clause. No allowlisted `link` found despite multiple
+WebSearch rounds (gotquestions.org/defendinginerrancy.com/carm.org queries all returned only
+off-allowlist commentary sites); `link: null`. Dry-run bake (`DRY_RUN=1 IDS=440`) gave the
+standard two pre-T9/T10 violations (`note_present`, `parity_count`) and 754/754 `verifyExcerpts.py`
+PASS — normal/expected.
+
+Correct named skeptic found instead: **D. F. Strauss**, *The Life of Jesus Critically Examined*
+(1846 Eng. transl.), **§72 "CALLING OF MATTHEW. CONNEXION OF JESUS WITH THE PUBLICANS"**
+(Gutenberg #64037, curl+grep of the `.htm` mirror, `xd30e18330`-area anchor) — a substantive,
+verified, on-point primary-source hit: Strauss argues the "two names, one man" harmonization
+fails because the Synoptic apostle-catalogues (Mark 3:18, Luke 6:15, Acts 1:13), which *do* give
+other apostles' surnames/double-names, never call Matthew "Levi" nor tag him ὁ τελώνης ("the
+publican") — "thus proving that they do not consider the Apostle Matthew to be identical with
+the Levi summoned from the receipt of custom." (Strauss ultimately treats the whole pericope as
+legendary rather than a simple factual error, but the catalogue-based objection to the
+harmonization itself is squarely on-tension and independently quotable.) Reconcile pole: John
+Gill's `GILL/40/9/8` note on Matthew 9:8 ("The other evangelists call him Levi... he went by two
+names; Mark and Luke call him by the name... but he himself chooses to mention the name by which
+he was most known, as an apostle...") — a full self-contained sentence starting exactly at a
+source sentence boundary (no leading ellipsis needed). Haley's PD text (curl+grep of
+`examinationof00hale_djvu.txt` for `Levi`, `publican`, `Matt. ix. 9`, `Mark ii. 14` — all zero
+hits) does not treat this passage at all, so `pd_work` fell back to Gill per the contract's
+fallback clause (same pattern as id 313/372). Live allowlisted `link`:
+`carm.org/bible-difficulties/was-the-tax-collector-named-matthew-or-levi/` ("Was the tax
+collector named Matthew or Levi?"), confirmed via WebFetch — argues Matthew (Greek)/Levi (Hebrew)
+are dual names for one disciple, paralleling Simon/Peter. Dry-run bake (`DRY_RUN=1 IDS=420 node
+.scripts/buildHarmonizationTables.js`) → the same two standard pre-T9/T10 violations
+(`note_present`, `parity_count`), 739/739 `verifyExcerpts.py` PASS.
+
+## Haley has a dedicated, exact-heading hit for "Was John the Baptist Elijah?" (id 429) —
+## another confirmation that famous NT-internal identity cruxes are well-covered
+"Was John the Baptist Elijah?" (Matt 11:14/17:12-13, Luke 7:24-27 "this is Elijah" vs John 1:21
+"Art thou Elias? ... I am not") — `data/json/batch_22.json`'s `questionUrl` gave the exact SAB
+slug directly (`contra/elijah.html`); `WebFetch` confirmed the page is a flat, unresolved
+Yes/No listing. Consensus was `genuinely_disputed` → `discrepancy_first` per the §7 rule.
+Scratchpad already had a cached `haley_djvu.txt` (multiple cached copies exist:
+`haley.txt`/`haley1.txt`/`haley2.txt`/`haley_djvu.txt`/`haley_full.txt` — check the scratchpad
+before re-curling). A bare-phrase `grep -i "art thou elias\|I am not.*elias"` mostly missed, but
+`"this is Elias which was to come"` (a distinctive phrase from the verse itself) hit immediately:
+p. 348, heading **"John identical with Elias. He was not Elias."** (Matt 17:12-13/Mark 9:13 vs
+John 1:21), resolved as literal-vs-figurative: "In a figurative, but not in the literal, sense
+John was Elias. He came in the spirit and power of the Tishbite prophet... Our Saviour's words,
+'If ye will receive it'... show that a literal fulfilment was not intended." Used verbatim in
+`pd_work.note`. Reconcile excerpt picked **GNV** (Geneva Bible marginal notes) on John 1:21 over
+the much longer GILL/MHC notes on the same verse (both good, but GILL runs ~100 words in one
+semicolon-chained sentence, MHC's is buried inside a huge block-anchored note) — GNV's two
+contiguous sentences are short, verbatim-clean, name both poles explicitly (Mal 4:5/Matt 11:14
+vs. John's denial), and state the reconciling principle crisply ("answering them indeed
+according as they meant"), no ellipsis-trimming needed. Named skeptic: **Steve Wells / SAB**
+(`questionUrl` confirmed, per the id-348/363/401 tip — check it before guessing a slug). Link:
+`gotquestions.org/John-Baptist-Elijah.html` ("Was John the Baptist really Elijah reincarnated?")
+— WebFetch-confirmed live and on-topic (the "if you are willing to accept it" conditional/
+functional argument). Dry-run bake (`DRY_RUN=1 IDS=429`) gave the standard two pre-T9/T10
+violations (`note_present`, `parity_count`) and 744/744 `verifyExcerpts.py` + 34/34
+`verifyVersePairs.py` PASS — normal/expected.
+
+## Strauss's §77 is an exact, on-the-nose hit for the missionary-discourse packing-list crux
+## (id 426, "staff or no staff / shoes or sandals")
+"Did Jesus tell his apostles to go barefoot and without a staff?" (Matt 10:9-10/Luke 9:3/10:4 "no
+staff, no shoes" vs Mark 6:8-9 "a staff only... shod with sandals") — curl+Grep of the Gutenberg
+`.htm` mirror (`gutenberg.org/files/64037/64037-h/64037-h.htm`, per the id-390/422 workflow) for
+`\bstaff\b|\bsandal` landed directly on **§77 "INSTRUCTIONS TO THE TWELVE"**, which names this
+exact three-verse tension as "a discrepancy" in so many words and gives a source-critical (not
+harmonizing) account: tradition preserved only that Jesus signified simple equipment "by the
+mention of the staff and shoes," and one Evangelist read that as permission (Mark, "consistent
+with Mark's love of the picturesque") while the other(s) read it as prohibition of even those —
+i.e. Strauss treats the wording difference as evidence of divergent oral tradition, not one event
+told two compatible ways. This reconfirms Strauss (already the corpus's default Life-of-Jesus
+critic per ids 422/454/390/420) as the go-to 439-model skeptic for **any** Synoptic missionary-
+discourse/mission-of-the-Twelve wording variant, not just genealogy or resurrection-timing cruxes.
+
+**Haley also scores a direct, page-specific hit** — curl+Grep of `examinationofall00hale_djvu.txt`
+for `\bstaff\b|\bstaves\b|\bsandals?\b` (bare-phrase grep, not a topical phrase) found pp. 154-155
+of the "Doctrinal Discrepancies" chapter quoting Matt 10:9-10, Mark 6:8-9, and Luke 9:3 verbatim
+side by side, then resolving it two ways: (1) Matthew's Greek verb "provide" (κτάομαι) means
+"acquire," so it bars getting a *new* staff, not carrying the one already owned (matching Mark's
+"take" wording); (2) Matthew's "shoes" (a term implying full-foot coverage) names a different
+article than Mark's "sandals" (a bound sole) — concluding "the supposed discrepancy utterly falls
+away." Both Haley and Strauss treat this passage **directly and by name**, a useful confirmation
+that famous, heavily-anthologized Synoptic "packing list" cruxes (like the id-389 generation-count
+and id-407 let-your-light-shine cases) are reliably well-covered by both the classic PD harmonizer
+and the classic PD critic — worth checking both before assuming thin coverage on any Matt-10/
+Mark-6/Luke-9-10 mission-of-the-Twelve row.
+
+Reconcile excerpt used **MHC** (`MHC/41/6/7`, a block-anchored note) over the several other
+on-tension candidates gathered (GILL's `GILL/40/10/9`, which also covers both prongs via "plural
+staves = more than one" + "shoes≠sandals" distinctions; JFB's `JFB/40/10/10`, a textual-criticism
+move claiming Matthew's "true reading" is actually singular "staff" too; CLARKE's split notes on
+Mark 6:8/6:9) because MHC is the only voice that resolves **both** prongs (staff AND shoes) in one
+tight, two-sentence, non-ellipsis-needing span by recasting each pair as different **kinds** of
+object (fighting staff vs. walking staff; covering shoe vs. bound sandal) rather than the same
+object permitted/forbidden inconsistently — the cleanest single "answers the whole tension" excerpt
+of the bunch, and parity-cap (`discrepancy_first` + `named_skeptic` discrepancy pole = count 1)
+allows only one anyway. Live allowlisted link found and WebFetch-confirmed on-topic:
+`defendinginerrancy.com/bible-solutions/Matthew_10.10_(cf._Mark_6.8).php` ("Did Jesus command that
+the disciples take a staff or not?") — argues the same κτάομαι/"acquire" move Haley makes.
+
+## Ehrman's own "Jesus, Interrupted" opening example, and Haley's real silence on temple-cleansing
+## chronology despite a false-positive-looking nearby hit (id 448)
+"When did Jesus' temple tantrum occur?" (John 2:11-16, right after Cana, vs. Luke 19:36-45/Matt
+21:1-13/Mark 11:1-17, the week of the arrest) is one of the most famous NT-internal chronology
+cruxes, and it turns out to be **the very first example Ehrman opens with** in *Jesus, Interrupted*
+(HarperOne, 2009) — confirmed via two independent WebFetches (Ben Witherington's point-by-point
+rebuttal blog and a search-snippet aggregation) landing on the identical quote: "Historically
+speaking, then, the accounts are not reconcilable" (p. 7), plus Ehrman's own follow-on point that
+positing two separate cleansings "would mean that neither Mark nor John tells the 'true' story,
+since in both accounts he cleanses the temple only once" — a sharper, more specific objection than
+just "these disagree," worth using in the connective rather than the bare quote alone. Reconcile
+excerpt used **CLARKE** (`CLARKE/43/2/14`, on John 2:14) — Clarke's note is itself an exhaustive
+survey of the two-cleansings debate, naming both camps by name (Mann/Priestley/Pearce for one
+cleansing; Calvin/Mede/L'Enfant/Beausobre/Lardner/Hurd/Newcome for two) and quoting Bp. Newcome's
+Harmony at length — picked a single clean closing sentence needing no ellipsis: "The vindication of
+God's house from profanation was the first and the last care of our Lord; and it is probable he
+began and finished his public ministry by this significant act." A shorter TYN note on the same
+verse (`TYN/43/2/14`) also directly named both harmonization strategies (literary/theological
+reordering by John, vs. two actual events) and was a strong alternate candidate — kept as a backup
+excerpt for this row family if a second reconcile slot is ever permitted.
+
+**Haley false-positive caution, worked concretely**: a bare `temple` grep on the scratchpad-cached
+`haley_full.txt` returns real hits that *look* on-topic (a passage quoting John 2:15-16's scourge-
+of-cords verbatim, side by side with Matt 26:52/Luke 22:36) but turns out to be a wholly different
+discrepancy — Haley's "Resistance. Exemplified. Interdicted." heading (p. 299, Ethical
+Discrepancies chapter), about whether Jesus's use of force sanctions violence against the "resist
+not evil" teaching, not about *when* the cleansing happened. **Read enough of a keyword hit to
+confirm it argues the row's specific tension, not just any tension touching the same verse** (same
+lesson as id 398's CARM near-miss) — multiple further keyword variants (`purg`, `cleans`, `money
+changers`, `buyers and sellers`, `twice purged`, `began his ministry`/`closed his ministry`) all
+came back zero/irrelevant, confirming Haley has no dedicated treatment of the chronology question
+itself; fell back correctly to Clarke (already the reconcile author) as `pd_work`. Live allowlisted
+link: `gotquestions.org/temple-cleanse.html` ("How many times did Jesus cleanse the temple? Why did
+He cleanse the temple?"), WebFetch-confirmed live, arguing the two-cleansings position by name.
+Dry-run bake (`DRY_RUN=1 IDS=448`) gave the standard two pre-T9/T10 violations (`note_present`,
+`parity_count`) and 764/764 `verifyExcerpts.py` PASS — normal/expected.
+
+## Anthony Saldarini is a real, on-point named skeptic for the "obey the Pharisees vs. beware their
+## doctrine" pericope — a redaction-critical "unassimilated layer" reading, not just a Yes/No page
+## (id 452)
+"Should we do what the Pharisees say to do?" (Matt 23:1-3 "observe and do... sit in Moses' seat" vs
+Matt 16:12 "beware... the doctrine of the Pharisees and of the Sadducees") — `data/json/
+batch_23.json`'s `questionUrl` gave the exact SAB slug (`contra/do_what.html`, WebFetch-confirmed
+verbatim title/framing match), AND the same record's pre-existing `commentary`/`scholarship` fields
+(from an earlier enrichment pass) already named several real critical sources treating this exact
+crux: Davies & Allison ICC vol. 3 pp. 263-272, Anthony Saldarini's *Matthew's Christian-Jewish
+Community* (1994), Ulrich Luz Hermeneia, and Mark Allan Powell's "Do and Keep What Moses Says
+(Matthew 23:2-7)," *JBL* 114/3 (1995): 419-435 — all independently spot-checked via WebSearch (the
+Powell JBL citation resolved to a real Scholarly Publishing Collective page; Saldarini's specific
+"unassimilated community-layer" argument was corroborated via the Wikipedia "Matthew 23" article,
+which independently calls 23:3 "one of the most disputed verses in the Gospel of Matthew" since it
+appears to endorse positions the Gospel rejects elsewhere — convergent, not just circular,
+confirmation). **Lesson: a row's own pre-existing DB `commentary`/`scholarship` field can name a
+better-fitting, more specific critical voice than the reflexive Steve Wells/SAB default — check it
+before defaulting, per the id-440 tip, and spend a WebSearch or two independently corroborating the
+specific claim attributed to the named scholar (not just that the book/article exists) before
+using it as the 439-model connective.** Consensus was `genuinely_disputed` → `discrepancy_first`
+per the §7 rule. Used Saldarini (not Davies & Allison or Luz) as the named skeptic because his
+argument is the most independently corroborable and the most substantively "genuine tension" (a
+real compositional/historical seam, not just a hard verse to harmonize).
+
+Reconcile excerpt used **TYN** on Matthew 23:3 (`TYN/40/23/3`) over GILL/JFB/GNV candidates on the
+same verse (all made a similar doctrine-vs-practice or law-vs-tradition restriction) because TYN's
+note is the only one that **explicitly cross-references 16:5-12 by chapter:verse inline** — "This
+was not a blanket endorsement of all that the Pharisees teach (see 15:1-20; 16:5-12; 23:13-39)" —
+making it the most tightly on-tension single excerpt (three compact harmonizing readings: Torah-
+scope limitation, irony, tactical non-offense), same "explicit inline cross-reference beats a
+merely-compatible same-verse note" logic as id 407's TYN pick. Dropped the note's own "23:3 practice
+and obey:" lemma-label prefix without treating it as a truncation (no ellipsis needed) — same
+precedent as id 407's TYN excerpt, which silently drops its "6:1" verse-number heading.
+
+**Haley scores a real, on-topic (though not verse-identical) hit** — curl+Grep of the scratchpad-
+cached `haley_djvu.txt` for `Moses.{0,5}seat` found, in the "Ethical Discrepancies" chapter
+(immediately after the id-401 "Due to masters. / To God only." heading, ~p. 293-294), a two-column
+heading **"Rendered to the scribes. / They must be shunned."** that quotes Matt 23:2-3 verbatim
+against the *Markan* parallel warning (Mark 12:38-40, not Matt 16:12 itself) and resolves it with
+the identical doctrine/practice split this row's own TYN/GILL/JFB notes all independently make:
+"Follow their precepts, but shun their practice. Do as they say, but not as they do." **Lesson:
+Haley's coverage doesn't have to cite the row's own exact verse pair to count as on-topic `pd_work`
+— a parallel-passage heading (Mark 12:38-40 standing in for Matt 16:12) making the identical
+harmonizing move on the identical Matt 23:2-3 anchor verse is legitimate, real, on-point coverage;
+say so honestly in `pd_work.note` rather than either over-claiming an exact-pair match or wrongly
+concluding "no coverage."**
+
+**No allowlisted link confirmed despite real effort** — `gotquestions.org/Moses-seat.html` (WebFetch-
+confirmed live, on-verse) and `gotquestions.org/leaven-of-the-Pharisees.html` (WebFetch-confirmed
+live, on-verse) were each individually checked and **neither cross-references the other verse or
+states the doctrine-vs-practice reconciliation as a response to the specific two-passage tension**
+(same "on-verse but not on-tension" trap as id 407's rejected gotquestions candidates) —
+`defendinginerrancy.com/bible-solutions/Matthew_23.2-3.php` 404s (guessed URL, normal/expected per
+the id-407 precedent). Set `link: null` rather than stretching either gotquestions page. Dry-run
+bake (`DRY_RUN=1 IDS=452 node .scripts/buildHarmonizationTables.js`) came back with **0 validator
+violations** (same clean pattern as id 407, not the usual two pre-T9/T10 violations) and 771/771
+`verifyExcerpts.py` + 34/34 `verifyVersePairs.py` PASS.

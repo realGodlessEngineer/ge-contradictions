@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 448,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Adam Clarke's harmonization holds that Jesus cleansed the temple twice, framing the act as both the opening and the closing gesture of his public ministry.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman presses the chronology directly, arguing the two-cleansings fix would mean neither Gospel tells the 'true' story, and concluding the accounts are, historically, not reconcilable.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don't Know About Them)",
+        "year": "2009",
+        "attribution": "Bart D. Ehrman, Jesus, Interrupted (HarperOne, 2009), p. 7"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "John 2:14",
+      "excerpt_text": "The vindication of God's house from profanation was the first and the last care of our Lord; and it is probable he began and finished his public ministry by this significant act.",
+      "full_note_ref": "CLARKE/43/2/14",
+      "on_tension_rationale": "States the two-cleansings harmonization directly, explaining why the temple action could stand at both the beginning (John) and the end (Synoptics) of Jesus' ministry -- the row's exact chronological tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on John 2:14",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke's note on John 2:14 treats this exact chronological problem at length, surveying the historians on each side (Mann, Priestley, and Pearce for one cleansing; Calvin, Mede, L'Enfant, Beausobre, Lardner, Hurd, and Newcome for two) and concluding it is probable Christ purged the temple both to begin and to end his ministry. John Haley's Examination of the Alleged Discrepancies of the Bible (curl+grep of the examinationofall00hale/examinationof00hale djvu.txt mirrors for 'temple', 'purg', 'cleans', 'money changers', 'buyers and sellers', 'twice purged') has no dedicated treatment of this specific chronology question -- its only related John 2:15/16 citation appears under an unrelated 'Resistance' heading about whether Jesus's use of a scourge sanctions violence, not about when the cleansing occurred."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/temple-cleanse.html",
+        "domain": "gotquestions.org",
+        "title": "How many times did Jesus cleanse the temple? Why did He cleanse the temple?",
+        "note": "live apologetic treatment defending the two-cleansings reading, confirmed via WebFetch"
+      }
+    }
+  }
+}

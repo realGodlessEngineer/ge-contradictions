@@ -1,0 +1,57 @@
+{
+  "contradiction_id": 461,
+  "question": "How did Jesus respond when questioned by the high priest?",
+  "summary": "Matthew 26:64 and Luke 22:70 give Jesus the famously evasive 'thou hast said' / 'ye say that I am' — an answer that can be parsed as a yes, a no, or a 'that's your word, not mine.' Mark 14:62 has him answer with no ambiguity at all: *egō eimi*, 'I am.' Same scene, same question, but Mark's Jesus delivers the unconditional self-identification while Matthew and Luke deflect it back onto the questioner.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Commentators read Matthew's 'thou hast said' and Luke's 'ye say that I am' as culturally idiomatic affirmatives, substantively equivalent to Mark's direct 'I am.'",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Bart Ehrman lists this exact question among his Gospel contradictions, noting Mark's reply is 'a straightforward' affirmation while Luke reworded it for theological reasons.",
+    "skeptic": {
+      "name": "Bart D. Ehrman",
+      "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don't Know About Them)",
+      "year": "2009",
+      "attribution": "Bart D. Ehrman, Jesus, Interrupted (HarperOne, 2009), pp. 50-51"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley lists Matt. 26:64 ('Thou hast said') beside Mark 14:62 ('I am') among his catalog of Synoptic 'variant quotations' under the 'Forms of report. Different.' heading (Doctrinal Discrepancies, pp. 153-157), concluding that in every such case 'the fundamental idea is... carefully and distinctly preserved,' so differing wording between the Gospels is no real discrepancy."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page (gotquestions.org / carm.org / defendinginerrancy.com) could be confirmed to address this specific Matt 26:64/Mark 14:62 wording difference despite multiple WebSearch/WebFetch checks; omitted rather than cite a page that doesn't actually engage the tension."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "461#0",
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "attribution": "Tyndale Open Bible Commentary",
+      "verse_ref": "Matthew 26:64",
+      "full_note_ref": "TYN/40/26/64",
+      "excerpt_text": "This purposefully enigmatic response is essentially an affirmative answer (see 26:25; 27:11); Mark has “I Am” (Mark 14:62).",
+      "on_tension_rationale": "States the tension explicitly (Matthew's reply is 'purposefully enigmatic' where Mark's is the unambiguous 'I Am') and resolves it by reading Matthew's wording as substantively affirmative despite the different form.",
+      "source_note_text": "26:64 You have said it: This purposefully enigmatic response is essentially an affirmative answer (see 26:25; 27:11); Mark has “I Am” (Mark 14:62). • you will see: By quoting Dan 7:13, Jesus affirmed that he was the Son of Man who would be vindicated and exalted by God. • seated in the place of power at God’s right hand: Literally seated at the right hand of the power; see Ps 110:1. Jews were reluctant to name God directly (see study note on Matt 5:4). • The expression coming on the clouds of heaven could refer either to the destruction of Jerusalem in AD 70 or to Jesus’ second coming at the end of history."
+    }
+  ]
+}

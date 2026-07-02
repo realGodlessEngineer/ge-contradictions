@@ -1,10 +1,10 @@
 - [Project overview](project_contradictions_db.md) — SAB/Infidels/EvilBible contradictions DB with scholarly commentary and citations
 - [Sonnet named-skeptic fabrication](feedback_sonnet_named_skeptic_fabrication.md) — verify SPECIFIC engagement; McKinsey 343/362 not_real, Ehrman 427 strawman, Wells/SAB 395 real
+- [Ehrman high-priest wrong sub-tension](feedback_ehrman_high_priest_wrong_subtension.md) — id 461: real cite, wrong angle (Luke timing not evasive wording) → strawman, not not_real
 - [Archive.org fulltext search-inside technique](feedback_archive_org_fulltext_search_technique.md) — metadata->server/dir->fulltext/inside.php beats djvu.txt front-matter truncation; McKinsey census pass id 320
 - [Gill self-crossref reconciliation](feedback_gill_self_crossref_reconciliation.md) — Gill note naming a verse "for the reconciliation of these Scriptures" self-confirms pd_work treats that pair (id 185)
 - [Gill 1 Tim 3:2 office qualification](feedback_gill_1tim32_office_qualification.md) — id 27: pd_work claiming Gill reads "husband of one wife" as banning polygamy to ALL inverts Gill (office qualification) → deeper_learning flag
 - [id 11 eat-animals re-audit clean](feedback_id11_eat_animals_reaudit_clean.md) — four-diet food contra all-clean; Matthew Henry on Lev 11 confirmed harmonizing pd_work; Wells/SAB eat.html real
-- [id 77 jews-many re-audit clean](feedback_id77_jews_many_clean.md) — Paine strawman remediated to Wells/SAB; Gill Deut 4:26 verse_ref correct (no offset); K&D + gotquestions deeper_learning verified
 - [Paine Age of Reason vs Letters](feedback_paine_age_of_reason_vs_letters.md) — id 33 changeable-God argument is Age of Reason Pt I 1794, not Letters (1797); skeptic real but work misattributed → connectives flag
 - [Paine blessing-curse over-attribution](feedback_paine_blessing_curse_overattribution.md) — id 77 (now REMEDIATED to Wells/SAB, clean); Paine strawman pattern on Gen/Deut numerousness; also ids 145/181/202
 - [Paine conquest dating vs completeness](feedback_paine_conquest_dating_vs_completeness.md) — id 131: Paine's Josh 15:63/Judg 1 Jebusites argument is LATE-AUTHORSHIP not total-vs-incomplete-conquest; strawman+connectives flag
@@ -106,7 +106,7 @@
 - [Bultmann John translator team](feedback_bultmann_john_translator_team.md) — Bultmann John Westminster 1971 = Beasley-Murray + Hoare + Riches, not just Beasley-Murray
 - [Scholar first-name corruption](feedback_scholar_first_name_corruption.md) — AI corrupts first names of major scholars; "Reuben Bultmann" for Rudolf Bultmann; verify European theologian first names explicitly
 - [Marcus Mark 1-8 Doubleday 2000](feedback_marcus_mark1_8_doubleday_2000.md) — Marcus Mark 1-8 AB 27 first edition is Doubleday 2000, not Yale UP (AB→AYB rebrand was 2007)
-- [Gill Prov 24:16/17 verse boundary](feedback_gill_prov24_verse_boundary.md) — id 351: "Rejoice not when thine enemy falleth" note is Gill on 24:17, mislabeled 24:16 in excerpt+deeper_learning
+- [Gill verse-ref off-by-N pattern](feedback_gill_prov24_verse_boundary.md) — recurring: ids 160/351/404/456/446(1Tim2:5→6); verify opening clause vs KJV
 - [id 337 devil tied/free clean](feedback_id337_devil_tied_free_clean.md) — JFB cross-ref note pattern (1 Pet 5:8 <-> 2 Pet 2:4); Wells/SAB devil_free.html real; all clean
 - [Jaubert translator initial](feedback_jaubert_translator_initial.md) — translator is "I. Rafferty" not "Isaac Rafferty"; AI initialism expansion hallucination
 - [Lane NICNT Mark longer-ending pages](feedback_lane_nicnt_mark_longer_ending_pages.md) — Mark 16:9-20 discussion is pp. 601-611, not pp. 591-595 (which covers Mark 16:1-8)
@@ -140,6 +140,8 @@
 - [Thiele endorsed divided-kingdom 2 Chr 16](feedback_thiele_endorsed_divided_kingdom_2chr16.md) — Thiele ENDORSED schism-era reading; resist "Thiele rejected it" auditor false-positive (entry 276)
 - [Harmonization skeptic false-concession](feedback_harmonization_skeptic_false_concession.md) — SAB discrepancy connectives sometimes claim a concession SAB never makes; verify vs live contra page
 - [Troki Chizzuk Emunah Acts 7:14](feedback_troki_chizzuk_emunah_acts714.md) — Isaac of Troki REAL skeptic, genuinely presses Acts 7:14 75-vs-Hebrew-70; first verified Karaite polemicist named_skeptic (id 95)
+- [TYN source code identity](feedback_tyn_source_code_identity.md) — "TYN"="Tyndale Open Bible Commentary" (PD, bible_ref.db), NOT reformer Tyndale; check curation/machine/<id>.json before flagging (id 446)
+- [Strauss Peter-denial multiplication](feedback_strauss_peter_denial_multiplication.md) — Strauss §129 6-9 denials real; Haley pp.424-425 verified; Clarke Jn18:27 reconcile pole (id 462)
 - [id 117 Hosea re-roll clean](feedback_id117_hosea_reroll_clean.md) — id 117 re-run all-clean; transform fixed 2026-06-14 McKinsey not_real→Wells/SAB + 404 slug→Hosea-marry-prostitute.html; K&D pd_work verified
 - [Jackson Ruth/Pentateuch year](feedback_jackson_ruth_pentateuch_year.md) — id 182: Bernard S. Jackson REAL skeptic but work is 2015 (Mohr Siebeck FAT 101) not 2009 → connectives flag, named_skeptic ok
 - [id 107 Egyptian cattle clean](feedback_id107_egyptian_cattle_clean.md) — id 107 re-audit all-clean; Wells/SAB cattle.html real, Haley 1874 + defendinginerrancy link verified; JFB Ex 9:6 reconcile verbatim
@@ -148,7 +150,14 @@
 - [id 336 Iddo/Zechariah clean](feedback_id336_iddo_zechariah_clean.md) — id 336 all-clean; Wells/SAB iddo.html real, Clarke Ezra 5:1 verbatim self-source pd_work, gotquestions link on-topic
 - [id 334 KD camel/mule slip](feedback_ezra_neh_kd_animal_count_slip.md) — id 334 singers 200v245: connective+note mislabel K&D's next-verse "245" as camels; K&D text = mules; connectives flag
 - [Gill Neh 7:6 copyists=names-only](feedback_gill_neh76_copyists_names_only.md) — id 333: reused Gill preface scopes "copying slips" to NAME variants only, never NUMBER gaps; watch reused excerpt
-- [Gill verse-ref off-by-one class](feedback_gill_verse_ref_offbyone_class.md) — recurring: Gill excerpt verse_ref/full_note_ref one verse off from where note actually sits; ids 160/128/342, cf. 351
+- [Gill verse-ref off-by-one class](feedback_gill_verse_ref_offbyone_class.md) — recurring Gill verse_ref/pd_work off-by-one; ids 160/128/342/348/394/423/416/420/442, cf. 351
 - [Haley 1874 page drift + IA search method](feedback_haley_1874_page_drift_and_ia_search_method.md) — id 350: worldly-prosperity discussion verified on pp.188-190/196-197, not cited 172-176; IA fulltext/inside.php technique
 - [McKinsey Ezra/Neh verified + Haley search-inside](feedback_mckinsey_ezra_nehemiah_verified.md) — id 329 clean; ALWAYS try archive.org search-inside API before flagging Haley unconfirmable
 - [id 319 McKinsey search-scope lesson](feedback_id319_mckinsey_search_scope.md) — id 319 all-clean; find tektonics.org/af/<slug>.php before defaulting McKinsey not_real; Haley p.396/397 reconfirmed
+- [Marcus antitheses sub-passage strawman](feedback_marcus_antitheses_subpassage_strawman.md) — id 408: real Marcus NTS 69.2 article splits antitheses 1-2(intensify) vs 3-5(revise); citing "revise Sinai" for 5:21-22 inverts his own view
+- [Haley chapter structure](feedback_haley_chapter_structure.md) — 3 chapters (I Doctrinal 55-218, II Ethical, III Historical); id 411 prayer table is ch.II p.231, mislabeled "Doctrinal"
+- [id 427 unforgivable-sin re-audit](feedback_id427_unforgivable_sin_reaudit.md) — skeptic re-rolled Ehrman(strawman)->Wells/SAB(real); Haley p.257 exact-verified; always re-verify on reroll
+- [id 409 divorce connective overclaim](feedback_id409_divorce_connective_overclaim.md) — reconcile connective claims "all four positions" but note names only 3 (Deut absent); TYN excerpt clean; Wells/SAB+Haley p.263 verified
+- [Strauss Baptist-doubt §46 verified](feedback_strauss_baptist_doubt_section46.md) — id 428: Strauss's "psychologically impossible" John-doubt quote is real, p.224, 1846 Eng tr.; M.Henry Mt 11:2-6 pd_work verified
+- [Strauss fig-tree §104 verified](feedback_strauss_fig_tree_section104.md) — id 451: Strauss's "unwarranted transference" of Mark's gap into Matthew's "immediately" is real, §104, 1846 Eng tr.; all-clean
+- [Bretschneider temple-saying verified](feedback_bretschneider_temple_saying_verified.md) — id 460: Probabilia false-witness argument real, confirmed via Strauss §114 quoting him by page; Probabilia itself not on archive.org, route through Strauss/Tholuck

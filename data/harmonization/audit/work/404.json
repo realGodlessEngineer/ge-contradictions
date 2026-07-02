@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 404,
+  "question": "How did Peter and Andrew become Jesus's disciples?",
+  "summary": "Mark 1:16-17 and Matthew 4:18-19 have Jesus call Peter and Andrew while they are casting nets at the Sea of Galilee. John 1:35-42 has Andrew already a disciple of John the Baptist who, after hearing John identify Jesus as the Lamb of God, follows Jesus on his own and then brings Peter. Luke 5:4-11 has yet a third version — Peter is called after a miraculous catch of fish that nearly sinks the boats. Three irreconcilable call narratives for the same disciples.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Gill reads the accounts as sequential stages: an initial acquaintance through John the Baptist, then a later, formal call to full-time discipleship.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "D. F. Strauss judged the two calling scenes irreconcilable, dismissing the harmonizing sequence as \"violence to the gospels out of harmonistic zeal.\"",
+    "skeptic": {
+      "name": "D. F. Strauss",
+      "work": "The Life of Jesus Critically Examined",
+      "year": "1846",
+      "attribution": "D. F. Strauss (1808-1874), The Life of Jesus Critically Examined (1846)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible, on Luke 5:1-11 (1706-1714)",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats Luke's miraculous-draught scene as the same event Matthew and Mark summarize more briefly, and traces Peter and Andrew's attachment to Jesus through stages beginning at John's baptism -- the fullest harmonizing treatment of all three narrative tensions in this contradiction."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/where-did-jesus-first-meet-simon-peter-and-andrew/",
+        "domain": "carm.org",
+        "title": "Where did Jesus first meet Simon Peter and Andrew? | carm.org",
+        "note": "Live apologetic treatment reconciling Matthew's call scene with John's earlier encounter (does not address Luke's fuller draught-of-fish account)."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "404#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Matthew 4:17",
+      "full_note_ref": "GILL/40/4/17",
+      "excerpt_text": "These two brethren had been the disciples of John, as Theophylact thinks, and which seems agreeable to Joh 1:35 and though through John's pointing out Christ unto them, they had some knowledge of him, and conversation with him, yet they abode with him but for that day, Joh 1:37 and afterwards returned to their master; and upon his imprisonment, betook themselves to their former employment: from whence Christ now calls them to be his disciples, saying \"follow me\" …",
+      "on_tension_rationale": "Gill frames the John 1 meeting as a prior, informal acquaintance and Matthew's 'follow me' as the later, formal call, directly reconciling why Matthew's calling scene reads as a first encounter despite John having them meet earlier.",
+      "source_note_text": "And he saith unto them, follow me,.... These two brethren had been the disciples of John, as Theophylact thinks, and which seems agreeable to Joh 1:35 and though through John's pointing out Christ unto them, they had some knowledge of him, and conversation with him, yet they abode with him but for that day, Joh 1:37 and afterwards returned to their master; and upon his imprisonment, betook themselves to their former employment: from whence Christ now calls them to be his disciples, saying \"follow me\", or \"come after me\": that is, be a disciple of mine; see Luk 14:27. And to encourage them to it, makes use of this argument; \"and\", or \"for\", I \"will make you fishers of men\": you shall be fishers still, but in a higher sense; and in a far more noble employment, and to much better purpose. The net they were to spread and cast was the Gospel, see Mat 13:47 for Christ made them not , \"fishers of the law\", to use the words of Maimonides (g), but fishers of the Gospel. The sea into which they were to cast the net was first Judea, and then the whole world; the fish they were to catch were the souls of men, both among Jews and Gentiles; of whose conversion and faith they were to be the happy instruments: now none could make them fishers in this sense, or fit them for such service, and succeed them in it, but Christ; and who here promises it unto them.\n(g) Hilcot. Talmud. Torah, c. 1. sect. 12. so Dr. Lightfoot cites the phrase, but in Ed. Amsterd. it is , \"the judgments of the law\"."
+    }
+  ]
+}

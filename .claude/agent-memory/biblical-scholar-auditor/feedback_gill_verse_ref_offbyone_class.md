@@ -38,6 +38,67 @@ point at the wrong verse. Three confirmed instances so far:
   events"/Strauss objection), independent of the Gill verse number. → E-line flag only
   (action: fix verse_ref/full_note_ref to Luke 2:39).
 
+- **id 423**: excerpt claims Matthew 9:21 (full_note_ref="GILL/40/9/21"), embedded text is Gill
+  on **9:22** ("But Jesus turned him about,.... and the woman was made whole from that hour;
+  her disease immediately left her" — the exact "from that hour"="immediately" harmonizing
+  gloss this row turns on). Matt 9:21 is the unrelated "if I may but touch his garment" verse.
+  Verified via biblestudytools.com Gill archive slug `matthew-9-22.html`. deeper_learning
+  stayed **ok** — pd_work.resource independently and correctly says "note on Matthew 9:22."
+  → E-line flag only (action note: fix verse_ref/full_note_ref to Matthew 9:22).
+
+- **id 416**: excerpt claims Luke 8:44 (full_note_ref="GILL/42/8/44"), embedded text is Gill on
+  **8:45** ("And Jesus said, who touched me?.... This he said, not as ignorant of the person
+  that had done it, but in order to discover her to the people, and the cure she had received,
+  as well as her faith" — the exact pedagogical-not-ignorant reading this row turns on). Luke
+  8:44 is the unrelated "came behind him... touched the border of his garment" verse. Verified
+  via biblehub.com/commentaries/gill/luke/8.htm. deeper_learning stayed **ok** — pd_work is
+  Haley 1874 (verified via archive.org search-inside, `examinationof00hale`, "Omniscience"
+  subsection pp. 111-113, heading "Knew all things. Ignorant of some things." on printed p.111,
+  kenosis/two-natures language on printed p.113), which never cites a Luke 8 verse number so
+  the offset doesn't propagate. → E-line flag only (action: fix verse_ref/full_note_ref to
+  Luke 8:45).
+
+- **id 420**: excerpt claims Matthew 9:8 (full_note_ref="GILL/40/9/8"), embedded text is Gill on
+  **9:9** ("And as Jesus passed forth from thence,.... he saw a man named Matthew... The other
+  evangelists call him Levi... he went by two names" — the exact Matthew/Levi two-names
+  harmonization this row turns on). Matt 9:8 is the unrelated "multitude marvelled" verse from
+  the preceding paralytic-healing pericope. Verified via biblehub.com Gill-on-Matthew-9 mirror.
+  The mislabel **persists into pd_work** too ("Gill... on Matthew 9:8", even though the pd_work's
+  own explanatory note correctly says "Matt 9:9/Mark 2:14 citation forms" — an internal
+  self-contradiction confirming 9:8 is the error). → deeper_learning=**flag**. Discrepancy pole
+  named_skeptic = D. F. Strauss, confirmed real and confirmed to press exactly this objection in
+  *Life of Jesus* §72 "Calling of Matthew" (1846 Eng tr): apostle-catalogues give "many surnames
+  and double names" elsewhere but omit "Levi"/"the publican" for Matthew — verified verbatim via
+  archive.org full-text search-inside on `lifejesuscritic00eliogoog`.
+
+- **id 414**: excerpt claims Matthew 6:30 (full_note_ref="GILL/40/6/30"), embedded text is Gill
+  on **6:31** ("Therefore take no thought,.... That is, for the morrow, as it is explained, Luk
+  6:34 for it is lawful to take proper care and thought for present food, drink, and raiment;
+  but not to be anxiously concerned for futurity" — the exact lawful-care-vs-anxious-worry
+  distinction this row turns on). Matt 6:30 is the unrelated grass-of-the-field/lily argument.
+  Verified via biblehub.com/commentaries/gill/matthew/6.htm and biblestudytools.com
+  matthew-6-31.html. deeper_learning stayed **ok** — pd_work is Haley 1874 ("Improvidence,"
+  p. 281), which pairs Matt 6:19,25,34 with 1 Tim 5:8 and cites no Gill verse number, so the
+  offset doesn't propagate; verified verbatim via archive.org fulltext search-inside on
+  `examinationof00hale` (printed p. 280 heading "Improvidence.", table headed "Sanctioned. /
+  Discouraged." quoting Matt 6:19,25,34 opposite 1 Tim 5:8 "denied the faith...worse than an
+  infidel"). Discrepancy pole named_skeptic = Gerd Theissen ("wandering charismatics" /
+  "love-patriarchalism" thesis, *The First Followers of Jesus*, trans. Bowden, SCM 1978) —
+  confirmed real, work/translator/publisher/year all verified, and the application (itinerant
+  radicalism vs. settled household provision as different historical stages) is a fair,
+  non-strawmanned extension of his actual three-social-forms framework, not a direct verse
+  commentary — acceptable for named_skeptic=ok since sociological-framework skeptics don't need
+  a verse-by-verse quote, only a real, fairly-applied engagement with the same tension.
+
+- **id 442**: new sub-case — the excerpt's own verse_ref is correct (Matthew 19:19, verified
+  verbatim), but `deeper_learning.defense.pd_work.note` additionally claims "Gill treats the
+  commandment-order variation directly at both Matthew 19:19 and **Mark 10:18**." Mark 10:18 is
+  "Why callest thou me good?" (the deity/goodness question); the actual commandment-list note
+  ("no first nor last in the law" / Rom 13:9 reordering) is Gill on **Mark 10:19**, confirmed via
+  WebSearch (biblehub/studylight Gill mirrors). No excerpt exists for the Mark side to check
+  against directly — this is a companion-verse citation error inside the pd_work prose itself,
+  not an excerpt verse_ref/full_note_ref drift. → deeper_learning=**flag**.
+
 **Why:** likely a chapter/verse-boundary parsing artifact in the Gill note ingestion — Gill's
 per-verse commentary blocks sometimes open mid-clause or span two adjacent verses, and the
 transform pass anchors to the wrong side of the boundary.

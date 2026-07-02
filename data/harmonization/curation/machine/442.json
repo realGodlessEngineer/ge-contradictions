@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 442,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the shifting order and final item in each list as an inconsequential rearrangement rather than a disagreement, noting Scripture itself reorders the very same commandments elsewhere.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, in the Skeptic's Annotated Bible, presses the sharper problem behind the ordering: Luke's list stops at five items altogether, so there is no 'sixth' commandment there to compare against Matthew's and Mark's competing candidates.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"What was Jesus's sixth commandment?\" (skepticsannotatedbible.com/contra/sixth.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/sixth.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 19:19",
+      "excerpt_text": "This, as it is the first commandment with promise, so the first of the second table, and yet is here mentioned last; which inversion of order is of no consequence: so the \"seventh\" command is put before the \"sixth\", and the \"fifth\" omitted, in Rom 13:9 …",
+      "full_note_ref": "GILL/40/19/19",
+      "on_tension_rationale": "Directly answers the 'which is sixth' framing: Gill argues the placement of 'honour thy father and mother' last in Matthew's list is an inconsequential inversion of order, citing Paul's own reordering of the commandments in Romans 13:9 as precedent that recital order carries no doctrinal weight.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Matthew 19:19 and Mark 10:18",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats the commandment-order variation directly at both Matthew 19:19 and Mark 10:18, invoking the rabbinic maxim that there is 'neither first nor last in the law' and citing Paul's own reordering in Romans 13:9. (Haley's Alleged Discrepancies does not appear to treat this specific passage — checked against the full text for 'defraud,' 'sixth commandment,' and the relevant roman-numeral verse citations with no hits — so per spec the row-surfaced harmonizing commentator keyed to the passage is used instead.)"
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted (gotquestions.org / carm.org / defendinginerrancy.com) page specifically on the commandment-list/order tension could be verified — the nearby GotQuestions and DefendingInerrancy pages for this pericope address a different discrepancy ('Why do you call me good?'/Jesus' deity), not this one; link omitted rather than guessed."
+      }
+    }
+  }
+}

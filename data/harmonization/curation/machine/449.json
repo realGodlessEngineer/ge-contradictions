@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 449,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill answers that Matthew alone names both animals because Jesus in fact used both, riding first the ass, then the colt.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Ehrman argues Matthew misread Zechariah 9:9's Hebrew parallelism as two literal animals, calling the result 'a very peculiar memory' found in no other Gospel.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus Before the Gospels: How the Earliest Christians Remembered, Changed, and Invented Their Stories of the Savior",
+        "year": "2016",
+        "attribution": "Bart D. Ehrman, Jesus Before the Gospels (HarperOne, 2016)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 21:2",
+      "excerpt_text": "The other evangelists only make mention of the colt, or young ass; but, no doubt, both were spoken of by Christ, and both were found by the disciples, the ass, and the colt by her, and both were brought away by them; and on both of them, very probably, Christ rode; first on one, and then on the other, as the prophecy hereby fulfilled seems to require, and as the sequel of the account shows.",
+      "full_note_ref": "GILL/40/21/2",
+      "on_tension_rationale": "Directly answers why Mark and Luke mention only the colt while Matthew names both animals, proposing Jesus used both in succession so the accounts are compatible.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley quotes Matthew 21:2-3, Mark 11:2-3, and Luke 19:30-31 in parallel and treats the ass/colt wording as three independent witnesses each telling the story in his own way (p. 155)."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Matthew_21.2_(cf._Mark_11.2;_Luke_19.30).php",
+        "domain": "defendinginerrancy.com",
+        "title": "Matthew 21:2 (cf. Mark 11:2; Luke 19:30)—Were there two donkeys involved in the triumphal entry or just one?",
+        "note": "live apologetic treatment reconciling Matthew's two animals with Mark and Luke's single colt"
+      }
+    }
+  }
+}

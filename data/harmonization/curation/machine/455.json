@@ -1,0 +1,56 @@
+{
+  "contradiction_id": 455,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Older commentators read ‘the world seeth me no more’ as bounded by time — ending precisely when Christ returns for every eye to see.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells (Skeptics Annotated Bible) credits the Watch Tower Society for flagging this pair, since its ‘invisible return’ reading of John 14:19 clashes with ‘every eye shall see him.’",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Will Jesus's second coming be visible to all?\" (skepticsannotatedbible.com/contra/seejesus.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Will Jesus's second coming be visible to all?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "John 14:19",
+      "excerpt_text": "The men of the world now see me with their bodily eyes, which is all the sight they have of me; and this they will be deprived of in a very little time; they will see me no more until the time that I shall come in the clouds of heaven to judge the world; and then every eye shall see me:",
+      "full_note_ref": "GILL/43/14/19",
+      "on_tension_rationale": "Directly ties John 14:19's 'no more' to a time-limit ending at the parousia, when 'every eye' (the same phrase as Rev 1:7) will see him — the core reconcile move.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "John 14:18",
+      "excerpt_text": "Those only that see Christ with an eye of faith shall see him for ever. The world sees him no more till his second coming; but his disciples have communion with him in his absence.",
+      "full_note_ref": "MHC/43/14/18",
+      "on_tension_rationale": "A second, independent voice stating the same temporal-bound harmonization outright ('till his second coming'), drawn from inside the anchored John 14 block.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible, on John 14:18-20 (1706-1714)",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats John 14:19's 'the world sees him no more' as bounded by time, ending at Christ's second coming — the same passage this row's reconcile pole draws from."
+      },
+      "link": null
+    }
+  }
+}

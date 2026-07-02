@@ -1,0 +1,57 @@
+{
+  "contradiction_id": 429,
+  "question": "Was John the Baptist Elijah?",
+  "summary": "In Matthew 11:14 Jesus says of John the Baptist: \"this is Elijah, which was for to come,\" and Matthew 17:12-13 makes the identification explicit — the disciples \"understood that he spake unto them of John the Baptist.\" Luke 7:24-27 confirms the same identification via Malachi 3:1. In John 1:21, the Baptist is asked directly by the Jerusalem delegation, \"Art thou Elijah?\" and he flatly answers, \"I am not.\" Jesus says John is Elijah; John says he is not.",
+  "consensus": "genuinely_disputed",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "The Geneva annotators read John's denial as answering the delegation's own sense of 'Elijah,' not the functional sense in which Christ affirms it.",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells's Skeptic's Annotated Bible lists this as a flat yes/no contradiction: Jesus calls John Elijah, John flatly says he is not.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "Skeptic's Annotated Bible",
+      "year": "1999",
+      "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/elijah.html"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), p. 348",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pairing under the heading 'John identical with Elias. He was not Elias.' (Matt 17:12-13/Mark 9:13 vs. John 1:21), resolving it as a figurative-vs-literal distinction: John was Elias 'in a figurative, but not in the literal, sense... he came in the spirit and power of the Tishbite prophet,' and Christ's own qualifier 'if ye will receive it' shows a literal fulfilment was not intended."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/John-Baptist-Elijah.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Was John the Baptist really Elijah reincarnated?",
+        "note": "Live apologetic treatment arguing John's Elijah-identification was conditional/functional ('if you are willing to accept it'), not a claim that John was the literal, reincarnated Elijah."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "429#0",
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "attribution": "Geneva Bible (1599)",
+      "verse_ref": "John 1:21",
+      "full_note_ref": "GNV/43/1/21",
+      "excerpt_text": "The Jews thought that Elijah should come again before the days of Messiah, and they took the ground of that their opinion out of Mal. 4:5, which place is to be understood of John, Matt. 11:14. And yet John denieth that he is Elijah, answering them indeed according as they meant.",
+      "on_tension_rationale": "Names both poles explicitly (Mal 4:5/Matt 11:14 identification vs. John's denial) and states the reconciling principle: John's 'I am not' answers the delegation's own meaning of Elijah, not Christ's sense.",
+      "source_note_text": "The Jews thought that Elijah should come again before the days of Messiah, and they took the ground of that their opinion out of Mal. 4:5, which place is to be understood of John, Matt. 11:14. And yet John denieth that he is Elijah, answering them indeed according as they meant.\nThey inquire of some great Prophet, and not of Christ, for John denied before, that he is Christ, for they thought that some great Prophet should be sent like unto Moses, wresting to that purpose that place of Deut. 18:15, which is to be understood of all the company of the Prophets and ministers, which have been and shall be to the end, and especially of Christ, who is the head of all Prophets."
+    }
+  ]
+}

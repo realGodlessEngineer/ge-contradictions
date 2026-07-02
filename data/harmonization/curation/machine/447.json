@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 447,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill proposes a single solution to both the count and the direction problem: two separate healing encounters at Jericho, one on the approach and one on departure, totaling three blind men in all.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The Skeptic's Annotated Bible presses the plain reading: Mark and Luke each describe a single blind man, and Luke sets the healing on Jesus's approach to Jericho rather than his departure, so no single scene fits all three texts.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/blindmen.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 20:29",
+      "excerpt_text": "but to me it seems, that there were three blind men cured; one before he went into Jericho, which Luke only relates, and two as he came out of Jericho, which Matthew here speaks of; and one of which, according to Mark, was by name Bartimaeus, the son of Timaeus …",
+      "full_note_ref": "GILL/40/20/29",
+      "on_tension_rationale": "Gill directly proposes his own resolution to both the count (Matthew's two vs. Mark/Luke's one) and direction (Luke's approach vs. Matthew/Mark's departure) problems: three blind men healed across two separate encounters at Jericho, one of the second pair being Bartimaeus.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact triple (\"Blind men, Matt. xx. 30 and Mark x. 46; Luke xviii. 35, 38\") directly, canvassing the same harmonizations found in the row's commentary notes: a three-blind-men/two-encounter reading, a two-blind-men reading with Matthew condensing the approach and departure into one scene, and reading Luke's verb as 'near' rather than 'approaching' (verified via curl+grep of the archive.org djvu full text, pp. 386-387)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/one-two-blind-men.html",
+        "domain": "gotquestions.org",
+        "title": "Matthew 20:29-34 says Jesus healed two blind men as He left Jericho. Mark 10:46-52 and Luke 18:35-43 say He healed one man as He entered Jericho. Is this a contradiction?",
+        "note": "argues Mark and Luke spotlight the more prominent beggar (Bartimaeus) without denying a second was present, and notes the possibility of two Jerichos (old and new) accounting for the entering/leaving difference"
+      }
+    }
+  }
+}

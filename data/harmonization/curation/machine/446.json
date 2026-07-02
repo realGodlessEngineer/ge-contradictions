@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 446,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Reconcilers widen the terms: Gill reads 1 Timothy's 'all' as 'all sorts of men,' while Tyndale reads Mark's 'many' as Isaiah 53's idiom for 'all.'",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible lists this pairing itself as a contradiction, titled \"Was Jesus a ransom for many or a ransom for all?\"",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Was Jesus a ransom for many or a ransom for all?\" (skepticsannotatedbible.com/contra/ransom.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), \"Was Jesus a ransom for many or a ransom for all?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Timothy 2:5",
+      "excerpt_text": "But the meaning is, either that he gave himself a ransom for many, as in Mat 20:28 for the Hebrew word to which this answers, signifies sometimes many, a multitude, and sometimes only a part of a multitude, as Kimchi observes (y): or rather it intends that Christ gave himself a ransom for all sorts of men, for men of every rank and quality, of every state and condition, of every age and sex, and for all sorts of sinners, and for some out of every kindred, tongue, people, and nation, for both Jews and Gentiles …",
+      "full_note_ref": "GILL/54/2/5",
+      "on_tension_rationale": "Gill directly cross-references Matt 20:28's 'many' while glossing 1 Tim 2:6's 'all' as 'all sorts of men' rather than every individual, harmonizing the two headcounts under a particular-redemption reading.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Mark 10:45",
+      "excerpt_text": "The expression for many is probably an allusion to Isa 53:12, where many means all (cp. Rom 5:15, 18-20). Jesus died as the substitute for all.",
+      "full_note_ref": "TYN/41/10/45",
+      "on_tension_rationale": "Directly equates Mark's 'many' with 'all' via the Isaiah 53 Servant-Song background, resolving the wording difference from the Gospel side.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible, on 1 Timothy 2:5 (1746-63)",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact passage, explicitly cross-referencing Matthew 20:28 and arguing that 1 Timothy's 'all' means 'all sorts of men' rather than every individual, so it does not conflict with 'many.'"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/limited-atonement.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: \"Limited atonement -- is it biblical?\"",
+        "note": "explicitly juxtaposes Matthew 20:28/Mark 10:45's 'ransom for many' against 1 Timothy 2:6's 'ransom for all' and argues the terms are compatible"
+      }
+    }
+  }
+}

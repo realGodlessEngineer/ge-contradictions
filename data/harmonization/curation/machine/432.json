@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 432,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read John's 'nothing in secret' as denying a different, esoteric doctrine — Jesus's private explanations to the Twelve only unpacked what he had already taught in public.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells sets Matthew 13:10-11's 'it is given unto you' against John 18:19-20's 'in secret have I said nothing' as a flat contradiction over whether Jesus withheld teaching from outsiders.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible — \"Did Jesus have secret teachings?\"",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013); skepticsannotatedbible.com/contra/secret.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "John 18:20",
+      "excerpt_text": "And in secret have I said nothing; not but that our Lord taught in other places than what are here mentioned, as on mountains, in deserts, by the sea shore, and in private houses, yet generally to great multitudes; and though he sometimes conversed alone, and in secret with his disciples, yet what he taught them was either an explanation of what he had said in public, or was perfectly agreeable to it.",
+      "full_note_ref": "GILL/43/18/20",
+      "on_tension_rationale": "Gill explicitly concedes Jesus held private, secret conversations with the disciples, then harmonizes by arguing their content was never different from — only an explanation or restatement of — his public teaching, directly answering the esoteric/exoteric tension between the parable-secrecy sayings and John 18:20.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible, on John 18:20 (1746-63)",
+        "author": "John Gill",
+        "year": "1746-63",
+        "note": "Gill treats this exact passage directly, conceding Jesus 'sometimes conversed alone, and in secret with his disciples' while arguing the content was never different from his public teaching. Haley's Alleged Discrepancies (1874) does not treat this pairing (verified via full-text search of the archive.org transcription: no hits for 'in secret', 'spake openly', or 'mysteries of the kingdom')."
+      },
+      "link": {
+        "url": "https://carm.org/did-jesus-never-say-anything-in-secret-as-he-said",
+        "domain": "carm.org",
+        "title": "CARM: Did Jesus never say anything in secret as He said?",
+        "note": "Live apologetic treatment of this exact tension (Matt Slick), arguing Jesus's 'nothing in secret' was rhetorical/non-literal emphasis rather than a strict claim to have never spoken privately."
+      }
+    }
+  }
+}

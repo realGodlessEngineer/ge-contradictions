@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 403,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry argues Luke's healing-then-call sequence is topical, not chronological — the call actually happened first, as in Matthew and Mark.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible catalogs this as a straightforward chronological contradiction: Luke has the healing first, Matthew and Mark the call first.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/peters-mil.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Luke 5:1",
+      "excerpt_text": "This passage of story fell, in order of time, before the two miracles we had in the close of the foregoing chapter, and is the same with that which was more briefly related by Matthew and Mark, of Christ's calling Peter and Andrew to be fishers of men, Mat 4:18, and Mar 1:16. They had not related this miraculous draught of fishes at that time, having only in view the calling of his disciples; but Luke gives us that story as one of the many signs which Jesus did in the presence of his disciples, which had not been written in the foregoing books, Joh 20:30, Joh 20:31.",
+      "full_note_ref": "MHC/42/5/1",
+      "on_tension_rationale": "Matthew Henry directly addresses the exact chronological tension: he argues the miraculous-catch/call narrative Luke tells in ch. 5 actually preceded, in real time, the Capernaum healings Luke narrates in ch. 4 (including the mother-in-law's healing) — Luke placed it later in his text for topical reasons, not because it happened later, which puts the true order back in line with Matthew and Mark (call before healing).",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714), on Luke 5:1",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this exact passage-ordering question directly (see the reconcile excerpt above). Haley's An Examination of the Alleged Discrepancies of the Bible (1874) was checked via curl+grep of the full digitized text for 'Capernaum', 'fever', 'fishers of men', 'draught of fishes', 'Zebedee', and the Matt./Mark/Luke roman-numeral verse citations Haley uses elsewhere, and does not treat this narrative-order question at all, so Henry (already surfaced on the row) is used instead per the contract's named alternative."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/harmony-Gospels.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What is the harmony of the Gospels?",
+        "note": "Live, on-topic general defense of the same 'topical, not strictly chronological' harmonizing principle Henry applies here ('Much of the narrative in the Gospels is arranged in a topical order...'); it does not name this specific verse pair."
+      }
+    }
+  }
+}

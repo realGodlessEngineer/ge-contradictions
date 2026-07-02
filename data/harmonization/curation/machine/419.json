@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 419,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Henry resolves the count by noting that describing one of two men isn't false, only partial — Mark never claims there was only one.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the plain-reading count: Matthew says two men met Jesus while Mark and Luke each describe only one, a straightforward numerical clash.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How many men were possessed with devils?\" (skepticsannotatedbible.com/contra/possessed.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"How many men were possessed with devils?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Mark 5:1",
+      "excerpt_text": "In Matthew, they were said to be two possessed with devils; here it is said to be a man possessed with an unclean spirit. If there were two, there was one, and Mark doth not say that there was but one; so that this difference cannot give us any just offence; it is probable that one of them was much more remarkable than the other, and said what was said.",
+      "full_note_ref": "MHC/41/5/1",
+      "on_tension_rationale": "States the numeric divergence explicitly (two in Matthew vs. one here) and gives the standard harmonization: naming one of two is not the same as denying a second, so Mark's singular is compatible with Matthew's plural.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), p. 387",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley lists this exact pair in his 'different numbers' table — 'Demoniacs, Luke viii. 27 and Matt. viii. 28 (only the more prominent one mentioned by Luke)' — grouping it with the two-blind-men case as a class of Gospel divergences resolved by one writer naming only the more notable member of a pair."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/one-two-demoniacs.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why are there two demon-possessed men in the Gerasene tombs in Matthew, but only one in Mark and Luke?",
+        "note": "live apologetic treatment arguing Mark and Luke's silence about a second man does not amount to a denial of one"
+      }
+    }
+  }
+}

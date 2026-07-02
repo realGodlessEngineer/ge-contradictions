@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 423,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill reads Matthew's \"from that hour\" as simply restating Mark and Luke's \"immediately\" — one moment, described two ways.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, in the Skeptic's Annotated Bible, presses the wording head-on: Mark and Luke's \"immediately\" against Matthew's \"from that hour\" as two different cure-times.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"When was the woman who touched Jesus's robe cured?\" (skepticsannotatedbible.com/contra/immediately.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/immediately.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 9:21",
+      "excerpt_text": "and the woman was made whole from that hour; her disease immediately left her, and from that time forward, was no more troubled with it: the cure was so effectual, and so perfect, that the disorder never returned more.",
+      "full_note_ref": "GILL/40/9/21",
+      "on_tension_rationale": "Gill directly glosses Matthew's clause 'made whole from that hour' as meaning her disease 'immediately left her' — collapsing the two Gospels' differing temporal markers into the same instant, which is precisely this contradiction's tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), note on Matthew 9:22 (\"the woman was made whole from that hour\")",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact clause, glossing 'from that hour' as the disease leaving her 'immediately' — the harmonizing move directly on this passage. Haley's Alleged Discrepancies (1874) was checked (full-text search of the 1875 Andover edition on Internet Archive) and does not appear to address this specific wording nuance, so the row's own surfaced commentator is used instead, per the contract's fallback."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page (gotquestions.org, carm.org, defendinginerrancy.com) was found specifically treating the Matthew 'from that hour' vs. Mark/Luke 'immediately' wording difference; gotquestions.org's general article on the passage does not mention Matthew's account at all. Link omitted rather than guessed."
+      }
+    }
+  }
+}

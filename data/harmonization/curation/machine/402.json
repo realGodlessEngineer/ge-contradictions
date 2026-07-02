@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 402,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "MHC resolves the order by distinguishing two calls: an early acquaintance under John (John 1) and a later, formal summons to full-time discipleship (Matthew 4).",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible calls the timelines flatly incompatible: John has the brothers following Jesus while the Baptist was 'not yet cast into prison.'",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Which came first: the calling of Peter and Andrew or the imprisonment of John the Baptist?\" (skepticsannotatedbible.com/contra/imprisonment.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), \"Which came first: the calling of Peter and Andrew or the imprisonment of John the Baptist?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Matthew 4:18",
+      "excerpt_text": "…the two former, and, probably, the two latter also, had had acquaintance with Christ before (Joh 1:40, Joh 1:41), but were not till now called into a close and constant attendance upon him.",
+      "full_note_ref": "MHC/40/4/18",
+      "on_tension_rationale": "Directly answers 'which came first' by distinguishing an earlier acquaintance under John (John 1:40-41) from the later formal call recorded in Matthew 4, so the two Gospel orders describe two different moments rather than one contradicted event.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley lists this exact pair under 'Historical Discrepancies' ('Apostles called at one time. At a different time.' John 1:35-43 vs. Matt 4:18-22/Mark 1:16-20/Luke 5:1-11), explaining that John records 'the first interview' after which the disciples 'returned for a while to their ordinary employment' before being 'called to the apostolic office' later; he separately notes the Matt 4:12/Mark 1:14 vs. John 3:2,22,24 imprisonment-timing question as a minor chronological-arrangement discrepancy."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/order-calling-Jesus-disciples.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why is the order of Jesus' calling His disciples different in some of the gospels?",
+        "note": "argues John records an introductory meeting and the Synoptics the later, formal calling to discipleship, the same two-stage harmonization Haley and MHC give"
+      }
+    }
+  }
+}

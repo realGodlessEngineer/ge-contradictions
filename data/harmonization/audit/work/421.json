@@ -1,0 +1,57 @@
+{
+  "contradiction_id": 421,
+  "question": "How should publicans be treated?",
+  "summary": "The Gospels can't agree on how Jesus' followers should treat tax collectors. The Synoptics paint Jesus as the friend of publicans, eating and drinking with them as a deliberate boundary-crossing gesture (Mark 2:15-16; Matt 9:10-11; Luke 15:1-2). Matthew 18:17 then turns around and tells believers to treat the unrepentant brother like \"a heathen man and a publican\" — i.e., as an outsider to shun. The same gospel that calls Jesus a friend of publicans uses \"publican\" as the shorthand for the person you cut off.",
+  "consensus": "genuinely_disputed",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "JFB reads 'treat him as a publican' as borrowing a Jewish social convention for outsiders, not Jesus's own verdict on tax collectors.",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Skeptic's Annotated Bible presses the plain conflict: the same Gospels that call Jesus a friend of publicans make 'publican' the model for someone to shun.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "Skeptic's Annotated Bible",
+      "year": "1999",
+      "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/publicans.html"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871)",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats this exact passage directly, glossing Matthew 18:17's 'as a publican' clause as borrowing the Jews' own convention for treating outsiders rather than issuing a personal verdict on tax collectors. Haley's Alleged Discrepancies (1874) does not treat this pairing (verified via curl+grep of the full archive.org djvu text: no hit near 'heathen man' or Matthew 18; Haley's only 'publicans' discussion is a different discrepancy, Matt 21:31's 'publicans and harlots enter [the kingdom]' vs. texts excluding the impure)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Bible-tax-collectors.html",
+        "domain": "gotquestions.org",
+        "title": "Why does the Bible speak so negatively about tax collectors?",
+        "note": "explains Matthew 18:17's 'treat him as a tax collector' as social separation aimed at evangelism, not contempt — resolving how Jesus could be 'a friend of publicans and sinners' while also instructing believers to distance from an unrepentant member"
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "421#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Matthew 18:15",
+      "full_note_ref": "JFB/40/18/15",
+      "excerpt_text": "Lastly, If even this fail, regard him as no longer a brother Christian, but as one \"without\"—as the Jews did Gentiles and publicans.",
+      "on_tension_rationale": "JFB glosses the 'treat him as a publican' clause as invoking the Jews' own customary treatment of outsiders, not Jesus's or the church's personal verdict on publicans as a class — directly addressing why the same Gospel can also call Jesus their friend.",
+      "source_note_text": "Moreover, if thy brother shall trespass against thee, go and tell him his fault between thee and him alone: if he shall hear thee, thou hast gained thy brother, &c.--Probably our Lord had reference still to the late dispute, Who should be the greatest? After the rebuke--so gentle and captivating, yet so dignified and divine--under which they would doubtless be smarting, perhaps each would be saying, It was not I that began it, it was not I that threw out unworthy and irritating insinuations against my brethren. Be it so, says our Lord; but as such things will often arise, I will direct you how to proceed. First, Neither harbor a grudge against your offending brother, nor break forth upon him in presence of the unbelieving; but take him aside, show him his fault, and if he own and make reparation for it, you have done more service to him than even justice to yourself. Next, If this fail, take two or three to witness how just your complaint is, and how brotherly your spirit in dealing with him. Again, If this fail, bring him before the Church or congregation to which both belong. Lastly, If even this fail, regard him as no longer a brother Christian, but as one \"without\"--as the Jews did Gentiles and publicans."
+    }
+  ]
+}

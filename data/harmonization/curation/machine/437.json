@@ -1,0 +1,44 @@
+{
+  "contradiction_id": 437,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "empty",
+      "connective": null,
+      "skeptic": null,
+      "empty_note": "None of the 36 gathered PD notes on Matthew 16:15-19 or John 1:39-43 address the cross-passage tension itself — each explains its own verse (Peter's confession, the 'flesh and blood' saying, Andrew's report to his brother) without reconciling it against the other episode's account of how Peter came to recognize Jesus as the Christ. The standard harmonization — that John 1:41 records an early, excited first impression while Matthew 16:17 records a later, settled, divinely-confirmed conviction — is not spelled out by any note on this row; it is anchored below as pd_work (McGarvey & Pendleton) rather than excerpted, since the spec permits excerpt_text only from a gathered note's verbatim text.",
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, whose Skeptic's Annotated Bible page carries this same question, sets Jesus's claim that 'flesh and blood hath not revealed it' against Andrew's own eyewitness report, 'We have found the Messias,' as two incompatible answers to how Peter learned Jesus was the Christ.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How did Peter find out that Jesus was the Messiah?\" (skepticsannotatedbible.com/contra/peter_find_out.html)",
+        "year": "1999",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (first ed. 1999; online), contradiction page \"How did Peter find out that Jesus was the Messiah?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "J. W. McGarvey and Philip Y. Pendleton, The Fourfold Gospel (1914), section \"The Great Confession Made by Peter\"",
+        "author": "J. W. McGarvey and Philip Y. Pendleton",
+        "year": "1914",
+        "note": "McGarvey and Pendleton treat the Caesarea Philippi confession as categorically different from the earlier recognitions already on record in the very calling narrative that contains Andrew's report to Peter: \"Like confessions as to this truth had been made before (Matthew 14:33; John 1:49), but they had been made under the pressure of miraculous display and strong emotion. Hence they were rather exclamatory guesses at the truth,\" unlike Peter's later confession, which was \"the calm expression of a settled conviction produced both by the character and by the miracles of Jesus.\" The same two-stage logic — an early, excited first impression (Andrew's report, John 1:41) versus a later, settled, divinely-confirmed conviction (Matthew 16:17) — is the standard harmonization for this row; Haley's Alleged Discrepancies does not treat this particular pairing (checked directly against the full text), so this passage-specific harmonizing commentator is used in its place."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted (gotquestions.org / carm.org / defendinginerrancy.com) page engaging this specific Andrew-vs-revelation tension was found. defendinginerrancy.com's Matthew 16:16 page treats a different discrepancy (synoptic wording of Peter's confession, not John 1:41); carm.org's page on where Jesus first met Peter and Andrew treats a different discrepancy (Matthew 4 vs. John 1 location); the on-topic treatments located (evidenceforchristianity.org, veritasdomain.wordpress.com) are off-allowlist, so the optional link is omitted rather than co-opted."
+      }
+    }
+  }
+}

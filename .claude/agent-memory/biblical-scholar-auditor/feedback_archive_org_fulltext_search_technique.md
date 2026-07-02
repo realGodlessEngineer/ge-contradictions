@@ -93,6 +93,45 @@ few distinctive terms from the pd_work note, then `Read` a ~100-line window arou
 gives the page number directly, more reliably than either the leaf−16 formula or the
 inside.php API alone. Keep the leaf−16 heuristic as a fallback/sanity-check, not primary.
 
+**Sixth confirmation, exact-match jackpot (audit id 445, item `examinationof00hale`):** the
+"Omnipotence" pd_work (Matt 28:18/John 3:35 "had all power" vs Matt 20:23/Mark 6:5 "was not
+almighty," cited pp. 110-111) is a **direct djvu.txt line hit** — no leaf-offset arithmetic
+needed this time, the plain-text dump itself contains the running headers. Grepping
+`examinationof00hale_djvu.txt` for "Omnipotence" lands the section header, "Had all power.
+Was not almighty." subheading, all four verse quotes, the exact line "The question is not
+one of power at all, but of fitness," the Mark 6:5 "moral … not physical impossibility"
+gloss, and closing citations to **Grotius, Chrysostom, Clarke, Barnes, and Alford** — all
+five names — running header confirms p.110 ("110 DISCREPANCIES OF THE BIBLE") then p.111
+("DOCTRINAL DISCREPANCIES. Ill", OCR misreads "111" as "Ill"). A pd_work note that lists
+several classic-commentator names Haley cites (not just the section topic) is a strong
+signal the drafting pass actually read the page rather than guessing — treat name-dropped
+citation lists as a verifiable, checkable claim, not throwaway color.
+
+**Seventh confirmation (audit id 444, Mark 10:35/Matt 20:20 best-seats):** pd_work cited
+Haley p.347, "Historical Discrepancies" chapter, applying "qui facit per alium, facit per
+se" (used for the Matt 8:5/Luke 7:8 centurion) to Zebedee's wife. `curl`ing the raw
+djvu.txt and grepping "Zebedee" landed directly on leaf text reading "HISTORTCAL
+DISCREPANCIES. 347" (OCR-garbled running header) immediately followed by "Upon the above
+principle is to be explained the case of Zebedee's wife. She makes a certain request for
+her sons, Matt. xx. 20; they make it for themselves, Mark x. 35." — verbatim topic match,
+directly preceded on the same page by the centurion "Qui facit per alium, facit per se"
+paragraph. The back-of-book index independently confirms: "Zebedee, wife, request, 347."
+Two ground-truth proofs (running header + index), no leaf-arithmetic needed — the
+raw-djvu.txt-grep method (id 388) is reliably the fastest path when it works.
+
+**Eighth confirmation — one page, three discrepancies (audit id 464, Judas/potter's-field):**
+p.347's "facit per alium, facit per se" passage is a **single paragraph chaining several
+discrepancies** as parallel examples: centurion (Matt 8:5/Luke 7:8), Zebedee's wife (Matt
+20:20/Mark 10:35), David/Uriah (2 Sam 12:9/11:17), Levites/Joshua (Deut 27:14-15/Josh
+8:34-35), AND "So the priests bought the potter's field. Matt, xxvii. 6, 7; and Judas
+purchased it, that is, furnished the occasion for its purchase. Acts i. 18" — confirmed via
+raw djvu.txt grep for "potter" (line ~20558) with the running header "HISTORTCAL
+DISCREPANCIES. 347" a few lines above, and the back-of-index line "Potter's  field,
+purchasers,  347." Lesson: don't assume a `facit per alium` pd_work citation at p.347 is
+wrong just because a prior audit (id 444) confirmed p.347 for a *different* verse pair
+(centurion/Zebedee) — Haley genuinely stacks multiple discrepancies under one principle on
+one page, so multiple ids can correctly cite the same page for different verse pairs.
+
 **Fourth confirmation + a running-header shortcut (audit id 335):** for the Ezra 2:69/Neh
 7:70-72 gold-silver-garments cluster, the pd_work cited "pp. 380-382." Searching "drams" /
 "Tirshatha" / "41,000" / "priests' garments" all landed on **leaf 397** (397−16=381, inside
@@ -108,3 +147,26 @@ NOT skip the offset step and compare a raw leaf number straight to a cited page 
 did this on id 335 too and nearly flagged a correct citation as miscited) — always convert
 leaf→page (subtract 16 for `examinationof00hale`) or find the printed header/index proof
 before concluding a Haley page number is wrong.
+
+**Ninth confirmation (audit id 449, item `examinationof00hale`):** the Matt 21:2 ass-and-colt
+/ Zechariah 9:9 triumphal-entry pd_work cited Haley p.155. `curl`ing the raw djvu.txt and
+grepping "colt" landed directly on the block printing Matt 21:2-3 / Mark 11:2-3 / Luke
+19:30-31 in three parallel columns, with the running header **"DOCTRINAL DISCREPANCIES.
+155"** (split across OCR lines) immediately above it, followed by "This is simply an example
+of three independent veracious witnesses, each telling his story in his own way." Ground-truth
+printed-page match, no leaf-arithmetic needed — the raw-djvu.txt-grep method (id 388) keeps
+working reliably on this item.
+
+**Tenth confirmation (audit id 463, Judas' death — hanging vs bursting, item
+`examinationof00hale`):** pd_work cited Haley pp. 349-350, heading "Judas' death, — one
+manner. A diverse statement.," the rope/limb-breaking harmonization, citing "Prof. Hackett['s]"
+on-site cliff measurements above the valley of Hinnom. A proper-noun search for "Iscariot"
+returned **zero** grep hits (OCR/Haley's own prose renders him only as "Judas," never
+"Iscariot," in this section) — retried with "Judas" and landed directly on the passage: running
+headers **"HISTORICAL DISCREPANCIES. 349"** then "350 DISCREPANCIES OF THE BIBLE." bracket it,
+and the body is a near-verbatim match to the pd_work note — "Prof. Hackett, who recently
+visited the supposed scene of this tragic event... found by measurement to vary from
+twenty-five to forty feet almost perpendicular height." Exact page match, no offset arithmetic
+needed. Lesson: if a proper-noun search comes up empty, retry with the more generic/common term
+before concluding the topic is absent — this is now a second confirmed case (alongside the
+"Arah"/"Zattu" note above) of OCR/authorial-usage dropping the expected search term.

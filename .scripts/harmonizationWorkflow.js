@@ -307,7 +307,7 @@ log(`auditor: ${auResults.filter(r => r.wrote_ppf).length}/${toAudit.length} new
 phase('Report')
 const rep = await agent(
   `Generate the cumulative harmonization audit report. Use the Bash tool from the repo root:\n` +
-  `  MACHINE_DIR=${MACHINE_DIR} GATHER_DIR=${GATHER_DIR} AUDIT_DIR=${AUDIT_DIR} HARMON_BASE=${base} REF_DB=./bible_reference.db IDS=${targetIds.join(',')} MODE=report python .scripts/auditHarmonization.py\n` +
+  `  MACHINE_DIR=${MACHINE_DIR} GATHER_DIR=${GATHER_DIR} AUDIT_DIR=${AUDIT_DIR} HARMON_BASE=${base} REF_DB=./bible_reference.db MODE=report python .scripts/auditHarmonization.py\n` +
   `Then read ${AUDIT_DIR}/audit_summary.json and ${base}/AUDIT-report.md. Return done:true plus the overall pass/flag/fail excerpt counts and a short summary string of the guardrail tallies.`,
   { agentType: 'general-purpose', label: 'report', phase: 'Report', model: GLUE, schema: REPORT }
 )

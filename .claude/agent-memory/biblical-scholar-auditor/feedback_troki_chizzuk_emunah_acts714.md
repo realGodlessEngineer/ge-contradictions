@@ -1,6 +1,6 @@
 ---
 name: troki-chizzuk-emunah-acts714
-description: Isaac of Troki (Chizzuk Emunah) is a REAL skeptic who genuinely presses Acts 7:14 seventy-five vs Hebrew seventy; first verified Jewish/Karaite polemicist named_skeptic
+description: Isaac of Troki (Chizzuk Emunah) is a REAL skeptic verified TWICE now — Acts 7:14 (70 vs 75) and John 18:5 (kiss-sign vs "stood with them"); recurring, reliable named_skeptic
 metadata:
   type: feedback
 ---
@@ -41,3 +41,19 @@ so it needed direct confirmation.
   Acts 7:14?", treats exactly 70-vs-75 with LXX-source + counting-method explanations, allowlisted → dl ok.
 - **JFB reconcile excerpt** (Gen 46:8: "five sons of Ephraim and Manasseh ... born in Egypt, the two accounts
   coincide") verbatim-confirmed as a contiguous substring of the embedded note, no ellipsis → in_source pass.
+
+**SECOND CONFIRMATION — id 458 (Did Judas identify Jesus with a kiss? Synoptic kiss-sign vs John 18:3-5 self-ID),
+2026-07-02, all clean.** Discrepancy connective: "Troki pressed that John's 'I am he' scene, where Judas merely
+'stood with them,' differs from the Synoptics' kiss-sign account" — attributed to *Chizzuk Emunah* Part 2, ch.
+56. This time the [[archive-org-fulltext-search-technique]] landed a direct hit (not just a synthesis article):
+searching `q=kiss` inside `faithstrengthene00trok` (the Mocatta 1851 English translation) returned the verbatim
+sentence "This account of the betrayal differs from that given in Matthew xxvi. 47; Mark xiv. 43; and Luke xxii.
+47; for ... Judas gave a secret sign to his companions, saying, 'Him whom I shall kiss, that same is he, hold him
+fast.'" (p. 280), immediately following his quote of John 18:3-5 including "stood with them" (also fulltext-hit
+at p. 280) — an exact match to the connective, not a strawman. Bonus: the embedded Gill note itself supplied
+independent corroboration — Gill's own footnote reads "(x) R. Isaac Chizzuk Emuna, par. 2. c. 56. p. 445, 446,"
+matching the skeptic block's chapter citation verbatim (Gill used Wagenseil's 1681 Latin edition, hence the
+different page numbers/pagination than the 1851 Mocatta English translation — edition mismatch, not fabrication).
+**Takeaway: when the pd_work is a historic commentary (Gill, Poole, JFB, etc.) that itself names/cites the
+skeptic by work+part+chapter in its own footnote, that in-text citation is strong independent corroboration —
+cross-check it against the skeptic block's attribution before assuming either was invented.**

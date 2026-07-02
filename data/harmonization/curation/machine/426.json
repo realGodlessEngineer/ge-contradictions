@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 426,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry distinguishes the prohibitions by kind: no fighting staff or street shoes barred, but a plain walking staff and sandals still allowed.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Strauss calls the wording itself a genuine discrepancy, tracing it to divergent oral tradition rather than one order of gear remembered two ways.",
+      "skeptic": {
+        "name": "David Friedrich Strauss",
+        "work": "The Life of Jesus Critically Examined, §77",
+        "year": "1835",
+        "attribution": "David Friedrich Strauss (d. 1874), The Life of Jesus Critically Examined, §77 (1835; Eng. tr. 1846)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Mark 6:7",
+      "excerpt_text": "In Matthew and Luke they are forbidden to take staves with them, that is, fighting staves; but here in Mark they are bid to take nothing save a staff only, that is, a walking staff, such as pilgrims carried. They must not put on shoes, but sandals only, which were only the soles of shoes tied under their feet, or like pumps, or slippers …",
+      "full_note_ref": "MHC/41/6/7",
+      "on_tension_rationale": "Directly answers both prongs of the packing-list tension in one sentence pair: recasts Matthew/Luke's barred 'staves' as fighting staves (not the single walking staff Mark permits) and Matthew's barred 'shoes' as a different article of footwear than Mark's sandals.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact case directly (pp. 154-155): Matthew's 'provide' forbids acquiring a staff/shoes beyond what the disciples already carried rather than barring the staff/sandals itself, and Matthew's 'shoes' (covering the whole foot) names a different item than Mark's 'sandals' (a bound sole) — concluding 'the supposed discrepancy utterly falls away.'"
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Matthew_10.10_(cf._Mark_6.8).php",
+        "domain": "defendinginerrancy.com",
+        "title": "Matthew 10:10 (cf. Mark 6:8)—Did Jesus command that the disciples take a staff or not?",
+        "note": "Live apologetic treatment arguing Mark permits the staff already carried while Matthew's plural bars acquiring an extra one."
+      }
+    }
+  }
+}

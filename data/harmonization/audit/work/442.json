@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 442,
+  "question": "What was Jesus' sixth commandment?",
+  "summary": "In the rich young ruler pericope, Jesus enumerates a list of commandments from the Decalogue. Matthew's list has six items ending with 'love thy neighbor as thyself' as number six. Mark's list also has six items but ends with 'honour thy father and mother' as number six and adds a non-Decalogue 'defraud not.' Luke's list has only five items and drops the parental commandment entirely from the sixth position. Three evangelists, three different versions of which commandment Jesus put sixth.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Commentators read the shifting order and final item in each list as an inconsequential rearrangement rather than a disagreement, noting Scripture itself reorders the very same commandments elsewhere.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells, in the Skeptic's Annotated Bible, presses the sharper problem behind the ordering: Luke's list stops at five items altogether, so there is no 'sixth' commandment there to compare against Matthew's and Mark's competing candidates.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible, \"What was Jesus's sixth commandment?\" (skepticsannotatedbible.com/contra/sixth.html)",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/sixth.html)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Matthew 19:19 and Mark 10:18",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats the commandment-order variation directly at both Matthew 19:19 and Mark 10:18, invoking the rabbinic maxim that there is 'neither first nor last in the law' and citing Paul's own reordering in Romans 13:9. (Haley's Alleged Discrepancies does not appear to treat this specific passage — checked against the full text for 'defraud,' 'sixth commandment,' and the relevant roman-numeral verse citations with no hits — so per spec the row-surfaced harmonizing commentator keyed to the passage is used instead.)"
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted (gotquestions.org / carm.org / defendinginerrancy.com) page specifically on the commandment-list/order tension could be verified — the nearby GotQuestions and DefendingInerrancy pages for this pericope address a different discrepancy ('Why do you call me good?'/Jesus' deity), not this one; link omitted rather than guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "442#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Matthew 19:19",
+      "full_note_ref": "GILL/40/19/19",
+      "excerpt_text": "This, as it is the first commandment with promise, so the first of the second table, and yet is here mentioned last; which inversion of order is of no consequence: so the \"seventh\" command is put before the \"sixth\", and the \"fifth\" omitted, in Rom 13:9 …",
+      "on_tension_rationale": "Directly answers the 'which is sixth' framing: Gill argues the placement of 'honour thy father and mother' last in Matthew's list is an inconsequential inversion of order, citing Paul's own reordering of the commandments in Romans 13:9 as precedent that recital order carries no doctrinal weight.",
+      "source_note_text": "Honour thy father and thy mother:.... This, as it is the first commandment with promise, so the first of the second table, and yet is here mentioned last; which inversion of order is of no consequence: so the \"seventh\" command is put before the \"sixth\", and the \"fifth\" omitted, in Rom 13:9 and with the Jews it is a common (c) saying, , \"there is neither first nor last in the law\": that is, it is of no consequence which commandment is recited first, or which last. Moreover, it looks as if it was usual to recite these commands in this order, since they are placed exactly in the same method, by a very noted Jewish (d) writer.\nAnd thou shalt love thy neighbour as thyself; which is not a particular distinct command from the rest, or an explication of the tenth and last, not mentioned; but a recapitulation, or compendium, and abridgment of the whole, and is said to be a complement and fulfilling of the law; see Rom 13:9.\n(c) T. Bab. Pesach. fol. 6. 2. Zohar in Num. fol. 61. 4. (d) R. Sangari, Sepher Cosri, par. 3. sect. 11, fol. 146. 2."
+    }
+  ]
+}

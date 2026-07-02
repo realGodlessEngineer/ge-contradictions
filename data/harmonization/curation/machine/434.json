@@ -1,0 +1,46 @@
+{
+  "contradiction_id": 434,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "JFB holds this was Jesus' one and only Nazareth visit, the very scene Luke narrates, against the majority-harmonist two-visit view.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman argues Luke deliberately relocated Mark's midpoint Nazareth episode to the ministry's opening for theological effect, not literal chronology.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don't Know About Them)",
+        "year": "2009",
+        "attribution": "Bart D. Ehrman, Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don't Know About Them) (HarperOne, 2009)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Matthew 13:54",
+      "excerpt_text": "This, according to the majority of Harmonists, was the second of two visits which our Lord paid to Nazareth during His public ministry; but in our view it was His first and only visit to it.",
+      "full_note_ref": "JFB/40/13/54",
+      "on_tension_rationale": "Directly names the harmonist debate over whether Matthew/Mark's Nazareth episode is a distinct second visit or the very event Luke narrates first — the crux of the chronological-placement tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Matthew 13:54",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB engages the placement question head-on at this very verse, weighing the majority two-visit harmonist view against their own one-visit reading."
+      }
+    }
+  }
+}
