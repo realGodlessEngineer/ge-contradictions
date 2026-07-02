@@ -9,10 +9,15 @@
       "empty_note": null
     },
     "discrepancy": {
-      "status": "empty",
-      "connective": null,
-      "skeptic": null,
-      "empty_note": "No critic of record presses Hebrews 7:3 against universal Adamic descent; the skeptical lists treat it as a genealogy puzzle, and named critics (e.g., Paine) target the Gospel genealogies of Jesus, not this verse. Naming a skeptic here would strawman.",
+      "status": "named_skeptic",
+      "connective": "Steve Wells, in the Skeptic's Annotated Bible, lists this exact pairing — Genesis 3:20 making Eve \"the mother of all living\" against Hebrews 7:3's Melchizedek, who is \"without father, without mother, without descent\" — as evidence that not everyone is descended from Adam and Eve.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (\"Is everyone descended from Adam and Eve?\")",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Is everyone descended from Adam and Eve?\" (SAB Books, 2013), skepticsannotatedbible.com/contra/everyone.html"
+      },
+      "empty_note": null,
       "relabel_flag": false,
       "relabel_reason": null
     }
