@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 545,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Clarke reads Paul's anathema in 1 Corinthians 16:22 not as a personal imprecation but as a prophetic verdict on those who reject Christ, distinguishing it from the vindictive cursing Romans 12:14 forbids.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible pairs Romans 12:14's unqualified \"bless...and curse not\" directly against Paul's own anathemas in 1 Corinthians 16:22 and Galatians 1:8-9, reading them as a plain behavioral contradiction.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Is it OK to curse people?\" (skepticsannotatedbible.com/contra/curse.html)",
+        "year": "1999",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (1999), \"Is it OK to curse people?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "1 Corinthians 16:22",
+      "excerpt_text": "This is not said in the way of a wish or imprecation, but as a prediction of what would certainly come upon them if they did not repent, and of what did come on them because they did not repent; but continued to hate and execrate the Lord Jesus; and of what still lies upon them, because they continue to hate and execrate the Redeemer of the world.",
+      "full_note_ref": "CLARKE/46/16/22",
+      "on_tension_rationale": "Clarke explicitly denies that Paul's anathema is 'a wish or imprecation' -- the very category Romans 12:14 forbids -- reframing it as a prophetic prediction, directly rebutting the charge that Paul is cursing in violation of his own rule.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), pp. 271-275",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's 'Ethical Discrepancies' chapter carries a heading 'Enemies cursed. / Should be loved.' that lists 1 Cor. xvi. 22 ('let him be Anathema, Maranatha') on the 'cursed' side opposite Matt. 5:44's 'bless them that curse you' -- the same bless-not-curse principle Romans 12:14 echoes (per JFB's own note on Rom 12:14, tracing it to the Sermon on the Mount). Haley offers several harmonizing readings (predictions rather than imprecations, righteous indignation against sin, representative identification with God's cause) and explicitly quotes Prof. B. B. Edwards naming 1 Cor. xvi. 22: 'how could Paul wish the enemy of Christ to be accursed (\"anathema,\" 1 Cor. xvi. 22)' if the emotion were sinful -- confirmed by direct text search of the archive.org OCR (examinationof00hale)."
+      },
+      "link": null
+    }
+  }
+}

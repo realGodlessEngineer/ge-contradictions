@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 524,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators treat Father and Son as joint senders in one Trinitarian mission, the Father the ultimate source and the Son the interceding agent.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Rudolf Bultmann read chapters 15–17 as displaced material relative to chapter 14, evidence the Paraclete sayings come from more than one source.",
+      "skeptic": {
+        "name": "Rudolf Bultmann",
+        "work": "The Gospel of John: A Commentary",
+        "year": "1941 (German); 1971 (English translation)",
+        "attribution": "Rudolf Bultmann (d. 1976), The Gospel of John: A Commentary (German 1941; English trans. 1971)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "John 14:26",
+      "excerpt_text": "The mission of the Spirit is here ascribed to the Father, but not to the exclusion of the Son, who is also said to send him, Joh 15:26 … but it denotes the joint consent and agreement of Father, Son, and Spirit, in this affair …",
+      "full_note_ref": "GILL/43/14/26",
+      "on_tension_rationale": "Directly reconciles the two 'senders' by reading John 14:26's Father-sends language and 15:26's Son-sends language as a single joint act, not competing claims.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "John 14:15",
+      "excerpt_text": "The same that gave the Son to be our Saviour will give his Spirit to be our comforter, pursuant to the same design. The Son is said to send the Comforter (Joh 15:26), but the Father is the prime agent.",
+      "full_note_ref": "MHC/43/14/15",
+      "on_tension_rationale": "Explicitly cross-references John 15:26 from within the John 14:16 note, naming the Father as 'prime agent' while conceding the Son is 'said to send' — directly addresses the tension between the two texts' agency language.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "John 15:26",
+      "excerpt_text": "The Nicene Creed says, The Spirit proceedeth from the Father and the Son, for he is called the Spirit of the Son, Gal 4:6. And the Son is here said to send him. The Greek church chose rather to say, from the Father by the Son.",
+      "full_note_ref": "MHC/43/15/26",
+      "on_tension_rationale": "Names the Filioque dispute explicitly and states the Western and Eastern harmonizing formulas for how both Father and Son relate to the Spirit's sending — the historical resolution attempt for this exact tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874), \"Doctrinal Discrepancies\" section on the Holy Spirit's divinity, pairing John 14:16 with John 15:26",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley sets John 14:16 ('I will pray the Father... he shall give you another Comforter') against John 15:26 ('whom I will send unto you from the Father... which proceedeth from the Father') under the heading 'He is subordinate,' resolving the differing agency as official rather than essential subordination, quoting Hodge that the Spirit 'is sent by them [Father and Son], and they operate through him.'"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/filioque-clause-controversy.html",
+        "domain": "gotquestions.org",
+        "title": "What is the filioque clause / filioque controversy?",
+        "note": "live apologetic treatment citing John 14:16, 14:26, and 15:26 on who sends the Spirit"
+      }
+    }
+  }
+}

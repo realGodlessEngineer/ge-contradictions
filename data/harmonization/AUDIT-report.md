@@ -2,14 +2,14 @@
 
 **Posture (owner Decision A, 2026-06-14):** machine-excerpt + sampled audit. The mechanical floor checks *every* excerpt; the auditor agent judges a stratified sample for on-tension relevance and pole-label correctness.
 
-## Mechanical floor (all 67 excerpts)
-- verbatim + PD + traceable: **67/67 pass**, 0 fail
+## Mechanical floor (all 74 excerpts)
+- verbatim + PD + traceable: **74/74 pass**, 0 fail
 
-## Agent audit (sample: 388/67 excerpts, target 25%)
+## Agent audit (sample: 440/74 excerpts, target 25%)
 
-- overall: pass 373 · flag 15 · fail 0
-- on-tension: on_tension 387 · weak 1 · off_tension 0
-- pole label: correct 388 · should_flip 0 · no_stance 0
+- overall: pass 425 · flag 15 · fail 0
+- on-tension: on_tension 439 · weak 1 · off_tension 0
+- pole label: correct 440 · should_flip 0 · no_stance 0
 
 ### Flags (ship, human glance)
 - `333#0` — Verbatim Gill Neh 7:6 preface (ellipsis before Abendana/copyist-names clause preserves sense); explains the Ezra2-vs-Neh7 numeric-gap mechanism (attrition, late-joiners) underlying this exact 652-vs-642 shortfall; reconcile stance correct. FLAG: reconcile connective's "copying slips" cause is unsupported by this — Gill scopes copyist blame to NAME variants only ("as for difference of names, that may be owing to the carelessness of copiers"), never to the number gap; the excerpt's actual number-mechanisms are attrition/dying-en-route/late-joining only.
@@ -39,12 +39,12 @@
 - defense PD-work exit missing (#36): 0
 - defense live link off-allowlist (#36): 0
 
-## Curation guardrails (agent audit, 387 contradictions reviewed)
-- parity (#2): ok 387 · violated 0
-- connectives (#5): ok 371 · flag 16
-- named skeptic (#3): ok 378 · not_real 0 · strawman 6 · n/a 3
-- discrepancy integrity (#4): ok 385 · co_opted 0 · relabel_ok 1 · relabel_missing 1
-- deeper learning (#36): ok 374 · flag 13 · missing 0
+## Curation guardrails (agent audit, 437 contradictions reviewed)
+- parity (#2): ok 437 · violated 0
+- connectives (#5): ok 418 · flag 19
+- named skeptic (#3): ok 423 · not_real 0 · strawman 9 · n/a 5
+- discrepancy integrity (#4): ok 435 · co_opted 0 · relabel_ok 1 · relabel_missing 1
+- deeper learning (#36): ok 419 · flag 18 · missing 0
 
-> guardrail concerns flagged on id(s): 160, 209, 215, 333, 334, 342, 350, 351, 367, 382, 387, 408, 409, 411, 420, 429, 438, 442, 446, 461, 471, 479, 483, 489, 499, 505, 506, 509, 517 (see verdict files for reasons)
+> guardrail concerns flagged on id(s): 160, 209, 215, 333, 334, 342, 350, 351, 367, 382, 387, 408, 409, 411, 420, 429, 438, 442, 446, 461, 471, 479, 483, 489, 499, 505, 506, 509, 517, 526, 533, 535, 538, 547, 550, 557, 560, 571 (see verdict files for reasons)
 

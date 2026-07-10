@@ -862,3 +862,51 @@ verbatim. Link defendinginerrancy.com/bible-solutions/Matthew_21.2_(cf._Mark_11.
 live, on-topic, title matches, allowlisted domain, sourced from Geisler-Howe *When Critics Ask*. Row
 discrepancy_first w/ discrepancy=named_skeptic, reconcile capped to 1 excerpt vs named-skeptic connective,
 parity 1>=1; discrepancy_integrity ok (surfaced, not co_opted). Verdict E pass / G all-0.
+
+**EHRMAN STRAWMAN — audit id 538 (Can women be church leaders? Acts 18:26 Priscilla teaching Apollos vs
+1 Cor 14:34-35/1 Tim 2:11-12 silencing), 2026-07-10 — discrepancy connective flagged, reconcile excerpt
+clean:**
+- **Bart D. Ehrman, Forged: Writing in the Name of God (HarperOne, 2011), pp. 93-114** — the pseudonymity-
+  of-1-Timothy argument and the page range are REAL (his Pastorals section runs there), BUT the specific
+  claim attached to him — "a genuinely Pauline voice worked openly with the teaching Priscilla, unlike the
+  letter that silences women outright" — is FABRICATED. Full-text extraction of the entire book (not just
+  the cited pages) has **zero** occurrences of "Priscilla," "Prisca," "Apollos," "Junia," or "Phoebe"
+  anywhere. His actual documented evidence for 1 Timothy's forgery-via-women's-roles is (a) Galatians 3:28
+  ("in Christ there is neither male nor female") as the authentic-Paul baseline, and (b) the Thecla/Acts of
+  Paul legend (women teach/exercise authority there vs. Pastorals silencing them) as the likely polemical
+  target — see the "Why Were the Pastoral Letters Forged?" subsection. named_skeptic=strawman (2),
+  connectives=flag (1); discrepancy_integrity stayed ok (0) — real skeptic, real book, real general
+  argument, just the wrong specific evidence invented for him (same "real citation, wrong angle" pattern as
+  ids 427/438/107/11, now the fourth confirmed Ehrman strawman/miscite in this log vs. his four confirmed
+  passes — Ehrman is NOT auto-fail, but every SPECIFIC evidentiary claim attached to him needs independent
+  verification even when the book+topic+page-range are all correct).
+- **NEW TECHNIQUE: getting past a print-disabled/search-blocked archive.org item.** The obvious IA item for
+  a post-1960s copyrighted book (e.g. `forgedwritinginn0000ehrm`) is often `printdisabled`-collection-gated:
+  `fulltext/inside.php` (search-inside) 403s even with the correct server/dir from `/metadata/<id>`, and the
+  book can't be borrowed programmatically. Workaround: WebSearch for `"<book title>" pdf` — mirrored/leaked
+  copies of popular trade nonfiction often turn up as a DIFFERENT, unrelated-looking archive.org item (here,
+  a PDF filed under someone else's unrelated item `apocryphal-gospels-bart-ehrman`) or another host. WebFetch
+  that PDF URL directly — if it 302-redirects to a CDN host (`iaXXXXXX.us.archive.org` / `dnXXXXXX.ca.archive.org`),
+  follow the redirect; WebFetch's markdown-conversion of a real (non-scanned) ebook PDF usually fails ("font
+  data, not readable text") but **saves the binary to the local tool-results temp dir** — grab that path from
+  the tool output and run `pdftotext -layout <file> out.txt` via Bash (already installed at
+  `/mingw64/bin/pdftotext` in this environment; no poppler/Read-tool PDF-page-rendering needed) for a full,
+  greppable plaintext dump of the entire book. This is strictly better than djvu.txt/search-inside snippets
+  for a NEGATIVE check ("does this name appear ANYWHERE in the book") since it's the complete text, not a
+  paginated index. Cross-reference with [[archive-org-fulltext-search-technique]] for the PD-work
+  (non-copyright-gated) search-inside flow, which worked normally for the Haley 1874 pd_work in this same row.
+- **pd_work John Haley, Examination of the Alleged Discrepancies (1874), pp. 309-311** = ok (0), verified via
+  archive.org search-inside (`examinationofall00hale`, server/dir from `/metadata/`) with a consistent
+  18-leaf front-matter offset (leaf 327≈p.309, leaf 328≈p.310, leaf 329≈p.311): "the way of God more
+  perfectly" (Acts 18:26 quote) + "Must keep silence" heading + Neander/Conybeare "peculiar licentiousness of
+  manners" (Corinth) + Adam Clarke "merely prohibits a woman's questioning, disputing... in the synagogues
+  and public assemblies" all confirmed verbatim at exactly the cited pages, matching the note's description
+  point for point.
+- **link gotquestions.org/women-pastors.html** = VERIFIED live, quotes 1 Tim 2:11-12 directly, frames
+  Priscilla/Apollos (Acts 18:26) as private/non-pastoral ("Does the Bible ever say that Priscilla pastored a
+  church or taught publicly?... No"), and does NOT cite 1 Cor 14:34-35 — matches the note's careful
+  description exactly (including the honest disclosure of what it omits). deeper_learning ok (0).
+- Row is discrepancy_first; parity ok (1 reconcile excerpt >= 1 named-skeptic discrepancy). Reconcile excerpt
+  (Matthew Henry, Acts 18:26/24, "though not permitted to speak in the church or in the synagogue, yet doing
+  good... in private converse") verbatim, on-tension, correct pole. Verdict: E pass (538#0, MHC) / G: parity
+  0, connectives 1, named_skeptic 2, discrepancy_integrity 0, deeper_learning 0.

@@ -1,0 +1,56 @@
+{
+  "contradiction_id": 523,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "JFB distinguishes Hebrews' apostates, only ‘renewed’ in some sense, from the true elect, who by John 10:28 can never finally fall away.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "filled",
+      "connective": "Adam Clarke reproduces Calvinist scholar James Macknight's charge that translators inserted ‘if’ so this text would not appear to contradict the perseverance doctrine.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Hebrews 6:6",
+      "excerpt_text": "This passage implies that persons may be in some sense “renewed,” and yet fall away finally; for the words, “renew again,” imply that they have been, in some sense, not the full sense, ONCE RENEWED by the Holy Ghost; but certainly not that they are “the elect,” for these can never fall away, being chosen unto everlasting life (Joh 10:28).",
+      "full_note_ref": "JFB/58/6/6",
+      "on_tension_rationale": "JFB's note on Heb 6:6 explicitly cross-references John 10:28 to distinguish merely 'renewed' apostates from 'the elect,' which is exactly the reconciling move the security texts need in order to not contradict the falling-away texts.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "discrepancy",
+      "source_code": "CLARKE",
+      "verse_ref": "Hebrews 6:6",
+      "excerpt_text": "Nevertheless, our translators, following Beza, who without any authority from ancient MSS. has inserted in his version the word si, if, have rendered this clause, If they fall away, that this text might not appear to contradict the doctrine of the perseverance of the saints.",
+      "full_note_ref": "CLARKE/58/6/6",
+      "on_tension_rationale": "Clarke reproduces Macknight's own charge that the KJV's insertion of 'if' at Heb 6:6 was a doctrinally motivated mistranslation made precisely so the verse would not appear to contradict the perseverance-of-the-saints doctrine — a source-internal concession that a plain reading creates the very tension this contradiction turns on.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's 'Final Perseverance' section (Doctrinal Discrepancies chapter, pp. 169-171) sets John 10:28, Romans 8:29-39, John 17:12, Hebrews 6:4-6, Hebrews 10:26-29,39, and 2 Peter 2:21-22 side by side directly and resolves the tension via either the Calvinist ('considerably enlightened, but not truly converted') or Arminian ('deliberately apostatized after being regenerated') reading, concluding 'the alleged discrepancy is easily removed by either method of interpretation.'"
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Hebrews_6.4-6_(cf._10.26-31).php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in Hebrews 6:4–6 (cf. 10:26–31)?",
+        "note": "live apologetic treatment weighing the non-believer, Calvinist, and hypothetical-clause harmonizations of the Hebrews warning passage against eternal-security texts"
+      }
+    }
+  }
+}

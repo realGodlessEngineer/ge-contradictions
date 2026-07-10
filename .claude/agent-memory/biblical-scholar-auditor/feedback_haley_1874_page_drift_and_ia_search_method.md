@@ -55,3 +55,23 @@ technique (query `Elias` and `Tishbite` on `examinationof00hale`) plus a
 direct `_djvu.txt` fetch cross-check (grep for "Tishbite" landed at line
 20588, with the "347"/"348" running headers immediately bracketing the
 entry).
+
+**IMPORTANT CAVEAT (id 542, "Was Abraham justified by faith or works?",
+audited 2026-07-04): the `fulltext/inside.php` API's `page` field is NOT
+always the printed page number — on `examinationof00hale` it is offset by
+~+16 from the true printed page (front matter: "xii, 473 p." collation,
+title/copyright/preface/TOC leaves before body p.1 starts). A `pd_work`
+citing **pp. 167-168** for the Rom 4:2/Jas 2:21 "no collision between Paul
+and James" discussion (citing Taylor of Norwich, Whately, Fuller, Stuart)
+looked wrong at first — the API reported those exact phrases at raw pages
+183-184 — but 183-16=167 and 184-16=168, an exact match once the offset is
+applied. The citation was CORRECT; my first read would have wrongly flagged
+it. **Before flagging a Haley page-number as drifted, cross-check the raw
+API page against the book's own back-of-book INDEX** (search the API for a
+distinctive index phrase, e.g. "Justification of man, by faith and by
+works" — the index entry itself gives the true printed page number, and its
+raw API page vs. that printed number reveals the constant offset to apply
+to every other match in the same scan). Do this before concluding a page
+citation is wrong; the offset is scan-specific (recompute per `item_id`,
+don't assume the ~16pp figure from this scan transfers to other Haley
+scans/editions).

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 534,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Adam Clarke offers the classic resolution: Genesis 11:26 names Abram first for dignity, not birth order, so he was really born when Terah was 130 — making him 75, not 135, when Terah died.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses the plain arithmetic: with Terah seventy at Abram's birth and dead at two hundred five, Abraham was at least 135 years old when he left Haran — not the 75 that Genesis 12:4 states outright.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/oldabe.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Genesis 11:26",
+      "excerpt_text": "Terah died two hundred and five years old, Gen 11:32; then Abram departed from Haran when seventy-five years old, Gen 12:4; therefore Abram was born, not when his father Terah was seventy, but when he was one hundred and thirty.",
+      "full_note_ref": "CLARKE/1/11/26",
+      "on_tension_rationale": "States the standard chronological resolution directly: Terah's death at 205 minus Abram's departure age of 75 implies Abram was born in Terah's 130th year, not his 70th, resolving the Genesis 12:4 vs. Acts 7:4 arithmetic conflict.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pairing under a dedicated heading, 'Abraham's age at migration, 75 years. Apparently 135 years' (Gen. 12:4 vs. Gen. 11:26, 32; Acts 7:4), giving both the youngest-son solution and the alternative view (citing Ewald, Keil, Kurtz, Lange, Murphy) that Stephen 'simply followed the then commonly received, though inaccurate, chronology.'"
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Genesis_11.32.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Genesis 11:32 — Was Abraham 75 years old when he left Haran, or was he 135 years old?",
+        "note": "Live apologetic treatment arguing the sons in Gen 11:26 are listed by prominence, not birth order, placing Abram's birth in Terah's 130th year."
+      }
+    }
+  }
+}

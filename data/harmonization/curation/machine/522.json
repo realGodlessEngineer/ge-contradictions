@@ -1,0 +1,46 @@
+{
+  "contradiction_id": 522,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Clarke treats the spittle in each account as a natural preliminary — separating the eyelids — not the miracle itself, which came through touch.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "D. F. Strauss argued John's man-born-blind story is a legendary 'heightening' of the Synoptic blind-healing tradition, shaped by the Fourth Gospel's dogmatic aims.",
+      "skeptic": {
+        "name": "D. F. Strauss",
+        "work": "The Life of Jesus Critically Examined",
+        "year": "1835-1836",
+        "attribution": "D. F. Strauss (d. 1874), The Life of Jesus Critically Examined (1835-36; trans. George Eliot, 1846)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Mark 8:23",
+      "excerpt_text": "There is a similar transaction to this mentioned by John, Joh 9:6. It is likely this was done merely to separate the eyelids; as, in certain cases of blindness, they are found always gummed together. It required a miracle to restore the sight, and this was done in consequence of Christ having laid his hands upon the blind man: it required no miracle to separate the eyelids, and, therefore, natural means only were employed - this was done by rubbing them with spittle; but whether by Christ, or by the blind man, is not absolutely certain.",
+      "full_note_ref": "CLARKE/41/8/23",
+      "on_tension_rationale": "Clarke explicitly cross-references John 9:6 from within his Mark 8:23 note and offers a functional distinction (spittle = natural prep, touch = the miracle) that speaks directly to why the reported 'methods' differ.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832)",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke's note on Mark 8:23 is keyed to this exact passage and explicitly cross-references John 9:6, arguing the spittle in each account served a preparatory, non-miraculous purpose distinct from the healing act itself (used here in place of Haley, whose 1874 work has no indexed entry for 'Siloam,' 'spittle,' or 'born blind' and appears not to treat this specific comparison)."
+      }
+    }
+  }
+}

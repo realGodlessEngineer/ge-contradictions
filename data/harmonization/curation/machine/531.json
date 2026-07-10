@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 531,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "A study note catalogs the three concrete differences between Matthew and Acts before arguing Acts narrates only the aftermath of what Matthew describes.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman (The Lost Gospel of Judas Iscariot) argues the two death accounts are irreconcilable as they stand — both cannot be historically true.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "The Lost Gospel of Judas Iscariot: A New Look at Betrayer and Betrayed",
+        "year": "2006",
+        "attribution": "Bart D. Ehrman, The Lost Gospel of Judas Iscariot: A New Look at Betrayer and Betrayed (Oxford University Press, 2006)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Matthew 27:3",
+      "excerpt_text": "There are two accounts of Judas’s death—this one and Acts 1:18-19. There are differences between the two: (1) Matthew states that the priests bought the field (Matt 27:6-7), while Acts seems to suggest that Judas bought it (Acts 1:18); (2) Matthew reports that Judas committed suicide by hanging himself (Matt 27:5), while Acts enigmatically refers to a fall and an abdominal rupture (Acts 1:18); (3) Matthew implies that the field of blood was so named because it became a place of burial (Matt 27:7-8), while Acts suggests that it was because of Judas’s violent death there (Acts 1:19). The two accounts are compatible if one takes the account in Acts as describing the effects of the actions described in Matthew.",
+      "full_note_ref": "TYN/40/27/3",
+      "on_tension_rationale": "Note explicitly lists the three specific factual differences between Matthew and Acts on Judas's death (who bought the field, manner of death, why the field was named 'blood') and then argues they can be read as compatible — directly on the row's stated tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact discrepancy under the heading \"Judas' death — the manner. A diverse statement,\" harmonizing the hanging (Matt 27:5) with the fall and rupture (Acts 1:18) as one event: the rope or limb gave way and Judas fell onto rocks below, citing Prof. Hackett's on-site inspection of the terrain above the valley of Hinnom (pp. 349-350)."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Matthew_27.5_(cf._Acts_1.18).php",
+        "domain": "defendinginerrancy.com",
+        "title": "Matthew 27:5 (cf. Acts 1:18)—Did Judas die by hanging or by falling on rocks?",
+        "note": "live apologetic treatment arguing Acts adds the physical aftermath of the hanging Matthew already reports"
+      }
+    }
+  }
+}

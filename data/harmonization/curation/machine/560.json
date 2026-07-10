@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 560,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "JFB treats Rahab's \"works\" not as a rival ground of salvation but as faith itself made visible — the very thing Hebrews already credits to her faith.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Martin Luther pressed this as genuine: his 1522 Preface to the Epistle of James pronounced it \"flatly against St. Paul ... in ascribing justification to works\" — the charge covering Rahab's verdict too.",
+      "skeptic": {
+        "name": "Martin Luther",
+        "work": "Preface to the Epistle of James (1522)",
+        "year": "1522",
+        "attribution": "Martin Luther (1483-1546), Preface to the Epistle of James (1522)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "James 2:25",
+      "excerpt_text": "It is clear from the nature of Rahab's act, that it is not quoted to prove justification by works as such. … Hence Heb 11:31 names this as an example of faith, rather than of obedience. … The nature of the works alleged is such as to prove that James uses them only as evidences of faith, as contrasted with a mere verbal profession: not works of charity and piety, but works the value of which consisted solely in their being proofs of faith: they were faith expressed in act, synonymous with faith itself.",
+      "full_note_ref": "JFB/59/2/25",
+      "on_tension_rationale": "JFB explicitly cross-references Heb 11:31 and Jas 2:25 as the same episode, arguing James's 'works' are evidentiary proof of the very faith Hebrews attributes to Rahab, not a rival cause of salvation.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible, note on James 2:14 (1706-14)",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry devotes an extended excursus at James 2:14 to reconciling Paul and James on faith and works, explicitly naming Rahab (Jas 2:25) as the second proof-text alongside Abraham; Haley's Discrepancies treats only the separate 'did Rahab lie' question and does not cover this faith/works pairing, so the row-surfaced harmonizing commentator is used instead."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/life-Rahab.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who was Rahab in the Bible?",
+        "note": "Confirmed live; explicitly reconciles Heb 11:31's 'saved... through faith' with James 2's works-as-evidence argument for Rahab."
+      }
+    }
+  }
+}

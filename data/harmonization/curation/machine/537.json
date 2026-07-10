@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 537,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators distinguish 1 Corinthians 7:14's 'sanctified' — a marital, not salvific, status — from actual salvation, and read Acts 16:31's household promise as conditioned on the household's own belief.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses the tension by design, pairing 'saved through the believer' against 1 Corinthians 7:16's flat 'who knows?' as incompatible answers.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"If a husband believes, is his wife saved also?\" (skepticsannotatedbible.com/contra/husband.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/husband.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Corinthians 7:14",
+      "excerpt_text": "This cannot be understood of internal sanctification, which is never the case; an unbeliever cannot be sanctified by a believer in this sense, for such a sanctification is only by the Spirit of God …",
+      "full_note_ref": "GILL/46/7/14",
+      "on_tension_rationale": "Directly denies that the 'sanctified' of 7:14 is the Spirit's saving sanctification, the specific distinction needed to reconcile it with 7:16's doubt about actually saving the spouse.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Corinthians 7:14",
+      "excerpt_text": "sanctified—Those inseparably connected with the people of God are hallowed thereby, so that the latter may retain the connection without impairing their own sanctity (compare Ti1 4:5); nay, rather imparting to the former externally some degree of their own hallowed character, and so preparing the way for the unbeliever becoming at last sanctified inwardly by faith.",
+      "full_note_ref": "JFB/46/7/14",
+      "on_tension_rationale": "Frames the external 'sanctified' status of 7:14 as preparatory to, not identical with, the unbeliever's eventual inward salvation by faith — directly addressing the 7:14/7:16 tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Acts 16:31",
+      "excerpt_text": "and thy house; or family, provided they believe in Christ also, as they did, Act 16:34 or otherwise there can be no salvation, for he that believeth not shall be damned.",
+      "full_note_ref": "GILL/44/16/31",
+      "on_tension_rationale": "Makes the jailer's household's salvation explicitly conditional on the household members' own belief — the same uncertainty 1 Corinthians 7:16 voices — resolving the Acts 16:31 vs. 7:16 half of the question.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on 1 Corinthians 7:14 and 7:16",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Haley's Alleged Discrepancies does not treat this specific pairing (checked; no coverage of 1 Cor 7:14/16 or Acts 16:31 in the 1874/1876 editions). Gill's exposition treats both 1 Corinthians 7:14 and 7:16, and Acts 16:31, at length and directly resolves the tension this row raises."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/household-salvation.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does the Bible say about household salvation?",
+        "note": "Explicitly connects Acts 16:31 and 1 Corinthians 7:16, arguing the jailer's household verse is not a blanket automatic-salvation promise."
+      }
+    }
+  }
+}

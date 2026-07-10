@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 552,
+  "question": "Did Paul see Jesus?",
+  "summary": "Paul in 1 Corinthians 9:1 and 15:8 unambiguously claims to have seen Jesus. Acts 9:8 says that when Paul opened his eyes on the Damascus road he saw no man and had to be led by the hand into Damascus. Paul's first-person testimony and Luke's narrative description of the same event contradict each other on what Paul actually saw.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Gill reads Acts 9:8's \"no man\" as Paul's post-vision blindness, distinct from the Christ he says he had already seen.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells's Skeptic's Annotated Bible presses the plain conflict between Paul's claim to have seen Jesus and Luke's statement that he \"saw no man.\"",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "Skeptic's Annotated Bible",
+      "year": "1999",
+      "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/paul_see.html"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Acts 9:7",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke poses the question directly — 'whether Jesus Christ did really appear to Saul on this occasion' — and resolves it by appeal to Paul's own words in 1 Cor 9:1 and 15:8, which he says 'put the subject out of dispute.'"
+      },
+      "link": {
+        "url": "https://carm.org/questions/did-paul-actually-see-jesus/",
+        "domain": "carm.org",
+        "title": "CARM: Did Paul actually see Jesus?",
+        "note": "Live apologetic treatment affirming Paul's post-ascension encounter with the risen Christ on the Damascus road as a genuine sighting."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "552#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Acts 9:8",
+      "full_note_ref": "GILL/44/9/8",
+      "excerpt_text": "…and when his eyes were opened he saw no man; neither Christ, who appeared to him from heaven, whom he had before seen, nor even any of his companions, nor indeed any object …",
+      "on_tension_rationale": "Gill glosses Acts 9:8's 'saw no man' as covering Christ too, but explicitly notes Paul 'had before seen' him — directly reconciling the verse with Paul's own claim in 1 Cor 9:1/15:8 to have seen Jesus.",
+      "source_note_text": "And Saul arose from the earth,.... As he was bid by Christ, Act 9:6\nand when his eyes were opened he saw no man; neither Christ, who appeared to him from heaven, whom he had before seen, nor even any of his companions, nor indeed any object: the Syriac version renders it, \"he saw nothing\"; not anything at all; and the Ethiopic version, \"he could not see\": when he opened his eye lids, he perceived his sight was gone, and this showed it to be real blindness; and which was an emblem of the ignorance and blindness he had been in:\nbut they led him by the hand; the men that were with him, perceiving that he could not guide himself, took him by the hand, and led him on his journey;\nand brought him into Damascus; and now was fulfilled, at least in part, the prophecy in Zac 9:1."
+    }
+  ]
+}

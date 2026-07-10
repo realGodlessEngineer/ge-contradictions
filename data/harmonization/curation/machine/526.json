@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 526,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill reads 'all things' in 15:15 as the gospel's core already delivered, and the 'many things' still withheld in 16:12 as later truths reserved for the Spirit.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Raymond E. Brown reads John 15-17 as a later compositional layer whose 16:12 promise of ongoing Spirit-revelation comes at the cost of contradicting 15:15's 'all things' claim.",
+      "skeptic": {
+        "name": "Raymond E. Brown",
+        "work": "The Gospel According to John (XIII-XXI), Anchor Bible 29A",
+        "year": "1970",
+        "attribution": "Raymond E. Brown, The Gospel According to John (XIII-XXI), Anchor Bible 29A (Doubleday, 1970), pp. 681-682, 706-716"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "John 16:12",
+      "excerpt_text": "I have yet many things to say unto you,.... Not with respect to the main doctrines of the Gospel, for everything of this kind he had made known unto them, Joh 15:15; but what regarded the rejection of the Jews, and the calling of the Gentiles, the abrogation of the Mosaic economy, and settling the Gospel church state, which were to come to pass after the death and resurrection of Christ, and the sending of the Spirit: but ye cannot bear them now; because of their prejudices in favour of their own nation, the law of Moses, and the ceremonies of it, and the setting up of a temporal kingdom.",
+      "full_note_ref": "GILL/43/16/10",
+      "on_tension_rationale": "Gill's John 16:12 exposition is embedded (upstream scrape artifact — the paragraph is appended under the note_ref for 16:10, preceded by repeated 'joh 16:12' headers, which are trimmed as non-content) but explicitly cross-cites Joh 15:15 by verse number and states the resolving distinction: core gospel doctrine already disclosed vs. later redemptive-historical specifics (Gentile mission, end of Mosaic economy) reserved until after the resurrection. verse_ref is set to John 16:12 (what the quote is actually about) rather than the note's own mislabeled 'ref' field (John 16:10); full_note_ref preserves the source's literal note_ref for traceability.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley gives this exact pairing its own two-column heading, 'Christ's revelation of truth, complete. / Much kept back by him,' quoting John 15:15 and John 16:12 verbatim side by side (Historical Discrepancies chapter, ~p. 330), and argues 15:15's 'all things' means everything the Father had, up to that time, designed for the disciples to know, while 16:12's 'many things' are the post-resurrection and Spirit-taught teaching still to come."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/I-have-called-you-friends.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why did Jesus say, \"I have called you friends\" in John 15:15?",
+        "note": "Explicitly reconciles 15:15's full disclosure with 16:12's 'cannot bear them' by distinguishing what Jesus revealed from the disciples' finite capacity to comprehend it at the time."
+      }
+    }
+  }
+}

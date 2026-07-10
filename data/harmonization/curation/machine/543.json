@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 543,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "JFB reads the two verses as answering different questions: Adam as federal head of the race in Romans, Eve's deception as the ground for subjection in Timothy.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Ehrman reads the Adam-to-Eve blame shift as a sign 1 Timothy is pseudonymous, reworking Paul to license patriarchal church order.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Forgery and Counterforgery: The Use of Literary Deceit in Early Christian Polemics",
+        "year": "2013",
+        "attribution": "Bart D. Ehrman, Forgery and Counterforgery: The Use of Literary Deceit in Early Christian Polemics (Oxford University Press, 2013), pp. 192-222."
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Timothy 2:14",
+      "excerpt_text": "In Rom 5:12, Adam is represented as the first transgressor; but there no reference is made to Eve, and Adam is regarded as the head of the sinning race. Hence, as here, Ti1 2:11, in Gen 3:16, woman's \"subjection\" is represented as the consequence of her being deceived.",
+      "full_note_ref": "JFB/54/2/14",
+      "on_tension_rationale": "JFB, commenting on 1 Tim 2:14, explicitly invokes Rom 5:12 to explain the different roles Adam and Eve play in the two texts, resolving the apparent double-blame by distinguishing federal headship (Romans) from the ground of subjection (Timothy).",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 1 Timothy 2:14",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB is the PD harmonizing voice already surfaced on this row; it directly cross-references Romans 5:12 while explaining 1 Timothy 2:14, which Haley's Alleged Discrepancies does not treat under this specific pairing."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Eve-sinned-first.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why is Adam blamed for the fall of humanity when Eve sinned first?",
+        "note": "live apologetic treatment harmonizing Adam's federal-headship blame in Romans 5 with Eve's deception in 1 Timothy 2"
+      }
+    }
+  }
+}

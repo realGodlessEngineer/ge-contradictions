@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 542,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill meets the two verses directly, distinguishing Paul's justification before God from James's justification before men — works as cause versus works as evidence.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses the flat opposition: Romans 4:2 denies Abraham was justified by works; James 2:21 affirms he was, over the same episode.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Was Abraham justified by faith or works?\" (skepticsannotatedbible.com/contra/abraham.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Was Abraham justified by faith or works?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Romans 4:2",
+      "excerpt_text": "…but does not the Apostle James say that he was justified by works, Jam 2:21? To this it may be replied, that the two apostles, Paul and James, are not speaking of the same thing: Paul speaks of justification before God, James of justification before men; Paul speaks of the justification of the person, James of the justification of a man's cause, as the truth of his faith, or the uprightness of his conduct; Paul speaks of works, as the causes of justification, James of them as the effects and evidences of faith; Paul had to do with the self-righteous, who trusted in their own works for justification, James with Gnostics, who slighted and neglected the performance of them. These things considered, they will be found to agree.",
+      "full_note_ref": "GILL/45/4/2",
+      "on_tension_rationale": "Gill names both verses explicitly (Rom 4:2 and Jam 2:21) and states the exact reconciling move used across the harmonizing tradition — before-God/before-men, cause/evidence — the single tightest, most self-contained on-tension statement across the six voices. Leading ellipsis marks the trim from Gill's preceding exposition of Rom 4:2; the excerpt ends on a real source period.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), pp. 167-168",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats Romans 4:2 and James 2:21 directly under 'Doctrinal Discrepancies — Justification,' laying the two texts in parallel columns and concluding 'There is no collision between Paul and James,' then citing further harmonizers (John Taylor of Norwich, Whately, Andrew Fuller, Stuart) for the same before-God/before-men distinction."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/James_2.21.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in James 2:21?",
+        "note": "Live, on-topic apologetic treatment distinguishing justification before God (Paul, faith) from justification before men (James, works), noting James himself credits Abraham's faith at Jas 2:23."
+      }
+    }
+  }
+}

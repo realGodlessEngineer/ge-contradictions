@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 568,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the two commands as calibrated to different fools, situations, and manners of answering, not as flatly opposed rules.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The Skeptic's Annotated Bible presses the verses as flatly contradictory commands—answer, then don't answer—standing back-to-back in the same chapter.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Should you answer a fool according to his folly?\" (skepticsannotatedbible.com/contra/answer.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/answer.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Proverbs 26:4",
+      "excerpt_text": "See here the noble security of the scripture-style, which seems to contradict itself, but really does not. Wise men have need to be directed how to deal with fools; and they have never more need of wisdom than in dealing with such, to know when to keep silence and when to speak, for there may be a time for both.",
+      "full_note_ref": "MHC/20/26/4",
+      "on_tension_rationale": "MHC names the apparent self-contradiction outright and frames the resolution as knowing when silence vs. speech is called for.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Proverbs 26:5",
+      "excerpt_text": "The sic et non here lying before us is easily explained; after, or according to his folly, is this second time equivalent to, as is due to his folly: decidedly and firmly rejecting it, making short work with it (returning a sharp answer), and promptly replying in a way fitted, if possible, to make him ashamed.",
+      "full_note_ref": "KD/20/26/5",
+      "on_tension_rationale": "KD labels the pairing 'sic et non' (yes-and-no) and resolves it by showing 'according to his folly' bears two distinct senses across v.4 and v.5.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Proverbs 26:5",
+      "excerpt_text": "which would at once remove the seeming contradiction in these words to the former, but then they are not a true version; indeed it is right, and must be the sense, that when a fool is answered, as it is sometimes necessary he should, that it be done in wisdom, and so as to expose his folly; he is to be answered and not answered according to different times, places, and circumstances, and manner of answering …",
+      "full_note_ref": "GILL/20/26/5",
+      "on_tension_rationale": "GILL explicitly names 'the seeming contradiction' between the verses and resolves it via situational/manner distinctions.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), p. 278",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats Proverbs 26:4 vs. 26:5 directly under 'Ethical Discrepancies' (pp. 278-279), offering the situational/different-cases harmonization used above."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Proverbs_26.4-5.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in Proverbs 26:4–5?",
+        "note": "live apologetic treatment offering the circumstance-dependent harmonization"
+      }
+    }
+  }
+}

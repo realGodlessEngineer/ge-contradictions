@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 571,
+  "question": "How long was Jesus in the tomb?",
+  "summary": "Matthew 12:40 has Jesus predicting he will be \"three days and three nights in the heart of the earth\" — a precise duration of 72 hours, paralleling Jonah in the fish. But the passion narratives uniformly have Jesus crucified Friday afternoon (the day of preparation) and discovered risen Sunday morning. That's at most two nights (Friday night, Saturday night) and parts of three days. The arithmetic doesn't get to three nights.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "JFB reads the phrase as Jewish idiom: any part of a day counts as whole, so Friday afternoon through Sunday morning satisfies it.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Thomas Paine called this 'awkward': by the Gospels' own timeline, Christ lay only 'one day and two nights,' not three days and three nights.",
+    "skeptic": {
+      "name": "Thomas Paine",
+      "work": "The Age of Reason, Part II",
+      "year": "1795",
+      "attribution": "Thomas Paine (1737-1809), The Age of Reason, Part II (1795)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pairing under the heading 'Christ's entombment three days and nights... A less time... Buried Friday; rose on Sunday,' reconciling it via the same Oriental/Jewish convention of counting any part of a day as a whole day (citing 1 Sam 30:12-13 and Esth 4:16/5:1 as parallels, plus a modern analogy from Edward Robinson's own quarantine experience)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/three-days.html",
+        "domain": "gotquestions.org",
+        "title": "On what day was Jesus crucified? | GotQuestions.org",
+        "note": "live apologetic treatment weighing Thursday/Friday/Wednesday crucifixion theories specifically against the 'three days and three nights' requirement of Matthew 12:40"
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "571#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Matthew 12:40",
+      "full_note_ref": "JFB/40/12/40",
+      "excerpt_text": "The period during which He was to lie in the grave is here expressed in round numbers, according to the Jewish way of speaking, which was to regard any part of a day, however small, included within a period of days, as a full day.",
+      "on_tension_rationale": "Directly explains the 'three days and three nights' wording as inclusive Jewish day-counting rather than a literal 72-hour span, addressing the exact numerical tension in the summary (Friday-afternoon-to-Sunday-morning falling short of three full nights).",
+      "source_note_text": "For as Jonas was--\"a sign unto the Ninevites, so shall also the Son of man be to this generation\" (Luk 11:30). For as Jonas was\nthree days and three nights in the whale's belly-- (Jon 1:17).\nso shall the Son of man be three days and three nights in the heart of the earth--This was the second public announcement of His resurrection three days after His death. (For the first, see Joh 2:19). Jonah's case was analogous to this, as being a signal judgment of God; reversed in three days; and followed by a glorious mission to the Gentiles. The expression \"in the heart of the earth,\" suggested by the expression of Jonah with respect to the sea (Jon 2:3, in the Septuagint), means simply the grave, but this considered as the most emphatic expression of real and total entombment. The period during which He was to lie in the grave is here expressed in round numbers, according to the Jewish way of speaking, which was to regard any part of a day, however small, included within a period of days, as a full day. (See Sa1 30:12-13; Est 4:16; Est 5:1; Mat 27:63-64, &c.)."
+    }
+  ]
+}

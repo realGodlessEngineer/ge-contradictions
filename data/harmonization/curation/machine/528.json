@@ -1,0 +1,56 @@
+{
+  "contradiction_id": 528,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read Colossians 2:18's \"not seen\" as false teachers' claimed private visions, distinct from the revealed, unseen realities faith embraces elsewhere.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses the plain conflict: Hebrews 11:1 exalts faith in the unseen while Colossians 2:18 condemns it.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Should we believe in unseen things?\" (skepticsannotatedbible.com/contra/unseen.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), \"Should we believe in unseen things?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Colossians 2:18",
+      "excerpt_text": "Paul, not stopping to discuss the nature of the things so seen, fixes on the radical error, the tendency of such a one in all this to walk by SENSE (namely, what he haughtily prides himself on having SEEN), rather than by FAITH in the UNSEEN \"Head\" (Col 2:19; compare Joh 20:29; Co2 5:7; Heb 11:1).",
+      "full_note_ref": "JFB/51/2/18",
+      "on_tension_rationale": "Directly names the resolution: the 'not seen' Paul condemns is the false teacher's self-vaunted sensory vision (walking by SENSE), explicitly opposed to FAITH in the unseen Head — and cross-references the very three reconcile-side verses (John 20:29, 2 Cor 5:7, Heb 11:1) this row's summary cites as the 'command' pole.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Colossians 2:18",
+      "excerpt_text": "The false teachers were evidently saying they had had visions that established certain rituals as requirements for the community.",
+      "full_note_ref": "TYN/51/2/18",
+      "on_tension_rationale": "Independently identifies the referent of 'not seen' as the false teachers' claimed mystical visions used to impose rituals — a distinct, modern voice reaching the same harmonizing distinction as JFB, without the visions-of-Christ or faith-in-God's-promises sense Hebrews and 2 Corinthians use.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible, on Colossians 2:18",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB's note on Colossians 2:18 (already the reconcile pole's primary excerpt) reads the false teacher's 'not seen' as vaunted sensory experience opposed to faith in the unseen Head, and cross-references John 20:29, 2 Corinthians 5:7, and Hebrews 11:1 by name — the exact cluster this row's contradiction turns on. Haley's An Examination of the Alleged Discrepancies of the Bible (1874) does not appear to treat this specific pairing; a harmonizing commentator already surfaced on the row is used per spec."
+      },
+      "link": null
+    }
+  }
+}

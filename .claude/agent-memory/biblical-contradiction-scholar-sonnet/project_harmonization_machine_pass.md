@@ -1,6 +1,6 @@
 ---
 name: project_harmonization_machine_pass
-description: T5/T6 machine-excerpt TRANSFORM leg (data/harmonization/curation/machine/<id>.json) — schema drift vs TRANSFORM_CONTRACT.md, Haley-verification-via-curl+grep applies here too (incl. WebSearch-only false negatives, Grep -B/-C line-number pitfall, roman-numeral citation style, partial/adjacent-coverage judgment calls, bare-phrase-vs-proper-noun grep retries), SAB precedent for thin genealogical/theological entries, data/json's questionUrl field for fast SAB-slug lookup, carm.org/universalism link source, mega-entry (huge multi-verse thematic gather file) selection strategy, Ehrman named-skeptic precedent for afterlife/hell AND Matthew-genealogy-generation-count contradictions, Strauss named-skeptic precedent for the genealogy-vs-virgin-birth family (id 390), a scratchpad-cached Haley djvu.txt speeds up repeat curl+grep checks, defendinginerrancy.com/bible-solutions/<Book>_<ch>.<vs>.php 404s are a normal/expected outcome not a bug (id 407), Haley headings for well-known synoptic pericopes are often keyed to the full chapter-range citation not the row's narrow verse slice — resurrection-morning order-of-events crux id 479 and the distinct timing-wording crux id 477 (same pericope, two different Haley headings), WebSearch-AI-synthesis can fabricate a plausible-sounding page summary not actually on that URL (verify via curl+Grep raw HTML, not just WebFetch); Ehrman's "seven last words" harmonizing critique as named skeptic + genuine Haley silence (verified zero-hit) on the last-words-of-Jesus family, id 473; bartehrman.com guest-author caution (Joshua Schachterle, not Ehrman) + Ehrman's own Jesus,Interrupted p.49 tomb-witness catalogue + Haley pp.328-330 Robinson-harmony hit + carm.org bible-difficulties link, id 499 (empty-tomb messenger inside/outside)
+description: T5/T6 machine-excerpt TRANSFORM leg (data/harmonization/curation/machine/<id>.json) — schema drift vs TRANSFORM_CONTRACT.md, Haley-verification-via-curl+grep applies here too (incl. WebSearch-only false negatives, Grep -B/-C line-number pitfall, roman-numeral citation style, partial/adjacent-coverage judgment calls, bare-phrase-vs-proper-noun grep retries), SAB precedent for thin genealogical/theological entries, data/json's questionUrl field for fast SAB-slug lookup, carm.org/universalism link source, mega-entry (huge multi-verse thematic gather file) selection strategy, Ehrman named-skeptic precedent for afterlife/hell AND Matthew-genealogy-generation-count contradictions, Strauss named-skeptic precedent for the genealogy-vs-virgin-birth family (id 390), a scratchpad-cached Haley djvu.txt speeds up repeat curl+grep checks, defendinginerrancy.com/bible-solutions/<Book>_<ch>.<vs>.php 404s are a normal/expected outcome not a bug (id 407), Haley headings for well-known synoptic pericopes are often keyed to the full chapter-range citation not the row's narrow verse slice — resurrection-morning order-of-events crux id 479 and the distinct timing-wording crux id 477 (same pericope, two different Haley headings), WebSearch-AI-synthesis can fabricate a plausible-sounding page summary not actually on that URL (verify via curl+Grep raw HTML, not just WebFetch); Ehrman's "seven last words" harmonizing critique as named skeptic + genuine Haley silence (verified zero-hit) on the last-words-of-Jesus family, id 473; bartehrman.com guest-author caution (Joshua Schachterle, not Ehrman) + Ehrman's own Jesus,Interrupted p.49 tomb-witness catalogue + Haley pp.328-330 Robinson-harmony hit + carm.org bible-difficulties link, id 499 (empty-tomb messenger inside/outside); Raymond Brown named-skeptic precedent for Johannine composite/seam ("editor who doesn't edit") redaction claims, id 525 (did the apostles ask where Jesus was going); id 526 (did Jesus tell his disciples everything, John 15:15 vs 16:12) — second Raymond Brown/Barrett Johannine-compositional-layers hit, this time sourced straight from the row's own pre-existing DB `scholarship` field rather than a fresh WebSearch; Haley exact two-column heading hit; upstream note-label-mismatch handling pattern (verse_ref set to the verse the quote actually discusses, not the note's own mislabeled `ref`, with the discrepancy explained in `on_tension_rationale`); id 536 (idol meat: 1 Cor 8:4-8 neutral vs Acts 15:28-29 Jerusalem-decree abstention) — Gerd Lüdemann (Acts historicity/Apostolic-Decree-as-Lukan-construction) named-skeptic precedent sourced from the row's own pre-existing `scholarship` field, confirmed Ehrman's *Jesus, Interrupted* "five examples" do NOT include this pairing (don't over-assume Ehrman coverage), Haley's "Idol-meats" heading (p.249) is a topically-adjacent NEAR-MISS (resolves a different intra-Corinthians tension, not Acts-vs-Corinthians) — read the page, don't trust the keyword hit; id 563 (flat earth: Isa 40:22 vs Matt 4:8) — SAB's per-verse `mt/4.html` page (not a `contra/` slug) has the named-skeptic quote, and a GILL versification off-by-one on that chapter was sidestepped by picking correctly-labeled JFB instead
 metadata:
   type: project
 ---
@@ -1150,3 +1150,432 @@ Also reconfirms (contra an earlier, now-superseded memory claim) that the **live
 schema does **not** put `relabel_flag`/`relabel_reason` on the `reconcile` sub-object — only on
 `discrepancy` — per the contract's own worked example and two independently-sampled recent files
 (489, 500); only set them on `discrepancy`.
+
+## Raymond E. Brown ("editor who doesn't edit") is a strong, independently-corroborated named
+## skeptic for Johannine composite/seam claims — and Haley is genuinely silent (id 525)
+"Did any of the apostles ask Jesus where he was going?" (John 13:36 Peter asks / John 14:5 Thomas
+asks vs. John 16:5 Jesus says "none of you asks me, where are you going?") — `data/json/
+batch_27.json`'s `questionUrl` gave the SAB slug (`contra/ask.html`) directly, but the same
+record's pre-existing `commentary`/`scholarship` fields (from an earlier enrichment pass) already
+named **Raymond E. Brown** (*The Gospel According to John XIII-XXI*, Anchor Bible 29A, Doubleday
+1970, pp. 581-604, 710) and Bultmann as the critical-scholarship view that this is a genuine seam
+from John's Farewell Discourse being a composite of originally separate source material (16:5 was
+written without 13:36/14:5 in view). A `WebSearch` independently corroborated the specific Brown
+claim with a striking direct phrase — Brown treats this as evidence of "an editor who doesn't
+edit," i.e. an editor with such reverence for his sources that he stitched them together without
+smoothing over the inconsistency — a sharper, more citable formulation than the flat SAB Yes/No
+framing, so Brown (not Wells/SAB) was used as the `named_skeptic`, per the id-440/452/489 "check
+the row's own pre-existing `scholarship` field first" pattern. Consensus was `genuine_contradiction`
+→ `discrepancy_first` per the §7 rule; discrepancy pole = `named_skeptic` only (no gathered PD
+voice concedes; GILL/JFB/CLARKE/MHC/TYN/GNV are all harmonizing), so reconcile capped to 1.
+
+Reconcile excerpt used **JFB** on John 16:5 (`JFB/43/16/5`) over three other strong on-tension
+candidates gathered on the same row — GILL's long qualitative-distinction note (~150 words,
+would need heavy trimming), CLARKE's temporal "but now, at the time..." note (which contains what
+reads like a genuine period-text/OCR typo, "Joh 13:3" for "Joh 13:36" — verbatim quoting it would
+reproduce a confusing reference error, so avoided), and MHC's version buried deep inside a large
+block-anchored note — because JFB's is the only one that is a single, short, already-clean
+sentence naming **both** antecedent verses explicitly with no ellipsis needed: "They had done so
+in a sort (Joh 13:36; Joh 14:5); but He wished more intelligent and eager inquiry on the
+subject." Dropped only the note's own verse-lemma prefix ("and none of you asketh me, Whither
+goest thou?--"), consistent with the id-407/452 lemma-prefix-drop convention (not treated as a
+truncation needing an ellipsis marker).
+
+**Haley is genuinely silent** — curl+Grep of the scratchpad-cached `haley_full.txt` for `whither
+goest`, `goest thou`, `none of you`, `asketh`, `xvi. 5`, `xiii. 36`, `xiv. 5` all came back **zero
+hits** (only two irrelevant `asketh`/`goest` hits elsewhere in the book, unrelated to this
+passage) — a genuine absence (per the id-313/364/473 zero-hit pattern), not a search miss; this
+famous NT-internal "gotcha" joins id 473 (last words of Jesus) as another well-known popular
+contradiction Haley's 1874 canon simply doesn't address. Fell back correctly to JFB itself
+(already the reconcile-pole author) as `pd_work`. **No allowlisted `link` found despite real
+effort**: `defendinginerrancy.com/bible-solutions/John_16.5.php` 404s; `gotquestions.org/
+where-are-you-going.html` 404s; WebSearch rounds for a gotquestions.org or carm.org page on this
+specific tension only surfaced off-allowlist pages (evidenceunseen.com, walkingwithgiants.net,
+biblechristiansociety.com) with no allowlisted match; `link: null` with an honest note. Dry-run
+bake (`DRY_RUN=1 IDS=525`) gave the standard two pre-T9/T10 violations (`note_present`,
+`parity_count`) and 849/849 `verifyExcerpts.py` + 34/34 `verifyVersePairs.py` PASS —
+normal/expected.
+
+## A "soft"/dry completeness-claim tension (Luke's "all" vs John's inexhaustibility hyperbole) is
+## genuinely Haley-silent, and the strongest reconcile excerpt is on the OPPOSITE verse from the
+## one usually assumed (id 529)
+"Did Luke include everything that Jesus did?" (Acts 1:1-2 "all that Jesus began both to do and
+teach" vs John 21:25 "the world itself could not contain the books that should be written") is
+`skepticsannotatedbible.com/contra/everything.html` (confirmed via `data/json/batch_27.json`'s
+`questionUrl`, WebFetch page-title match: "Does the gospel of Luke contain everything that Jesus
+did?"). Consensus `apparent_only` → `lean: reconcile_first` per the §7 rule. Intuition might
+reach first for a note on John 21:25 itself (the "hyperbole" verse — GILL/JFB/CLARKE all have long
+notes there defending the hyperbolical reading of "world could not contain the books"), but the
+**single most on-tension excerpt is actually MHC's note on Acts 1:1** — it explicitly
+cross-references John's own language ("not all the particulars - the world could not have
+contained them") while glossing Luke's "all" as "the heads, samples of all," i.e. it is the one
+note that argues *both* sides of the pair in one sentence, unlike the John-21:25 notes (which only
+defend John's own hyperbole in isolation, without engaging Acts 1:1's "all" claim at all — checked
+JFB/CLARKE/GILL/TYN's John 21:25 notes specifically for this and none cross-reference Acts 1:1).
+**Lesson: for a two-verse completeness/scope tension, check the notes on BOTH cited verses for
+which one actually names the *other* passage's language — the cross-referencing note is usually
+the strongest excerpt even if it's the "less famous" of the two verses.** Second reconcile voice:
+GILL on Acts 1:2 ("his former treatise took in the main and principal things Jesus did and taught"
+— ends the excerpt at the source's own colon, a legitimate non-fabricated truncation point since
+the colon is the source's genuine internal punctuation, not an added period).
+
+Haley's PD text (curl+Grep of the scratchpad-cached `haley_full.txt`/`haley_djvu.txt`, ~39k lines)
+has **zero hits** for "former treatise," "Theophilus," "world itself," "could not contain," "many
+other things," "Acts i. 1," and "John xxi." — a genuine, confirmed absence (not a search miss),
+consistent with the id-313/364/473/525 pattern that dry completeness/scope-claim minutiae (as
+opposed to famous doctrinal or synoptic-wording cruxes) are under-served by the classic 1874 PD
+harmonizer canon even when, as here, the tension is NT-internal and fairly well-known among
+apologetics sites. Fell back correctly to MHC (already the reconcile-pole excerpt's author) as
+`pd_work`. No skeptical/critical scholarship beyond the SAB page itself was found via WebSearch
+(only apologetics blogs — e.g. "The Domain for Truth" — and a Quora thread engage this specific
+pairing), so **Steve Wells / Skeptic's Annotated Bible is the correct 439-model named skeptic**
+here too — this is a "thin" pairing in the same sense as id 364/401 (no heavyweight critical
+scholar has substantively engaged it), not a case needing Ehrman/Strauss-tier sourcing. No
+allowlisted `link` found despite real effort: `defendinginerrancy.com/bible-solutions/Acts_1.1.php`
+and `.../John_21.25.php` both 404, and multiple `gotquestions.org`/`carm.org` WebSearches turned up
+no dedicated page on this exact pairing; `link: null`. Dry-run bake (`DRY_RUN=1 IDS=529`) gave
+**1** violation (`note_present` only — no `parity_count` violation, matching the id-489/508 pattern
+where 2 reconcile excerpts already clear the discrepancy pole's connective-only count of 1) and
+852/852 `verifyExcerpts.py` + 34/34 `verifyVersePairs.py` PASS.
+
+## Haley's "Historical Discrepancies" chapter has an exact-heading, exact-numbers hit for the
+## Abraham's-age-at-Haran-departure crux — and the SAME heading cites the row's own KD-style
+## alternative solution by name (id 534)
+"How old was Abraham when he left Haran?" (Gen 12:4 "75" vs Gen 11:26 "Terah was 70 when he
+begat Abram" + Gen 11:32 "Terah died at 205" + Acts 7:2-4 "left only after Terah died" → implied
+135) — `data/json/batch_27.json`'s `questionUrl` gave the exact SAB slug directly
+(`contra/oldabe.html`; check `questionUrl` before guessing, per the id-348/363/etc. tip).
+`WebFetch` confirmed the live page frames it as a flat "75" vs "at least 135" contradiction —
+Steve Wells/SAB used as the 439-model named skeptic. A scratchpad-cached `haley.djvu.txt`
+(`grep -n -i Terah`) found, in the "Historical Discrepancies" chapter (p. 393), a dedicated
+two-line heading **"Abraham's age at migration 75 years. / Apparently 135 years."** citing
+**Gen. xii. 4** against **Gen. xi. 26, 32; Acts vii. 4** — an exact match to this row's own refs,
+numbers included. Haley gives BOTH harmonizations in sequence: (1) the standard "named first for
+dignity, not birth order, actually born when Terah was 130" solution (same move Clarke/Gill/MHC
+all make independently in the gathered notes), AND (2) a second, more concessive alternative —
+"Some Jewish interpreters, however, think that Abraham actually left Haran sixty years before his
+father's death. On this theory, Stephen... simply followed the then commonly received, though
+inaccurate, chronology. So Ewald, Keil, Kurtz, Lange, Murphy, and others" — which is the *identical*
+move the row's own `KD` (Keil & Delitzsch) note independently makes ("When Stephen... placed the
+removal of Abram... after the death of his father, he merely inferred this from the fact... taking
+the order of the narrative as the order of events"). Confirms KD's note isn't an isolated harmonizing
+quirk but a named, citable minority position within the standard PD harmonization literature —
+worth remembering that **Haley explicitly attributes solution #2 to "Keil"** (i.e. K&D) by name,
+so any row where a gathered KD note argues "Stephen just followed narrative order, not literal
+chronology" can cite Haley's same heading as corroboration. Reconcile excerpt used **Clarke**
+(`CLARKE/1/11/26`) over Gill/MHC on the same point — Clarke's sentence is the cleanest
+self-contained syllogism ("Terah died two hundred and five years old... then Abram departed from
+Haran when seventy-five years old... therefore Abram was born, not when his father Terah was
+seventy, but when he was one hundred and thirty") and it independently uses Haley's own "named
+first for dignity" analogy (Moses before Aaron / Shem before his elder brothers), reinforcing it's
+the "textbook" version of this harmonization. Link: `defendinginerrancy.com/bible-solutions/
+Genesis_11.32.php` ("Genesis 11:32—Was Abraham 75 years old when he left Haran, or was he 135
+years old?") — WebFetch-confirmed live, exact-title match, same "listed by prominence not birth
+order" argument. Note: the `DRY_RUN=1 IDS=534 node .scripts/buildHarmonizationTables.js` sanity
+bake was **not run** this pass — the task's explicit "do NOT read or write any .db file" boundary
+blocked it (the auto-mode classifier denies the Bash call outright since the baker script opens
+`contradictions.db` even under `DRY_RUN=1`); relied on a plain `node -e require(...)` JSON-parse
+check instead. **If a future TRANSFORM-only task explicitly forbids touching `.db` files, skip the
+dry-run bake rather than trying to work around the sandbox denial** — JSON-parse + manual schema
+review is the fallback verification.
+
+## Second Raymond Brown hit on the same Farewell-Discourse family, PLUS Haley scores an exact
+## two-column heading, PLUS an upstream note-label mismatch worth flagging honestly (id 526)
+"Did Jesus tell his disciples everything?" (John 15:15 "all things that I have heard of my
+Father I have made known unto you" vs John 16:12 "I have yet many things to say unto you, but ye
+cannot bear them now" — same discourse, one chapter apart) is the immediate neighbor of id 525's
+"where are you going" seam and drew the **same** named skeptic: `data/json/batch_27.json`'s
+pre-existing `commentary`/`scholarship` fields (an earlier enrichment pass) already named
+**Raymond E. Brown** (*The Gospel According to John XIII-XXI*, Anchor Bible 29A, Doubleday 1970,
+pp. 681-682, 706-716) and **C. K. Barrett** (*The Gospel According to St. John*, 2nd ed.,
+Westminster, 1978, pp. 477-478, 488-489) as the critical view that chs 15-17 are a secondary
+discourse layer, with 16:12 legitimating the community's later Spirit-mediated teaching "at the
+cost of" contradicting 15:15's comprehensive claim — used Brown alone as `named_skeptic`
+(Barrett omitted from the `skeptic` object to keep one attributed voice, per schema) since the
+DB's own commentary text states the critical argument in citable form. Consensus was
+`probable_contradiction` → `discrepancy_first` per the §7 rule; no gathered PD note concedes (all
+six voices — GILL/JFB/CLARKE/MHC/TYN/GNV — harmonize), so discrepancy = `named_skeptic` only,
+reconcile capped to 1.
+
+Reconcile excerpt used **GILL**, but with an **upstream scrape-artifact complication**: the
+gather file's note tagged `ref: "John 16:10"` / `note_ref: "GILL/43/16/10"` actually contains
+Gill's exposition of **v. 12** (the commentary-splitting in the source ran one verse behind its
+own label — v.10's note holds v.11 content, v.11's note holds v.12/13 content, etc.), recognizable
+because the v.12 paragraph is preceded by four repeated junk headers (`"John 16:12\njoh
+16:12\njoh 16:12\njoh 16:12"`) then begins a fresh, complete sentence ("I have yet many things to
+say unto you,....") that explicitly cross-cites `Joh 15:15` by verse number and states the
+resolving distinction (core doctrine already disclosed vs. later redemptive-historical specifics
+— Gentile mission, end of the Mosaic economy — reserved for after the resurrection). **Handling
+decision**: kept `full_note_ref` exactly as given (`GILL/43/16/10`, required for traceability/
+audit against the source row) but set `verse_ref` to `"John 16:12"` (what the quote actually
+discusses) rather than mechanically copying the note's own mislabeled `ref` field, and logged the
+reasoning in `on_tension_rationale` (private) so the auditor isn't puzzled by the mismatch. The
+excerpt itself required no ellipsis at either end — trimming the four junk-header repeats before a
+clean sentence-initial capital is not a mid-sentence truncation, and the note's own text ends on a
+natural period.
+
+**Haley scores an exact, on-passage hit** — curl+Grep of the scratchpad-cached `haley.txt` for
+`cannot bear them|many things to say|made known unto you` found a **dedicated two-column heading**
+in the "Historical Discrepancies" chapter (~p. 330), **"Christ's revelation of truth, complete. /
+Much kept back by him,"** quoting John 15:15 and John 16:12 verbatim side by side, then arguing:
+"the first text mean[s], 'All things that I have heard from my Father, which were designed for
+you at present, I have made known to you'... Everything which the Father had, up to that time,
+wished him to make known, he had made known to them," with the "many things" of 16:12 being
+post-resurrection and Spirit-taught revelation (also noting Alford's proleptic reading and
+Ebrard's "that day were parabolical" gloss for a *different* adjacent pair on the same page). Used
+as `deeper_learning.defense.pd_work` over Gill (even though Gill is already the reconcile-excerpt
+author) because Haley is the contract's canonical default and his coverage here is a confirmed,
+exact, passage-specific hit, not a fallback. `link`: `gotquestions.org/I-have-called-you-
+friends.html` ("Why did Jesus say, 'I have called you friends' in John 15:15?") —
+WebFetch-confirmed it explicitly reconciles both verses in one paragraph ("Christians receive
+unrestricted access to the truth, although we are limited by our ability to comprehend it all
+(John 16:12)"). Dry-run bake (`DRY_RUN=1 IDS=526`) gave the standard two pre-T9/T10 violations
+(`note_present`, `parity_count`) and 852/852 `verifyExcerpts.py` + 34/34 `verifyVersePairs.py`
+PASS — normal/expected. **Lesson: when a Farewell-Discourse-family row (John 13-17) has a
+pre-existing DB `scholarship` field, check it first — Raymond Brown's composite-discourse thesis
+recurs across multiple rows in this chapter cluster (ids 525, 526 confirmed so far), so it is
+worth treating as a standing candidate for any other John 13-17 internal-tension row in this
+corpus, alongside checking Haley by proper-noun/phrase grep rather than assuming thin coverage.**
+
+## Gerd Lüdemann is a real, verifiable named skeptic for Acts-vs-Paul historicity tensions
+## (Apostolic Decree), and Haley's "Idol-meats" heading is a false-positive-looking near-miss
+## (id 536, "Is it OK to eat meat sacrificed to other gods?")
+1 Cor 8:4-8 (idol meat is theologically neutral, governed only by love for a weaker brother) vs
+Acts 15:28-29 (the Jerusalem Council's decree that Gentile believers must abstain from idol meat
+as one of a handful of binding "necessary things"). Consensus `genuine_contradiction` →
+`discrepancy_first`; all six gathered voices (GILL/JFB/CLARKE/MHC/TYN/GNV) harmonize, so no
+verbatim discrepancy excerpt existed and `named_skeptic` was required. `data/json/batch_27.json`'s
+pre-existing `scholarship` field (from an earlier enrichment pass, keyed under a since-corrected
+mis-titled `question` — was "Is circumcision required?" then, now correctly "Is it OK to eat meat
+sacrificed to other gods?" in the gather file, confirming the DB-level mismatch flagged back then
+was fixed upstream) already named **Gerd Lüdemann, *The Acts of the Apostles: What Really
+Happened in the Earliest Days of the Church* (Prometheus, 2005), pp. 173-185 ("on Lukan
+composition of the Apostolic Decree")** — WebSearch-confirmed the book is real (also published
+1989 as *Early Christianity according to the Traditions in Acts: A Commentary*, trans. John
+Bowden) and consistent with Lüdemann's well-documented general thesis that Acts blends history and
+theological legend; used as the discrepancy pole's `named_skeptic`, with the connective stating
+his real, general position (Luke's decree is a later literary construction; Paul's own letters,
+addressing idol meat directly in 1 Cor 8-10, never mention any such decree) rather than an
+unverified page-specific claim. **Bart Ehrman's "five examples" of Acts-vs-Paul contradictions in
+*Jesus, Interrupted* do NOT include this one** (WebFetch-checked a hostile review cataloguing all
+five — none is the idol-meat/decree tension) — don't assume Ehrman covers every Acts-vs-Paul seam
+just because he's the corpus's default Acts critic; check what his actual five examples are before
+citing him for a sixth.
+
+**Haley's only relevant-looking heading is a near-miss, not a hit** — curl+Grep of
+`examinationof00hale_djvu.txt` for `idol` found an "Idol-meats. / Non-essential. / To be avoided."
+heading (p. 249-250, index-confirmed: "Idol-meats non-essential, yet to be shunned, 249") that
+reads at first like an exact match, but on inspection it resolves a **purely intra-Corinthians**
+tension (1 Cor 8:8/10:19 "meat is nothing" vs 1 Cor 10:20-21 "ye cannot be partakers of the Lord's
+table and of devils' ") via the Andrew-Fuller "inexpedient because it leads others into actual
+idolatry" argument — it never mentions Acts 15 or the Jerusalem decree at all. Grepping `burden`
+found Haley's only Acts 15:28 citation is a bare proof-text in an unrelated "Holy Ghost is a
+Person" doctrinal list (not this contradiction). Grepping `council`/`Judaizing`/`abstain` also
+came back with nothing on-topic. **Lesson: a plausible-sounding index/heading match on the right
+keyword (here "idol") is not sufficient — read the actual page content before treating it as
+Haley coverage; a topically-adjacent heading in the same general subject area can still be
+answering a completely different question.** Fell back correctly to the contract's named
+alternative: **JFB** (already the row's reconcile-excerpt author, `JFB/46/8/7`) as `pd_work`,
+since its note explicitly treats this exact Acts-15/1-Cor-8 pairing in one self-contained sentence
+("the Jerusalem decree against partaking of such meats (though indifferent in themselves) was
+passed... on the ground of Christian expediency, not to cause a stumbling-block") — a cleaner,
+more self-contained single-sentence quote than the alternative candidate on the same row
+(MHC's block-anchored Acts 15:22 note, `MHC/44/15/22`, `anchor: true`, which also states the
+"decree lapsed once its Jewish-sensibility rationale lapsed" argument but attributes it ambiguously
+to a paraphrase of "Dr. Hammond" mid-block, making clean/attributable excerpting riskier).
+`gotquestions.org/Paul-Jerusalem-Council-food-sacrificed-idols.html` ("Did Paul contradict the
+Jerusalem Council by telling people that they can eat food sacrificed to idols?") is a live,
+WebFetch-confirmed, exactly-on-topic allowlisted `link`. Parity: reconcile capped to 1 excerpt
+(discrepancy pole = `named_skeptic` only, count 1).
+
+## Haley confirmed silent on the whole "engage vs shun outsiders" pastoral/Johannine cluster;
+## defendinginerrancy.com has a direct hit even though it argues from a different verse pair (id 556)
+"Should believers discuss their faith with non-believers?" (1 Pet 3:15/Col 4:5-6 "give an
+answer"/"speech with grace" toward outsiders vs 2 John 1:10 "receive him not"/1 Tim 6:20/2 Tim
+2:16 "shun profane and vain babblings") is `reconcile_first` (`probable_harmonization`).
+`data/json/batch_28.json`'s `questionUrl` gave the exact slug (`contra/discuss.html`) directly;
+`WebFetch` confirmed SAB's own "No"-side caption is literally **"Shun the profane, vain
+babblings of nonbelievers"** — i.e. SAB's own page-author wording reads the shun-texts as
+addressed to nonbelievers generally, which is the exact point the harmonizing commentators
+dispute (they read 2 John's target as itinerant heretical *teachers* seeking a platform/house-
+church legitimacy, not generic outsiders) — so Steve Wells/SAB is a clean, non-strawmanned
+439-model skeptic here by quoting his own caption verbatim in the connective, no external
+argument needed. curl+Grep of the full `examinationofall00hale_djvu.txt` for `babbling`, `2
+John`, `receive him not`, `God speed`, `reason of the hope`, `shun`, `Colossians`, `seasoned
+with salt` came back **zero on-topic hits** (only irrelevant `shun` hits elsewhere in the book)
+— confirms real absence for this whole cluster, not a search miss (this pairing is a modern/thin
+SAB-style juxtaposition of household-code-style pastoral verses, not a classic doctrinal crux,
+consistent with the id-313/364 "obscure pairing, no 19th-c. PD coverage" pattern). Fell back to
+a harmonizing commentator already surfaced on the row for `pd_work`: **Matthew Henry** on 2 John
+1:10 (`MHC/63/1/10`), whose own note draws the exact reconciling line in one clause: "Doubtless
+such may be relieved in their pressing necessities, but not encouraged for ill service." Three
+reconcile excerpts used (reconcile_first is NOT parity-capped to 1 — only the non-lean pole is
+capped): Adam Clarke on 2 John 1:11 (`CLARKE/63/1/11`, "does not mean that we should deny such
+the common offices of humanity, charity, and mercy"), Matthew Henry on 2 John 1:10 (same
+sentence as above), and John Gill on 1 Tim 6:20 (`GILL/54/6/20`, glossing "vain babblings" as
+specifically the false teachers' own disputes "about the law, and circumcision," not general
+apologetic conversation with genuine inquirers). Live allowlisted `link` found via WebSearch +
+WebFetch: `defendinginerrancy.com/bible-solutions/2_John_10.php` ("Is there a Bible contradiction
+in 2 John 10?") — worth noting it argues the identical false-teachers-vs-outsiders-generally
+distinction but frames it against Matt 5:44 "love your enemies," not against this row's actual
+1 Pet 3:15/Col 4:5-6 refs; still a legitimate, honestly-noted `link` since the underlying
+harmonizing mechanism is the same one this row needs. **Lesson: `defendinginerrancy.com`'s
+per-verse `bible-solutions/<Book>_<ch>.<vs>.php` page for the discrepancy-side verse (here 2
+John 10) is worth checking even when the row's reconcile-side verses are elsewhere — the
+apologetics literature organizes by the "hard" verse, not by the full contradiction pairing.**
+
+## Haley has real Enoch coverage but of a DIFFERENT contradiction; the row's own reconcile-excerpt
+## author (Clarke) doubles cleanly as `pd_work` (id 559, "Did Enoch die?")
+Hebrews 11:13 "these all died" (a list including Abel, Enoch, Noah, Abraham, Sarah) vs Hebrews
+11:5 "translated that he should not see death" (echoing Gen 5:24) is `reconcile_first`
+(`apparent_only`). Clean, on-point excerpt: **Adam Clarke** on Heb 11:13 (`CLARKE/58/11/13`) —
+"These all died in faith - That is, Abraham, Sarah, Isaac, and Jacob, ... but they neither saw
+the numerous seed, nor did they get the promised rest in Canaan" — restricts the referent of
+"these all" to the Abraham-cluster only, silently excluding Enoch/Abel from the death-claim.
+Note JFB's own note on the same verse (`JFB/58/11/13`) is a **false-positive trap**: it opens by
+citing Bengel/Alford's identical restrictive reading, then explicitly *rejects* it ("But the
+'ALL' can hardly but include Abel, Enoch, and Noah") and pivots to a different question (what
+"the promises" refers to) — read the whole note before treating a keyword hit as an on-tension
+reconcile candidate; JFB here is NOT usable as a second reconcile voice on the "who does 'these
+all' include" question specifically. curl+Grep of `examinationof00hale_djvu.txt` for `Enoch`
+found only 2 clusters, **both a different contradiction**: (1) "Enoch 'was not'" vs "the wicked
+'was not'" (Ps 37:36-style "shall not be found" language applied to both the righteous-translated
+and the annihilated-wicked) and (2) "flesh and blood cannot inherit" (1 Cor 15:50) vs Enoch's
+bodily translation — neither touches Heb 11:13 vs 11:5 at all; a `these all died|11:13` grep came
+back zero hits, confirming genuine silence on *this* pairing specifically, not a search miss.
+Per the contract's explicit fallback, used **Clarke's own note as `pd_work`** (it's simultaneously
+the reconcile excerpt's source and a real, on-passage PD harmonizing treatment — no conflict with
+reusing it in both places). Named skeptic: **Steve Wells / Skeptic's Annotated Bible** —
+`data/json/batch_28.json`'s `questionUrl` gave the exact slug (`contra/enoch_die.html`) directly;
+`WebFetch` confirmed the live page brackets Enoch's name straight into the Heb 11:13 quote
+("These [Abel, Enoch, Noah, Abraham, Sarah] all died") as its own framing device, which is exactly
+the maximal "these all" reading Clarke's note resists — a clean, non-strawmanned 439-model fit.
+Live allowlisted `link`: `gotquestions.org/died-in-faith.html` ("What does 'these all died in
+faith' mean (Hebrews 11:13)?") — WebFetch-confirmed it treats this exact tension, but argues a
+**different** harmonization than Clarke's (Enoch IS included in "these all died in faith," read
+as a spiritual/faith-posture category rather than a literal-death claim) — cited anyway since the
+`link` field doesn't need to match the excerpt's specific mechanism, only be real/on-topic; noted
+the divergent approach in the `link.note` rather than silently implying agreement.
+
+## Steve Wells/SAB confirmed for the flat-earth family; a GILL versification off-by-one bug
+## discovered and worked around (id 563, "shape of the earth": Isa 40:22 "circle of the earth"
+## vs Matt 4:8 mountain-view-of-all-kingdoms)
+No `questionUrl`/`scholarship` field existed in this gather file (unlike most other worked ids
+above — check `data/json/batch_*.json` anyway, it's not always present). Confirmed **Steve
+Wells / Skeptics' Annotated Bible** as 439-model named skeptic by `WebFetch`-ing
+`skepticsannotatedbible.com/mt/4.html` directly (per-chapter verse-by-verse page, not a
+`contra/<slug>.html` topic page this time) and finding the unsigned verse-8 annotation itself:
+*"...to the top of 'an exceeding high mountain,' high enough to see 'all the kingdoms of the
+world.' I guess the earth was flat in those days."* — confirmed unsigned SAB per-verse notes are
+Wells's own editorial voice (site compiler, per copyright footer), not a named guest contributor.
+Reconcile excerpt: **JFB** on Matthew 4:8 (`JFB/40/4/8`) — argues Luke's "in a moment of time"
+signals a **supernaturally extended vision**, not an ordinary naked-eye panorama, directly
+defusing the flat-earth-geometry premise. **Discovered a real data-quality bug worth flagging on
+sight elsewhere**: this gather file's **GILL** notes on Matthew 4 are mislabeled by a systematic
+**off-by-one** — the note labeled `ref: "Matthew 4:7"` (`GILL/40/4/7`) actually glosses verse
+**8**'s content ("the devil taketh him up into an exceeding high mountain... sheweth him all the
+kingdoms"), the note labeled `4:6` glosses actual verse 7, and the note labeled `4:8` glosses
+actual verse 9 — confirmed by checking each note's opening clause against the real KJV verse text
+one at a time. **JFB's parallel notes on the same chapter are correctly aligned** (checked the
+same way), which is why JFB was picked over GILL for the excerpt even though GILL's note is
+arguably the more explicit reconcile voice ("there is no mountain in the world, from whence can
+be beheld anyone kingdom... this was a fictitious, delusive representation") — using a
+known-mislabeled `ref`/`full_note_ref` risked shipping an excerpt whose `verse_ref` doesn't match
+any of the row's actual `refs_parsed`. **Lesson: when two voices offer comparably strong
+excerpts, spot-check each candidate's `ref` against its own note `text`'s opening clause (does
+the quoted KJV wording actually match that verse number?) before picking — an off-by-one in one
+voice's note range for a chapter doesn't mean the whole gather file is unreliable, just that
+voice's range; other voices on the same chapter can be clean.** No Haley coverage search was
+attempted for `pd_work` — this "flat earth in the Bible" trope is a modern (20th/21st-c.) skeptic
+argument style (per the id-313/364/559 pattern: 19th-c. PD polemicists/harmonizers didn't focus
+on flat-earth cosmology claims), so went straight to the row's own reconcile-excerpt author
+(JFB) as `pd_work`, consistent with the contract's explicit fallback. No allowlisted `link`:
+`gotquestions.org/circle-of-the-earth.html` exists and is on-verse for Isaiah 40:22 but actually
+**disputes** the sphere reading ("the word does not mean 'sphere' but rather... a circle or
+sometimes a dome... A circle is flat like a disc") and never mentions Matthew 4:8 at all;
+`gotquestions.org/flat-earth-Bible.html` exists and lists Isaiah 40:22 as a pro-sphere verse but
+never addresses Matthew 4:8 either; `defendinginerrancy.com/bible-solutions/Matthew_4.8.php`
+404s. Set `link.url: null` rather than stretch either partial-match GotQuestions page into a
+citation — neither actually engages the row's specific two-verse tension.
+
+## Bart Ehrman's OWN blog (not /forum/) is a clean 439-model skeptic for the Sermon on the
+## Mount/Plain beatitude-count-and-wording family; Haley has NO coverage (id 566)
+"How many beatitudes are in the Sermon on the Mount?" (Matt 5:3-11's nine vs Luke 6:20-23's four,
+plus Matthew's third-person/spiritualized wording — "poor in spirit," "hunger and thirst after
+righteousness" — vs Luke's second-person/literal "poor"/"hungry now") — curl+Grep of the Haley
+djvu text (`examinationof00hale_djvu.txt`) for `[Ss]ermon\s+on\s+the\s+[Mm]ount` (double-space-
+tolerant regex, per the OCR gotcha noted elsewhere in this file) found only one incidental,
+off-topic hit; `[Bb]eatitude` came back **zero hits entirely** — Haley's chapter on this general
+poverty theme ("Doctrinal Discrepancies," p.174-175, "poor in spirit" vs OT wealth-as-blessing
+texts) is a wholly different tension (poverty-as-virtue vs riches-as-blessing paradox, not the
+Matthew-vs-Luke beatitude-count/wording divergence) — confirmed by reading the surrounding
+context, not just the keyword hit. Correctly fell back to the contract's named alternative: a
+harmonizing commentator already surfaced on the row — **Matthew Henry** (`MHC/42/6/20`), whose
+opening note on Luke 6:20 proposes the classic two-part harmonization: "it is probable that this
+is only the evangelist's abridgment of that sermon, and perhaps that in Matthew too is but an
+abridgment" (i.e., both Gospels abridge a fuller original discourse differently, so the differing
+beatitude counts reflect editorial selection, not two incompatible eyewitness reports).
+
+Named skeptic: **Bart D. Ehrman**, "Did Jesus Give the Sermon on the Mount?", *The Bart Ehrman
+Blog* (ehrmanblog.org, Oct. 26, 2022) — confirmed via WebFetch this is Ehrman's own signed post
+(byline BDEhrman), NOT a `/forum/` reader thread (the id-420 caution above), and it argues this
+**exact** tension directly: "the collection of the sayings into a single Sermon is almost
+certainly Matthew's own construction," concluding "I don't think Jesus ever gave the Sermon on
+the Mount" — i.e., Matthew assembled scattered sayings (which Luke preserves distributed across
+his Gospel) into one discourse, so the differing beatitude count/wording reflects two evangelists'
+incompatible literary constructions rather than a single verbatim event. A clean, well-documented
+439-model fit for any Sermon-on-the-Mount-vs-Sermon-on-the-Plain row (also worth checking for a
+recurring "woes" row, since Luke 6:24-26 has no Matthean parallel at all — same family, not yet
+worked as its own id here).
+
+Live allowlisted `link`: `defendinginerrancy.com/bible-solutions/Luke_6.20_(cf._MATT._5.3).php` —
+verified 200 + exact on-topic `<h2>` heading via raw `curl`: "Luke 6:20 (cf. Matt. 5:3)—Why does
+Luke's version of the Beatitudes differ from those in Matthew?" — a verbatim-topic match, not just
+a same-verse-different-question near-miss (the id-407 caution). **`defendinginerrancy.com`'s
+`bible-solutions/<Book>_<ch>.<vs>_(cf._<BOOK>._<ch>.<vs>).php` cross-reference URL pattern is
+worth trying directly for any Synoptic-parallel wording/number discrepancy**, not just the plain
+`<Book>_<ch>.<vs>.php` single-verse pattern already noted at id 364.
+
+## Checking Haley's own back-of-book scripture INDEX (not just full-text keyword grep) is a fast,
+## high-confidence way to confirm real absence on a numeric/headcount crux (id 569)
+"How many apostles were in office between the resurrection and ascension?" (1 Cor 15:5 "the
+twelve" vs. Judas already dead per Matt 27:3-5, Matt 28:16 "the eleven disciples," Acts 1:9's
+eleven-only ascension with Matthias not chosen until Acts 1:26) — consensus `genuinely_disputed`
+→ `discrepancy_first`. All six gathered voices (GILL/JFB/CLARKE/MHC/TYN/GNV) harmonize (round-
+number/title-of-office reading), so no verbatim discrepancy excerpt existed; correctly used the
+439 model. Curl+Grep of the scratchpad-cached `haley.djvu.txt` for `Cephas`, `the twelve`, `eleven
+disciples`, `Matthias`, `Iscariot` all came back zero/irrelevant hits — but rather than stopping
+there, grepping the book's own back-of-book scripture **index** (`Apostles`) found the complete
+entry: "Apostles, lists of names, 322; called when, 407; distinct from the 'seventy disciples,'
+407" — i.e., Haley's *own* index confirms his only "Apostles" coverage is name-lists and the
+calling narrative, not this resurrection-headcount tension. **An index-entry check is a stronger
+negative-confirmation than a body-text grep alone** (the index is the author's own summary of what
+he covered) and costs only one extra grep — worth doing before concluding silence on any
+numeric/list-type crux. Fell back correctly to a harmonizing commentator already on the row:
+**GILL** (`GILL/46/15/5`), whose note is unusually complete for a single excerpt — it concedes the
+group numbered only eleven at that moment, gives the "retained original-number title"
+explanation, AND independently notes the Vulgate/Claromontane manuscripts read "the eleven"
+instead of "the twelve" (a genuine textual variant, corroborated by CLARKE's parallel note on the
+same verse citing D*EFG/Syriac-margin/Vulgate/Itala witnesses for the same reading) — used as both
+the reconcile excerpt and the `pd_work` (Haley being silent, per the contract's fallback clause).
+
+Named skeptic: **Bart D. Ehrman**, "How Can Paul Say that Jesus Appeared to the Twelve?", *The
+Bart Ehrman Blog* (ehrmanblog.org, April 12, 2022) — confirmed via WebFetch this is Ehrman's own
+signed post (byline BDEhrman), NOT a `/forum/` reader thread (the id-420 caution), and it engages
+this **exact** question head-on. His preferred explanation is more radical than the standard
+"round number" harmonization: Paul may simply not have known the Judas-betrayal/suicide tradition
+at all (only Matthew's Gospel records it) — a real historical disjunction between the pre-Pauline
+creedal tradition and the later Gospel narrative, not just a loose title.
+
+Required a mid-note ellipsis join for the GILL excerpt (dropped two off-tension cross-reference
+sentences about *which* appearance is meant) but no leading ellipsis, since the excerpt's start
+point ("then of the twelve;") is GILL's own natural lemma-break after a semicolon, not a
+mid-sentence cut. No allowlisted `link` found despite real effort: WebSearch/WebFetch/curl rounds
+on `gotquestions.org` (`/twelve-apostles-disciples-12.html`, `/Matthias-Judas-Paul.html`) and
+`carm.org` (`/evidence-and-answers/an-analysis-of-the-pre-pauline-creed-in-1-corinthians-151-11/`,
+raw-curled and grepped for "twelve" — zero hits) all confirmed live but NOT on this specific
+tension; `link: null`, per the id-407/440 precedent of not stretching an off-topic allowlisted
+page into a citation. Dry-run bake (`DRY_RUN=1 IDS=569`) gave the standard two pre-T9/T10
+violations (`note_present`, `parity_count`) and the new excerpt passed `verifyExcerpts.py` (the
+run's 3 unrelated FAILs were pre-existing issues on ids 537/542/563, not 569) — normal/expected,
+not a bug.

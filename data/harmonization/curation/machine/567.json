@@ -1,0 +1,56 @@
+{
+  "contradiction_id": 567,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators have long proposed Matthew named the scroll by its lead book, Jeremiah, or blended Zechariah's oracle with Jeremiah's own potter and field imagery.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "filled",
+      "connective": "Even the staunchly harmonizing Keil and Delitzsch could not close the gap, conceding the only options left were a lapse of Matthew's memory or an ancient copyist's error.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Matthew 27:9",
+      "excerpt_text": "Matthew might merely have been conforming to the Jewish custom of citing books by referring to the first book in the particular scroll—the first book in the scroll containing Zechariah would have been Jeremiah. Or, Matthew might have thought of similar passages in Jeremiah (Jer 19:1-13; 18:2-6; 32:6-15) along with Zech 11:12-13.",
+      "full_note_ref": "TYN/40/27/9",
+      "on_tension_rationale": "Directly proposes the two standard harmonizations for the Jeremiah/Zechariah attribution: a scroll-naming convention, and conflation with genuine Jeremiah potter/field passages.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "discrepancy",
+      "source_code": "KD",
+      "verse_ref": "Zechariah 11:14",
+      "excerpt_text": "If, therefore, it is impossible to show any connection between our prophecy and the prophecies of Jeremiah, there is no other course left than to follow the example of Luther, - namely, either to attribute the introduction of Jeremiah's name in Mat 27:9 in the place of that of Zechariah to a failure of memory, or to regard it as a very old copyist's error, of a more ancient date than any of the critical helps that have come down to us.",
+      "full_note_ref": "KD/38/11/14",
+      "on_tension_rationale": "Keil & Delitzsch's own concluding verdict: after testing and rejecting the standard harmonizing theories (including a supposed literary link to Jeremiah 18-19), they concede the naming problem can only be explained as Matthew's memory lapse or a scribal error.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Under 'Doctrinal Discrepancies' Haley sets Zechariah 11:12-13 against Matthew 27:9-10 as 'Original' and 'Wrongly referred,' opens by conceding 'here is obviously a mistake, either made by Matthew or by subsequent transcribers,' then surveys the harmonizing options: Alford's quoted-from-memory view, Barnes's order-of-the-prophets and name-abridgment theories, and Henderson's view that the Greek text itself has been corrupted."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Matthew-27-9-Jeremiah-Zechariah.html",
+        "domain": "gotquestions.org",
+        "title": "Why does Matthew 27:9 attribute the prophecy to Jeremiah when it is from Zechariah? | GotQuestions.org",
+        "note": "live apologetic treatment surveying the scroll-naming, composite-quotation, and scribal-error explanations"
+      }
+    }
+  }
+}

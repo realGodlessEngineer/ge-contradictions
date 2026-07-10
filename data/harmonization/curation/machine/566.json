@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 566,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry suggests both evangelists abridged a fuller sermon differently, so the differing beatitude counts reflect selection, not eyewitness conflict.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman argues the wording and beatitude count differ because Matthew assembled scattered sayings into one sermon Jesus likely never delivered as such.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "\"Did Jesus Give the Sermon on the Mount?\" (The Bart Ehrman Blog)",
+        "year": "2022",
+        "attribution": "Bart D. Ehrman, \"Did Jesus Give the Sermon on the Mount?\", The Bart Ehrman Blog (Oct. 26, 2022)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Luke 6:20",
+      "excerpt_text": "Some think that this was preached at some other time and place, and there are other instances of Christ's preaching the same things, or to the same purport, at different times; but it is probable that this is only the evangelist's abridgment of that sermon, and perhaps that in Matthew too is but an abridgment; the beginning and the conclusion are much the same; and the story of the cure of the centurion's servant follows presently upon it, both there and here, but it is not material.",
+      "full_note_ref": "MHC/42/6/20",
+      "on_tension_rationale": "MHC directly proposes the abridgment/two-account harmonization for why Luke's beatitude set differs in number and content from Matthew's, addressing the row's core numerical/content tension head-on.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714)",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats Luke's Sermon on the Plain as either a distinct occasion or an evangelist's abridgment of the same discourse Matthew records, addressing the beatitude-count and content differences directly (on Luke 6:20)."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Luke_6.20_(cf._MATT._5.3).php",
+        "domain": "defendinginerrancy.com",
+        "title": "Luke 6:20 (cf. Matt. 5:3)—Why does Luke's version of the Beatitudes differ from those in Matthew?",
+        "note": "live apologetics page addressing this exact number/content divergence"
+      }
+    }
+  }
+}

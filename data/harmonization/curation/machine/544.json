@@ -1,0 +1,65 @@
+{
+  "contradiction_id": 544,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read \"firstborn\" as a title of rank and endearment reused for different beloved parties, not a single exclusive slot filled three times.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible lists Israel, Ephraim, and Jesus side by side as three flatly incompatible answers to one question.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/firstborn.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Exodus 4:22",
+      "excerpt_text": "Israel is my son, even my firstborn - That is, The Hebrew people are unutterably dear to me.",
+      "full_note_ref": "CLARKE/2/4/22",
+      "on_tension_rationale": "Glosses 'firstborn' at its anchor verse as a term of supreme endearment rather than a claim of unique chronological status, the premise the whole harmonization rests on.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Jeremiah 31:9",
+      "excerpt_text": "Ephraim--the ten tribes no longer severed from Judah, but forming one people with it.\nmy first-born-- (Exo 4:22; Hos 11:1; Rom 9:4). So the elect Church (Co2 6:18; Jam 1:18).",
+      "full_note_ref": "JFB/24/31/9",
+      "on_tension_rationale": "Explicitly cross-references Exodus 4:22 and extends the same title forward to 'the elect Church,' treating Ephraim's designation as one continuous reuse of Israel's title rather than a rival claim.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Colossians 1:15",
+      "excerpt_text": "Firstborn does not mean he was created; it is a title, drawn from the Old Testament, indicating supremacy of rank and priority in time (see, e.g., Ps 89:27).",
+      "full_note_ref": "TYN/51/1/15",
+      "on_tension_rationale": "States directly that Christ's 'firstborn' is an Old-Testament-derived title of rank/priority rather than a birth-order claim, the pivot that keeps the NT usage from competing with the OT usage.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Jeremiah 31:9",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB's note on Jeremiah 31:9 explicitly cross-references Exodus 4:22, Hosea 11:1, and Romans 9:4, and extends the same title to 'the elect Church,' treating the recurring 'firstborn' designation as one continuous line rather than competing claims. Haley's An Examination of the Alleged Discrepancies of the Bible (1874) does not treat this passage — confirmed by a full-text search of the archive.org OCR text for 'firstborn'/'first-born' near Exodus 4:22 and Jeremiah 31, no relevant hits."
+      },
+      "link": null
+    }
+  }
+}

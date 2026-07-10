@@ -1,0 +1,50 @@
+{
+  "contradiction_id": 544,
+  "question": "Who was God's firstborn son?",
+  "summary": "The Bible designates three different figures as God's firstborn. Exodus 4:22 calls Israel God's firstborn son. Jeremiah 31:9 says it is Ephraim. Romans 8:29 and Colossians 1:15 transfer the title to Jesus. The label is supposed to mark a unique, singular status, but it gets reassigned across the canon.",
+  "consensus": "probable_harmonization",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Commentators read \"firstborn\" as a title of rank and endearment reused for different beloved parties, not a single exclusive slot filled three times.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells's Skeptic's Annotated Bible lists Israel, Ephraim, and Jesus side by side as three flatly incompatible answers to one question.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "Skeptic's Annotated Bible",
+      "year": "1999",
+      "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/firstborn.html"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Jeremiah 31:9",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB's note on Jeremiah 31:9 explicitly cross-references Exodus 4:22, Hosea 11:1, and Romans 9:4, and extends the same title to 'the elect Church,' treating the recurring 'firstborn' designation as one continuous line rather than competing claims. Haley's An Examination of the Alleged Discrepancies of the Bible (1874) does not treat this passage — confirmed by a full-text search of the archive.org OCR text for 'firstborn'/'first-born' near Exodus 4:22 and Jeremiah 31, no relevant hits."
+      },
+      "link": null
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "544#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Exodus 4:22",
+      "full_note_ref": "CLARKE/2/4/22",
+      "excerpt_text": "Israel is my son, even my firstborn - That is, The Hebrew people are unutterably dear to me.",
+      "on_tension_rationale": "Glosses 'firstborn' at its anchor verse as a term of supreme endearment rather than a claim of unique chronological status, the premise the whole harmonization rests on.",
+      "source_note_text": "Israel is my son, even my firstborn - That is, The Hebrew people are unutterably dear to me."
+    }
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "contradiction_id": 541,
+  "question": "Were the men with Paul knocked to the ground?",
+  "summary": "Acts gives three accounts of Paul's Damascus road encounter and they don't line up. In Acts 26:14 Paul tells Agrippa everyone in the party fell to the ground. In Acts 9:7 the narrator reports that Paul's companions stood speechless. Same author, same event, two physically incompatible postures.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "John Gill reads 'stood' as describing their frozen immobility rather than an upright posture, so it need not exclude an initial fall.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Bart Ehrman presses the plain conflict: in Acts 9 the companions stand while Paul falls; in Acts 26 they are all knocked down.",
+    "skeptic": {
+      "name": "Bart D. Ehrman",
+      "work": "\"The Book of Acts Is Not Reliable! The Negative Case,\" The Bart Ehrman Blog",
+      "year": "2024",
+      "attribution": "Bart D. Ehrman, \"The Book of Acts Is Not Reliable! The Negative Case,\" The Bart Ehrman Blog (March 20, 2024)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63)",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill's note on Acts 9:7 directly addresses this tension, arguing that 'stood speechless' describes immobility rather than an upright posture and so is compatible with having fallen at Acts 26:14."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "541#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Acts 9:7",
+      "full_note_ref": "GILL/44/9/7",
+      "excerpt_text": "stood speechless: astonished and amazed, they had not power to speak one word, nor to rise from the ground, and move one step forward; they were as if they were thunderstruck, and fastened to the earth; for this standing is not opposed to their being fallen to the earth, but to their going forward, and only expresses the surprise and stupidity that had seized them …",
+      "on_tension_rationale": "Gill explicitly ties Acts 9:7's 'stood speechless' to Acts 26:14's falling, arguing the standing describes immobility (not resuming an upright stance) and so does not conflict with having fallen.",
+      "source_note_text": "And the men which journeyed with him,.... Out of respect to him, to keep him company; or rather to assist him in his designs:\nstood speechless: astonished and amazed, they had not power to speak one word, nor to rise from the ground, and move one step forward; they were as if they were thunderstruck, and fastened to the earth; for this standing is not opposed to their being fallen to the earth, but to their going forward, and only expresses the surprise and stupidity that had seized them:\nhearing a voice, but seeing no man; that is, they heard the voice of Saul, saying, who art thou? and what wilt thou have me to do? but saw nobody that he spoke to, which surprised them; for it is certain they did not hear the voice of Christ, that spake to him, Act 22:9 or if they heard the voice of Christ, it was only the sound of his voice, but did not understand what he said; but the former seems rather to be the sense, and the best way of reconciling the two passages."
+    }
+  ]
+}

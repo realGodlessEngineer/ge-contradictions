@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 559,
+  "question": "Did Enoch die?",
+  "summary": "Hebrews 11:13 lists Abel, Enoch, Noah, Abraham, and Sarah and says \"these all died.\" Eight verses earlier the same chapter, Hebrews 11:5, explicitly says Enoch was translated so that he should not see death — echoing Genesis 5:24 where God simply took him. The same author appears to both deny and affirm Enoch's death within one chapter.",
+  "consensus": "apparent_only",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Clarke reads \"these all died\" as naming only Abraham, Sarah, Isaac, and Jacob — the cluster just discussed — not reaching back to include Enoch.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells's Skeptic's Annotated Bible presses the plain reading, bracketing Enoch's name into \"these all died\" as scripture's own verdict against Hebrews 11:5.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "Skeptic's Annotated Bible",
+      "year": null,
+      "attribution": "Steve Wells, Skeptic's Annotated Bible, \"Did Enoch Die?\" (skepticsannotatedbible.com/contra/enoch_die.html)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Hebrews 11:13",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, restricting the referent of 'these all died' to Abraham, Sarah, Isaac, and Jacob and thereby excluding Enoch."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/died-in-faith.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does \"these all died in faith\" mean (Hebrews 11:13)?",
+        "note": "live apologetic treatment of this exact tension, arguing Enoch is included in 'died in faith' as a spiritual category rather than a claim of literal death"
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "559#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Hebrews 11:13",
+      "full_note_ref": "CLARKE/58/11/13",
+      "excerpt_text": "These all died in faith - That is, Abraham, Sarah, Isaac, and Jacob, continued to believe, to the end of their lives, that God would fulfill this promise; but they neither saw the numerous seed, nor did they get the promised rest in Canaan.",
+      "on_tension_rationale": "Clarke glosses 'these all died' as referring specifically to Abraham, Sarah, Isaac, and Jacob, implicitly excluding Enoch (and Abel/Noah) from the death-claim, resolving the tension with Heb 11:5's exemption.",
+      "source_note_text": "These all died in faith - That is, Abraham, Sarah, Isaac, and Jacob, continued to believe, to the end of their lives, that God would fulfill this promise; but they neither saw the numerous seed, nor did they get the promised rest in Canaan.\nStrangers and pilgrims - Strangers, ξενοι, persons who are out of their own country, who are in a foreign land: pilgrims, παρεπιδημοι, sojourners only for a time; not intending to take up their abode in that place, nor to get naturalized in that country.\nHow many use these expressions, professing to be strangers and pilgrims here below, and yet the whole of their conduct, spirit, and attachments, show that they are perfectly at home! How little consideration and weight are in many of our professions, whether they relate to earth or heaven!"
+    }
+  ]
+}

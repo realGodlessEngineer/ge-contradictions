@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 561,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Keil & Delitzsch concede the biology but argue Moses spoke in the popular idiom, describing how the animals appear to chew rather than true anatomy.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the same point empirically: hares and coneys are not ruminants and simply do not chew the cud, whatever the text claims.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, Leviticus 11 (\"Science\" note on the hare and coney)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013; online edition skepticsannotatedbible.com/lev/11.html), noting hares and coneys 'are not ruminants and they do not chew the cud'"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Leviticus 11:6",
+      "excerpt_text": "It is true that modern naturalists affirm that the two latter do not ruminate at all, as they have not the four stomachs that are common to ruminant animals; but they move the jaw sometimes in a manner which looks like ruminating, so that even Linnaeus affirmed that the hare chewed the cud, and Moses followed the popular opinion.",
+      "full_note_ref": "KD/3/11/1",
+      "on_tension_rationale": "K&D concede directly, in their own words, that modern naturalists deny hares/hyraxes truly ruminate (no four-chambered stomach), then explain the text via phenomenological/popular language rather than technical zoology -- the single strongest, most explicit harmonization on this row, and it comes from a block-anchored note whose on-tension sentence sits deep in a general discussion of Lev 11:4-8.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament (1861-75), on Leviticus 11:4-6",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this exact passage directly, conceding that modern naturalists deny hares/hyraxes truly ruminate while defending Moses' wording as following 'popular opinion.' Used as the PD anchor because Haley's Alleged Discrepancies of the Bible (1874 text, checked by full-text search for 'cud', 'ruminant', 'hare', 'coney', 'Leviticus xi') has no dedicated treatment of this passage; K&D is a harmonizing commentator already surfaced on the row and keyed to the exact verse."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Leviticus_11.5-6.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in Leviticus 11:5-6?",
+        "note": "live apologetic treatment arguing the text describes a chewing motion observable to ancient eyes rather than modern ruminant physiology, citing the same Linnaeus point K&D make"
+      }
+    }
+  }
+}

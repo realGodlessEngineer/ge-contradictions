@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 530,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the two counts by location: many of the 500 who saw the risen Christ in Galilee never traveled to the Jerusalem vigil.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible lists the two totals as contradictory answers to the same question, without the Galilee/Jerusalem split harmonizers propose.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"How many believers were there at the time of the ascension?\" (skepticsannotatedbible.com/contra/believers.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/believers.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Acts 1:15",
+      "excerpt_text": "the number . . . about an hundred and twenty--Many, therefore, of the \"five hundred brethren\" who saw their risen Lord \"at once\" (Co1 15:6), must have remained in Galilee.",
+      "full_note_ref": "JFB/44/1/15",
+      "on_tension_rationale": "Directly bridges both verses: reads Acts 1:15's 120 as the Jerusalem remnant while explicitly citing 1 Cor 15:6's '500 brethren at once' and locating that appearance in Galilee, explaining the numeric gap as geography rather than a headcount error.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Acts 1:15",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB's own note on Acts 1:15 (already the reconcile pole's excerpt) is the harmonizing treatment of this exact numeric pair. Haley's An Examination of the Alleged Discrepancies of the Bible (1874) does not treat this passage — confirmed by a full-text search of the archive.org OCR text for 'hundred and twenty,' 'five hundred brethren,' 'Acts i. 15,' and '1 Cor. xv. 6,' all zero hits."
+      },
+      "link": null
+    }
+  }
+}

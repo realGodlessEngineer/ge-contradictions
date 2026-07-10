@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 550,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Clarke concedes readers often apply this warning to marrying an unconverted person, but insists that is not Paul's actual point here, keeping it distinct from his counsel to remain in an existing mixed marriage.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Hans Dieter Betz argues the separatist passage is not Paul's at all: its unusual vocabulary, Qumran-style light/darkness dualism and 'Beliar,' and the seam where 6:13 runs straight on into 7:2 mark 2 Corinthians 6:14-7:1 as a non-Pauline fragment later inserted into the letter.",
+      "skeptic": {
+        "name": "Hans Dieter Betz",
+        "work": "\"2 Cor 6:14-7:1: An Anti-Pauline Fragment?\" Journal of Biblical Literature 92",
+        "year": "1973",
+        "attribution": "Hans Dieter Betz, \"2 Cor 6:14-7:1: An Anti-Pauline Fragment?\" Journal of Biblical Literature 92 (1973): 88-108"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "2 Corinthians 6:14",
+      "excerpt_text": "Some apply this exhortation to pious persons marrying with those who are not decidedly religious, and converted to God. That the exhortation may be thus applied I grant; but it is certainly not the meaning of the apostle in this place.",
+      "full_note_ref": "CLARKE/47/6/14",
+      "on_tension_rationale": "Clarke explicitly considers whether the 'unequally yoked' warning targets marriage and concludes that is not Paul's meaning in this passage, distinguishing it from the existing-marriage counsel of 1 Cor 7:12-14.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832)",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats 2 Corinthians 6:14 directly, weighing (and rejecting as Paul's primary sense) the common reading that applies it to marrying an unconverted person, keeping it distinct from his own harmonizing note on 1 Corinthians 7:12-14's counsel to remain in an existing mixed marriage."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/married-unbeliever.html",
+        "domain": "gotquestions.org",
+        "title": "What should a Christian do if he or she is married to an unbeliever?",
+        "note": "Cites both 1 Corinthians 7:12-14 and 2 Corinthians 6:14-15, advising a believer already married to an unbeliever to remain in the marriage rather than separate."
+      }
+    }
+  }
+}

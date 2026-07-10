@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 559,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Clarke reads \"these all died\" as naming only Abraham, Sarah, Isaac, and Jacob — the cluster just discussed — not reaching back to include Enoch.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses the plain reading, bracketing Enoch's name into \"these all died\" as scripture's own verdict against Hebrews 11:5.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": null,
+        "attribution": "Steve Wells, Skeptic's Annotated Bible, \"Did Enoch Die?\" (skepticsannotatedbible.com/contra/enoch_die.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Hebrews 11:13",
+      "excerpt_text": "These all died in faith - That is, Abraham, Sarah, Isaac, and Jacob, continued to believe, to the end of their lives, that God would fulfill this promise; but they neither saw the numerous seed, nor did they get the promised rest in Canaan.",
+      "full_note_ref": "CLARKE/58/11/13",
+      "on_tension_rationale": "Clarke glosses 'these all died' as referring specifically to Abraham, Sarah, Isaac, and Jacob, implicitly excluding Enoch (and Abel/Noah) from the death-claim, resolving the tension with Heb 11:5's exemption.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Hebrews 11:13",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly, restricting the referent of 'these all died' to Abraham, Sarah, Isaac, and Jacob and thereby excluding Enoch."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/died-in-faith.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does \"these all died in faith\" mean (Hebrews 11:13)?",
+        "note": "live apologetic treatment of this exact tension, arguing Enoch is included in 'died in faith' as a spiritual category rather than a claim of literal death"
+      }
+    }
+  }
+}

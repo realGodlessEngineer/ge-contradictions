@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 556,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read 2 John's shun-command as aimed at heretical propagandists seeking a platform, not the honest outside inquirers 1 Peter and Colossians tell believers to answer.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's SAB captions the shunning texts \"Shun the profane, vain babblings of nonbelievers,\" reading them as addressed to outsiders generally, not just false teachers.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Should believers discuss their faith with nonbelievers?\" (skepticsannotatedbible.com/contra/discuss.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Should believers discuss their faith with nonbelievers?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "2 John 1:11",
+      "excerpt_text": "But what St. John says here does not mean that we should deny such the common offices of humanity, charity, and mercy. No. In these offices we are equally bound to all men; far less does it intimate that we should persecute such on account of their heretical or heterodox sentiments.",
+      "full_note_ref": "CLARKE/63/1/11",
+      "on_tension_rationale": "Clarke explicitly denies that 2 John's non-reception rule cancels ordinary human engagement with such people, directly answering the apparent clash with 1 Peter 3:15/Col 4:5-6's command to engage outsiders.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "2 John 1:10",
+      "excerpt_text": "Doubtless such may be relieved in their pressing necessities, but not encouraged for ill service.",
+      "full_note_ref": "MHC/63/1/10",
+      "on_tension_rationale": "Henry separates basic charity toward the false teacher (still owed) from doctrinal endorsement of him (withheld), which is the exact distinction the harmonization needs.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Timothy 6:20",
+      "excerpt_text": "avoiding profane and vain babblings; about the law, and circumcision, and other things, which the false teachers insisted much on, and amused their hearers with; and which were vain, empty, useless, and unprofitable talk.",
+      "full_note_ref": "GILL/54/6/20",
+      "on_tension_rationale": "Gill glosses 'vain babblings' as the false teachers' own disputes over law and circumcision, not the general apologetic conversation with genuine inquirers that 1 Peter 3:15 commands.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714)",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "John Haley's Alleged Discrepancies (1874) does not treat this passage cluster (checked against the full digitized text: no entries for 2 John, 'babbling', 'shun', or Colossians 4). Henry's note on 2 John 1:10 directly draws the reconciling line the contradiction turns on: false teachers 'may be relieved in their pressing necessities, but not encouraged for ill service.'"
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/2_John_10.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in 2 John 10?",
+        "note": "Live apologetic treatment arguing 2 John 10 targets itinerant false teachers specifically (not outsiders/nonbelievers generally), so withholding hospitality from them does not cancel NT commands to engage and love outsiders."
+      }
+    }
+  }
+}

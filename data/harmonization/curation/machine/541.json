@@ -1,0 +1,46 @@
+{
+  "contradiction_id": 541,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "John Gill reads 'stood' as describing their frozen immobility rather than an upright posture, so it need not exclude an initial fall.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman presses the plain conflict: in Acts 9 the companions stand while Paul falls; in Acts 26 they are all knocked down.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "\"The Book of Acts Is Not Reliable! The Negative Case,\" The Bart Ehrman Blog",
+        "year": "2024",
+        "attribution": "Bart D. Ehrman, \"The Book of Acts Is Not Reliable! The Negative Case,\" The Bart Ehrman Blog (March 20, 2024)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Acts 9:7",
+      "excerpt_text": "stood speechless: astonished and amazed, they had not power to speak one word, nor to rise from the ground, and move one step forward; they were as if they were thunderstruck, and fastened to the earth; for this standing is not opposed to their being fallen to the earth, but to their going forward, and only expresses the surprise and stupidity that had seized them …",
+      "full_note_ref": "GILL/44/9/7",
+      "on_tension_rationale": "Gill explicitly ties Acts 9:7's 'stood speechless' to Acts 26:14's falling, arguing the standing describes immobility (not resuming an upright stance) and so does not conflict with having fallen.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63)",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill's note on Acts 9:7 directly addresses this tension, arguing that 'stood speechless' describes immobility rather than an upright posture and so is compatible with having fallen at Acts 26:14."
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 555,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Jamieson, Fausset & Brown read the two verses as complementary, not contradictory, since Paul uses a different Greek word for \"burden\" in each.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible lists the two verses as a flat Yes/No contradiction to the question \"Should we bear each other's burdens?\"",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/burden.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Galatians 6:5",
+      "excerpt_text": "This verse does not contradict Gal 6:2. There he tells them to bear with others' \"burdens\" of infirmity in sympathy; here, that self-examination will make a man to feel he has enough to do with \"his own load\" of sin, without comparing himself boastfully with his neighbor.",
+      "full_note_ref": "JFB/48/6/5",
+      "on_tension_rationale": "Directly denies the contradiction between 6:2 and 6:5 and explains the different senses ('burdens' of infirmity borne in sympathy vs. one's own 'load' of sin) behind the two occurrences of 'burden.'",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pair under the heading 'Burdens' (parallel columns 'Must bear others' burdens' / 'Bear our own burdens'), stating: 'The original word for \"burden\" is not the same in the two cases... The first text means, \"Be sympathetic and helpful to each other in the midst of infirmities and sorrows\"; the second, \"Every man must bear his own responsibility, under the Divine government.\"'"
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Galatians_6.5.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Galatians 6:5—Are we to bear other's burdens or our own?",
+        "note": "live apologetic treatment making the same lexical-distinction argument (different Greek word for 'burden' in each verse)"
+      }
+    }
+  }
+}

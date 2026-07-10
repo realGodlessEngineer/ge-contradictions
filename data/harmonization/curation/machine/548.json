@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 548,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The clearest resolution: apostles and prophets are foundations only in a secondary, ministerial sense, while Christ remains the sole true Foundation.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible reads the two texts as flatly opposed: one names Jesus alone as foundation, the other names the apostles and prophets.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Foundation of the Church\" (skepticsannotatedbible.com/contra/foundation.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/foundation.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Ephesians 2:20",
+      "excerpt_text": "Christ Himself, the only true Foundation, was the grand subject of their ministry, and spring of their life. As one with Him and His fellow workers, they, too, in a secondary sense, are called \"foundations\" (Rev 21:14).",
+      "full_note_ref": "JFB/49/2/20",
+      "on_tension_rationale": "JFB directly answers the tension by grading two senses of 'foundation': Christ alone is the only true Foundation (matching 1 Cor 3:11's exclusivity), while the apostles/prophets are called 'foundations' only in a secondary, derivative sense (explaining Eph 2:20's wording).",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pairing under the heading 'The Foundation. Men are foundations.' (pp. 129-130): he argues the Ephesians phrase does not mean the apostles and prophets were themselves the foundation, but rather 'the foundation which pertained to them, — their foundation' (citing Meyer, Ellicott, Alford, and Bucer to the same effect), while Christ remains 'after all, the deep substructure, the foundation, of the church itself.'"
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/1_Corinthians_3.11.php",
+        "domain": "defendinginerrancy.com",
+        "title": "1 Corinthians 3:11—Who is the foundation of the church, Christ or the apostles?",
+        "note": "live apologetic treatment; states the same primary/secondary-sense distinction as Haley and JFB (\"Christ is the foundation in a primary sense, and His chosen apostles are the foundation in a secondary sense\")."
+      }
+    }
+  }
+}

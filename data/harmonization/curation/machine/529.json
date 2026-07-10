@@ -1,0 +1,56 @@
+{
+  "contradiction_id": 529,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read Luke's \"all\" as summarizing the main substance of Jesus's ministry, not an exhaustive inventory — the same limitation John himself concedes.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible lists these as a flat Yes/No contradiction, reading Luke's \"all\" against John's own admission that much went unrecorded.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/everything.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Acts 1:1",
+      "excerpt_text": "The four evangelists, and Luke particularly, have handed down to us all that Jesus began both to do and to teach; not all the particulars - the world could not have contained them; but all the heads, samples of all, so many, and in such variety, that by them we may judge of the rest.",
+      "full_note_ref": "MHC/44/1/1",
+      "on_tension_rationale": "Directly bridges both verses: explains Acts 1:1's 'all' as covering only 'the heads, samples of all' rather than every particular, explicitly invoking that 'the world could not have contained' a literal full record — echoing John 21:25's own wording.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Acts 1:2",
+      "excerpt_text": "The historian suggests, that his former treatise took in the main and principal things Jesus did and taught, until such time that he ascended to heaven:",
+      "full_note_ref": "GILL/44/1/2",
+      "on_tension_rationale": "Independently glosses Luke's opening 'all' as only 'the main and principal things' Jesus did and taught, not an exhaustive record — same harmonizing move as MHC, distinct voice and verse.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714), on Acts 1:1",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry's own note on Acts 1:1 (already the reconcile pole's primary excerpt) reconciles Luke's 'all' with John 21:25's admission that the world could not contain a full record. Haley's An Examination of the Alleged Discrepancies of the Bible (1874) does not treat this passage — confirmed by a full-text search of the archive.org OCR text for 'former treatise,' 'Theophilus,' 'world itself,' 'could not contain,' and 'many other things,' all zero hits."
+      },
+      "link": null
+    }
+  }
+}

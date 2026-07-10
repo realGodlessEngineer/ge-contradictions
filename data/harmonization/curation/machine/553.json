@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 553,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the divine \"blinding\" as God's withdrawal of grace and judicial permission for Satan to act, folding John, 2 Corinthians, and 2 Thessalonians into one act of righteous judgment.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses this as a flat contradiction: God blinds and deludes unbelievers in John and 2 Thessalonians, while Satan does the blinding in 2 Corinthians.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/force.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "John 12:37",
+      "excerpt_text": "There is a righteous hand of God sometimes to be acknowledged in the blindness and obstinacy of those who persist in impenitency and unbelief, by which they are justly punished for their former resistance of the divine light and rebellion against the divine law. If God withhold abused grace, and give men over to indulged lusts, - if he permit the evil spirit to do his work on those that resisted the good Spirit, - and if in his providence he lay stumbling-blocks in the way of sinners, which confirm their prejudices, then he blinds their eyes, and hardens their hearts, and these are spiritual judgments, like the giving up of idolatrous Gentiles to vile affections, and degenerate Christians to strong delusions.",
+      "full_note_ref": "MHC/43/12/37",
+      "on_tension_rationale": "Matthew Henry's gloss on 'he hath blinded their eyes' (John 12:40) explicitly folds Satan ('the evil spirit') acting as executor and the 'strong delusions' language of 2 Thessalonians into a single judicial-permission framework, directly bridging all three cited passages.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), pp. 89-92 and pp. 99-101",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats John 12:40 directly under 'Hardens men's hearts' vs. 'They harden their own hearts' (pp. 89-92), quoting the verse in full and citing Barnes's judicial-permission reading ('God suffers the truth to produce a regular effect on sinful minds, without putting forth any positive supernatural influence to prevent it ... the evangelist says, \"He hath blinded their minds\"'). A few pages later he treats 2 Thessalonians 2:9-12 directly (pp. 99-101, under 'Denounces deception' vs. 'Sanctions it'), quoting the passage and citing Alford's 'he is the judicial sender and doer; it is he who hardens the heart which has chosen the evil way' and Ellicott's 'judicial infatuation' gloss — the same judicial-permission framework used by the row's reconcile excerpt. Confirmed via full-text search of the archive.org OCR (examinationofall00hale_djvu.txt) that Haley does not separately treat 2 Corinthians 4:3-4 (no chapter-4 entry appears in the book's 2 Corinthians index)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/blinded-the-minds-of-unbelievers.html",
+        "domain": "gotquestions.org",
+        "title": "What does it mean that the god of this age has blinded the minds of unbelievers (2 Corinthians 4:4)? | GotQuestions.org",
+        "note": "Live apologetic treatment of 2 Corinthians 4:4 specifically; states God is ultimately in control and 'allows Satan to operate in this world and take unbelievers captive to do his will' — the same permission framing as the row's reconcile pole — though it does not itself cross-reference John 12:40 or 2 Thessalonians 2:11-12."
+      }
+    }
+  }
+}

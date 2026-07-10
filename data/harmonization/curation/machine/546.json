@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 546,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read two senses of 'pleasing': serving others' good and edification is commanded, while flattering men to escape offense or corrupt the gospel is condemned.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells' Skeptic's Annotated Bible pairs Romans 15:2 and 1 Corinthians 10:33's 'please all men' against Galatians 1:10's flat denial as a Yes/No contradiction.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Should we try to please others?\" (skepticsannotatedbible.com/contra/please.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/please.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Galatians 1:10",
+      "excerpt_text": "There is indeed a pleasing of men, which is right, and which the apostle elsewhere recommends, and was in the practice of himself; see Rom 15:2. This proceeds from right principles, by proper ways and means, and to right ends, the glory of God, the good, profit, edification, and salvation of men; and there is a pleasing of men that is wrong, which is done by dropping, concealing, or corrupting the doctrines of the Gospel, to gain the affection and applause of men …",
+      "full_note_ref": "GILL/48/1/10",
+      "on_tension_rationale": "Gill explicitly cross-references Rom 15:2 while glossing Gal 1:10, drawing the right/wrong-pleasing distinction that is the standard harmonization for this exact triad.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Galatians 1:10",
+      "excerpt_text": "These he knew were utterly inconsistent, and that no man could serve two such masters; and therefore, though he would not needlessly displease any, yet he dared not allow himself to gratify men at the expense of his faithfulness to Christ.",
+      "full_note_ref": "MHC/48/1/10",
+      "on_tension_rationale": "Distinct voice restating the same distinction in different terms: 'not needlessly displease any' (compatible with Rom 15:2/1 Cor 10:33) vs. 'gratify men at the expense of faithfulness to Christ' (what Gal 1:10 forbids).",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Corinthians 10:32",
+      "excerpt_text": "The apostle sets himself as an example, though he was far from being a man pleaser, in the bad sense of that phrase; nor must these all things, in which he is said to please all men, be taken in the largest sense; but are to be understood of things indifferent, which might be done or avoided, without breaking the law of or contradicting the Gospel of Christ, or any of its rules and ordinances, to all which the apostle was inviolably attached; nor did he in these things seek to please men, but in all to act the part of a faithful servant of Christ, and steward of the mysteries of grace; see Co1 9:19.",
+      "full_note_ref": "GILL/46/10/32",
+      "on_tension_rationale": "Answers the 1 Cor 10:33 side of the triad directly: 'please all men in all things' is glossed as things indifferent, not the man-pleasing Gal 1:10 condemns, and even echoes Gal 1:10's own 'servant of Christ' language.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Galatians 1:10",
+        "author": "John Gill",
+        "year": "1746-63",
+        "note": "Gill's note on Galatians 1:10 treats this exact tension directly, explicitly cross-referencing Romans 15:2 and distinguishing a right pleasing of men (for their edification) from the wrong pleasing (compromising the gospel) that Galatians 1:10 forbids."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic allowlisted apologetics page could be confirmed; gotquestions.org's page on Galatians 1:10 (bondservant-of-Christ.html) covers the verse but does not address the Romans 15:2 / 1 Corinthians 10:33 tension, so it was omitted rather than force a partial match."
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 536,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "JFB reads the Jerusalem decree as a matter of expediency — meant to avoid offending weaker brethren — rather than a claim that idol-meat is inherently wrong, so it still agrees with Paul's own \"indifferent in themselves.\"",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Critical historian Gerd Lüdemann presses harder: Luke's Apostolic Decree is a later literary construction, and Paul's own letters, silent on any such decree even while addressing idol meat directly, show no awareness of it.",
+      "skeptic": {
+        "name": "Gerd Lüdemann",
+        "work": "The Acts of the Apostles: What Really Happened in the Earliest Days of the Church",
+        "year": "2005",
+        "attribution": "Gerd Lüdemann, The Acts of the Apostles: What Really Happened in the Earliest Days of the Church (Amherst, NY: Prometheus, 2005)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "1 Corinthians 8:7",
+      "excerpt_text": "It was on the ground of Christian expediency, not to cause a stumbling-block to \"weak\" brethren, that the Jerusalem decree against partaking of such meats (though indifferent in themselves) was passed (Acts 15:1-29). Hence he here vindicates it against the Corinthian asserters of an inexpedient liberty.",
+      "full_note_ref": "JFB/46/8/7",
+      "on_tension_rationale": "Directly reconciles Acts 15's decree with Paul's 'indifferent' teaching in 1 Cor 8 by reading the decree as a pastoral concession against giving offense, not a doctrinal claim that idol meat is intrinsically wrong.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on 1 Corinthians 8:7",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats this exact pairing directly at 1 Cor 8:7, reading the Acts 15 decree as an expediency measure rather than a claim that idol-meat is intrinsically defiling — harmonizing it with Paul's 'indifferent in themselves.' (Haley's Alleged Discrepancies has no section keyed to this Acts 15/1 Cor 8 pairing; its only 'Idol-meats' heading, p. 249, treats the internal 1 Cor 8/10 tension instead.)"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Paul-Jerusalem-Council-food-sacrificed-idols.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Did Paul contradict the Jerusalem Council by telling people that they can eat food sacrificed to idols?",
+        "note": "live apologetic treatment of this exact question, confirmed reachable"
+      }
+    }
+  }
+}

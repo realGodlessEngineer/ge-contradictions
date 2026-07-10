@@ -1,0 +1,49 @@
+{
+  "contradiction_id": 554,
+  "question": "Did Paul visit all of the disciples when he went to Jerusalem after his conversion?",
+  "summary": "Acts 9:26-28 has Paul, after his conversion, mingling freely with the disciples in Jerusalem, going in and out among them. Paul's own first-person account in Galatians 1:18-19 says he went to Jerusalem only after three years, stayed fifteen days with Peter, and saw none of the other apostles except James the Lord's brother. Acts and Paul disagree on both the timeline and the breadth of the meeting.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "JFB explains that Luke's general term \"apostles\" is satisfied by the two individuals Paul names — Peter and James — so history and epistle agree.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Bart Ehrman argues Luke's \"the apostles\" reflects his unity agenda, against Paul's insistence he saw only Peter and James.",
+    "skeptic": {
+      "name": "Bart D. Ehrman",
+      "work": "\"After Paul Converted... Does the Book of Acts Contradict Paul Himself?\", The Bart Ehrman Blog",
+      "year": "2023",
+      "attribution": "Bart D. Ehrman, \"After Paul Converted... Does the Book of Acts Contradict Paul Himself?\" The Bart Ehrman Blog (June 28, 2023)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on Acts 9:27",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly: the 'apostles' Barnabas brought Saul to are identified as Peter and James specifically, citing Galatians 1:19, and Paul's fifteen-day stay of Galatians 1:18 is folded into the same visit narrated in Acts 9:26-28."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "554#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Galatians 1:19",
+      "full_note_ref": "JFB/48/1/19",
+      "excerpt_text": "Compare Act 9:27-28, wherein Luke, as an historian, describes more generally what Paul, the subject of the history, himself details more particularly. The history speaks of \"apostles\"; and Paul's mention of a second apostle, besides Peter, reconciles the Epistle and the history.",
+      "on_tension_rationale": "Directly reconciles Acts' plural 'the apostles' with Galatians' naming of exactly two — Peter and James — as the same visit described at different levels of generality.",
+      "source_note_text": "Compare Act 9:27-28, wherein Luke, as an historian, describes more generally what Paul, the subject of the history, himself details more particularly. The history speaks of \"apostles\"; and Paul's mention of a second apostle, besides Peter, reconciles the Epistle and the history. At Stephen's martyrdom, and the consequent persecution, the other ten apostles, agreeably to Christ's directions, seem to have soon (though not immediately, Act 8:14) left Jerusalem to preach elsewhere. James remained in charge of the mother church, as its bishop. Peter, the apostle of the circumcision, was present during Paul's fifteen days' stay; but he, too, presently after (Act 9:32), went on a circuit through Judea.\nJames, the Lord's brother--This designation, to distinguish him from James the son of Zebedee, was appropriate while that apostle was alive. But before Paul's second visit to Jerusalem (Gal 2:1; Act 15:1-4), he had been beheaded by Herod (Act 12:2). Accordingly, in the subsequent mention of James here (Gal 2:9, Gal 2:12), he is not designated by this distinctive epithet: a minute, undesigned coincidence, and proof of genuineness. James was the Lord's brother, not in our strict sense, but in the sense, \"cousin,\" or \"kinsman\" (Mat 28:10; Joh 20:17). His brethren are never called \"sons of Joseph,\" which they would have been had they been the Lord's brothers strictly. However, compare Psa 69:8, \"I am an alien to my mother's children.\" In Joh 7:3, Joh 7:5, the \"brethren\" who believed not in Him may mean His near relations, not including the two of His brethren, that is, relatives (James and Jude) who were among the Twelve apostles. Act 1:14, \"His brethren,\" refer to Simon and Joses, and others (Mat 13:55) of His kinsmen, who were not apostles. It is not likely there would be two pairs of brothers named alike, of such eminence as James and Jude; the likelihood is that the apostles James and Jude are also the writers of the Epistles, and the brethren of Jesus. James and Joses were sons of Alpheus and Mary, sister of the Virgin Mary."
+    }
+  ]
+}

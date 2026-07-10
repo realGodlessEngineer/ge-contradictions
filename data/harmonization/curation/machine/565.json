@@ -1,0 +1,64 @@
+{
+  "contradiction_id": 565,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the 'treasures of the snow' as figurative — God's readiness to act, not a literal stockpile — leaving Ecclesiastes' naturalistic water-cycle picture untouched.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The Skeptic's Annotated Bible (Steve Wells) flags Job 38:22's literal snow-and-hail warehouses as scientific absurdity next to Ecclesiastes' commonsense water cycle.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": null,
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (skepticsannotatedbible.com), entry on Job 38:22 (labeled Absurdity/Science/Contradiction)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Job 38:22",
+      "excerpt_text": "The idea in Job 38:22 is not that - as for instance the peasants of Menn, four hours' journey from Damascus, garner up the winter snow in a cleft of the rock, in order to convey it to Damascus and the towns of the coast in the hot months - God treasures up the snow and hail above to cause it to descend according to opportunity.",
+      "full_note_ref": "KD/18/38/22",
+      "on_tension_rationale": "Directly denies that Job 38:22's 'treasures' describe a literal stockpile, defusing the charge that the verse presents a naive storehouse cosmology at odds with Ecclesiastes' naturalistic water-cycle language.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Job 38:22",
+      "excerpt_text": "Now we are not to imagine that the Lord has stores of these laid up in heaps, in times past for time to come; but that he can and does as easily and as soon produce them when he pleases, as one that has treasures laid up can bring them forth at once.",
+      "full_note_ref": "GILL/18/38/22",
+      "on_tension_rationale": "Explicitly rejects a literal warehouse reading of 'treasures,' reading the verse as a figure for God's power rather than a rival cosmology to Ecclesiastes' water cycle.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Job 38:22",
+      "excerpt_text": "The treasures of the snow - The places where snow is formed, and the cause of that formation.",
+      "full_note_ref": "CLARKE/18/38/22",
+      "on_tension_rationale": "Glosses 'treasures' as ordinary meteorological locations (where snow forms) rather than a supernatural stockpile, aligning the verse with natural-process language.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "C. F. Keil and F. Delitzsch, Biblical Commentary on the Old Testament (1861-1875), on Job 38:22",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this exact verse directly, denying a literal storehouse and calling the design of the divine speech 'ethical, not scientific' — a harmonizing commentator already surfaced on the row."
+      }
+    }
+  }
+}

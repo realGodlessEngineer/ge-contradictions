@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 525,
+  "question": "Did any of the apostles ask Jesus where he was going?",
+  "summary": "In John 13:36 Peter explicitly asks Jesus, \"Lord, where are you going?\" Thomas asks essentially the same question in John 14:5. Then in John 16:5, Jesus says, \"none of you asks me, where are you going?\" — within the same Farewell Discourse. The Johannine author has Jesus deny that anyone has just asked him the question that two named disciples just asked him.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Harmonizers read Jesus's remark as a complaint that the disciples stopped pressing the question, not a denial that Peter and Thomas had ever asked it.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Raymond E. Brown reads 16:5 as a seam: written without 13:36 or 14:5 in view, evidence the Farewell Discourse stitches together separate source material.",
+    "skeptic": {
+      "name": "Raymond E. Brown",
+      "work": "The Gospel According to John XIII-XXI, Anchor Bible 29A",
+      "year": "1970",
+      "attribution": "Raymond E. Brown, The Gospel According to John XIII-XXI, Anchor Bible 29A (Doubleday, 1970), pp. 581-604, 710"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on John 16:5",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "John Haley's Examination of the Alleged Discrepancies of the Bible was checked (curl+grep of the full djvu text for 'whither goest', 'goest thou', 'none of you', 'asketh', 'xvi. 5', 'xiii. 36', 'xiv. 5') and shows no coverage of this specific Farewell Discourse question-and-denial crux. Falling back to JFB's own note on John 16:5, already surfaced on this row, which treats the passage directly and names both antecedent verses."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No live, on-topic allowlisted apologetics page confirmed despite real effort. defendinginerrancy.com/bible-solutions/John_16.5.php 404s; no gotquestions.org or carm.org page was found (via WebSearch and direct WebFetch attempts) that addresses the 13:36/14:5-vs-16:5 tension by name. Link omitted rather than guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "525#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "John 16:5",
+      "full_note_ref": "JFB/43/16/5",
+      "excerpt_text": "They had done so in a sort (Joh 13:36; Joh 14:5); but He wished more intelligent and eager inquiry on the subject.",
+      "on_tension_rationale": "JFB explicitly names both antecedent questions (13:36, 14:5) and reconciles 16:5 by reframing it as a complaint about insufficient follow-up, not a denial that they had spoken up at all.",
+      "source_note_text": "But now I go my way to him that sent me--While He was with them, the world's hatred was directed chiefly against Himself; but His departure would bring it down upon them as His representatives.\nand none of you asketh me, Whither goest thou?--They had done so in a sort (Joh 13:36; Joh 14:5); but He wished more intelligent and eager inquiry on the subject."
+    }
+  ]
+}

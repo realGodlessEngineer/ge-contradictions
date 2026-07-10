@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 540,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the two verbs as different senses of 'hear' — the men caught the sound but not the articulate words spoken to Saul alone.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses this as a flat contradiction: Acts 9:7 says the men heard the voice, Acts 22:9 says they did not.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/voice.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Acts 9:7",
+      "excerpt_text": "Paul himself says, \"they heard not the voice of Him that spake to me\" (Act 22:9). But just as \"the people that stood by heard\" the voice that saluted our Lord with recorded words of consolation and assurance, and yet heard not the articulate words, but thought \"it thundered\" or that some \"angel spake to Him\" (Joh 12:28-29) —so these men heard the voice that spake to Saul, but heard not the articulate words. Apparent discrepancies like these, in the different narratives of the same scene in one and the same book of Acts, furnish the strongest confirmation both of the facts themselves and of the book which records them.",
+      "full_note_ref": "JFB/44/9/7",
+      "on_tension_rationale": "JFB names both verses directly and resolves the tension by distinguishing 'hearing the voice' (as bare sound) from hearing 'the articulate words' (as intelligible speech), then frames the pair as a paradigm case of an 'apparent discrepancy' that corroborates rather than undermines Acts.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Acts 9:7",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "John Haley's Examination of the Alleged Discrepancies of the Bible was checked (curl-downloaded the full djvu text of archive.org/details/examinationofall00hale and grepped for 'Damascus', 'conversion of Saul'/'conversion of Paul', 'voice from heaven', 'Saul, Saul', 'persecutest thou me', and the Acts ix./xxii. roman-numeral citation forms) and shows no coverage of this specific hear/not-hear crux. Falling back to JFB's own note on Acts 9:7, already surfaced on this row as the reconcile excerpt, which treats the passage directly and draws the John 12:28-29 parallel."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Acts-9-7-22-9.html",
+        "domain": "gotquestions.org",
+        "title": "Why does Acts 9:7 say that those traveling with Paul heard a voice, but Acts 22:9 says that they heard no voice? | GotQuestions.org",
+        "note": "live apologetic treatment naming the Greek sound-vs-articulate-speech distinction, directly on this row's two verses"
+      }
+    }
+  }
+}

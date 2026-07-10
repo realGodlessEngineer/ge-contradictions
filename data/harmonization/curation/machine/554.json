@@ -1,0 +1,46 @@
+{
+  "contradiction_id": 554,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "JFB explains that Luke's general term \"apostles\" is satisfied by the two individuals Paul names — Peter and James — so history and epistle agree.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman argues Luke's \"the apostles\" reflects his unity agenda, against Paul's insistence he saw only Peter and James.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "\"After Paul Converted... Does the Book of Acts Contradict Paul Himself?\", The Bart Ehrman Blog",
+        "year": "2023",
+        "attribution": "Bart D. Ehrman, \"After Paul Converted... Does the Book of Acts Contradict Paul Himself?\" The Bart Ehrman Blog (June 28, 2023)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Galatians 1:19",
+      "excerpt_text": "Compare Act 9:27-28, wherein Luke, as an historian, describes more generally what Paul, the subject of the history, himself details more particularly. The history speaks of \"apostles\"; and Paul's mention of a second apostle, besides Peter, reconciles the Epistle and the history.",
+      "full_note_ref": "JFB/48/1/19",
+      "on_tension_rationale": "Directly reconciles Acts' plural 'the apostles' with Galatians' naming of exactly two — Peter and James — as the same visit described at different levels of generality.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on Acts 9:27",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this passage directly: the 'apostles' Barnabas brought Saul to are identified as Peter and James specifically, citing Galatians 1:19, and Paul's fifteen-day stay of Galatians 1:18 is folded into the same visit narrated in Acts 9:26-28."
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 533,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The Geneva Bible's annotators built the Acts 5:29 exception directly into their gloss on Romans 13, limiting submission to what is lawfully commanded.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Robert Ingersoll singled out Paul's \"the powers that be are ordained of God\" as proof the Bible had underwritten tyranny and stifled human progress.",
+      "skeptic": {
+        "name": "Robert G. Ingersoll",
+        "work": "\"Individuality,\" in The Works of Robert G. Ingersoll (Dresden Edition), vol. I",
+        "year": "1873",
+        "attribution": "Robert G. Ingersoll (1833-1899), \"Individuality\" (1873), in The Works of Robert G. Ingersoll, Dresden Edition, vol. I"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Romans 13:5",
+      "excerpt_text": "So far as lawfully we may: for if unlawful things be commanded us, we must answer as Peter teacheth us, It is better to obey God than men.",
+      "full_note_ref": "GNV/45/13/5",
+      "on_tension_rationale": "Explicitly caps Romans 13 submission at lawful commands and cross-references Peter's Acts 5:29 principle, reconciling the two texts in one sentence.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-1763)",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill's note on Acts 5:28 states the classic two-tier rule directly: civil and ecclesiastical rulers are to be obeyed in things not repugnant to God's will, but God is to be obeyed when they are, which he says is 'no ways contrary' to the submission owed magistrates in things civil and lawful."
+      },
+      "link": {
+        "url": "https://carm.org/shall-we-obey-gods-law-or-human-law-men",
+        "domain": "carm.org",
+        "title": "CARM: Shall we obey God's Law or human law?",
+        "note": "live apologetic treatment citing Acts 5:29, Romans 13:1, and 1 Peter 2:13 together"
+      }
+    }
+  }
+}

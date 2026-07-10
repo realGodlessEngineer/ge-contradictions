@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 564,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Keil and Delitzsch read the curse as incidental dust-swallowing while the serpent eats its real food, not a claim that dust alone sustains it.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the literal reading bluntly: real snakes don't eat dust, so the curse describes a diet no serpent has ever had.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, science-errors list (skepticsannotatedbible.com/science/long.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), science-errors list, on Genesis 3:14"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 3:14",
+      "excerpt_text": "…also the eating of dust, which is not to be understood as meaning that dust was to be its only food, but that while crawling in the dust it would also swallow dust (cf. Mic 7:17; Isa 49:23).",
+      "full_note_ref": "KD/1/3/14",
+      "on_tension_rationale": "Directly rebuts the literal-exclusive-diet reading behind 'snakes don't eat dust' by reframing the curse as incidental ingestion while the serpent eats its actual food.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Keil & Delitzsch, Biblical Commentary on the Old Testament, on Genesis 3:14 (1861-75)",
+        "author": "Keil & Delitzsch",
+        "year": "1861-1875",
+        "note": "K&D treat this passage directly, reading the dust-eating clause as incidental swallowing while crawling and eating actual food rather than an exclusive diet. Haley's specific coverage of this passage could not be confirmed by full-text search (no 'dust'/'serpent' hit near Genesis 3 in An Examination of the Alleged Discrepancies of the Bible); per spec a row-surfaced harmonizing commentator keyed to the passage is used instead."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page (gotquestions.org / carm.org / defendinginerrancy.com) with a dedicated, on-topic treatment of the literal-dust-diet objection could be confirmed; gotquestions.org/Bible-snakes.html mentions the curse only in passing without addressing the objection. Link omitted rather than guessed."
+      }
+    }
+  }
+}

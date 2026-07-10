@@ -1,0 +1,57 @@
+{
+  "contradiction_id": 527,
+  "question": "Was Mary Magdalene happy or sad when she saw the risen Jesus?",
+  "summary": "Matthew 28:1-9 has the women — including Mary Magdalene — leave the empty tomb with \"fear and great joy,\" meet Jesus on the way, grab his feet, and worship. John 20:11-15 has Mary Magdalene weeping at the tomb, talking to angels through tears, and failing even to recognize Jesus when he stands in front of her, mistaking him for the gardener. The emotional state, the location of the encounter, and her ability to recognize him are all different.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "John Gill attributes Mary's failure to recognize Jesus to her tear-swollen eyes, shock, and not expecting to see him alive.",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "D. F. Strauss calls the \"Mary Magdalene split from the group\" harmonization arbitrary, noting it still can't explain Matthew's plural wording for the encounter.",
+    "skeptic": {
+      "name": "David Friedrich Strauss",
+      "work": "The Life of Jesus Critically Examined",
+      "year": "1835 (Eng. transl. 1846)",
+      "attribution": "David Friedrich Strauss (d. 1874), The Life of Jesus Critically Examined (1835; Eng. transl. 1846), § 137, \"First Tidings of the Resurrection.\""
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley (quoting Robinson's Harmony, pp. 328-330) resolves the tension by positing two separate parties of women: Mary Magdalene's own solitary, weeping encounter near the tomb (John) is distinct from the other women's joyful, feet-embracing encounter on the road (Matthew)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/resurrection-accounts.html",
+        "domain": "gotquestions.org",
+        "title": "Can the various resurrection accounts from the four Gospels be harmonized?",
+        "note": "Sequences Matthew 28:9-10's joyful group encounter and John 20:11-18's Mary Magdalene encounter as separate events in its harmonized timeline, though it addresses the emotional/recognition contrast only in passing."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "527#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "John 20:14",
+      "full_note_ref": "GILL/43/20/14",
+      "excerpt_text": "she saw a person, but did not know who he was, by reason of the form of his appearance, the difference of his clothes, and not expecting to see him alive; or through modesty, she might not look wistfully at him; and besides, her eyes were filled with tears, and swollen with weeping; so that she could not see clearly; and her eyes might be holden also, as the disciples were, that as yet she might not know him …",
+      "on_tension_rationale": "Directly explains why Mary fails to recognize the risen Jesus in John's account (grief, tears, shock, no expectation of resurrection) — addresses the recognition-failure and emotional-state prongs of the tension without denying the underlying divergence from Matthew's immediate-recognition, joyful scene.",
+      "source_note_text": "And when she had thus said,.... As soon as the words were out of her mouth, before she could have an answer from the angels:\nshe turned herself back; perceiving, either by the looks and gesture of one of the angels, or by hearing a noise, that somebody was behind her:\nand saw Jesus standing, and knew not that it was Jesus; she saw a person, but did not know who he was, by reason of the form of his appearance, the difference of his clothes, and not expecting to see him alive; or through modesty, she might not look wistfully at him; and besides, her eyes were filled with tears, and swollen with weeping; so that she could not see clearly; and her eyes might be holden also, as the disciples were, that as yet she might not know him: so sometimes, in a spiritual sense, Christ is with, and near his people, and they know it not: Christ, as God, is omnipresent; he is every where, and in all places; the spiritual presence of Christ, is more or less, in some way or another, always in all his churches, and among his dear people; but the sight of him is not always alike to them, nor does he appear to them always in the same form; sometimes against them, at least in their apprehensions, nor always in a manner agreeably to their expectations; nor is his grace always discovered in the same way, nor has it the same effect."
+    }
+  ]
+}

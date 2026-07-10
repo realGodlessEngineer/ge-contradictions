@@ -97,7 +97,7 @@
 - [Metzger TCGNT editions](feedback_metzger_tcgnt_pagination_edition.md) — Mk16:9-20: 1st ed(1971)pp.102-106, 2nd ed(1994)pp.102-107.
 - [Barth Pauline authorship](feedback_markus_barth_authorship_position.md) — AB Ephesians defends Pauline authorship; don't group deutero-Pauline.
 - [Acts commentary anchors](feedback_pervo_acts_pericope_anchors.md) — Pervo Acts9=230-238, Acts26=623-629; Conzelmann 287pp total, 21:26 ends p.230.
-- [Luther strawy epistle](feedback_luther_strawy_epistle_source.md) — phrase from 1522 Preface to NT (LW 35:357-362), not James/Jude preface.
+- [Luther strawy epistle](feedback_luther_strawy_epistle_source.md) — two distinct 1522 prefaces (NT vs James/Jude) get swapped in either direction; id 560 caught the mirror-image error.
 - [Internal consistency](feedback_summary_internal_consistency.md) — check summary claims against commentary's own distinctions (e.g. krinō/anakrinō).
 - [Seow Persian dating](feedback_seow_ecclesiastes_persian_dating.md) — AB18C dates Qohelet Persian(5th-4thc), not Hellenistic; AI inverts.
 - [Empty scholarship gap](feedback_commentary_out_empty_scholarship.md) — commentary_fix: empty scholarship[] while prose names authorities = medium gap.
@@ -107,3 +107,9 @@
 - [Bultmann John judgment redactor](feedback_bultmann_john_judgment_redactor_verified.md) — id 518 clean; Bultmann's ecclesiastical-redactor/realized-eschatology theory real; Haley 1874 p.120 "judge no man" quote verified verbatim on archive.org.
 - [Haley Samaritans p.374 not 358](feedback_haley_samaritans_page374_not_358.md) — id 506: Baur/Bleek reception discrepancy is p.374; p.358 is a different "Samaritans, inhospitality" index entry.
 - [JFB Magdalene-vs-Bethany overclaim](feedback_jfb_magdalene_vs_bethany_overclaim.md) — id 505: JFB "not Mary Magdalene" note never mentions Bethany; connective stretching it to "distinct from Mary of Bethany" overclaims (flag), Strauss/Haley verified clean.
+- [Betz 2Cor wrong sub-argument](feedback_betz_2cor_anti_pauline_wrong_subargument.md) — id 550: Betz JBL92(1973)88-108 real & on-topic, but 1 Cor 7 marriage angle not his documented argument (vocab/Qumran/flow/opponents) → strawman.
+- [Strauss Mary Magdalene split-theory](feedback_strauss_mary_magdalene_split_theory.md) — id 527 all-clean; Strauss §137 "split from group"/plural objection + Haley pp.328-330 Robinson two-parties both verbatim-verified.
+- [Deeper-learning pd_work verse fabrication](feedback_deeper_learning_pdwork_verse_fabrication.md) — id 557: real+on-topic Haley note still cited "2 Pet 3:7-9" for actual "1 Pet 4:7" → flag, not ok.
+- [Clarke Enoch-died verified](feedback_clarke_enoch_died_verified.md) — id 559 all-clean; Clarke Heb11:13 referent-narrowing real+verbatim, Wells/SAB skeptic real, gotquestions deeper_learning on-topic.
+- [Haley Jer/Zech Matt27:9 verified](feedback_haley_jeremiah_zechariah_matt279.md) — id 567 all-clean; Haley 1874 pp.169-170 Alford/Barnes/Henderson triad confirmed verbatim in exact order.
+- [Haley citation conflation](feedback_haley_citation_conflation_with_excerpt_footnote.md) — id 571: pd_work note borrows Esth 4:16/5:1 cite from excerpt's own footnote, misattributes to Haley (who never mentions Esther); flag not missing.

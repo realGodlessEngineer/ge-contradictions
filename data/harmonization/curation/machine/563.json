@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 563,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "JFB reads Luke's 'in a moment of time' as marking a supernaturally extended vision, not a literal naked-eye panorama requiring any particular earth-shape.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptics' Annotated Bible takes the mountain-top vista at face value, quipping of Matthew 4:8: \"I guess the earth was flat in those days.\"",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, comment on Matthew 4:8 (skepticsannotatedbible.com/mt/4.html)",
+        "year": null,
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; mt/4.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Matthew 4:8",
+      "excerpt_text": "But to limit this to the most extensive scene which the natural eye could take in, is to give a sense to the expression, \"all the kingdoms of the world,\" quite violent. It remains, then, to gather from the expression, \"in a moment of time\"-- which manifestly is intended to intimate some supernatural operation—that it was permitted to the tempter to extend preternaturally for a moment our Lord's range of vision, and throw a \"glory\" or glitter over the scene of vision …",
+      "full_note_ref": "JFB/40/4/8",
+      "on_tension_rationale": "JFB denies the mountain scene was a literal naked-eye panorama, defusing the claim that Matthew's narrative presupposes flat-earth geometry.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Matthew 4:8",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats this exact verse, reading the 'moment of time' clause as marking a supernaturally extended vision rather than ordinary sight — the standard harmonization of the geometry objection."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No on-topic allowlisted page found treating this specific Isaiah 40:22/Matthew 4:8 pairing; GotQuestions' separate 'flat earth' and 'circle of the earth' pages don't address Matthew 4:8 directly."
+      }
+    }
+  }
+}

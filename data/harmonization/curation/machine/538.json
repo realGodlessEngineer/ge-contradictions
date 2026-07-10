@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 538,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read Priscilla's instruction of Apollos as private, household teaching, distinct from the public church-teaching-of-men the epistles restrict.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman presses the same silencing of women as evidence 1 Timothy is pseudonymous: the undisputed Paul's own 'no male and female' (Galatians 3:28) cuts the other way, so a letter ordering women to keep silent reads to him as a later forger's hand, not Paul's.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Forged: Writing in the Name of God",
+        "year": "2011",
+        "attribution": "Bart D. Ehrman, Forged: Writing in the Name of God (HarperOne, 2011), pp. 93-114"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Acts 18:26",
+      "excerpt_text": "Here is an instance of a good woman, though not permitted to speak in the church or in the synagogue, yet doing good with the knowledge God had given her in private converse.",
+      "full_note_ref": "MHC/44/18/24",
+      "on_tension_rationale": "Matthew Henry's closing observation on the Priscilla/Apollos episode states the standard harmonizing mechanism directly: Priscilla's instruction of Apollos was private ('in private converse'), not the public church-speech 1 Cor 14:34-35/1 Tim 2:11-12 restrict — the note is keyed to Acts 18:24 sequentially but its own 'cites' this row's Acts 18:26.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's \"Ethical Discrepancies\" chapter (pp. 309-311) prints this row's exact three verses side by side under the heading \"Must keep silence. / May prophesy and teach\" — 1 Cor 14:34-35 and 1 Tim 2:11-12 quoted on the left, Acts 18:26 (Priscilla and Aquila expounding \"the way of God more perfectly\" to Apollos) among the right-column texts. Haley argues the silencing texts were prudent, local counsel tied to Corinth's and Ephesus's notorious immodesty rather than a universal, timeless rule, citing Conybeare on Corinth's \"peculiar licentiousness,\" Neander, and Adam Clarke's view that Paul restricts public disputing/dictating, not all speech."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/women-pastors.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What does the Bible say about women pastors?",
+        "note": "Live page cites 1 Tim 2:11-12 directly and reconciles Priscilla's teaching of Apollos (Acts 18:26) as private, non-pastoral instruction, not public teaching authority over a congregation; does not separately cite 1 Cor 14:34-35."
+      }
+    }
+  }
+}

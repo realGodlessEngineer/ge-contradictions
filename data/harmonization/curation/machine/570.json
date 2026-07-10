@@ -1,0 +1,67 @@
+{
+  "contradiction_id": 570,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the two verbs differently: 2:15's discernment of spiritual truth is not the premature verdict on hidden motives that 4:5 forbids.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The Skeptic's Annotated Bible pairs 2:15's \"judgeth all things\" against 4:5's \"judge nothing before the time\" as flatly opposite verdicts on the same question.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"To Judge or Not to Judge\" (skepticsannotatedbible.com/contra/judge.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/judge.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "1 Corinthians 4:1",
+      "excerpt_text": "He is not to be understood of judging by persons in authority, within the verge of their office, nor of private judging concerning facts that are notorious; but of judging persons' future state, or the secret springs and principles of their actions, or about facts doubtful in themselves. To judge in these cases, and give decisive sentence, is to assume the seat of God and challenge his prerogative.",
+      "full_note_ref": "MHC/46/4/1",
+      "on_tension_rationale": "Narrows what 4:5's 'judge nothing' actually prohibits (secret motives/future state) versus what it leaves untouched (notorious facts, authoritative judgment) — the categorical distinction that lets 2:15's 'judgeth all things' stand alongside it.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Corinthians 4:5",
+      "excerpt_text": "This is said to prevent rash and precipitate judgment … it is best to leave things to the great day of account, than to be free in censuring one another.",
+      "full_note_ref": "GILL/46/4/5",
+      "on_tension_rationale": "Frames 4:5's prohibition as targeting rash/premature censure specifically, not discernment as such — complementary to MHC's categorical distinction.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "1 Corinthians 4:5",
+      "excerpt_text": "God, the righteous Judge, will determine every thing shortly: it is his province alone to search the heart, and bring to light the hidden things of darkness.",
+      "full_note_ref": "CLARKE/46/4/5",
+      "on_tension_rationale": "Identifies the specific object 4:5 reserves to God alone (searching hidden hearts), distinguishing it from the doctrinal discernment 2:15 credits to the spiritual man.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Under 'Final Judgment' (Doctrinal Discrepancies, pp. 202-203) Haley quotes 1 Cor. 2:15 directly and resolves its 'judgeth all things' language with the same distinction commentators use against 4:5: 'the Greek word employed is the same which in the preceding verse is translated \"discerned\" ... It has no reference to the final judgment, but denotes spiritual insight and discrimination in the present life.' Haley does not separately name or quote 4:5 alongside it, so this covers half of the row's specific pairing directly."
+      },
+      "link": null
+    }
+  }
+}

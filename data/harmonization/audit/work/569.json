@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 569,
+  "question": "How many apostles were in office between the resurrection and ascension?",
+  "summary": "Paul in 1 Corinthians 15:5 reports that the risen Jesus appeared \"to Cephas, then to the twelve.\" But by the time of the resurrection, Judas Iscariot had already died (Matthew 27:3-5), and Matthew 28:16 explicitly calls the post-resurrection group \"the eleven disciples.\" Acts 1:9 has Jesus ascending while the eleven look on, and Matthias is not selected until Acts 1:26. So between resurrection and ascension the apostolic college numbered eleven, not twelve.",
+  "consensus": "genuinely_disputed",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Gill reads \"the twelve\" as the apostles' retained title of office, not a literal headcount, though he flags that some ancient witnesses read \"the eleven\" instead.",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Bart Ehrman presses the count directly, suggesting Paul may simply not have known the Judas-betrayal tradition when he wrote \"the twelve.\"",
+    "skeptic": {
+      "name": "Bart D. Ehrman",
+      "work": "\"How Can Paul Say that Jesus Appeared to the Twelve?\" (The Bart Ehrman Blog)",
+      "year": "2022",
+      "attribution": "Bart D. Ehrman, \"How Can Paul Say that Jesus Appeared to the Twelve?\", The Bart Ehrman Blog (April 12, 2022)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on 1 Corinthians 15:5",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Haley's Examination of the Alleged Discrepancies of the Bible does not treat this specific tension (confirmed by a full-text search of the djvu text and its scripture index, which lists only 'Apostles, lists of names' and 'called when' entries); Gill's own note on 1 Corinthians 15:5, already surfaced on this row, treats the eleven-vs-twelve headcount directly and flags the Vulgate/Claromontane 'eleven' reading."
+      },
+      "link": null
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "569#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "1 Corinthians 15:5",
+      "full_note_ref": "GILL/46/15/5",
+      "excerpt_text": "then of the twelve; though there were then but eleven of them, Judas being gone from them, and having destroyed himself; and at the first appearance of Christ to them, there were but ten present, Thomas being absent; and yet because their original number, when first chosen and called, were twelve, they still went by the same name … The Vulgate Latin reads the \"eleven\"; and so the Claromontane exemplar.",
+      "on_tension_rationale": "Gill explicitly concedes the resurrection-appearance group numbered only eleven at that moment (Judas already dead) and explains the KJV's 'twelve' as the apostles' retained original-number title, while also noting the Vulgate/Claromontane manuscripts read 'the eleven' — directly on this row's numerical tension.",
+      "source_note_text": "And that he was seen of Cephas,.... Or Simon Peter; for Cephas was a name given him by Christ, Joh 1:42. This was not another Cephas, one of the seventy disciples, as Clemens suggests (g), but the Apostle Peter himself, to whom it is certain the Lord appeared. Not that he was the first person by whom Christ was seen after his resurrection, for he first appeared to Mary Magdalene, Mar 16:9 but the testimony of the women the apostle omits, and it seems as if Peter was the first of the men that saw Christ when risen, see Luk 24:34. Whether he was one of the disciples that went to Emmaus, to whom Christ joined himself, and entered into discourse with, is not certain; it should rather seem, that the appearance here referred to was when he was alone;\nthen of the twelve; though there were then but eleven of them, Judas being gone from them, and having destroyed himself; and at the first appearance of Christ to them, there were but ten present, Thomas being absent; and yet because their original number, when first chosen and called, were twelve, they still went by the same name; see Joh 20:24. The appearance or appearances here referred to are those in Joh 20:19. The Vulgate Latin reads the \"eleven\"; and so the Claromontane exemplar.\n(g) Apud Euseb. Eccl. Hist. l. 1. c. 12."
+    }
+  ]
+}

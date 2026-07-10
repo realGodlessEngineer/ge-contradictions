@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 571,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "JFB reads the phrase as Jewish idiom: any part of a day counts as whole, so Friday afternoon through Sunday morning satisfies it.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Thomas Paine called this 'awkward': by the Gospels' own timeline, Christ lay only 'one day and two nights,' not three days and three nights.",
+      "skeptic": {
+        "name": "Thomas Paine",
+        "work": "The Age of Reason, Part II",
+        "year": "1795",
+        "attribution": "Thomas Paine (1737-1809), The Age of Reason, Part II (1795)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Matthew 12:40",
+      "excerpt_text": "The period during which He was to lie in the grave is here expressed in round numbers, according to the Jewish way of speaking, which was to regard any part of a day, however small, included within a period of days, as a full day.",
+      "full_note_ref": "JFB/40/12/40",
+      "on_tension_rationale": "Directly explains the 'three days and three nights' wording as inclusive Jewish day-counting rather than a literal 72-hour span, addressing the exact numerical tension in the summary (Friday-afternoon-to-Sunday-morning falling short of three full nights).",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pairing under the heading 'Christ's entombment three days and nights... A less time... Buried Friday; rose on Sunday,' reconciling it via the same Oriental/Jewish convention of counting any part of a day as a whole day (citing 1 Sam 30:12-13 as a parallel, plus a modern analogy from Edward Robinson's own quarantine experience)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/three-days.html",
+        "domain": "gotquestions.org",
+        "title": "On what day was Jesus crucified? | GotQuestions.org",
+        "note": "live apologetic treatment weighing Thursday/Friday/Wednesday crucifixion theories specifically against the 'three days and three nights' requirement of Matthew 12:40"
+      }
+    }
+  }
+}

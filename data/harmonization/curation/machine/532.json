@@ -1,0 +1,63 @@
+{
+  "contradiction_id": 532,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill's gloss on 'God raised him' explicitly includes Christ and the Spirit as co-agents, while Henry reads John's saying as Christ literally raising himself.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman reads 'God raised Jesus' as the earliest resurrection formula, with John's self-raising claim marking a later, higher Christology — not one settled doctrine.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "How Jesus Became God",
+        "year": "2014",
+        "attribution": "Bart D. Ehrman, How Jesus Became God (HarperOne, 2014), pp. 211-251"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Acts 2:24",
+      "excerpt_text": "for though his life was taken away by men, he was raised to life again by God the Father, to whom the resurrection of Christ is generally ascribed, though not to the exclusion of Christ himself, and the blessed Spirit …",
+      "full_note_ref": "GILL/44/2/24",
+      "on_tension_rationale": "Directly names all three candidate agents (Father, Christ himself, Spirit) and states the Father-attribution does not exclude the other two — the core harmonizing move for this row's three-agent tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "John 2:12",
+      "excerpt_text": "Secondly, He foretels his resurrection by his own power: In three days I will raise it up. There were others that were raised, but Christ raised himself, resumed his own life.",
+      "full_note_ref": "MHC/43/2/12",
+      "on_tension_rationale": "Addresses the John 2:19-21 leg of the tension head-on, affirming Christ's own agency in the resurrection as distinct from (not opposed to) others being raised by an outside power.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Acts 2:24",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact multi-agent tension directly, glossing 'God raised him' as never excluding Christ's own agency or the Spirit's — he repeats the same periphrasis argument at Romans 8:11 and Colossians 2:12. Haley's An Examination of the Alleged Discrepancies of the Bible (1874) was checked (curl+grep of the full djvu transcript for 'raised', 'raise himself', and 'Spirit...raised') and has no entry addressing who raised Jesus, so Gill's own note (already surfaced on this row) is used instead."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/who-resurrected-Jesus.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Who resurrected Jesus?",
+        "note": "live apologetic treatment naming Father, Son, and Spirit as co-agents of the resurrection"
+      }
+    }
+  }
+}

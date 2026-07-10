@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 535,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry treats the accounts as complementary: Luke's narrative simply skips the Arabia interlude Paul describes, and the Jerusalem visit it records came three years later.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman argues the discrepancy is Luke's doing: eager to align Paul with the Jerusalem apostles, he drops the independent Arabia interval Paul insists on.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "\"Does the Book of Acts Accurately Portray the Life and Teachings of Paul?\", The Bart Ehrman Blog",
+        "year": "2018",
+        "attribution": "Bart D. Ehrman, \"Does the Book of Acts Accurately Portray the Life and Teachings of Paul?\", The Bart Ehrman Blog (June 17, 2018)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Acts 9:23",
+      "excerpt_text": "Luke here makes no mention of Paul's journey into Arabia, which he tells us himself was immediately after his conversion, Gal 1:16, Gal 1:17. As soon as God had revealed his Son in him, that he might preach him, he went not up to Jerusalem, to receive instructions from the apostles (as any other convert would have done, that was designed for the ministry), but he went to Arabia, where there was new ground to break up, and where he would have opportunity of teaching, but not learning; thence he returned to Damascus, and there, three years after his conversion, this happened, which is here recorded.",
+      "full_note_ref": "MHC/44/9/23",
+      "on_tension_rationale": "Directly names the very gap skeptics press (Luke's silence on the Arabia trip Paul reports in Galatians) and resolves the chronology by dating the Acts 9:26 Jerusalem visit three years after the conversion, matching Galatians 1:18.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714)",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry's note on Acts 9:23 treats this exact passage, explaining that Luke's account silently passes over the Arabia interval Paul discloses in Galatians and placing the Acts 9:26 Jerusalem visit three years after the conversion. Haley's Alleged Discrepancies does not appear to treat this pairing directly, so a harmonizing commentator already on the row is used instead."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Paul-in-Arabia.html",
+        "domain": "gotquestions.org",
+        "title": "Why, when, and for how long was the apostle Paul in Arabia?",
+        "note": "live apologetic treatment reconciling Acts 9's silence on Arabia with Paul's own account in Galatians 1"
+      }
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 539,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill reads Peter's 'in the name of Jesus' as not excluding Matthew 28:19's triadic formula, only emphasizing Jesus to Jews who had denied him.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Raymond E. Brown holds the triadic formula reflects Matthew's own late-first-century church liturgy, not Jesus' words — explaining why Acts baptizes only in Jesus' name.",
+      "skeptic": {
+        "name": "Raymond E. Brown",
+        "work": "Antioch and Rome: New Testament Cradles of Catholic Christianity (with John P. Meier)",
+        "year": "1983",
+        "attribution": "Raymond E. Brown and John P. Meier, Antioch and Rome: New Testament Cradles of Catholic Christianity (Paulist Press, 1983)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Acts 2:38",
+      "excerpt_text": "And this is to be done, in the name of Jesus Christ; not to the exclusion of the Father, and of the Spirit, in whose name also this ordinance is to be administered, Mat 28:19 but the name of Jesus Christ is particularly mentioned, because of these Jews, who had before rejected and denied him as the Messiah; but now, upon their repentance and faith, they are to be baptized in his name, by his authority, according to his command; professing their faith in him, devoting themselves to him, and calling on his name.",
+      "full_note_ref": "GILL/44/2/37",
+      "on_tension_rationale": "Gill directly addresses why Peter's 'in the name of Jesus Christ' formula in Acts 2:38 does not conflict with the triadic formula Jesus gave in Matthew 28:19, explaining the single-name wording as pastoral emphasis rather than an exclusive rite.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14)",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this exact tension at Acts 2:37-41: though Peter said 'be baptized in the name of the Lord Jesus,' Henry argues 'we have reason to think that, in baptizing them, the whole form Christ prescribed was used, in the name of the Father, the Son, and the Holy Ghost.'"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/baptism-Jesus-name.html",
+        "domain": "gotquestions.org",
+        "title": "Should we be baptized in Jesus' name (Acts 2:38), or in the name of the Father, Son, and Holy Spirit (Matthew 28:19)?",
+        "note": "live apologetic treatment of this exact tension"
+      }
+    }
+  }
+}
