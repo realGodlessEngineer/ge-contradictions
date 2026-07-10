@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 576,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Keil and Delitzsch read the difference as procedural: God punished Cain's murder directly himself, then later delegated that judicial power to human courts.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharpest objection, pressed by Steve Wells's Skeptic's Annotated Bible, is that God demands a murderer's blood in Genesis 9:6 yet shields Cain from it.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/capital.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "KD",
+      "verse_ref": "Genesis 9:5-6",
+      "excerpt_text": "The life of man was thus made secure against animals as well as men. God would avenge or inflict punishment for every murder, - not directly, however, as He promised to do in the case of Cain, but indirectly by giving the command, \"Whoso sheddeth man's blood, by man shall his blood be shed,\" and thus placing in the hand of man His own judicial power.",
+      "full_note_ref": "KD/1/9/3",
+      "on_tension_rationale": "KD explicitly reconciles the two texts by distinguishing God's direct, personal vengeance in the case of Cain (undelegated) from the judicial power the Gen 9:6 command later places in human hands -- naming Cain and quoting Gen 9:6 verbatim in the same sentence.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley has a dedicated two-column heading, 'Capital punishment. / Murderer executed. Spared.' (p. 258), quoting Gen 9:6 against Cain's sparing (Gen 4:12-13) verbatim, and resolves it chronologically: 'The case of Cain occurred some fifteen hundred years before this command was given to Noah.'"
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Genesis_4.12-13.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in Genesis 4:12-13?",
+        "note": "Live apologetics page stating the tension in the same terms as this row (Gen 9:6/Ex 21:12 vs Gen 4:15) and arguing Cain's protection was a pre-law sovereign exception, not a violation of the later principle."
+      }
+    }
+  }
+}

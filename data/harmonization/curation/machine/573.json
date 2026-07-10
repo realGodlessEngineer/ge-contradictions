@@ -1,0 +1,65 @@
+{
+  "contradiction_id": 573,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Harmonizers read Proverbs 1:28 as judgment on those who spurned Wisdom's earlier call, not a limit on Matthew 7:8's promise to sincere seekers.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible sets Matthew 7:8 and Proverbs 8:17's finding-promise directly against Proverbs 1:28's flat denial as an unresolved pairing.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/found.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Proverbs 1:28",
+      "excerpt_text": "Now no prayers or most diligent seeking will avail (Pro 8:17).",
+      "full_note_ref": "JFB/20/1/28",
+      "on_tension_rationale": "JFB glosses Proverbs 1:28's non-finding by explicitly cross-referencing Proverbs 8:17's finding-promise, naming the two verses as a pair requiring reconciliation.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Proverbs 1:28",
+      "excerpt_text": "Then those that slighted God will seek him early (that is, earnestly), but in vain; they shall not find him, because they sought him not when he might be found, Isa 55:6.",
+      "full_note_ref": "MHC/20/1/20",
+      "on_tension_rationale": "Block-anchored note supplies the harmonizing mechanism: the promise to finders presupposes seeking within the window of opportunity, which these seekers had already forfeited.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Proverbs 1:28",
+      "excerpt_text": "Because they sought not with an affection to God, but for ease of their own grief.",
+      "full_note_ref": "GNV/20/1/28",
+      "on_tension_rationale": "Offers a second, distinct harmonizing strategy from the same tradition: the non-finding turns on the insincerity of the motive behind the seeking, not on timing alone.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pairing under the heading 'Early seekers successful. Some fail to find,' setting Proverbs 8:17 directly against Proverbs 1:28 and resolving it as addressed to two different classes of seekers -- the diligent young versus obstinate, hardened transgressors (pp. 71-72; verified against the Internet Archive full text)."
+      },
+      "link": null
+    }
+  }
+}

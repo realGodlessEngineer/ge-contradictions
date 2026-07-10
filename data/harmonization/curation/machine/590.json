@@ -1,0 +1,64 @@
+{
+  "contradiction_id": 590,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators note Phoenicia was the same territory anciently called Canaan, so Matthew's \"Canaanite\" and Mark's \"Syrophoenician\"/\"Greek\" name the same woman differently, not two women.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Redaction critics Davies and Allison read Matthew's swap of Mark's contemporary \"Syrophoenician\" for the archaic \"Canaanite\" as a deliberate theological rewriting, not a synonym.",
+      "skeptic": {
+        "name": "W. D. Davies and Dale C. Allison",
+        "work": "A Critical and Exegetical Commentary on the Gospel According to Saint Matthew, Vol. 2 (ICC)",
+        "year": "1991",
+        "attribution": "W. D. Davies and Dale C. Allison, A Critical and Exegetical Commentary on the Gospel According to Saint Matthew, Vol. 2 (ICC; Edinburgh: T&T Clark, 1991), pp. 541-557"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 15:22",
+      "excerpt_text": "That is, of Phoenicia, which was called Canaan … hence this woman is by Mark said to be a Greek, that is, a Gentile, as the Jews used to call all of another nation, and a Syrophenician, being a native of Phoenicia, called Syrophenician; because it bordered upon Syria, and had been formerly a part of it, by conquest …",
+      "full_note_ref": "GILL/40/15/22",
+      "on_tension_rationale": "Directly equates Canaan with ancient Phoenicia, explaining why Mark could call the same woman 'Greek'/'Syrophenician' — the core reconciling move.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Matthew 15:22",
+      "excerpt_text": "Of the flock of the Canaanites, which dwelled in Phoenicia.",
+      "full_note_ref": "GNV/40/15/22",
+      "on_tension_rationale": "Geneva marginal note glosses 'woman of Canaan' as an inhabitant of Phoenicia, supporting the Canaan=Phoenicia equation Mark's designation depends on.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Matthew 15:22",
+      "excerpt_text": "Literally Canaanite woman. Matthew uses this archaic Old Testament expression to describe the woman as a pagan.",
+      "full_note_ref": "TYN/40/15/22",
+      "on_tension_rationale": "Modern study note frames Matthew's 'Canaanite' as a deliberate archaic OT label for 'pagan,' distinguishing it from Mark's contemporary ethnic/regional term rather than treating them as competing factual claims.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874), p. 339",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pairing under a parallel-column heading — \"Woman a Canaanite. / A Syro-Phenician.\" (Matt. xv. 22 / Mark vii. 26) — explaining she lived in the part of Canaan called Syro-Phoenicia and was herself a \"Greek,\" that is, a Gentile, as opposed to a Jew."
+      }
+    }
+  }
+}

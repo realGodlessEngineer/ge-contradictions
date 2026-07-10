@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 583,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry answers his own question directly: Paul delegated the rite to co-workers so he could give himself to preaching, not because he slighted the commission to baptize.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "empty",
+      "connective": null,
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": true,
+      "relabel_reason": "The discrepancy pole originally cited Bart Ehrman, Jesus Before the Gospels (2016), pp. 215-220, for the claim that Matthew 28:19's trinitarian baptismal formula is a later community addition rather than words of the historical Jesus. A full-text search of that book found no discussion of Matthew 28:19, the Great Commission, or the baptismal formula anywhere in it (pp. 215-220 treat Jesus's own baptism by John), so the citation was a miscitation and has been removed. The text-critical view it paraphrased -- that the triadic formula reflects later liturgical practice and is textually suspect -- is genuinely mainstream and one Ehrman holds elsewhere, so this row is a T10 hand-sourcing candidate for a verified, correctly-attributed critic rather than a true absence of any critic; left empty pending that verified re-source."
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "1 Corinthians 1:14",
+      "excerpt_text": "Was it not a part of the apostolical commission to baptize all nations? And could Paul give thanks to God for his own neglect of duty? He is not to be understood in such a sense as if he were thankful for not having baptized at all, but for not having done it in present circumstances, lest it should have had this very bad construction put upon it - that he had baptized in his own name, made disciples for himself, or set himself up as the head of a sect. He left it to other ministers to baptize, while he set himself to more useful work, and filled up his time with preaching the gospel. This, he thought, was more his business, because the more important business of the two. … In this sense he says, Christ sent him not to baptize, but to preach the gospel - not so much to baptize as to preach.",
+      "full_note_ref": "MHC/46/1/14",
+      "on_tension_rationale": "Henry names the exact objection (Matt 28:19's commission to baptize all nations) and answers it: Paul's thanksgiving is about delegation of the rite, not devaluation of the commission, resolving the mission-priority tension the row turns on.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's 'Baptism' section (p. 257) sets Matt 28:19 against 1 Cor 1:14, 17 verbatim under 'Enjoined' / 'Neglected' headings and reconciles them: 'Christ sent me not so much to baptize, as to preach the gospel. Paul did not neglect or undervalue baptism, but gave himself to the work of teaching, leaving his associates to administer baptism.'"
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/1_Corinthians_1.17.php",
+        "domain": "defendinginerrancy.com",
+        "title": "1 Corinthians 1:17—Did Paul oppose water baptism?",
+        "note": "live apologetic treatment naming this exact tension and resolving it via Paul's ministerial focus vs. his non-opposition to the rite"
+      }
+    }
+  }
+}

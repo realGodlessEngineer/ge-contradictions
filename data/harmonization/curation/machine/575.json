@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 575,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators distinguish general revelation of God's existence and basic attributes from the exhaustive comprehension both Job and Isaiah deny is possible.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, in the Skeptic's Annotated Bible, presses Romans 1:20's claim that God is plainly seen in creation directly against Job 11:7's denial that searching can find him out.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Can God be found through reason alone?\" (skepticsannotatedbible.com/contra/reason.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/reason.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Job 11:7",
+      "excerpt_text": "God is not to be found out by human search; that there is a God may be found out by inquiring into the book of nature, by considering the creatures that are made, who all proclaim some first cause or maker of them, who is God; but then it cannot be found out what God is, his nature, being, and perfections …",
+      "full_note_ref": "GILL/18/11/7",
+      "on_tension_rationale": "Gill splits exactly what Romans 1:20 vs. Job 11:7 dispute: creation proves that God is and yields some perfections (matching Rom 1:19-20), but not what God fully is in his nature and being (matching Job's denial).",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Romans 1:19",
+      "excerpt_text": "That which may be known, which implies that there is a great deal which may not be known. The being of God may be apprehended, but cannot be comprehended. We cannot by searching find him out, Job 11:7-9. Finite understandings cannot perfectly know an infinite being; but, blessed be God, there is that which may be known, enough to lead us to our chief end, the glorifying and enjoying of him; and these things revealed belong to us and to our children, while secret things are not to be pried into, Deu 29:29.",
+      "full_note_ref": "MHC/45/1/19",
+      "on_tension_rationale": "Henry glosses Romans 1:19's 'may be known' by explicitly citing Job 11:7-9, arguing partial knowability sufficient for accountability is compatible with the text's own admission that God cannot be searched out to perfection.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714), on Romans 1:19",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this exact pairing directly, citing Job 11:7-9 by name while explaining Romans 1:19's 'may be known' as implying a great deal that may not be known."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No live allowlisted apologetics page was found treating this specific Romans 1:20 / Job 11:7 / Isaiah 40:28 pairing directly; gotquestions.org's Romans 1:20 page does not engage the Job/Isaiah unsearchability texts."
+      }
+    }
+  }
+}

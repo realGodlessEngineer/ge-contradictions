@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 587,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Defenders distinguish prophesying under inspiration (permitted) from teaching with authority over men (restricted) as two separate categories, not one rule overriding the other.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman argues 1 Corinthians 14:34-35 was inserted later, since it flatly contradicts Paul's own assumption elsewhere that women pray and prophesy aloud in church.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "\"The Silencing of Women: 1 Cor. 14:34-35 as an Interpolation,\" The Bart Ehrman Blog",
+        "year": "2024",
+        "attribution": "Bart D. Ehrman, \"The Silencing of Women: 1 Cor. 14:34-35 as an Interpolation,\" The Bart Ehrman Blog (2024)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "1 Timothy 2:12",
+      "excerpt_text": "The relationship between teaching and authority depends on how both are understood. Women did teach (Titus 2:3-5), but there are no clear New Testament examples or endorsements of women teaching men in church meetings (cp. Acts 18:26; 1 Cor 14:34-35; Phil 4:3). We know it was happening in some of the churches only by way of Paul's opposing responses. Women did prophesy (Acts 2:17-18; 21:9; 1 Cor 11:5), but some types of prophecy might not have been seen as authoritative teaching (Acts 11:28; 21:10-11; 1 Cor 14:29).",
+      "full_note_ref": "TYN/54/2/12",
+      "on_tension_rationale": "Directly reconciles the row's core tension by distinguishing prophesying (permitted, and citing Acts 2:17-18 and 21:9 - both cited in this contradiction) from teaching-with-authority (restricted), explaining why the Deborah/prophesying texts don't override 1 Tim 2:12 / 1 Cor 14:34.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874), pp. 308-310",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley sets this exact contradiction out in parallel columns - 'Should be in subjection' (Gen 3:16, 1 Cor 11:3, 1 Cor 14:34, Eph 5:22-24, 1 Pet 3:5-6) against 'May bear rule' / 'May prophesy and teach' (Judges 4:4-5,14 Deborah, Acts 2:18, Acts 18:26, Acts 21:9, 1 Cor 11:5) - then argues Paul's silence rules were local and situational (addressed to Corinth's and Ephesus's specific circumstances), not a universal, timeless prohibition."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/1_Timothy_2.12-14.php",
+        "domain": "defendinginerrancy.com",
+        "title": "1 Timothy 2:12-14 - Does the Bible limit the ministry of women?",
+        "note": "live apologetic treatment that lists Deborah, Huldah, Acts 2:17-18, and Acts 21:9 against the silence/no-authority texts and argues the two are compatible"
+      }
+    }
+  }
+}

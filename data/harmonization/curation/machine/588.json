@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 588,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill distinguishes civil obedience owed to masters from religious submission and worship reserved for Christ, so obeying masters and serving God alone do not compete.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The Skeptic's Annotated Bible juxtaposes 'him only shalt thou serve' and 'neither be ye called masters' directly against the command that slaves obey earthly masters.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Should We Serve God Alone?\" (skepticsannotatedbible.com/contra/serve.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Should We Serve God Alone?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Corinthians 7:23",
+      "excerpt_text": "not that the apostle dissuades such as are redeemed by Christ, and are believers in him, from being the servants of men in a civil sense; for this would be to contradict himself, who here and elsewhere exhorts servants to continue in the service of their masters, and to perform it heartily and cheerfully, and with great sincerity and integrity; but his meaning is, that since they were redeemed from a vain conversation by the blood of Christ, they should not be servants to the lusts of men, nor obey them in things sinful and wicked, which were contrary to law and Gospel, and which were made unlawful by the word of God, and were a breach of the command of their Lord and master Christ; nor should they in matters of religion and the worship of God submit to the authority of any set of men whatever, or be subject to the doctrines and commandments of men; whether these relate to Jewish ceremonies, or Gentile superstitions, or be a mixture of both: they were to call no man master upon earth; nor suffer any to lord it over them, as the false teachers very much did in this church; but to acknowledge Christ, who had bought them to be their only Lord and master.",
+      "full_note_ref": "GILL/46/7/23",
+      "on_tension_rationale": "Gill's note on 'be not ye the servants of men' (1 Cor 7:23) is the corpus's fullest reconciling voice: it distinguishes civil servitude (where Paul elsewhere commands obedience to masters) from spiritual/religious submission and worship (owed to Christ alone), and explicitly ties in Christ's 'call no man master' language from Matt 23:10, covering the whole cluster of cited verses.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), p. 293",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Under the heading 'Due to masters. / To God only.' Haley sets Col 3:22 and 1 Pet 2:18 directly opposite Matt 4:10, Matt 23:8, and 1 Cor 7:23 -- the same verse cluster as this contradiction -- and resolves it: 'The first series refers to civil obedience, or obedience in secular matters; the last relates to worship and religious service.' (Verified via Internet Archive full-text search of item examinationof00hale; the printed page number 293 is itself OCR'd as a running header on the page.)"
+      },
+      "link": null
+    }
+  }
+}

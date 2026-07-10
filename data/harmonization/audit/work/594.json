@@ -1,0 +1,49 @@
+{
+  "contradiction_id": 594,
+  "question": "Was Canaan promised and given to Abraham and his seed?",
+  "summary": "Genesis 13:14-17 and Genesis 17:8 record God promising the land of Canaan to Abraham and his seed as an \"everlasting possession\" (achuzzat olam). Acts 7:5 and Hebrews 11:9, 13 directly state that Abraham received no inheritance in the land — \"not so much as to set his foot on\" — and that he and the patriarchs died in faith \"not having received the promises.\" The Genesis promise of immediate and everlasting possession contradicts the New Testament's retrospective admission that the promise was never fulfilled to Abraham himself.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "The Geneva Bible's annotators call the personal-ownership gap a case of synecdoche: the promise was certain and 'belonged to Abraham,' fulfilled through his posterity.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "William Henry Burr catalogues this as a self-contradiction: Genesis grants Abraham Canaan forever, yet Acts says he received no inheritance in it at all.",
+    "skeptic": {
+      "name": "William Henry Burr",
+      "work": "Self-Contradictions of the Bible",
+      "year": "1860",
+      "attribution": "William Henry Burr, Self-Contradictions of the Bible (1860), no. 97"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pairing (Gen 13:15, 15:18 vs Acts 7:5) under the heading 'Abraham's inheritance secured. Not possessed by him,' arguing the land was given to Abraham 'in trust' for his seed as founder and representative of the nation."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "594#0",
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "attribution": "Geneva Bible (1599)",
+      "verse_ref": "Acts 7:5",
+      "full_note_ref": "GNV/44/7/5",
+      "excerpt_text": "The promise of the possession was certain and belonged to Abraham, though his posterity enjoyed it a great while after his death: and this is the figure Synecdoche.",
+      "on_tension_rationale": "GNV directly addresses the Acts 7:5 wording ('none inheritance ... not so much as to set his foot on') by explaining the promise belonged to Abraham by synecdoche even though his descendants took physical possession after his death -- a direct harmonization of the Genesis-vs-Acts tension.",
+      "source_note_text": "Not so much ground as to set his foot upon.\nThe promise of the possession was certain and belonged to Abraham, though his posterity enjoyed it a great while after his death: and this is the figure Synecdoche."
+    }
+  ]
+}

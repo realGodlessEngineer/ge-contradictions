@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 586,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill distinguishes lawful magistracy, which Paul commands obeying, from rulers who defy God's law by lawless tyranny, which subjects may resist.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible pairs Romans 13:1's 'ordained of God' against 'we ought to obey God rather than men,' pressing the same submit-or-defy clash.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Should we obey human or divine law?\" (skepticsannotatedbible.com/contra/law.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/law.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Romans 13:2",
+      "excerpt_text": "…when they make their own will a law, or exercise a lawless tyrannical power, in defiance of the laws of God, and of the land, to the endangering of the lives, liberties, and properties of subjects, they may be resisted, as Saul was by the people of Israel, when he would have took away the life of Jonathan for the breach of an arbitrary law of his own, and that too without the knowledge of it, Sa1 14:45; but the apostle is speaking of resisting magistrates in the right discharge of their office, and in the exercise of legal power and authority …",
+      "full_note_ref": "GILL/45/13/2",
+      "on_tension_rationale": "This is the row's clearest reconcile move: it limits Romans 13's submission command to lawful magistracy and expressly permits resisting 'lawless tyrannical power... in defiance of the laws of God' — exactly the pattern the midwives, Daniel, and Shadrach/Meshach/Abednego enact.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible, on Romans 13:1-6",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats the submission command at length, distinguishing the God-given office of magistracy from the conduct of wicked rulers, and argues that persecution under a bad government is to be patiently borne rather than met with rebellion. (Haley's Alleged Discrepancies does not appear to treat this specific contradiction; per spec a row-surfaced harmonizing commentator keyed to the passage is used instead.)"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/civil-disobedience.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: When is civil disobedience allowed for a Christian?",
+        "note": "Live apologetic treatment naming the Hebrew midwives, Daniel, and Peter/John as biblical cases where disobeying rulers was right, reconciled with Romans 13 via the 'obey God rather than man' exception."
+      }
+    }
+  }
+}

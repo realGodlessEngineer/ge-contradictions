@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 596,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill reads \"friends\" as a status Christ's death creates, not a prior condition — the very people he died for were, until then, enemies.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Raymond Brown argues the Johannine love-ethic is sectarian, addressed only to insiders — a real theological difference from Paul's enemies-included universalism, not just wording.",
+      "skeptic": {
+        "name": "Raymond E. Brown",
+        "work": "The Community of the Beloved Disciple: The Life, Loves, and Hates of an Individual Church in New Testament Times",
+        "year": "1979",
+        "attribution": "Raymond E. Brown, The Community of the Beloved Disciple (New York: Paulist Press, 1979)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "John 15:13",
+      "excerpt_text": "…not that they were originally so; being enemies and enmity itself to God, when he laid down his life for them, and reconciled them; they were not such as had carried themselves friendly, or had shown any love and affection to him, but all the reverse: but they are so called, because he had chosen them for his friends; he had pitched upon them, and resolved to make them so; and by dying for them, reconciled them who were enemies; and in consequence of this, by his Spirit and grace, of enemies makes them friends …",
+      "full_note_ref": "GILL/43/15/12",
+      "on_tension_rationale": "The note's own 'ref' field reads John 15:12, but its text ('Greater love hath no man...that a man lay down his life for his friends') is plainly Gill's exposition of v.13 — this source's John 15 notes run one verse behind their labels for this stretch (confirmed against GILL/43/15/11, /13, /14, which likewise contain the next verse's KJV text). Content and 'cites' both point to John 15:13, so verse_ref is set there rather than mechanically copied from the mislabeled 'ref'. Gill directly reconciles the friends/enemies tension: 'friends' names the relationship Christ's death produces (by reconciling former enemies), not the disciples' status beforehand — the same event Romans 5:10 calls dying for 'enemies'.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714)",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry's note on John 15:9-17 explicitly cross-references Romans 5:8 and 5:10 in the same sentence, arguing Christ exceeded ordinary friend-love because he died for us while we were enemies, not merely friends (MHC/43/15/9)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/greater-love-lay-down-life.html",
+        "domain": "gotquestions.org",
+        "title": "Why is there no greater love than to lay down your life (John 15:13)?",
+        "note": "Live apologetic treatment naming Romans 5:6's death-for-the-ungodly language and arguing Christ's sacrificial love extended beyond 'friends' to enemies."
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 574,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry meets the difficulty head-on, distinguishing Genesis 6:5's \"continually\" (aggravated, ongoing sin) from 8:21's \"from his youth\" (innate weakness), which excuses rather than aggravates.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells presses the point bluntly: God destroys life for human evil in 6:5-7, then cites the same evil as reason never to repeat it.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, comment on Genesis 8:21 (skepticsannotatedbible.com/gen/8.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; gen/8.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Genesis 8:20",
+      "excerpt_text": "But the reason of this resolve is very surprising, for it seems the same in effect with the reason given for the destruction of the world: Because the imagination of man's heart is evil from his youth, Gen 6:5. But there is this difference - there it is said, The imagination of man's heart is evil continually, that is, \"his actual transgressions continually cry against him;\" here it is said, It is evil from his youth or childhood.",
+      "full_note_ref": "MHC/1/8/20",
+      "on_tension_rationale": "Henry names the exact tension the row raises — v. 21's reason looks 'the same in effect' as Gen 6:5's — then resolves it by distinguishing 'evil continually' (aggravated, ongoing transgression, the flood's ground) from 'evil from his youth' (innate condition, now a ground for forbearance).",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), p. 68",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Under the heading 'Will destroy. / Will not destroy,' Haley pairs Genesis 6:7's \"I will destroy man whom I have created\" against Genesis 8:21's \"Neither will I again smite any more every thing living, as I have done,\" and resolves it as two time-bound declarations — \"One of these utterances was made before, the other after, the Flood. Both declarations were strictly fulfilled.\""
+      },
+      "link": null
+    }
+  }
+}

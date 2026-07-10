@@ -1,0 +1,64 @@
+{
+  "contradiction_id": 595,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Older commentators read the lament of vv. 38-45 as covenant discipline within history, not a revocation of the oath — the throne's fall is real but not final.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptics' Annotated Bible presses the plain record: God swore David's line and throne would last forever, yet the Davidic line ended with Zedekiah and no such king reigns today.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Psalms 89\" (skepticsannotatedbible.com/ps/89.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; ps/89.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Psalms 89:38",
+      "excerpt_text": "Sometimes, it is no easy thing to reconcile God's providences with his promises, and yet we are sure they are reconcilable; for God's works fulfil his word and never contradict it.",
+      "full_note_ref": "MHC/19/89/38",
+      "on_tension_rationale": "States directly that the apparent conflict between the sworn oath (vv. 35-37) and the psalm's later lament (v. 44) is not an actual contradiction, only a difficulty of appearance.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Psalms 89:44",
+      "excerpt_text": "wherefore all these complaints, though true, are no objections to what is before said and swore to.",
+      "full_note_ref": "GILL/19/89/44",
+      "on_tension_rationale": "Gill reads the v. 44 lament as consistent with, not a denial of, the oath sworn in vv. 35-37.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Psalms 89:45",
+      "excerpt_text": "He showeth that the kingdom fell before it came to perfection, or was ripe.",
+      "full_note_ref": "GNV/19/89/45",
+      "on_tension_rationale": "Frames the throne's fall as premature/incomplete rather than a final negation of the everlasting promise.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714)",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats Psalm 89:38-45 directly against the earlier oath in vv. 35-37, arguing that God's providences and promises, though hard to reconcile in the moment, never actually contradict each other. (John Haley's Alleged Discrepancies of the Bible, 1874, does not treat this specific passage; checked against the full text and no Psalm 89 discussion was found.)"
+      }
+    }
+  }
+}

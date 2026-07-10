@@ -1,5 +1,6 @@
 - [Project overview](project_contradictions_db.md) — SAB/Infidels/EvilBible contradictions DB with scholarly commentary and citations.
 - [Named-skeptic fabrication](feedback_sonnet_named_skeptic_fabrication.md) — verify SPECIFIC engagement; McKinsey 343/362 not_real, Ehrman 427 strawman, Wells/SAB 395 real.
+- [EvilBible.com Baba identity](feedback_evilbible_baba_editor_identity.md) — Christopher A. Baba (aka "Chris Thiefe") is real sole editor; valid named_skeptic for EvilBible-sourced rows (id 605).
 - [Ehrman wrong sub-tension](feedback_ehrman_high_priest_wrong_subtension.md) — id 461: real cite, wrong angle → strawman not not_real.
 - [Ehrman/Haley tomb angels](feedback_ehrman_haley_tomb_angels.md) — id 478 clean; Ehrman JI p.8 + Haley 1874 p.386 both verified real.
 - [Ehrman Mark/Luke scope overclaim](feedback_ehrman_mark_luke_scope_overclaim.md) — id 471: JI pp.64-69 is Mark-vs-Luke only; connective adding "Matthew" overclaims.
@@ -8,7 +9,7 @@
 - [Archive.org search-inside](feedback_archive_org_fulltext_search_technique.md) — metadata→server/dir→fulltext/inside.php beats djvu.txt truncation.
 - [Gill self-crossref](feedback_gill_self_crossref_reconciliation.md) — Gill naming a verse "for reconciliation" self-confirms pd_work pairing (id 185).
 - [Gill office-qualification](feedback_gill_1tim32_office_qualification.md) — id 27: pd_work inverting Gill's "one wife" reading → flag.
-- [Gill verse-ref off-by-one](feedback_gill_verse_ref_pattern.md) — 17+ confirmed ids, systemic transform bug; verify opening clause vs KJV before trusting verse_ref (detail: feedback_gill_prov24_verse_boundary.md).
+- [Gill verse-ref off-by-one](feedback_gill_verse_ref_pattern.md) — 18+ confirmed ids, systemic transform bug; verify opening clause vs KJV before trusting verse_ref (detail: feedback_gill_prov24_verse_boundary.md).
 - [Paine work misattribution](feedback_paine_age_of_reason_vs_letters.md) — id 33: changeable-God arg is Age of Reason 1794, not Letters 1797.
 - [Paine strawman pattern](feedback_paine_blessing_curse_overattribution.md) — recurring over-attribution on Gen/Deut numerousness; ids 77/145/181/202.
 - [Paine conquest dating](feedback_paine_conquest_dating_vs_completeness.md) — id 131: Josh 15:63 arg is late-authorship, not conquest-completeness.
@@ -113,3 +114,7 @@
 - [Clarke Enoch-died verified](feedback_clarke_enoch_died_verified.md) — id 559 all-clean; Clarke Heb11:13 referent-narrowing real+verbatim, Wells/SAB skeptic real, gotquestions deeper_learning on-topic.
 - [Haley Jer/Zech Matt27:9 verified](feedback_haley_jeremiah_zechariah_matt279.md) — id 567 all-clean; Haley 1874 pp.169-170 Alford/Barnes/Henderson triad confirmed verbatim in exact order.
 - [Haley citation conflation](feedback_haley_citation_conflation_with_excerpt_footnote.md) — id 571: pd_work note borrows Esth 4:16/5:1 cite from excerpt's own footnote, misattributes to Haley (who never mentions Esther); flag not missing.
+- [Ehrman God's Problem verified](feedback_ehrman_gods_problem_classical_vs_apocalyptic.md) — id 598 all-clean; classical(Deut/Prov this-life)-vs-apocalyptic(deferred) thesis genuinely his; Haley 1874 pp.182-183 exact match.
+- [Gill Job 11:7 truncated qualifier](feedback_gill_job117_truncated_qualifier.md) — id 575: truncation passes in_source but cuts the clause grounding connective's "attributes" claim; on_tension=weak/connectives=flag not in_source=fail.
+- [Whybray Proverbs collection-seam](feedback_whybray_proverbs_collection_seam.md) — id 602 all-clean; Whybray passes on documented-method+structural-fit (no direct quote), Haley 1874 p.278 "Folly,--treatment" exact match.
+- [Spinoza miracles/Deut13 verified](feedback_spinoza_miracles_deut13_verified.md) — id 606 all-clean; TTP ch.6 (1670) genuinely argues false prophets can work miracles via Deut 13, so signs don't certify divine mission.

@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 596,
+  "question": "Did Jesus lay down his life for friends or enemies?",
+  "summary": "John 15:13 and 10:11 describe Jesus laying down his life for his friends (philoi) and for the sheep — the in-group, the disciples, those who love him. Romans 5:10 says \"when we were enemies (echthroi), we were reconciled to God by the death of his Son\" — the death was for those who were hostile to God, not those who were loyal. The Johannine and Pauline atonement frameworks identify different beneficiaries of the same death.",
+  "consensus": "genuinely_disputed",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Gill reads \"friends\" as a status Christ's death creates, not a prior condition — the very people he died for were, until then, enemies.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Raymond Brown argues the Johannine love-ethic is sectarian, addressed only to insiders — a real theological difference from Paul's enemies-included universalism, not just wording.",
+    "skeptic": {
+      "name": "Raymond E. Brown",
+      "work": "The Community of the Beloved Disciple: The Life, Loves, and Hates of an Individual Church in New Testament Times",
+      "year": "1979",
+      "attribution": "Raymond E. Brown, The Community of the Beloved Disciple (New York: Paulist Press, 1979)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714)",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry's note on John 15:9-17 explicitly cross-references Romans 5:8 and 5:10 in the same sentence, arguing Christ exceeded ordinary friend-love because he died for us while we were enemies, not merely friends (MHC/43/15/9)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/greater-love-lay-down-life.html",
+        "domain": "gotquestions.org",
+        "title": "Why is there no greater love than to lay down your life (John 15:13)?",
+        "note": "Live apologetic treatment naming Romans 5:6's death-for-the-ungodly language and arguing Christ's sacrificial love extended beyond 'friends' to enemies."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "596#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "John 15:13",
+      "full_note_ref": "GILL/43/15/12",
+      "excerpt_text": "…not that they were originally so; being enemies and enmity itself to God, when he laid down his life for them, and reconciled them; they were not such as had carried themselves friendly, or had shown any love and affection to him, but all the reverse: but they are so called, because he had chosen them for his friends; he had pitched upon them, and resolved to make them so; and by dying for them, reconciled them who were enemies; and in consequence of this, by his Spirit and grace, of enemies makes them friends …",
+      "on_tension_rationale": "The note's own 'ref' field reads John 15:12, but its text ('Greater love hath no man...that a man lay down his life for his friends') is plainly Gill's exposition of v.13 — this source's John 15 notes run one verse behind their labels for this stretch (confirmed against GILL/43/15/11, /13, /14, which likewise contain the next verse's KJV text). Content and 'cites' both point to John 15:13, so verse_ref is set there rather than mechanically copied from the mislabeled 'ref'. Gill directly reconciles the friends/enemies tension: 'friends' names the relationship Christ's death produces (by reconciling former enemies), not the disciples' status beforehand — the same event Romans 5:10 calls dying for 'enemies'.",
+      "source_note_text": "Greater love hath no man than this,.... By these words our Lord shows, how far love to another should extend, even to the laying down of our lives for the brethren; which is the highest instance of love among men;\nthat a man lay down his life for his friends; and in which believers, should not come short of them; and also his great love to his people, and explains what he had just said, \"as I have loved you\", Joh 13:34; which in a little time would be seen, by his laying down his life for them: for he not only came down from heaven, and laid aside his glory and royal majesty, but he laid down his life; not his gold and silver, and the riches of this world, which were all his, but his life; than which, nothing is dearer to a man, is himself, his all: and besides, Christ's life was not a common one, it was not the life of an innocent person only, or the life of a mere man, but of a man in union with the Son of God; it was the Lord of glory and Prince of life, who was crucified, and slain; a life that was entirely at his own dispose; it had never been forfeited by sin, nor could it have been forced away from him by men or devils; it was laid down of and by himself, freely and voluntarily; and that \"for\", in the room, and instead of his people, as a ransom for them; he being their surety and substitute, and standing in their legal place and stead, he took their sins upon him, bore the curse of the law, sustained his Father's wrath, and all the punishment due to sin; and so suffered death, the death of the cross; the just, in the room and stead of the unjust; the persons for whom be laid down his life, are described as \"his friends\"; not that they were originally so; being enemies and enmity itself to God, when he laid down his life for them, and reconciled them; they were not such as had carried themselves friendly, or had shown any love and affection to him, but all the reverse: but they are so called, because he had chosen them for his friends; he had pitched upon them, and resolved to make them so; and by dying for them, reconciled them who were enemies; and in consequence of this, by his Spirit and grace, of enemies makes them friends; so that his love in dying for his people, is greater than any instance of love among men: he laid down his life for his enemies, without any sinister selfish views, and that freely and voluntarily; whereas among men, when one man has laid down his life for others, either they have been very deserving, or he has been forced to it, or it has been done with the view of popular applause and vain glory."
+    }
+  ]
+}

@@ -1579,3 +1579,100 @@ page into a citation. Dry-run bake (`DRY_RUN=1 IDS=569`) gave the standard two p
 violations (`note_present`, `parity_count`) and the new excerpt passed `verifyExcerpts.py` (the
 run's 3 unrelated FAILs were pre-existing issues on ids 537/542/563, not 569) — normal/expected,
 not a bug.
+
+## Haley has an exact, dedicated "Capital punishment." heading naming Cain by verse (id 576)
+"Should the blood-shedder be put to death?" (Gen 9:5-6 "by man shall his blood be shed" vs Gen
+4:15, God marking/protecting Cain from being killed) — curl+Grep of the scratchpad-cached
+`haley_djvu.txt` for the bare proper noun `Cain` (not a topical phrase) landed directly on a
+two-column heading **"Capital punishment. / Murderer executed. Spared."** (p. 258), which quotes
+Gen 9:6 against Cain's own words in Gen 4:12-13 verbatim and resolves it with a flat chronological
+move: "The case of Cain occurred some fifteen hundred years before this command was given to
+Noah." (Bare-phrase greps for `sevenfold`, `blood be shed`, and `mark upon Cain` all false-
+negatived — as at id 389/407, a rare proper noun is often the more reliable grep than the
+topical phrase.) Reconcile excerpt used **KD** on Genesis 9:3 (`KD/1/9/3`) rather than Haley
+(Haley isn't in `voices_present`, so he can only ever be `pd_work`, never an excerpt source) —
+KD's note makes a sharper doctrinal version of the same chronological move, distinguishing God's
+*direct* personal vengeance in Cain's case from the judicial power *delegated* to human courts by
+the Gen 9:6 command, in one self-contained sentence needing no ellipsis trim. Named skeptic:
+**Steve Wells / Skeptic's Annotated Bible** — `contra/capital.html` ("Does God approve of capital
+punishment?") WebFetch-confirmed to quote both Gen 9:6 and Gen 4:15 verbatim in its "No" column,
+juxtaposed exactly as this row's tension states (no `questionUrl` field existed on this id in
+`data/json`/`data/scholarly` batch files, so this was found by direct WebSearch/WebFetch instead
+of the usual shortcut). Link: `defendinginerrancy.com/bible-solutions/Genesis_4.12-13.php` ("Is
+there a Bible contradiction in Genesis 4:12-13?"), WebFetch-confirmed to state the tension in the
+same Gen-9:6-vs-Gen-4:15 terms and argue Cain's sparing was a sovereign pre-law exception. Dry-run
+bake (`DRY_RUN=1 IDS=576`) gave the standard two pre-T9/T10 violations (`note_present`,
+`parity_count`) and 925/925 `verifyExcerpts.py` PASS — normal/expected, not a bug.
+
+## R. N. Whybray is a real, verifiable named skeptic for Proverbs-internal anthology
+## contradictions — and Haley has an exact heading hit too (id 602)
+"Is there a remedy for foolishness?" (Prov 22:15, rod of correction drives folly from a child,
+vs Prov 27:22, grinding a fool in a mortar still won't make his folly depart) — the row's own
+pre-existing DB `scholarship` field (via `data/json/batch_31.json`, `questionUrl` pointed at a
+`philb61.github.io`/evil-bible mirror, not SAB, so no SAB slug applied here) already cited **R.
+N. Whybray, *Proverbs* (NCB; Eerdmans, 1994), pp. 322-324 and pp. 386-388** alongside Fox/Waltke/
+Clifford/McKane, crediting Whybray's "form-critical work" for the anthology-of-anthologies
+reading. WebSearch independently confirmed Whybray is real and wrote a dedicated monograph on
+exactly this mechanism — **R. N. Whybray, *The Composition of the Book of Proverbs*, JSOTSup 168
+(Sheffield: JSOT Press, 1994)** — which argues Proverbs' seven sub-collections were composed at
+different times and preserves unharmonized internal contradictions (the search summary's own
+example, Prov 26:4 vs 26:5, is the same genre of tension as this row's 22:15/27:22 pair, just a
+different verse pair). Used Whybray (the monograph, not the NCB commentary) as the discrepancy
+pole's `named_skeptic`, phrased around his general redactional thesis rather than claiming he
+named this exact pair, since only the general thesis was independently verified.
+
+Reconcile excerpt: **MHC** on Prov 27:22 (`MHC/20/27/22`) opens by naming Pro 22:15 explicitly
+and giving the age/inveteracy harmonization ("the vicious habits not having taken root" vs. "if
+the disease be inveterate...incurable") — a complete opening sentence needing no ellipsis.
+**Haley has a direct, exact-heading hit** (scratchpad-cached `haley.txt`, `Grep` for `mortar`
+found it in 3 hits total): "Folly,—treatment." (p. 278, "Ethical Discrepancies" chapter),
+two-column heading "Folly remediable." / "Folly remediless.", quoting both verses verbatim and
+resolving with the identical age-based move MHC uses ("'Foolishness'...is the incipient
+waywardness which belongs...to children...The 'fool' in the second text, is the grown-up fool,
+whose folly is past cure.") — used as `pd_work` over defaulting to MHC, since Haley directly and
+verifiably treats this specific pair. Link: `defendinginerrancy.com/bible-solutions/
+Proverbs_27.22.php` ("Proverbs 27:22—Is foolishness correctable?") — WebFetch-confirmed live,
+explicitly frames the Prov 22:15-vs-27:22 tension and resolves it with the same child/adult-fool
+distinction. Dry-run bake (`DRY_RUN=1 IDS=602`) gave the standard two pre-T9/T10 violations
+(`note_present`, `parity_count`) and 960/960 `verifyExcerpts.py` PASS — normal/expected.
+
+## Haley has ZERO coverage of Psalm 89 anywhere — confirmed by grepping for the roman-numeral
+## chapter cite itself, not just topical phrases (id 595)
+"How long should David's throne endure?" (Ps 89:35-37, God's sworn oath that David's seed/throne
+endure forever "as the sun"/"as the moon" vs Ps 89:44, eight verses later, "cast his throne down
+to the ground" — a purely intra-psalm tension, `testament_scope` OT_internal, `books_in_tension`
+just "Psalms"). `consensus: apparent_only` → `lean: reconcile_first`. Curl+Grep of the scratchpad
+`haley.txt` (`examinationof00hale_djvu.txt`) for `l\s*x\s*x\s*x\s*i\s*x` (Haley cites Psalms by
+roman-numeral chapter, e.g. "Psalm lix. 4" — confirmed via other real `Psalm [roman]` hits
+elsewhere in the same file) came back **zero hits for "lxxxix" (89) anywhere in the whole book** —
+a stronger negative check than a topical-phrase grep, since it rules out the chapter itself ever
+being cited under any topic heading. A separate `throne` grep (20 hits) turned up nothing on this
+verse pair either (nearest miss: a Jer 22:30/Davidic-succession-curse discussion at a different
+location, unrelated to this row). Correctly fell back to the contract's named alternative: a
+harmonizing commentator already surfaced on the row. **Matthew Henry's own general principle**
+(`MHC/19/89/38`, mid-note) states the row's `apparent_only` consensus almost verbatim: "Sometimes,
+it is no easy thing to reconcile God's providences with his promises, and yet we are sure they
+are reconcilable; for God's works fulfil his word and never contradict it." — used as both a
+reconcile excerpt AND (since Haley is out) the `deeper_learning.defense.pd_work`.
+
+Reconcile pole (3 excerpts, distinct voices, comfortably above the discrepancy pole's parity
+floor of 1): MHC/19/89/38 (the general reconcile-them principle, above), **GILL/19/89/44**
+("wherefore all these complaints, though true, are no objections to what is before said and swore
+to." — Gill's own note on v. 44 itself, saying the casting-down language doesn't undercut the
+earlier oath), and **GNV/19/89/45** ("He showeth that the kingdom fell before it came to
+perfection, or was ripe." — the Geneva Bible's marginal gloss reframing the fall as premature/
+incomplete rather than a final negation). All three are short, self-contained, no ellipsis needed.
+Named skeptic: **Steve Wells / Skeptic's Annotated Bible** — no `questionUrl` on this id in
+`data/json` batches, so found by direct `WebFetch` of `skepticsannotatedbible.com/ps/89.html`
+(note: SAB's **per-chapter** page path for Psalms is `/ps/<ch>.html`, NOT a `/contra/<slug>.html`
+page — this chapter-level tension is filed on the plain chapter annotation page, not a dedicated
+contra slug; `/psa/89.html` 404s, `/ps/89.html` is the real one), which confirmed the exact
+annotation: "God swore to David that his seed and kingdom would last forever. But the Davidic line
+of kings ended with Zedekiah; there were none during the Babylonian captivity, and there are none
+today," under `contra`/`abs`/`sci` category icons. No allowlisted `link` found: `gotquestions.org`
+has only a generic "throne of David" Christological page (not on this specific intra-psalm
+tension), and both `defendinginerrancy.com` (searched broadly, no dedicated Psalm 89 page exists
+on the site at all) and `carm.org` (searched for Psalm 89/throne, no on-topic page) came back
+empty — `link` omitted rather than stretched, per the id-407/440/569 precedent. Dry-run bake not
+run for this id (task scope excluded touching any `.db`/build step); JSON hand-validated via
+`node -e "JSON.parse(...)"` instead.

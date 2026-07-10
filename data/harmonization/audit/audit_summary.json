@@ -1,13 +1,13 @@
 {
   "floor": {
-    "total": 74,
-    "passed": 74,
+    "total": 46,
+    "passed": 46,
     "failed": 0
   },
   "sample": {
     "target_rate": 0.25,
-    "expected": 52,
-    "received": 440,
+    "expected": 32,
+    "received": 472,
     "missing": [],
     "extra": [
       "1#0",
@@ -347,11 +347,63 @@
       "52#0",
       "520#0",
       "521#0",
+      "522#0",
+      "523#0",
+      "523#1",
+      "524#0",
+      "525#0",
+      "526#0",
+      "527#0",
+      "528#0",
+      "529#0",
       "53#0",
+      "530#0",
+      "531#0",
+      "532#0",
+      "533#0",
+      "534#0",
+      "535#0",
+      "536#0",
+      "537#0",
+      "538#0",
+      "539#0",
       "54#0",
+      "540#0",
+      "541#0",
+      "542#0",
+      "543#0",
+      "544#0",
+      "545#0",
+      "546#0",
+      "547#0",
+      "548#0",
       "55#0",
+      "550#0",
+      "551#0",
+      "552#0",
+      "553#0",
+      "554#0",
+      "555#0",
+      "556#0",
+      "557#0",
+      "558#0",
+      "559#0",
       "56#0",
+      "560#0",
+      "561#0",
+      "562#0",
+      "563#0",
+      "564#0",
+      "565#0",
+      "566#0",
+      "567#0",
+      "567#1",
+      "568#0",
+      "569#0",
       "57#0",
+      "570#0",
+      "571#0",
+      "572#0",
       "58#0",
       "59#0",
       "6#0",
@@ -401,17 +453,17 @@
     ]
   },
   "overall": {
-    "pass": 425,
-    "flag": 15,
+    "pass": 455,
+    "flag": 17,
     "fail": 0
   },
   "on_tension": {
-    "on_tension": 439,
-    "weak": 1,
+    "on_tension": 470,
+    "weak": 2,
     "off_tension": 0
   },
   "pole_label": {
-    "correct": 440,
+    "correct": 472,
     "should_flip": 0,
     "no_stance": 0
   },
@@ -551,6 +603,24 @@
       "overall": "flag",
       "action": "correct verse_ref to Luke 9:56",
       "reason": "Verbatim Gill note (confirmed on biblehub/biblestudytools Gill-on-Luke-9 pages); shows a 2nd Samaritan village welcomed Jesus after the 1st's rejection, on-tension for the reconcile argument -- but verse_ref/full_note_ref say Luke 9:53 while the quoted text is actually Gill's note on Luke 9:56, not 9:53."
+    },
+    {
+      "excerpt_uid": "575#0",
+      "in_source": "pass",
+      "on_tension": "weak",
+      "pole_label": "correct",
+      "overall": "flag",
+      "action": "re-excerpt",
+      "reason": "Verbatim Gill on Job 11:7 (verified against source_note_text); genuinely on-tension (nature reveals God's existence/first-cause vs. cannot find out his full nature/being/perfections) but as quoted the excerpt flatly denies \"nature, being, and perfections\" are findable, omitting Gill's immediately-following clause (\"though some of the perfections of God may be investigated from the works of nature, such as the power, wisdom, and goodness of God, Rom 1:19; yet not all\") that actually grounds the reconcile connective's \"basic attributes\" claim; weak as excerpted, though the existence-vs-essence framing is correctly reconcile, not a concession."
+    },
+    {
+      "excerpt_uid": "601#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "flag",
+      "action": "correct verse_ref to Luke 6:26",
+      "reason": "Gill's note quotes/glosses Luke 6:26 (\"Woe...when all men shall speak well of you...for so did their fathers to the false prophets\"), not v.25 as labeled (full_note_ref GILL/42/6/25); excerpt itself verbatim (ellipsis drops only elaborative detail about the false prophets' rewards), correctly reconciles the woe (limited to praise from bad men) with the wisdom tradition's good-name praise -- flagged solely for the verse-ref mislabel."
     }
   ],
   "discrepancy_pole": {
@@ -558,31 +628,31 @@
     "dishonest": {}
   },
   "guardrails_agent": {
-    "reviewed": 437,
+    "reviewed": 469,
     "by_dimension": {
       "parity": {
-        "ok": 437,
+        "ok": 469,
         "violated": 0
       },
       "connectives": {
-        "ok": 418,
-        "flag": 19
+        "ok": 449,
+        "flag": 20
       },
       "named_skeptic": {
-        "ok": 423,
-        "not_real": 0,
+        "ok": 452,
+        "not_real": 1,
         "strawman": 9,
-        "n/a": 5
+        "n/a": 7
       },
       "discrepancy_integrity": {
-        "ok": 435,
-        "co_opted": 0,
-        "relabel_ok": 1,
+        "ok": 465,
+        "co_opted": 1,
+        "relabel_ok": 2,
         "relabel_missing": 1
       },
       "deeper_learning": {
-        "ok": 419,
-        "flag": 18,
+        "ok": 447,
+        "flag": 22,
         "missing": 0
       }
     },
@@ -624,7 +694,13 @@
       550,
       557,
       560,
-      571
+      571,
+      575,
+      576,
+      577,
+      583,
+      599,
+      601
     ]
   }
 }

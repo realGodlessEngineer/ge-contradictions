@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 593,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Clarke ties the difficulty directly to Romans 4:19, then resolves it by reading Keturah's sons as recorded out of chronological order, born before Isaac.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "William Henry Burr frames this as his Proposition 95: Isaac's birth 'by the interposition of Providence,' six later sons 'without any interposition of Providence.'",
+      "skeptic": {
+        "name": "William Henry Burr",
+        "work": "Self-Contradictions of the Bible",
+        "year": "1860",
+        "attribution": "William Henry Burr, Self-Contradictions of the Bible (1860), Proposition 95"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Genesis 25:1",
+      "excerpt_text": "Indeed it is not very likely that he had the children mentioned here after the death of Sarah; and from the circumstances of his age, feebleness, etc., at the birth of Isaac, it is still more improbable. Even at that age, forty years before the marriage of Isaac, the birth of his son is considered as not less miraculous on his part than on the part of Sarah; for the apostle expressly says, Rom 4:19, that Abraham considered not his own body Now Dead, when he was about a hundred years old, nor the Deadness of Sarah's womb; hence we learn that they were both past the procreation of children, insomuch that the birth of Isaac is ever represented as supernatural. It is therefore very improbable that he had any child after the birth of Isaac; and therefore we may well suppose that Moses had related this transaction out of its chronological order …",
+      "full_note_ref": "CLARKE/1/25/1",
+      "on_tension_rationale": "Clarke explicitly grounds the difficulty in Romans 4:19's 'body now dead' language and then resolves the Genesis 25 Keturah birth-notice by reading it as an achronological insertion — the single tightest, most self-contained statement of the reordering harmonization among the six voices.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), p. 318",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact contradiction under the heading 'Abraham's need of divine intervention. No occasion for a miracle,' juxtaposing Gen 17:17/Heb 11:12 against Gen 25:1-2, and offers the same two harmonizations found among the commentators here: Keturah's children predate Isaac's birth ('then again' resumes the narrative back into Sarah's lifetime), or the miraculous quickening of Abraham's virility simply persisted for years afterward."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Genesis_25.1-2.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Genesis 25:1-2 — How could Abraham have children naturally here when years before he needed a miracle to have Isaac?",
+        "note": "Live apologetic treatment of this exact tension, arguing Abraham's fertility could naturally persist for decades and/or that any miraculous restoration granted at Isaac's birth need not have been temporary."
+      }
+    }
+  }
+}

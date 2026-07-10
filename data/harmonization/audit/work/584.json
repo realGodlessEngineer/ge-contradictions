@@ -1,0 +1,50 @@
+{
+  "contradiction_id": 584,
+  "question": "Is it okay to marry your brother's widow?",
+  "summary": "Deuteronomy 25:5 not only permits but commands a man to marry his deceased brother's childless widow — the institution of levirate marriage (Hebrew yibbum), with the explicit purpose of raising up offspring to perpetuate the dead brother's name. Leviticus 20:21 flatly prohibits exactly the same act, calling it an \"unclean thing\" (niddah) that uncovers the brother's nakedness, with the penalty that the couple shall be childless. Same action, opposite rulings.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Gill reads Leviticus as barring a brother's wife except in the specific childless-widow case Deuteronomy's levirate law addresses.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Jacob Milgrom counters that the Holiness Code (Lev 18:16; 20:21) rules out levirate marriage altogether, in real tension with Deuteronomy's mandate.",
+    "skeptic": {
+      "name": "Jacob Milgrom",
+      "work": "Leviticus 17-22: A New Translation with Introduction and Commentary (Anchor Bible)",
+      "year": "2000",
+      "attribution": "Jacob Milgrom, Leviticus 17-22 (Anchor Bible 3A; New York: Doubleday, 2000), p. 1550"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pairing on p. 292, under the heading 'With a brother's widow, enjoined. The same prohibited,' and reports Keil's harmonization: the Levitical prohibition applies only where the deceased brother left children, while childlessness triggers the levirate duty."
+      },
+      "link": null
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "584#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Leviticus 20:21",
+      "full_note_ref": "GILL/3/20/21",
+      "excerpt_text": "To his wife, whether in his life, as the Targum of Jonathan adds, or whether after his death, unless when there is no issue, then he was obliged to it by another law, Deu 25:5; which is now ceased, and the law in Lev 18:16; here referred to, stands clear of all exceptions:",
+      "on_tension_rationale": "Gill's comment on Lev 20:21 explicitly invokes Deut 25:5, distinguishing the prohibited case (a living brother's wife, or a dead brother's wife who left an heir) from the levirate duty (dead brother, no issue) that resolves the apparent conflict.",
+      "source_note_text": "And if a man shall take his brother's wife,.... To his wife, whether in his life, as the Targum of Jonathan adds, or whether after his death, unless when there is no issue, then he was obliged to it by another law, Deu 25:5; which is now ceased, and the law in Lev 18:16; here referred to, stands clear of all exceptions:\nit is an unclean thing; or a \"separation\" (k) from which a man should remove and keep at a distance, as from menstruous women, of whom this word is used; and so denotes that it is by all means to be avoided, as an abominable and detestable thing; and it is observed that of all copulations it is only used of this: and the Jewish writers, as Aben Ezra and others, observe that this case is somewhat like that of a menstruous woman, who in the time of her separation is unlawful, but when out of it lawful; and so, in this case, a brother's wife might not be taken, he being alive; but after his death she might, if she had no son, according to the law before referred to, but that is now abolished:\nhe hath uncovered his brother's nakedness; his wife's, which was his brother's; which through nearness of kin, he ought not to have done; and the same holds good of a wife's sister, the relation being the same:\nthey shall be childless; they shall have none by such a marriage or copulation, and die without any; and as this supposes the brother's wife to have children by her first husband, or otherwise while the Jewish law lasted, it would not have been unlawful to marry her husband's brother; the meaning may be, that these should die before them, or rather, as some think, those that might be born of such a marriage should not be reckoned legitimate, and so not inherit.\n(k) \"separatio\", Drusius,"
+    }
+  ]
+}

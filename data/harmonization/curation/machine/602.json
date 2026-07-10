@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 602,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry ties the two proverbs together directly, reading the rod of correction in 22:15 as effective only while a child's character is still forming, and the incorrigible fool of 27:22 as one whose folly has already hardened past that window.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Form-critical scholar R. N. Whybray argues Proverbs is an anthology of originally separate collections that were never redactionally harmonized, so a pair like this preserves genuinely rival ancient wisdom voices on whether character can be reformed rather than one settled doctrine.",
+      "skeptic": {
+        "name": "R. N. Whybray",
+        "work": "The Composition of the Book of Proverbs",
+        "year": "1994",
+        "attribution": "R. N. Whybray, The Composition of the Book of Proverbs, JSOTSup 168 (Sheffield: JSOT Press, 1994)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Proverbs 27:22",
+      "excerpt_text": "Solomon had said (Pro 22:15), The foolishness which is bound in the heart of a child may be driven out by the rod of correction, for then the mind is to be moulded, the vicious habits not having taken root; but here he shows that, if it be not done then, it will be next to impossible to do it afterwards; if the disease be inveterate, there is a danger of its being incurable.",
+      "full_note_ref": "MHC/20/27/22",
+      "on_tension_rationale": "MHC explicitly names Pro 22:15 by citation and states the age/inveteracy-based harmonization for why 27:22 says the fool's folly will not depart -- directly on this row's tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pair under the heading \"Folly,--treatment\" (two columns: \"Folly remediable.\" / \"Folly remediless.\"), p. 278, quoting Prov 22:15 and 27:22 side by side and resolving the tension with the identical age-based distinction MHC uses: \"'Foolishness,' in the first text, is the incipient waywardness which belongs...to children, and may be corrected by suitable discipline. The 'fool' in the second text, is the grown-up fool, whose folly is past cure.\""
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Proverbs_27.22.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Proverbs 27:22—Is foolishness correctable?",
+        "note": "Live apologetics page explicitly framing and reconciling Prov 22:15 vs 27:22 via the same child/adult-fool distinction."
+      }
+    }
+  }
+}

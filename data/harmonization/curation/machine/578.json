@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 578,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators distinguish righteous indignation, permitted and even commanded, from the furious, sin-producing wrath the wisdom books and James condemn.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Christopher A. Baba's EvilBible.com presses the plain-sense reading: Ephesians 4:26 flatly approves anger while Ecclesiastes, Proverbs, and James flatly disapprove it.",
+      "skeptic": {
+        "name": "Christopher A. Baba",
+        "work": "EvilBible.com, \"Is it okay to get angry?\"",
+        "year": null,
+        "attribution": "Christopher A. Baba (editor), EvilBible.com, \"Is it okay to get angry?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Ephesians 4:26",
+      "excerpt_text": "Should circumstances arise to call for anger on your part, let it be as Christ's \"anger\" (Mar 3:5), without sin. Our natural feelings are not wrong when directed to their legitimate object, and when not exceeding due bounds. … Thus indignation at dishonor done to God, and wrong to man, is justifiable anger. Passion is sinful …",
+      "full_note_ref": "JFB/49/4/26",
+      "on_tension_rationale": "Distinguishes righteous, other-directed indignation from sinful passion, directly reconciling Eph 4:26's permission with the wisdom/James condemnation of anger.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "TYN",
+      "verse_ref": "Ephesians 4:26",
+      "excerpt_text": "The literal form of the quotation cannot be used to justify anger, for anger gives a foothold to the devil (cp. Jas 1:20). God’s people are to be gentle and gracious, not harsh or angry (see Eph 4:31-32).",
+      "full_note_ref": "TYN/49/4/26",
+      "on_tension_rationale": "Explicitly cross-references James 1:20 and argues Ephesians cannot be read as licensing anger, dissolving the apparent conflict rather than merely qualifying it.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Ephesians 4:26",
+      "excerpt_text": "We can never suppose that the apostle delivers this as a precept, if we take the words as they stand in our version. Perhaps the sense is, Take heed that ye be not angry, lest ye sin; for it would be very difficult, even for an apostle himself, to be angry and not sin. If we consider anger as implying displeasure simply, then there are a multitude of cases in which a man may be innocently, yea, laudably angry … But, in any other sense, I do not see how the words can be safely taken.",
+      "full_note_ref": "CLARKE/49/4/26",
+      "on_tension_rationale": "Reads the KJV wording as a caution rather than a command and restricts sanctioned 'anger' to mere displeasure, aligning it with the wisdom/James condemnations of passionate wrath.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats this exact cluster under the heading \"Anger — Approved / Condemned,\" quoting Eph 4:26, Prov 22:24, Eccl 7:9, and Jas 1:19-20 side by side, then resolves it via Alford and Bishop Butler's distinction between natural, legitimate indignation and cherished, sinful wrath."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Ephesians_4.26.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Ephesians 4:26—Is anger a sin or not?",
+        "note": "live apologetic treatment distinguishing righteous anger at sin from sinful anger"
+      }
+    }
+  }
+}

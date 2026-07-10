@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 591,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Clarke, quoting Lightfoot, distinguishes the town of Bethany from a wider Olivet \"Bethany\" tract a Sabbath day's journey from the city.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Mikeal Parsons argues Luke reshapes the ascension's location and timing to serve each volume's distinct narrative function, not simple reportage.",
+      "skeptic": {
+        "name": "Mikeal C. Parsons",
+        "work": "The Departure of Jesus in Luke-Acts: The Ascension Narratives in Context",
+        "year": "1987",
+        "attribution": "Mikeal C. Parsons, The Departure of Jesus in Luke-Acts: The Ascension Narratives in Context (JSNTSup 21; Sheffield: JSOT Press, 1987)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Luke 24:50",
+      "excerpt_text": "The difficulties in this verse, when collated with the accounts given by the other evangelists, are thus reconciled by Dr. Lightfoot. … For there was a Bethany, a tract of the mount, and the town of Bethany. … Our Savior led out his disciples, when he was about to ascend, to the very first region or tract of mount Olivet, which was called Bethany, and was distant from the city a Sabbath day's journey.",
+      "full_note_ref": "CLARKE/42/24/50",
+      "on_tension_rationale": "Directly reconciles Luke's 'Bethany' with Acts' 'mount called Olivet' by distinguishing the town of Bethany from a broader Olivet tract that also bore the name Bethany, itself a Sabbath day's journey from Jerusalem — resolving both the place-name and the distance figures at once.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832)",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke's note on Luke 24:50, quoting Bishop Lightfoot's reconciliation of the Sabbath-day's-journey figures, treats this precise Bethany/Olivet tension directly."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Luke_24.50-51.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in Luke 24:50–51?",
+        "note": "live apologetic treatment reconciling Bethany with the Mount of Olives"
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 582,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "JFB reads Deuteronomy's Egypt-based motive as an added reason for Sabbath rest, not a rival account displacing the creation rationale already given in Exodus.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steven DiMattei presses the harder reading: the creation and Exodus rationales come from separate biblical authors, not one writer supplying two motives.",
+      "skeptic": {
+        "name": "Steven DiMattei",
+        "work": "\"Is the Origin of the Sabbath to Be Found in God's Rest on the 7th Day OR the Manner in Which Yahweh Gave Rest to the Hebrews When They Were Slaves in Egypt?\" (Contradictions in the Bible)",
+        "year": "2013",
+        "attribution": "Steven DiMattei, \"Is the Origin of the Sabbath to Be Found in God's Rest on the 7th Day OR the Manner in Which Yahweh Gave Rest to the Hebrews When They Were Slaves in Egypt?\", Contradictions in the Bible (Jan. 4, 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Deuteronomy 5:14",
+      "excerpt_text": "This is a different reason for the observance of the Sabbath from what is assigned in Exo 20:8-11, where that day is stated to be an appointed memorial of the creation. But the addition of another motive for the observance does not imply any necessary contrariety to the other; and it has been thought probable that, the commemorative design of the institution being well known, the other reason was specially mentioned on this repetition of the law, to secure the privilege of sabbatic rest to servants, of which, in some Hebrew families, they had been deprived.",
+      "full_note_ref": "JFB/5/5/14",
+      "on_tension_rationale": "JFB explicitly names both rationales (Exo 20:8-11's creation memorial and Deuteronomy's Egyptian-bondage motive) and argues the second does not conflict with the first — directly on this row's tension, not a general gloss on the verse.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Under the heading 'Instituted for one reason. For a different reason,' Haley sets Exodus 20:11 directly against Deuteronomy 5:15 and answers: 'This is an example of two concurrent reasons for the same observance. The primary reason why all mankind should keep the Sabbath is that the Creator rested on that day. An additional and special reason why the Israelites should keep it was the fact that they had been delivered from Egyptian bondage by the Author of the Sabbath,' illustrating the point with an analogy to freedmen keeping New Year's Day both as the start of the year and as their emancipation anniversary."
+      },
+      "link": null
+    }
+  }
+}

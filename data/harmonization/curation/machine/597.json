@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 597,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read the two claims as different domains: Jewish law found Jesus worthy of death, but Rome alone held the power to execute.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Daniel G. Taylor's BibViz Project lists the two verses as a stand-alone contradiction, presenting 'not lawful' against 'he ought to die' without resolution.",
+      "skeptic": {
+        "name": "Daniel G. Taylor",
+        "work": "BibViz Project (Bible Contradictions Visualized)",
+        "year": "2013",
+        "attribution": "Daniel G. Taylor, BibViz Project (bibviz.com, 2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "John 18:30",
+      "excerpt_text": "They were conscious they had no case of which Pilate could take cognizance, and therefore insinuate that they had already found Him worthy of death by their own law; but not having the power, under the Roman government, to carry their sentence into execution, they had come merely for his sanction.",
+      "full_note_ref": "JFB/43/18/30",
+      "on_tension_rationale": "Directly resolves the two claims: found worthy of death under their own law, yet lacking power to carry out execution under Rome.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "John 18:31",
+      "excerpt_text": "They might have judged Jesus according to their law, as Pilate bade them do; but they could only excommunicate or scourge him. They might have voted him worthy of death; but they could not put him to death, if any thing of a secular nature were charged against him.",
+      "full_note_ref": "CLARKE/43/18/31",
+      "on_tension_rationale": "Explains 'not lawful' (18:31) as a lack of executive power to execute, even though their own law could pronounce him worthy of death (matching 19:7).",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "John 18:31",
+      "excerpt_text": "For judgments of life and death were taken from them forty years before the destruction of the temple.",
+      "full_note_ref": "GNV/43/18/31",
+      "on_tension_rationale": "Gives the historical reason the Jewish authorities lacked capital jurisdiction, supporting the harmonization of the 'not lawful' statement with 19:7's verdict.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pairing under the heading 'Christ's execution -- Lawful, Unlawful' (John 19:7 vs. John 18:31), p. 220, resolving it as Mosaic verdict versus Roman restriction on carrying out execution."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/John_18.31.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in John 18:31?",
+        "note": "Live apologetic treatment of this exact John 18:31 / John 19:7 pairing, citing Geisler & Howe's When Critics Ask."
+      }
+    }
+  }
+}

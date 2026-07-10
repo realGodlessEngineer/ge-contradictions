@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 597,
+  "question": "Was it lawful for the Jews to kill Jesus?",
+  "summary": "John 19:7 has the Jewish authorities declaring that under their own law, Jesus deserves death — \"by our law he ought to die, because he made himself the Son of God.\" John 18:31 has the same authorities saying to Pilate, \"It is not lawful for us to put any man to death.\" Same group, same trial scene, two different answers about whether their law permits killing Jesus.",
+  "consensus": "probable_harmonization",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Commentators read the two claims as different domains: Jewish law found Jesus worthy of death, but Rome alone held the power to execute.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Daniel G. Taylor's BibViz Project lists the two verses as a stand-alone contradiction, presenting 'not lawful' against 'he ought to die' without resolution.",
+    "skeptic": {
+      "name": "Daniel G. Taylor",
+      "work": "BibViz Project (Bible Contradictions Visualized)",
+      "year": "2013",
+      "attribution": "Daniel G. Taylor, BibViz Project (bibviz.com, 2013)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pairing under the heading 'Christ's execution -- Lawful, Unlawful' (John 19:7 vs. John 18:31), p. 220, resolving it as Mosaic verdict versus Roman restriction on carrying out execution."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/John_18.31.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in John 18:31?",
+        "note": "Live apologetic treatment of this exact John 18:31 / John 19:7 pairing, citing Geisler & Howe's When Critics Ask."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "597#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "John 18:30",
+      "full_note_ref": "JFB/43/18/30",
+      "excerpt_text": "They were conscious they had no case of which Pilate could take cognizance, and therefore insinuate that they had already found Him worthy of death by their own law; but not having the power, under the Roman government, to carry their sentence into execution, they had come merely for his sanction.",
+      "on_tension_rationale": "Directly resolves the two claims: found worthy of death under their own law, yet lacking power to carry out execution under Rome.",
+      "source_note_text": "If he were not a malefactor, we would not have delivered him up unto thee--They were conscious they had no case of which Pilate could take cognizance, and therefore insinuate that they had already found Him worthy of death by their own law; but not having the power, under the Roman government, to carry their sentence into execution, they had come merely for his sanction."
+    }
+  ]
+}

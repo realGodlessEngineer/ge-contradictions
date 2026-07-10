@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 584,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill reads Leviticus as barring a brother's wife except in the specific childless-widow case Deuteronomy's levirate law addresses.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Jacob Milgrom counters that the Holiness Code (Lev 18:16; 20:21) rules out levirate marriage altogether, in real tension with Deuteronomy's mandate.",
+      "skeptic": {
+        "name": "Jacob Milgrom",
+        "work": "Leviticus 17-22: A New Translation with Introduction and Commentary (Anchor Bible)",
+        "year": "2000",
+        "attribution": "Jacob Milgrom, Leviticus 17-22 (Anchor Bible 3A; New York: Doubleday, 2000), p. 1550"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Leviticus 20:21",
+      "excerpt_text": "To his wife, whether in his life, as the Targum of Jonathan adds, or whether after his death, unless when there is no issue, then he was obliged to it by another law, Deu 25:5; which is now ceased, and the law in Lev 18:16; here referred to, stands clear of all exceptions:",
+      "full_note_ref": "GILL/3/20/21",
+      "on_tension_rationale": "Gill's comment on Lev 20:21 explicitly invokes Deut 25:5, distinguishing the prohibited case (a living brother's wife, or a dead brother's wife who left an heir) from the levirate duty (dead brother, no issue) that resolves the apparent conflict.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pairing on p. 292, under the heading 'With a brother's widow, enjoined. The same prohibited,' and reports Keil's harmonization: the Levitical prohibition applies only where the deceased brother left children, while childlessness triggers the levirate duty."
+      },
+      "link": null
+    }
+  }
+}

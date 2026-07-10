@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 585,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "GILL argues Jesus never enjoins literal hatred — contrary to God's own law — but only that family not be loved more than Christ.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Gerd Theissen argues Luke's family-renunciation ethic reflects the real practice of the wandering-charismatic Jesus movement — a stance the later household code genuinely reverses.",
+      "skeptic": {
+        "name": "Gerd Theissen",
+        "work": "Sociology of Early Palestinian Christianity",
+        "year": "1978",
+        "attribution": "Gerd Theissen, Sociology of Early Palestinian Christianity, trans. John Bowden (Philadelphia: Fortress, 1978), pp. 8-16"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Luke 14:26",
+      "excerpt_text": "not that proper hatred of any, or all of these, is enjoined by Christ; for this would be contrary to the laws of God, to the first principles of nature, to all humanity, to the light of nature, to reason and divine revelation: but that these are not to be preferred to Christ, or loved more than he …",
+      "full_note_ref": "GILL/42/14/25",
+      "on_tension_rationale": "Directly denies that Jesus commands literal hatred, grounding the denial in 'the laws of God' — the same divine-law footing Ephesians' household commands stand on — and reduces 'hate' to not-preferring-above-Christ, which is compatible with honoring parents and loving one's wife.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley devotes a page-286 parallel-column heading, 'Kindred, how regarded: Hated. — Loved.', setting Luke 14:26 directly against Ephesians 5:25, 33, and resolves it via the Hebrew-idiom sense of 'hate' as 'to love less,' quoting Moses Stuart and Henry Alford."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/hate-father-mother.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What did Jesus mean when He instructed us to hate our father and mother (Luke 14:26)?",
+        "note": "Live apologetic treatment of the same comparative-hatred reading (cross-referencing Mark 7:9-13 and 1 Timothy 5:8 rather than Ephesians, but directly on-topic to Luke 14:26 itself)."
+      }
+    }
+  }
+}

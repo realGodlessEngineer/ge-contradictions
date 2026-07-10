@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 603,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Clarke and other harmonizers read James's peirasmos as trial in a positive sense, distinct from the enticement to sin the Lord's Prayer petitions against.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "NT scholar Andrew Bowden argues 'trial' is a mistranslation in James 1:2 — undercutting Clarke's own distinction from 'what is generally understood by...temptation.'",
+      "skeptic": {
+        "name": "Andrew Bowden",
+        "work": "\"Count What All Joy? The Translation of πειρασμός in James 1.2 and 12,\" The Bible Translator 65.2",
+        "year": "2014",
+        "attribution": "Andrew Bowden, \"Count What All Joy? The Translation of πειρασμός in James 1.2 and 12,\" The Bible Translator 65.2 (2014): 113–124."
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "James 1:2",
+      "excerpt_text": "The word πειρασμος, which we translate temptation, signifies affliction, persecution, or trial of any kind; and in this sense it is used here, not intending diabolic suggestion, or what is generally understood by the word temptation.",
+      "full_note_ref": "CLARKE/59/1/2",
+      "on_tension_rationale": "Clarke explicitly distinguishes James's peirasmos (trial/affliction) from 'what is generally understood by the word temptation' -- the same word used in Matthew 6:13 -- which is the exact lexical crux of the contradiction.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), p. 253",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's chapter of ethical discrepancies includes a dedicated 'Temptation. Desirable. / Undesirable.' entry citing exactly James 1:2 against Matthew 6:13, resolving it via Alford's distinction between the general sense of trial/distress and the narrower sense of enticement -- 'Matthew inculcates a humble self-distrust and shrinking from such trials in the prospect; James teaches that when they do providentially overtake us, we are to rejoice.'"
+      },
+      "link": null
+    }
+  }
+}

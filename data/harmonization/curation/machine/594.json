@@ -1,0 +1,46 @@
+{
+  "contradiction_id": 594,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The Geneva Bible's annotators call the personal-ownership gap a case of synecdoche: the promise was certain and 'belonged to Abraham,' fulfilled through his posterity.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "William Henry Burr catalogues this as a self-contradiction: Genesis grants Abraham Canaan forever, yet Acts says he received no inheritance in it at all.",
+      "skeptic": {
+        "name": "William Henry Burr",
+        "work": "Self-Contradictions of the Bible",
+        "year": "1860",
+        "attribution": "William Henry Burr, Self-Contradictions of the Bible (1860), no. 97"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Acts 7:5",
+      "excerpt_text": "The promise of the possession was certain and belonged to Abraham, though his posterity enjoyed it a great while after his death: and this is the figure Synecdoche.",
+      "full_note_ref": "GNV/44/7/5",
+      "on_tension_rationale": "GNV directly addresses the Acts 7:5 wording ('none inheritance ... not so much as to set his foot on') by explaining the promise belonged to Abraham by synecdoche even though his descendants took physical possession after his death -- a direct harmonization of the Genesis-vs-Acts tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pairing (Gen 13:15, 15:18 vs Acts 7:5) under the heading 'Abraham's inheritance secured. Not possessed by him,' arguing the land was given to Abraham 'in trust' for his seed as founder and representative of the nation."
+      }
+    }
+  }
+}

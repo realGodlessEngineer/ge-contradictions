@@ -1,0 +1,46 @@
+{
+  "contradiction_id": 598,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry reads Proverbs' earthly recompense as partial, not final — evidence pointing to the fuller judgment reserved for the age to come.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman argues Proverbs' this-life retribution and the New Testament's deferred apocalyptic judgment are not phases of one plan but rival, unreconciled biblical answers to suffering.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "God's Problem: How the Bible Fails to Answer Our Most Important Question—Why We Suffer",
+        "year": "2008",
+        "attribution": "Bart D. Ehrman, God's Problem: How the Bible Fails to Answer Our Most Important Question—Why We Suffer (HarperOne, 2008)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Proverbs 11:31",
+      "excerpt_text": "There are some recompences in the earth, in this world, and in the things of this world, which prove that verily there is a God that judges in the earth (Psa 58:11); but they are not universal; many sins go unpunished in the earth, and services unrewarded, which indicates that there is a judgment to come, and that there will be more exact and full retributions in the future state.",
+      "full_note_ref": "MHC/20/11/31",
+      "on_tension_rationale": "Directly reconciles the this-world-vs-eschaton tension: earthly recompense in Prov 11:31 is cast as partial and incomplete, which is precisely why a fuller future judgment (Rev 20:12, Matt 16:27, 2 Cor 5:10) is needed — a completion of an admittedly partial process, not a rival claim.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Under the heading \"Retribution on Earth,\" Haley sets Proverbs 11:31 directly against Matthew 16:27 and argues the earthly recompense is only the beginning of retribution, quoting Stuart that \"the same retributive government which begins to assert its power in this world, will continue its processes in the world to come,\" and concluding \"in no aspect is it affirmed that full and final retribution is administered in this world\" (pp. 182-183, printed pagination; Internet Archive item examinationof00hale, raw pp. 198-199)."
+      }
+    }
+  }
+}

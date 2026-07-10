@@ -8,7 +8,7 @@ metadata:
 The harmonization TRANSFORM pass mislabels Gill's verse pointer by one verse with
 real regularity — the embedded `source_note_text` is genuinely verbatim Gill, but
 `verse_ref`/`full_note_ref` (and occasionally `deeper_learning.defense.pd_work`)
-point one verse off from where that text actually sits. **11+ confirmed instances**
+point one verse off from where that text actually sits. **18+ confirmed instances**
 across the audit: id 160 (Deut 3:25→26, "wroth for your sakes"/Meribah — mislabel
 persists into pd_work → flag), id 128 (Prov 27:8→9, ointment note — pd_work
 independently correct → E-flag only), id 342 (Job 42:10→11, "comforted him" —
@@ -25,7 +25,9 @@ no excerpt-side error), id 446 (1 Tim 2:5→6 — persists into pd_work → flag
 456 (Matt 26:33→34, cock-crow prediction — E-flag only), id 467 (Matt 27:27→28,
 scarlet/purple robe — pd_work unversed, unaffected), id 471 (Matt 27:43→44,
 thieves-revile — E-flag only), id 489 (Luke 8:30→31, "not command them to go" —
-persists into pd_work → flag). Counter-example: id 77 Deut 4:26 verse_ref checked
+persists into pd_work → flag), id 601 (Luke 6:25→26, "when all men shall speak
+well of you"/false-prophets woe — persists into pd_work note → flag both).
+Counter-example: id 77 Deut 4:26 verse_ref checked
 and found CORRECT — errors are real but not universal, always verify rather than
 assume either way.
 
