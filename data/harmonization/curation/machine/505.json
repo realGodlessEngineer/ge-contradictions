@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 505,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "JFB flatly denies any textual ground for identifying Luke's unnamed sinner with a named woman, keeping her distinct from John's Mary of Bethany.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "D. F. Strauss noted Luke and John describe the distinctive foot-drying-with-hair detail 'in nearly the same words,' concluding this is one story, not two.",
+      "skeptic": {
+        "name": "David Friedrich Strauss",
+        "work": "The Life of Jesus Critically Examined",
+        "year": "1846",
+        "attribution": "David Friedrich Strauss (1808-1874), The Life of Jesus Critically Examined (German orig. Das Leben Jesu, 1835-36; Eng. trans. 1846), Part II, § 89."
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Luke 7:37",
+      "excerpt_text": "There is no ground whatever for the popular notion that this woman was Mary Magdalene, nor do we know what her name was.",
+      "full_note_ref": "JFB/42/7/37",
+      "on_tension_rationale": "JFB directly denies the popular identification linking Luke's unnamed sinner to a named Gospel woman, the harmonizing move that keeps her distinct from John's Mary of Bethany.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley lists this exact pairing under events distinguished by occurring at different times: \"Christ anointed at one time, Matt. xxvi. 7; John xii. 3; at another time, Luke vii. 37, 38 (the best critics hold that the anointing in the first two passages was quite distinct from that mentioned by Luke),\" p. 411."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Jesus-anointed.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What is the significance of Jesus being anointed by a woman with expensive perfume?",
+        "note": "Live apologetic treatment distinguishing the Luke 7 sinner from John 12's Mary of Bethany as separate anointings."
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "contradiction_id": 465,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Henry distinguishes Jesus's direct reply to Pilate's own question from his silence toward the priests' accusations — the same split John's fuller dialogue reflects.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman notes Mark's Jesus speaks 'only two words' to Pilate, a contrast with John he treats as an irreconcilable trial detail.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus Before the Gospels: How the Earliest Christians Remembered, Changed, and Invented Their Stories of the Savior",
+        "year": "2016",
+        "attribution": "Bart D. Ehrman, Jesus Before the Gospels (HarperOne, 2016); see also ehrmanblog.org, \"The Ironies of Jesus' Trial\" (Feb. 20, 2018) and \"Jesus' Trial Before Pilate: Some of the Distorted Memories of the Gospels\" (June 15, 2023)."
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Mark 15:1",
+      "excerpt_text": "These priests were very eager and noisy in their accusation; but Christ answered nothing, Mar 15:3. When Pilate urged him to clear himself, and was desirous he should (Mar 15:4), yet still he stood mute (Mar 15:5), he answered nothing, which Pilate thought very strange. He gave Pilate a direct answer (Mar 15:2), but would not answer the prosecutors and witnesses, because the things they alleged, were notoriously false, and he knew Pilate himself was convinced they were so.",
+      "full_note_ref": "MHC/41/15/1",
+      "on_tension_rationale": "Explicitly distinguishes Jesus's direct answer to Pilate's own question (paralleling John's fuller kingship dialogue) from his silence toward the chief priests' accusations (Matthew/Mark's stated silence) — the core harmonizing mechanism for this contradiction.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Mark 15:1-5",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Haley's Examination of the Alleged Discrepancies of the Bible was checked directly (full-text search of the archive.org djvu transcription for \"Pilate,\" \"answered nothing,\" \"kept silence,\" \"not of this world,\" \"King of the Jews,\" and \"Am I a Jew\") and returns zero hits — Haley does not treat this trial scene at all. Falling back to the contract's named alternative, Matthew Henry's own note on Mark 15:1-5 treats the passage directly, resolving the tension by distinguishing Jesus's direct reply to Pilate's personal question from his silence toward the chief priests' accusations."
+      },
+      "link": null
+    }
+  }
+}

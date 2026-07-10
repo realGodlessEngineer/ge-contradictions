@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 473,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill treats Matthew's \"cried again\" as a second utterance, making Luke's and John's sayings sequential last words rather than rival, exclusive ones.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman presses the point hardest: harmonizing Matthew, Luke, and John into \"seven last words\" erases what each evangelist individually meant to say.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don't Know About Them)",
+        "year": "2009",
+        "attribution": "Bart D. Ehrman, Jesus, Interrupted (2009)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 27:49",
+      "excerpt_text": "Jesus, when he had cried again,.... \"A second time\", as the Persic version; for he had cried once before, and expressed the words he did, as in Mat 27:46, what he now delivered were, \"Father, into thy hands I commend my Spirit\", Luk 23:46, and \"it is finished\", Joh 19:30, which he said with a loud voice …",
+      "full_note_ref": "GILL/40/27/49",
+      "on_tension_rationale": "Gill directly harmonizes all three 'last words' passages by reading Matthew's second cry as encompassing both Luke's and John's sayings, resolving the divergence via sequence rather than conflict.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Matthew 27:49",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact passage, reading the 'cried again' of Matthew 27:49 as a second utterance that includes both Luke's and John's sayings — the harmonization keyed directly to the verse."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/what-are-the-last-words-of-jesus/",
+        "domain": "carm.org",
+        "title": "CARM: What are the very last words of Jesus?",
+        "note": "Live apologetic treatment arranging the three sayings chronologically (Matthew/Mark, then John, then Luke as the final word) to resolve the 'different last words' tension."
+      }
+    }
+  }
+}

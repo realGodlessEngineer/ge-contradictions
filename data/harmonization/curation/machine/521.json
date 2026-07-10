@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 521,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry reads Exodus 4:11's claim of divine authorship over disability through the very lens John 9:3 supplies — both serve God's wise and glorious purposes.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, in the Skeptic's Annotated Bible, presses the shift in agency: Exodus 4:11 names God as maker of the blind, deaf, and dumb, but Mark 9:17, 25 blames a \"foul spirit\" Jesus expels.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Who makes people blind?\" (skepticsannotatedbible.com/contra/blind.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/blind.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Exodus 4:11",
+      "excerpt_text": "Their imperfections are from him too; he make the dumb, and deaf, and blind. Is there any evil of this kind, and the Lord has not done it? No doubt he has, and always in wisdom and righteousness, and for his own glory, Joh 9:3.",
+      "full_note_ref": "MHC/2/4/10",
+      "on_tension_rationale": "Henry glosses Exodus 4:11's claim of divine authorship over disability by cross-referencing it directly to John 9:3, reading both as the same providential principle (disability serving God's wisdom/glory) rather than as competing etiologies — the only note in the set that actually bridges the two texts.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on Exodus 4:10-17",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry keys the harmonization to this exact passage, reading Exodus 4:11's 'who maketh the dumb, or deaf... or blind' alongside John 9:3's 'works of God manifest' as one providential principle. (Haley's An Examination of the Alleged Discrepancies of the Bible does not appear to treat Exodus 4:11 or this specific tension; per spec a row-surfaced harmonizing commentator keyed to the passage is used instead.)"
+      },
+      "link": null
+    }
+  }
+}

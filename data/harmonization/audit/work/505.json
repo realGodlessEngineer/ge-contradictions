@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 505,
+  "question": "Who washed Jesus's feet with her tears and dried his feet with her hair?",
+  "summary": "John 12:1-3 names Mary, the sister of Martha and Lazarus, anointing Jesus' feet at Bethany six days before Passover. Luke 7:36-38 places an unnamed sinful woman washing Jesus' feet with her tears at a Pharisee's house earlier in the ministry. Both narratives describe the same striking detail — a woman wiping Jesus' feet with her hair — but identify different women in different settings, and a long interpretive tradition further conflated both with Mary Magdalene.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "JFB flatly denies any textual ground for identifying Luke's unnamed sinner with a named woman, keeping her distinct from John's Mary of Bethany.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "D. F. Strauss noted Luke and John describe the distinctive foot-drying-with-hair detail 'in nearly the same words,' concluding this is one story, not two.",
+    "skeptic": {
+      "name": "David Friedrich Strauss",
+      "work": "The Life of Jesus Critically Examined",
+      "year": "1846",
+      "attribution": "David Friedrich Strauss (1808-1874), The Life of Jesus Critically Examined (German orig. Das Leben Jesu, 1835-36; Eng. trans. 1846), Part II, § 89."
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley lists this exact pairing under events distinguished by occurring at different times: \"Christ anointed at one time, Matt. xxvi. 7; John xii. 3; at another time, Luke vii. 37, 38 (the best critics hold that the anointing in the first two passages was quite distinct from that mentioned by Luke),\" p. 411."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Jesus-anointed.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What is the significance of Jesus being anointed by a woman with expensive perfume?",
+        "note": "Live apologetic treatment distinguishing the Luke 7 sinner from John 12's Mary of Bethany as separate anointings."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "505#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Luke 7:37",
+      "full_note_ref": "JFB/42/7/37",
+      "excerpt_text": "There is no ground whatever for the popular notion that this woman was Mary Magdalene, nor do we know what her name was.",
+      "on_tension_rationale": "JFB directly denies the popular identification linking Luke's unnamed sinner to a named Gospel woman, the harmonizing move that keeps her distinct from John's Mary of Bethany.",
+      "source_note_text": "CHRIST'S FEET WASHED WITH TEARS. (Luk 7:36-50)\na sinner--one who had led a profligate life. Note.--There is no ground whatever for the popular notion that this woman was Mary Magdalene, nor do we know what her name was. (See on Luk 8:2.)\nan alabaster box of ointment--a perfume vessel, in some cases very costly (Joh 12:5). \"The ointment has here a peculiar interest, as the offering by a penitent of what had been an accessory in her unhallowed work of sin\" [ALFORD]."
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 467,
+  "question": "What color was Jesus' robe?",
+  "summary": "Matthew 27:28 says the soldiers put a *scarlet* robe (*chlamyda kokkinēn*) on Jesus. Mark 15:17 and John 19:2 say it was *purple* (*porphyran*). Two different colors named in three different gospels for what is clearly the same mock-coronation robe.",
+  "consensus": "probable_harmonization",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Early commentators treat 'scarlet' and 'purple' as overlapping shades of the same mock-royal garment, or as two garments worn in sequence.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells's Skeptic's Annotated Bible presses the point directly, juxtaposing Matthew's scarlet robe against Mark and John's purple as an unresolved discrepancy in eyewitness detail.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "Skeptic's Annotated Bible, \"What color was Jesus's robe?\"",
+      "year": null,
+      "attribution": "Steve Wells, Skeptic's Annotated Bible (skepticsannotatedbible.com/contra/color.html)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63)",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats the scarlet/purple wording at all three verses directly, proposing overlapping color-terms or two garments worn in sequence — Haley's Alleged Discrepancies does not cover this passage, so Gill (already surfaced on the row) serves as the passage-specific PD defense."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/was-the-robe-of-jesus-scarlet-or-purple/",
+        "domain": "carm.org",
+        "title": "CARM: Was the robe of Jesus Scarlet or Purple?",
+        "note": "live apologetic treatment arguing scarlet and purple could appear nearly identical under dim indoor lighting"
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "467#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Matthew 27:27",
+      "full_note_ref": "GILL/40/27/27",
+      "excerpt_text": "and put on him a scarlet robe, or \"a red coat\", as the Persic version renders it; very likely an old coat of one of their officers. The Evangelists Mark and John say it was \"purple\", Mar 15:17, and so the Arabic version renders it here: whether there were two garments put upon him, the one a purple vest, and the other a scarlet robe over it; or whether scarlet was used instead of purple, is not certain …",
+      "on_tension_rationale": "Gill names the scarlet/purple discrepancy directly and offers the two live harmonizations (overlapping color-terms; two garments layered).",
+      "source_note_text": "And they stripped him,.... Of his clothes; at least of his upper garment: for one man to spit upon another, as these soldiers afterwards did on Christ, or to strip him of his garment, according to the Jewish canons, were punishable with a fine of four hundred pence (z), which amounted to twelve pounds and ten shillings of our money; but the soldiers were in no danger of being prosecuted, for stripping Christ. This is one part of the low estate Christ submitted to: his clothes on his back seem to be all he had in this world, and of these he is stripped:\nand put on him a scarlet robe, or \"a red coat\", as the Persic version renders it; very likely an old coat of one of their officers. The Evangelists Mark and John say it was \"purple\", Mar 15:17, and so the Arabic version renders it here: whether there were two garments put upon him, the one a purple vest, and the other a scarlet robe over it; or whether scarlet was used instead of purple, is not certain; which was a colour wore by kings, and a sign of imperial dignity (a); and therefore put upon Christ by way of mockery, upbraiding him with the character he bore, as king of the Jews. This was an emblem of his being clothed, as it were with our sins, which are as scarlet, and of his bloody sufferings in the human nature.\n(z) Misn. Bava Kama, c. 8. sect. 6. (a) Alexander ab Alex. Genial. Dier. l. 1. c. 28."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 479,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill harmonizes the order by reading Luke's women as already prompted by Matthew's angel before they themselves find the tomb empty.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman treats the empty-tomb accounts' differing order of discovery and angelic announcement as one of the Gospels' clearest, unharmonizable contradictions.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (and Why We Don't Know About Them)",
+        "year": "2009",
+        "attribution": "Bart D. Ehrman, Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (and Why We Don't Know About Them) (2009), pp. 47-60"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Luke 24:2",
+      "excerpt_text": "And they entered in,.... To the sepulchre, being invited, encouraged, and led on by the angel that sat upon the stone; … and found not the body of the Lord Jesus …",
+      "full_note_ref": "GILL/42/24/2",
+      "on_tension_rationale": "Gill addresses the order tension directly: an angel (Matthew's, already seated on the stone) is already present and prompting the women before they themselves discover the tomb is empty, reconciling Luke's later-order account with Matthew's angel-first sequence.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's \"Historical Discrepancies\" section (pp. 327-329, under the heading \"Christ's resurrection, — certain narratives. Different account of it,\" setting Matt. 28:1-10 and Mark 16:1-14 against Luke 24:1-12 and John 20:1-18) gives a full sequenced harmony, quoting Robinson: the angel has already descended and sat on the stone before the women arrive; they then enter, find the body gone, and are perplexed; and only afterward do two angels appear and speak — directly addressing the order in which discovery and angelic announcement occur across the four accounts."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/resurrection-accounts.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Can the various resurrection accounts from the four Gospels be harmonized?",
+        "note": "Presents a single sequenced harmony of the empty-tomb morning (angel descends and rolls the stone away, then the women arrive and find it empty) that resolves the ordering tension, though it does not flag the tension by name."
+      }
+    }
+  }
+}

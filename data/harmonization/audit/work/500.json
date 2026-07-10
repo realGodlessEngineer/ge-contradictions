@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 500,
+  "question": "Did the eleven disciples believe the two men who claimed to see Jesus?",
+  "summary": "Luke 24:33-34 has the two Emmaus disciples return to Jerusalem and find the eleven already saying 'The Lord is risen indeed, and hath appeared to Simon' — meaning the eleven already believed, before the Emmaus pair even told their story. Mark 16:12-13 has Jesus appear to two disciples on the road, they report it to the rest, 'neither believed they them.' Same episode, opposite reception.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Citing Lightfoot's grammatical analysis, Adam Clarke argues the eleven's exclamation was tentative conjecture prompted by Peter's sudden return, not confirmed faith — fully compatible with their still disbelieving the Emmaus pair's fuller account.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "The Skeptic's Annotated Bible presses the plain reading: Luke has the eleven already declaring the Lord risen and seen by Simon, while Mark flatly states they did not believe — a contradiction, not a difference of certainty.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible, \"Did the eleven disciples believe the two men who claimed to see Jesus?\"",
+      "year": null,
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible, skepticsannotatedbible.com/contra/eleven_believe.html"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Mark 16:12",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke quotes John Lightfoot's harmonization at length directly on this passage, treating the specific tension between Luke 24:34 and Mark 16:12-13."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No live allowlisted apologetics page confirmed to treat this specific passage pair; omitted rather than guessed."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "500#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Mark 16:12",
+      "full_note_ref": "CLARKE/41/16/12",
+      "excerpt_text": "The reconciling therefore of the evangelists is to be fetched thence, that those words pronounced by the eleven, Ὁτι ηγερθη ὁ Κυριος οντως, etc., The Lord is risen indeed, etc., do not manifest their absolute confession of the resurrection of Christ, but a conjectural reasoning of the sudden and unexpected return of Peter. … And yet, when he and Cleophas open the whole matter, they do not yet believe even them.",
+      "on_tension_rationale": "Clarke, quoting Lightfoot at length, directly engages the apparent conflict between Luke's 'the Lord is risen indeed' and Mark's 'neither believed they them,' resolving it by reinterpreting the eleven's words as tentative conjecture rather than settled belief, and affirming Mark's disbelief holds once the whole story is told.",
+      "source_note_text": "He appeared - unto two of them - These were the two who were going to Emmaus. The whole account is given by Luke, 24:13-34, where see the notes.\nDr. Lightfoot's criticism upon this passage is worthy of notice.\n\"That, in the verses immediately going before, the discourse is of the two disciples going to Emmaus, is without all controversy. And then how do these things consist with that relation in Luke, who saith, That they two, returning to Jerusalem, found the eleven gathered together, and they that were with them; who said, The Lord is risen indeed, and has appeared to Simon? Luk 24:34. The word λεγοντας, saying, evidently makes those to be the words των ενδεκα, of the eleven, and of those that were gathered together with them; which, when you read the versions, you would scarcely suspect. For when that word is rendered by the Syriac, cad amrin; by the Arabic, wehom yekolon; by the Vulgate, dicentes; by the Italian, dicendo; by the French, disans; by the English, saying; who, I pray, would take it in another sense, than that those two that returned from Emmaus said, The Lord is risen indeed, etc.? But in the original Greek, when it is the accusative case, it is plainly to be referred to the eleven disciples, and those that were together with them; as if they had discoursed among themselves of the appearance made to Peter, either before, or now in the very access of those two coming from Emmaus. And yet, says this our evangelist, that when those two had related the whole business, they gave no credit to them; so that, according to Luke, they believed Christ was risen, and had appeared to Simon, before they told their story; but, according to Mark, they believed it not, no, not when they had told it. The reconciling therefore of the evangelists is to be fetched thence, that those words pronounced by the eleven, Ὁτι ηγερθη ὁ Κυριος οντως, etc., The Lord is risen indeed, etc., do not manifest their absolute confession of the resurrection of Christ, but a conjectural reasoning of the sudden and unexpected return of Peter. I believe that Peter was going with Cleophas into Galilee, and that being moved with the words of Christ, told him by the women, Say to his disciples and Peter, I go before you into Galilee - think with yourself how doubtful Peter was, and how he fluctuated within himself after his threefold denial, and how he gasped to see the Lord again, if he were risen, and to cast himself an humble suppliant at his feet. When therefore he heard these things from the women, (and he had heard it indeed from Christ himself, while he was yet alive, that when he arose he would go before them into Galilee), and when the rest were very little moved with the report of his resurrection, nor as yet stirred from that place, he will try a journey into Galilee, and Alpheus with him; which, when it was well known to the rest, and they saw him return so soon and so unexpectedly - Certainly, say they, the Lord is risen, and hath appeared to Peter, otherwise he had not so soon come back again. And yet, when he and Cleophas open the whole matter, they do not yet believe even them.\""
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 499,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry harmonizes the accounts as successive moments: the angel first sat outside on the stone, then went in to join a second one inside.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman treats the tomb accounts' disagreements — over how many messengers there were, who they were, and where the women met them — as evidence the resurrection narratives cannot be harmonized.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus, Interrupted",
+        "year": "2009",
+        "attribution": "Bart D. Ehrman, Jesus, Interrupted (HarperOne, 2009)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Luke 24:1",
+      "excerpt_text": "They first saw one angel without the sepulchre, who presently went in, and sat with another angel in the sepulchre, one at the head and the other at the feet, where the body of Jesus had lain; so the evangelists may be reconciled.",
+      "full_note_ref": "MHC/42/24/1",
+      "on_tension_rationale": "Directly resolves the outside/inside tension by sequencing the appearances: the angel first sat outside on the stone (Matthew), then went inside to join a second angel (Mark/Luke/John) -- 'so the evangelists may be reconciled.'",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley reproduces Edward Robinson's harmony of the resurrection narratives (pp. 328-330), which has the angel descend, roll away the stone, and sit upon it outside, with two angels appearing inside the tomb only afterward -- addressing the outside/inside sequence directly."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/how-many-men-or-angels-appeared-at-the-tomb/",
+        "domain": "carm.org",
+        "title": "CARM: How many men or angels appeared at the tomb?",
+        "note": "Live apologetic treatment concluding there was one angel outside (on the stone) and two angels inside the tomb."
+      }
+    }
+  }
+}

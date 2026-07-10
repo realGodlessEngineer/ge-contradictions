@@ -1,0 +1,49 @@
+{
+  "contradiction_id": 498,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill reads the postures as sequential: sitting when Mary Magdalene alone first looked in, then risen and standing by the time the rest of the women arrived, which is what Luke records.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible catalogs Mark and John's 'sitting' against Luke's 'stood' as a flat, unreconciled contradiction in posture.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/sitting.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Luke 24:3",
+      "excerpt_text": "…John makes mention of two, as here, seen by Mary Magdalene, though in a different posture; they were sitting, the one at the head, the other at the feet, where the body of Jesus had lain; but when the rest of the women came, they were risen up, and stood close by them, on a sudden, at an unawares …",
+      "full_note_ref": "GILL/42/24/3",
+      "on_tension_rationale": "Directly reconciles John's 'sitting' with Luke's 'stood' by proposing a sequence: the angels were seated when Mary Magdalene looked in alone, then rose to their feet once the rest of the women reached the tomb.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Under 'Christ's resurrection, — certain narratives. A different account of it.' (Historical Discrepancies, pp. 327-331), Haley reproduces Robinson's and Ebrard's harmonized sequence of the resurrection-morning events, which folds in the detail that Mary Magdalene, looking into the sepulchre, 'saw two angels sitting' before the rest of the women's party arrived — treating the whole composite narrative rather than isolating the sitting/standing wording under its own heading."
+      },
+      "link": null
+    }
+  }
+}

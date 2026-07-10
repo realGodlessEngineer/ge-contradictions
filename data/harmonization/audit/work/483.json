@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 483,
+  "question": "To whom did Jesus make his first post-resurrection appearance?",
+  "summary": "Matthew 28:9 says the first appearance was to the two Marys together. Mark 16:9 and John 20:14-17 say it was Mary Magdalene alone. Luke 24:13-31 has the first identified appearance happen to Cleopas and an unnamed companion on the road to Emmaus. Paul, writing the earliest of these texts, names Cephas (Peter) as the first witness in 1 Corinthians 15:5 and never mentions any of the women at all.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Gill reads Paul's Cephas-first list not as contradicting the Gospels but as silently omitting the women's testimony, since Mary Magdalene was actually first.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Bart Ehrman presses the deeper problem: Paul, our earliest witness, names Cephas first and never mentions the women at all.",
+    "skeptic": {
+      "name": "Bart D. Ehrman",
+      "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don't Know About Them)",
+      "year": "2009",
+      "attribution": "Bart D. Ehrman, Jesus, Interrupted (2009)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's entry 'Christ's resurrection -- certain narratives; different account of it' (pp. 327-330) works Matthew, Mark, Luke and John into one composite sequence, and his adjacent entry 'Appearances of Christ -- one number; different numbers' (p. 385, citing John 20-21, Luke 24, and 1 Cor 15:5-8) extends the same selective-reporting principle to Paul's list, arguing no evangelist (or Paul) claims to record every appearance."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/resurrection-accounts.html",
+        "domain": "gotquestions.org",
+        "title": "Can the various resurrection accounts from the four Gospels be harmonized?",
+        "note": "live apologetic harmonization of the resurrection-appearance order, including 'to whom did He appear first'"
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "483#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "1 Corinthians 15:5",
+      "full_note_ref": "GILL/46/15/5",
+      "excerpt_text": "Not that he was the first person by whom Christ was seen after his resurrection, for he first appeared to Mary Magdalene, Mar 16:9 but the testimony of the women the apostle omits, and it seems as if Peter was the first of the men that saw Christ when risen, see Luk 24:34.",
+      "on_tension_rationale": "Directly reconciles Paul's Cephas-first list in 1 Cor 15:5 with Mark 16:9/Matthew 28:9's claim that Mary Magdalene (and the women) were first, by arguing Paul deliberately omits female testimony rather than denying it happened.",
+      "source_note_text": "And that he was seen of Cephas,.... Or Simon Peter; for Cephas was a name given him by Christ, Joh 1:42. This was not another Cephas, one of the seventy disciples, as Clemens suggests (g), but the Apostle Peter himself, to whom it is certain the Lord appeared. Not that he was the first person by whom Christ was seen after his resurrection, for he first appeared to Mary Magdalene, Mar 16:9 but the testimony of the women the apostle omits, and it seems as if Peter was the first of the men that saw Christ when risen, see Luk 24:34. Whether he was one of the disciples that went to Emmaus, to whom Christ joined himself, and entered into discourse with, is not certain; it should rather seem, that the appearance here referred to was when he was alone;\nthen of the twelve; though there were then but eleven of them, Judas being gone from them, and having destroyed himself; and at the first appearance of Christ to them, there were but ten present, Thomas being absent; and yet because their original number, when first chosen and called, were twelve, they still went by the same name; see Joh 20:24. The appearance or appearances here referred to are those in Joh 20:19. The Vulgate Latin reads the \"eleven\"; and so the Claromontane exemplar.\n(g) Apud Euseb. Eccl. Hist. l. 1. c. 12."
+    }
+  ]
+}

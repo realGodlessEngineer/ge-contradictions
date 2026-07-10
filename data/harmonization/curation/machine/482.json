@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 482,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry reads the two commands as sequential appointments — first to Galilee, then to a later Jerusalem gathering before the ascension.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Dale Allison presses the sharper reading: Luke-Acts and Matthew-Mark preserve two independent, incompatible resurrection traditions that no unmentioned Galilee side-trip can reconcile.",
+      "skeptic": {
+        "name": "Dale C. Allison Jr.",
+        "work": "Resurrecting Jesus: The Earliest Christian Tradition and Its Interpreters",
+        "year": "2005",
+        "attribution": "Dale C. Allison Jr., Resurrecting Jesus: The Earliest Christian Tradition and Its Interpreters (T&T Clark, 2005), pp. 260-269."
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Acts 1:6",
+      "excerpt_text": "In Jerusalem Christ, by his angel, had appointed his disciples to meet him in Galilee; there he appointed them to meet him in Jerusalem again, such a day.",
+      "full_note_ref": "MHC/44/1/6",
+      "on_tension_rationale": "MHC reads Jesus's Galilee summons (Matt 28:10/Mark 16:7) and his later 'do not depart from Jerusalem' order (Luke 24:49/Acts 1:4) as two separate, sequential appointments rather than one contradictory command.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pairing (Matt. 28:10, 16 vs. Luke 24:49) under 'Historical Discrepancies,' arguing the Jerusalem command meant 'make Jerusalem your head-quarters' and would not preclude a brief Galilee excursion, and noting (citing Alford) that the command may not have been given until after the Galilee visit."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Luke_24.49.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Luke 24:49—Why did the disciples go to Galilee when Jesus commanded them to stay in Jerusalem?",
+        "note": "live apologetic treatment paralleling Haley's chronological-sequence argument"
+      }
+    }
+  }
+}

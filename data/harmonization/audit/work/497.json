@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 497,
+  "question": "Was the tomb opened or closed when the women arrived?",
+  "summary": "Luke 24:2, Mark 16:3-4, and John 20:1 all describe the women arriving to find the stone already rolled away from the entrance. Matthew 28:2 has the women still on their way when an angel descends from heaven and rolls the stone back in their presence — meaning the tomb was still sealed when they got there.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Clarke resolves the apparent clash by reading Matthew's angel-and-stone scene as completed before the women arrived, not something they witnessed.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "D. F. Strauss names this a genuine contradiction, noting that even the harmonists' best fix requires straining Matthew's Greek rather than reading it plainly.",
+    "skeptic": {
+      "name": "D. F. Strauss",
+      "work": "The Life of Jesus Critically Examined",
+      "year": "1846",
+      "attribution": "D. F. Strauss (d. 1874), The Life of Jesus Critically Examined (1846)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's harmonized resurrection-narrative summary (adopting Robinson's reconstruction, pp. 327-329) places the earthquake, the angel's descent, and the rolling away of the stone before the women's arrival, so that 'on their arrival they find the stone already taken away.'"
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/was-the-stone-moved-away-before-mary-arrived-at-jesus-tomb-or-not/",
+        "domain": "carm.org",
+        "title": "CARM: Was the stone moved away before Mary arrived at Jesus' tomb or not?",
+        "note": "live apologetic treatment addressing this exact chronology question across all four Gospels"
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "497#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Luke 24:2",
+      "full_note_ref": "CLARKE/42/24/2",
+      "excerpt_text": "They found the stone rolled away - An angel from God had done this before they reached the tomb, Mat 28:2:",
+      "on_tension_rationale": "Clarke explicitly places the angel's stone-rolling recorded at Matthew 28:2 chronologically before the women's arrival, directly harmonizing it with Luke's (and by extension Mark's and John's) report that the women found the stone already rolled away.",
+      "source_note_text": "They found the stone rolled away - An angel from God had done this before they reached the tomb, Mat 28:2 : On this case we cannot help remarking, that, when persons have strong confidence in God, obstacles do not hinder them from undertaking whatever they have reason to believe he requires; and the removal of them they leave to him: and what is the consequence? They go on their way comfortably, and all difficulties vanish before them."
+    }
+  ]
+}

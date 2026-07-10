@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 486,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry reads John's 'next day' scene as Jesus already back from the wilderness, not the day after his baptism.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman argues John's tight day-by-day sequence leaves no room for Mark's forty-day wilderness ordeal, calling the inserted gap an invention the text never signals.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don't Know About Them)",
+        "year": "2009",
+        "attribution": "Bart D. Ehrman, Jesus, Interrupted (HarperOne, 2009), pp. 40-41"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "John 1:29",
+      "excerpt_text": "As soon as ever Christ was baptized he was immediately hurried into the wilderness, to be tempted; and there he was forty days. During his absence John had continued to bear testimony to him, and to tell the people of him; but now at last he sees Jesus coming to him, returning from the wilderness of temptation. As soon as that conflict was over Christ immediately returned to John, who was preaching and baptizing.",
+      "full_note_ref": "MHC/43/1/29",
+      "on_tension_rationale": "Henry places the entire Markan forty-day wilderness temptation inside the gap between the baptism and John 1:29's 'next day' scene, making John's day-one sighting of Jesus the moment he returns from the desert rather than the day after his baptism -- the standard harmonization for this exact itinerary conflict.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-14), on John 1:29",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this exact passage directly, stating that Jesus was 'immediately hurried into the wilderness' after his baptism and that John's 'next day' testimony in John 1:29 describes Jesus 'returning from the wilderness of temptation' -- explicitly bridging Mark's forty-day episode and John's day-by-day chronology."
+      },
+      "link": null
+    }
+  }
+}

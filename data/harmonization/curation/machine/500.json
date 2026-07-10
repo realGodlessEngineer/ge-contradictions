@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 500,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Citing Lightfoot's grammatical analysis, Adam Clarke argues the eleven's exclamation was tentative conjecture prompted by Peter's sudden return, not confirmed faith — fully compatible with their still disbelieving the Emmaus pair's fuller account.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The Skeptic's Annotated Bible presses the plain reading: Luke has the eleven already declaring the Lord risen and seen by Simon, while Mark flatly states they did not believe — a contradiction, not a difference of certainty.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Did the eleven disciples believe the two men who claimed to see Jesus?\"",
+        "year": null,
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, skepticsannotatedbible.com/contra/eleven_believe.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Mark 16:12",
+      "excerpt_text": "The reconciling therefore of the evangelists is to be fetched thence, that those words pronounced by the eleven, Ὁτι ηγερθη ὁ Κυριος οντως, etc., The Lord is risen indeed, etc., do not manifest their absolute confession of the resurrection of Christ, but a conjectural reasoning of the sudden and unexpected return of Peter. … And yet, when he and Cleophas open the whole matter, they do not yet believe even them.",
+      "full_note_ref": "CLARKE/41/16/12",
+      "on_tension_rationale": "Clarke, quoting Lightfoot at length, directly engages the apparent conflict between Luke's 'the Lord is risen indeed' and Mark's 'neither believed they them,' resolving it by reinterpreting the eleven's words as tentative conjecture rather than settled belief, and affirming Mark's disbelief holds once the whole story is told.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Mark 16:12",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke quotes John Lightfoot's harmonization at length directly on this passage, treating the specific tension between Luke 24:34 and Mark 16:12-13."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No live allowlisted apologetics page confirmed to treat this specific passage pair; omitted rather than guessed."
+      }
+    }
+  }
+}

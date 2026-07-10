@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 520,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators harmonize the verses through alternate readings: a rhetorical question, a shift in audience, or a legal- rather than factual-sense of 'true.'",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible reads the verses as a flat self-contradiction: John 5:31 denies what John 8:14 and 8:18 affirm.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Did Jesus bear witness of himself?\" (skepticsannotatedbible.com/contra/Jesus_witness.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Did Jesus bear witness of himself?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "John 5:31",
+      "excerpt_text": "Bishop Pearce gives a different turn to this verse, by translating it interrogatively, thus: \"If I only bear witness of myself, is not my witness true? i.e. is it, on that account, not true? In Joh 8:14, he says, Though I bear record of myself, yet my record is true. And in Joh 8:18, he says, I am one that bear witness of myself.\"",
+      "full_note_ref": "CLARKE/43/5/31",
+      "on_tension_rationale": "Clarke cites Bishop Pearce's interrogative reading of 5:31, which directly ties it to the wording of 8:14 and 8:18 to dissolve the apparent conflict.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "John 8:14",
+      "excerpt_text": "That which he denied afore, John 5:31, must be taken by a manner of granting, for in that place he framed himself somewhat to the humor of his hearers, which acknowledged nothing in Christ but his humanity, and therefore he was content they should set light by his own witness, unless it were otherwise confirmed. But in this place he standeth for the maintenance of his Godhead, and praiseth his Father, who is his witness, and agreeth with him.",
+      "full_note_ref": "GNV/43/8/14",
+      "on_tension_rationale": "The Geneva annotators explicitly cross-reference 5:31 and explain the shift as accommodation to a different audience/argument, not a real reversal.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "John 5:31",
+      "excerpt_text": "Christ's meaning is, that his testimony alone, his single witness, how true soever it was, would stand for nothing in their court; and therefore he would not insist upon it, but drop it; for \"true\" here, is not opposed to that which is \"false\", but to that which is not valid in law. Christ's testimony was true in itself; nor could it be any other, it coming from him, who is truth itself, the \"Amen\", and faithful witness; but being considered as an human testimony, and in his own cause, was not to be admitted as sufficient; and this he allows.",
+      "full_note_ref": "GILL/43/5/31",
+      "on_tension_rationale": "Gill distinguishes 'not true' (legally inadmissible) from 'false,' directly reconciling 5:31's denial with 8:14/8:18's affirmation that the testimony is true.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), note on John 5:31",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact three-verse tension directly, citing Bishop Pearce's harmonizing reading tying John 5:31 to John 8:14 and 8:18 (Haley's Alleged Discrepancies does not appear to cover this particular passage in the standard digitized edition, so a harmonizing commentator keyed to the passage is used instead)."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/John_5.31.php",
+        "domain": "defendinginerrancy.com",
+        "title": "John 5:31—Was Jesus' self-testimony true or false?",
+        "note": "live apologetic treatment of this exact three-verse tension"
+      }
+    }
+  }
+}

@@ -1,6 +1,6 @@
 ---
 name: project_harmonization_machine_pass
-description: T5/T6 machine-excerpt TRANSFORM leg (data/harmonization/curation/machine/<id>.json) — schema drift vs TRANSFORM_CONTRACT.md, Haley-verification-via-curl+grep applies here too (incl. WebSearch-only false negatives, Grep -B/-C line-number pitfall, roman-numeral citation style, partial/adjacent-coverage judgment calls, bare-phrase-vs-proper-noun grep retries), SAB precedent for thin genealogical/theological entries, data/json's questionUrl field for fast SAB-slug lookup, carm.org/universalism link source, mega-entry (huge multi-verse thematic gather file) selection strategy, Ehrman named-skeptic precedent for afterlife/hell AND Matthew-genealogy-generation-count contradictions, Strauss named-skeptic precedent for the genealogy-vs-virgin-birth family (id 390), a scratchpad-cached Haley djvu.txt speeds up repeat curl+grep checks, defendinginerrancy.com/bible-solutions/<Book>_<ch>.<vs>.php 404s are a normal/expected outcome not a bug (id 407)
+description: T5/T6 machine-excerpt TRANSFORM leg (data/harmonization/curation/machine/<id>.json) — schema drift vs TRANSFORM_CONTRACT.md, Haley-verification-via-curl+grep applies here too (incl. WebSearch-only false negatives, Grep -B/-C line-number pitfall, roman-numeral citation style, partial/adjacent-coverage judgment calls, bare-phrase-vs-proper-noun grep retries), SAB precedent for thin genealogical/theological entries, data/json's questionUrl field for fast SAB-slug lookup, carm.org/universalism link source, mega-entry (huge multi-verse thematic gather file) selection strategy, Ehrman named-skeptic precedent for afterlife/hell AND Matthew-genealogy-generation-count contradictions, Strauss named-skeptic precedent for the genealogy-vs-virgin-birth family (id 390), a scratchpad-cached Haley djvu.txt speeds up repeat curl+grep checks, defendinginerrancy.com/bible-solutions/<Book>_<ch>.<vs>.php 404s are a normal/expected outcome not a bug (id 407), Haley headings for well-known synoptic pericopes are often keyed to the full chapter-range citation not the row's narrow verse slice — resurrection-morning order-of-events crux id 479 and the distinct timing-wording crux id 477 (same pericope, two different Haley headings), WebSearch-AI-synthesis can fabricate a plausible-sounding page summary not actually on that URL (verify via curl+Grep raw HTML, not just WebFetch); Ehrman's "seven last words" harmonizing critique as named skeptic + genuine Haley silence (verified zero-hit) on the last-words-of-Jesus family, id 473; bartehrman.com guest-author caution (Joshua Schachterle, not Ehrman) + Ehrman's own Jesus,Interrupted p.49 tomb-witness catalogue + Haley pp.328-330 Robinson-harmony hit + carm.org bible-difficulties link, id 499 (empty-tomb messenger inside/outside)
 metadata:
   type: project
 ---
@@ -804,3 +804,349 @@ the id-407 precedent). Set `link: null` rather than stretching either gotquestio
 bake (`DRY_RUN=1 IDS=452 node .scripts/buildHarmonizationTables.js`) came back with **0 validator
 violations** (same clean pattern as id 407, not the usual two pre-T9/T10 violations) and 771/771
 `verifyExcerpts.py` + 34/34 `verifyVersePairs.py` PASS.
+
+## Haley has a dedicated, exact-heading section on the empty-tomb order-of-events crux — and
+## Ehrman's citation was already sitting in the row's own pre-existing `scholarship` field (id 479)
+"When did the women discover that Jesus's body was missing?" (Matt 28:5-6/Mark 16:5-6 "angel
+speaks first, then women learn the tomb is empty" vs Luke 24:2-4/John 20:1-2 "women discover the
+tomb is empty first, then the angel(s) appear/Mary runs to Peter") — `data/json/batch_24.json`'s
+pre-existing `scholarship` field for this id already cited **Ehrman, Bart D. *Jesus, Interrupted*
+(HarperOne, 2009), pp. 47-60** as a source on the empty-tomb accounts, confirming (per the id-440
+lesson) that the row's own prior-pass `scholarship` field can hand you an already-vetted named
+skeptic before any WebSearch is needed; a follow-up WebSearch independently corroborated Ehrman
+treats the empty-tomb narratives' differing order/detail as genuine, non-harmonizable
+discrepancies (`bartehrman.com/contradictions-in-jesus-tomb-story/`,
+`ehrmanblog.org/fuller-account-of-resurrection-discrepancies/`). Consensus was
+`probable_contradiction` → `discrepancy_first` per the §7 rule.
+
+Curl+Grep of the archive.org `examinationof00hale_djvu.txt` mirror (freshly curled to scratchpad,
+~1.4MB) for `sepulchre` found a **direct, exact-heading hit**: "Historical Discrepancies," heading
+**"Christ's resurrection, — certain narratives. Different account of it."** (pp. 327-330; Matt.
+28:1-10/Mark 16:1-14 vs Luke 24:1-12/John 20:1-18 — i.e. this row's whole four-gospel span, not
+just the narrower 4-verse citation), which gives a full sequenced harmony (quoting Robinson) that
+resolves the exact order tension: the angel has already descended, rolled away the stone, and
+sat on it *before* the women arrive; the women then enter, find the body gone, and are perplexed
+(matching Luke's order); Mary Magdalene alone breaks off to fetch Peter/John (matching John);
+"immediately two angels appear" to the remaining women (reconciling Matthew/Mark's angel-first
+framing by placing the fullest angelic speech *after* the independent discovery, while still
+having an angel physically present from the very start). Used as `pd_work` with pp. 327-330 cited.
+**Lesson: for well-known, heavily-harmonized synoptic pericopes (here, the resurrection morning),
+default to checking Haley's "Historical Discrepancies" chapter with the passage's own broad
+chapter-range citation (`Matt. xxviii. 1-10`, etc.) rather than a narrow verse-range phrase — his
+headings are often keyed to the full pericope span, not the row's specific 2-4 verse slice.**
+
+Reconcile excerpt used **GILL** on Luke 24:2 (`GILL/42/24/2` — note: Gill's own `ref` field says
+"Luke 24:2" even though the on-tension sentence is embedded mid-note under an internal "Luke 24:3"
+sub-heading artifact of his block style; used the note's own `ref`/`note_ref` mechanically, per
+the id-440-and-earlier convention of trusting the note object's own fields rather than
+re-deriving verse_ref from prose content). Gill's harmonizing move: the women "entered in ...
+being invited, encouraged, and led on by the angel that sat upon the stone" (an explicit
+cross-reference back to Matthew 28:2's angel, already seated outside before the women arrive) —
+i.e. Gill places an angel as already-present per Matthew's order even within his exposition of
+Luke's "they entered... and found not the body" sequence, which is the identical mechanism Haley's
+Robinson-summary harmony uses. Picked over MHC's Luke 24:1 block-anchor note (which explicitly
+says "so the evangelists may be reconciled" but resolves the *number*-of-angels tension, not the
+order-of-discovery-vs-angel tension this row centers on) and over Clarke's John 20:2 note ("This
+was after the women had seen the angels ... Luk 24:4," which asserts a temporal claim but doesn't
+explain *why* the orders differ) — when several notes are on-tension-adjacent, prefer the one that
+supplies the actual resolving *mechanism* for the row's specific stated tension over one that
+merely asserts a compatible sequence or resolves a neighboring but distinct discrepancy (same
+principle as id 402's MHC-over-JFB pick above). No live allowlisted link named the tension
+directly by title, but `gotquestions.org/resurrection-accounts.html` ("Can the various
+resurrection accounts from the four Gospels be harmonized?") — WebFetch-confirmed live — presents
+a full sequenced harmony (angel rolls the stone away, then the women arrive and find it empty)
+that resolves the row's ordering tension in substance even though the page doesn't flag the
+specific tension by name; cited with an honest `link.note` disclosing that.
+
+## Haley has a dedicated, exact-heading hit on the resurrection-morning TIMING wording (distinct
+## from id 479's ORDER-of-events crux) — and a new defendinginerrancy.com link for it (id 477)
+"When did the women (or woman) arrive at the sepulchre?" (John 20:1 "yet dark" vs Matt 28:1 "as
+it began to dawn" vs Mark 16:2 "at the rising of the sun") is `skepticsannotatedbible.com/contra/
+dawn.html` (confirmed via `data/json/batch_24.json`'s `questionUrl`, page `<title>` verbatim-matches
+the row's `question`). curl+Grep of `examinationof00hale_djvu.txt` for `sepulchre` (not a
+bare-phrase grep on "rising of the sun"/"still dark", which is too generic and returns noise) found
+a dedicated two-column heading at p. 426: **"Sepulchre visited at sunrise. At the early dawn. / Mark
+xvi. 2. John xx. 1."** — Haley's own resolution offers two mechanisms: (1) Mary Magdalene alone
+came first in darkness, the other women arrived later at sunrise (crediting Ebrard), or (2) the
+loose popular sense of "rising of the sun" can mean early dawn itself (citing Ps 104:22's lions
+imagery). This is a different Haley heading from the Robinson-harmony summary (pp. 328-329) already
+used for id 479's order-of-discovery tension — **the same resurrection-morning gather file can
+supply two distinct Haley headings for two distinct rows (timing-wording vs. event-order), so
+don't assume one Haley hit exhausts a whole synoptic pericope's coverage.**
+
+Reconcile excerpts (2, distinct mechanisms, no near-duplication): **GILL** on Mark 16:2
+(`GILL/41/16/2`, the single-continuous-sentence "dark when they set out ... by that time that they
+all got to the sepulchre, the sun was rising" — elapsed-travel-time reading) and **CLARKE** on Mark
+16:2 (`CLARKE/41/16/2`, a lengthy embedded Lightfoot quote mapping all four evangelists' precise
+phrases onto a single rabbinic four-part division of twilight, closing "the women came twice to the
+sepulchre, as St. John teaches ... the reconciling them together is very easy" — a two-visits
+reading). Both verbatim, no ellipsis needed inside CLARKE's excerpt (clean sentence-boundary start
+right after Clarke's opening block-quote mark, clean sentence-boundary end right before his closing
+one — dropping the bounding quote glyphs themselves is just excerpt-boundary selection, not a
+character substitution). GILL's excerpt needed a **trailing elision** (`"...the sun was rising …"`)
+to drop an unrelated Talmudic-walking-distance digression that continues the same run-on sentence.
+
+**`gotquestions.org/resurrection-accounts.html` re-confirmed (via direct `curl` of the raw HTML,
+not just WebFetch/WebSearch) to NOT discuss the dark/dawn/sunrise wording at all** — a `Grep` for
+`dawn|dark|sunrise` across the saved page source came back zero hits, even though a `WebSearch`
+summary had confidently claimed it discussed exactly this ("Matthew described the visit 'toward the
+dawn'... John noted 'still dark'... Mark 'when the sun had risen'"). **This is the same WebSearch-
+AI-synthesis trap as the id-348/420 cautions** (a search summary assembling a plausible answer from
+scattered snippets across multiple pages, not the one page actually fetched) — always `curl`/WebFetch
+the specific URL and `Grep` its raw text for the claimed keywords before citing it, especially when
+a WebSearch summary sounds suspiciously complete. Found the real allowlisted link instead:
+**`defendinginerrancy.com/bible-solutions/Mark_16.2.php`** ("Mark 16:2—Was Mary at the tomb before
+sunrise or after?") — WebFetch-confirmed live, quotes both verses, offers the identical two-visit /
+loose-idiom harmonizations as Haley. New confirmed page for the `defendinginerrancy.com/
+bible-solutions/<Book>_<ch>.<vs>.php` pattern.
+
+Named skeptic: **Steve Wells / Skeptic's Annotated Bible** (`2013`, same attribution format as id
+439) — the SAB `dawn.html` page's own title is a verbatim match to the row's `question`, so this is
+a clean, uncontested 439-model fit (`genuinely_disputed`/no — consensus here was
+`probable_harmonization` → `reconcile_first`, so the discrepancy pole only needed to clear a low
+parity bar of 1; reconcile pole's 2 verbatim excerpts comfortably cleared it).
+
+## Ehrman's "seven last words" harmonizing-critique is a real, on-point 439-model skeptic for the
+## "What were the last words of Jesus?" family — and Haley is genuinely SILENT on it (id 473)
+"What were the last words of Jesus?" (Matt 27:46-50/Mark 15:34-37 cry of dereliction vs Luke
+23:46 "Father, into thy hands..." vs John 19:30 "It is finished") — `WebSearch` confirmed **Bart
+D. Ehrman, *Jesus, Interrupted* (HarperOne, 2009)**, uses this exact example (the traditional
+"seven last words of the dying Jesus," assembled by harmonizing all four Gospels) as his
+paradigm case against harmonization generally: "He doesn't say those seven things in any of the
+gospels" and stringing them together "robs each author of their own integrity as an author" —
+independently corroborated by an NPR interview transcript ("Jesus And The Hidden Contradictions
+Of The Gospels") making the identical point. Consensus was `genuine_contradiction` →
+`discrepancy_first` per the §7 rule; discrepancy pole = `named_skeptic` only (no gathered PD
+voice concedes a real conflict — GILL/JFB/CLARKE/MHC/TYN/GNV are all harmonizing), so reconcile
+capped to exactly 1 excerpt.
+
+Reconcile excerpt used **GILL** on Matthew 27:49 (`GILL/40/27/49`) — the single cleanest
+harmonization in the gathered notes, explicitly citing all three passages in one sentence and
+resolving the tension via **sequence**: Matthew's "cried again" is read as a *second* utterance,
+so what Christ "now delivered" was BOTH Luke 23:46's and John 19:30's sayings together, spoken
+"with a loud voice." Picked over two other strong on-tension candidates on the same row — **JFB**
+on John 19:29 (`JFB/43/19/29`, which sequences dereliction-cry → Luke's "words of tranquil
+surrender" → "the final shout... recorded only by John") and **TYN** on Matthew 27:50
+(`TYN/40/27/50`, "Each of the four Gospels highlights different aspects of Jesus' last
+moments... This cry was Jesus' final prayer (see Luke 23:46)") — because Gill's single sentence
+is the most self-contained, naming all three verses explicitly without needing surrounding
+context trimmed. **Worth remembering JFB/43/19/29 and TYN/40/27/50 as backup/alternate excerpts
+for this exact row family** if a second excerpt is ever permitted or Gill's is ever unusable.
+
+**Haley is genuinely silent on this passage** — curl+grep of the archive.org
+`examinationof00hale_djvu.txt` mirror for `sabach`, `forsaken`, `finished`, `Elias`, `thirst`,
+`hyssop`, `vinegar`, `into thy hands`, `my spirit`, and the TOC/index itself (`last words`,
+`dying words`, `sayings on the cross`) came back **zero on-topic hits** — the only "crucifixion"
+index entry (p. 412) falls under the book's "Pertaining to Time" chapter (crucifixion *hour*,
+third vs. sixth, a different discrepancy) not the sayings themselves. This is a genuine absence
+(per the id-313/364 zero-hit pattern), not a search miss — a striking gap given how famous this
+particular "contradiction" is today, reinforcing the id-313/364 observation that Haley's 1874
+canon doesn't track every discrepancy that later became a popular skeptic talking point. Fell
+back correctly to the contract's named alternative: **John Gill** (already the reconcile-pole
+excerpt's author) as `pd_work`, keyed directly to Matthew 27:49. Live allowlisted link found and
+WebFetch-confirmed on-topic: `carm.org/bible-difficulties/what-are-the-last-words-of-jesus/`
+("What are the very last words of Jesus?") — argues the identical chronological-sequence
+harmonization (dereliction cry → "It is finished" → "Father, into thy hands" as the literal
+final utterance).
+
+## CORRECTION: `relabel_flag`/`relabel_reason` on the **reconcile** sub-object is NOT the current
+## convention — recent files (487, 488) omit it there, matching the contract's own worked example
+The `relabel_flag`/`relabel_reason` claim earlier in this file ("universal corpus convention even
+though the contract's abbreviated example only shows it on discrepancy — every sampled file...
+sets it `false`/`null` on both poles") is **stale**: re-checked two of the most recently produced
+files, id 487 and id 488, and both put `relabel_flag`/`relabel_reason` **only on `discrepancy`**,
+exactly matching `TRANSFORM_CONTRACT.md`'s own worked example. Follow 487/488 (discrepancy-only)
+going forward, not the earlier "put it on both poles" note — that reflected an older/mixed batch
+of sampled files, not the current live convention.
+
+## A mainstream critical/redaction-critical scholar (not just a popular skeptic like SAB) is a
+## legitimate 439-model "named skeptic" when the row's own tension IS a redaction-critical claim
+## (id 489, Legion's two pleas: Mark's "out of the country" vs Luke's "into the deep"/abyssos)
+"Where did the devils ask not to go?" — `skepticsannotatedbible.com/contra/devils_go.html`
+(confirmed via `data/json/batch_25.json`'s `questionUrl`, WebFetch title match) is the obvious
+439-model default, but the row's own pre-existing DB `commentary`/`scholarship` fields (from an
+earlier enrichment pass) already framed the tension as a **Synoptic redaction** claim — Luke's
+`abyssos` is apocalyptic vocabulary (echoing 1 Enoch's abyss-as-fallen-angel-prison and Revelation
+9/11/20) absent from Mark's plainer "out of the country," cited there to **Joseph Fitzmyer's**
+Anchor Bible Luke commentary (I-IX, AB 28, Doubleday 1981, pp. 736-741). A `WebSearch` independently
+corroborated the *general* claim (a synoptic-comparison source stated plainly that Mark's simpler
+wording vs. Luke's distinctive apocalyptic term "reflect[s] Luke's engagement with Jewish
+apocalyptic vocabulary," i.e., editorial reworking) without directly quoting Fitzmyer's page —
+enough independent corroboration, combined with Fitzmyer's AB volume being a real, standard,
+verse-by-verse-vs-Mark commentary, to use him as the `named_skeptic` rather than defaulting to SAB:
+Fitzmyer's redaction-critical point (Luke is reworking Mark's source, not just supplying a second
+facet of the same historical utterance) IS the discrepancy pole's substance more precisely than
+SAB's flat Yes/No framing. **Lesson: when a row's own pre-existing `scholarship` field already
+names a mainstream critical scholar making a claim that is independently corroborable (even if not
+word-for-word verified), and that claim is sharper/more specific than the popular-skeptic default,
+prefer it** — same principle as id 440's Tyson pick, extended to a case where full-text
+verification of the specific citation wasn't possible, only corroboration of the general claim.
+
+Consensus was `apparent_only` → `reconcile_first` per the §7 rule. Reconcile pole used **two**
+distinct voices that both independently make the identical harmonizing move (reading Mark's "out
+of the country" and Luke's "into the deep" as two facets of one desire — to stay free rather than
+be imprisoned): **GILL** on Luke 8:30 (`GILL/42/8/30`, "they desired... they might not be ordered
+thither, or remanded to their former prison... but that they might be suffered to continue in that
+country") and **MHC** on the Mark 5:1 anchor block (`MHC/41/5/1`, block-anchored — the on-tension
+sentence is deep inside part "VI. The request of this legion..."; note MHC's own `ref` field is
+"Mark 5:1", not the in-prose "Mar 5:10" the sentence actually discusses — use the note object's own
+`ref`/`note_ref` for `verse_ref`, not a verse number mentioned inside the prose, per the
+id-479 convention). Two off-tension notes on the same row (TYN and CLARKE on Luke 8:31, both just
+explaining what "the deep"/abyss meant in Second Temple demonology, with no cross-reference back to
+Mark's wording) were correctly excluded — background/etymology notes on one side of a two-sided
+tension don't count as on-tension per charter rule 3, even when topically adjacent.
+
+Haley checked and genuinely silent (curl+grep of `examinationofall00hale_djvu.txt` for `Legion`,
+`Gadarene`/`Gerasene`, `out of the country`, `the deep`, `bottomless pit` — the only two hits were
+unrelated: a Gadarenes/Gergesenes place-name aside and two unrelated "deep" occurrences elsewhere in
+the book). Fell back to **Gill** (already the reconcile-pole excerpt author) as `pd_work`, per the
+task's own explicit "prefer a harmonizing commentator already surfaced on the row" instruction.
+**No allowlisted link found despite real effort**: `gotquestions.org/my-name-is-Legion.html` and
+`gotquestions.org/what-is-the-abyss.html` were both individually WebFetched and confirmed to NOT
+compare Mark's and Luke's wording (same "on-topic domain, off-tension page" trap as id 407/452);
+`defendinginerrancy.com/bible-solutions/Mark_5.10.php` 404s. `link: null` with an honest note.
+Dry-run bake (`DRY_RUN=1 IDS=489 node .scripts/buildHarmonizationTables.js`) came back with **1**
+pre-T9/T10 violation (`note_present` only — no `parity_count` violation this time, since 2 reconcile
+quotes already clear the discrepancy pole's connective-only count of 1) and 810/810 `verifyExcerpts.py`
++ 34/34 `verifyVersePairs.py` PASS.
+
+## CAUTION: bartehrman.com is a multi-author blog too — guest contributors, not just Ehrman
+## himself, publish there (id 499, extends the ehrmanblog.org/forum caution)
+`bartehrman.com/contradictions-in-jesus-tomb-story/` ("Guards, Visitors, & Angels: Does the Story
+of Jesus' Tomb Contain Contradictions?") reads exactly like an Ehrman piece and is hosted on his
+domain, but `WebFetch` of the byline showed it is authored by **Joshua Schachterle, Ph.D**, a
+staff/guest writer — NOT Ehrman's own words. Correctly did not attribute it to Ehrman by name.
+**Lesson: the domain alone (`bartehrman.com` or `ehrmanblog.org`) is not proof of authorship —
+always check the actual byline before quoting/naming Ehrman**, same principle as the forum-thread
+caution above, now confirmed to apply to bartehrman.com's regular articles too, not just its forum.
+
+## Bart Ehrman's own `Jesus, Interrupted` (2009, p.49, "A World of Contradictions" chapter) is the
+## right named skeptic for the empty-tomb messenger's inside/outside location (id 499)
+"Were the men or angels inside or outside the tomb when the women arrived?" (Matt 28:2 angel
+outside, seated on the rolled stone vs Mark 16:5/Luke 24:3-4/John 20:11-12 messenger(s) inside) —
+curled the archive.org full-text mirror of *Jesus, Interrupted* into scratch and `Grep`-ed for
+"two men"/"young man" rather than "inside"/"outside" (a bare positional-word grep is unreliable;
+search on the concrete nouns/verse-cites instead). Found the exact passage (p.49): "Had the stone
+already been rolled away from the tomb (as in Mark 16:4) or was it rolled away by an angel while
+the women were there (Matthew 28:2)? Whom or what did they see there? An angel (Matthew 28:5)? A
+young man (Mark 16:5)? Two men (Luke 24:4)?" — the identical enumeration-of-disagreements passage
+already used for id 496 (women's names/count at the tomb), confirming this is one continuous
+several-page catalogue in the book and a reusable source for the *whole* empty-tomb-witness
+contradiction cluster (ids 496, 499, and likely other neighboring ids in the same gather range).
+Ehrman doesn't use the words "inside"/"outside" here, so the discrepancy connective was phrased to
+state the verse-level fact (messenger outside on the stone in Matthew vs inside in Mark/Luke) that
+Ehrman's own cited verses support, not to put an "inside vs outside" framing in his mouth verbatim.
+
+Reconcile excerpt: **MHC** on Luke 24:1 (`MHC/42/24/1`) — its resurrection-narrative summary states
+plainly "They first saw one angel without the sepulchre, who presently went in, and sat with
+another angel in the sepulchre, one at the head and the other at the feet... so the evangelists may
+be reconciled," an explicit, self-labeled harmonization sentence buried inside a long block note
+(no `anchor: true` flag on this particular note despite its length — don't rely solely on the
+`anchor` field to flag "long block, on-tension sentence buried deep," eyeball long notes too).
+GILL's Matthew 28:2 note makes the same sequential-appearance harmonization at greater length and
+was a viable alternate; MHC's sentence was picked as the single parity-capped excerpt for being
+shorter and more self-contained ("so the evangelists may be reconciled" makes the harmonizing intent
+explicit in-line, unlike GILL's, which requires reading surrounding sentences to see the same move).
+
+**Haley has a direct, on-point hit** — curl+Grep of `haley.txt` for `sepulchre` found his
+"Historical Discrepancies" chapter (pp. 328-330) reproducing Edward Robinson's harmony of the whole
+resurrection-morning narrative (orig. *Bibliotheca Sacra*, Feb. 1845, pp. 187-188) approvingly,
+which sequences the **same** outside-then-inside movement as MHC: angel descends, rolls the stone,
+"sat upon it" (outside) — then, once the women are in the tomb, "immediately two angels appear" —
+then later Mary Magdalene "looking in she saw two angels sitting" (inside). Used as `pd_work` citing
+pp. 328-330 and the Robinson attribution. Link: `carm.org/bible-difficulties/how-many-men-or-angels-
+appeared-at-the-tomb/` — WebFetch-confirmed it states verbatim "there was one angel outside and two
+on the inside of the tomb," a precise, on-topic match (better than gotquestions.org's
+`resurrection-accounts.html`, already used at id 496, which WebFetch confirmed addresses the
+angel-count question but NOT the inside/outside location question — checked and correctly rejected
+before finding the carm.org page).
+
+## Haley has zero coverage of the Judas-Satan-timing crux; a pre-existing DB `scholarship` field's
+## named critical scholars (Fitzmyer, Brown) couldn't be verified specifically enough to use (id 511)
+"When did Satan enter Judas?" (Luke 22:3, before the Passover, vs John 13:27, during the Last
+Supper after the sop) — `data/json/batch_26.json`'s `questionUrl` gave the exact SAB slug
+(`contra/satan_entered.html`) directly; `WebFetch` confirmed the live page frames it as a flat
+"before the last supper" vs "after the last supper" two-column contradiction, so **Steve Wells /
+Skeptic's Annotated Bible** is the correct 439-model named skeptic (same attribution format as
+prior precedents). The same batch record's pre-existing `scholarship` field cited Fitzmyer's
+Anchor Bible Luke and Brown's *Death of the Messiah* as reading Luke's and John's satanic-entry
+notices as independently-developed traditions — a **stronger, more specific** critical-scholarly
+claim than SAB's flat framing, per the id-440 "check the row's own `scholarship` field before
+hunting a skeptic from scratch" lesson — but two rounds of `WebSearch` could **not** turn up a
+verifiable quote or citable page number for that specific "independent traditions, not one
+event" claim from either scholar (only generic book-jacket-level results came back). **Lesson:
+a prior-pass DB `scholarship` field is a good lead but is not itself verification** — when its
+specific claim can't be independently confirmed via search, fall back to the safer, already
+-verified SAB default rather than naming a scholar for a claim you can't check firsthand.
+
+Reconcile excerpt: **CLARKE** on John 13:27 (`CLARKE/43/13/27`) — "He had entered into him
+before, and now he enters again..." — the cleanest, fully self-contained single-note statement
+of the "two entries" harmonization (also independently used by JFB and MHC's block-anchored note
+on this same row, all three converging on the identical mechanism); picked over JFB's much longer
+"awful stages" note (`JFB/42/22/3`, would need multi-clause ellipsis-joining) and GILL's distinct
+third harmonization theory (`GILL/42/22/3`: the John 13:27 "sop" wasn't the Passover sop at all
+but the earlier Bethany-supper sop, i.e. same single event, not two entries) — GILL's is worth
+remembering as a backup/alternate excerpt for this row family, since it's an equally strong,
+single-sentence, ellipsis-free candidate representing a different resolution strategy than the
+"two entries" move Clarke/JFB/MHC all share. Dropped the note's leading verse-lemma ("Satan
+entered into him -") before the excerpt proper, consistent with treating such lemma-dashes as
+non-substantive headers rather than part of the on-tension sentence.
+
+**Haley's PD text has zero coverage** — curl+Grep of the scratchpad-cached `haley.txt` for
+`Satan entered`, `entered into (him|Judas)`, `Judas` (all hits), and `Satan` (all hits) found
+only an unrelated Judas's-manner-of-death entry and generic Job/Ananias/Saul Satan-references —
+no treatment of this specific timing pairing at all. Fell back correctly to Clarke itself
+(already the reconcile author) as `pd_work`, per the id-364/421/440 fallback pattern. No
+allowlisted `link` found: `gotquestions.org/Satan-entered-into-him.html` exists and is on-verse
+(John 13:27) but a WebFetch confirmed it does **not** name-check Luke 22:3 or address the
+before/after-the-meal timing tension at all (it only frames John 13:27 as the final stage of a
+suggestion-to-possession escalation) — correctly treated as off-topic rather than stretched, per
+the id-407 caution; no `carm.org`/`defendinginerrancy.com` page exists for this pairing either
+(`defendinginerrancy.com/bible-solutions/Luke_22.3.php` and `John_13.27.php` both 404). `link:
+null`. Dry-run bake (`DRY_RUN=1 IDS=511`) gave the standard two pre-T9/T10 violations
+(`note_present`, `parity_count`) and 823/823 `verifyExcerpts.py` PASS — normal/expected.
+
+## Haley can hit HALF a two-passage tension verbatim under an unrelated topical heading — don't
+## default him to `pd_work` when he's silent on the other passage; prefer the row's own commentator
+## (id 508)
+"Who are wiser, the children of this world or the children of light?" (Luke 16:8's steward-parable
+"children of this world are... wiser than the children of light" vs James 3:15-17's earthly/devilish
+vs heavenly wisdom) is `skepticsannotatedbible.com/contra/wiser.html` (confirmed via `data/json/
+batch_26.json`'s `questionUrl`, verbatim page-title match, per the id-348/363/401 tip — check it
+first). Consensus `apparent_only` → `lean: reconcile_first`. Haley's djvu (curl+grep of the cached
+scratchpad `haley_full.txt` — **check the scratchpad for an existing `haley*.txt` before re-curling**,
+see id-407) has a "Wisdom" heading (Ethical Discrepancies chapter, ~p. 254) that quotes **James
+3:15 against James 3:17 verbatim**, resolved with a clean "wisdom has three senses — worldly craft,
+mere learning, enlightened piety" argument — but the heading's primary pairing is Eccl 2:15-18/6:8
+vs Eccl 2:13 + Prov 3:13,15, and **Luke 16:8 is never cited anywhere in the book** (grepped `Luke
+xvi\.` broadly — only unrelated Luke 16:19-31 Dives-and-Lazarus hits). This is a **new, distinct**
+partial-coverage pattern from id 363's "adjacent doctrinal heading, wrong verses entirely": here
+Haley genuinely quotes **one full side** (James) of the row's exact two-passage pair verbatim, with
+the exact resolving mechanism the row needs, but is silent on the other side (Luke) by name.
+**Judgment call: used JFB (already the reconcile excerpt's Luke 16:8 author, and PD) as the primary
+`pd_work` instead of Haley**, since the contract's bar is treating "this specific contradiction"
+(both sides), and JFB is keyed to the actually-contested verse (Luke's "wiser") — but disclosed
+Haley's real partial James-side coverage inside the `pd_work.note` rather than silently omitting it.
+Reconcile pole used **three distinct voices** (JFB/Luke 16:8: "The greater wisdom... is none of it
+for God and eternity... but all for the purposes of their own grovelling and fleeting generation" —
+a complete sentence, no trimming needed; MHC/Luke 16:1: "Not that the children of this world are
+truly wise; it is only in their generation" from deep inside a long non-anchored block note; GNV/
+Luke 16:8, needing a **leading ellipsis** for a mid-sentence start: "…Christ meaneth by this parable
+to teach us, that worldly men are more heady in the affairs of this world, than the children of God
+are careful for everlasting life. Men that are given to this present life... St. Paul calls those
+spiritual, and the other carnal.") — a `reconcile_first` row can legitimately use all 3 of the
+"1-3 strongest, distinct voices" allowance without needing to trim, since parity only requires
+reconcile-count ≥ discrepancy-count (here 3 ≥ 1), not a cap. Named skeptic: **Steve Wells / SAB**
+(`contra/wiser.html`, WebFetch-confirmed the page's own framing: Luke's parable "commends worldly
+shrewdness" vs James which "directly contradicts this... urging believers to reject 'earthly,
+sensual, devilish' wisdom"). No allowlisted `link` found: `gotquestions.org/parable-unjust-
+steward.html` WebFetch-confirmed discusses Luke 16:8 but never mentions James 3:15-17 or this
+tension (same "on-domain, off-tension page" trap as id 407/452/489); `defendinginerrancy.com/
+bible-solutions/Luke_16.8.php` 404s; no carm.org hit — `link: null` with an honest note. Dry-run
+bake (`DRY_RUN=1 IDS=508`) came back with **1** violation (`note_present` only — no `parity_count`
+violation, matching the id-489 pattern where the lean pole's excerpt count already clears the other
+pole without needing the cap) and 826/826 `verifyExcerpts.py` + 34/34 `verifyVersePairs.py` PASS.
+Also reconfirms (contra an earlier, now-superseded memory claim) that the **live/current** `row`
+schema does **not** put `relabel_flag`/`relabel_reason` on the `reconcile` sub-object — only on
+`discrepancy` — per the contract's own worked example and two independently-sampled recent files
+(489, 500); only set them on `discrepancy`.

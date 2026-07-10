@@ -1,0 +1,46 @@
+{
+  "contradiction_id": 495,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry reads the veil's tearing as coinciding with Christ's last breath rather than following it, so the Gospels' differing placement records one simultaneous event, not a strict sequence.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman presses the sequence as unresolvable on the page: Mark has the curtain tear only after Jesus dies, Luke has it tear while he is still alive, and for Ehrman the two accounts simply cannot both be right.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don't Know About Them)",
+        "year": "2009",
+        "attribution": "Bart D. Ehrman, Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don't Know About Them) (HarperOne, 2009), pp. 51-52"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Mark 15:33",
+      "excerpt_text": "Just at that instant that Christ died upon mount Calvary, the veil of the temple was rent in twain from the top to the bottom, Mar 15:38.",
+      "full_note_ref": "MHC/41/15/33",
+      "on_tension_rationale": "Henry states the veil tore 'just at that instant' Christ died, treating the two events as simultaneous rather than as strictly sequential — directly answers the Luke-vs-Matthew/Mark ordering tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714)",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this exact scene, reading the veil's tearing as simultaneous with Christ's death rather than sequential to it. (Haley's Alleged Discrepancies does not treat this specific verse pair; no 'veil'/'curtain' entry on the crucifixion sequence was found in the 1874 text.)"
+      }
+    }
+  }
+}

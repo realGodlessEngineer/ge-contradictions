@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 469,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Clarke harmonizes the Gospels by positing two or three separate cups — offered before and during the crucifixion — so each evangelist describes a different moment.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible lists all four differing accounts of the drink side by side under one heading, without attempting to reconcile them.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible (\"What did the soldiers give Jesus to drink?\", skepticsannotatedbible.com/contra/vinegar.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"What did the soldiers give Jesus to drink?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Luke 23:36",
+      "excerpt_text": "It appears that at least two cups were given to our Lord; one before he was nailed to the cross, viz. of wine mingled with myrrh, and another of vinegar, while he hung on the cross. Some think there were three cups: One of wine mixed with myrrh; the Second, of vinegar mingled with gall; and the Third, of simple vinegar. Allow these three cups, and the different expressions in all the evangelists will be included.",
+      "full_note_ref": "CLARKE/42/23/36",
+      "on_tension_rationale": "Directly harmonizes all three drink-descriptions (Matt 27:34 vinegar+gall, Mark 15:23 wine+myrrh, and the later plain-vinegar offers in Mark 15:36/Luke 23:36/John 19:29) by positing two or three separate cups offered at different moments, so each evangelist reports a different offer rather than a conflicting one. NOT shipped.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), p. 325, \"Christ's last drink of one kind. Of a different kind.\"",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this passage directly under that heading, arguing from a comparison of Matt 27:34 and 27:48 that drink was offered to Jesus twice — a drugged cup he refused, then an undrugged one he accepted — and that the word rendered 'gall' denotes any intense bitterness, including myrrh."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/was-the-vinegar-given-to-jesus-on-the-cross-mingled-with-gall-or-myrrh/",
+        "domain": "carm.org",
+        "title": "CARM: Was the vinegar given to Jesus on the cross mingled with gall or myrrh?",
+        "note": "Live apologetic treatment weighing the two-separate-offers and one-substance-differently-described harmonizations."
+      }
+    }
+  }
+}

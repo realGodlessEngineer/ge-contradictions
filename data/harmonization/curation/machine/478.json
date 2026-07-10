@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 478,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry treats the single angel outside and the two angels inside as successive moments of one scene, so each Gospel's headcount is only partial.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman presses the point directly: no Gospel actually says the women saw two angels, so the standard harmonization requires a scene none of the texts report.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don't Know About Them)",
+        "year": "2009",
+        "attribution": "Bart D. Ehrman, Jesus, Interrupted (HarperOne, 2009), p. 8"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Luke 24:1",
+      "excerpt_text": "They first saw one angel without the sepulchre, who presently went in, and sat with another angel in the sepulchre, one at the head and the other at the feet, where the body of Jesus had lain; so the evangelists may be reconciled.",
+      "full_note_ref": "MHC/42/24/1",
+      "on_tension_rationale": "Henry states outright that Matthew's single angel (outside, on the stone) and John's two angels (inside, head and feet) are successive moments of one scene -- the clearest single-sentence harmonization of the tomb angel-count problem among the gathered notes, and it explicitly names the goal ('so the evangelists may be reconciled').",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), p. 386",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact four-reference grouping under the heading 'Angels seen, one seated. Two standing. Two seated,' citing Matt. 28:2, 5; Mark 16:5; Luke 24:4; John 20:12 by name -- arguing, after Ebrard, that the passages 'relate to different persons and times,' with one angel appearing at one moment and two at another, so the varying headcounts are complementary rather than conflicting."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/resurrection-accounts.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Can the various resurrection accounts from the four Gospels be harmonized?",
+        "note": "Live apologetic treatment naming this exact question ('How many angels did they see in the tomb, one or two?') among the resurrection-narrative variants it defends as harmonizable, confirmed via WebFetch."
+      }
+    }
+  }
+}

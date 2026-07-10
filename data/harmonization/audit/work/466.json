@@ -1,0 +1,50 @@
+{
+  "contradiction_id": 466,
+  "question": "Who put the robe on Jesus?",
+  "summary": "Luke 23:11 has Herod Antipas and his soldiers dress Jesus in a gorgeous robe during the side-trip to Herod's quarters that only Luke records, before sending him back to Pilate. Matthew 27:27-28, Mark 15:15-17, and John 19:1-2 have Pilate's Roman soldiers strip Jesus and dress him in a purple/scarlet robe inside the praetorium *after* Pilate had already handed him over for scourging. Two different sets of soldiers, two different settings, two different mock-coronations.",
+  "consensus": "probable_harmonization",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Commentators offer several ways to square the two robings: some hold Herod's men and Pilate's men dressed Jesus in different robes matching each nation's own royal color, others suggest Pilate's soldiers reused the very robe Herod's men had put on him, and still others read Herod's mockery as the precedent Pilate's soldiers later copied.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells, in the Skeptic's Annotated Bible, lists this exact question — \"Who put the robe on Jesus?\" — setting Luke 23:11's robing by Herod's soldiers against Matthew 27:27-28, Mark 15:15-17, and John 19:1-2's robing by Pilate's soldiers as conflicting answers.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible, \"Who put the robe on Jesus?\" (skepticsannotatedbible.com/contra/dressed.html)",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/dressed.html)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Luke 23:11",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact tension, explaining Herod's white/gorgeous robe and Pilate's purple robe as two separate mock-robings following each nation's own royal-color custom. Haley's Alleged Discrepancies (1874) does not treat this passage (no 'robe'/'purple'/'scarlet'/'Herod' hits in the full text), so the row-surfaced harmonizing commentator is anchored here per spec."
+      },
+      "link": null
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "466#0",
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "attribution": "Adam Clarke, Commentary on the Bible (1832)",
+      "verse_ref": "Luke 23:11",
+      "full_note_ref": "CLARKE/42/23/11",
+      "excerpt_text": "It probably means a white robe, for it was the custom of the Jewish nobility to wear such. … In such a robe, Herod, by way of mockery, caused our Lord to be clothed; but, the nobility among the Romans wearing purple for the most part, Pilate's soldiers, who were Romans, put on Jesus a purple robe, Mar 15:17; Joh 19:2; both of them following the custom of their own country, when, by way of mocking our Lord as a king, they clothed him in robes of state.",
+      "on_tension_rationale": "Directly explains the two robings (Herod's vs Pilate's soldiers) as two separate acts, each following a different national custom (white/Jewish vs purple/Roman), resolving the 'who robed him' tension.",
+      "source_note_text": "A gorgeous robe - Εσθητα λαμπραν. It probably means a white robe, for it was the custom of the Jewish nobility to wear such. Hence, in Rev 3:4, it is said of the saints, They shall walk with me in White (garments), because they are Worthy. In such a robe, Herod, by way of mockery, caused our Lord to be clothed; but, the nobility among the Romans wearing purple for the most part, Pilate's soldiers, who were Romans, put on Jesus a purple robe, Mar 15:17; Joh 19:2; both of them following the custom of their own country, when, by way of mocking our Lord as a king, they clothed him in robes of state. See Bishop Pearce."
+    }
+  ]
+}

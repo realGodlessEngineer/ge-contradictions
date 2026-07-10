@@ -157,6 +157,29 @@ of three independent veracious witnesses, each telling his story in his own way.
 printed-page match, no leaf-arithmetic needed — the raw-djvu.txt-grep method (id 388) keeps
 working reliably on this item.
 
+**Eleventh confirmation — a DIFFERENT archive.org item ID for the same Haley book
+(audit id 490, item `examinationofall00hale`, NOT `examinationof00hale`):** a work file
+cited this alternate item id (note the "all") for the Matt 20:29-34/Mark 10:46/Luke 18:35
+blind-man-or-men + entering/leaving-Jericho pd_work, claimed pp. 386-387. This item has
+its own metadata (`server=ia601508.us.archive.org`, `dir=/10/items/examinationofall00hale`)
+and its own leaf→page offset — do NOT assume the `examinationof00hale` offset (16) applies.
+Method used: `inside.php` search for `"Historical Discrepancies"` (quoted) returns EVERY
+running-header hit across the whole chapter in one call, each with its OCR'd printed-page
+suffix (e.g. `"HISTORICAL DISCREPANCIES. 385"` at leaf 403, `"...387"` at leaf 405) — from
+which the offset falls out directly (**leaf−18** for this item) without needing curl/grep.
+A follow-up query for `"departure from it"` landed leaf 404 (→ printed 386), and the
+returned snippet was a verbatim match to the pd_work's summary: "some think there were
+three blind men healed, — one when Jesus entered the city, the other two when he left it;
+others suppose that two were healed, — one in the approach to Jericho, the other in the
+departure from it, ... and that Matthew, greatly condensing the narrative, speaks of both
+events as if occurring during the departure ... Others give to the Greek verb in Luke the
+sense to be nigh or near ... Mark and Luke mentioning only the better known of the two."
+Exact 3-for-3 match to the cited "pp. 386-387," three harmonizing options, and "better
+known of the two" detail. Lesson: **check the exact item_id string before applying a
+previously-derived offset** — `examinationof00hale` and `examinationofall00hale` are two
+separate scans of the same book with different offsets (16 vs 18); the quoted-phrase
+chapter-header search is a fast, curl-free way to derive a fresh offset from scratch.
+
 **Tenth confirmation (audit id 463, Judas' death — hanging vs bursting, item
 `examinationof00hale`):** pd_work cited Haley pp. 349-350, heading "Judas' death, — one
 manner. A diverse statement.," the rope/limb-breaking harmonization, citing "Prof. Hackett['s]"

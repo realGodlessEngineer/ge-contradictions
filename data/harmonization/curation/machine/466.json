@@ -1,0 +1,65 @@
+{
+  "contradiction_id": 466,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators offer several ways to square the two robings: some hold Herod's men and Pilate's men dressed Jesus in different robes matching each nation's own royal color, others suggest Pilate's soldiers reused the very robe Herod's men had put on him, and still others read Herod's mockery as the precedent Pilate's soldiers later copied.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, in the Skeptic's Annotated Bible, lists this exact question — \"Who put the robe on Jesus?\" — setting Luke 23:11's robing by Herod's soldiers against Matthew 27:27-28, Mark 15:15-17, and John 19:1-2's robing by Pilate's soldiers as conflicting answers.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Who put the robe on Jesus?\" (skepticsannotatedbible.com/contra/dressed.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/dressed.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Luke 23:11",
+      "excerpt_text": "It probably means a white robe, for it was the custom of the Jewish nobility to wear such. … In such a robe, Herod, by way of mockery, caused our Lord to be clothed; but, the nobility among the Romans wearing purple for the most part, Pilate's soldiers, who were Romans, put on Jesus a purple robe, Mar 15:17; Joh 19:2; both of them following the custom of their own country, when, by way of mocking our Lord as a king, they clothed him in robes of state.",
+      "full_note_ref": "CLARKE/42/23/11",
+      "on_tension_rationale": "Directly explains the two robings (Herod's vs Pilate's soldiers) as two separate acts, each following a different national custom (white/Jewish vs purple/Roman), resolving the 'who robed him' tension.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "John 19:1-2",
+      "excerpt_text": "The robe may have been the \"gorgeous\" one in which Herod arrayed and sent Him back to Pilate (Luk 23:11).",
+      "full_note_ref": "JFB/43/19/2",
+      "on_tension_rationale": "Proposes the alternate harmonization that Pilate's soldiers reused the same robe Herod's men had put on Jesus, directly cross-referencing Luke 23:11.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Luke 23:11",
+      "excerpt_text": "Herod arrayed Christ in a gorgeous robe, some gaudy painted clothes, as a mock-king; and so he taught Pilate's soldiers afterwards to do him the same indignity.",
+      "full_note_ref": "MHC/42/23/1",
+      "on_tension_rationale": "Frames the two robings as sequential and distinct — Herod's mockery is the precedent ('ringleader') that Pilate's soldiers later repeat — directly addressing why two separate robings occur in the narrative.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832), on Luke 23:11",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact tension, explaining Herod's white/gorgeous robe and Pilate's purple robe as two separate mock-robings following each nation's own royal-color custom. Haley's Alleged Discrepancies (1874) does not treat this passage (no 'robe'/'purple'/'scarlet'/'Herod' hits in the full text), so the row-surfaced harmonizing commentator is anchored here per spec."
+      },
+      "link": null
+    }
+  }
+}

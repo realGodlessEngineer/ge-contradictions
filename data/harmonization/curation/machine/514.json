@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 514,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill rejects the Catholic 'Limbus' reading of 1 Peter outright: Christ's soul never descended to any prison but went straight to paradise, as promised.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Skeptic's Annotated Bible's Steve Wells presses the traditions as flatly opposed: paradise that day in Luke, hell in the Creed grounded on 1 Peter 3:19.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Where did Jesus go when he died?\"",
+        "year": "1999",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (skepticsannotatedbible.com, 1999-)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Peter 4:6",
+      "excerpt_text": "nor the deceased patriarchs, before the coming of Christ, whose souls, by the Papists, are said to be in \"Limbus\", whither Christ, they say, went upon his death, and preached to them, and delivered them; but these never were in any such place, but in peace and rest; nor did Christ, in his human soul, descend thither, but went to paradise …",
+      "full_note_ref": "GILL/60/4/6",
+      "on_tension_rationale": "Gill directly denies the Limbus/hell-descent reading of 1 Peter and states Christ's soul went to paradise instead, which is precisely the Luke 23:43 vs. 1 Peter 3:18-20/4:6 tension this row poses.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "In the 'Doctrinal Discrepancies' chapter (on the state of the dead), Haley cites Alford and Tayler Lewis on Christ's proclamation to 'the spirits in prison' in Hades (1 Peter 3:18-20/4:6) and separately treats Luke 23:43's 'paradise' as part of the same intermediate-state framework (with Abraham's bosom/paradise as the blessed compartment), the same doctrinal terrain this contradiction turns on."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Luke_23.43.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in Luke 23:43?",
+        "note": "live apologetic treatment addressing this exact Luke 23:43 vs. Apostles' Creed/1 Peter descent-to-hell tension directly"
+      }
+    }
+  }
+}

@@ -1,0 +1,47 @@
+{
+  "contradiction_id": 476,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "John Gill reads Acts 13:27's 'they' as Joseph of Arimathea and Nicodemus — dissenting council members — not the hostile Sanhedrin as a whole.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman argues Acts 13:29's unnamed Jewish authorities burying Jesus preserves an older tradition, from which the named, honorable Joseph-of-Arimathea story later developed.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "How Jesus Became God: The Exaltation of a Jewish Preacher from Galilee",
+        "year": "2014",
+        "attribution": "Bart D. Ehrman, How Jesus Became God: The Exaltation of a Jewish Preacher from Galilee (HarperOne, 2014)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Acts 13:27",
+      "excerpt_text": "it may be rendered impersonally, \"he was taken down from the tree\"; for not the same persons that desired he might be slain, and fulfilled all that was written of him, took him down, but others; though they were some of the rulers, as Joseph of Arimathea, and Nicodemus, yet such as did not consent to his death",
+      "full_note_ref": "GILL/44/13/27",
+      "on_tension_rationale": "Gill's gloss on Acts 13:27's 'they took him down' directly identifies 'they' with Joseph of Arimathea and Nicodemus (dissenting council members), closing the gap between Acts' plural subject and the Gospels' named burial party — the row's own commentary calls Acts 13:27-29 the 'serious' leg of this contradiction.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Acts 13:27",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact verse directly, identifying Acts 13:27's 'they took him down' with Joseph of Arimathea and Nicodemus rather than the hostile Sanhedrin as a whole (used as this row's reconcile excerpt). John Haley's Alleged Discrepancies (1874/1876) was checked directly via full-text search of the archive.org djvu transcript for 'Arimath', 'Nicodemus', 'Acts xiii', and 'dwell at Jerusalem' and does not treat this passage, so Gill is used per the contract's fallback clause."
+      },
+      "link": null
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 491,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators note that miracle-working in Jesus' name never guaranteed genuine faith — even Judas cast out devils, yet was lost.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, in the Skeptic's Annotated Bible, presses the flat contrast: Mark 16:17 limits exorcism in Jesus' name to 'them that believe,' while Matthew 7:21-23, Mark 9:38, and Luke 9:49 all show non-followers doing it too.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Who can cast out devils in the name of Jesus?\" (skepticsannotatedbible.com/contra/devils.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/devils.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Matthew 7:21",
+      "excerpt_text": "(2.) That in thy name we have cast out devils? That may be too; Judas cast out devils, and yet was a son of perdition. Origen says, that in his time so prevalent was the name of Christ to cast out devils, that sometimes it availed when named by wicked Christians. A man might cast devils out of others, and yet have a devil, nay, be a devil himself.",
+      "full_note_ref": "MHC/40/7/21",
+      "on_tension_rationale": "Directly reconciles Matt 7:21-23 (false prophets casting out devils in Jesus' name yet condemned) with Mark 16:17's 'them that believe' by distinguishing the power to cast out devils in Christ's name from genuine saving faith -- citing Judas as a scriptural instance of the former without the latter.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible, on Matthew 7:21",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Treats this exact tension at the passage via the Judas parallel -- 'a man might cast devils out of others, and yet have a devil, nay, be a devil himself' -- explaining how the false prophets of Matt 7:21-23 could genuinely cast out devils in Jesus' name and still be condemned. (Haley's Alleged Discrepancies (1874) does not appear to treat this specific passage -- checked via full-text search of the archive.org scan for 'cast out devils,' 'workers of iniquity,' 'depart from me,' 'have we not prophesied,' and 'followeth not us,' none of which land on this contradiction; per spec, a row-surfaced harmonizing commentator keyed to the passage is used instead.)"
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Matthew-7-21-23.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Does Matthew 7:21-23 mean that believers can lose salvation?",
+        "note": "Live apologetic page arguing, via the same Judas parallel, that miracle-working (including exorcism) does not require genuine saving faith, so the condemned exorcists of Matthew 7:21-23 do not contradict Mark 16:17."
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "contradiction_id": 512,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read Paul's warning as aimed at unrepented, persisting sin, not sin already pardoned — repentance, not a person's former trade, decides the kingdom's gate.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, in the Skeptic's Annotated Bible, presses the plain clash: Paul bars thieves from God's kingdom while Jesus admits one straight from the cross.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Can thieves go to heaven?\" (skepticsannotatedbible.com/contra/thieves.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/thieves.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "1 Corinthians 6:10",
+      "excerpt_text": "Nor thieves,.... Who take away another man's property, secret or openly, by fraud or force. … shall inherit the kingdom of God; not that these sins, any or all of them, are unpardonable; for such who have been guilty of them may, through the blood of Christ, receive the remission of them, and through the grace of the Spirit of God obtain repentance for them, and have both right and meetness for the kingdom of heaven, as the following words show.",
+      "full_note_ref": "GILL/46/6/10",
+      "on_tension_rationale": "Directly names thieves, then states in the same note that Paul's exclusion is not final/unpardonable — through Christ's blood and repentance such a person gains 'meetness for the kingdom of heaven.' Strongest single reconcile.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "1 Corinthians 6:9",
+      "excerpt_text": "All unrighteousness is sin; and all reigning sin, nay, every actual sin committed deliberately, and not repented of, shuts out of the kingdom of heaven.",
+      "full_note_ref": "MHC/46/6/9",
+      "on_tension_rationale": "Distinct voice supplying the qualifier that resolves the tension: it is unrepented, deliberate sin that excludes from the kingdom — leaving room for the cross-side thief's repentance.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on 1 Corinthians 6:9-10",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact clause directly, reading Paul's kingdom-exclusion of thieves as not unpardonable — forgiven through Christ's blood and given 'meetness for the kingdom of heaven,' the harmonizing move this entry's reconcile pole draws on. (Haley's Alleged Discrepancies of the Bible does not cover this specific passage-pair — its only 'thief' entry concerns whether both crucified malefactors reviled Jesus — so the row's own harmonizing commentator is used per spec.)"
+      },
+      "link": null
+    }
+  }
+}

@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 497,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Clarke resolves the apparent clash by reading Matthew's angel-and-stone scene as completed before the women arrived, not something they witnessed.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "D. F. Strauss names this a genuine contradiction, noting that even the harmonists' best fix requires straining Matthew's Greek rather than reading it plainly.",
+      "skeptic": {
+        "name": "D. F. Strauss",
+        "work": "The Life of Jesus Critically Examined",
+        "year": "1846",
+        "attribution": "D. F. Strauss (d. 1874), The Life of Jesus Critically Examined (1846)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Luke 24:2",
+      "excerpt_text": "They found the stone rolled away - An angel from God had done this before they reached the tomb, Mat 28:2:",
+      "full_note_ref": "CLARKE/42/24/2",
+      "on_tension_rationale": "Clarke explicitly places the angel's stone-rolling recorded at Matthew 28:2 chronologically before the women's arrival, directly harmonizing it with Luke's (and by extension Mark's and John's) report that the women found the stone already rolled away.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley's harmonized resurrection-narrative summary (adopting Robinson's reconstruction, pp. 327-329) places the earthquake, the angel's descent, and the rolling away of the stone before the women's arrival, so that 'on their arrival they find the stone already taken away.'"
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/was-the-stone-moved-away-before-mary-arrived-at-jesus-tomb-or-not/",
+        "domain": "carm.org",
+        "title": "CARM: Was the stone moved away before Mary arrived at Jesus' tomb or not?",
+        "note": "live apologetic treatment addressing this exact chronology question across all four Gospels"
+      }
+    }
+  }
+}

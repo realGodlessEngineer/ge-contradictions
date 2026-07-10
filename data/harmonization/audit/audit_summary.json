@@ -1,13 +1,13 @@
 {
   "floor": {
-    "total": 54,
-    "passed": 54,
+    "total": 67,
+    "passed": 67,
     "failed": 0
   },
   "sample": {
     "target_rate": 0.25,
-    "expected": 49,
-    "received": 338,
+    "expected": 50,
+    "received": 388,
     "missing": [],
     "extra": [
       "1#0",
@@ -228,15 +228,64 @@
       "4#0",
       "40#0",
       "400#0",
+      "401#0",
+      "402#0",
+      "403#0",
+      "404#0",
+      "406#0",
+      "407#0",
+      "408#0",
+      "409#0",
       "41#0",
+      "411#0",
+      "414#0",
+      "416#0",
+      "417#0",
+      "419#0",
       "42#0",
+      "420#0",
+      "421#0",
+      "423#0",
+      "424#0",
       "425#0",
+      "426#0",
+      "427#0",
+      "428#0",
+      "429#0",
       "43#0",
+      "431#0",
+      "432#0",
+      "434#0",
+      "435#0",
+      "438#0",
       "439#0",
       "44#0",
+      "440#0",
+      "441#0",
+      "442#0",
+      "443#0",
+      "444#0",
+      "445#0",
+      "446#0",
+      "447#0",
+      "448#0",
+      "449#0",
       "45#0",
+      "450#0",
+      "451#0",
+      "452#0",
+      "453#0",
+      "455#0",
+      "456#0",
+      "457#0",
+      "458#0",
       "459#0",
       "46#0",
+      "460#0",
+      "461#0",
+      "462#0",
+      "463#0",
+      "464#0",
       "468#0",
       "47#0",
       "470#0",
@@ -302,17 +351,17 @@
     ]
   },
   "overall": {
-    "pass": 329,
-    "flag": 9,
+    "pass": 373,
+    "flag": 15,
     "fail": 0
   },
   "on_tension": {
-    "on_tension": 338,
-    "weak": 0,
+    "on_tension": 387,
+    "weak": 1,
     "off_tension": 0
   },
   "pole_label": {
-    "correct": 338,
+    "correct": 388,
     "should_flip": 0,
     "no_stance": 0
   },
@@ -398,6 +447,60 @@
       "overall": "flag",
       "action": "fix verse_ref (Matt 26:34, not 26:33)",
       "reason": "Excerpt verbatim in source_note_text and squarely on-tension (Beza/Ethiopic \"twice\" variant + second-crowing harmonization), reconcile label correct (Gill concludes Matthew and Mark \"entirely agree\"); but biblestudytools.com confirms this Gill note is on Matt 26:34 (\"Jesus said unto him, verily I say unto thee...before the cock crow, thou shalt deny me thrice\"), not 26:33 (Peter's \"I will never be offended\") -- verse_ref/full_note_ref mislabeled."
+    },
+    {
+      "excerpt_uid": "467#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "flag",
+      "action": "fix verse_ref/full_note_ref to Matthew 27:28 / GILL/40/27/28",
+      "reason": "Verbatim Gill text, on-tension (names scarlet/purple, offers overlap-shade + two-garments harmonizations), reconcile stance correct; but verse_ref/full_note_ref say Matt 27:27 while the note (\"stripped him... scarlet robe... Mark and John say purple\") is actually Gill on Matt 27:28 (confirmed biblestudytools/studylight Gill mirrors) — 6th confirmed instance of the recurring Gill off-by-one pattern."
+    },
+    {
+      "excerpt_uid": "471#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "flag",
+      "action": "fix verse_ref to 27:44",
+      "reason": "Gill \"The thieves also,....one or other of them, not both\" verified verbatim (biblestudytools.com Gill's Exposition Matthew 27:44) — work file mislabels verse_ref/full_note_ref as Matthew 27:43, the wrong verse (27:43 is \"He trusted in God...\"); on-tension, offers both Hebrew-idiom and sequential-repentance harmonizations matching Luke's convert."
+    },
+    {
+      "excerpt_uid": "479#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "flag",
+      "action": "confirm verse_ref (24:2 vs 24:3)",
+      "reason": "Verbatim, ellipsis preserves sense (drops only a tangential sepulchre-size aside and a self-crossref); angel-already-seated reading correctly harmonizes Luke's order with Matthew 28:2, reconcile correct; but the excerpted sentence is Gill's comment on Luke 24:3 (a \"Luke 24:3\" sub-heading precedes it inside the same note blob) while verse_ref/full_note_ref say 24:2 -- off-by-one citation, human should confirm/relabel verse_ref."
+    },
+    {
+      "excerpt_uid": "489#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "flag",
+      "action": "fix verse_ref to Luke 8:31",
+      "reason": "Verbatim Gill note ties Mark's \"continue in that country\" to Luke's \"deep\"/\"former prison\" as one desire; on-tension, reconcile correct — but verse_ref/full_note_ref cite Luke 8:30 (Gill's actual 8:30 note is \"what is thy name,\" unrelated); confirmed via biblestudytools.com this note is Gill's comment on 8:31."
+    },
+    {
+      "excerpt_uid": "505#0",
+      "in_source": "pass",
+      "on_tension": "weak",
+      "pole_label": "correct",
+      "overall": "flag",
+      "action": "tighten connective (drop Bethany claim or re-excerpt JFB's Luk 8:2 note)",
+      "reason": "JFB Luke 7:37 note verbatim & real (\"There is no ground...nor do we know what her name was\"); it denies only a Mary-Magdalene ID, not a Mary-of-Bethany ID (confirmed via JFB's cross-ref Luk 8:2, which also never mentions Bethany, per blueletterbible.org) — connective/rationale overclaim \"keeps her distinct from John's Mary of Bethany\"; on-topic to the summary's Magdalene-conflation clause but weak for the row's primary Luke-sinner-vs-Bethany identity question."
+    },
+    {
+      "excerpt_uid": "506#0",
+      "in_source": "pass",
+      "on_tension": "on_tension",
+      "pole_label": "correct",
+      "overall": "flag",
+      "action": "correct verse_ref to Luke 9:56",
+      "reason": "Verbatim Gill note (confirmed on biblehub/biblestudytools Gill-on-Luke-9 pages); shows a 2nd Samaritan village welcomed Jesus after the 1st's rejection, on-tension for the reconcile argument -- but verse_ref/full_note_ref say Luke 9:53 while the quoted text is actually Gill's note on Luke 9:56, not 9:53."
     }
   ],
   "discrepancy_pole": {
@@ -405,31 +508,31 @@
     "dishonest": {}
   },
   "guardrails_agent": {
-    "reviewed": 337,
+    "reviewed": 387,
     "by_dimension": {
       "parity": {
-        "ok": 337,
+        "ok": 387,
         "violated": 0
       },
       "connectives": {
-        "ok": 327,
-        "flag": 10
+        "ok": 371,
+        "flag": 16
       },
       "named_skeptic": {
-        "ok": 329,
+        "ok": 378,
         "not_real": 0,
-        "strawman": 5,
+        "strawman": 6,
         "n/a": 3
       },
       "discrepancy_integrity": {
-        "ok": 335,
+        "ok": 385,
         "co_opted": 0,
         "relabel_ok": 1,
         "relabel_missing": 1
       },
       "deeper_learning": {
-        "ok": 327,
-        "flag": 10,
+        "ok": 374,
+        "flag": 13,
         "missing": 0
       }
     },
@@ -453,7 +556,16 @@
       438,
       442,
       446,
-      461
+      461,
+      471,
+      479,
+      483,
+      489,
+      499,
+      505,
+      506,
+      509,
+      517
     ]
   }
 }

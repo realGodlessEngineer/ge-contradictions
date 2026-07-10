@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 472,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill, following Godwin and Hammond, argues ancient 'hour' names spanned whole three-hour blocks, so Mark's third and John's sixth could describe the same window.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman treats this hour discrepancy as paradigmatic, calling it flatly impossible for both Mark's and John's crucifixion timings to be historically accurate.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible",
+        "year": "2009",
+        "attribution": "Bart D. Ehrman, Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (2009)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "John 19:14",
+      "excerpt_text": "…but Mar 15:25 says that \"it was the third hour, and they crucified him\"… the copies in general agree in, and confirm the common reading, and which is differently accounted for; some by the different computations of the Jews and Romans; others by observing that the day was divided into four parts, each part containing three hours, and were called the third, the sixth, the ninth, and the twelfth hours; and not only that time, when one of these hours came, was called by that name, but also from that all the space of the three hours, till the next came, was called by the name of the former: for instance, all the space from nine o'clock till twelve was called \"the third hour\"; and all from twelve till three in the afternoon \"the sixth hour\": hence the time of Christ's crucifixion being supposed to be somewhat before, but yet near our twelve of the clock, it may be truly here said that it was about the sixth hour; and as truly by Mark the third hour; that space, which was called by the name of the third hour, being not yet passed, though it drew toward an end. This way go Godwin and Hammond, whose words I have expressed, and bids fair for the true solution of the difficulty…",
+      "full_note_ref": "GILL/43/19/14",
+      "on_tension_rationale": "Gill's classical 'block-hour' harmonization: ancient hour-names covered whole three-hour spans, so Mark's 'third hour' and John's 'sixth hour' can both truly describe the same crucifixion window.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), pp. 412-413",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pairing (Mark 15:25 vs. John 19:14-18) directly under 'Historical Discrepancies,' listing three leading harmonizations: extreme-limits reckoning, Roman-vs-Jewish hour systems, and a copyist's numeral error."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Mark_15.25_(cf._John_19.14).php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in Mark 15:25 (cf. John 19:14)?",
+        "note": "live apologetic treatment arguing Mark uses Jewish reckoning and John uses Roman reckoning"
+      }
+    }
+  }
+}

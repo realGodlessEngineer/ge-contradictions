@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 516,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill treats Luke and John as one scene: dread at Christ's sudden appearance turns to gladness once he shows his wounds.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, in the Skeptic's Annotated Bible, lists the two reactions to the same appearance as mutually exclusive, since no one can be terrified and glad at once.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Were the disciples frightened or gladdened when they saw Jesus?\" (skepticsannotatedbible.com/contra/frightened.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible, \"Were the disciples frightened or gladdened when they saw Jesus?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "John 20:20",
+      "excerpt_text": "These he showed, partly to convince them that he was not a spirit, or an apparition, which at first sight they took him to be, from his sudden appearance among them, the doors being locked and barred … then were the disciples glad when they saw the Lord; for by these marks in his hands and feet, and side, they were fully convinced, and entirely satisfied, that it was he; and that he was risen from the dead; and who now appeared to them, than which a more delightful sight could not be enjoyed by them; whereby was fulfilled, what he had foretold and promised, Joh 16:22.",
+      "full_note_ref": "GILL/43/20/20",
+      "on_tension_rationale": "Gill explicitly frames the wound-showing as proof that dispels the 'spirit'/apparition fear reported in the parallel Luke account, then reports the resulting gladness — bridging Luke's fright and John's joy as sequential stages of one encounter.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714), on John 20:19-23",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats Luke 24:36ff. and John 20:19 as the same appearance, tracing the disciples from the terror of Luke 24:37 to the gladness of John 20:20 once Christ's wounds convinced them. (Haley's Alleged Discrepancies does not appear to treat this specific fear/gladness pairing directly; per spec a row-surfaced harmonizing commentator keyed to the passage is used instead.)"
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No allowlisted apologetics page (gotquestions.org / carm.org / defendinginerrancy.com) squarely engaging this specific fear-vs-gladness pairing could be confirmed; the closest gotquestions.org page (resurrection-accounts.html) does not address it, and defendinginerrancy.com has no Luke 24:37 or John 20:20 page. Link omitted rather than guessed."
+      }
+    }
+  }
+}

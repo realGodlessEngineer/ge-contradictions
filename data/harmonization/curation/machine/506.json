@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 506,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read Luke's hostile village and John's welcoming Sychar as two distinct places and moments, not one uniform Samaritan response.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The Tübingen critic F. C. Baur read Luke's rejection and John's welcome as a genuine discrepancy, as Haley's 1874 survey records.",
+      "skeptic": {
+        "name": "Ferdinand Christian Baur",
+        "work": "Position as recorded in John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874), p. 358, citing Baur's Tübingen-school critique of the canonical Gospels",
+        "year": "1874",
+        "attribution": "F. C. Baur (1792-1860), Tübingen School, per Haley's 1874 report of the Baur-Bleek exchange on Luke 9:52-53 vs. John 4:39-40"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Luke 9:53",
+      "excerpt_text": "and they went to another village; in Samaria, more civil and courteous, and less prejudiced, and where they got lodging and entertainment.",
+      "full_note_ref": "GILL/42/9/53",
+      "on_tension_rationale": "Shows Luke's rejecting village was not representative of Samaritan response generally -- the very next village welcomed Jesus, consistent with John's positive portrait.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Luke 9:53",
+      "excerpt_text": "The Galileans, in going to the festivals at Jerusalem, usually took the Samaritan route [JOSEPHUS, Antiquities, 20.6.1], and yet seem to have met with no such inhospitality. But if they were asked to prepare quarters for the Messiah, in the person of one whose \"face was as though He would go to Jerusalem,\" their national prejudices would be raised at so marked a slight upon their claims.",
+      "full_note_ref": "JFB/42/9/53",
+      "on_tension_rationale": "Explains the specific provocation (being asked to host 'the Messiah' pointedly bound for Jerusalem) that made this one village hostile, while ordinary Jewish travelers through Samaria met no such trouble -- distinguishing this incident from Sychar's welcome.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Luke 9:51",
+      "excerpt_text": "They did not receive him, would not suffer him to come into their village, but ordered their watch to keep him out. He would have paid for all he bespoke, and been a generous guest among them, would have done them good, and preached the gospel to them, as he had done some time ago to another city of the Samaritans, Joh 4:41.",
+      "full_note_ref": "MHC/42/9/51",
+      "on_tension_rationale": "Directly cross-references John 4:41's Samaritan reception as the positive counter-case Christ would have repeated here, explicitly holding both Gospel episodes together as compatible rather than conflicting.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), p. 358",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley pairs Luke 9:52-53 with John 4:39-40 directly under the heading 'Samaritans received not Jesus. Treated him hospitably,' reporting Bleek's reply to Baur that Luke speaks of one Samaritan village while John speaks of a city in the land of Samaria."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Luke_9.52-53.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Luke 9:52-53 -- Did the Samaritans receive Christ or reject Him?",
+        "note": "live apologetic treatment naming the same different-village/different-time resolution"
+      }
+    }
+  }
+}

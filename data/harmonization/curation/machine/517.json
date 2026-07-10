@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 517,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators note Christ's body was soon handled by the women and Thomas, and that the verb may mean 'cling not' rather than an absolute ban.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses the contradiction bluntly: Mary is forbidden to touch Jesus while the women and Thomas are invited to.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Was it OK to touch the risen Jesus before his ascension?\" (skepticsannotatedbible.com/contra/touch.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (online; contra/touch.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "John 20:17",
+      "excerpt_text": "Not that his body was an aerial one, or a mere \"phantom\", which could not be touched; the prohibition itself shows the contrary; and besides, Christ's body was afterwards presented to Thomas, to be touched by him, and to be handled by all the disciples; and his feet were held by the women, which is what Mary would have now done: upon the discovery of him, she threw herself at his feet, and was going to embrace and kiss them, to testify her affection and joy, when she is forbid; not as unworthy of the favour, because she sought him among the dead, for which the angels reproved her and the rest; but either because he was not to be conversed with, as before his death, his body being raised immortal and glorious; or rather, because he had an errand to send her on to his disciples, which required haste …",
+      "full_note_ref": "GILL/43/20/17",
+      "on_tension_rationale": "Directly reconciles: notes Christ's body was afterwards touched by Thomas and handled by the disciples and held by the women's feet, then gives the specific reason the prohibition applied only to Mary at that moment.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "John 20:17",
+      "excerpt_text": "Touch me not - Μη μου ἁπτου, Cling not to me. … From Mat 28:9, it appears that some of the women held him by the feet and worshipped him. This probably Mary did; and our Lord seems to have spoken to her to this effect: \"Spend no longer time with me now: I am not going immediately to heaven - you will have several opportunities of seeing me again: but go and tell my disciples, that I am, by and by, to ascend to my Father and God, who is your Father and God also. Therefore, let them take courage.\"",
+      "full_note_ref": "CLARKE/43/20/17",
+      "on_tension_rationale": "Offers the 'cling not' rendering of the Greek and explicitly cross-references Matthew 28:9's feet-holding to reconcile the apparent conflict.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Luke 24:36",
+      "excerpt_text": "He appeals to their touch: Handle me, and see. He would not let Mary Magdalene touch him at that time, Joh 20:17. But the disciples here are entrusted to do it, that they who were to preach his resurrection, and to suffer for doing so, might be themselves abundantly satisfied concerning it.",
+      "full_note_ref": "MHC/42/24/36",
+      "on_tension_rationale": "Explicitly contrasts Christ refusing Mary's touch at John 20:17 with inviting the disciples to handle him per Luke 24:39, reconciling the two by their differing purposes.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact tension directly (John 20:17 vs. Matthew 28:9), noting the different Greek verbs used and citing Ebrard's 'Hold me not, I have not yet ascended' rendering (pp. 330-331)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/touch-Mary-Thomas.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: After His resurrection, why did Jesus tell Mary not to touch Him, but later tell Thomas to touch Him?",
+        "note": "live apologetic treatment distinguishing Mary's clinging from Thomas's demand for proof"
+      }
+    }
+  }
+}

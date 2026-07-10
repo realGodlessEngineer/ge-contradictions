@@ -1,0 +1,61 @@
+{
+  "contradiction_id": 467,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Early commentators treat 'scarlet' and 'purple' as overlapping shades of the same mock-royal garment, or as two garments worn in sequence.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses the point directly, juxtaposing Matthew's scarlet robe against Mark and John's purple as an unresolved discrepancy in eyewitness detail.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible, \"What color was Jesus's robe?\"",
+        "year": null,
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (skepticsannotatedbible.com/contra/color.html)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 27:27",
+      "excerpt_text": "and put on him a scarlet robe, or \"a red coat\", as the Persic version renders it; very likely an old coat of one of their officers. The Evangelists Mark and John say it was \"purple\", Mar 15:17, and so the Arabic version renders it here: whether there were two garments put upon him, the one a purple vest, and the other a scarlet robe over it; or whether scarlet was used instead of purple, is not certain …",
+      "full_note_ref": "GILL/40/27/27",
+      "on_tension_rationale": "Gill names the scarlet/purple discrepancy directly and offers the two live harmonizations (overlapping color-terms; two garments layered).",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Matthew 27:28",
+      "excerpt_text": "John and Mark make mention of a purple robe, which is also a very pleasant red.",
+      "full_note_ref": "GNV/40/27/28",
+      "on_tension_rationale": "The Geneva annotators explicitly equate 'purple' with a shade of red, addressing the scarlet/purple wording gap head-on.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63)",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats the scarlet/purple wording at all three verses directly, proposing overlapping color-terms or two garments worn in sequence — Haley's Alleged Discrepancies does not cover this passage, so Gill (already surfaced on the row) serves as the passage-specific PD defense."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/was-the-robe-of-jesus-scarlet-or-purple/",
+        "domain": "carm.org",
+        "title": "CARM: Was the robe of Jesus Scarlet or Purple?",
+        "note": "live apologetic treatment arguing scarlet and purple could appear nearly identical under dim indoor lighting"
+      }
+    }
+  }
+}

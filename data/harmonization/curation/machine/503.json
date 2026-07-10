@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 503,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Clarke revives the old son-in-law theory: Joseph was Jacob's true son in Matthew but Heli's son-in-law in Luke's record of Mary's line.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman rejects that harmonizing move, noting Luke explicitly calls the line Joseph's, not Mary's, so the two fathers cannot both be right.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (and Why We Don't Know About Them)",
+        "year": "2009",
+        "attribution": "Bart D. Ehrman, Jesus, Interrupted (2009)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Luke 3:23",
+      "excerpt_text": "This remark alone is sufficient to remove every difficulty. Thus it appears that Joseph, son of Jacob, according to St. Matthew, was son-in-law of Heli, according to St. Luke.",
+      "full_note_ref": "CLARKE/42/3/23",
+      "on_tension_rationale": "Directly answers the Matthew-Jacob vs. Luke-Heli father discrepancy by making Joseph Jacob's actual son (Matthew) and Heli's son-in-law through Mary (Luke) — the single strongest, most concise statement of the son-in-law harmonization theory among the gathered notes.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874), pp. 325-326",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats this exact passage under 'Christ's genealogy,' laying out both the Matthew-Joseph/Luke-Joseph theory and the Matthew-Joseph/Luke-Mary theory and preferring the latter: Joseph 'was the actual son of Jacob, and the legal son of Heli' by marrying Heli's heiress daughter Mary."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Jesus-genealogy.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why are Jesus' genealogies in Matthew and Luke so different?",
+        "note": "Live apologetic page arguing Matthew records Joseph's line and Luke records Mary's, with Joseph called 'son of Heli' by marriage since Koine Greek had no word for son-in-law."
+      }
+    }
+  }
+}

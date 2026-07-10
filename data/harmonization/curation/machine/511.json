@@ -1,0 +1,49 @@
+{
+  "contradiction_id": 511,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Adam Clarke resolves the timing by reading two entries of Satan — an earlier one, then a decisive second entry at the supper.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses the plain timing: one gospel places the entry before the meal, the other only after the sop.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/satan_entered.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "John 13:27",
+      "excerpt_text": "He had entered into him before, and now he enters again, to strengthen him in his purpose of delivering up his Master. But the morsel was not the cause of this entering in; the giving of it only marks the time in which the devil confirmed Judas in his traitorous purpose.",
+      "full_note_ref": "CLARKE/43/13/27",
+      "on_tension_rationale": "Clarke's note on John 13:27 directly names two distinct entries of Satan into Judas — one before ('he had entered into him before,' matching Luke 22:3) and a second, confirming entry at the supper — answering the row's timing tension head-on rather than merely describing the verse.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Adam Clarke, Commentary on the Bible (1832)",
+        "author": "Adam Clarke",
+        "year": "1832",
+        "note": "Clarke treats this exact passage directly, resolving the Luke/John timing by reading two distinct entries of Satan into Judas. John Haley's An Examination of the Alleged Discrepancies of the Bible (1874) was checked (full-text search of the djvu transcript for \"Satan\", \"Judas\", and \"entered into him\") and has no coverage of this specific pairing, so the row's own reconcile-pole author is used instead, per the contract's named alternative."
+      },
+      "link": null
+    }
+  }
+}

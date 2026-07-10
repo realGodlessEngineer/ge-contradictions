@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 504,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators trace the divergent counts to two different sons of David: Matthew follows Solomon's royal line, Luke follows Nathan's private line.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Raymond Brown presses further, arguing the two genealogies are independent theological constructions, not compressed copies of one line, and cannot be harmonized as literal history.",
+      "skeptic": {
+        "name": "Raymond E. Brown",
+        "work": "The Birth of the Messiah: A Commentary on the Infancy Narratives in Matthew and Luke",
+        "year": "1977 (updated ed. 1993)",
+        "attribution": "Raymond E. Brown, The Birth of the Messiah, updated ed., Anchor Bible Reference Library (Doubleday, 1993; orig. 1977)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Luke 3:21",
+      "excerpt_text": "Matthew draws the pedigree from Solomon, whose natural line ending in Jechonias, the legal right was transferred to Salathiel, who was of the house of Nathan, another son of David, which line Luke here pursues, and so leaves out all the kings of Judah.",
+      "full_note_ref": "MHC/42/3/21",
+      "on_tension_rationale": "Directly explains why the David-to-Jesus generation counts and names diverge between Matthew and Luke: the two evangelists trace descent through two different sons of David (Solomon's royal line vs. Nathan's private line), which is the standard harmonizing account for the row's specific tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact tension under the heading 'Christ's genealogy, — one form. A diverse form' (Matt. 1:16 vs. Luke 3:23), pp. 325-327, defending the Joseph/Mary two-line theory (Matthew = Joseph's legal/royal descent, Luke = Mary's actual descent via Heli)."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Jesus-genealogy.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Why are Jesus' genealogies in Matthew and Luke so different?",
+        "note": "live apologetic treatment of the same David-to-Jesus divergence, defending the Joseph/Mary two-line explanation"
+      }
+    }
+  }
+}

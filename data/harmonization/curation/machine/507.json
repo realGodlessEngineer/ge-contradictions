@@ -1,0 +1,56 @@
+{
+  "contradiction_id": 507,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The commentators read Jesus's reply as redirecting, not denying, Mary's blessedness — prizing the greater happiness of hearing and keeping God's word.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells, in the Skeptic's Annotated Bible, presses the plain reading: Jesus's reply flatly says his mother wasn't specially blessed, undercutting Gabriel's and Elisabeth's greeting.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible, \"Was Mary (the mother of Jesus) blessed?\" (skepticsannotatedbible.com/contra/mary.html)",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), \"Was Mary (the mother of Jesus) blessed?\""
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Luke 1:28",
+      "excerpt_text": "As the mother of our Lord, she was the most \"blessed among women\" in external distinction; but let them listen to the Lord's own words. \"Nay, rather blessed are they that hear the word of God and keep it.\"",
+      "full_note_ref": "JFB/42/1/28",
+      "on_tension_rationale": "Directly juxtaposes 1:28's 'blessed among women' with the 11:27-28 reply, framing the former as external distinction and the latter as the higher, spiritual blessedness — a reprioritization, not a denial, of Mary's blessing.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Luke 11:28",
+      "excerpt_text": "though not denying it, nor reproving her for it, but improving upon it … intimating, that though his mother was happy in bearing and suckling such a son, yet it was a far greater happiness to hear the word of God … This is a greater happiness than to be related to Christ in the flesh, though ever so nearly.",
+      "full_note_ref": "GILL/42/11/26",
+      "on_tension_rationale": "Reads the 'yea rather' as correction without denial or reproof — Jesus 'improves upon' the woman's praise, ranking hearing God's word above even Mary's role as mother, without retracting that role's happiness.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible, on Luke 1:28 and Luke 11:27",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats this exact tension at both verses (its Luke 1:28 note explicitly cross-references Luke 11:27), reading Mary's 'blessed among women' as external distinction while Jesus's reply directs hearers to the higher, spiritual blessedness open to anyone who hears and keeps God's word. Haley's Examination of the Alleged Discrepancies does not appear to treat this specific passage (checked via Internet Archive full-text search on 'blessed among women,' 'highly favoured,' 'blessed art thou,' and the Luke 11:28 wording — no hits), so per spec a row-surfaced harmonizing commentator keyed to the passage is used instead."
+      },
+      "link": null
+    }
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 508,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read Luke's \"wiser\" as shrewdness confined to worldly self-interest, not the God-ward piety James calls true wisdom from above.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible frames it as a flat contradiction: Jesus commends worldly cunning, James condemns that very wisdom as devilish.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/wiser.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "Luke 16:8",
+      "excerpt_text": "The greater wisdom (or shrewdness) of the one, in adaptation of means to ends, and in energetic, determined prosecution of them, is none of it for God and eternity—a region they were never in, an atmosphere they never breathed, an undiscovered world, an unborn existence to them—but all for the purposes of their own grovelling and fleeting generation.",
+      "full_note_ref": "JFB/42/16/8",
+      "on_tension_rationale": "Distinguishes Luke's 'wiser' as a narrow worldly shrewdness explicitly not 'for God and eternity' — the same axis James uses to separate earthly from heavenly wisdom.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Luke 16:1",
+      "excerpt_text": "The children of light are commonly outdone by the children of this world. Not that the children of this world are truly wise; it is only in their generation.",
+      "full_note_ref": "MHC/42/16/1",
+      "on_tension_rationale": "States outright that the children of this world are not 'truly wise,' only relatively so 'for their generation' — directly denying the reading that Luke ranks worldly people wiser than the godly in any ultimate sense.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Luke 16:8",
+      "excerpt_text": "…Christ meaneth by this parable to teach us, that worldly men are more heady in the affairs of this world, than the children of God are careful for everlasting life. Men that are given to this present life, contrary to whom the children of light are set: St. Paul calls those spiritual, and the other carnal.",
+      "full_note_ref": "GNV/42/16/8",
+      "on_tension_rationale": "Glosses 'children of light' as Paul's 'spiritual' category set against worldly 'carnal' men, framing the parable as a lesson in diligence rather than a verdict that worldly wisdom outranks heavenly wisdom.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible (1871), on Luke 16:8",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB reads Luke's 'wiser' as a narrower shrewdness in 'adaptation of means to ends,' explicitly denying it concerns 'God and eternity' — the same distinction James draws between earthly and heavenly wisdom. John Haley's Examination of the Alleged Discrepancies of the Bible (1874) was checked (curl+grep of the full djvu text): it independently quotes James 3:15 against James 3:17 verbatim under its 'Wisdom' heading and resolves it by distinguishing 'worldly craft' from 'enlightened piety,' but does not address the Luke 16:8 side of this pairing by name, so JFB — keyed to the actual passage in tension — is used as the primary defense source."
+      },
+      "link": {
+        "url": null,
+        "domain": null,
+        "title": null,
+        "note": "No live, on-topic allowlisted apologetics page confirmed. gotquestions.org/parable-unjust-steward.html was checked directly and discusses Luke 16:8's 'wiser' language but never mentions James 3:15-17 or this tension; defendinginerrancy.com/bible-solutions/Luke_16.8.php 404s; no on-topic carm.org page found. Link omitted rather than guessed."
+      }
+    }
+  }
+}

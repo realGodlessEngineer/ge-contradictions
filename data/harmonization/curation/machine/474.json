@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 474,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry reads the two confessions as one testimony under different words: a witness who calls Jesus righteous has thereby affirmed what \"Son of God\" claims of him.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman presses the harder reading: Luke deliberately swapped Mark's \"Son of God\" for \"innocent/righteous man\" because his crucifixion scene argues legal vindication, not messianic revelation.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (and Why We Don't Know About Them)",
+        "year": "2009",
+        "attribution": "Bart D. Ehrman, Jesus, Interrupted (HarperOne, 2009), pp. 64-69"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Luke 23:47",
+      "excerpt_text": "His testimony in Matthew and Mark goes further: Truly this was the Son of God. But in his case this amounts to the same; for, if he was a righteous man, he said very truly when he said that he was the Son of God; and therefore that testimony of his concerning himself must be admitted, for, if it were false, he was not a righteous man.",
+      "full_note_ref": "MHC/42/23/44",
+      "on_tension_rationale": "Henry names both Synoptic wordings explicitly and argues they amount to the same testimony — the direct harmonizing move for this exact 'Son of God' vs 'righteous man' tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714)",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats this passage directly at Luke 23:44-49, arguing the centurion's two reported confessions 'amount to the same' testimony."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Matthew_27.54_(cf._Mark_15.39;_Luke_23.47).php",
+        "domain": "defendinginerrancy.com",
+        "title": "Matthew 27:54 (cf. Mark 15:39; Luke 23:47)",
+        "note": "live apologetic treatment arguing the centurion likely said both things, with each evangelist selecting a different part"
+      }
+    }
+  }
+}

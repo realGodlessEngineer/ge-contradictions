@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 501,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill collapses the two rubrics into one: the \"good\" that earns the resurrection of life just is believing in Christ.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Rudolf Bultmann judged John 5:28-29's deeds-based verdict a later redactor's addition, clashing with the Gospel's own faith-based, already-realized judgment.",
+      "skeptic": {
+        "name": "Rudolf Bultmann",
+        "work": "The Gospel of John: A Commentary",
+        "year": "1941 (German); 1971 (English trans.)",
+        "attribution": "Rudolf Bultmann (d. 1976), The Gospel of John: A Commentary (German 1941; Eng. trans. 1971)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "John 5:29",
+      "excerpt_text": "they that have done good; which none of Adam's posterity naturally do, or can do of themselves: such are designed here who believe in Christ, which to do is the work of God, and the greatest and best of worlds; and without which it is impossible to please God in any; and indeed, whatever is not of faith is sin, and cannot be a good work: a good work is that which is done according to the will of God, from love to him, in faith, and with a view to his glory …",
+      "full_note_ref": "GILL/43/5/29",
+      "on_tension_rationale": "Gill glosses 'they that have done good' (the works-criterion of John 5:29's resurrection judgment) as meaning those who believe in Christ, explicitly folding the works-rubric into the faith-rubric that is central to this contradiction.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible, on John 5:29 (1746-63)",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill's own exposition of John 5:29 treats this exact passage, reducing 'done good' to believing in Christ; Haley's doctrinal 'Justification: By Faith / By Works' chapter covers only the separate Paul-vs-James dispute (Rom. 3-4, Gal. 2-3 vs. James 2) and does not engage this Gospel verse set, so the surfaced commentator is used instead."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/faith-vs-works.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What is the biblical understanding of faith vs. works?",
+        "note": "live apologetic treatment arguing works are the evidence, not the ground, of faith-based salvation"
+      }
+    }
+  }
+}

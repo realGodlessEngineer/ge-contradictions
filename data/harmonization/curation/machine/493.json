@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 493,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read John's 'eat the passover' as the later Chagigah feast, not the paschal lamb Jesus and the Twelve had already eaten Thursday night.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman presses the sharpest version: Mark has Jesus die after the Passover meal, John before it — both cannot be historically accurate.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don't Know About Them)",
+        "year": "2009",
+        "attribution": "Bart D. Ehrman, Jesus, Interrupted (HarperOne, 2009)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "John 18:28",
+      "excerpt_text": "that they might eat the passover; pure and undefiled; not the passover lamb, for that they had eaten the night before; but the \"Chagigah\", or feast on the fifteenth day of the month.",
+      "full_note_ref": "GILL/43/18/28",
+      "on_tension_rationale": "Gill states plainly that John 18:28's 'eat the passover' refers to the Chagigah (a later festival meal in Passover week), not the paschal lamb, which Jesus and the disciples had already eaten the night before per the Synoptics — the classic harmonization directly addressing the John-vs-Synoptics day-of-crucifixion tension.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats the question of when Christ ate the Passover directly, weighing the Chagigah/commemorative-meal readings and the differing-calendar theories used to reconcile John's 'day of preparation' language with the Synoptics' Last-Supper-as-Passover chronology."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/Day-of-Preparation.html",
+        "domain": "gotquestions.org",
+        "title": "If Jesus was crucified on the Day of Preparation, why had He already eaten the Passover meal?",
+        "note": "live apologetic treatment of the same John-vs-Synoptics Passover-timing tension"
+      }
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "contradiction_id": 490,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry notes Mark's one beggar against Matthew's two, then reads Luke's 'near Jericho' as ambiguous enough to fit either approach or departure.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells's Skeptic's Annotated Bible presses both points as flat contradictions: entering versus leaving Jericho, and one beggar versus two.",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "Skeptic's Annotated Bible",
+        "year": "1999",
+        "attribution": "Steve Wells, Skeptic's Annotated Bible (1999), contra/jericho.html and contra/blindmen.html"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "Luke 18:35",
+      "excerpt_text": "Mark gives us an account of one, and names him, whom he cured as he went out of Jericho, Mar 10:46. Matthew speaks of two whom he cured as they departed from Jericho, Mat 20:30. Luke says it was en tō engizein auton - when he was near to Jericho, which might be when he was going out of it as well as when he was coming into it.",
+      "full_note_ref": "MHC/42/18/35",
+      "on_tension_rationale": "MHC juxtaposes Mark's single named beggar against Matthew's two, then directly argues the location tension away by reading Luke's Greek phrase for 'near Jericho' as ambiguous between approach and departure.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact triad (Matt 20:30, Mark 10:46, Luke 18:35, 38) under 'Historical Discrepancies,' pp. 386-387 (verified via archive.org djvu text of examinationofall00hale), canvassing three harmonizing options: three blind men healed (one entering, two leaving), two men healed with Matthew condensing both into the departure, or Luke's Greek verb read simply as 'nigh/near' without specifying direction -- with Mark and Luke naming only the better-known of the two beggars."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/one-two-blind-men.html",
+        "domain": "gotquestions.org",
+        "title": "Did Jesus heal two blind men (Matthew 20:29-34) or one blind man (Mark 10:46-52; Luke 18:35-43)?",
+        "note": "live apologetic treatment covering both the headcount and entering/leaving tensions"
+      }
+    }
+  }
+}

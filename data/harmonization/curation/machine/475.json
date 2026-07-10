@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 475,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Matthew Henry harmonizes the accounts by having the women stand near at first, then withdraw to a distance as the Synoptics describe.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Raymond Brown presses the sharper point: John's near-the-cross scene and the Synoptics' distant women serve incompatible theological purposes and resist straightforward harmonization.",
+      "skeptic": {
+        "name": "Raymond E. Brown",
+        "work": "The Death of the Messiah: From Gethsemane to the Grave",
+        "year": "1994",
+        "attribution": "Raymond E. Brown, The Death of the Messiah: From Gethsemane to the Grave, ABRL vol. 2 (Doubleday, 1994), pp. 1013–1026"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "John 19:25",
+      "excerpt_text": "There stood by the cross, as near as they could get, his mother, and some of his relations and friends with her. At first, they stood near, as it is said here; but afterwards, it is probable, the soldiers forced them to stand afar off, as it is said in Matthew and Mark: or they themselves removed out of the ground.",
+      "full_note_ref": "MHC/43/19/19",
+      "on_tension_rationale": "MHC explicitly reconciles John's 'stood by the cross' with the Synoptics' 'afar off' by proposing the women's position changed during the crucifixion — near at first, then pushed back later.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Matthew Henry, Commentary on the Whole Bible (1706-1714)",
+        "author": "Matthew Henry",
+        "year": "1706-1714",
+        "note": "Henry treats John 19:25 directly, proposing the women stood near at first and were later forced back to a distance — the same 'moved position over time' harmonization modern apologetics sites still use."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/were-the-women-close-or-far-from-the-cross/",
+        "domain": "carm.org",
+        "title": "CARM: Were the women close or far from the cross?",
+        "note": "live apologetic treatment arguing the women's position changed over the hours-long crucifixion"
+      }
+    }
+  }
+}

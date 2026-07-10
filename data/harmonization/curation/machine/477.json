@@ -1,0 +1,63 @@
+{
+  "contradiction_id": 477,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators read 'dark,' 'dawn,' and 'sunrise' as one journey at different moments: the women set out in darkness and arrived as the sun rose.",
+      "skeptic": null,
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Steve Wells reads the wording as flatly incompatible — 'while it was yet dark' (John) against dawn and sunrise (Matthew, Mark).",
+      "skeptic": {
+        "name": "Steve Wells",
+        "work": "The Skeptic's Annotated Bible",
+        "year": "2013",
+        "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Mark 16:2",
+      "excerpt_text": "They came to the sepulchre at the rising of the sun; of the sun of righteousness, as Mr. Mede observes; or rather, of the natural sun: for though it was dark when they set out, and when it dawned towards the first day, yet by that time that they all got to the sepulchre, the sun was rising …",
+      "full_note_ref": "GILL/41/16/2",
+      "on_tension_rationale": "Directly reconciles John's 'dark when they set out' with Matthew's dawning and Mark's sunrise by noting the travel time elapsed before the women actually reached the tomb.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "CLARKE",
+      "verse_ref": "Mark 16:2",
+      "excerpt_text": "According to these four parts of time, one might not improperly suit the four phrases of the evangelists. According to the first, Matthew's, Τῃ επιφωσκουσῃ, As it began to dawn. According to the second, John's, Πρωΐ σκοτιας ετι ουσης, Early in the morning when it was yet dark. To the third, Luke's, Ορθρου βαθεως, Very early in the morning. To the fourth, Mark's, Λιαν πρωΐ, Very early in the morning. And yet, Ανατειλαντος του ἡλιου, At the rising of the sun. For the women came twice to the sepulchre, as St. John teaches, by whom the other evangelists are to be explained; which being well considered, the reconciling them together is very easy.",
+      "full_note_ref": "CLARKE/41/16/2",
+      "on_tension_rationale": "Quotes Lightfoot mapping each evangelist's exact phrase onto a single rabbinic four-part division of twilight, and offers a second harmonization (two separate visits) alongside the elapsed-travel-time reading.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874), p. 426",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact pairing under the heading 'Sepulchre visited at sunrise. At the early dawn. Mark xvi. 2. John xx. 1.', proposing either that Mary Magdalene alone arrived first in darkness while the other women came later at sunrise, or that two distinct parties of women arrived at the two different times."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Mark_16.2.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Defending Inerrancy: Mark 16:2 — Was Mary at the tomb before sunrise or after?",
+        "note": "live apologetic treatment of this exact pairing (Mark 16:2 vs. John 20:1), offering the same two-visit and loose-idiom harmonizations"
+      }
+    }
+  }
+}

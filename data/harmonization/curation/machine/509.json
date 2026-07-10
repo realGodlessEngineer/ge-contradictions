@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 509,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Gill resolves both the number and location gap by positing three separate blind men across two encounters at Jericho.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "David Friedrich Strauss took the Synoptics' clashing location and number as marks of legendary development, arguing Matthew doubled Mark and Luke's one blind man by conflation with the healing at Matthew 9:27.",
+      "skeptic": {
+        "name": "David Friedrich Strauss",
+        "work": "The Life of Jesus Critically Examined",
+        "year": "1835 (4th ed. 1840; Eng. trans. 1846)",
+        "attribution": "David Friedrich Strauss (1808-1874), The Life of Jesus Critically Examined, 4th ed. (1840; trans. George Eliot, 1846)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "Matthew 20:29",
+      "excerpt_text": "Mark and Luke make mention but of one; which is no contradiction to Matthew; for they neither of them say that there was but one. A greater difficulty occurs in Luke's account; for whereas Matthew and Mark both agree, that it was when Jesus came out of Jericho, that this cure was wrought, Luke says it was \"when he came nigh unto it\"; which some reconcile by observing, that that phrase may be rendered, \"while he was near Jericho\"; and so only signifies his distance from it, and not motion to it; but this will not solve the difficulty, because we after read of his entrance into it, and passing through it. Some therefore have thought, that Christ met with, and cured one blind man before he entered the city, and another when he came out of it and that Matthew has put the history of both together: but to me it seems, that there were three blind men cured; one before he went into Jericho, which Luke only relates, and two as he came out of Jericho, which Matthew here speaks of; and one of which, according to Mark, was by name Bartimaeus, the son of Timaeus …",
+      "full_note_ref": "GILL/40/20/29",
+      "on_tension_rationale": "Gill directly works both discrepancies (Matthew's two vs Mark/Luke's one; departing vs approaching Jericho) and proposes the classic three-blind-men harmonization, weighing and rejecting a lesser reconciliation (the 'near'-not-'entering' reading of Luke's Greek) along the way.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this passage directly (pp. 386-387, 'Historical Discrepancies'), laying out both the three-blind-men theory and the two-events/Matthew-condensing theory, plus the Greek 'nigh unto'-as-'near' reading of Luke -- verified against the Internet Archive scan (item examinationof00hale), running headers '386 DISCREPANCIES OF THE BIBLE.' / 'HISTORICAL DISCREPANCIES. 387' bracketing the passage."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/one-two-blind-men.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Did Jesus heal two blind men (Matthew 20:29-34) or one blind man (Mark 10:46-52; Luke 18:35-43)?",
+        "note": "live apologetic treatment; argues Mark/Luke simply spotlight the more vocal Bartimaeus and appeals to the two-Jerichos (old mound vs. inhabited city) geography for the location gap"
+      }
+    }
+  }
+}

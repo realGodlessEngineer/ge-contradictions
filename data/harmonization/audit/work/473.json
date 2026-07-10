@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 473,
+  "question": "What were the last words of Jesus?",
+  "summary": "Matthew 27:46-50 (following Mark 15:34-37) has Jesus die crying out the cry of dereliction — *Eli Eli lama sabachthani*, 'my God my God why hast thou forsaken me.' Luke 23:46 has him die with a serene self-commendation: 'Father, into thy hands I commend my spirit.' John 19:30 has him die with the triumphant 'It is finished' (*tetelestai*). Three different last words for the same death.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Gill treats Matthew's \"cried again\" as a second utterance, making Luke's and John's sayings sequential last words rather than rival, exclusive ones.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Bart Ehrman presses the point hardest: harmonizing Matthew, Luke, and John into \"seven last words\" erases what each evangelist individually meant to say.",
+    "skeptic": {
+      "name": "Bart D. Ehrman",
+      "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don't Know About Them)",
+      "year": "2009",
+      "attribution": "Bart D. Ehrman, Jesus, Interrupted (2009)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Matthew 27:49",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact passage, reading the 'cried again' of Matthew 27:49 as a second utterance that includes both Luke's and John's sayings — the harmonization keyed directly to the verse."
+      },
+      "link": {
+        "url": "https://carm.org/bible-difficulties/what-are-the-last-words-of-jesus/",
+        "domain": "carm.org",
+        "title": "CARM: What are the very last words of Jesus?",
+        "note": "Live apologetic treatment arranging the three sayings chronologically (Matthew/Mark, then John, then Luke as the final word) to resolve the 'different last words' tension."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "473#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Matthew 27:49",
+      "full_note_ref": "GILL/40/27/49",
+      "excerpt_text": "Jesus, when he had cried again,.... \"A second time\", as the Persic version; for he had cried once before, and expressed the words he did, as in Mat 27:46, what he now delivered were, \"Father, into thy hands I commend my Spirit\", Luk 23:46, and \"it is finished\", Joh 19:30, which he said with a loud voice …",
+      "on_tension_rationale": "Gill directly harmonizes all three 'last words' passages by reading Matthew's second cry as encompassing both Luke's and John's sayings, resolving the divergence via sequence rather than conflict.",
+      "source_note_text": "Jesus, when he had cried again,.... \"A second time\", as the Persic version; for he had cried once before, and expressed the words he did, as in Mat 27:46, what he now delivered were, \"Father, into thy hands I commend my Spirit\", Luk 23:46, and \"it is finished\", Joh 19:30, which he said\nwith a loud voice; which showed the vehemency of his affection, his strong confidence in God, and his being fearless of death; as also he thus spoke, that he might be heard, and his words attended to, since they contained things of the greatest importance and consequence: moreover, being able to express himself in such a manner, this declared him to be more than a mere man; for after such agonies in the garden, and so much fatigue in being hurried from place to place, and such loss of blood by being buffeted, scourged, crowned with thorns, and nailed to the accursed tree, where, being stretched, he had hung for some hours; to speak with so loud a voice was more than human, and was a conviction to the centurion, that he was a divine person: for when he saw that he so cried out, and \"gave up the ghost\", he said, \"truly this man was the Son of God\",\nMar 15:39, and likewise it shows, that he died freely and voluntarily, and not through force and necessity: it was not all that men had done, or could do to him, that could have forced his life from him: he died willingly, and when nature was in its full strength; and which is signified in the next phrase,\nyielded up the ghost, or \"dismissed the Spirit\", as the Syriac version truly renders it; he sent it away. It was not taken from him, he laid down his life of himself, as the Lord of it, and gave himself freely to be an offering and sacrifice in the room of his people; which is a proof of his great love, and amazing grace unto them."
+    }
+  ]
+}

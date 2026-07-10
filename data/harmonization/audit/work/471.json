@@ -1,0 +1,57 @@
+{
+  "contradiction_id": 471,
+  "question": "Did both thieves revile Jesus?",
+  "summary": "Mark 15:32 says both of those crucified with Jesus reviled him. Matthew 27:44 says the thieves (plural) cast the same in his teeth. Luke 23:39-43 splits them apart: one malefactor rails on Jesus while the *other* rebukes him, defends Jesus' innocence, and is promised paradise. So Mark and Matthew have both criminals mocking; Luke has one mocking and one converting.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Gill reads the plural as Hebrew idiom for one thief's taunt, or allows both reviled briefly before one repented — either way matching Luke's convert.",
+    "skeptic": null,
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Bart Ehrman presses the same clash: Mark and Matthew show both criminals mocking Jesus, while Luke gives one a wholly different, penitent role.",
+    "skeptic": {
+      "name": "Bart D. Ehrman",
+      "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (and Why We Don't Know About Them)",
+      "year": "2009",
+      "attribution": "Bart D. Ehrman, Jesus, Interrupted (HarperOne, 2009), pp. 64-69"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley catalogs this exact pairing (Matt. 27:44 and Luke 23:39-41) under the 'plural of class' idiom (p. 384), noting that Chrysostom, Jerome, and Theophylact held both malefactors reviled Christ at first but one later repented."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Matthew_27.44.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in Matthew 27:44?",
+        "note": "Live apologetic treatment proposing the sequential both-mocked-then-one-repented harmonization."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "471#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Matthew 27:43",
+      "full_note_ref": "GILL/40/27/43",
+      "excerpt_text": "The thieves also,.... One or other of them, not both; an Hebrew way of speaking, as Drusius (b) observed: so it is said of Jonah, Jon 1:5, that he was \"gone down into the sides of the ship\"; not into both sides, but into one or other of them: so here the thieves, one or other of them, not naming which, railed at Jesus, for it was but one of them; see Luk 23:39, unless it can be thought, as it is by some, that they both at first reviled him; but one being quickly convinced of his evil, ceased, and rebuked his fellow sufferer, confessed his, sin, bore a testimony to the innocence of Christ, and desired to be remembered by him in his kingdom.",
+      "on_tension_rationale": "Gill directly addresses the Matthew 27:44 plural 'thieves' against Luke 23:39's single railer, offering both classic harmonizations: a Hebrew plural-for-singular idiom (paralleled at Jonah 1:5) and, as an alternative some hold, a sequential both-reviled-then-one-repented reading.",
+      "source_note_text": "The thieves also,.... One or other of them, not both; an Hebrew way of speaking, as Drusius (b) observed: so it is said of Jonah, Jon 1:5, that he was \"gone down into the sides of the ship\"; not into both sides, but into one or other of them: so here the thieves, one or other of them, not naming which, railed at Jesus, for it was but one of them; see Luk 23:39, unless it can be thought, as it is by some, that they both at first reviled him; but one being quickly convinced of his evil, ceased, and rebuked his fellow sufferer, confessed his, sin, bore a testimony to the innocence of Christ, and desired to be remembered by him in his kingdom. This was an aggravation of the sufferings of Christ, that he should be vilified by those,\nwhich were crucified with him; who ought to have been, considering the condemnation they were in, and the future state they were just entering into, lamenting and confessing the sins they had been guilty of, instead of adding sin to sin, and so aggravating their condemnation. These, at least one of them,\ncast the same into his teeth; as the populace, the chief priests, Scribes, elders, and Pharisees had done; twitted him with his pretensions of being the Son of God, the Messiah, and king of Israel; and urged, that if he was, why did not he save himself, and them also?\n(b) Quaest. Heb. l. 1. qu. 5."
+    }
+  ]
+}

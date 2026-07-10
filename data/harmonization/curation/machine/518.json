@@ -1,0 +1,70 @@
+{
+  "contradiction_id": 518,
+  "row": {
+    "lean": "reconcile_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Commentators resolve the apparent clash by reading \"judge\" in two senses — Christ came at first to save, not condemn, holding the forensic role of Judge in reserve for a day still to come.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "The sharpest critical reading comes from Rudolf Bultmann, who traced John's futurist judgment sayings to an ecclesiastical redactor overlaying an evangelist whose own theology already located judgment in the present response to Jesus's word.",
+      "skeptic": {
+        "name": "Rudolf Bultmann",
+        "work": "The Gospel of John: A Commentary",
+        "year": "1941 (German); Eng. trans. 1971",
+        "attribution": "Rudolf Bultmann, The Gospel of John: A Commentary, trans. G. R. Beasley-Murray et al. (Philadelphia: Westminster Press, 1971; German orig. Das Evangelium des Johannes, 1941)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "verse_ref": "John 8:15",
+      "excerpt_text": "Christ did not take upon him to judge and determine in civil affairs, or in things pertaining to a court of judicature among men; this was not his province; an instance of this there is in the context, in not condemning the woman brought to him; nor did he judge the persons and states of men, or proceed to pass any sentence of condemnation on them; he came not to condemn, but save the world; this was not his business now; otherwise, all judgment is committed to him, and which he will exercise another day.",
+      "full_note_ref": "GILL/43/8/13",
+      "on_tension_rationale": "Gill reconciles v.15's 'I judge no man' with the 'all judgment committed to the Son' texts by restricting the denial to Christ's present civil/forensic role, reserving universal judgment for 'another day.'",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "MHC",
+      "verse_ref": "John 12:47",
+      "excerpt_text": "I judge him not, not now. … He did not strike those dumb or dead who contradicted him, never made intercession against Israel, as Elias did; though he had authority to judge, he suspended the execution of it, because he had work of another nature to do first, and that was to save the world.",
+      "full_note_ref": "MHC/43/12/44",
+      "on_tension_rationale": "Henry frames 'I judge him not, not now' as temporary forbearance rather than an abdication of the judicial authority affirmed elsewhere in John — judgment suspended, not denied.",
+      "verify_state": "machine"
+    },
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "John 8:15",
+      "excerpt_text": "I do now only teach you, I condemn no man: but yet if I list to do it, I might lawfully do it, for I am not alone, but my Father is with me.",
+      "full_note_ref": "GNV/43/8/15",
+      "on_tension_rationale": "The Geneva gloss distinguishes Christ's present teaching role ('I condemn no man') from a judicial right he could lawfully exercise, locating the tension in timing rather than authority.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats this exact cluster verbatim under a 'To judge the world. / Not to judge.' parallel-text table (citing John 5:22,27; 8:15; 9:39; 12:47) and resolves it via the two senses of Greek krino (to judge vs. to condemn) plus a present-mission/second-coming distinction: \"'I judge no man,' i.e. after your manner, or else, during my present mission. At his second coming 'he will' in the ultimate and highest sense, 'judge the world.'\" (p. 120)."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/John_3.17.php",
+        "domain": "defendinginerrancy.com",
+        "title": "John 3:17—Did Jesus come to judge the world or not?",
+        "note": "Live apologetic treatment citing John 5:22, 5:27, 8:15, 9:39, and 12:47; argues the 'not to judge' sayings concern Christ's first coming/earthly ministry while the 'all judgment committed' sayings concern his second coming."
+      }
+    }
+  }
+}

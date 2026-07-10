@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 485,
+  "question": "Where did Jesus first appear to the eleven disciples after the resurrection?",
+  "summary": "Matthew 28:16 says the eleven met Jesus on a mountain in Galilee — a multi-day journey from the tomb. Mark 16:14, Luke 24:33-37, and John 20:19 all locate the first group appearance to the eleven in a room in Jerusalem, on the day of the resurrection itself. Same scene, two different cities seventy miles apart.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "Commentators read Matthew's Galilee meeting as a separate, later gathering — not the same scene as the Jerusalem appearances in Mark, Luke, and John.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Bart Ehrman calls this a signature contradiction: Matthew sends the eleven to Galilee while Luke and John place their first Jerusalem gathering that same night.",
+    "skeptic": {
+      "name": "Bart D. Ehrman",
+      "work": "Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (And Why We Don't Know About Them)",
+      "year": "2009",
+      "attribution": "Bart D. Ehrman, Jesus, Interrupted: Revealing the Hidden Contradictions in the Bible (New York: HarperOne, 2009); the same discrepancy was pressed in his 2006 debate with William Lane Craig, \"Is There Historical Evidence for the Resurrection of Jesus?\" (College of the Holy Cross, March 28, 2006)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley's parallel-column table pairs \"Christ's first re-appearance in Galilee\" (Matt. 28:16, 17) against \"At Jerusalem\" (Luke 24:33, 36; John 20:19) and answers that Matthew does not deny but simply passes over the earlier appearances, dwelling on the Galilee meeting as one of great importance."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/resurrection-accounts.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: Can the various resurrection accounts from the four Gospels be harmonized?",
+        "note": "harmonized timeline places the Jerusalem appearances on resurrection day before the later Galilee gathering and commissioning of Matthew 28:16-20"
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "485#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Matthew 28:16",
+      "full_note_ref": "GILL/40/28/16",
+      "excerpt_text": "went away into Galilee: not directly, as soon as the women had delivered their message; for Christ appeared to them the same day at Jerusalem; and so he did at the same place that week; see Joh 20:19, but some time, after this they went together into Galilee, according to Christ's direction both before and after his resurrection, Mat 26:32 …",
+      "on_tension_rationale": "Gill explicitly separates the Galilee meeting from the same-day Jerusalem appearance recorded in John 20:19, treating Matthew's scene as later and distinct rather than as the same event relocated.",
+      "source_note_text": "Then the eleven disciples,.... For Judas was not only gone from them, but was dead; so that there were now but eleven of them: went\naway into Galilee: not directly, as soon as the women had delivered their message; for Christ appeared to them the same day at Jerusalem; and so he did at the same place that week; see Joh 20:19, but some time, after this they went together into Galilee, according to Christ's direction both before and after his resurrection, Mat 26:32,\ninto a mountain where Jesus had appointed them; either before his death, or since he was risen; and very likely at one of the above interviews he had with them. This is generally thought to be Mount Tabor; but of this there is no proof, nor certainty: it might be the mountain near Capernaum, on which he taught, Mat 5:1, or that, if not the same with the other, near the sea of Galilee, where Christ fed four thousand with seven loaves, and a few fishes, Mat 15:29. A mountain was appointed for this meeting, both for solitariness and for sight; for here it was he was seen by above five hundred brethren at once, Co1 15:6."
+    }
+  ]
+}

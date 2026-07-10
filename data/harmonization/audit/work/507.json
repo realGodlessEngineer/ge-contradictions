@@ -1,0 +1,50 @@
+{
+  "contradiction_id": 507,
+  "question": "Was Mary blessed?",
+  "summary": "Luke 1:28 has Gabriel greet Mary as \"blessed... among women,\" and Luke 1:42 has Elisabeth repeat the blessing. Luke 11:27-28 has a woman pronounce blessed the womb that bore Jesus, and Jesus replies, \"Yea rather, blessed are they that hear the word of God, and keep it,\" redirecting the blessing away from his mother specifically.",
+  "consensus": "probable_harmonization",
+  "lean": "reconcile_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "The commentators read Jesus's reply as redirecting, not denying, Mary's blessedness — prizing the greater happiness of hearing and keeping God's word.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Steve Wells, in the Skeptic's Annotated Bible, presses the plain reading: Jesus's reply flatly says his mother wasn't specially blessed, undercutting Gabriel's and Elisabeth's greeting.",
+    "skeptic": {
+      "name": "Steve Wells",
+      "work": "The Skeptic's Annotated Bible, \"Was Mary (the mother of Jesus) blessed?\" (skepticsannotatedbible.com/contra/mary.html)",
+      "year": "2013",
+      "attribution": "Steve Wells, The Skeptic's Annotated Bible (2013), \"Was Mary (the mother of Jesus) blessed?\""
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "Jamieson, Fausset & Brown, Commentary Critical and Explanatory on the Whole Bible, on Luke 1:28 and Luke 11:27",
+        "author": "Jamieson, Fausset & Brown",
+        "year": "1871",
+        "note": "JFB treats this exact tension at both verses (its Luke 1:28 note explicitly cross-references Luke 11:27), reading Mary's 'blessed among women' as external distinction while Jesus's reply directs hearers to the higher, spiritual blessedness open to anyone who hears and keeps God's word. Haley's Examination of the Alleged Discrepancies does not appear to treat this specific passage (checked via Internet Archive full-text search on 'blessed among women,' 'highly favoured,' 'blessed art thou,' and the Luke 11:28 wording — no hits), so per spec a row-surfaced harmonizing commentator keyed to the passage is used instead."
+      },
+      "link": null
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "507#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Luke 1:28",
+      "full_note_ref": "JFB/42/1/28",
+      "excerpt_text": "As the mother of our Lord, she was the most \"blessed among women\" in external distinction; but let them listen to the Lord's own words. \"Nay, rather blessed are they that hear the word of God and keep it.\"",
+      "on_tension_rationale": "Directly juxtaposes 1:28's 'blessed among women' with the 11:27-28 reply, framing the former as external distinction and the latter as the higher, spiritual blessedness — a reprioritization, not a denial, of Mary's blessing.",
+      "source_note_text": "highly favoured--a word only once used elsewhere (Eph 1:6, \"made accepted\"): compare Luk 1:30, \"Thou hast found favour with God.\" The mistake of the Vulgate's rendering, \"full of grace,\" has been taken abundant advantage of by the Romish Church. As the mother of our Lord, she was the most \"blessed among women\" in external distinction; but let them listen to the Lord's own words. \"Nay, rather blessed are they that hear the word of God and keep it.\" (See on Luk 11:27)."
+    }
+  ]
+}

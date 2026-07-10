@@ -1,0 +1,50 @@
+{
+  "contradiction_id": 476,
+  "question": "Who buried Jesus?",
+  "summary": "Matthew, Mark, and Luke all give Joseph of Arimathea sole credit for taking Jesus down, wrapping the body in linen, and laying it in the tomb. John 19:38-42 has Joseph of Arimathea plus Nicodemus burying him together, with Nicodemus supplying a hundred pounds of myrrh and aloes. Acts 13:27-29, in Paul's Pisidian Antioch sermon, attributes the burial to 'they that dwell at Jerusalem, and their rulers' — the Jewish authorities, the same people who condemned him. Three different burial parties for the same body.",
+  "consensus": "probable_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "John Gill reads Acts 13:27's 'they' as Joseph of Arimathea and Nicodemus — dissenting council members — not the hostile Sanhedrin as a whole.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Bart Ehrman argues Acts 13:29's unnamed Jewish authorities burying Jesus preserves an older tradition, from which the named, honorable Joseph-of-Arimathea story later developed.",
+    "skeptic": {
+      "name": "Bart D. Ehrman",
+      "work": "How Jesus Became God: The Exaltation of a Jewish Preacher from Galilee",
+      "year": "2014",
+      "attribution": "Bart D. Ehrman, How Jesus Became God: The Exaltation of a Jewish Preacher from Galilee (HarperOne, 2014)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Gill, Exposition of the Entire Bible (1746-63), on Acts 13:27",
+        "author": "John Gill",
+        "year": "1746-1763",
+        "note": "Gill treats this exact verse directly, identifying Acts 13:27's 'they took him down' with Joseph of Arimathea and Nicodemus rather than the hostile Sanhedrin as a whole (used as this row's reconcile excerpt). John Haley's Alleged Discrepancies (1874/1876) was checked directly via full-text search of the archive.org djvu transcript for 'Arimath', 'Nicodemus', 'Acts xiii', and 'dwell at Jerusalem' and does not treat this passage, so Gill is used per the contract's fallback clause."
+      },
+      "link": null
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "476#0",
+      "pole": "reconcile",
+      "source_code": "GILL",
+      "attribution": "John Gill, Exposition of the Entire Bible (1746-63)",
+      "verse_ref": "Acts 13:27",
+      "full_note_ref": "GILL/44/13/27",
+      "excerpt_text": "it may be rendered impersonally, \"he was taken down from the tree\"; for not the same persons that desired he might be slain, and fulfilled all that was written of him, took him down, but others; though they were some of the rulers, as Joseph of Arimathea, and Nicodemus, yet such as did not consent to his death",
+      "on_tension_rationale": "Gill's gloss on Acts 13:27's 'they took him down' directly identifies 'they' with Joseph of Arimathea and Nicodemus (dissenting council members), closing the gap between Acts' plural subject and the Gospels' named burial party — the row's own commentary calls Acts 13:27-29 the 'serious' leg of this contradiction.",
+      "source_note_text": "And when they had fulfilled all that was written of him,.... When they had vilified and reproached him in the most opprobrious manner; buffeted and scourged him, and pierced his hands and his feet, by nailing him to the cross; when they had crucified him between two thieves, and parted his raiment and cast lots on his vesture; when they had pierced his side, and it was sufficiently evident that his life was taken from the earth; all which were written of him in the Psalms and Prophets:\nthey took him down from the tree; the cross, on which he was crucified: it may be rendered impersonally, \"he was taken down from the tree\"; for not the same persons that desired he might be slain, and fulfilled all that was written of him, took him down, but others; though they were some of the rulers, as Joseph of Arimathea, and Nicodemus, yet such as did not consent to his death:\nand laid him in a sepulchre; in a new one, in which never man lay; a sepulchre which Joseph had hewed out of a rock for himself, and which was both sealed and guarded."
+    }
+  ]
+}

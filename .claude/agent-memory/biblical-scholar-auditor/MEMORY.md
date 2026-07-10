@@ -1,163 +1,109 @@
-- [Project overview](project_contradictions_db.md) — SAB/Infidels/EvilBible contradictions DB with scholarly commentary and citations
-- [Sonnet named-skeptic fabrication](feedback_sonnet_named_skeptic_fabrication.md) — verify SPECIFIC engagement; McKinsey 343/362 not_real, Ehrman 427 strawman, Wells/SAB 395 real
-- [Ehrman high-priest wrong sub-tension](feedback_ehrman_high_priest_wrong_subtension.md) — id 461: real cite, wrong angle (Luke timing not evasive wording) → strawman, not not_real
-- [Archive.org fulltext search-inside technique](feedback_archive_org_fulltext_search_technique.md) — metadata->server/dir->fulltext/inside.php beats djvu.txt front-matter truncation; McKinsey census pass id 320
-- [Gill self-crossref reconciliation](feedback_gill_self_crossref_reconciliation.md) — Gill note naming a verse "for the reconciliation of these Scriptures" self-confirms pd_work treats that pair (id 185)
-- [Gill 1 Tim 3:2 office qualification](feedback_gill_1tim32_office_qualification.md) — id 27: pd_work claiming Gill reads "husband of one wife" as banning polygamy to ALL inverts Gill (office qualification) → deeper_learning flag
-- [id 11 eat-animals re-audit clean](feedback_id11_eat_animals_reaudit_clean.md) — four-diet food contra all-clean; Matthew Henry on Lev 11 confirmed harmonizing pd_work; Wells/SAB eat.html real
-- [Paine Age of Reason vs Letters](feedback_paine_age_of_reason_vs_letters.md) — id 33 changeable-God argument is Age of Reason Pt I 1794, not Letters (1797); skeptic real but work misattributed → connectives flag
-- [Paine blessing-curse over-attribution](feedback_paine_blessing_curse_overattribution.md) — id 77 (now REMEDIATED to Wells/SAB, clean); Paine strawman pattern on Gen/Deut numerousness; also ids 145/181/202
-- [Paine conquest dating vs completeness](feedback_paine_conquest_dating_vs_completeness.md) — id 131: Paine's Josh 15:63/Judg 1 Jebusites argument is LATE-AUTHORSHIP not total-vs-incomplete-conquest; strawman+connectives flag
-- [Paine vindictive-God verified](feedback_paine_vindictive_god_verified.md) — id 149: Paine DOES press vindictive-Bible-God vs benevolent-God in Age of Reason; named_skeptic=ok, all clean (positive counterpart to over-attribution cases)
-- [Strauss centurion §98 real](feedback_strauss_centurion_section98.md) — Strauss DID press Mt/Lk centurion came-himself-vs-messengers in §98 Cures at a distance; named_skeptic=ok for id 189
-- [Strauss genealogy Joseph-paternity nullifies claim](feedback_strauss_genealogy_joseph_paternity.md) — id 390: Strauss §27 (1846 Eng tr) real, "if not son of Joseph, genealogy worthless"; Haley 1874 p.342 verified verbatim on archive.org
-- [Bultmann antitheses verified](feedback_bultmann_antitheses_verified.md) — id 151: Bultmann Jesus and the Word DOES press eye-for-eye antithesis as radical-demand vs FORMAL law authority; named_skeptic=ok, all clean
-- [Citation hallucination patterns](feedback_citation_hallucinations.md) — specific hallucination patterns seen in AI-drafted scholarship sections
-- [Levitical-city lacuna = conjecture not variant](feedback_levitical_cities_conjectural_not_variant.md) — Josh21/1Chr6 lost-Dan-heading is conjectural emendation, textual_variant=false; Lee-Sak JBL 136/4 (2017)
-- [Daniel Block scope-fit pattern](feedback_block_scope_fit.md) — Block miscited for non-Block commentaries; dominant Vector D pattern in batch_10
-- [Jael-Sisera seduction reading attribution](feedback_seduction_reading_attribution.md) — proper scholars (Zakovitch/Niditch/Ackerman/Bal) for Judges 5 erotic euphemism reading; not J. Glen Taylor
-- [WBC 2nd edition publisher/year drift](feedback_wbc_second_edition_dates.md) — Klein 1 Sam 2nd ed = Thomas Nelson 2000 (not 2008); Butler Joshua 2nd ed = Zondervan 2014 (not Thomas Nelson)
-- [Judith/Luke 1:42 intertextual attribution](feedback_judith_luke_intertextual_attribution.md) — Brittany Wilson (CBQ 2006), not Tina Pippin, for the Jael/Judith/Mary "blessed" intertextual reading
-- [Passing-mention scholarship parity](feedback_passing_mention_scholarship_parity.md) — late passes require scholarship entries for every named scholar in commentary, even passing mentions
-- [Keil-Delitzsch parity pattern](feedback_keil_delitzsch_parity.md) — Keil cited as "earlier harmonization" in Samuel/Judges batches needs specific BCOT volume entry
-- [CBQ journal pagination off-by-one](feedback_cbq_journal_pagination.md) — verify journal article first-page against ProQuest/JSTOR; AI drafts sometimes start +1 page
-- [Merrill Chronicles NAC hallucination](feedback_merrill_chronicles_nac_hallucination.md) — Merrill NAC = Deuteronomy; his Chronicles commentary is Kregel 2015, not NAC
-- [Aejmelaeus Old Greek essay volume](feedback_aejmelaeus_oldgreek_volume.md) — "How to Reach the Old Greek in 1 Samuel" is in Helsinki 2010 (VTSup 148), not Ljubljana 2007
-- [Pass-2 late scholar parity](feedback_pass2_late_scholar_parity.md) — pass-1 commentary edits routinely introduce new scholar names without parity entries; pass 2 must scan for these
-- [Hess Jericho/Ai volume miscitation](feedback_hess_jericho_ai_volume.md) — Hess essay is BBR Supp 3 / Eisenbrauns 2008, not Hoffmeier/Millard Eerdmans 2004
-- [Klein dual-volume scope-fit](feedback_klein_dual_volumes.md) — Ralph Klein wrote both 1 Samuel WBC and 1 Chronicles Hermeneia; match volume to passage scope
-- [Barthelemy work-attribution](feedback_barthelemy_work_attribution.md) — Critique textuelle (OBO 50) vs Story of David and Goliath (OBO 73); MT-priority 1 Sam 17 argument is in OBO 73
-- [Knoppers JSOTSup 371 chapter](feedback_knoppers_jsotsup371_chapter.md) — Knoppers's actual chapter in The Chronicler as Theologian is "Shem, Ham, and Japheth" (pp. 13-31) about 1 Chr 1, NOT Solomon
-- [Knoppers BASOR 289 title punctuation](feedback_knoppers_basor_title_punctuation.md) — "Treaty, Tribute List, or Diplomatic Letter: KTU 3.1 Reexamined" uses colon not question mark
-- [Loeb Josephus Vol V co-translator](feedback_loeb_josephus_cotrans_attribution.md) — Antiquities Books 5-8 Loeb (1934) credits Thackeray AND Marcus, not Marcus alone
-- [Hebrew transliteration shin vs samekh](feedback_hebrew_transliteration_shin_samekh.md) — "sallisim" wrong for שָׁלִשִׁים (shalishim); shin (ש) ≠ samekh (ס)
-- [Josephus harmonization misattribution](feedback_josephus_harmonization_misattribution.md) — Ant. 7.243 records pillar tradition but doesn't explicitly state Absalom's sons died young; that's rabbinic
-- [Structural page-overlap signal](feedback_structural_page_overlap_signal.md) — overlapping page ranges for different passages in same commentary signal miscitation; bare-volume cite when unverifiable
-- [Knoppers Chronicles scope](feedback_knoppers_chronicles_scope.md) — Knoppers AB 12/12A covers only 1 Chr, not 2 Chr; do not cite for 2 Chr passages
-- [Andreasen CBQ not JBL](feedback_andreasen_cbq_not_jbl.md) — Queen Mother article is CBQ 45 (1983), pp. 179-194
-- [Knoppers AB 12A early-pages scope](feedback_knoppers_ab12a_early_pages.md) — AB 12A pp. 516-575 cover 1 Chr 10-11 only; Davidic genealogy (Maachah/Absalom) is in AB 12
-- [Bowen gebira title preposition](feedback_bowen_title_preposition.md) — CBQ 63 (2001) article is "Quest OF the Historical Gebira", not "for"
-- [Dillard-Selman 2 Chr pair parity](feedback_selman_dillard_pair_parity.md) — "Dillard (WBC) and Selman (TOTC)" paired in commentary; both need scholarship entries
-- [Goldingay-Payne ICC Vol II year](feedback_goldingay_payne_vol2_year.md) — Vol I = 2006, Vol II = 2007; AI drafts conflate dates
-- [Multi-volume year drift](feedback_multivolume_year_drift.md) — verify each volume year independently; Davies-Allison/Luz/Cogan/Knoppers/Klein/Tsumura/Keener/Aune/Brown commonly drift
-- [McKenzie IECOT not AYB](feedback_mckenzie_iecot_not_ayb.md) — McKenzie 1 Kings 16 - 2 Kings 16 (2019) is IECOT/Kohlhammer, no AYB 10A exists
-- [Aejmelaeus Trebolle Festschrift JSJSup](feedback_aejmelaeus_trebolle_festschrift_jsjsup.md) — "Corruption or Correction?" is in JSJSup 157 (not VTSup 157), pp. 1-17
-- [Cogan I Kings Jezebel page range](feedback_cogan_ikings_jezebel_pages.md) — Cogan AB 10 1 Kgs 16:31 Ahab/Jezebel/Ethbaal is pp. 418-422, not pp. 343-345
-- [Holladay Jeremiah volume split](feedback_holladay_jeremiah_volume_split.md) — Vol 1 (1986) = chs 1-25; Vol 2 (1989) = chs 26-52; match passage to volume
-- [Anneli Aejmelaeus first name](feedback_anneli_aejmelaeus_first_name.md) — Finnish Septuagintalist's name is Anneli not Anna; AI substitutes "Anna" via token frequency
-- [Grabbe Ahab Agonistes editor role](feedback_grabbe_ahab_agonistes_editor.md) — LHBOTS 421 is an edited conference volume; cite Grabbe as "ed." not as sole author
-- [Pass-5 editor-credit sweep](feedback_pass5_editor_credit_sweep.md) — pass 4 fix on one editor credit signals systematic sweep for all chapter-in-volume citations in pass 5
-- [Series name precision](feedback_series_name_precision.md) — late passes catch series-name truncation/plural-singular errors (Smyth & Helwys Bible Commentary, Abingdon OT Commentaries plural)
-- [Tsumura NICOT 2 Sam page cap](feedback_tsumura_nicot_2sam_pages.md) — Tsumura 2 Sam NICOT (Eerdmans 2019) is 320 pages total; cites >320 are hallucinated
-- [Total page-count anchor list](feedback_total_page_count_anchors.md) — verified page totals; note Knoppers AB 12/12A continuous pagination (12A = pp. 515-1045)
-- [Williamson Chronicles NCB not WBC](feedback_williamson_chronicles_ncb_not_wbc.md) — Williamson's Chronicles = NCB 1982, not WBC; WBC Chr is Braun/Dillard
-- [Lundbom AB Jer volume scope-fit](feedback_lundbom_volume_scope_jer22.md) — Jer 22 belongs to AB 21B (Jer 21-36), not 21A (Jer 1-20)
-- [Summary-field factual drift](feedback_summary_field_factual_drift.md) — late passes must deep-read summary parentheticals; Levi/Ephraim "brothers' nephews" garbling missed by passes 1-6
-- [Zechariah son of Bareis role-inversion](feedback_zechariah_bareis_josephus.md) — Josephus's Bareis was killed BY Zealots, not a Zealot leader; pass-9 batch_16
-- [Adonikam-Irenaeus misattribution](feedback_adonikam_irenaeus_misattribution.md) — Irenaeus AH 5.28-30 discusses 666 but does NOT link to Adonikam; also fabricated "637 in some witnesses" for 1 Esd 5:14
-- [1 Esdras witness-split fabrication](feedback_1esdras_witness_split_fabrication.md) — AI drafts fabricate "third number" claims for 1 Esd 5 family rolls; verified readings table inside
-- [1 Esdras multiple families per verse](feedback_1esdras_multiple_families_per_verse.md) — FALSE POSITIVE: 1 Esd 5:13/5:14 each list several families; don't flag "same verse, two families"
-- [KJV vs ESV Neh 7:70 versification](feedback_kjv_versification_neh7_70.md) — KJV governor gift = 530 garments; ESV = 30 garments + 500 minas silver; audit vs source's own translation
-- [Isaiah 8:2 Jeberechiah name form](feedback_isaiah82_jeberechiah_form.md) — Isaiah 8:2 has "Jeberechiah" (longer form), not "Berechiah" as in Zech 1:1/Matt 23:35
-- [Hossfeld-Zenger Psalms 1 Hermeneia nonexistent](feedback_hossfeld_psalms1_hermeneia_nonexistent.md) — vol 1 (Pss 1-50) of Hermeneia Psalms exists only in German; English citations for Pss 1-50 are fabricated
-- [Smith-Cross paired attribution parity](feedback_smith_cross_paired_attribution.md) — Mark Smith and Frank Cross paired as authority on early Israelite anthropomorphism; both need scholarship entries
-- [Three-name authority parity rule](feedback_three_name_authority_parity.md) — extends Smith-Cross to three-scholar joint-thesis attribution; Knohl/Smith/Geller pattern in batch_18 entry 344
-- [VT/JBL fascicle attribution drift](feedback_vt_jbl_fascicle_attribution.md) — AI assigns wrong issue/fascicle number to journal articles; verify against Brill/JSTOR records
-- [German technical-term garbling](feedback_german_technical_term_garbling.md) — AI drafts substitute wrong cognate (Tat vs Tun, Folge vs Ergehen) in German theological compounds; verify each
-- [Chapter-distance drift](feedback_chapter_distance_drift.md) — AI inserts plausible round numbers for inter-chapter distances; verify arithmetic
-- [Hossfeld-Zenger pagination drift](feedback_hossfeld_zenger_pagination_drift.md) — HZ Psalms 2/3 Hermeneia cited page ranges drift +3 to +8; verified anchors inside
-- [Hermeneia TOC sweep pattern](feedback_hermeneia_toc_sweep_pass10.md) — pass-10 extension; Attridge Hebrews + HZ Psalms 2 Ps 92 also drift; Project Muse book IDs catalogued
-- [Thrall ICC Vol II page cap](feedback_thrall_icc_volume_pagecap.md) — Thrall II Cor Vol 2 (T&T Clark 2000) is 475 pp; pagination NOT continuous with Vol 1
-- [Hebrew lexical-field garbling](feedback_hebrew_lexical_field_garbling.md) — AI collapses distinct Hebrew roots (tahor/tsaraph; yashen/num) within same semantic field across verses
-- [Hermeneia TOC sweep pass-11](feedback_hermeneia_toc_sweep_pass11.md) — Bovon/Luz/Malherbe/Betz pericope drift; verified anchors and Project Muse book IDs
-- [Levenson Sinai and Zion publisher/edition](feedback_levenson_sinai_zion_publisher.md) — 1985 = Winston Minneapolis (Ch 2 ends p. 178); 1987 = Harper SF; AI conflates editions
-- [When Critics Ask Victor not Baker](feedback_when_critics_ask_victor_books.md) — Geisler-Howe 1992 original is Wheaton: Victor Books, not Grand Rapids: Baker (Baker is later reprint)
-- [Brown John AB 29 vs 29A](feedback_brown_john_volume_scope.md) — Brown AB John I-XII (29, 1966) vs XIII-XXI (29A, 1970); verify chapter belongs to cited volume
-- [Aune Revelation continuous pagination](feedback_aune_revelation_three_volume_pagination.md) — WBC 52A/52B/52C are continuously paginated; pp. 819-832 = 52B not 52C
-- [Davies-Allison ICC author order](feedback_davies_allison_author_order.md) — standard cite is "Davies, W. D., and Dale C. Allison."; AI drafts sometimes invert
-- [Betz Hermeneia 2 Cor scope](feedback_betz_2cor_scope.md) — Betz Hermeneia 2 Cor = chs 8-9 only; do not cite for any other 2 Cor passage
-- [Translator name intra-batch consistency](feedback_translator_name_intra_batch.md) — same translator should have consistent form across batch; James E. Crouch with initial
-- [Bovon Luke 1 Sermon on Plain pages](feedback_bovon_luke1_sermon_pages.md) — Luke 6:20-26 Beatitudes/Woes = pp. 220-229; pp. 230-245 = next pericope
-- [Pass-6 batch_19 TDOT entry author misattribution](feedback_pass6_batch19_tdot_entry_author.md) — TDOT chemah entry is Schunck not Fabry; verify dictionary entry author vs editor
-- [Pass-7 batch_19 Hebrew morphology + paired parity](feedback_pass7_batch19_hebrew_morphology_parity.md) — Isa 34:2 form/preposition error + Grudem/Geisler/Peoples/Parry parity adds
-- [Pass-8 batch_19 Greek word-order](feedback_pass8_batch19_greek_word_order.md) — Greek transliteration inversions 1 Thess 5:21 + 1 John 4:1 + apolymi→apollymi + Blomberg soften
-- [Pass-9 batch_19 Greek/Hebrew word-order](feedback_pass9_batch19_greek_hebrew_word_order.md) — Luke 21:11 + Hos 8:13 word order + zoiopoiethesontai + ottot + olethros-noun-not-verb
-- [Pass-10 batch_19 cap-reached chapter arithmetic + word-order](feedback_pass10_batch19_chapter_arithmetic_word_order.md) — Prov 21:18→13:8 = 8 chapters not 3; bal-yireh intra-entry; 1 Tim 2:4 word order; cap-reached at 28 bugs/10 passes
-- [Journal title-substitution hallucination](feedback_journal_title_substitution_hallucination.md) — Murphy-O'Connor RB 117 (2010) "Bethany Beyond the Jordan" fabricated; actual = RB 112 (2005) "Sites associated with John the Baptist"
-- [James commentary series-author grid](feedback_james_commentary_series_grid.md) — Blomberg=ZECNT, Moo=Pillar, Davids=NIGTC, Martin=WBC, Johnson=AB37A, Allison=ICC; AI scrambles
-- [Syrian legates pre-Quirinius gap](feedback_syria_legates_gap_quirinius.md) — Sentius Saturninus/Varus/Volusius Saturninus (don't duplicate Sentius and "Saturninus")
-- [Köstenberger BECNT John parity](feedback_kostenberger_john_becnt_parity.md) — Köstenberger BECNT John (Baker Academic 2004) often missing in Synoptic-call entries naming Carson/Köstenberger/Blomberg trio
-- [Heth-Wenham UK/US subtitle pair](feedback_heth_wenham_uk_us_subtitle.md) — Hodder 1984 = "Towards an Evangelical Understanding"; Thomas Nelson 1985 = "Problem with the Evangelical Consensus"
-- [Carson Matthew EBC Vol 8 vs Vol 9](feedback_carson_ebc_matthew_volume_number.md) — Original EBC 1984 = Vol 8; Revised EBC 2010 = Vol 9
-- [Marcus AYB 27A imprint](feedback_marcus_ayb27a_imprint.md) — Marcus Mark 8-16 (2009) is AYB 27A not AB 27A; AB→AYB rebrand was 2007
-- [Blomberg Matthew NAC parity](feedback_blomberg_matthew_nac_systematic_parity.md) — Blomberg systematically missing from Synoptic batches where named in apologist trio
-- [Bovon Luke 1 TOC anchors](feedback_bovon_luke1_toc_full_anchor_list.md) — verified pericope-page table from Project Muse 45977
-- [Luz Matt 8-20 section bounds](feedback_luz_matt820_section_bounds.md) — three major-section page ranges from Project Muse 45974
-- [paidion vs nepios distinction](feedback_paidion_vs_nepios_distinction.md) — AI conflates Synoptic kingdom-child (paidion) with Pauline immaturity (nepios) — different roots
-- [LCL volume scope original-edition](feedback_lcl_volume_scope_original_edition.md) — LCL 433 1965 = Books XVIII-XX (not XVIII-XIX as in current re-pagination)
-- [Carson PNTC not EBC John](feedback_carson_pntc_not_ebc_john.md) — Carson's John is PNTC 1991, NOT EBC; recurring 4x in single batch (batch_24)
-- [Augustine dual-reckoning misattribution](feedback_augustine_dual_reckoning_misattribution.md) — Roman-civil-time hypothesis is Westcott (1881), not Augustine; Augustine's solution is Jewish-clamor/Roman-action two-stage
-- [Brown DM impossible Vol 2 early pages](feedback_brown_dm_volume_boundary_impossible_pages.md) — Vol 1 = pp. 1-879; Vol 2 = pp. 880-1608; "Vol. 2 ... pp. <880" is always wrong
-- [Brown Birth vs Death misattribution](feedback_brown_birth_vs_death_misattribution.md) — Birth (1977/1993) precedes Death (1994); Birth is infancy-only, never resurrection
-- [Bovon Luke 3 TOC anchors](feedback_bovon_luke3_toc_anchor_list.md) — verified pericope-page table from Project Muse 45979; correct book ID, not 45975
-- [D-A ICC Matt Vol 3 Empty Tomb section bound](feedback_davies_allison_empty_tomb_section.md) — Empty Tomb section (Matt 28:1-15) = pp. 659-675; "663-680" overshoots by 5pp
-- [Pass-5 passing-mention parity](feedback_pass5_passing_mention_parity.md) — Westcott/Crossan parity gaps in batch_24 pass 5; "scholars like X and Y" pattern drops foundational name
-- [Pass-6 Carson EBC page range outside volume](feedback_pass6_carson_ebc_page_range_outside_volume.md) — Carson Matt EBC rev. vol 9 = pp. 23-670; pp. 671+ are in Mark section, not Carson
-- [Bultmann John translator team](feedback_bultmann_john_translator_team.md) — Bultmann John Westminster 1971 = Beasley-Murray + Hoare + Riches, not just Beasley-Murray
-- [Scholar first-name corruption](feedback_scholar_first_name_corruption.md) — AI corrupts first names of major scholars; "Reuben Bultmann" for Rudolf Bultmann; verify European theologian first names explicitly
-- [Marcus Mark 1-8 Doubleday 2000](feedback_marcus_mark1_8_doubleday_2000.md) — Marcus Mark 1-8 AB 27 first edition is Doubleday 2000, not Yale UP (AB→AYB rebrand was 2007)
-- [Gill verse-ref off-by-N pattern](feedback_gill_prov24_verse_boundary.md) — recurring: ids 160/351/404/456/446(1Tim2:5→6); verify opening clause vs KJV
-- [id 337 devil tied/free clean](feedback_id337_devil_tied_free_clean.md) — JFB cross-ref note pattern (1 Pet 5:8 <-> 2 Pet 2:4); Wells/SAB devil_free.html real; all clean
-- [Jaubert translator initial](feedback_jaubert_translator_initial.md) — translator is "I. Rafferty" not "Isaac Rafferty"; AI initialism expansion hallucination
-- [Lane NICNT Mark longer-ending pages](feedback_lane_nicnt_mark_longer_ending_pages.md) — Mark 16:9-20 discussion is pp. 601-611, not pp. 591-595 (which covers Mark 16:1-8)
-- [Westcott John publisher and year](feedback_westcott_john_publisher.md) — Westcott Gospel of St John = John Murray 1882 separate, 1880 Speaker's Commentary, 1908 Greek text
-- [Calvin Catholic Epistles 1 John 4 pages](feedback_calvin_catholic_epistles_1john4_pages.md) — verified verse-page mapping; pp. 234-238 cover 4:6-7 not 4:1-3 or 4:15
-- [Brown DM scope excludes resurrection](feedback_brown_dm_scope_excludes_resurrection.md) — Brown DM stops at empty tomb; cite Brown's Gospel commentaries for post-resurrection appearances
-- [D-A ICC Matt Vol 3 passion anchors](feedback_davies_allison_matt_vol3_passion_anchors.md) — pericope-page anchors; Peter denial = pp. 540-551, NOT pp. 511-516 (arrest section)
-- [Marcus AYB 27A continuous pagination](feedback_marcus_ayb27a_continuous_pagination.md) — Marcus AYB 27A uses continuous pagination from Mark 1-8 (~pp. 569-1183); citations above p. 700 are NOT impossible
-- [Brown DM Judas page anchors](feedback_brown_dm_judas_pages.md) — Vol 1 pp. 209-213/256-259 is Gethsemane prayer NOT Judas; cite §29 (pp. 734-761) + Vol 2 (pp. 1394-1418)
-- [Brown AB John continuous pagination](feedback_brown_john_continuous_pagination.md) — Vol 29 = pp. 1-538, Vol 29A = pp. 539-1208 continuous; high page numbers for 29A NOT impossible
-- [Metzger TCGNT edition pagination](feedback_metzger_tcgnt_pagination_edition.md) — 1st ed (1971) Mark 16:9-20 = pp. 102-106; 2nd ed (1994) = pp. 102-107
-- [Greek phronimōteroi not sophroteros](feedback_greek_phronimoteroi_not_sophroteros.md) — Luke 16:8 "wiser" = phronimōteroi (phronimos), NOT sophroteros (sophron); distinct lexical fields
-- [Klauck Judas Liturgical Press](feedback_klauck_judas_liturgical_press.md) — *Judas: A Disciple of Jesus* (2006) is Liturgical Press Collegeville, not Fortress
-- [Marcus Mark volume split at 8:22](feedback_marcus_volume_split_822.md) — Vol 1 ends Mark 8:21 (~p. 568); Vol 2 starts 8:22 (Bethsaida); Bethsaida pericope is in AYB 27A
-- [Markus Barth Pauline authorship](feedback_markus_barth_authorship_position.md) — Barth AB Ephesians defends Pauline authorship; do not group with deutero-Pauline camp
-- [HZ Psalms 2 Psalm 89 anchor](feedback_hossfeld_zenger_psalm89_anchor.md) — Ps 89 commentary = pp. 399-415, not pp. 305-318
-- [Pervo Acts pericope anchors](feedback_pervo_acts_pericope_anchors.md) — Acts 9 conv = 230-238 (NOT 240-244 = source excursus); Acts 26 = 623-629
-- [Luther strawy epistle source](feedback_luther_strawy_epistle_source.md) — phrase is from 1522 Preface to NT (LW 35:357-362), not James/Jude preface
-- [Dunn BNTC Galatians publisher](feedback_dunn_bntc_galatians_publisher.md) — Peabody:Hendrickson or London:A&C Black; never "London:Hendrickson"
-- [Conzelmann Acts page cap](feedback_conzelmann_acts_page_cap.md) — 287pp total; Acts 21:26 ends p. 230; trial narratives in 231-242
-- [Summary-commentary internal consistency](feedback_summary_internal_consistency.md) — summary "same Greek verb" claim contradicted by commentary's krinō/anakrinō distinction
-- [Greek te-ta enclitic order](feedback_pass3_greek_word_order_internal.md) — John 2:15 transliteration must be "ta te probata" not "te ta"; te follows first word
-- [Passing-mention parity risk calibration](feedback_passing_mention_parity_risk_calibration.md) — when NOT to apply passing-mention parity rule; avoid manufactured pages
-- [Gill Deut 3 verse offset](feedback_gill_deut_verse_offset.md) — Gill "wroth for your sakes"/Meribah harmonization is on Deut 3:26 not 3:25; harmonization 160 mislabels verse_ref
-- [Samaritan Terah 145 real variant](feedback_samaritan_terah_145_real_variant.md) — SP Gen 11:32 Terah=145 (vs MT/LXX 205) is REAL harmonizing variant; Philo Migr.177; don't flag as fabricated
-- [Seow Ecclesiastes Persian dating](feedback_seow_ecclesiastes_persian_dating.md) — Seow AB 18C dates Qohelet to Persian period (5th-4th c.), NOT Hellenistic/3rd c.; AI inverts his stance
-- [commentary_out empty scholarship parity gap](feedback_commentary_out_empty_scholarship.md) — commentary_fix pipeline: empty scholarship[] while prose names authorities = medium parity gap; carry over from entry-level scholarship string
-- [Sarna On the Book of Psalms selected scope](feedback_sarna_psalms_selected_scope.md) — covers only Pss 1,8,15,19,24,30,48,82,93,94; cites to other psalms (e.g. Ps 89) are fabricated
-- [Josephus 8.249 Maachah/Absalom/Tamar](feedback_josephus_8249_maachah_absalom_tamar.md) — Josephus connects Maachah to Absalom+Tamar but NOT Uriel/granddaughter; false-positive guard for entry 273
-- [Hosea 11:5 emendation target](feedback_hosea_115_emendation_target.md) — lo' relocates to end of 11:4 (read לו), NOT 10:15; don't conflate with 10:15's "storm/cut off" content
-- [Thiele endorsed divided-kingdom 2 Chr 16](feedback_thiele_endorsed_divided_kingdom_2chr16.md) — Thiele ENDORSED schism-era reading; resist "Thiele rejected it" auditor false-positive (entry 276)
-- [Harmonization skeptic false-concession](feedback_harmonization_skeptic_false_concession.md) — SAB discrepancy connectives sometimes claim a concession SAB never makes; verify vs live contra page
-- [Troki Chizzuk Emunah Acts 7:14](feedback_troki_chizzuk_emunah_acts714.md) — Isaac of Troki REAL skeptic, genuinely presses Acts 7:14 75-vs-Hebrew-70; first verified Karaite polemicist named_skeptic (id 95)
-- [TYN source code identity](feedback_tyn_source_code_identity.md) — "TYN"="Tyndale Open Bible Commentary" (PD, bible_ref.db), NOT reformer Tyndale; check curation/machine/<id>.json before flagging (id 446)
-- [Strauss Peter-denial multiplication](feedback_strauss_peter_denial_multiplication.md) — Strauss §129 6-9 denials real; Haley pp.424-425 verified; Clarke Jn18:27 reconcile pole (id 462)
-- [id 117 Hosea re-roll clean](feedback_id117_hosea_reroll_clean.md) — id 117 re-run all-clean; transform fixed 2026-06-14 McKinsey not_real→Wells/SAB + 404 slug→Hosea-marry-prostitute.html; K&D pd_work verified
-- [Jackson Ruth/Pentateuch year](feedback_jackson_ruth_pentateuch_year.md) — id 182: Bernard S. Jackson REAL skeptic but work is 2015 (Mohr Siebeck FAT 101) not 2009 → connectives flag, named_skeptic ok
-- [id 107 Egyptian cattle clean](feedback_id107_egyptian_cattle_clean.md) — id 107 re-audit all-clean; Wells/SAB cattle.html real, Haley 1874 + defendinginerrancy link verified; JFB Ex 9:6 reconcile verbatim
-- [id 202 forgive re-roll clean](feedback_id202_forgive_reroll_clean.md) — id 202 re-audit all-clean; Wells/SAB contra/forgive.html exact 3-way framing verified, Gill Josh 24:19 self-source pd_work
-- [Clarke 1832 codebook year](feedback_clarke_1832_codebook_year.md) — Adam Clarke "(1832)" is fixed voices.json codebook value project-wide; do not flag as per-row miscitation
-- [id 336 Iddo/Zechariah clean](feedback_id336_iddo_zechariah_clean.md) — id 336 all-clean; Wells/SAB iddo.html real, Clarke Ezra 5:1 verbatim self-source pd_work, gotquestions link on-topic
-- [id 334 KD camel/mule slip](feedback_ezra_neh_kd_animal_count_slip.md) — id 334 singers 200v245: connective+note mislabel K&D's next-verse "245" as camels; K&D text = mules; connectives flag
-- [Gill Neh 7:6 copyists=names-only](feedback_gill_neh76_copyists_names_only.md) — id 333: reused Gill preface scopes "copying slips" to NAME variants only, never NUMBER gaps; watch reused excerpt
-- [Gill verse-ref off-by-one class](feedback_gill_verse_ref_offbyone_class.md) — recurring Gill verse_ref/pd_work off-by-one; ids 160/128/342/348/394/423/416/420/442, cf. 351
-- [Haley 1874 page drift + IA search method](feedback_haley_1874_page_drift_and_ia_search_method.md) — id 350: worldly-prosperity discussion verified on pp.188-190/196-197, not cited 172-176; IA fulltext/inside.php technique
-- [McKinsey Ezra/Neh verified + Haley search-inside](feedback_mckinsey_ezra_nehemiah_verified.md) — id 329 clean; ALWAYS try archive.org search-inside API before flagging Haley unconfirmable
-- [id 319 McKinsey search-scope lesson](feedback_id319_mckinsey_search_scope.md) — id 319 all-clean; find tektonics.org/af/<slug>.php before defaulting McKinsey not_real; Haley p.396/397 reconfirmed
-- [Marcus antitheses sub-passage strawman](feedback_marcus_antitheses_subpassage_strawman.md) — id 408: real Marcus NTS 69.2 article splits antitheses 1-2(intensify) vs 3-5(revise); citing "revise Sinai" for 5:21-22 inverts his own view
-- [Haley chapter structure](feedback_haley_chapter_structure.md) — 3 chapters (I Doctrinal 55-218, II Ethical, III Historical); id 411 prayer table is ch.II p.231, mislabeled "Doctrinal"
-- [id 427 unforgivable-sin re-audit](feedback_id427_unforgivable_sin_reaudit.md) — skeptic re-rolled Ehrman(strawman)->Wells/SAB(real); Haley p.257 exact-verified; always re-verify on reroll
-- [id 409 divorce connective overclaim](feedback_id409_divorce_connective_overclaim.md) — reconcile connective claims "all four positions" but note names only 3 (Deut absent); TYN excerpt clean; Wells/SAB+Haley p.263 verified
-- [Strauss Baptist-doubt §46 verified](feedback_strauss_baptist_doubt_section46.md) — id 428: Strauss's "psychologically impossible" John-doubt quote is real, p.224, 1846 Eng tr.; M.Henry Mt 11:2-6 pd_work verified
-- [Strauss fig-tree §104 verified](feedback_strauss_fig_tree_section104.md) — id 451: Strauss's "unwarranted transference" of Mark's gap into Matthew's "immediately" is real, §104, 1846 Eng tr.; all-clean
-- [Bretschneider temple-saying verified](feedback_bretschneider_temple_saying_verified.md) — id 460: Probabilia false-witness argument real, confirmed via Strauss §114 quoting him by page; Probabilia itself not on archive.org, route through Strauss/Tholuck
+- [Project overview](project_contradictions_db.md) — SAB/Infidels/EvilBible contradictions DB with scholarly commentary and citations.
+- [Named-skeptic fabrication](feedback_sonnet_named_skeptic_fabrication.md) — verify SPECIFIC engagement; McKinsey 343/362 not_real, Ehrman 427 strawman, Wells/SAB 395 real.
+- [Ehrman wrong sub-tension](feedback_ehrman_high_priest_wrong_subtension.md) — id 461: real cite, wrong angle → strawman not not_real.
+- [Ehrman/Haley tomb angels](feedback_ehrman_haley_tomb_angels.md) — id 478 clean; Ehrman JI p.8 + Haley 1874 p.386 both verified real.
+- [Ehrman Mark/Luke scope overclaim](feedback_ehrman_mark_luke_scope_overclaim.md) — id 471: JI pp.64-69 is Mark-vs-Luke only; connective adding "Matthew" overclaims.
+- [Ehrman wilderness-day verified](feedback_ehrman_jesus_interrupted_wilderness_day.md) — id 486: JI pp.40-41 real, on-topic; all-clean.
+- [Allison Galilee/Jerusalem verified](feedback_allison_resurrecting_jesus_galilee_jerusalem.md) — id 482: real; Haley 1874 pp.369-370 exact match.
+- [Archive.org search-inside](feedback_archive_org_fulltext_search_technique.md) — metadata→server/dir→fulltext/inside.php beats djvu.txt truncation.
+- [Gill self-crossref](feedback_gill_self_crossref_reconciliation.md) — Gill naming a verse "for reconciliation" self-confirms pd_work pairing (id 185).
+- [Gill office-qualification](feedback_gill_1tim32_office_qualification.md) — id 27: pd_work inverting Gill's "one wife" reading → flag.
+- [Gill verse-ref off-by-one](feedback_gill_verse_ref_pattern.md) — 17+ confirmed ids, systemic transform bug; verify opening clause vs KJV before trusting verse_ref (detail: feedback_gill_prov24_verse_boundary.md).
+- [Paine work misattribution](feedback_paine_age_of_reason_vs_letters.md) — id 33: changeable-God arg is Age of Reason 1794, not Letters 1797.
+- [Paine strawman pattern](feedback_paine_blessing_curse_overattribution.md) — recurring over-attribution on Gen/Deut numerousness; ids 77/145/181/202.
+- [Paine conquest dating](feedback_paine_conquest_dating_vs_completeness.md) — id 131: Josh 15:63 arg is late-authorship, not conquest-completeness.
+- [Paine vindictive-God real](feedback_paine_vindictive_god_verified.md) — id 149: genuine Age of Reason argument; positive counterpart to over-attribution.
+- [Strauss centurion real](feedback_strauss_centurion_section98.md) — id 189: Mt/Lk centurion came-himself-vs-messengers genuinely in §98.
+- [Strauss genealogy real](feedback_strauss_genealogy_joseph_paternity.md) — id 390: §27 real; Haley 1874 p.342 verified verbatim.
+- [Strauss Peter-denial real](feedback_strauss_peter_denial_multiplication.md) — §129 6-9 denials real; Haley pp.424-425 verified (id462).
+- [Strauss §46/§104 real](feedback_strauss_baptist_doubt_section46.md) — Baptist-doubt(p.224) and fig-tree "unwarranted transference"(§104) both real, 1846 Eng tr.
+- [Marcus NTS strawman](feedback_marcus_antitheses_subpassage_strawman.md) — id408: real article splits antitheses 1-2/3-5; citing wrong half inverts his view.
+- [Bultmann antitheses real](feedback_bultmann_antitheses_verified.md) — id 151: eye-for-eye radical-demand-vs-law argument genuinely his.
+- [Bretschneider verified](feedback_bretschneider_temple_saying_verified.md) — id460: Probabilia false-witness arg real via Strauss §114 citation; route through Strauss/Tholuck.
+- [Troki real skeptic](feedback_troki_chizzuk_emunah_acts714.md) — Isaac of Troki genuinely presses Acts7:14 75-vs-70; first Karaite named_skeptic (id95).
+- [Jackson year drift](feedback_jackson_ruth_pentateuch_year.md) — id182: real skeptic, work is 2015 not 2009 → connectives flag only.
+- [Reroll re-verify rule](feedback_id427_unforgivable_sin_reaudit.md) — always re-verify named skeptic/citations after a transform reroll, not just diff.
+- [Harmonization false-concession](feedback_harmonization_skeptic_false_concession.md) — SAB connectives sometimes claim a concession SAB never makes; verify vs live page.
+- [TYN=Tyndale OT Commentary](feedback_tyn_source_code_identity.md) — PD source code, NOT reformer Tyndale; check curation/machine/<id>.json.
+- [Clarke 1832 fixed value](feedback_clarke_1832_codebook_year.md) — project-wide codebook value; not a per-row miscitation.
+- [Haley chapter structure](feedback_haley_chapter_structure.md) — 3 chapters (I Doctrinal 55-218, II Ethical, III Historical); verify chapter label vs page.
+- [Haley/McKinsey IA verification](feedback_haley_1874_page_drift_and_ia_search_method.md) — ALWAYS try archive.org search-inside before flagging unconfirmable; find tektonics.org slug before flagging McKinsey not_real.
+- [Citation hallucination patterns](feedback_citation_hallucinations.md) — recurring AI-drafted scholarship fabrication patterns.
+- [Levitical-city conjecture](feedback_levitical_cities_conjectural_not_variant.md) — Josh21/1Chr6 Dan-heading is conjectural emendation, not a variant.
+- [Block scope-fit](feedback_block_scope_fit.md) — Block miscited for non-Block commentaries; dominant batch_10 pattern.
+- [Jael seduction attribution](feedback_seduction_reading_attribution.md) — Zakovitch/Niditch/Ackerman/Bal, not J. Glen Taylor, for Judges 5 reading.
+- [WBC 2nd-ed dates](feedback_wbc_second_edition_dates.md) — Klein 1 Sam 2nd ed=2000; Butler Joshua 2nd ed=Zondervan 2014.
+- [Passing-mention parity](feedback_passing_mention_scholarship_parity.md) — late passes need scholarship entries for every named scholar, even in passing; risk-calibration in feedback_passing_mention_parity_risk_calibration.md.
+- [K&D parity](feedback_keil_delitzsch_parity.md) — Keil cited as "earlier harmonization" needs a specific BCOT volume entry.
+- [CBQ pagination off-by-one](feedback_cbq_journal_pagination.md) — verify journal first-page vs ProQuest/JSTOR; AI drafts drift +1.
+- [Merrill Chronicles≠NAC](feedback_merrill_chronicles_nac_hallucination.md) — his NAC vol is Deuteronomy; Chronicles is Kregel 2015.
+- [Aejmelaeus volume](feedback_aejmelaeus_oldgreek_volume.md) — "Old Greek 1 Samuel" essay is Helsinki 2010 (VTSup 148), not Ljubljana 2007; first name Anneli not Anna.
+- [Pass-2 scholar parity](feedback_pass2_late_scholar_parity.md) — pass-1 edits add scholar names without parity entries; pass 2 must scan.
+- [Hess volume miscitation](feedback_hess_jericho_ai_volume.md) — essay is BBR Supp 3/Eisenbrauns 2008, not Hoffmeier/Millard 2004.
+- [Klein dual volumes](feedback_klein_dual_volumes.md) — Klein wrote both 1 Sam WBC and 1 Chr Hermeneia; match volume to passage.
+- [Barthelemy attribution](feedback_barthelemy_work_attribution.md) — MT-priority 1 Sam 17 arg is in OBO 73, not Critique textuelle OBO 50.
+- [Loeb Josephus V](feedback_loeb_josephus_cotrans_attribution.md) — Ant. Bks 5-8 (1934) credits Thackeray AND Marcus, not Marcus alone.
+- [Josephus over-attribution](feedback_josephus_harmonization_misattribution.md) — Ant. 7.243 records pillar tradition, doesn't state Absalom's sons died young (rabbinic).
+- [Page-overlap signal](feedback_structural_page_overlap_signal.md) — overlapping page ranges across passages in one commentary signal miscitation.
+- [Knoppers scope](feedback_knoppers_chronicles_scope.md) — AB 12/12A covers 1 Chr only; 12A pp.516-575=1 Chr 10-11; JSOTSup 371 ch. is "Shem Ham Japheth" pp.13-31.
+- [Dillard/Selman parity](feedback_selman_dillard_pair_parity.md) — both need scholarship entries when paired in 2 Chr commentary.
+- [Multi-volume year drift](feedback_multivolume_year_drift.md) — verify each vol's year independently (Goldingay-Payne I=2006/II=2007; Davies-Allison/Luz/Cogan/Knoppers/Klein/Tsumura/Keener/Aune/Brown drift).
+- [McKenzie IECOT](feedback_mckenzie_iecot_not_ayb.md) — 1 Kings 16-2 Kings 16 (2019) is IECOT/Kohlhammer; no AYB 10A exists.
+- [Cogan Jezebel pages](feedback_cogan_ikings_jezebel_pages.md) — AB 10 1 Kgs 16:31 Ahab/Jezebel is pp.418-422, not 343-345.
+- [Holladay Jer split](feedback_holladay_jeremiah_volume_split.md) — Vol 1(1986)=chs1-25; Vol 2(1989)=chs26-52.
+- [Grabbe editor role](feedback_grabbe_ahab_agonistes_editor.md) — LHBOTS 421 is edited volume; cite Grabbe as "ed." not sole author.
+- [Editor-credit sweep](feedback_pass5_editor_credit_sweep.md) — one fix signals systematic sweep for all chapter-in-volume citations.
+- [Series name precision](feedback_series_name_precision.md) — late passes catch series-name truncation/plural errors.
+- [Tsumura page cap](feedback_tsumura_nicot_2sam_pages.md) — 2 Sam NICOT (2019) is 320pp total; cites over that are hallucinated.
+- [Page-count anchors](feedback_total_page_count_anchors.md) — verified totals; Knoppers AB 12/12A continuous pagination (12A=pp.515-1045).
+- [Williamson NCB](feedback_williamson_chronicles_ncb_not_wbc.md) — Chronicles=NCB 1982, not WBC (WBC Chr is Braun/Dillard).
+- [Lundbom scope-fit](feedback_lundbom_volume_scope_jer22.md) — Jer 22 is in AB 21B(21-36), not 21A(1-20).
+- [Summary-field drift](feedback_summary_field_factual_drift.md) — late passes must deep-read summary parentheticals for garbling.
+- [1 Esdras fabrication](feedback_1esdras_witness_split_fabrication.md) — AI fabricates "third number" family-roll variants; note 5:13/14 legitimately list multiple families (not itself a flag, see feedback_1esdras_multiple_families_per_verse.md).
+- [KJV/ESV versification](feedback_kjv_versification_neh7_70.md) — KJV governor-gift=530 garments; ESV=30+500 minas; audit vs source's own translation.
+- [HZ Psalms pagination](feedback_hossfeld_zenger_pagination_drift.md) — Hermeneia vol.1(Pss1-50) is German-only, English cites fabricated; vol.2/3 ranges drift +3-8pp; Ps89=pp.399-415.
+- [Multi-scholar parity](feedback_smith_cross_paired_attribution.md) — paired/joint-thesis attributions (Smith-Cross; Knohl/Smith/Geller) each need own scholarship entry.
+- [Journal fascicle drift](feedback_vt_jbl_fascicle_attribution.md) — AI assigns wrong issue/fascicle number; verify vs Brill/JSTOR.
+- [German term garbling](feedback_german_technical_term_garbling.md) — AI swaps wrong cognate (Tat/Tun, Folge/Ergehen) in theological compounds.
+- [Chapter-distance drift](feedback_chapter_distance_drift.md) — AI inserts plausible-but-wrong round numbers for inter-chapter distances; verify arithmetic.
+- [Hermeneia TOC sweep](feedback_hermeneia_toc_sweep_pass10.md) — Attridge/Bovon/Luz/Malherbe/Betz pericope-page drift; Project Muse IDs catalogued (pass10 + pass11).
+- [Thrall ICC page cap](feedback_thrall_icc_volume_pagecap.md) — Vol 2 (2000) is 475pp, NOT continuous with Vol 1.
+- [Hebrew lexical garbling](feedback_hebrew_lexical_field_garbling.md) — AI collapses distinct roots (tahor/tsaraph; yashen/num) in same semantic field.
+- [Levenson editions](feedback_levenson_sinai_zion_publisher.md) — 1985=Winston Mpls; 1987=Harper SF; AI conflates.
+- [When Critics Ask publisher](feedback_when_critics_ask_victor_books.md) — 1992 original is Victor Books Wheaton, not Baker (Baker=reprint).
+- [Brown AB John pagination](feedback_brown_john_volume_scope.md) — Vol 29(1966)=1-538 chs I-XII; 29A(1970)=539-1208 continuous, chs XIII-XXI.
+- [Aune WBC continuous pagination](feedback_aune_revelation_three_volume_pagination.md) — 52A/B/C continuously paginated; pp.819-832=52B not 52C.
+- [D-A author order](feedback_davies_allison_author_order.md) — cite as "Davies, W. D., and Dale C. Allison.", not inverted.
+- [Betz 2Cor scope](feedback_betz_2cor_scope.md) — Hermeneia 2 Cor covers chs 8-9 only.
+- [Bovon Luke TOC anchors](feedback_bovon_luke1_toc_full_anchor_list.md) — verified pericope-page tables (Vol1=Muse 45977; Sermon on Plain=pp.220-229; Vol3=Muse 45979 not 45975).
+- [batch_19 cap-reached](feedback_pass10_batch19_chapter_arithmetic_word_order.md) — chapter-arithmetic + Greek/Hebrew word-order drift; capped 28 bugs/10 passes.
+- [Journal title fabrication](feedback_journal_title_substitution_hallucination.md) — Murphy-O'Connor RB117(2010) title fabricated; actual=RB112(2005).
+- [James commentary grid](feedback_james_commentary_series_grid.md) — Blomberg=ZECNT, Moo=Pillar, Davids=NIGTC, Martin=WBC, Johnson=AB37A, Allison=ICC.
+- [Köstenberger parity](feedback_kostenberger_john_becnt_parity.md) — BECNT John(2004) often missing from Carson/Köstenberger/Blomberg trio.
+- [Heth-Wenham subtitles](feedback_heth_wenham_uk_us_subtitle.md) — Hodder 1984="Towards Evangelical Understanding"; Nelson 1985="Problem with Evangelical Consensus".
+- [Carson volume/series](feedback_carson_ebc_matthew_volume_number.md) — EBC Matt: orig(1984)=Vol8, rev(2010)=Vol9 pp.23-670; John is PNTC 1991 not EBC.
+- [Marcus AYB pagination](feedback_marcus_ayb27a_imprint.md) — 8-16(2009)=AYB27A not AB; 1-8(2000)=Doubleday not Yale; split at 8:22(~p.568); 27A continuous to ~p.1183.
+- [Blomberg NAC parity](feedback_blomberg_matthew_nac_systematic_parity.md) — systematically missing from Synoptic batches naming apologist trio.
+- [Luz Matt bounds](feedback_luz_matt820_section_bounds.md) — 3 major-section page ranges, Project Muse 45974.
+- [paidion≠nepios](feedback_paidion_vs_nepios_distinction.md) — Synoptic kingdom-child vs Pauline immaturity; different Greek roots.
+- [Augustine misattribution](feedback_augustine_dual_reckoning_misattribution.md) — Roman-civil-time hypothesis is Westcott(1881); Augustine's own is Jewish-clamor/Roman-action.
+- [Brown DM anchors](feedback_brown_dm_volume_boundary_impossible_pages.md) — Vol1=pp.1-879, Vol2=880-1608; scope stops at empty tomb (no resurrection appearances); Judas=§29 pp.734-761+1394-1418.
+- [Brown Birth≠Death](feedback_brown_birth_vs_death_misattribution.md) — Birth(1977/93) precedes Death(1994); Birth is infancy-only.
+- [D-A passion anchors](feedback_davies_allison_empty_tomb_section.md) — Empty Tomb(28:1-15)=pp.659-675; Peter denial=pp.540-551.
+- [Bultmann name/team](feedback_bultmann_john_translator_team.md) — John(1971)=Beasley-Murray+Hoare+Riches, not solo; watch first-name corruption ("Reuben" for Rudolf).
+- [Lane longer-ending pages](feedback_lane_nicnt_mark_longer_ending_pages.md) — Mk16:9-20=pp.601-611, not 591-595.
+- [Westcott John pub/year](feedback_westcott_john_publisher.md) — John Murray 1882 separate; 1880 Speaker's; 1908 Greek text.
+- [Calvin 1 John 4 pages](feedback_calvin_catholic_epistles_1john4_pages.md) — pp.234-238 cover 4:6-7, not 4:1-3/4:15.
+- [Metzger TCGNT editions](feedback_metzger_tcgnt_pagination_edition.md) — Mk16:9-20: 1st ed(1971)pp.102-106, 2nd ed(1994)pp.102-107.
+- [Barth Pauline authorship](feedback_markus_barth_authorship_position.md) — AB Ephesians defends Pauline authorship; don't group deutero-Pauline.
+- [Acts commentary anchors](feedback_pervo_acts_pericope_anchors.md) — Pervo Acts9=230-238, Acts26=623-629; Conzelmann 287pp total, 21:26 ends p.230.
+- [Luther strawy epistle](feedback_luther_strawy_epistle_source.md) — phrase from 1522 Preface to NT (LW 35:357-362), not James/Jude preface.
+- [Internal consistency](feedback_summary_internal_consistency.md) — check summary claims against commentary's own distinctions (e.g. krinō/anakrinō).
+- [Seow Persian dating](feedback_seow_ecclesiastes_persian_dating.md) — AB18C dates Qohelet Persian(5th-4thc), not Hellenistic; AI inverts.
+- [Empty scholarship gap](feedback_commentary_out_empty_scholarship.md) — commentary_fix: empty scholarship[] while prose names authorities = medium gap.
+- [Sarna Psalms scope](feedback_sarna_psalms_selected_scope.md) — covers only Pss 1,8,15,19,24,30,48,82,93,94; other cites fabricated.
+- [Gill verse-boundary 10-for-10](feedback_gill_prov24_verse_boundary.md) — id 506 off-by-3 (Luke 9:53 tag, actual v.56 content); always check excerpt vs embedded verse heading.
+- [Connective overclaim vs strawman](feedback_ehrman_connective_overclaim_vs_strawman.md) — id 479 Ehrman superlative borrowed; id 517 reconcile "cling not" claim unsourced by sole excerpt → flag not strawman/fail.
+- [Bultmann John judgment redactor](feedback_bultmann_john_judgment_redactor_verified.md) — id 518 clean; Bultmann's ecclesiastical-redactor/realized-eschatology theory real; Haley 1874 p.120 "judge no man" quote verified verbatim on archive.org.
+- [Haley Samaritans p.374 not 358](feedback_haley_samaritans_page374_not_358.md) — id 506: Baur/Bleek reception discrepancy is p.374; p.358 is a different "Samaritans, inhospitality" index entry.
+- [JFB Magdalene-vs-Bethany overclaim](feedback_jfb_magdalene_vs_bethany_overclaim.md) — id 505: JFB "not Mary Magdalene" note never mentions Bethany; connective stretching it to "distinct from Mary of Bethany" overclaims (flag), Strauss/Haley verified clean.

@@ -1,0 +1,55 @@
+{
+  "contradiction_id": 480,
+  "question": "Did the women immediately tell the disciples?",
+  "summary": "Matthew 28:8 has the women run from the tomb 'with fear and great joy' to bring the disciples word. Luke 24:8-9 has them return from the tomb and tell the eleven and all the rest. Mark 16:8 — the original ending of Mark — has the women flee the tomb, tremble, and 'say nothing to any man, for they were afraid.' Matthew and Luke: immediate proclamation. Mark: shocked silence.",
+  "consensus": "genuine_contradiction",
+  "lean": "discrepancy_first",
+  "reconcile": {
+    "status": "filled",
+    "connective": "JFB reads Mark's silence as confined to the road itself — the women told no bystander, yet still reached the disciples exactly as Matthew records.",
+    "skeptic": null,
+    "empty_note": null
+  },
+  "discrepancy": {
+    "status": "named_skeptic",
+    "connective": "Bart Ehrman presses this in his 2006 Craig debate: \"Did the women tell anyone or not? It depends which Gospel you read.\"",
+    "skeptic": {
+      "name": "Bart D. Ehrman",
+      "work": "\"Is There Historical Evidence for the Resurrection of Jesus?\" (Craig–Ehrman debate)",
+      "year": "2006",
+      "attribution": "Bart D. Ehrman, in the Craig–Ehrman debate, \"Is There Historical Evidence for the Resurrection of Jesus?\" (College of the Holy Cross, March 28, 2006)"
+    },
+    "empty_note": null,
+    "relabel_flag": false,
+    "relabel_reason": null
+  },
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John W. Haley, An Examination of the Alleged Discrepancies of the Bible (1874), pp. 328-330",
+        "author": "John W. Haley",
+        "year": "1874",
+        "note": "Haley treats this exact tension under 'Historical Discrepancies,' citing Ebrard's view that the women hastened back intending to tell the disciples but, finding them sunk in gloom, at first held back from fear of ridicule -- and offers the alternative that Mark and Matthew describe two different parties of women."
+      },
+      "link": {
+        "url": "https://defendinginerrancy.com/bible-solutions/Mark_16.8.php",
+        "domain": "defendinginerrancy.com",
+        "title": "Is there a Bible contradiction in Mark 16:8?",
+        "note": "Live apologetic treatment of this exact verse, arguing the women's initial fearful silence (Mark) gave way to telling the disciples later that day (Matthew/Luke)."
+      }
+    }
+  },
+  "excerpts": [
+    {
+      "excerpt_uid": "480#0",
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "attribution": "Jamieson, Fausset & Brown, Commentary (1871)",
+      "verse_ref": "Matthew 28:8",
+      "full_note_ref": "JFB/40/28/8",
+      "excerpt_text": "and did run to bring his disciples word--\"Neither said they anything to any man [by the way]; for they were afraid\" (Mar 16:8).",
+      "on_tension_rationale": "JFB directly pairs Matthew's 'ran to bring his disciples word' with Mark's 'said nothing to any man,' inserting the interpretive bracket '[by the way]' to confine the silence to the road so both reports stand.",
+      "source_note_text": "And they departed quickly--Mark (Mar 16:8) says \"they fled.\"\nfrom the sepulchre with fear and great joy--How natural this combination of feelings! See on a similar statement of Mar 16:11.\nand did run to bring his disciples word--\"Neither said they anything to any man [by the way]; for they were afraid\" (Mar 16:8).\nAppearance to the Women (Mat 28:9-10).\nThis appearance is recorded only by Matthew."
+    }
+  ]
+}

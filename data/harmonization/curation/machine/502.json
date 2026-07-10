@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 502,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "The Geneva Bible's annotators read Luke 1:6 as displaying the fruit of righteousness, not its ground, which they locate in faith alone.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Heikki Räisänen presses the sharpest version: Paul's statements on the law, including Romans 2:13, are not harmonizable but reflect genuine, unresolved inconsistency.",
+      "skeptic": {
+        "name": "Heikki Räisänen",
+        "work": "Paul and the Law",
+        "year": "1983",
+        "attribution": "Heikki Räisänen, Paul and the Law, WUNT 29 (Tübingen: J.C.B. Mohr [Paul Siebeck], 1983)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "GNV",
+      "verse_ref": "Luke 1:6",
+      "excerpt_text": "Whom no man could justly reprove: now so it is, that the fruits of justification are set forth here, and not the cause, which is faith only, and nothing else.",
+      "full_note_ref": "GNV/42/1/6",
+      "on_tension_rationale": "Directly answers whether Luke 1:6's righteousness-language makes law-keeping the ground of justification: the annotators say law-walking is the fruit/evidence, faith alone is the cause -- the same distinction Reformed exegesis applies to Romans 2:13 and Galatians 2:21.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Under 'Doctrinal Discrepancies,' Haley's parallel 'Justification: By Faith / By Works' table places Romans 2:13 (\"the doers of the law shall be justified\") directly opposite Romans 3:20, Galatians 2:16, and Galatians 3:11-12, then argues works are the fruit of faith rather than its antecedent ground, so the two columns 'affirm the inseparable connection...of faith and works as cause and effect' (pp. 167-168)."
+      },
+      "link": {
+        "url": "https://carm.org/roman-catholicism/does-romans-213-mean-that-we-are-justified-before-god-by-keeping-the-law/",
+        "domain": "carm.org",
+        "title": "CARM: Does Romans 2:13 mean that we are justified before God by keeping the Law?",
+        "note": "live apologetic treatment arguing Romans 2:13 does not make law-keeping a condition of justification"
+      }
+    }
+  }
+}

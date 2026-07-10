@@ -1,0 +1,52 @@
+{
+  "contradiction_id": 494,
+  "row": {
+    "lean": "discrepancy_first",
+    "reconcile": {
+      "status": "filled",
+      "connective": "Jamieson-Fausset-Brown read Mark's double crowing as fuller detail, noting the other Gospels report only the last crow Mark also records.",
+      "skeptic": null,
+      "empty_note": null
+    },
+    "discrepancy": {
+      "status": "named_skeptic",
+      "connective": "Bart Ehrman presses the harder reading: Matthew has one crowing, Mark two — distinct traditions, not compatible details of a single night.",
+      "skeptic": {
+        "name": "Bart D. Ehrman",
+        "work": "\"Contradictions? What Contradictions? Harmonizing the Gospels.\" (The Bart Ehrman Blog)",
+        "year": "2023",
+        "attribution": "Bart D. Ehrman, \"Contradictions? What Contradictions? Harmonizing the Gospels\" (The Bart Ehrman Blog, September 13, 2023)"
+      },
+      "empty_note": null,
+      "relabel_flag": false,
+      "relabel_reason": null
+    }
+  },
+  "excerpts": [
+    {
+      "pole": "reconcile",
+      "source_code": "JFB",
+      "verse_ref": "John 18:27",
+      "excerpt_text": "As Mark is the only Evangelist who tells us that our Lord predicted that the cock should crow twice (Mar 14:30), so he only mentions that it did crow twice (Mar 14:72). The other Evangelists, who tell us merely that our Lord predicted that \"before the cock should crow he would deny Him thrice\" (Mat 26:34; Luk 22:34; Joh 13:38), mention only one actual crowing, which was Mark's last.",
+      "full_note_ref": "JFB/43/18/27",
+      "on_tension_rationale": "JFB directly compares Mark's double cock-crow (predicted and fulfilled) against the other three Gospels' single mention, explaining the count difference as selective detail rather than conflict — squarely on this contradiction's question of when/how often the cock crowed.",
+      "verify_state": "machine"
+    }
+  ],
+  "deeper_learning": {
+    "defense": {
+      "pd_work": {
+        "resource": "John Haley, An Examination of the Alleged Discrepancies of the Bible (1874)",
+        "author": "John Haley",
+        "year": "1874",
+        "note": "Haley treats the cock-crow count directly under 'Peter's denials at one time / At another time' (pp. 424-425), citing Warington, Alford, and Whitby for the once-vs-twice reconciliation."
+      },
+      "link": {
+        "url": "https://www.gotquestions.org/rooster-crowing-Peter.html",
+        "domain": "gotquestions.org",
+        "title": "GotQuestions: What is the significance of the rooster crowing in regard to Peter denying Jesus three times?",
+        "note": "live apologetic treatment reconciling Mark's two crowings with the other Gospels' one"
+      }
+    }
+  }
+}
