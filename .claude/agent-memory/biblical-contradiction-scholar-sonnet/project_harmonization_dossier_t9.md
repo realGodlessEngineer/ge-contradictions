@@ -70,3 +70,27 @@ reconcile pole has ≥1 excerpt — **regardless of whether the row is reconcile
 discrepancy-leaning**. Only `discrepancy.emptyNote`/`emptyNoteAttr` are lean-gated
 (reconcile-leaning only). Don't skip `reconcile.note` just because the row turned out
 to be discrepancy-leaning.
+
+## Trimming the backslash-quote artifact when it wraps BOTH ends of the substance
+Id 468's documented fallback (truncate snippet to end just before a *trailing* quoted
+portion) only works when the meaningful content sits outside the quotation. When the
+whole substantive clause IS the quoted speech (e.g. John 5:17's `\"My Father is still
+working...\"`), instead pick snippet start/end indices that fall strictly *inside* the
+opening and closing `\"` artifact pairs — this is still a legitimate contiguous
+substring (substring boundaries are a free choice; no ellipsis needed), it just happens
+to skip the two backslash-quote characters at each edge. `verseText` still carries the
+full artifact-laden string unchanged. Same trick works for a lone *leading* artifact
+(e.g. Genesis 1:29's `God said, \"Behold...` — start the snippet at "Behold", skipping
+"God said, \"") or a lone *trailing* one (Genesis 2:17's `...surely die.\"` — end the
+snippet at "die.", dropping the trailing `\"`). Worked ids 10 (Gen 1:29 leading-only,
+Gen 2:17 trailing-only) and 13 (John 5:17 both ends) on 2026-07-10.
+
+## Picking the sharpest single verse out of a cited range
+When `candidateRefs` includes a multi-verse range (e.g. `Genesis 1:3-2:3`) alongside a
+single-verse ref, don't default to the range's first verse — pick whichever verse in the
+range most directly mirrors/contrasts the wording of the opposing side. Worked id 15
+("How long did creation take?"): the range Genesis 1:3-2:3 vs. the single Genesis 2:4 —
+chose Genesis 1:5 (not 1:3 or 2:2) because its "day"/"one day" phrasing is the verse the
+reconcile excerpt itself anchors to (TYN's excerpt explicitly cites "1:5b" as the
+24-hour-day sense contrasted with "2:4b"), giving the tightest verbal contrast with 2:4's
+"in the day".

@@ -1,0 +1,42 @@
+{
+  "contradiction_id": 483,
+  "covered": 1,
+  "reconcile": {
+    "note": "Gill reads Paul's Cephas-first list as an omission of the women's testimony rather than a denial that Mary Magdalene saw the risen Jesus first.",
+    "halfLine": null,
+    "emptyNote": null,
+    "emptyNoteAttr": null,
+    "quotes": []
+  },
+  "discrepancy": {
+    "note": "Strauss notes Paul's earliest list gives priority to Cephas and silently drops the women's testimony that Mark places first.",
+    "halfLine": null,
+    "emptyNote": null,
+    "emptyNoteAttr": null,
+    "quotes": [
+      {
+        "text": "The right of priority is, in John, and still more expressly in Mark, claimed for that to Mary Magdalene. … Paul, who in the above named passage speaks as if he meant to enumerate all the appearances of the resuscitated Christ, of which he knew, omits the one in question; but it may perhaps be said in explanation of this, that he did not choose to adduce the testimony of women.",
+        "attr": "David Friedrich Strauss (d. 1874), The Life of Jesus Critically Examined, trans. George Eliot (1846), §139, on Mark 16:9 and 1 Corinthians 15:5.",
+        "voice": null,
+        "href": "https://www.gutenberg.org/files/64037/64037-h/64037-h.htm",
+        "source": { "kind": "hand", "url": "https://www.gutenberg.org/files/64037/64037-h/64037-h.htm", "well": "strauss-life-of-jesus" }
+      }
+    ]
+  },
+  "versePair": {
+    "sides": [
+      {
+        "ref": "Mark 16:9",
+        "snippet": "he appeared first to Mary Magdalene, from whom he had cast out seven demons.",
+        "verseVersion": "WEB",
+        "verseText": "Now when he had risen early on the first day of the week, he appeared first to Mary Magdalene, from whom he had cast out seven demons."
+      },
+      {
+        "ref": "1 Corinthians 15:5",
+        "snippet": "he appeared to Cephas, then to the twelve.",
+        "verseVersion": "WEB",
+        "verseText": "and that he appeared to Cephas, then to the twelve."
+      }
+    ]
+  }
+}

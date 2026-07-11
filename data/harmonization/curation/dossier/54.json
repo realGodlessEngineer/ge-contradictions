@@ -1,0 +1,42 @@
+{
+  "contradiction_id": 54,
+  "covered": 1,
+  "reconcile": {
+    "note": "Clarke locates the extra Cainan in Luke's genealogy in the Septuagint tradition Luke followed, while the Hebrew text behind Genesis has no such generation.",
+    "halfLine": null,
+    "emptyNote": null,
+    "emptyNoteAttr": null,
+    "quotes": []
+  },
+  "discrepancy": {
+    "note": "Strauss noted that Luke's genealogy inserts a second Cainan between Arphaxad and Salah found in neither Genesis 10:24 nor 11:12, but only in the Septuagint.",
+    "halfLine": null,
+    "emptyNote": null,
+    "emptyNoteAttr": null,
+    "quotes": [
+      {
+        "text": "Also, in the series before Abraham, Luke inserts a Cainan, who is not to be found in the Hebrew text, Gen. x. 24 ; xi. 12 ff. , but who was however already inserted by the LXX.",
+        "attr": "David Friedrich Strauss (d. 1874), The Life of Jesus Critically Examined, §21 (1846), on Genesis 10:24, 11:12 and Luke 3:36.",
+        "voice": null,
+        "href": "https://www.gutenberg.org/files/64037/64037-h/64037-h.htm",
+        "source": { "kind": "hand", "url": "https://www.gutenberg.org/files/64037/64037-h/64037-h.htm", "well": "strauss-life-of-jesus" }
+      }
+    ]
+  },
+  "versePair": {
+    "sides": [
+      {
+        "ref": "Genesis 11:12",
+        "snippet": "Arpachshad lived thirty-five years, and became the father of Shelah.",
+        "verseVersion": "WEB",
+        "verseText": "Arpachshad lived thirty-five years, and became the father of Shelah."
+      },
+      {
+        "ref": "Luke 3:36",
+        "snippet": "the son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech,",
+        "verseVersion": "WEB",
+        "verseText": "the son of Cainan, the son of Arphaxad, the son of Shem, the son of Noah, the son of Lamech,"
+      }
+    ]
+  }
+}

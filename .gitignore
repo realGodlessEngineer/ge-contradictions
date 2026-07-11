@@ -27,6 +27,11 @@ __pycache__/
 data/harmonization/curation/_bake_preview.json
 data/scholarship_parse_preview.json
 
+# --- T9/T10 bundle caches (regenerable: fetchWell.js + buildT{9,10}Bundles.js) ---
+data/harmonization/curation/_t10bundles/
+data/harmonization/curation/_t9bundles/
+data/harmonization/curation/_t9pilot/
+
 # --- OS / editor cruft ---
 .DS_Store
 Thumbs.db

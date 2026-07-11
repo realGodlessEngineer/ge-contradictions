@@ -1,0 +1,42 @@
+{
+  "contradiction_id": 397,
+  "covered": 1,
+  "reconcile": {
+    "note": "Henry treats the disciples' baptizing, done under Jesus's own orders, as counting as Jesus's own baptizing, reconciling John 3:22 with John 4:2's denial.",
+    "halfLine": null,
+    "emptyNote": null,
+    "emptyNoteAttr": null,
+    "quotes": []
+  },
+  "discrepancy": {
+    "note": "Strauss reads John 4:2's denial as an after-the-fact correction inserted to keep Jesus above the mere function of a baptizer like John.",
+    "halfLine": null,
+    "emptyNote": null,
+    "emptyNoteAttr": null,
+    "quotes": [
+      {
+        "text": "But the negative statement that Jesus himself baptised not (iv. 2), has the appearance of an after-thought, intended to correct the import of the previous passages (iii. 22, iv. 1), and is most probably to be accounted for by the tendency of the fourth gospel to exalt Jesus above the Baptist, and by a corresponding dread of making Jesus exercise the function of the mere forerunner.",
+        "attr": "David Friedrich Strauss (d. 1874), The Life of Jesus Critically Examined, trans. George Eliot (1846), pt. II, ch. on the mission of the disciples, on John 3:22 and John 4:2.",
+        "voice": null,
+        "href": "https://www.gutenberg.org/files/64037/64037-h/64037-h.htm",
+        "source": { "kind": "hand", "url": "https://www.gutenberg.org/files/64037/64037-h/64037-h.htm", "well": "strauss-life-of-jesus" }
+      }
+    ]
+  },
+  "versePair": {
+    "sides": [
+      {
+        "ref": "John 3:22",
+        "snippet": "He stayed there with them, and baptized.",
+        "verseVersion": "WEB",
+        "verseText": "After these things, Jesus came with his disciples into the land of Judea. He stayed there with them, and baptized."
+      },
+      {
+        "ref": "John 4:2",
+        "snippet": "although Jesus himself didn't baptize, but his disciples",
+        "verseVersion": "WEB",
+        "verseText": "(although Jesus himself didn't baptize, but his disciples),"
+      }
+    ]
+  }
+}

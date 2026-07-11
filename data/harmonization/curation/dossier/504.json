@@ -1,0 +1,42 @@
+{
+  "contradiction_id": 504,
+  "covered": 1,
+  "reconcile": {
+    "note": "Henry traces the divergent counts to two different sons of David, with Matthew following Solomon's royal descendants and Luke following Nathan's line through Salathiel.",
+    "halfLine": null,
+    "emptyNote": null,
+    "emptyNoteAttr": null,
+    "quotes": []
+  },
+  "discrepancy": {
+    "note": "Strauss counts a striking mismatch: Luke has 41 generations between David and Jesus, Matthew only 26.",
+    "halfLine": null,
+    "emptyNote": null,
+    "emptyNoteAttr": null,
+    "quotes": [
+      {
+        "text": "More important is the considerable difference in the number of generations for equal periods, Luke having 41 between David and Jesus, whilst Matthew has only 26.",
+        "attr": "David Friedrich Strauss (d. 1874), The Life of Jesus Critically Examined, trans. George Eliot (1846), ch. on the genealogies, on Matthew 1 and Luke 3.",
+        "voice": null,
+        "href": "https://www.gutenberg.org/files/64037/64037-h/64037-h.htm",
+        "source": { "kind": "hand", "url": "https://www.gutenberg.org/files/64037/64037-h/64037-h.htm", "well": "strauss-life-of-jesus" }
+      }
+    ]
+  },
+  "versePair": {
+    "sides": [
+      {
+        "ref": "Matthew 1:13",
+        "snippet": "Zerubbabel became the father of Abiud. Abiud became the father of Eliakim. Eliakim became the father of Azor.",
+        "verseVersion": "WEB",
+        "verseText": "Zerubbabel became the father of Abiud. Abiud became the father of Eliakim. Eliakim became the father of Azor."
+      },
+      {
+        "ref": "Luke 3:27",
+        "snippet": "the son of Zerubbabel, the son of Shealtiel, the son of Neri,",
+        "verseVersion": "WEB",
+        "verseText": "the son of Joanan, the son of Rhesa, the son of Zerubbabel, the son of Shealtiel, the son of Neri,"
+      }
+    ]
+  }
+}

@@ -411,3 +411,26 @@ checking Wellhausen/Stade/Duhm-style German source-critical commentaries if an E
 translation exists (numeral-corruption-as-genuine-error is closer to their
 methodological home turf than the Anglophone popular-skeptic canon) — but budget search
 time accordingly and don't over-invest once ~8-10 full-text greps come up empty.
+
+**T10 leg ids 373/379/383/386/387 (2026-07-10):** Strauss's genealogy chapter (lines
+~4274-4430 of strauss-life-of-jesus.txt, "COMPARISON OF THE TWO GENEALOGIES") is a
+strong, explicit source for BOTH Matthew/Luke genealogy contradictions — Solomon-vs-
+Nathan (id 386) and Jacob-vs-Heli (id 387) — pulled from two adjacent but distinct
+sentences so the two ids don't share an identical quote. Also confirmed Strauss's
+triumphal-entry section (~line 21920-21964) is the right source for the Matthew
+two-donkeys vs Mark one-colt contradiction (id 383): "The most striking part of this
+account is obviously the statement of Matthew, that Jesus not only required two asses
+... but that he also actually sat on them both." Watch for embedded page-break markers
+like "[ 113 ]" mid-sentence in this Gutenberg OCR — pick quote boundaries that skip past
+them rather than including the bracketed page number in the verbatim text.
+
+Two honest-absences this leg, both internal-OT-prophet contradictions with no PD critic
+coverage in the available well (paine/troki/ingersoll all searched, no hits): id 373
+(Isaiah 26:10 wicked-won't-see-majesty vs 40:5 all-flesh-will-see-glory — searched
+"majesty"/"glory of the LORD" across the whole well, only tangential NT/other-book hits)
+and id 379 (Hosea 8:13/9:3 return-to-Egypt vs 11:5 not-return-to-Egypt — troki cites
+Hosea extensively but only for the Matthew 2:15 "out of Egypt" messianic-misapplication
+argument, a different contradiction entirely, not the internal Hosea tension). Pattern
+consistent with the existing T10 memory note: internal-OT-prophet self-contradictions
+(as opposed to genocide/creation/resurrection set-pieces) are under-served by the
+classic PD skeptic canon.

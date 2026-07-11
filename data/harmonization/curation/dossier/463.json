@@ -1,0 +1,42 @@
+{
+  "contradiction_id": 463,
+  "covered": 1,
+  "reconcile": {
+    "note": "Gill proposes that the rope by which Judas hanged himself broke, causing the fall and bodily rupture that Acts describes.",
+    "halfLine": null,
+    "emptyNote": null,
+    "emptyNoteAttr": null,
+    "quotes": []
+  },
+  "discrepancy": {
+    "note": "Strauss identifies a double divergency between Matthew and Acts: Judas's motive and manner of death, and the story of the field's purchase, do not agree.",
+    "halfLine": null,
+    "emptyNote": null,
+    "emptyNoteAttr": null,
+    "quotes": [
+      {
+        "text": "in Matthew he inflicts death on himself by the cord: according to the representation of Peter, it is a fall which puts an end to his life by causing a horrible rupture of the body.",
+        "attr": "David Friedrich Strauss (d. 1874), The Life of Jesus Critically Examined, trans. George Eliot (1846), §130, on Matthew 27:5 and Acts 1:18.",
+        "voice": null,
+        "href": "https://www.gutenberg.org/files/64037/64037-h/64037-h.htm",
+        "source": { "kind": "hand", "url": "https://www.gutenberg.org/files/64037/64037-h/64037-h.htm", "well": "strauss-life-of-jesus" }
+      }
+    ]
+  },
+  "versePair": {
+    "sides": [
+      {
+        "ref": "Matthew 27:5",
+        "snippet": "He threw down the pieces of silver in the sanctuary, and departed. He went away and hanged himself.",
+        "verseVersion": "WEB",
+        "verseText": "He threw down the pieces of silver in the sanctuary, and departed. He went away and hanged himself."
+      },
+      {
+        "ref": "Acts 1:18",
+        "snippet": "falling headlong, his body burst open, and all his intestines gushed out.",
+        "verseVersion": "WEB",
+        "verseText": "Now this man obtained a field with the reward for his wickedness, and falling headlong, his body burst open, and all his intestines gushed out."
+      }
+    ]
+  }
+}

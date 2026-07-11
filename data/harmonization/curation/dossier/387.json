@@ -1,0 +1,42 @@
+{
+  "contradiction_id": 387,
+  "covered": 1,
+  "reconcile": {
+    "note": "John Gill surveys three fixes for Jacob and Eli: one man with two names, a legal versus natural father, or Luke tracing Jesus's line through Mary.",
+    "halfLine": null,
+    "emptyNote": null,
+    "emptyNoteAttr": null,
+    "quotes": []
+  },
+  "discrepancy": {
+    "note": "Strauss names the immediate clash: Matthew calls Joseph's father Jacob while Luke calls him Heli, a difference he treats as a genuine contradiction.",
+    "halfLine": null,
+    "emptyNote": null,
+    "emptyNoteAttr": null,
+    "quotes": [
+      {
+        "text": "In Matthew, the father of Joseph is called Jacob; in Luke, Heli.…Since this difference appears to offer a complete contradiction, the most industrious efforts have been made at all times to reconcile the two.",
+        "attr": "David Friedrich Strauss (d. 1874), The Life of Jesus Critically Examined (1846), ch. on the genealogies, on Matthew 1:16 and Luke 3:23.",
+        "voice": null,
+        "href": "https://www.gutenberg.org/files/64037/64037-h/64037-h.htm",
+        "source": { "kind": "hand", "url": "https://www.gutenberg.org/files/64037/64037-h/64037-h.htm", "well": "strauss-life-of-jesus" }
+      }
+    ]
+  },
+  "versePair": {
+    "sides": [
+      {
+        "ref": "Matthew 1:16",
+        "snippet": "Jacob became the father of Joseph, the husband of Mary",
+        "verseVersion": "WEB",
+        "verseText": "Jacob became the father of Joseph, the husband of Mary, from whom was born Jesus, who is called Christ."
+      },
+      {
+        "ref": "Luke 3:23",
+        "snippet": "being the son (as was supposed) of Joseph, the son of Heli",
+        "verseVersion": "WEB",
+        "verseText": "Jesus himself, when he began to teach, was about thirty years old, being the son (as was supposed) of Joseph, the son of Heli,"
+      }
+    ]
+  }
+}

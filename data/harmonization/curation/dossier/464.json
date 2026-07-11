@@ -1,0 +1,42 @@
+{
+  "contradiction_id": 464,
+  "covered": 1,
+  "reconcile": {
+    "note": "Gill argues Judas initiated the purchase but the priests completed it, so both accounts describe the same transaction from different vantage points.",
+    "halfLine": null,
+    "emptyNote": null,
+    "emptyNoteAttr": null,
+    "quotes": []
+  },
+  "discrepancy": {
+    "note": "Strauss finds the two accounts irreconcilable on both who bought the field and whose blood gave it its name.",
+    "halfLine": null,
+    "emptyNote": null,
+    "emptyNoteAttr": null,
+    "quotes": [
+      {
+        "text": "according to the Acts, Judas himself purchases the piece of ground, and on this very spot is overtaken by sudden death; and from this difference there results another, namely, that according to the latter account, it was the blood of the betrayer shed on the piece of ground, according to the former, the blood of Jesus cleaving to the purchase money",
+        "attr": "David Friedrich Strauss (d. 1874), The Life of Jesus Critically Examined, trans. George Eliot (1846), ch. on the death of Judas, on Matthew 27:6 and Acts 1:18.",
+        "voice": null,
+        "href": "https://www.gutenberg.org/files/64037/64037-h/64037-h.htm",
+        "source": { "kind": "hand", "url": "https://www.gutenberg.org/files/64037/64037-h/64037-h.htm", "well": "strauss-life-of-jesus" }
+      }
+    ]
+  },
+  "versePair": {
+    "sides": [
+      {
+        "ref": "Matthew 27:6",
+        "snippet": "The chief priests took the pieces of silver, and said, \\\"It's not lawful to put them into the treasury, since it is the price of blood.\\\"",
+        "verseVersion": "WEB",
+        "verseText": "The chief priests took the pieces of silver, and said, \\\"It's not lawful to put them into the treasury, since it is the price of blood.\\\""
+      },
+      {
+        "ref": "Acts 1:18",
+        "snippet": "Now this man obtained a field with the reward for his wickedness",
+        "verseVersion": "WEB",
+        "verseText": "Now this man obtained a field with the reward for his wickedness, and falling headlong, his body burst open, and all his intestines gushed out."
+      }
+    ]
+  }
+}
