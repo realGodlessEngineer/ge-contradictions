@@ -434,3 +434,57 @@ argument, a different contradiction entirely, not the internal Hosea tension). P
 consistent with the existing T10 memory note: internal-OT-prophet self-contradictions
 (as opposed to genocide/creation/resurrection set-pieces) are under-served by the
 classic PD skeptic canon.
+
+**T10 leg ids 379/384/386/396/401/408 (2026-07-11):** Re-confirmed id 379 honest-absence
+(re-grepped "Ephraim"/"return...Egypt"/"Assyrian shall be" across the whole well —
+Wellhausen's Prolegomena p.~4548 quotes/translates Hosea 9:1-6 verbatim including
+"Ephraim must return to Egypt" but purely as exegesis of that one passage, never
+juxtaposed against 11:5's reversal, so it doesn't press the *self*-contradiction; not
+usable). New honest-absence: id 384 (Deut 6:16/James 1:13 "can God be tempted") — grepped
+"tempt" across paine/voltaire/spinoza/ingersoll; closest hit is Strauss's Life of Jesus
+§ discussing Matt 4:7's "tempt God no more as they had tempted him at Massah" (line
+~10175, on Deut 6:16 directly) but Strauss's point there is exegetical (Israelites
+testing/provoking God at Massah), not the logical tension between the imperative "don't
+tempt God" and James's "God cannot be tempted with evil" — didn't force it. Confirms the
+theological-attribute-tension family (alongside id 549's inspiration-doctrine case) is
+thin in this corpus outside Spinoza's TTP, and TTP Part I here only covers free-will/
+sin-temptation (Gen 4:7 vs Rom 9:10), not divine impassibility.
+
+Four ids authored this leg: **id 386** (Matt 1:6 Solomon vs Luke 3:23 Heli/Nathan
+genealogy) — Strauss § 21 "COMPARISON OF THE TWO GENEALOGIES," lines 4291-4294,
+"In Matthew, the father of Joseph is called Jacob; in Luke, Heli. In Matthew, the son of
+David through whom Joseph descended from that king is Solomon; in Luke, Nathan..." —
+same source region as the prior leg's id 386/387 pair, pulled from an adjacent sentence
+so as not to collide with any other id's quote from this chapter. **id 396** (Matt 3:7
+Pharisees/Sadducees "coming for his baptism" vs Luke 7:30 "not being baptized by him") —
+Schweitzer's *Quest*, ch. 19, line 272: "Hence the wrath of the Baptist when he saw
+Pharisees and Sadducees crowding to his baptism: 'Ye generation of vipers...'" — Schweitzer
+reads Matt 3:7 at face value (Pharisees actually came to be baptized), which is exactly
+the plain-sense reading Luke 7:30 denies; found via grepping "generation of vipers" across
+the well (ingersoll also has this phrase 4x but only as a rhetorical aside, never quoting
+Matt 3:7-8 in full or engaging the baptism-reception question). **id 401** (Matt 4:10
+serve-God-only vs Eph 6:5/1 Tim 6:1/1 Pet 2:18 slaves-obey-masters) — Remsburg's *The
+Christ*, catechism-style § 560 "What did the apostles teach?", lines 10916-10924: chains
+verbatim quotations of 1 Peter 2:18, 1 Timothy 6:1, AND Ephesians 6:5 in one contiguous
+paragraph — found via grepping "Ephesians|Colossians" across the well then confirming
+Remsburg's Q&A format directly cites the row's own target verse (Eph 6:5); the quote is
+Remsburg's own selection/arrangement of the three verses under his rhetorical question,
+which counts as the critic's own words (the argument is the juxtaposition itself, not
+mere scripture-quoting — distinct from the id-487/549 "bare verse-listing" dead-end
+pattern because Remsburg is *building an argument* via the arrangement + the "What did
+the apostles teach?" framing, not just an ironic caption over unconnected verses).
+**id 408** (Deut 4:2 "not add to the word" vs Matt 5:22 "but I say unto you") — Troki's
+*Faith Strengthened*, Ch. L (English chapter, not the earlier Hebrew-numbered chapters),
+lines 8294-8301: "We would ask the Christians who take the New Testament as a substitute
+for the Mosaic law, how they could venture to add, or diminish from the doctrines set
+forth in that law, seeing that the most severe denunciations are pronounced against him,
+who would dare either to add to, or omit the doctrines contained therein." — found via
+grepping "diminish" across the well (troki has 5 hits on this exact
+add-to/diminish-from-the-law theme, lines 899/2907/3535/4054/8297); this is Troki's own
+direct framing of the Deut 4:2 principle applied against Christian doctrinal innovation
+generally, a strong on-tension match for any "does the NT illegitimately add to Mosaic
+law" row in this corpus. All four `well` slugs already existed in `pd-critics-well.json`
+from prior legs (strauss-life-of-jesus, schweitzer-quest-historical-jesus,
+remsburg-the-christ, troki-faith-strengthened) — no new entries needed. 0 WebFetch/
+WebSearch calls this leg — corpus greps alone sufficed for both the 2 authored ids' source
+location and the 2 honest-absence ids' negative confirmation.

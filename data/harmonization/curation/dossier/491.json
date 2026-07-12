@@ -8,11 +8,27 @@
     "emptyNoteAttr": null,
     "quotes": []
   },
-  "discrepancy": { "note": null, "halfLine": null, "emptyNote": null, "emptyNoteAttr": null, "quotes": [] },
+  "discrepancy": {
+    "note": null,
+    "halfLine": null,
+    "emptyNote": "Steve Wells catalogues this as a contradiction, but the project's public-domain source survey found no verbatim critic passage that engages it.",
+    "emptyNoteAttr": "Steve Wells, The Skeptic's Annotated Bible, \"Who can cast out devils in the name of Jesus?\" (skepticsannotatedbible.com/contra/devils.html) (2013).",
+    "quotes": []
+  },
   "versePair": {
     "sides": [
-      { "ref": "Mark 9:38", "snippet": "John said to him, \\\"Teacher, we saw someone who doesn't follow us casting out demons in your name; and we forbade him, because he doesn't follow us.\\\"", "verseVersion": "WEB", "verseText": "John said to him, \\\"Teacher, we saw someone who doesn't follow us casting out demons in your name; and we forbade him, because he doesn't follow us.\\\"" },
-      { "ref": "Mark 16:17", "snippet": "These signs will accompany those who believe: in my name they will cast out demons; they will speak with new languages;", "verseVersion": "WEB", "verseText": "These signs will accompany those who believe: in my name they will cast out demons; they will speak with new languages;" }
+      {
+        "ref": "Mark 9:38",
+        "snippet": "John said to him, \\\"Teacher, we saw someone who doesn't follow us casting out demons in your name; and we forbade him, because he doesn't follow us.\\\"",
+        "verseVersion": "WEB",
+        "verseText": "John said to him, \\\"Teacher, we saw someone who doesn't follow us casting out demons in your name; and we forbade him, because he doesn't follow us.\\\""
+      },
+      {
+        "ref": "Mark 16:17",
+        "snippet": "These signs will accompany those who believe: in my name they will cast out demons; they will speak with new languages;",
+        "verseVersion": "WEB",
+        "verseText": "These signs will accompany those who believe: in my name they will cast out demons; they will speak with new languages;"
+      }
     ]
   }
 }

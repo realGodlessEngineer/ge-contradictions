@@ -32,6 +32,16 @@ data/harmonization/curation/_t10bundles/
 data/harmonization/curation/_t9bundles/
 data/harmonization/curation/_t9pilot/
 
+# --- Transient T12-T15 working lists (regenerable scratch; kept: _parity_waivers.json,
+#     _t11_subset.json, _t12_probe_results.json, _t15_residual.json are provenance) ---
+data/harmonization/curation/_t12_probe_ids.json
+data/harmonization/curation/_t13_worklist.json
+data/harmonization/curation/_t14_worklist.json
+data/harmonization/curation/_t14_authored.json
+data/harmonization/curation/_t14_audit_rejected.json
+data/harmonization/curation/_t14_revert.json
+data/harmonization/curation/_t15_waive.json
+
 # --- OS / editor cruft ---
 .DS_Store
 Thumbs.db

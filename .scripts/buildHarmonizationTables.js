@@ -99,6 +99,11 @@ const VOICES_PATH = path.join(HARMONIZATION_DIR, 'voices.json');
 const PREVIEW_PATH = path.join(CURATION_DIR, '_bake_preview.json');
 
 const PILOT_IDS = [3, 4, 189, 439, 459, 468, 496];
+// Non-two-pole rows excluded from the harmonization surface (2026-07-11): these are
+// Bible-vs-reality claims (scripture vs. observed fact), not verse-vs-verse tensions,
+// so they have no reconcile-critic/discrepancy-critic structure to bake. They keep
+// no harmonization_row (geBibleApp shows no both-poles surface for them).
+const EXCLUDE_IDS = new Set([561, 562, 564]); // 561 rabbits/cud, 562 conception, 564 snakes/dust
 
 const DRY_RUN = process.env.DRY_RUN === '1';
 const ALL = process.env.ALL === '1';
@@ -373,6 +378,7 @@ async function main() {
     for (const id of requestedIds) {
         if (!dbState.has(id)) { skipped.push({ id, reason: 'not-in-db' }); continue; }
         if (dbState.get(id) === 1) { skipped.push({ id, reason: 'recommend_delete' }); continue; }
+        if (EXCLUDE_IDS.has(id)) { skipped.push({ id, reason: 'excluded-non-two-pole' }); continue; }
         dbEligible.push(id);
     }
 

@@ -34,6 +34,19 @@ const BOOKS_MAP_PATH = path.join(__dirname, '..', 'data', 'harmonization', 'book
 const RECONCILE_FIRST_LEVELS = new Set(['probable_harmonization', 'apparent_only']);
 const reconcileFirstFor = (level) => RECONCILE_FIRST_LEVELS.has(level);
 
+// §10.2 amendment (2026-07-11) — documented per-row honest-absence waiver. An
+// unsourceable discrepancy-leaning row (no public-domain critic engages the verse
+// pair OR the class it instantiates, after the Tier-1/Tier-2 sweep) may carry a
+// documented emptyNote on the LEANING pole in place of a quote. ONLY the ids in
+// this allowlist are exempted from count-parity (a)/(c); every other row still
+// enforces "the leaning pole is never honest-absence". Absent/invalid file -> no
+// waivers (fail-closed).
+const PARITY_WAIVER_PATH = path.join(__dirname, '..', 'data', 'harmonization', 'curation', '_parity_waivers.json');
+let PARITY_WAIVERS = new Set();
+try {
+    if (fs.existsSync(PARITY_WAIVER_PATH)) PARITY_WAIVERS = new Set(JSON.parse(fs.readFileSync(PARITY_WAIVER_PATH, 'utf8')));
+} catch (e) { /* absent/invalid -> no waivers */ }
+
 // §3.3 — the locked attribution head parser ("Author (date), Work (year).").
 const DOSSIER_ATTR_HEAD_RE = /^(.*?\([^)]*\d[^)]*\))/;
 
@@ -253,13 +266,19 @@ function checkParity(rows, quoteMap, consensusByCid, push) {
         const LemptyNote = row[`${L}_empty_note`] !== null && row[`${L}_empty_note`] !== undefined;
         const MemptyNote = row[`${M}_empty_note`] !== null && row[`${M}_empty_note`] !== undefined;
 
-        // §10 count-parity (a) — the leaning pole must never be the emptyNote pole.
+        // §10 count-parity (a) — the leaning pole must never be the emptyNote pole,
+        // UNLESS the row is on the documented honest-absence waiver list (§10.2
+        // amendment): an unsourceable discrepancy-leaning row may carry a documented
+        // emptyNote in place of a quote, and that honest-absence satisfies parity.
         if (LemptyNote) {
-            push(cid, 'parity_leaning_is_empty', `leaning pole (${L}, level=${level ?? 'null'}) carries the emptyNote — the leaning pole must never be honest-absence`);
+            if (!PARITY_WAIVERS.has(cid)) {
+                push(cid, 'parity_leaning_is_empty', `leaning pole (${L}, level=${level ?? 'null'}) carries the emptyNote — the leaning pole must never be honest-absence`);
+            }
         }
         // §10 count-parity (b)/(c) — if the minority pole is emptyNote, parity is
         // satisfied by honest-absence; otherwise the leaning pole must have >= quotes.
-        if (!MemptyNote && !(Lq >= Mq)) {
+        // A waived leaning-pole emptyNote (above) also satisfies parity: skip the count.
+        else if (!MemptyNote && !(Lq >= Mq)) {
             push(cid, 'parity_count', `leaning pole (${L}) has ${Lq} quote(s) < minority pole (${M}) ${Mq} quote(s)`);
         }
     }

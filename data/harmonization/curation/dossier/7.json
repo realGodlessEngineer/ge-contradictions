@@ -9,16 +9,34 @@
     "quotes": []
   },
   "discrepancy": {
-    "note": null,
+    "note": "Wellhausen treats Genesis 1 (P) and Genesis 2 (J) as parallel, independent creation accounts whose plant/animal/man sequences diverge, of which this pair is the classic instance.",
     "halfLine": null,
     "emptyNote": null,
     "emptyNoteAttr": null,
-    "quotes": []
+    "quotes": [
+      {
+        "text": "land and plants before the animals … the man is utterly alone in his garden: he must have company that is suitable for him. So Jehovah first forms the beasts",
+        "attr": "Julius Wellhausen (d. 1918), Prolegomena to the History of Israel (1885), on the differing creation-order sequences of the parallel P and J narratives.",
+        "voice": null,
+        "href": "https://www.gutenberg.org/cache/epub/4732/pg4732.txt",
+        "source": { "kind": "hand", "url": "https://www.gutenberg.org/cache/epub/4732/pg4732.txt", "well": "wellhausen-prolegomena" }
+      }
+    ]
   },
   "versePair": {
     "sides": [
-      { "ref": "Genesis 1:25", "snippet": "God made the animals of the earth after their kind, and the cattle after their kind, and everything that creeps on the ground after its kind.", "verseVersion": "WEB", "verseText": "God made the animals of the earth after their kind, and the cattle after their kind, and everything that creeps on the ground after its kind. God saw that it was good." },
-      { "ref": "Genesis 2:19", "snippet": "Out of the ground Yahweh God formed every animal of the field, and every bird of the sky, and brought them to the man to see what he would call them.", "verseVersion": "WEB", "verseText": "Out of the ground Yahweh God formed every animal of the field, and every bird of the sky, and brought them to the man to see what he would call them. Whatever the man called every living creature, that was its name." }
+      {
+        "ref": "Genesis 1:25",
+        "snippet": "God made the animals of the earth after their kind, and the cattle after their kind, and everything that creeps on the ground after its kind.",
+        "verseVersion": "WEB",
+        "verseText": "God made the animals of the earth after their kind, and the cattle after their kind, and everything that creeps on the ground after its kind. God saw that it was good."
+      },
+      {
+        "ref": "Genesis 2:19",
+        "snippet": "Out of the ground Yahweh God formed every animal of the field, and every bird of the sky, and brought them to the man to see what he would call them.",
+        "verseVersion": "WEB",
+        "verseText": "Out of the ground Yahweh God formed every animal of the field, and every bird of the sky, and brought them to the man to see what he would call them. Whatever the man called every living creature, that was its name."
+      }
     ]
   }
 }

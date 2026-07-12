@@ -1,0 +1,33 @@
+{
+  "probe": "T12 — measure 310-parity recovery yield with an expanded PD critic well",
+  "date": "2026-07-11",
+  "well_expanded_to": 18,
+  "new_sources": [
+    "wellhausen-prolegomena (Gutenberg #4732, Black/Menzies 1885)",
+    "colenso-pentateuch-vol2..vol5 (archive.org pentateuchbookof0{2..5}coleuoft)"
+  ],
+  "sample_size": 27,
+  "sample_stratification": "by consensus: 7 genuine_contradiction / 12 probable_contradiction / 8 genuinely_disputed; 8 numbers/genealogy-flavored",
+  "sample_ids": [2,5,16,32,80,85,87,119,137,160,182,191,230,239,260,269,297,303,339,362,377,429,447,481,484,545,558],
+  "run_cost_tokens": 647944,
+  "run_cost_per_row_tokens": 24000,
+  "web_calls_on_authoring_path": 0,
+  "results": {
+    "recovered_full_parity": [5, 85, 230, 429, 447, 545],
+    "recovered_count": 6,
+    "recovered_pct": 22,
+    "partial_verbatim_short_of_parityTarget": [80, 119],
+    "recovered_plus_partial_pct": 30,
+    "gate_fail_drift_reverted": [32, 160, 481],
+    "drift_pct": 11,
+    "honest_absence": [2, 16, 87, 137, 182, 191, 239, 260, 269, 297, 303, 339, 362, 377, 558],
+    "honest_absence_count": 15
+  },
+  "notes": "Recovery concentrated where the new sources engage (Wellhausen documentary-hypothesis seams; Colenso numbers/genealogy). 56% documented honest-absence even WITH the expansion — the un-sourceable tail is Chronicles-vs-Kings numeric micro-discrepancies and genealogy the PD critical corpus never presses. The 6 recovered + 2 partial dossiers carry gate-verified verbatim quotes and were KEPT (real progress, not reverted); the 3 drift rows were reverted to honest-absence. Nothing re-baked (DB still holds the 295 subset). A parityTarget-relaxation lever (one strong verbatim critic quote suffices regardless of machine reconcile-quote count) would lift recovery further and is arguably more honest.",
+  "extrapolation_to_310": {
+    "full_parity_recovery": "~22% -> ~68 rows",
+    "with_partial_completion": "~30% -> ~93 rows",
+    "residual_honest_absence": "~217-242 rows genuinely un-engaged by PD corpus",
+    "cost_one_pass": "~$30-40 Sonnet (7.4M tok); ~$0.50/recovered row + human T1 sign-off"
+  }
+}

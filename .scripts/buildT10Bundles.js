@@ -48,6 +48,11 @@ const WELL_SCOPE = {
     'spinoza-theologico-political-1': 'OT/NT — prophecy, miracles vs natural law, the nature/attributes of God and the divine law; good for God-attribute and miracle-vs-nature contradictions.',
     'spinoza-theologico-political-2': 'OT — interpretation & authorship of the OT books; contradictions among the historical books (Chronicles vs Kings vs Samuel vs Ezra) and the compilation/authorship of the Pentateuch.',
     'voltaire-philosophical-dictionary': 'Whole Bible — wide-ranging alphabetical entries pressing OT law/atrocity/genealogy/chronology contradictions and NT gospel discrepancies.',
+    'wellhausen-prolegomena': 'OT source-critical / documentary hypothesis — THE PD critic for JEDP seams: P-vs-J duplicate creation & flood accounts, Sinai-vs-Horeb, the composite Pentateuch, the differing law codes/cultic history, and the age & authorship of the OT historical books (Chronicles vs Kings/Samuel).',
+    'colenso-pentateuch-vol2': 'OT Pentateuch — Colenso continued: the age & authorship of the Pentateuch (documentary sources, Elohist/Jehovist), plus census/army numbers, Exodus population, Levitical & tabernacle logistics, genealogies, and internal chronology.',
+    'colenso-pentateuch-vol3': 'OT Pentateuch/Joshua — Colenso continued: census & army figures, priestly/tabernacle arithmetic, genealogies, and chronology contradictions in Exodus-Joshua.',
+    'colenso-pentateuch-vol4': 'OT Pentateuch/Joshua — Colenso continued: census & army figures, priestly/tabernacle arithmetic, genealogies, and chronology contradictions in Exodus-Joshua.',
+    'colenso-pentateuch-vol5': 'OT Pentateuch/Joshua — Colenso continued: census & army figures, priestly/tabernacle arithmetic, genealogies, and chronology contradictions in Exodus-Joshua.',
 };
 
 const readJson = (p) => JSON.parse(fs.readFileSync(p, 'utf8'));
