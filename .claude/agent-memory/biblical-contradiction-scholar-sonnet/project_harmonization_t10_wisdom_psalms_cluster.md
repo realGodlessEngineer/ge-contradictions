@@ -1,11 +1,11 @@
 ---
 name: project_harmonization_t10_wisdom_psalms_cluster
-description: T10 hand-sourcing leg on ids 348/349/351/353/356/358/360/361/364/365/366/369 (Psalms/Proverbs/Ecclesiastes internal-wisdom-literature tensions) — mostly honest-absence against the standard PD well
+description: T10 hand-sourcing leg on ids 340/344/347/348/349/351/353/356/358/360/361/362/364/365/366/369 (Psalms/Proverbs/Ecclesiastes internal-wisdom-literature tensions, plus theodicy/divine-dwelling/moral-depravity outliers) — mostly honest-absence against the standard PD well
 metadata:
   type: project
 ---
 
-Worked ids 348, 349, 351, 353, 356, 358, 360, 361, 364, 365, 366, 369 for [[project_harmonization_t10_run]]
+Worked ids 340, 344, 347, 348, 349, 351, 353, 356, 358, 360, 361, 362, 364, 365, 366, 369 for [[project_harmonization_t10_run]]
 (see also [[project_harmonization_dossier_t10]]). All twelve share the same 18-source `well[]` list
 (strauss, paine, remsburg, cassels, renan x2, schweitzer, troki, ingersoll, colenso x5, spinoza
 x2, voltaire, wellhausen) — this is the **generic/default well set**, not curated per-topic, and
@@ -15,20 +15,58 @@ Ecclesiastes, "does God answer prayer," "is anyone justified," "should we rejoic
 enemies," "does the righteous prosper") as such — these are 19th-c. polemicists focused on
 Pentateuch/Gospel contradictions, not close readers of Wisdom-literature aphorism clashes.
 
-**Result: 6 of 12 honest-absence, 6 authored (ids 349, 361, 364, 366, 369, plus see below).**
+**Result: 11 of 16 honest-absence (340, 344, 347, 348, 351, 353, 356, 358, 360, 362, 365),
+5 authored (349, 361, 364, 366, 369) — see below for the full per-id detail.**
 
-- **id 349 (is the law of God perfect — Ps 19:7 vs Heb 8:7) — AUTHORED.** Troki's *Faith
-  Strengthened* ch. XIX (troki-faith-strengthened.txt, lines ~3544-3560) directly quotes Ps 19:7
-  ("the law of the Lord is perfect...") and argues from it that the law is eternal/unchangeable
-  and cannot be superseded — exactly the discrepancy's OT-affirms-perfection pole, aimed at
-  rebutting the NT covenant-obsolescence claim (Hebrews). Used the clause "These verses give
-  satisfactory evidence, that the divine law in its sublime perfection and simplicity is not to
-  be enlarged or curtailed, and much less to be abrogated and superseded." **Gotcha**: the
-  natural quote continuation ("...superseded by any other code.") crosses an OCR page-break
-  artifact (`"92 FAITH STRENGTHENED."` injected mid-sentence between "superseded" and "by any
-  other code") — stopped the quote at "superseded." to keep it a clean contiguous verbatim run
-  and avoid a Grep self-verify failure across the header line. Also watch for OCR misreads near
-  this same passage (e.g. "Avise" for "wise" a few lines up) — don't quote across those either.
+- **id 349 (is the law of God perfect — Ps 19:7 vs Heb 8:7) — AUTHORED (re-confirmed, quote
+  revised).** Troki's *Faith Strengthened* ch. XIX (troki-faith-strengthened.txt, lines
+  ~3544-3560) quotes Ps 19:7-9 and argues the law is eternal/unchangeable and cannot be
+  superseded — exactly the discrepancy's OT-affirms-perfection pole. **Final quote used**
+  (deliberately starts at v.8, not v.7): "the statutes of the Lord are just, rejoicing the
+  heart; the commandments of the Lord are pure, enlightening the eyes; the fear of the Lord is
+  clean, standing for ever; the judgments of the Lord are true and righteous altogether …
+  These verses give satisfactory evidence, that the divine law in its sublime perfection and
+  simplicity is not to be enlarged or curtailed, and much less to be abrogated and superseded."
+  attr cites "on Psalm 19:7-9". **Two gotchas, both avoided by dropping the v.7 clause
+  entirely rather than quoting it:** (1) the v.7 text itself is corrupted by a real OCR misread
+  — "The law\nof the Lord is perfect, restoring the soul; the testi-\nmony of the Lord is
+  faithful, making **Avise** the foolish ;" (line 3544-3546) — "Avise" is a garbled OCR read of
+  "wise", not an archaic spelling, and writing "wise" instead would NOT be a literal Grep hit
+  (self-verify would correctly fail); (2) the natural quote continuation after "superseded"
+  ("...by any other code.") crosses a page-break artifact (`"92 FAITH STRENGTHENED."` injected
+  mid-sentence) — stop at "superseded." to keep the run clean. Net lesson: when a corpus OCR
+  artifact sits inside the exact verse you want, prefer quoting an adjacent clean clause from
+  the same block (here vv.8-9, part of the critic's own "Ps. xix. 7-9" citation) over either
+  reproducing the garbled word or silently "fixing" it to a word that then fails self-verify.
+
+- **id 340 (do evildoers prosper — Job 12:6 vs Ps 34:21)** — honest-absence. Grepped
+  "prosper"/"wicked prosper"/"prosperity of the wicked"/"way of the wicked prosper" across the
+  whole 22-source well; also "Job xii"/"Job 12" and "Psalm xxxiv"/"slay the wicked" specifically.
+  Only unrelated hits (Job xiii:15 in Ingersoll, Job xiii:16 in Wellhausen re Lev 7:20/Matt
+  22:11-13, and a Wellhausen messianic "slay the wicked" line from Isa 11 imagery, not Ps 34:21).
+  No well critic engages the prosperity-of-the-wicked theodicy tension at all.
+
+- **id 344 (where does God dwell — Ps 9:11 vs Eccl 5:2)** — honest-absence. Troki (ch. on
+  messianic proof-texts, troki-faith-strengthened.txt line ~793) quotes Joel 3:17 ("dwelling in
+  Zion my holy mountain") verbatim, but only as one item in a long catalog of OT prophetic
+  self-designations building his anti-messianic-fulfillment argument — he never juxtaposes it
+  against heaven-dwelling language (Ps 123:1/Eccl 5:2), so quoting it here would misrepresent
+  him as pressing this specific tension. No hit anywhere in the well for "Ecclesiastes v"/"God is
+  in heaven, and thou upon earth"/"let thy words be few".
+
+- **id 347 (does anyone do good — John 5:29 vs Rom 3:12)** — honest-absence. Remsburg's *The
+  Christ* appendix has a heading (#550/551, line ~10762) juxtaposing "There is no man that
+  sinneth not" (1 Kings 8:46), "There is not a just man upon earth" (Eccl 7:20), and "There is
+  none righteous, no, not one" (Rom **3:10**, not the dossier's 3:12) — close but not the exact
+  verseRef, and it's about universal sinfulness generally, not the good-works-rewarded tension.
+  A separate Remsburg heading (#522, line ~10193) quotes John 5:28-29 verbatim but for a wholly
+  different point (bodily resurrection doctrine, not "who does good") — the two headings are NOT
+  juxtaposed by Remsburg, so combining them would misrepresent his argument. Spinoza
+  (spinoza-theologico-political-1.txt line 1567) and Troki (line 5366) both quote Eccl 7:20 "doeth
+  good and sinneth not" but each uses it for an unrelated point (excusing Balaam's/general sin via
+  repentance), not this contradiction. No well hit anywhere for "doeth good" tied to Rom 3:12
+  itself, or for "he that doeth good"/3 John 11 language. machineSkeptic (Ingersoll, *Heretics and
+  Heresies*) is not one of the well corpusFiles, so unusable regardless.
 
 - **id 348 (does God answer prayer — Ps 18:41 vs Prov 8:17)** — honest-absence. Voltaire's
   Philosophical Dictionary has a "PRAYERS" entry (own-words, verbatim-quotable) but it argues
@@ -65,6 +103,20 @@ Pentateuch/Gospel contradictions, not close readers of Wisdom-literature aphoris
   well source mentions Habakkuk at all except a bare TOC-table entry in Paine (dating table, no
   content engagement) and an unrelated Colenso mention. No hit for "wicked prosper"/"innocent
   suffer"/theodicy language tied to these specific verses.
+
+- **id 362 (should we believe everything — 1 Cor 13:7 "believeth all things" vs 1 John 4:1 "try
+  the spirits")** — honest-absence, same generic 18-source well (this one's an outlier topic in
+  the cluster: a Pauline credulity-vs-verification ethic tension, not strictly Psalms/Proverbs/
+  Ecclesiastes). Grepped "try the spirit(s)", "charity/love believeth/beareth/hopeth all things",
+  "1 Cor. xiii"/"corinthians xiii", "every spirit", "prove all things" — zero hits engaging either
+  verse. Near-misses checked and rejected: Cassels' front-matter epigraph "Credulity is as real...
+  a sin as unbelief" is Archbishop Trench's quote, not Cassels' own words (an epigraph, not
+  argument). Spinoza Pt I (~line 217-249, "faith has become a mere compound of credulity and
+  prejudices"/"credulity is extolled as faith") is his preface's general anti-clericalism, not
+  tied to either cited verse. Remsburg line 8034/9701 "Corinthians xiii, 4" is 2 Corinthians
+  13:4 (a crucifixion-language catalog entry), not 1 Corinthians 13:7 — false-positive on the
+  bare numeral grep. Ingersoll's *Some Mistakes of Moses* closing peroration ("credulity is not
+  a virtue," line 4312-4313) is a general summary line, not keyed to 1 Cor 13:7/1 John 4:1.
 
 - **id 361 (ransom for the righteous — Prov 21:18 vs Mark 10:45) — AUTHORED.** Strauss §113
   (strauss-life-of-jesus.txt line ~22624) directly cites **Prov. xxi. 18** alongside Isa. xliii.
