@@ -18,6 +18,21 @@ let reviewDb = null;
 // distinct from 'needs_changes', which is a reviewer's decision that edits are required.
 const REVIEW_STATUSES = ['pending', 'needs_review', 'approved', 'rejected', 'needs_changes'];
 
+// --- Harmonization authoring (editorial emptyNote) ----------------------------
+// The harmonization_* tables are BAKED from per-id dossier JSON by
+// .scripts/buildHarmonizationTables.js; the dossier is the source of truth. This
+// tool edits the discrepancy-pole editorial emptyNote (honest-absence rows only)
+// in the dossier, then the operator re-bakes. Writes go to the JSON, never a .db.
+const DOSSIER_DIR = path.join(__dirname, '..', 'data', 'harmonization', 'curation', 'dossier');
+const { BLOCKLIST_WORDS, DOSSIER_ATTR_HEAD_RE, reconcileFirstFor } = require('../.scripts/validateHarmonization');
+const escapeRe = (s) => s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+const BLOCKLIST_RES = BLOCKLIST_WORDS.map((w) => new RegExp(`\\b${escapeRe(w)}\\b`, 'i'));
+function blocklistHit(text) {
+    if (!text) return null;
+    for (let i = 0; i < BLOCKLIST_WORDS.length; i++) if (BLOCKLIST_RES[i].test(text)) return BLOCKLIST_WORDS[i];
+    return null;
+}
+
 // Middleware
 app.use(express.json());
 app.use(express.static(path.join(__dirname, 'public')));
@@ -634,6 +649,169 @@ app.put('/api/reviews/:id', (req, res) => {
         );
         saveReviewDatabase();
         res.json({ contradiction_id: id, status, note, reviewer, content_hash: hash, updated_at: now, stale: false });
+    } catch (error) {
+        res.status(500).json({ error: error.message });
+    }
+});
+
+// --- Harmonization authoring endpoints ---------------------------------------
+// Read base-DB context (question, verses, reconcile pole) + read/write the
+// dossier's discrepancy editorial emptyNote. These endpoints NEVER write
+// contradictions.db; the dossier JSON is the source of truth and the operator
+// re-bakes with `ALL=1 node .scripts/buildHarmonizationTables.js` afterward.
+
+function readDossier(id) {
+    const p = path.join(DOSSIER_DIR, `${id}.json`);
+    if (!fs.existsSync(p)) return null;
+    return JSON.parse(fs.readFileSync(p, 'utf8'));
+}
+function writeDossier(id, data) {
+    // No trailing newline — matches the workflow-authored dossiers, so an edit's
+    // git diff is only the field(s) that actually changed.
+    fs.writeFileSync(path.join(DOSSIER_DIR, `${id}.json`), JSON.stringify(data, null, 2));
+}
+function isHonestAbsence(dossier) {
+    const d = dossier && dossier.discrepancy;
+    return !!(d && d.emptyNote != null && (!Array.isArray(d.quotes) || d.quotes.length === 0));
+}
+// Baked discrepancy fields, to flag rows whose dossier edits still await a re-bake.
+function bakedDiscrepancy(id) {
+    const r = queryToObjects(db.exec(
+        'SELECT discrepancy_empty_note, discrepancy_empty_note_attr, discrepancy_half_line FROM harmonization_row WHERE contradiction_id = ?', [id]));
+    return r.length ? r[0] : null;
+}
+function isPendingBake(id, d, baked) {
+    const b = baked !== undefined ? baked : bakedDiscrepancy(id);
+    return !b
+        || (b.discrepancy_empty_note || null) !== (d.emptyNote || null)
+        || (b.discrepancy_half_line || null) !== (d.halfLine || null)
+        || (b.discrepancy_empty_note_attr || null) !== (d.emptyNoteAttr || null);
+}
+
+// The honest-absence worklist: every dossier whose discrepancy pole is an
+// emptyNote (no verbatim quote), joined to base-DB context. recommend_delete=1 skipped.
+app.get('/api/harmonization/queue', (req, res) => {
+    try {
+        const meta = {};
+        for (const c of queryToObjects(db.exec(
+            'SELECT c.id, c.question, c.notoriety_level, c.recommend_delete, l.name AS consensus ' +
+            'FROM contradictions c LEFT JOIN scholarly_consensus_levels l ON c.scholarly_consensus_id = l.id'))) {
+            meta[c.id] = c;
+        }
+        const files = fs.readdirSync(DOSSIER_DIR).filter((f) => /^\d+\.json$/.test(f));
+        const items = [];
+        let pending = 0;
+        for (const f of files) {
+            const id = Number(f.replace('.json', ''));
+            const m = meta[id];
+            if (!m || m.recommend_delete) continue;
+            let dossier;
+            try { dossier = JSON.parse(fs.readFileSync(path.join(DOSSIER_DIR, f), 'utf8')); } catch (e) { continue; }
+            if (!isHonestAbsence(dossier)) continue;
+            const d = dossier.discrepancy;
+            const pendingBake = isPendingBake(id, d);
+            if (pendingBake) pending++;
+            items.push({
+                id,
+                question: m.question,
+                consensus: m.consensus || null,
+                lean: reconcileFirstFor(m.consensus) ? 'reconcile' : 'discrepancy',
+                notoriety: m.notoriety_level,
+                emptyNote: d.emptyNote,
+                emptyNoteAttr: d.emptyNoteAttr || null,
+                halfLine: d.halfLine || null,
+                refs: ((dossier.versePair && dossier.versePair.sides) || []).map((s) => s.ref),
+                pendingBake,
+            });
+        }
+        items.sort((a, b) => a.id - b.id);
+        res.json({ total: items.length, pendingBake: pending, items });
+    } catch (error) {
+        res.status(500).json({ error: error.message });
+    }
+});
+
+// Full authoring context for one row.
+app.get('/api/harmonization/:id', (req, res) => {
+    try {
+        const id = Number(req.params.id);
+        const dossier = readDossier(id);
+        if (!dossier) return res.status(404).json({ error: `no dossier for id ${id}` });
+        const crow = queryToObjects(db.exec(
+            'SELECT c.id, c.question, c.question_url, c.notoriety_level, l.name AS consensus ' +
+            'FROM contradictions c LEFT JOIN scholarly_consensus_levels l ON c.scholarly_consensus_id = l.id WHERE c.id = ?', [id]));
+        if (!crow.length) return res.status(404).json({ error: 'contradiction not found' });
+        const c = crow[0];
+        // reconcile pole (baked) for context — what the discrepancy note must genuinely counter.
+        const reconcileQuotes = queryToObjects(db.exec(
+            "SELECT text, attr FROM harmonization_quote WHERE contradiction_id = ? AND pole = 'reconcile' ORDER BY ord", [id]));
+        const rnote = queryToObjects(db.exec('SELECT reconcile_note FROM harmonization_row WHERE contradiction_id = ?', [id]));
+        // raw skeptic claims for reference while authoring the mechanism.
+        const answers = queryToObjects(db.exec(
+            'SELECT answer, answer_explanation FROM answers WHERE contradiction_id = ? ORDER BY id', [id]));
+        const d = dossier.discrepancy || {};
+        res.json({
+            id,
+            question: c.question,
+            questionUrl: c.question_url,
+            consensus: c.consensus || null,
+            lean: reconcileFirstFor(c.consensus) ? 'reconcile' : 'discrepancy',
+            notoriety: c.notoriety_level,
+            honestAbsence: isHonestAbsence(dossier),
+            versePair: ((dossier.versePair && dossier.versePair.sides) || []).map((s) => ({ ref: s.ref, snippet: s.snippet })),
+            reconcileNote: rnote.length ? rnote[0].reconcile_note : null,
+            reconcileQuotes,
+            answers,
+            discrepancy: { emptyNote: d.emptyNote || null, emptyNoteAttr: d.emptyNoteAttr || null, halfLine: d.halfLine || null },
+            pendingBake: isPendingBake(id, d),
+        });
+    } catch (error) {
+        res.status(500).json({ error: error.message });
+    }
+});
+
+// Save the editorial emptyNote / attr / half-line to the dossier (honest-absence
+// rows only). Validates the editable fields; the full ALL=1 bake stays the final gate.
+app.put('/api/harmonization/:id', (req, res) => {
+    try {
+        const id = Number(req.params.id);
+        const dossier = readDossier(id);
+        if (!dossier) return res.status(404).json({ error: `no dossier for id ${id}` });
+        if (!dossier.discrepancy) dossier.discrepancy = { note: null, halfLine: null, emptyNote: null, emptyNoteAttr: null, quotes: [] };
+        if (Array.isArray(dossier.discrepancy.quotes) && dossier.discrepancy.quotes.length > 0) {
+            return res.status(409).json({ error: 'this row carries verbatim quotes — edit it through the sourcing pipeline, not the emptyNote tool' });
+        }
+        const body = req.body || {};
+        const emptyNote = (body.emptyNote == null ? '' : String(body.emptyNote)).trim();
+        const emptyNoteAttr = (body.emptyNoteAttr == null ? '' : String(body.emptyNoteAttr)).trim();
+        const halfLineRaw = (body.halfLine == null ? '' : String(body.halfLine)).trim();
+        const halfLine = halfLineRaw === '' ? null : halfLineRaw;
+
+        const errors = [];
+        const warnings = [];
+        // honest-absence pairing (hard): emptyNote and its attr must both be present.
+        if (!emptyNote) errors.push('emptyNote is required — it is the discrepancy-pole content for an honest-absence row.');
+        if (!emptyNoteAttr) errors.push('emptyNoteAttr is required — credit the cataloguer, e.g. "Editorial statement of the mechanism; catalogued by <critic>, <work> (<year>)."');
+        // half-line register (hard blocklist).
+        if (halfLine) {
+            const hit = blocklistHit(halfLine);
+            if (hit) errors.push(`half-line contains loaded language: "${hit}".`);
+        }
+        // soft advisories — do not block; the bake's validator is the final word.
+        if (emptyNote && !/\.$/.test(emptyNote)) warnings.push('emptyNote does not end with a period.');
+        if (emptyNote && emptyNote.length > 220) warnings.push(`emptyNote is long (${emptyNote.length} chars) — consider tightening toward one sentence.`);
+        if (emptyNoteAttr && !DOSSIER_ATTR_HEAD_RE.test(emptyNoteAttr) && !/\(\d{3,4}\)/.test(emptyNoteAttr)) {
+            warnings.push('emptyNoteAttr has no dated head/tail — consider "…, <Work> (<year>)." for provenance.');
+        }
+        if (errors.length) return res.status(400).json({ ok: false, errors, warnings });
+
+        dossier.discrepancy.note = null;          // present-iff-quotes: honest-absence rows keep note null
+        dossier.discrepancy.halfLine = halfLine;
+        dossier.discrepancy.emptyNote = emptyNote;
+        dossier.discrepancy.emptyNoteAttr = emptyNoteAttr;
+        if (!Array.isArray(dossier.discrepancy.quotes)) dossier.discrepancy.quotes = [];
+        writeDossier(id, dossier);
+        res.json({ ok: true, id, warnings, saved: { emptyNote, emptyNoteAttr, halfLine }, pendingBake: true });
     } catch (error) {
         res.status(500).json({ error: error.message });
     }

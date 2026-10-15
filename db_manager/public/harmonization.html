@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Harmonization — Editorial emptyNote authoring</title>
+    <link rel="stylesheet" href="styles.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,400;0,600;1,400&family=Source+Sans+3:wght@400;600&display=swap" rel="stylesheet">
+    <style>
+        main.harm { max-width: 1400px; padding: var(--space-lg); }
+        .harm-bake-banner {
+            background: var(--parchment-dark); border: 1px solid var(--border-color);
+            border-left: 4px solid var(--gold); border-radius: var(--border-radius);
+            padding: var(--space-sm) var(--space-md); margin-bottom: var(--space-md);
+            font-size: 0.9rem; display: flex; gap: var(--space-md); align-items: center; flex-wrap: wrap;
+        }
+        .harm-bake-banner code {
+            background: var(--ink); color: var(--parchment); padding: 2px 8px;
+            border-radius: 3px; font-size: 0.82rem; user-select: all;
+        }
+        .harm-grid { display: grid; grid-template-columns: 380px 1fr; gap: var(--space-lg); align-items: start; }
+        .harm-list-pane { position: sticky; top: var(--space-md); }
+        .harm-filters { display: flex; gap: var(--space-sm); flex-wrap: wrap; margin-bottom: var(--space-sm); }
+        .harm-filters select, .harm-filters input {
+            font-family: var(--font-sans); padding: 6px 8px; border: 1px solid var(--border-color);
+            border-radius: var(--border-radius); background: #fff; color: var(--ink);
+        }
+        .harm-filters input { flex: 1; min-width: 120px; }
+        .harm-count { font-size: 0.82rem; color: var(--ink-light); margin-bottom: var(--space-sm); }
+        .harm-list { max-height: calc(100vh - 220px); overflow-y: auto; border: 1px solid var(--border-color);
+            border-radius: var(--border-radius); background: #fff; }
+        .harm-row {
+            padding: 8px 10px; border-bottom: 1px solid var(--parchment-dark); cursor: pointer;
+            display: flex; gap: 8px; align-items: baseline;
+        }
+        .harm-row:hover { background: var(--parchment); }
+        .harm-row.active { background: var(--parchment-dark); box-shadow: inset 3px 0 0 var(--burgundy); }
+        .harm-row .rid { font-weight: 600; color: var(--burgundy); min-width: 34px; font-variant-numeric: tabular-nums; }
+        .harm-row .rq { font-size: 0.86rem; line-height: 1.35; color: var(--ink); overflow: hidden;
+            display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+        .dot { width: 8px; height: 8px; border-radius: 50%; flex: 0 0 auto; margin-top: 6px; background: transparent; }
+        .dot.pending { background: var(--gold); }
+        .editor-pane { border: 1px solid var(--border-color); border-radius: var(--border-radius);
+            background: #fff; padding: var(--space-lg); min-height: 300px; }
+        .editor-empty { color: var(--ink-light); font-style: italic; font-family: var(--font-serif); text-align: center; padding: var(--space-xxl); }
+        .ctx-q { font-family: var(--font-serif); font-size: 1.35rem; color: var(--ink); margin-bottom: 4px; }
+        .ctx-meta { font-size: 0.82rem; color: var(--ink-light); margin-bottom: var(--space-md); display: flex; gap: 12px; flex-wrap: wrap; }
+        .badge { display: inline-block; padding: 1px 8px; border-radius: 10px; font-size: 0.75rem; font-weight: 600; }
+        .badge.lean { background: var(--sage-light); color: #fff; }
+        .badge.pending { background: var(--gold); color: var(--ink); }
+        .verse { border-left: 3px solid var(--gold); padding: 4px 10px; margin: 6px 0; background: var(--parchment); font-size: 0.9rem; }
+        .verse .ref { font-weight: 600; color: var(--burgundy); }
+        .ctx-block { margin: var(--space-md) 0; }
+        .ctx-block h3 { font-family: var(--font-sans); font-size: 0.78rem; text-transform: uppercase; letter-spacing: 0.05em;
+            color: var(--sage); margin-bottom: 6px; border-bottom: 1px solid var(--parchment-dark); padding-bottom: 3px; }
+        .recon-quote { font-size: 0.86rem; margin: 6px 0; padding-left: 10px; border-left: 2px solid var(--sage-light); }
+        .recon-quote .attr { color: var(--ink-light); font-size: 0.78rem; display: block; margin-top: 2px; }
+        .skeptic { font-size: 0.85rem; color: var(--ink-light); margin: 4px 0; }
+        details.skeptic-wrap summary { cursor: pointer; font-size: 0.8rem; color: var(--sage); }
+        .field { margin: var(--space-md) 0; }
+        .field label { display: block; font-weight: 600; font-size: 0.85rem; margin-bottom: 4px; }
+        .field .hint { font-weight: 400; color: var(--ink-light); font-size: 0.78rem; }
+        .field textarea, .field input {
+            width: 100%; font-family: var(--font-sans); font-size: 0.95rem; padding: 8px 10px;
+            border: 1px solid var(--border-color); border-radius: var(--border-radius); background: #fff; color: var(--ink); resize: vertical;
+        }
+        .field textarea { line-height: 1.5; }
+        .charcount { font-size: 0.75rem; color: var(--ink-light); text-align: right; margin-top: 2px; }
+        .charcount.warn { color: var(--burgundy); font-weight: 600; }
+        .editor-actions { display: flex; gap: var(--space-md); align-items: center; margin-top: var(--space-md); }
+        .msg { padding: 8px 12px; border-radius: var(--border-radius); font-size: 0.85rem; margin-top: var(--space-sm); }
+        .msg.err { background: var(--error-bg); color: var(--error); border: 1px solid var(--error); }
+        .msg.ok { background: #e6efe6; color: var(--sage); border: 1px solid var(--sage-light); }
+        .msg.warn { background: #fbf3dd; color: #8a6d1a; border: 1px solid var(--gold-light); }
+        .msg ul { margin: 4px 0 0 18px; }
+        @media (max-width: 900px) { .harm-grid { grid-template-columns: 1fr; } .harm-list-pane { position: static; } }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Harmonization — Editorial Notes</h1>
+        <p class="subtitle">Hand-write the discrepancy-pole emptyNote for honest-absence rows — the dossier is the source of truth</p>
+    </header>
+
+    <main class="harm">
+        <div class="harm-bake-banner">
+            <span><strong id="pending-count">…</strong> row(s) edited since the last bake.</span>
+            <span>After editing, re-bake from the repo root:</span>
+            <code>DRY_RUN=1 ALL=1 node .scripts/buildHarmonizationTables.js</code>
+            <code>ALL=1 node .scripts/buildHarmonizationTables.js</code>
+            <a class="btn btn-secondary" href="index.html">← Editor</a>
+            <a class="btn btn-secondary" href="review.html">Review →</a>
+        </div>
+
+        <div class="harm-grid">
+            <div class="harm-list-pane">
+                <div class="harm-filters">
+                    <select id="filter-lean" onchange="applyFilter()">
+                        <option value="discrepancy">Discrepancy-leaning (the gaps)</option>
+                        <option value="reconcile">Reconcile-leaning (minority note)</option>
+                        <option value="all">Either lean</option>
+                    </select>
+                    <select id="filter-pending" onchange="applyFilter()">
+                        <option value="all">All rows</option>
+                        <option value="pending">Edited (pending bake)</option>
+                        <option value="clean">Not yet edited</option>
+                    </select>
+                    <select id="filter-notoriety" onchange="applyFilter()">
+                        <option value="all">Any notoriety</option>
+                        <option value="hi">Notoriety ≥ 4</option>
+                        <option value="mid">Notoriety 3</option>
+                        <option value="lo">Notoriety ≤ 2</option>
+                    </select>
+                    <input type="text" id="filter-search" placeholder="Search question / ref…" oninput="applyFilter()">
+                </div>
+                <div class="harm-count" id="list-count">Loading…</div>
+                <div class="harm-list" id="harm-list"></div>
+            </div>
+
+            <div class="editor-pane" id="editor">
+                <div class="editor-empty">Select a row on the left to author its editorial note.</div>
+            </div>
+        </div>
+    </main>
+
+    <script src="harmonization.js"></script>
+</body>
+</html>
